@@ -32,8 +32,8 @@
       <tuv lang="EN">
         <seg>Remove bidirectionality control characters in the current target</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170908T125345Z" creationid="PiaVee" creationdate="20170908T125345Z">
-        <seg>Poista kaksisuuntaisuuden  merkit nykyisestä kohteesta</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170908T130012Z" creationid="PiaVee" creationdate="20170908T125345Z">
+        <seg>Poista kaksisuuntaisen tekstin tuen merkit nykyisestä kohteesta</seg>
       </tuv>
     </tu>
     <tu>
@@ -56,8 +56,8 @@
       <tuv lang="EN">
         <seg>Strip BiDi Marks</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170908T125244Z" creationid="PiaVee" creationdate="20170908T125244Z">
-        <seg>Poista kaksu-merkit</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170908T125707Z" creationid="PiaVee" creationdate="20170908T125244Z">
+        <seg>Poista bidi-merkit</seg>
       </tuv>
     </tu>
     <tu>
