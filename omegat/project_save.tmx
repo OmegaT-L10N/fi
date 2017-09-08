@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please try again after you open a project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170908T125418Z" creationid="PiaVee" creationdate="20170908T125418Z">
+        <seg>Avaa projekti ja yritä sen jälkeen uudelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove bidirectionality control characters in the current target</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T125345Z" creationid="PiaVee" creationdate="20170908T125345Z">
@@ -50,6 +58,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T125244Z" creationid="PiaVee" creationdate="20170908T125244Z">
         <seg>Poista kaksu-merkit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip BiDi marks in current segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170908T125400Z" creationid="PiaVee" creationdate="20170908T125400Z">
+        <seg>Poista kaksu-merkit nykyisestä segmentistä</seg>
       </tuv>
     </tu>
     <tu>
