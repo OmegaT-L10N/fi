@@ -18,7 +18,7 @@
         <source_lang>EN</source_lang>
         <target_lang>FI</target_lang>
         <source_tok>org.omegat.tokenizer.LuceneEnglishTokenizer</source_tok>
-        <target_tok>org.omegat.tokenizer.LuceneRussianTokenizer</target_tok>
+        <target_tok>org.omegat.tokenizer.LuceneFinnishTokenizer</target_tok>
         <sentence_seg>true</sentence_seg>
         <support_default_translations>true</support_default_translations>
         <remove_tags>false</remove_tags>
