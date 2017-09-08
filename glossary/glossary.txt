@@ -1,0 +1,3 @@
+project path	projektipolku
+Launch	Käynnistä
+launch	käynnistää	Tyyliin: "Käynnistä ohjelma"
