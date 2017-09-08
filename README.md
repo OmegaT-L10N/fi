@@ -1,2 +1,1 @@
-# fi
-Finnish OmegaT Localisation
+# Finnish OmegaT Localisation
