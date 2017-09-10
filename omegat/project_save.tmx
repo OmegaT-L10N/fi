@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modified Segments:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T084248Z" creationid="PiaVee" creationdate="20170910T084248Z">
+        <seg>Muokatut segmentit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-breaking space</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124335Z" creationid="PiaVee" creationdate="20170908T124247Z">
@@ -66,6 +74,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T122659Z" creationid="PiaVee" creationdate="20170908T122659Z">
         <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT 3.5 - User's Guide</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T084353Z" creationid="PiaVee" creationdate="20170910T084253Z">
+        <seg>OmegaT 3.5 – Käyttöopas</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T084237Z" creationid="PiaVee" creationdate="20170910T084237Z">
+        <seg>Korvaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124508Z" creationid="PiaVee" creationdate="20170908T124309Z">
@@ -130,6 +154,30 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T083324Z" creationid="PiaVee" creationdate="20170910T083324Z">
         <seg>SVN:n siistiminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T084233Z" creationid="PiaVee" creationdate="20170910T084233Z">
+        <seg>Etsi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search and Replace</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T084240Z" creationid="PiaVee" creationdate="20170910T084240Z">
+        <seg>Etsi ja korvaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Simple search and replace script</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T084223Z" creationid="PiaVee" creationdate="20170910T084223Z">
+        <seg>Yksinkertainen etsi ja korvaa -komentosarja</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T084447Z" creationid="PiaVee" creationdate="20170910T084447Z">
+        <seg>Tämä tiedosto on virallinen OmegaT-käyttöopas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T122817Z" creationid="PiaVee" creationdate="20170908T122817Z">
@@ -210,6 +266,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T125029Z" creationid="PiaVee" creationdate="20170908T124927Z">
         <seg>Voit palata &lt;a0&gt;kotisivulle&lt;/a0&gt;, toivottavasti löydät tarvitsemasi tiedon sieltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T084258Z" creationid="PiaVee" creationdate="20170910T084258Z">
+        <seg>fi</seg>
       </tuv>
     </tu>
     <tu>
