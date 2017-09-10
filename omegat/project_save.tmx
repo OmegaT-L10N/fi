@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T083640Z" creationid="PiaVee" creationdate="20170910T083640Z">
+        <seg>Siistii joko nykyisen projektin tai minkä tahansa paikallisen SVN-pakettivaraston versiot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please try again after you open a project.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T125418Z" creationid="PiaVee" creationdate="20170908T125418Z">
@@ -74,6 +82,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124508Z" creationid="PiaVee" creationdate="20170908T124309Z">
         <seg>Kun kirjoitat ranskaa, korvaa sopivissa kohdissa välilyönnit sitovilla välilyönneillä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN - Cleanup</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T083324Z" creationid="PiaVee" creationdate="20170910T083324Z">
+        <seg>SVN:n siistiminen</seg>
       </tuv>
     </tu>
     <tu>
