@@ -6,3 +6,4 @@ operating system	käyttöjärjestelmä
 SVN	versionhallinta	eng. "subversion"
 cleanup	siistiminen
 repository	pakettivarasto
+script	komentosarja
