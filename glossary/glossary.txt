@@ -2,3 +2,4 @@ project path	projektipolku
 Launch	Käynnistä
 launch	käynnistää	Tyyliin: "Käynnistä ohjelma"
 BiDi	kaksu	Lyhennelmä sanasta "kaksisuuntainen" :-)
+operating system	käyttöjärjestelmä
