@@ -24,8 +24,8 @@
       <tuv lang="EN">
         <seg>"Unable to load Java Runtime Environment.";</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170910T090011Z" creationid="PiaVee" creationdate="20170910T090011Z">
-        <seg>"Java Runtime Environment -lataus ei onnistu";</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T090922Z" creationid="PiaVee" creationdate="20170910T090011Z">
+        <seg>"Java Runtime Environmentiä ei voi ladata";</seg>
       </tuv>
     </tu>
     <tu>
