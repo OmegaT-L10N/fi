@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091251Z" creationid="PiaVee" creationdate="20170910T091251Z">
+        <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Main class name is required.";</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T091230Z" creationid="PiaVee" creationdate="20170910T091214Z">
@@ -16,32 +24,40 @@
       <tuv lang="EN">
         <seg>"This application requires that Java %d or later be installed on your computer.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170910T090252Z" creationid="PiaVee" creationdate="20170910T090252Z">
-        <seg>"Tämä sovellus vaatii, että koneelle on asennettu Java %d tai uudempi.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091318Z" creationid="PiaVee" creationdate="20170910T090252Z">
+        <seg>"This application requires that Java %d or later be installed on your computer.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>"This application requires that a Java %d JDK or later be installed on your computer.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170910T090324Z" creationid="PiaVee" creationdate="20170910T090324Z">
-        <seg>"Tämä sovellus vaatii, että koneelle on asennettu Java %d tai uudempi.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091308Z" creationid="PiaVee" creationdate="20170910T090324Z">
+        <seg>"This application requires that a Java %d JDK or later be installed on your computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Unable to enumerate Java directory contents.";</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091238Z" creationid="PiaVee" creationdate="20170910T091238Z">
+        <seg>"Unable to enumerate Java directory contents.";</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>"Unable to load Java Runtime Environment.";</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170910T090922Z" creationid="PiaVee" creationdate="20170910T090011Z">
-        <seg>"Java Runtime Environmentiä ei voi ladata";</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091331Z" creationid="PiaVee" creationdate="20170910T090011Z">
+        <seg>"Unable to load Java Runtime Environment.";</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>"Unable to load a Java %d Runtime Environment.";</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091058Z" creationid="PiaVee" creationdate="20170910T090022Z">
-        <seg>"Java %d Runtime Environmentiä ei voi ladata";</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091325Z" creationid="PiaVee" creationdate="20170910T090022Z">
+        <seg>"Unable to load a Java %d Runtime Environment.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -90,6 +106,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T084514Z" creationid="PiaVee" creationdate="20170910T084514Z">
         <seg>Siihen sisältyvät myös ohjelman asennusohjeet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep up your good work!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091417Z" creationid="PiaVee" creationdate="20170910T091354Z">
+        <seg>Jatkakaa hyvää työtänne!</seg>
       </tuv>
     </tu>
     <tu>
@@ -160,16 +184,16 @@
       <tuv lang="EN">
         <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170910T090343Z" creationid="PiaVee" creationdate="20170910T090343Z">
-        <seg>Lataa ja asenna uusin Java JDK osoitteesta Oracle.com ja yritä uudelleen.";</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091300Z" creationid="PiaVee" creationdate="20170910T090343Z">
+        <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170910T090316Z" creationid="PiaVee" creationdate="20170910T090316Z">
-        <seg>Lataa ja asenna uusin Java-versio osoitteesta www.java.com ja yritä uudelleen.";</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091313Z" creationid="PiaVee" creationdate="20170910T090316Z">
+        <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -339,6 +363,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T084258Z" creationid="PiaVee" creationdate="20170910T084258Z">
         <seg>fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/documentation/</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091405Z" creationid="PiaVee" creationdate="20170910T091405Z">
+        <seg>https://sourceforge.net/p/omegat/documentation/</seg>
       </tuv>
     </tu>
     <tu>
