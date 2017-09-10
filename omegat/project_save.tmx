@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>"Main class name is required.";</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091230Z" creationid="PiaVee" creationdate="20170910T091214Z">
+        <seg>"Main class name is required.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"This application requires that Java %d or later be installed on your computer.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T090252Z" creationid="PiaVee" creationdate="20170910T090252Z">
@@ -32,8 +40,8 @@
       <tuv lang="EN">
         <seg>"Unable to load a Java %d Runtime Environment.";</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170910T090022Z" creationid="PiaVee" creationdate="20170910T090022Z">
-        <seg>"Java %d Runtime Environment -lataus ei onnistu";</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091058Z" creationid="PiaVee" creationdate="20170910T090022Z">
+        <seg>"Java %d Runtime Environmentiä ei voi ladata";</seg>
       </tuv>
     </tu>
     <tu>
