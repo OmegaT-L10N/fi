@@ -8,8 +8,8 @@
       <tuv lang="EN">
         <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170910T082715Z" creationid="PiaVee" creationdate="20170910T082715Z">
-        <seg>Jos haluat käyttää OmegaT:tä samalla kielellä kuin ohjelman asentamisen aikana, laita rasti alla olevaan ruutuun.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T083120Z" creationid="PiaVee" creationdate="20170910T082715Z">
+        <seg>Jos haluat käyttää OmegaT:tä samalla kielellä kuin ohjelman asennuksen yhteydessä, laita rasti alla olevaan ruutuun.</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,6 +122,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T122817Z" creationid="PiaVee" creationdate="20170908T122817Z">
         <seg>Avaaminen: java -jar OmegaT.jar [&lt;valinnat&gt;] [&lt;projektipolku&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the installation language in OmegaT</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T082822Z" creationid="PiaVee" creationdate="20170910T082822Z">
+        <seg>Käytä OmegaT-asennuksen kieltä</seg>
       </tuv>
     </tu>
     <tu>
