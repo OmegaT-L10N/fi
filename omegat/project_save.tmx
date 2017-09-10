@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>"Unable to load Java Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T090011Z" creationid="PiaVee" creationdate="20170910T090011Z">
+        <seg>"Java Runtime Environment -lataus ei onnistu";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Unable to load a Java %d Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T090022Z" creationid="PiaVee" creationdate="20170910T090022Z">
+        <seg>"Java %d Runtime Environment -lataus ei onnistu";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Canceled</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T083908Z" creationid="PiaVee" creationdate="20170910T083908Z">
