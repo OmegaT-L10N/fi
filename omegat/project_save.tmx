@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It also contains installation instructions.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T084514Z" creationid="PiaVee" creationdate="20170910T084514Z">
+        <seg>Siihen sisältyvät myös ohjelman asennusohjeet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modified Segments:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T084248Z" creationid="PiaVee" creationdate="20170910T084248Z">
@@ -221,6 +229,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>VIRALLINEN KÄYTTÖOPAS?!??!?! Voiko tätä sanoa yksinkertaisemmin? Ja miten tätä lausetta jatketaan niin, että OmegaT tulee selvitettyä?</note>
       <tuv lang="EN">
         <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
       </tuv>
