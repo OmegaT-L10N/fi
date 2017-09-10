@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T082715Z" creationid="PiaVee" creationdate="20170910T082715Z">
+        <seg>Jos haluat käyttää OmegaT:tä samalla kielellä kuin ohjelman asentamisen aikana, laita rasti alla olevaan ruutuun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-breaking space</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124335Z" creationid="PiaVee" creationdate="20170908T124247Z">
@@ -22,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT User Interface Language</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T082429Z" creationid="PiaVee" creationdate="20170910T082429Z">
+        <seg>OmegaT-käyttöliittymän kieli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please try again after you open a project.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T125418Z" creationid="PiaVee" creationdate="20170908T125418Z">
@@ -34,6 +50,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T130344Z" creationid="PiaVee" creationdate="20170908T125345Z">
         <seg>Poista kaksisuuntaisen tekstin kontrollimerkit nykyisestä kohteesta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove tags in the current target</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T082302Z" creationid="PiaVee" creationdate="20170910T082245Z">
+        <seg>Poista tägit nykyisestä kohteesta</seg>
       </tuv>
     </tu>
     <tu>
@@ -56,8 +80,8 @@
       <tuv lang="EN">
         <seg>Strip BiDi Marks</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170908T125707Z" creationid="PiaVee" creationdate="20170908T125244Z">
-        <seg>Poista bidi-merkit</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T082344Z" creationid="PiaVee" creationdate="20170908T125244Z">
+        <seg>Bidi-merkkien poisto</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,10 +94,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Strip Tags</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T082336Z" creationid="PiaVee" creationdate="20170910T082256Z">
+        <seg>Tägien poisto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip tags in current segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T082310Z" creationid="PiaVee" creationdate="20170910T082245Z">
+        <seg>Poista tägit nykyisestä segmentistä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T122817Z" creationid="PiaVee" creationdate="20170908T122817Z">
         <seg>Avaaminen: java -jar OmegaT.jar [&lt;valinnat&gt;] [&lt;projektipolku&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User interface language for OmegaT</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T082445Z" creationid="PiaVee" creationdate="20170910T082445Z">
+        <seg>OmegaT-käyttöliittymän kieli</seg>
       </tuv>
     </tu>
     <tu>
