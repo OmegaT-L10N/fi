@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>"This application requires that Java %d or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T090252Z" creationid="PiaVee" creationdate="20170910T090252Z">
+        <seg>"Tämä sovellus vaatii, että koneelle on asennettu Java %d tai uudempi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"This application requires that a Java %d JDK or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T090324Z" creationid="PiaVee" creationdate="20170910T090324Z">
+        <seg>"Tämä sovellus vaatii, että koneelle on asennettu Java %d tai uudempi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Unable to load Java Runtime Environment.";</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T090011Z" creationid="PiaVee" creationdate="20170910T090011Z">
@@ -130,6 +146,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T083640Z" creationid="PiaVee" creationdate="20170910T083640Z">
         <seg>Siistii joko nykyisen projektin tai minkä tahansa paikallisen SVN-pakettivaraston versiot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T090316Z" creationid="PiaVee" creationdate="20170910T090316Z">
+        <seg>Lataa ja asenna uusin Java-versio osoitteesta www.java.com ja yritä uudelleen.";</seg>
       </tuv>
     </tu>
     <tu>
