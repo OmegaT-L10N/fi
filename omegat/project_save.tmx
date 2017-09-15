@@ -6,6 +6,126 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091251Z" creationid="PiaVee" creationdate="20170910T091251Z">
+        <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Main class name is required.";</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091230Z" creationid="PiaVee" creationdate="20170910T091214Z">
+        <seg>"Main class name is required.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"This application requires that Java %d or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091318Z" creationid="PiaVee" creationdate="20170910T090252Z">
+        <seg>"This application requires that Java %d or later be installed on your computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"This application requires that a Java %d JDK or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091308Z" creationid="PiaVee" creationdate="20170910T090324Z">
+        <seg>"This application requires that a Java %d JDK or later be installed on your computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Unable to enumerate Java directory contents.";</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091238Z" creationid="PiaVee" creationdate="20170910T091238Z">
+        <seg>"Unable to enumerate Java directory contents.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Unable to load Java Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091331Z" creationid="PiaVee" creationdate="20170910T090011Z">
+        <seg>"Unable to load Java Runtime Environment.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Unable to load a Java %d Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091325Z" creationid="PiaVee" creationdate="20170910T090022Z">
+        <seg>"Unable to load a Java %d Runtime Environment.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Canceled</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T083908Z" creationid="PiaVee" creationdate="20170910T083908Z">
+        <seg>Peruutettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose SVN repository to perform cleanup</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T083903Z" creationid="PiaVee" creationdate="20170910T083806Z">
+        <seg>Valitse siistittävä SVN-pakettivarasto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cleanup done!!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T083920Z" creationid="PiaVee" creationdate="20170910T083920Z">
+        <seg>Siistitty!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example - Search and Replace</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T084123Z" creationid="PiaVee" creationdate="20170910T084123Z">
+        <seg>Esimerkki – Etsi ja korvaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T083120Z" creationid="PiaVee" creationdate="20170910T082715Z">
+        <seg>Jos haluat käyttää OmegaT:tä samalla kielellä kuin ohjelman asennuksen yhteydessä, laita rasti alla olevaan ruutuun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It also contains installation instructions.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T084514Z" creationid="PiaVee" creationdate="20170910T084514Z">
+        <seg>Siihen sisältyvät myös ohjelman asennusohjeet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep up your good work!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091417Z" creationid="PiaVee" creationdate="20170910T091354Z">
+        <seg>Jatkakaa hyvää työtänne!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modified Segments:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T084248Z" creationid="PiaVee" creationdate="20170910T084248Z">
+        <seg>Muokatut segmentit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-breaking space</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124335Z" creationid="PiaVee" creationdate="20170908T124247Z">
@@ -14,10 +134,66 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not a local repository</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T083949Z" creationid="PiaVee" creationdate="20170910T083949Z">
+        <seg>Tämä ei ole paikallinen pakettivarasto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T122659Z" creationid="PiaVee" creationdate="20170908T122659Z">
         <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT 3.5 - User's Guide</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T084353Z" creationid="PiaVee" creationdate="20170910T084253Z">
+        <seg>OmegaT 3.5 – Käyttöopas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT User Interface Language</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T082429Z" creationid="PiaVee" creationdate="20170910T082429Z">
+        <seg>OmegaT-käyttöliittymän kieli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise, OmegaT will use the language of the operating system.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T082758Z" creationid="PiaVee" creationdate="20170910T082758Z">
+        <seg>Muussa tapauksessa OmegaT käyttää käyttöjärjestelmän kieltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T083640Z" creationid="PiaVee" creationdate="20170910T083640Z">
+        <seg>Siistii joko nykyisen projektin tai minkä tahansa paikallisen SVN-pakettivaraston versiot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091300Z" creationid="PiaVee" creationdate="20170910T090343Z">
+        <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091313Z" creationid="PiaVee" creationdate="20170910T090316Z">
+        <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,10 +214,58 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove tags in the current target</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T082302Z" creationid="PiaVee" creationdate="20170910T082245Z">
+        <seg>Poista tägit nykyisestä kohteesta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T084237Z" creationid="PiaVee" creationdate="20170910T084237Z">
+        <seg>Korvaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124508Z" creationid="PiaVee" creationdate="20170908T124309Z">
         <seg>Kun kirjoitat ranskaa, korvaa sopivissa kohdissa välilyönnit sitovilla välilyönneillä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN - Cleanup</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T083324Z" creationid="PiaVee" creationdate="20170910T083324Z">
+        <seg>SVN:n siistiminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T084233Z" creationid="PiaVee" creationdate="20170910T084233Z">
+        <seg>Etsi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search and Replace</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T084240Z" creationid="PiaVee" creationdate="20170910T084240Z">
+        <seg>Etsi ja korvaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Simple search and replace script</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T084223Z" creationid="PiaVee" creationdate="20170910T084223Z">
+        <seg>Yksinkertainen etsi ja korvaa -komentosarja</seg>
       </tuv>
     </tu>
     <tu>
@@ -56,8 +280,8 @@
       <tuv lang="EN">
         <seg>Strip BiDi Marks</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170908T125707Z" creationid="PiaVee" creationdate="20170908T125244Z">
-        <seg>Poista bidi-merkit</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T082344Z" creationid="PiaVee" creationdate="20170908T125244Z">
+        <seg>Bidi-merkkien poisto</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,10 +294,51 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Strip Tags</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T082336Z" creationid="PiaVee" creationdate="20170910T082256Z">
+        <seg>Tägien poisto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip tags in current segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T082310Z" creationid="PiaVee" creationdate="20170910T082245Z">
+        <seg>Poista tägit nykyisestä segmentistä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>VIRALLINEN KÄYTTÖOPAS?!??!?! Voiko tätä sanoa yksinkertaisemmin? Ja miten tätä lausetta jatketaan niin, että OmegaT tulee selvitettyä?</note>
+      <tuv lang="EN">
+        <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T084447Z" creationid="PiaVee" creationdate="20170910T084447Z">
+        <seg>Tämä tiedosto on virallinen OmegaT-käyttöopas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T122817Z" creationid="PiaVee" creationdate="20170908T122817Z">
         <seg>Avaaminen: java -jar OmegaT.jar [&lt;valinnat&gt;] [&lt;projektipolku&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the installation language in OmegaT</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T082822Z" creationid="PiaVee" creationdate="20170910T082822Z">
+        <seg>Käytä OmegaT-asennuksen kieltä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User interface language for OmegaT</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T082445Z" creationid="PiaVee" creationdate="20170910T082445Z">
+        <seg>OmegaT-käyttöliittymän kieli</seg>
       </tuv>
     </tu>
     <tu>
@@ -90,6 +355,22 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T125029Z" creationid="PiaVee" creationdate="20170908T124927Z">
         <seg>Voit palata &lt;a0&gt;kotisivulle&lt;/a0&gt;, toivottavasti löydät tarvitsemasi tiedon sieltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T084258Z" creationid="PiaVee" creationdate="20170910T084258Z">
+        <seg>fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/documentation/</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170910T091405Z" creationid="PiaVee" creationdate="20170910T091405Z">
+        <seg>https://sourceforge.net/p/omegat/documentation/</seg>
       </tuv>
     </tu>
     <tu>
