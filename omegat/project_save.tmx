@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Last but not least: my thanks to all the contributors to&lt;u0&gt; OmegaT documentation tracker&lt;/u0&gt; for all the inconsistencies found in the previous versions of the documentation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T080923Z" creationid="PiaVee" creationdate="20170930T080923Z">
+        <seg>Lopuksi vielä kiitokset kaikille &lt;u0&gt;OmegaT documentation tracker&lt;/u0&gt;iin osallistuville kaikista epäjohdonmukaisuuksista, joita he ovat löytäneet dokumentaation aiemmista versioista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Local working copies cleaned up: {0}</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T060702Z" creationid="PiaVee" creationdate="20170930T060702Z">
