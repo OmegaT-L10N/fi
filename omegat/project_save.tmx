@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local working copies cleaned up: {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T060702Z" creationid="PiaVee" creationdate="20170930T060702Z">
+        <seg>Siistittyjä paikallisia työkopioita: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modified Segments:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T084248Z" creationid="PiaVee" creationdate="20170910T084248Z">
@@ -343,6 +351,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This script is intended to run in OmegaT 3.6 and newer.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T060918Z" creationid="PiaVee" creationdate="20170930T060918Z">
+        <seg>Komentosarja on tarkoitettu käytettäväksi OmegaT 3.6:ssa ja tätä uudemmissa versioissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T122817Z" creationid="PiaVee" creationdate="20170908T122817Z">
@@ -371,6 +387,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124921Z" creationid="PiaVee" creationdate="20170908T124921Z">
         <seg>Etsimääsi sivua ei löytynyt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are running OmegaT version {0}.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T060722Z" creationid="PiaVee" creationdate="20170930T060722Z">
+        <seg>Käytössäsi on OmegaT:n versio {0}.</seg>
       </tuv>
     </tu>
     <tu>
