@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Didier Briel: I could not do without Didier's patient and persistent help with DocBook intricacies.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T064511Z" creationid="PiaVee" creationdate="20170930T064402Z">
+        <seg>Didier Briel – kärsivällisyydestä ja avusta DocBook-kommervenkkien kanssa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Example - Search and Replace</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T084123Z" creationid="PiaVee" creationdate="20170910T084123Z">
@@ -104,8 +112,8 @@
       <tuv lang="EN">
         <seg>Explicit thanks to:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170930T063735Z" creationid="PiaVee" creationdate="20170930T063645Z">
-        <seg>Haluan erityisesti kiittää seuraavia henkilöitä:</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T064538Z" creationid="PiaVee" creationdate="20170930T063645Z">
+        <seg>Haluan erityisesti kiittää:</seg>
       </tuv>
     </tu>
     <tu>
