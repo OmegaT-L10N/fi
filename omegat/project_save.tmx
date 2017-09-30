@@ -104,8 +104,8 @@
       <tuv lang="EN">
         <seg>Explicit thanks to:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170930T063645Z" creationid="PiaVee" creationdate="20170930T063645Z">
-        <seg>Erityiskiitos seuraaville:</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T063735Z" creationid="PiaVee" creationdate="20170930T063645Z">
+        <seg>Haluan erityisesti kiittää seuraavia henkilöitä:</seg>
       </tuv>
     </tu>
     <tu>
@@ -138,6 +138,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T060702Z" creationid="PiaVee" creationdate="20170930T060702Z">
         <seg>Siistittyjä paikallisia työkopioita: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marc Prior: correcting my first draft was an act of love for OmegaT and the English language.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T064303Z" creationid="PiaVee" creationdate="20170930T063656Z">
+        <seg>Marc Prior – ensimmäisen luonnokseni korjaaminen oli rakkaudenosoitus OmegaT:tä ja englannin kieltä kohtaan</seg>
       </tuv>
     </tu>
     <tu>
@@ -377,8 +385,8 @@
       <tuv lang="EN">
         <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170930T063430Z" creationid="PiaVee" creationdate="20170930T063430Z">
-        <seg>Tämä käyttöohjekirja ei kuitenkaan olisi olemassa ilman monen ihmisen apua.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T063704Z" creationid="PiaVee" creationdate="20170930T063430Z">
+        <seg>Tätä käyttöohjekirjaa ei kuitenkaan olisi olemassa ilman monen ihmisen apua.</seg>
       </tuv>
     </tu>
     <tu>
