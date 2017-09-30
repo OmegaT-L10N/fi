@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thank you all!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T063056Z" creationid="PiaVee" creationdate="20170930T063056Z">
+        <seg>Kiitos teille kaikille!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The script will quit now.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T060643Z" creationid="PiaVee" creationdate="20170930T060643Z">
@@ -355,6 +363,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T061617Z" creationid="PiaVee" creationdate="20170910T084447Z">
         <seg>OmegaT on vapaa työkalu tietokoneavusteista kääntämistä varten. Tämä tiedosto on virallinen OmegaT-käyttöopas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T063430Z" creationid="PiaVee" creationdate="20170930T063430Z">
+        <seg>Tämä käyttöohjekirja ei kuitenkaan olisi olemassa ilman monen ihmisen apua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -403,6 +419,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124921Z" creationid="PiaVee" creationdate="20170908T124921Z">
         <seg>Etsimääsi sivua ei löytynyt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whatever the inconsistencies, omissions and straightforward errors you may find in the present version, I declare them all my own.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T063231Z" creationid="PiaVee" creationdate="20170930T063231Z">
+        <seg>Kaikki epäjohdonmukaisuudet, puutteet ja suoranaiset virheet, joita tästä versiosta voi löytyä, ovat omaa tuotostani.</seg>
       </tuv>
     </tu>
     <tu>
