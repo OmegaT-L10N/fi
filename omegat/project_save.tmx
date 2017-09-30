@@ -96,8 +96,8 @@
       <tuv lang="EN">
         <seg>Didier Briel: I could not do without Didier's patient and persistent help with DocBook intricacies.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170930T064511Z" creationid="PiaVee" creationdate="20170930T064402Z">
-        <seg>Didier Briel – kärsivällisyydestä ja avusta DocBook-kommervenkkien kanssa.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T064835Z" creationid="PiaVee" creationdate="20170930T064402Z">
+        <seg>Didier Brieliä kaikesta kärsivällisyydestä ja avusta DocBook-koukeroiden kanssa</seg>
       </tuv>
     </tu>
     <tu>
@@ -152,8 +152,8 @@
       <tuv lang="EN">
         <seg>Marc Prior: correcting my first draft was an act of love for OmegaT and the English language.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170930T064303Z" creationid="PiaVee" creationdate="20170930T063656Z">
-        <seg>Marc Prior – ensimmäisen luonnokseni korjaaminen oli rakkaudenosoitus OmegaT:tä ja englannin kieltä kohtaan</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T064609Z" creationid="PiaVee" creationdate="20170930T063656Z">
+        <seg>Marc Prioria ensimmäisen luonnokseni korjaamisesta, joka oli todellinen rakkaudenosoitus OmegaT:tä ja englannin kieltä kohtaan</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,6 +178,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T083949Z" creationid="PiaVee" creationdate="20170910T083949Z">
         <seg>Tämä ei ole paikallinen pakettivarasto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not to mention his care and diligence, keeping repositories intact and in good order.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T064856Z" creationid="PiaVee" creationdate="20170930T064833Z">
+        <seg>sekä siitä huolellisuudesta, jolla hän piti pakettivarastot hyvässä järjestyksessä.</seg>
       </tuv>
     </tu>
     <tu>
