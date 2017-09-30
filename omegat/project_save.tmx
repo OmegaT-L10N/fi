@@ -112,8 +112,8 @@
       <tuv lang="EN">
         <seg>Explicit thanks to:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170930T064538Z" creationid="PiaVee" creationdate="20170930T063645Z">
-        <seg>Haluan erityisesti kiittää:</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T080346Z" creationid="PiaVee" creationdate="20170930T063645Z">
+        <seg>Haluan erityisesti kiittää</seg>
       </tuv>
     </tu>
     <tu>
@@ -136,8 +136,8 @@
       <tuv lang="EN">
         <seg>Jean-Christophe Helary: special thanks to JC for his concise description of OmegaT run, command line parameters and all other details, I have yet to notice.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170930T080331Z" creationid="PiaVee" creationdate="20170930T080331Z">
-        <seg>Jean-Christophe Helarytä johdonmukaisesti ja kaikista muista yksityiskohdista </seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T080551Z" creationid="PiaVee" creationdate="20170930T080331Z">
+        <seg>Jean-Christophe Helarytä OmegaT-ajon johdonmukaisesta kuvauksesta, komentolinjaparametreistä sekä kaikista muista yksityiskohdista, joita en ole vielä huomannut.</seg>
       </tuv>
     </tu>
     <tu>
