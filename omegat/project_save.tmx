@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SVN - Cleanup (recursive)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T060325Z" creationid="PiaVee" creationdate="20170930T060325Z">
+        <seg>SVN:n siistiminen (rekursiivinen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T084233Z" creationid="PiaVee" creationdate="20170910T084233Z">
