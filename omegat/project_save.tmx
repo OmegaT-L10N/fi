@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Explicit thanks to:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T063645Z" creationid="PiaVee" creationdate="20170930T063645Z">
+        <seg>Erityiskiitos seuraaville:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T061112Z" creationid="PiaVee" creationdate="20170910T082715Z">
