@@ -317,6 +317,22 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>The script will quit now.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T060643Z" creationid="PiaVee" creationdate="20170930T060643Z">
+        <seg>Komentosarja päättyy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are no local working copies in {0}.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T060407Z" creationid="PiaVee" creationdate="20170930T060407Z">
+        <seg>{0} ei sisällä paikallisia työkopioita.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>VIRALLINEN KÄYTTÖOPAS?!??!?! Voiko tätä sanoa yksinkertaisemmin? Ja miten tätä lausetta jatketaan niin, että OmegaT tulee selvitettyä?</note>
       <tuv lang="EN">
         <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
@@ -383,6 +399,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0} is not a local working copy, skipping.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T060349Z" creationid="PiaVee" creationdate="20170930T060349Z">
+        <seg>{0} ei ole paikallinen työkopio, ohitetaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} {1}</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T122706Z" creationid="PiaVee" creationdate="20170908T122706Z">
@@ -403,6 +427,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T122704Z" creationid="PiaVee" creationdate="20170908T122704Z">
         <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}:	cleanup done!!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T060336Z" creationid="PiaVee" creationdate="20170930T060336Z">
+        <seg>{0}: Siistitty!!</seg>
       </tuv>
     </tu>
     <tu>
