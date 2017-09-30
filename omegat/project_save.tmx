@@ -96,8 +96,8 @@
       <tuv lang="EN">
         <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170910T083120Z" creationid="PiaVee" creationdate="20170910T082715Z">
-        <seg>Jos haluat käyttää OmegaT:tä samalla kielellä kuin ohjelman asennuksen yhteydessä, laita rasti alla olevaan ruutuun.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T061112Z" creationid="PiaVee" creationdate="20170910T082715Z">
+        <seg>Laita rasti alla olevaan ruutuun, jos haluat käyttää OmegaT:tä samalla kielellä, jota käytettiin ohjelman asennuksen aikana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -345,8 +345,8 @@
       <tuv lang="EN">
         <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170910T084447Z" creationid="PiaVee" creationdate="20170910T084447Z">
-        <seg>Tämä tiedosto on virallinen OmegaT-käyttöopas</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T061617Z" creationid="PiaVee" creationdate="20170910T084447Z">
+        <seg>OmegaT on vapaa työkalu tietokoneavusteista kääntämistä varten. Tämä tiedosto on virallinen OmegaT-käyttöopas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -379,6 +379,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T082445Z" creationid="PiaVee" creationdate="20170910T082445Z">
         <seg>OmegaT-käyttöliittymän kieli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vito Smolej</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T061147Z" creationid="PiaVee" creationdate="20170930T061147Z">
+        <seg>Vito Smolej</seg>
       </tuv>
     </tu>
     <tu>
@@ -419,6 +427,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T091405Z" creationid="PiaVee" creationdate="20170910T091405Z">
         <seg>https://sourceforge.net/p/omegat/documentation/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>vs</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T061140Z" creationid="PiaVee" creationdate="20170930T061140Z">
+        <seg>vs</seg>
       </tuv>
     </tu>
     <tu>
