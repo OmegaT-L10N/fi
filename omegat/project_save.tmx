@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Acknowledgements</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20170930T063050Z" creationid="PiaVee" creationdate="20170930T063050Z">
+        <seg>Kiitokset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Canceled</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T083908Z" creationid="PiaVee" creationdate="20170910T083908Z">
