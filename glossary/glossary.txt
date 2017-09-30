@@ -12,4 +12,5 @@ Acknowledgements	Kiitokset	aaa
 Marc Prior	Marc Prior
 Didier Briel	Didier Briel
 Samuel Murray	Samuel Murray
-Learn to use OmegaT in 5 minutes	Opi käyttämään OmegaT:tä viidessä minuutissa	Johdantokappaleen nimi
+Learn to use OmegaT in 5 minutes	Opi käyttämään OmegaT:tä viidessä minuutissa	Johdantokappaleen nimi, kirjoittaja Samuel MurrayWill Helton	Will Helton
+Will Helton	Will Helton
