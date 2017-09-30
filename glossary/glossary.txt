@@ -15,3 +15,4 @@ Samuel Murray	Samuel Murray
 Learn to use OmegaT in 5 minutes	Opi käyttämään OmegaT:tä viidessä minuutissa	Johdantokappaleen nimi, kirjoittaja Samuel MurrayWill Helton
 Will Helton	Will Helton
 Jean-Christophe Helary	Jean-Christophe Helary
+OmegaT documentation tracker	OmegaT documentation tracker	OmegaT documentation tracke
