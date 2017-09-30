@@ -7,3 +7,5 @@ SVN	versionhallinta	eng. "subversion"
 cleanup	siistiminen
 repository	pakettivarasto
 script	komentosarja
+manual	käyttöopas	kun viitataan OmegaT-manuaaliin
+Acknowledgements	Kiitokset	aaa
