@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is possible to select another tokenizer (Language Tokenizer) or a different version of the tokenizer (Tokenizer Behavior) from the Project Properties window.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T153741Z" creationid="PiaVee" creationdate="20171014T153741Z">
+        <seg>Projektin ominaisuudet -ikkunassa voi valita käytettävän saneistimen (Saneistin) tai sen version (Saneistimen toiminta).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It will be used automatically by OmegaT if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T145816Z" creationid="PiaVee" creationdate="20171014T145709Z">
@@ -730,6 +738,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T135740Z" creationid="PiaVee" creationdate="20171014T135411Z">
         <seg>Sourceforgessa ylläpidetään seuraavia OmegaT-aiheisia postituslistoja:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT automatically selects a tokenizer for the source and the target language according to the language settings of the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T153437Z" creationid="PiaVee" creationdate="20171014T153437Z">
+        <seg>OmegaT valitsee lähtö- ja kohdekielen saneistimet automaattisesti projektin kieliasetusten mukaan.</seg>
       </tuv>
     </tu>
     <tu>
