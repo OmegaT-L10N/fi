@@ -176,8 +176,8 @@
       <tuv lang="EN">
         <seg>Ignore glossary case</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T092738Z" creationid="PiaVee" creationdate="20171014T092738Z">
-        <seg>Älä huomioi sanaston mukaista kirjainkokoa</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T093024Z" creationid="PiaVee" creationdate="20171014T092738Z">
+        <seg>Älä huomioi sanaston mukaista alkukirjaimen kokoa</seg>
       </tuv>
     </tu>
     <tu>
@@ -362,6 +362,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T130344Z" creationid="PiaVee" creationdate="20170908T125345Z">
         <seg>Poista kaksisuuntaisen tekstin kontrollimerkit nykyisestä kohteesta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove mnemonics</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T093307Z" creationid="PiaVee" creationdate="20171014T093307Z">
+        <seg>Poista muistisäännöt</seg>
       </tuv>
     </tu>
     <tu>
