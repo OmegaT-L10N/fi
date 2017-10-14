@@ -37,3 +37,4 @@ documentation	dokumentaatio
 tracking system	seurantajäjestelmä
 administration	ylläpito
 LanguageTool	LanguageTool
+spell check	oikeinkirjoituksen tarkistu	> oikeinkirjoituksen tarkistus
