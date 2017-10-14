@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Borrowing an example from Slovenian, here "good" in all possible grammatically correct forms:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T152738Z" creationid="PiaVee" creationdate="20171014T152738Z">
+        <seg>Esimerkiksi slovenian kielen sana "hyvä" taipuu tällaisiin muotoihin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140535Z" creationid="PiaVee" creationdate="20171014T140015Z">
