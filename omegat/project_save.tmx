@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T151048Z" creationid="PiaVee" creationdate="20171014T151048Z">
+        <seg>&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140935Z" creationid="PiaVee" creationdate="20171014T140935Z">
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T093555Z" creationid="PiaVee" creationdate="20171014T093555Z">
         <seg>&lt;p0&gt;Oikotiet&lt;/p0&gt; &lt;s1&gt;Etsi ja korvaa – Ctrl+K&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T151053Z" creationid="PiaVee" creationdate="20171014T151053Z">
+        <seg>[fuzzy]&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1249,8 +1265,8 @@
       <tuv lang="EN">
         <seg>Tokenizers</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T151024Z" creationid="PiaVee" creationdate="20171014T151024Z">
-        <seg>Saneistimet (tokenizers)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T151056Z" creationid="PiaVee" creationdate="20171014T151024Z">
+        <seg>Saneistimet</seg>
       </tuv>
     </tu>
     <tu>
