@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T153019Z" creationid="PiaVee" creationdate="20171014T153019Z">
+        <seg>– komparatiivi, nominatiivi, maskuliini, feminiini ja neutri sekä adjektiivin monikkomuoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt;is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T134722Z" creationid="PiaVee" creationdate="20171014T134616Z">
@@ -1483,6 +1491,22 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T091405Z" creationid="PiaVee" creationdate="20170910T091405Z">
         <seg>https://sourceforge.net/p/omegat/documentation/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lep, lepa, lepo - singular, masculine, feminine, neutral</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T152808Z" creationid="PiaVee" creationdate="20171014T152808Z">
+        <seg>lep, lepa, lepo – yksikön maskuliini, feminiini ja neutri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lepši, lepša, lepše .</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T152812Z" creationid="PiaVee" creationdate="20171014T152812Z">
+        <seg>lepši, lepša, lepše</seg>
       </tuv>
     </tu>
     <tu>
