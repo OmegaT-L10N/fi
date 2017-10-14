@@ -831,6 +831,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To limit the amount of data, it is possible to select a specific domain by selecting &lt;e0&gt;Select TaaS Terminology Lookup Domain&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T115844Z" creationid="PiaVee" creationdate="20171014T115844Z">
+        <seg>Datan määrää voidaan rajoittaa tarkentamalla hakua kohdassa &lt;e0&gt;Valitse TaaS-terminologiahaun aihepiiri&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T101530Z" creationid="PiaVee" creationdate="20171014T101256Z">
