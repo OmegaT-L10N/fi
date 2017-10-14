@@ -696,8 +696,16 @@
       <tuv lang="EN">
         <seg>The TaaS service at https://demo.taas-project.eu/info provides terminology services in European languages (plus Russian).</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T102553Z" creationid="PiaVee" creationdate="20171014T102553Z">
-        <seg>TaaS-palvelu osoitteessa http://demo.taas-project.eu avustaa terminologiassa Euroopan unionin kielillä sekä venäjäksi.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T104617Z" creationid="PiaVee" creationdate="20171014T102553Z">
+        <seg>TaaS-palvelu osoitteessa http://demo.taas-project.eu avustaa terminologiassa Euroopan unionin virallisilla kielillä sekä turkiksi ja venäjäksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The key must then be given to OmegaT using -Dtaas.user.key=xxxxx.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T104651Z" creationid="PiaVee" creationdate="20171014T104651Z">
+        <seg>Avain annetaan OmegaT:ssä käyttämällä komentoa -Dtaas.user.key=xxxxx.</seg>
       </tuv>
     </tu>
     <tu>
