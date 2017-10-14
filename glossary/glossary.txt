@@ -20,3 +20,5 @@ spellcheck	oikeinkirjoituksen tarkistu	> oikeinkirjoituksen tarkistus
 segment	segment	> segmentti
 target	koh	> kohde
 tag	tägi
+remove	poista
+mnemonic	muistisään	> muistisääntö
