@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documentation tracking system</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T140224Z" creationid="PiaVee" creationdate="20171014T140224Z">
+        <seg>Ohjeistuksen eurantajäjestelmä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T100504Z" creationid="PiaVee" creationdate="20171014T094747Z">
@@ -306,6 +314,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T080346Z" creationid="PiaVee" creationdate="20170930T063645Z">
         <seg>Haluan erityisesti kiittää</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Feature requests tracking system</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T140153Z" creationid="PiaVee" creationdate="20171014T140153Z">
+        <seg>Toimintopyyntöjen seurantajäjestelmä</seg>
       </tuv>
     </tu>
     <tu>
@@ -390,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Issues/bugs tracking system</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T140144Z" creationid="PiaVee" creationdate="20171014T140144Z">
+        <seg>Ongelmien/ohjelmistovirheiden seurantajäjestelmä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It allows accessing both public and private data, where private glossaries (called "collections") can be extracted from existing documents, and the target terms partly populated automatically from various sources.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T103350Z" creationid="PiaVee" creationdate="20171014T103350Z">
@@ -432,8 +456,8 @@
       <tuv lang="EN">
         <seg>Last but not least: my thanks to all the contributors to&lt;u0&gt; OmegaT documentation tracker&lt;/u0&gt; for all the inconsistencies found in the previous versions of the documentation.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170930T080923Z" creationid="PiaVee" creationdate="20170930T080923Z">
-        <seg>Lopuksi vielä kiitokset kaikille &lt;u0&gt;OmegaT documentation tracker&lt;/u0&gt;iin osallistuville kaikista epäjohdonmukaisuuksista, joita he ovat löytäneet dokumentaation aiemmista versioista.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T140305Z" creationid="PiaVee" creationdate="20170930T080923Z">
+        <seg>Lopuksi vielä kiitokset kaikille &lt;u0&gt;OmegaT-dokumentaation seurantajärjestelmään&lt;/u0&gt; osallistuville kaikista epäjohdonmukaisuuksista, joita he ovat löytäneet dokumentaation aiemmista versioista.</seg>
       </tuv>
     </tu>
     <tu>
