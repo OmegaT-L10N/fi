@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Accessing the TaaS service</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T110746Z" creationid="PiaVee" creationdate="20171014T110746Z">
+        <seg>TaaS-palveluun pääsy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Acknowledgements</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T063050Z" creationid="PiaVee" creationdate="20170930T063050Z">
@@ -146,6 +154,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T100611Z" creationid="PiaVee" creationdate="20171014T100345Z">
         <seg>Jatka korvaamista painamalla &lt;e2&gt;Korvaa seuraava&lt;/e2&gt; tai &lt;e3&gt;Ohita&lt;/e3&gt;, ja lopeta korvaaminen napsauttamalla &lt;e4&gt;Lopeta&lt;/e4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;e0&gt;Options, Glossary&lt;/e0&gt; to display the following options:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T111113Z" creationid="PiaVee" creationdate="20171014T111113Z">
+        <seg>Napsauta &lt;e0&gt;Valinnat &gt; Sanasto&lt;/e0&gt;, jolloin seuraavat valinnat näkyvät:</seg>
       </tuv>
     </tu>
     <tu>
