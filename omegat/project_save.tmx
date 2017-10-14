@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the application&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T134325Z" creationid="PiaVee" creationdate="20171014T134325Z">
+        <seg>&lt;p0&gt;Oikeudelliset huomautukset&lt;/p0&gt;&lt;s1&gt;Sovelluksesta&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the documentation&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T120321Z" creationid="PiaVee" creationdate="20171014T120321Z">
@@ -690,6 +698,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T093650Z" creationid="PiaVee" creationdate="20171014T093650Z">
         <seg>Hakuikkuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the GNU General Public License for more details.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T134156Z" creationid="PiaVee" creationdate="20171014T134156Z">
+        <seg>Lisätietoja saa GNU GPL -lisenssitekstistä.</seg>
       </tuv>
     </tu>
     <tu>
