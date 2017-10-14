@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T140015Z" creationid="PiaVee" creationdate="20171014T140015Z">
+        <seg>Sourceforgen seurantajärjestelmät käsittelevät ohjelmistovirheitä, toimintopyyntöjä ja ohjeistukseen liittyviä ongelmia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Canceled</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T083908Z" creationid="PiaVee" creationdate="20170910T083908Z">
@@ -502,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmT-l10n</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T135628Z" creationid="PiaVee" creationdate="20171014T135628Z">
+        <seg>OmT-l10n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmTdev</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T135414Z" creationid="PiaVee" creationdate="20171014T135414Z">
@@ -536,8 +552,8 @@
       <tuv lang="EN">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T135411Z" creationid="PiaVee" creationdate="20171014T135411Z">
-        <seg>Sourceforgessa ylläpidetään seuraavia OmegaT-aiheisia postituslistoja ja seuraajia:</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T135740Z" creationid="PiaVee" creationdate="20171014T135411Z">
+        <seg>Sourceforgessa ylläpidetään seuraavia OmegaT-aiheisia postituslistoja:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1007,6 +1023,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This mailing list is for localizers of OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T135642Z" creationid="PiaVee" creationdate="20171014T135642Z">
+        <seg>OmegaT:n lokalisoijien postituslista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T063704Z" creationid="PiaVee" creationdate="20170930T063430Z">
@@ -1043,6 +1067,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T101530Z" creationid="PiaVee" creationdate="20171014T101256Z">
         <seg>Etsi ja korvaa -toiminto hakee tekstiä ainoastaan jo muodostuneesta käännösmuistista, joten OmegaT kopioi lähdesegmentin kohdesegmenttiin ennen tekstin korvaamista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tracking system</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T135733Z" creationid="PiaVee" creationdate="20171014T135733Z">
+        <seg>Seurantajäjestelmä</seg>
       </tuv>
     </tu>
     <tu>
