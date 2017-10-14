@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Abkhaz</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T162148Z" creationid="PiaVee" creationdate="20171014T162127Z">
+        <seg>abhaasi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171001T104347Z" creationid="PiaVee" creationdate="20171001T104347Z">
@@ -302,10 +310,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Afar</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T162141Z" creationid="PiaVee" creationdate="20171014T162141Z">
+        <seg>afari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Afrikaans</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T162212Z" creationid="PiaVee" creationdate="20171014T162212Z">
+        <seg>afrikaans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After completing the translation and creating the translated documents, copy the translated column from the translated file back into the &lt;i0&gt;target&lt;/i0&gt; column of the original file.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T161102Z" creationid="PiaVee" creationdate="20171014T161102Z">
         <seg>Kun käännös on valmis ja käännetyt dokumentit on luotu, kopioi käännöstiedoston käännöskielinen sarake alkuperäisen tiedoston &lt;i0&gt;kohdesarakkeeseen&lt;/i0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Akan</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T162302Z" creationid="PiaVee" creationdate="20171014T162302Z">
+        <seg>akan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Albanian</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T173333Z" creationid="PiaVee" creationdate="20171014T173333Z">
+        <seg>albania</seg>
       </tuv>
     </tu>
     <tu>
@@ -558,10 +598,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ISO 639-1</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T162115Z" creationid="PiaVee" creationdate="20171014T162115Z">
+        <seg>ISO 639-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ISO 639-1/639-2 Language code list</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T162109Z" creationid="PiaVee" creationdate="20171014T162109Z">
         <seg>ISO 639-1 / 639-2 kielikoodit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ISO 639-2</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T162118Z" creationid="PiaVee" creationdate="20171014T162118Z">
+        <seg>ISO 639-2</seg>
       </tuv>
     </tu>
     <tu>
@@ -1787,6 +1843,70 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T145336Z" creationid="PiaVee" creationdate="20171014T145336Z">
         <seg>LanguageTool-sovellus paljastaa virheitä, joita yksinkertainen oikeinkirjoituksen tarkastin ei huomaa, esim. kun there/their  tai no/now ovat menneet sekaisin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>aa</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T162204Z" creationid="PiaVee" creationdate="20171014T162151Z">
+        <seg>aa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>aar</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T162206Z" creationid="PiaVee" creationdate="20171014T162206Z">
+        <seg>aar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ab</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T162132Z" creationid="PiaVee" creationdate="20171014T162132Z">
+        <seg>ab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>abk</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T162134Z" creationid="PiaVee" creationdate="20171014T162134Z">
+        <seg>abk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>af</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T162250Z" creationid="PiaVee" creationdate="20171014T162250Z">
+        <seg>af</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>afr</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T162252Z" creationid="PiaVee" creationdate="20171014T162252Z">
+        <seg>afr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ak</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T162304Z" creationid="PiaVee" creationdate="20171014T162304Z">
+        <seg>ak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>aka</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T162305Z" creationid="PiaVee" creationdate="20171014T162305Z">
+        <seg>aka</seg>
       </tuv>
     </tu>
     <tu>
