@@ -34,3 +34,5 @@ TaaS Terminology Lookup	TaaS-terminologiaha	> haku
 legal notice	oikeudelli huomautu	> oikeudellinen huomautus
 warranty	takuu
 documentation	dokumentaatio
+tracking system	seurantajäjestelmä
+administration	ylläpito
