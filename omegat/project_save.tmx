@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Languages selection</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T153133Z" creationid="PiaVee" creationdate="20171014T153133Z">
+        <seg>Kielivalinta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Last but not least: my thanks to all the contributors to&lt;u0&gt; OmegaT documentation tracker&lt;/u0&gt; for all the inconsistencies found in the previous versions of the documentation.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140305Z" creationid="PiaVee" creationdate="20170930T080923Z">
@@ -1327,6 +1335,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tokenizers are included in OmegaT and active by default.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T153337Z" creationid="PiaVee" creationdate="20171014T153337Z">
+        <seg>OmegaT:n perusasetuksena on, että saneistin on aktiivinen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tracking system</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T135733Z" creationid="PiaVee" creationdate="20171014T135733Z">
@@ -1507,6 +1523,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T152812Z" creationid="PiaVee" creationdate="20171014T152812Z">
         <seg>lepši, lepša, lepše</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>najlepših - superlative, plural, genitive for M,F,N</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T153127Z" creationid="PiaVee" creationdate="20171014T153127Z">
+        <seg>najlepših – superlatiivi, monikko, genetiivi (m, f. ja n.)</seg>
       </tuv>
     </tu>
     <tu>
