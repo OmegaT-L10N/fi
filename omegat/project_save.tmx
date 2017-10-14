@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mailing lists</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T135242Z" creationid="PiaVee" creationdate="20171014T135242Z">
+        <seg>Postituslistat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Marc Prior: correcting my first draft was an act of love for OmegaT and the English language.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T064609Z" creationid="PiaVee" creationdate="20170930T063656Z">
@@ -494,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmTdev</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T135414Z" creationid="PiaVee" creationdate="20171014T135414Z">
+        <seg>OmTdev</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T122659Z" creationid="PiaVee" creationdate="20170908T122659Z">
@@ -514,6 +530,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T082429Z" creationid="PiaVee" creationdate="20170910T082429Z">
         <seg>OmegaT-käyttöliittymän kieli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T135411Z" creationid="PiaVee" creationdate="20171014T135411Z">
+        <seg>Sourceforgessa ylläpidetään seuraavia OmegaT-aiheisia postituslistoja ja seuraajia:</seg>
       </tuv>
     </tu>
     <tu>
@@ -862,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT developers' list.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T135442Z" creationid="PiaVee" creationdate="20171014T135442Z">
+        <seg>OmegaT-kehittäjien lista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The TaaS service at https://demo.taas-project.eu/info provides terminology services in European languages (plus Russian).</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T104617Z" creationid="PiaVee" creationdate="20171014T102553Z">
@@ -963,6 +995,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T061617Z" creationid="PiaVee" creationdate="20170910T084447Z">
         <seg>OmegaT on vapaa työkalu tietokoneavusteista kääntämistä varten. Tämä tiedosto on virallinen OmegaT-käyttöopas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This list is for more technical discussion of features and development, and is intended for OmegaT developers and other interested parties.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T135626Z" creationid="PiaVee" creationdate="20171014T135626Z">
+        <seg>Keskustelut tällä postituslistalla koskevat ohjelman teknisiä ominaisuuksia ja kehitystä. Lista on tarkoitettu OmegaT:n kehittäjille ja muille aiheesta kiiinnostuneille.</seg>
       </tuv>
     </tu>
     <tu>
