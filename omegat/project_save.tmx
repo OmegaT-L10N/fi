@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a key</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T103358Z" creationid="PiaVee" creationdate="20171014T103358Z">
+        <seg>Avaimen luominen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Didier Briel: I could not do without Didier's patient and persistent help with DocBook intricacies.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T064835Z" creationid="PiaVee" creationdate="20170930T064402Z">
@@ -739,6 +747,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T060918Z" creationid="PiaVee" creationdate="20170930T060918Z">
         <seg>Komentosarja on tarkoitettu käytettäväksi OmegaT 3.6:ssa ja tätä uudemmissa versioissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access the TaaS service, a user must create a key using https://term.tilde.com/account/keys/create?system=omegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T104241Z" creationid="PiaVee" creationdate="20171014T104241Z">
+        <seg>TaaS-palvelun käyttäjän on luotava itselleen avain osoitteessa https://term.tilde.com/account/keys/create?system=omegaT.</seg>
       </tuv>
     </tu>
     <tu>
