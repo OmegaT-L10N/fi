@@ -184,8 +184,8 @@
       <tuv lang="EN">
         <seg>Except one: check &lt;e0&gt;Untranslated&lt;/e0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T101015Z" creationid="PiaVee" creationdate="20171014T101015Z">
-        <seg>On kuitenkin yksi poikkeus: valitse &lt;e0&gt;Kääntämättömät&lt;/e0&gt;, jotta etsi ja korvaa -toiminto hakee myös kääntämättömistä segmenteistä.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T101302Z" creationid="PiaVee" creationdate="20171014T101015Z">
+        <seg>On kuitenkin yksi poikkeus: valitse &lt;e0&gt;Kääntämättömät&lt;/e0&gt;, jotta etsi ja korvaa -toiminto hakee tekstiä myös kääntämättömistä segmenteistä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -713,8 +713,8 @@
       <tuv lang="EN">
         <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T101256Z" creationid="PiaVee" creationdate="20171014T101256Z">
-        <seg>Tätä varten OmegaT kopioi lähdesegmentin kohdesegmenttiin ennen tekstin korvaamista Vaikka etsi ja korvaa -toiminto hakee ainoastaan muistista, joten OmegaT kääntämättömistä segmenteistä hakemista </seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T101530Z" creationid="PiaVee" creationdate="20171014T101256Z">
+        <seg>Etsi ja korvaa -toiminto hakee tekstiä ainoastaan jo muodostuneesta käännösmuistista, joten OmegaT kopioi lähdesegmentin kohdesegmenttiin ennen tekstin korvaamista.</seg>
       </tuv>
     </tu>
     <tu>
