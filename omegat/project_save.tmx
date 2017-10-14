@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Search and replace - Ctrl+K&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T093555Z" creationid="PiaVee" creationdate="20171014T093555Z">
+        <seg>&lt;p0&gt;Oikotiet&lt;/p0&gt; &lt;s1&gt;Etsi ja korvaa – Ctrl+K&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171001T104347Z" creationid="PiaVee" creationdate="20171001T104347Z">
@@ -350,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T093426Z" creationid="PiaVee" creationdate="20171014T093426Z">
+        <seg>Päivitä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove OmegaT tags which have &lt;br&gt;lower case letter before and after it</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092955Z" creationid="PiaVee" creationdate="20171014T092838Z">
@@ -362,6 +378,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T130344Z" creationid="PiaVee" creationdate="20170908T125345Z">
         <seg>Poista kaksisuuntaisen tekstin kontrollimerkit nykyisestä kohteesta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove defined fragments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T093320Z" creationid="PiaVee" creationdate="20171014T093320Z">
+        <seg>Poista määritellyt fragmentit</seg>
       </tuv>
     </tu>
     <tu>
@@ -466,6 +490,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T084223Z" creationid="PiaVee" creationdate="20170910T084223Z">
         <seg>Yksinkertainen etsi ja korvaa -komentosarja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skip segments where source=target</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T093350Z" creationid="PiaVee" creationdate="20171014T093335Z">
+        <seg>Ohita segmentit, joissa lähde = kohde</seg>
       </tuv>
     </tu>
     <tu>
