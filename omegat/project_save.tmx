@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Replace All:&lt;/e0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T095004Z" creationid="PiaVee" creationdate="20171014T095004Z">
+        <seg>&lt;e0&gt;Korvaa kaikki&lt;/e0&gt; näyttää vahvistusikkunassa, montako kertaa sana tai ilmaus esiintyy, ja korvaa ne kaikki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Search and replace - Ctrl+K&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T093555Z" creationid="PiaVee" creationdate="20171014T093555Z">
@@ -128,8 +136,8 @@
       <tuv lang="EN">
         <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T094747Z" creationid="PiaVee" creationdate="20171014T094747Z">
-        <seg>Kirjoita uusi sana tai ilmaisu (säännölliset lausekkeet eivät ole käytössä) &lt;e0&gt;Korvaa&lt;/e0&gt;-kenttääb </seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T094823Z" creationid="PiaVee" creationdate="20171014T094747Z">
+        <seg>Kirjoita uusi sana tai ilmaisu (säännölliset lausekkeet eivät ole käytössä) &lt;e0&gt;Korvaa tällä&lt;/e0&gt;-kenttään ja paina sitten yhtä seuraavista vaihtoehdoista:</seg>
       </tuv>
     </tu>
     <tu>
@@ -328,8 +336,8 @@
       <tuv lang="EN">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T094102Z" creationid="PiaVee" creationdate="20171014T093718Z">
-        <seg>Avaa etsi ja korvaa -ikkuna painamalla &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;K&lt;/k2&gt;&lt;/k0&gt;ja kirjoita &lt;e3&gt;Etsi&lt;/e3&gt;-kenttään sana tai ilmaus, jonka haluat korvata toisella.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T094756Z" creationid="PiaVee" creationdate="20171014T093718Z">
+        <seg>Avaa etsi ja korvaa -ikkuna painamalla &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;K&lt;/k2&gt;&lt;/k0&gt;ja kirjoita &lt;e3&gt;Etsi tämä&lt;/e3&gt;-kenttään sana tai ilmaus, jonka haluat korvata toisella.</seg>
       </tuv>
     </tu>
     <tu>
