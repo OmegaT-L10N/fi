@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Properties&lt;/s1&gt; &lt;s2&gt;Languages&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T161840Z" creationid="PiaVee" creationdate="20171014T161840Z">
+        <seg>&lt;p0&gt;Projekti&lt;/p0&gt; &lt;s1&gt;Ominaisuudet&lt;/s1&gt; &lt;s2&gt;Languages&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Search and replace - Ctrl+K&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T093555Z" creationid="PiaVee" creationdate="20171014T093555Z">
@@ -550,6 +558,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ISO 639-1/639-2 Language code list</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T162109Z" creationid="PiaVee" creationdate="20171014T162109Z">
+        <seg>ISO 639-1 / 639-2 kielikoodit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ISO language codes</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T161837Z" creationid="PiaVee" creationdate="20171014T161837Z">
+        <seg>ISO-kielikoodit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T101637Z" creationid="PiaVee" creationdate="20171014T101637Z">
@@ -742,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Language name</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T162112Z" creationid="PiaVee" creationdate="20171014T162112Z">
+        <seg>Kieli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool plugin</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140940Z" creationid="PiaVee" creationdate="20171014T140940Z">
@@ -762,6 +794,22 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T150646Z" creationid="PiaVee" creationdate="20171014T150646Z">
         <seg>Jos /plugin-kansiossa on laajennuksen vanha versio, LanguageTool ei toimi kunnolla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Languages</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T161830Z" creationid="PiaVee" creationdate="20171014T161830Z">
+        <seg>Kielet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Languages - ISO 639 code list</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T161923Z" creationid="PiaVee" creationdate="20171014T161923Z">
+        <seg>Kielet – ISO-639-koodit</seg>
       </tuv>
     </tu>
     <tu>
@@ -978,6 +1026,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T083640Z" creationid="PiaVee" creationdate="20170910T083640Z">
         <seg>Siistii joko nykyisen projektin tai minkä tahansa paikallisen SVN-pakettivaraston versiot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please check the &lt;u0&gt;ISO 639 Code Tables&lt;/u0&gt; for further and up-to-date information about language codes.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T162043Z" creationid="PiaVee" creationdate="20171014T162043Z">
+        <seg>Tarkempaa ja ajankohtaista tietoa kielikoodeista löytyy &lt;u0&gt;ISO 639 -kooditaulukosta&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1755,6 +1811,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T144855Z" creationid="PiaVee" creationdate="20171014T144855Z">
         <seg>http://www.languagetool.org/languages/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T161926Z" creationid="PiaVee" creationdate="20171014T161926Z">
+        <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
       </tuv>
     </tu>
     <tu>
