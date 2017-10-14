@@ -592,8 +592,8 @@
       <tuv lang="EN">
         <seg>Chichewa, Chewa, Nyanja</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T173859Z" creationid="PiaVee" creationdate="20171014T173859Z">
-        <seg>chichewa, tšewa, njandža</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T180626Z" creationid="PiaVee" creationdate="20171014T173859Z">
+        <seg>njandža</seg>
       </tuv>
     </tu>
     <tu>
@@ -752,8 +752,8 @@
       <tuv lang="EN">
         <seg>Divehi, Dhivehi, Maldivian</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174013Z" creationid="PiaVee" creationdate="20171014T174013Z">
-        <seg>divehi, malediivi</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T180708Z" creationid="PiaVee" creationdate="20171014T174013Z">
+        <seg>divehi</seg>
       </tuv>
     </tu>
     <tu>
@@ -3233,8 +3233,8 @@
       <tuv lang="EN">
         <seg>dv</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174014Z" creationid="PiaVee" creationdate="20171014T174014Z">
-        <seg>digitaalinen video</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T180744Z" creationid="PiaVee" creationdate="20171014T174014Z">
+        <seg>dv</seg>
       </tuv>
     </tu>
     <tu>
