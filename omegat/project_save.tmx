@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T140123Z" creationid="PiaVee" creationdate="20171014T140123Z">
+        <seg>Älä käytä näitä seurantajärjestelmiä ennen kuin olet ilmoittanut asiasta käyttäjäryhmässä ja/tai sähköpostilistalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T091300Z" creationid="PiaVee" creationdate="20170910T090343Z">
