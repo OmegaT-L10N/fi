@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>5.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T161104Z" creationid="PiaVee" creationdate="20171014T161104Z">
+        <seg>5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt;is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T134722Z" creationid="PiaVee" creationdate="20171014T134616Z">
@@ -382,10 +390,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert the file back to RTF format.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T161116Z" creationid="PiaVee" creationdate="20171014T161116Z">
+        <seg>Muuta tiedosto takaisin RTF-muotoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert the file from RTF to OpenOffice.org format.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T160010Z" creationid="PiaVee" creationdate="20171014T160010Z">
-        <seg>Muuta tiedosto RTF-muodosta OpenOffice.org-muotoon.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T161132Z" creationid="PiaVee" creationdate="20171014T160010Z">
+        <seg>Muuta tiedosto RTF-muodosta OpenOffice.org-muotoon (esim. ODT-tiedostoksi).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1280,8 +1296,8 @@
       <tuv lang="EN">
         <seg>The Déjà Vu "External View" file format is a feature of Déjà Vu DVX.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T154920Z" creationid="PiaVee" creationdate="20171014T154920Z">
-        <seg>"External View"-tiedostomuoto on Déjà Vu DVX:n ominaisuus.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T161150Z" creationid="PiaVee" creationdate="20171014T154920Z">
+        <seg>External View -tiedostomuoto on Déjà Vu DVX:n ominaisuus.</seg>
       </tuv>
     </tu>
     <tu>
