@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>4.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T160840Z" creationid="PiaVee" creationdate="20171014T160840Z">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt;is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T134722Z" creationid="PiaVee" creationdate="20171014T134616Z">
@@ -278,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After completing the translation and creating the translated documents, copy the translated column from the translated file back into the &lt;i0&gt;target&lt;/i0&gt; column of the original file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T161102Z" creationid="PiaVee" creationdate="20171014T161102Z">
+        <seg>Kun käännös on valmis ja käännetyt dokumentit on luotu, kopioi käännöstiedoston käännöskielinen sarake alkuperäisen tiedoston &lt;i0&gt;kohdesarakkeeseen&lt;/i0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All collections (public and private) will be queried for the source and target language.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T115640Z" creationid="PiaVee" creationdate="20171014T115640Z">
@@ -290,6 +306,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T154553Z" creationid="PiaVee" creationdate="20171014T154553Z">
         <seg>Alkutilanne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Be careful to preserve these in the same way that you would handle OmegaT's own inline tags (the inline tag functionality of OmegaT, such as the tag validation function, is not available in this case, however).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T160839Z" creationid="PiaVee" creationdate="20171014T160839Z">
+        <seg>Käsittele näitä samoin kuin OmegaT:n omia tägejä (vaikkakaan OmegaT:n täginkäsittelytoiminnot, esimerkiksi tägien validointi, eivät tässä tapauksessa ole käytössä).</seg>
       </tuv>
     </tu>
     <tu>
