@@ -846,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The documentation is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T134114Z" creationid="PiaVee" creationdate="20171014T134114Z">
+        <seg>Vaikka ohjeista toivotaan olevan apua, mutta ne jaetaan ILMAN TAKUITA, jopa ilman takuuta niiden MYYNTIKELPOISUUDESTA tai SOVELTUVUUDESTA TIETTYYN TARKOITUKSEEN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The key must then be given to OmegaT using -Dtaas.user.key=xxxxx.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T104651Z" creationid="PiaVee" creationdate="20171014T104651Z">
@@ -971,6 +979,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T061147Z" creationid="PiaVee" creationdate="20170930T061147Z">
         <seg>Vito Smolej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warranty</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T133459Z" creationid="PiaVee" creationdate="20171014T133459Z">
+        <seg>Takuu</seg>
       </tuv>
     </tu>
     <tu>
