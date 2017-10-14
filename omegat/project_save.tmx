@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright Marc Prior 2009-2011</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T161803Z" creationid="PiaVee" creationdate="20171014T161803Z">
+        <seg>Copyright Marc Prior 2009–2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a key</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T103358Z" creationid="PiaVee" creationdate="20171014T103358Z">
@@ -826,6 +834,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T084248Z" creationid="PiaVee" creationdate="20170910T084248Z">
         <seg>Muokatut segmentit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More information on the format and the procedure for its creation, for both users of Déjà Vu and of other CAT tools, can be found on the &lt;a0&gt;relevant Atril page&lt;/a0&gt;, and on the helpful &lt;a1&gt;blog maintained by Kevin Lossner&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T161747Z" creationid="PiaVee" creationdate="20171014T161747Z">
+        <seg>Sekä Déjà Vun että muiden CAT-työkalujen käyttäjät löytävät lisää tietoa tiedostomuodosta ja sen luomisesta &lt;a0&gt;Atrilin sivulta&lt;/a0&gt; sekä &lt;a1&gt;Kevin Lossnerin ylläpitämästä blogista&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
