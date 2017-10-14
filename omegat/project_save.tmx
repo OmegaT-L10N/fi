@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will be used automatically by OmegaT if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T145816Z" creationid="PiaVee" creationdate="20171014T145709Z">
+        <seg>Laajennus on käytössä, kun &lt;g0&gt;Asetukset &gt; Kielentarkastin&lt;/g0&gt; on rastitettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary: special thanks to JC for his concise description of OmegaT run, command line parameters and all other details, I have yet to notice.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T080551Z" creationid="PiaVee" creationdate="20170930T080331Z">
@@ -1110,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The rules applied (if any) will depend on the source and target language of the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T145843Z" creationid="PiaVee" creationdate="20171014T145843Z">
+        <seg>Mahdolliset käytetyt säännöt riippuvat projektin lähtö- ja kohdekielistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The script will quit now.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T060643Z" creationid="PiaVee" creationdate="20170930T060643Z">
@@ -1291,6 +1307,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T063231Z" creationid="PiaVee" creationdate="20170930T063231Z">
         <seg>Kaikki epäjohdonmukaisuudet, puutteet ja suoranaiset virheet, joita tästä versiosta voi löytyä, ovat omaa tuotostani.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a rule is triggered, the corresponding phrase will be underlined in blue in the Editor (see &lt;e1&gt;also &lt;/e1&gt;and &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in the picture above).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T150440Z" creationid="PiaVee" creationdate="20171014T150440Z">
+        <seg>Sääntöä vastaava lauseke näkyy muokkausruudussa sinisellä alleviivattuna (ks. &lt;e1&gt;also &lt;/e1&gt; ja &lt;e2&gt;I didn't do nothing&lt;/e2&gt; yllä olevassa kuvassa).</seg>
       </tuv>
     </tu>
     <tu>
