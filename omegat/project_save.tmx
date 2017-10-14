@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In that dialog, it's possible to select All domains or a specific one.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T120108Z" creationid="PiaVee" creationdate="20171014T120108Z">
+        <seg>Haku voidaan kohdistaa kaikkiin aihepiireihin, tai rajata se koskemaan vain tiettyä aihepiiriä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It allows accessing both public and private data, where private glossaries (called "collections") can be extracted from existing documents, and the target terms partly populated automatically from various sources.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T103350Z" creationid="PiaVee" creationdate="20171014T103350Z">
