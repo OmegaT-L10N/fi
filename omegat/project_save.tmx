@@ -96,8 +96,8 @@
       <tuv lang="EN">
         <seg>&lt;e0&gt;TaaS Terminology Lookup&lt;/e0&gt;: when checked, will allow querying TaaS data on a segment by segment basis.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T114906Z" creationid="PiaVee" creationdate="20171014T114649Z">
-        <seg>&lt;e0&gt;TaaS-terminologiahaku&lt;/e0&gt; on käytössä, kun tämä kohta on rastittu. , eli termien hakeminen TaaS-datasta, haetaan termejä segmentti kerrallaan.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T115327Z" creationid="PiaVee" creationdate="20171014T114649Z">
+        <seg>&lt;e0&gt;TaaS-terminologiahaku&lt;/e0&gt; hakee termejä TaaS-datasta segmentti segmentiltä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -176,8 +176,8 @@
       <tuv lang="EN">
         <seg>Click on &lt;e0&gt;Options, Glossary&lt;/e0&gt; to display the following options:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T111113Z" creationid="PiaVee" creationdate="20171014T111113Z">
-        <seg>Napsauta &lt;e0&gt;Valinnat &gt; Sanasto&lt;/e0&gt;, jolloin seuraavat valinnat näkyvät:</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T115039Z" creationid="PiaVee" creationdate="20171014T111113Z">
+        <seg>Napsauta &lt;e0&gt;Valinnat &gt; Sanasto&lt;/e0&gt;, jolloin näet ja voit ottaa käyttöön seuraavia toimintoja:</seg>
       </tuv>
     </tu>
     <tu>
