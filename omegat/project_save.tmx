@@ -70,6 +70,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T155948Z" creationid="PiaVee" creationdate="20171014T155948Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T160013Z" creationid="PiaVee" creationdate="20171014T160013Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt;is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T134722Z" creationid="PiaVee" creationdate="20171014T134616Z">
@@ -330,6 +346,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T115039Z" creationid="PiaVee" creationdate="20171014T111113Z">
         <seg>Napsauta &lt;e0&gt;Valinnat &gt; Sanasto&lt;/e0&gt;, jolloin näet ja voit ottaa käyttöön seuraavia toimintoja:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Convert the file from RTF to OpenOffice.org format.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T160010Z" creationid="PiaVee" creationdate="20171014T160010Z">
+        <seg>Muuta tiedosto RTF-muodosta OpenOffice.org-muotoon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -714,6 +738,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T135242Z" creationid="PiaVee" creationdate="20171014T135242Z">
         <seg>Postituslistat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make a copy of the External View file, and delete from it the content of all columns except the source-text column.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T160248Z" creationid="PiaVee" creationdate="20171014T160248Z">
+        <seg>Tee kopio External View -tiedostosta. Jätä tiedostoon ainoastaan lähtötekstisarake, poista kaikki muu sisältö.</seg>
       </tuv>
     </tu>
     <tu>
