@@ -774,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will not launch if tokenizers are found in the /plugin folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T154350Z" creationid="PiaVee" creationdate="20171014T154350Z">
+        <seg>OmegaT ei käynnisty, jos /plugin-kansiossa on saneistimia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One could only wonder, how many the and a prepositions would still be missing without his invaluable help.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T075649Z" creationid="PiaVee" creationdate="20170930T070409Z">
@@ -882,6 +890,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092955Z" creationid="PiaVee" creationdate="20171014T092838Z">
         <seg>Poista OmegaT-tägit, joita edeltää ja joita seuraa &lt;br&gt;pieni alkukirjain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove all the tokenizers from the /plugin folder before starting OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T154405Z" creationid="PiaVee" creationdate="20171014T154405Z">
+        <seg>Poista kaikki saneistimen /plugin-kansiosta ennen OmegaT-ohjelman avaamista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1266,6 +1282,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T151815Z" creationid="PiaVee" creationdate="20171014T151815Z">
         <seg>Tämän lisäksi saneistimet parantavat sanasto-osumia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HowTo describes how to use OmegaT in conjunction with Atril's Déjà Vu CAT tool.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T154536Z" creationid="PiaVee" creationdate="20171014T154536Z">
+        <seg>Nämä ohjeet kuvaavat, kuinka OmegaT voidaan yhdistää Atril Déjà Vu -käännösmuistiohjelmaan.</seg>
       </tuv>
     </tu>
     <tu>
