@@ -38,3 +38,5 @@ tracking system	seurantajäjestelmä
 administration	ylläpito
 LanguageTool	LanguageTool
 spell check	oikeinkirjoituksen tarkistu	> oikeinkirjoituksen tarkistus
+tokenizer	saneisti	> saneistin
+tokenizer	saneisti	EI : saneistaja (sehän olisi henkilö!)
