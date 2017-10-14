@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All collections (public and private) will be queried for the source and target language.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T115640Z" creationid="PiaVee" creationdate="20171014T115640Z">
+        <seg>Terminologiahaku etsii lähde- ja kohdekielisiä termejä sekä julkisista että yksityisistä kokoelmista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Canceled</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T083908Z" creationid="PiaVee" creationdate="20170910T083908Z">
