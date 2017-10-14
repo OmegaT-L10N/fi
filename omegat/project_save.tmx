@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;e2&gt;Replace Next&lt;/e2&gt; or &lt;e3&gt;Skip&lt;/e3&gt;, then end the replacement session with &lt;e4&gt;Finish&lt;/e4&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T100611Z" creationid="PiaVee" creationdate="20171014T100345Z">
+        <seg>Jatka korvaamista painamalla &lt;e2&gt;Korvaa seuraava&lt;/e2&gt; tai &lt;e3&gt;Ohita&lt;/e3&gt;, ja lopeta korvaaminen napsauttamalla &lt;e4&gt;Lopeta&lt;/e4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Didier Briel: I could not do without Didier's patient and persistent help with DocBook intricacies.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T064835Z" creationid="PiaVee" creationdate="20170930T064402Z">
@@ -144,8 +152,8 @@
       <tuv lang="EN">
         <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T094823Z" creationid="PiaVee" creationdate="20171014T094747Z">
-        <seg>Kirjoita uusi sana tai ilmaisu (säännölliset lausekkeet eivät ole käytössä) &lt;e0&gt;Korvaa tällä&lt;/e0&gt;-kenttään ja paina sitten yhtä seuraavista vaihtoehdoista:</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T100504Z" creationid="PiaVee" creationdate="20171014T094747Z">
+        <seg>Kirjoita uusi sana tai ilmaisu (säännölliset lausekkeet eivät ole käytössä) &lt;e0&gt;Korvaa tällä&lt;/e0&gt;-kenttään ja napsauta sitten yhtä seuraavista vaihtoehdoista:</seg>
       </tuv>
     </tu>
     <tu>
@@ -632,8 +640,8 @@
       <tuv lang="EN">
         <seg>Then click on &lt;e0&gt;Search&lt;/e0&gt; button to display all the corresponding occurrences.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T094539Z" creationid="PiaVee" creationdate="20171014T094539Z">
-        <seg>Paina sen jälkeen &lt;e0&gt;Etsi&lt;/e0&gt;-painiketta, jolloin haku näyttää kaikki kohdat, joissa kyseinen sana tai ilmaus esiintyy.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T100450Z" creationid="PiaVee" creationdate="20171014T094539Z">
+        <seg>Napsauta sen jälkeen &lt;e0&gt;Etsi&lt;/e0&gt;-painiketta, jolloin haku näyttää kaikki kohdat, joissa kyseinen sana tai ilmaus esiintyy.</seg>
       </tuv>
     </tu>
     <tu>
