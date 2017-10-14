@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T132056Z" creationid="PiaVee" creationdate="20171014T132056Z">
+        <seg>Tekijänoikeus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a key</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T103358Z" creationid="PiaVee" creationdate="20171014T103358Z">
@@ -794,6 +802,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T114447Z" creationid="PiaVee" creationdate="20171014T114447Z">
         <seg>Kokoelmat ladataan TBX-muotoisina termikantoina kyseisen projektin sanastokansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; includes the User Manual and the readme.txt document.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T132259Z" creationid="PiaVee" creationdate="20171014T132259Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;:n mukana tulevia ohjeita ovat Käyttöopas ja readme.txt -asiakirja.</seg>
       </tuv>
     </tu>
     <tu>
