@@ -1592,8 +1592,8 @@
       <tuv lang="EN">
         <seg>Limburgish, Limburgan, Limburger</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174811Z" creationid="PiaVee" creationdate="20171014T174811Z">
-        <seg>limburgi</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T181402Z" creationid="PiaVee" creationdate="20171014T174811Z">
+        <seg>limburg</seg>
       </tuv>
     </tu>
     <tu>
@@ -1672,8 +1672,8 @@
       <tuv lang="EN">
         <seg>Malagasy</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174854Z" creationid="PiaVee" creationdate="20171014T174854Z">
-        <seg>malagasi</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T181437Z" creationid="PiaVee" creationdate="20171014T174854Z">
+        <seg>malagassi</seg>
       </tuv>
     </tu>
     <tu>
@@ -1728,8 +1728,8 @@
       <tuv lang="EN">
         <seg>Marshallese</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174945Z" creationid="PiaVee" creationdate="20171014T174945Z">
-        <seg>marshalli</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T181519Z" creationid="PiaVee" creationdate="20171014T174945Z">
+        <seg>marshall</seg>
       </tuv>
     </tu>
     <tu>
@@ -1776,16 +1776,16 @@
       <tuv lang="EN">
         <seg>Navajo, Navaho</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T175005Z" creationid="PiaVee" creationdate="20171014T175005Z">
-        <seg>navaho</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T181530Z" creationid="PiaVee" creationdate="20171014T175005Z">
+        <seg>navajo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ndonga</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T175029Z" creationid="PiaVee" creationdate="20171014T175029Z">
-        <seg>ambo</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T181600Z" creationid="PiaVee" creationdate="20171014T175029Z">
+        <seg>ndonga</seg>
       </tuv>
     </tu>
     <tu>
@@ -1808,8 +1808,8 @@
       <tuv lang="EN">
         <seg>North Ndebele</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T175019Z" creationid="PiaVee" creationdate="20171014T175019Z">
-        <seg>pohjoisndebele</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T181551Z" creationid="PiaVee" creationdate="20171014T175019Z">
+        <seg>pohjois-ndebele</seg>
       </tuv>
     </tu>
     <tu>
@@ -1824,16 +1824,16 @@
       <tuv lang="EN">
         <seg>Norwegian Bokmål</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T175015Z" creationid="PiaVee" creationdate="20171014T175015Z">
-        <seg>norja (kirjanorja)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T181545Z" creationid="PiaVee" creationdate="20171014T175015Z">
+        <seg>norjan bokmål</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Norwegian Nynorsk</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T175038Z" creationid="PiaVee" creationdate="20171014T175038Z">
-        <seg>norja (uusnorja)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T181608Z" creationid="PiaVee" creationdate="20171014T175038Z">
+        <seg>norjan nynorsk</seg>
       </tuv>
     </tu>
     <tu>
