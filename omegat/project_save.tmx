@@ -62,6 +62,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt;is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T134616Z" creationid="PiaVee" creationdate="20171014T134616Z">
+        <seg>Vaikka &lt;e0&gt;OmegaT:n&lt;a1&gt; käytöstä toivotaan olevan apua, ohjelma jaetaan ILMAN TAKUITA, jopa ilman takuuta niiden MYYNTIKELPOISUUDESTA tai SOVELTUVUUDESTA TIETTYYN TARKOITUKSEEN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2016 Keith Godfrey, Lev Abashkin, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T134445Z" creationid="PiaVee" creationdate="20171014T134345Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;:n &lt;/e0&gt; tekijänoikeus © 2000–2016: Keith Godfrey, Lev Abashkin, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich sekä Michael Zakharov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Browse TaaS Collections&lt;/e0&gt; will allow browsing existing collections for the source and target languages of the project, and downloading them.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T111408Z" creationid="PiaVee" creationdate="20171014T111408Z">
@@ -74,6 +90,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T100639Z" creationid="PiaVee" creationdate="20171014T100639Z">
         <seg>&lt;e0&gt;Sulje&lt;/e0&gt; sulkee ikkunan muutamatta mitään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;OmegaT &lt;/e0&gt; is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (if you prefer) any later version.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T134514Z" creationid="PiaVee" creationdate="20171014T134514Z">
+        <seg>&lt;e0&gt;OmegaT&lt;/e0&gt; on vapaa sovellus, joten sitä voi sekä levittää että muokata Free Software Foundationin julkaiseman GNU General Public Licencen (GNU-hankkeen yleinen lisenssin, GNU GPL) ehtojen mukaisesti. Voit käyttää joko versiota 3 tai (niin halutessasi) mitä tahansa myöhempää versiota.</seg>
       </tuv>
     </tu>
     <tu>
@@ -274,6 +298,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T080346Z" creationid="PiaVee" creationdate="20170930T063645Z">
         <seg>Haluan erityisesti kiittää</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the application</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T134332Z" creationid="PiaVee" creationdate="20171014T134332Z">
+        <seg>Sovelluksesta</seg>
       </tuv>
     </tu>
     <tu>
