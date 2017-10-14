@@ -232,16 +232,16 @@
       <tuv lang="EN">
         <seg>A "translated" External View file is produced by entering the translation in the target column.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T155925Z" creationid="PiaVee" creationdate="20171014T155925Z">
-        <seg>"External View"-tiedosto käännetään kirjoittamalla käännös kohdesarakkeeseen.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T161229Z" creationid="PiaVee" creationdate="20171014T155925Z">
+        <seg>Käännetty versio External View -tiedostosta luodaan kirjoittamalla käännös kohdesarakkeeseen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>A Déjà Vu "External View" file takes the form of an RTF file containing a multi-column table, including columns for the source and target text in which each segment occupies a table cell.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T155746Z" creationid="PiaVee" creationdate="20171014T155746Z">
-        <seg>Déjà Vu "External View" -tiedosto on RTF-muotoinen tiedosto, jonka yhdessä sarakkeessa on lähtökielinen, toisessa kohdekielinen teksti, ja yksi taulukon ruutu vastaa yhtä segmenttiä.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T161158Z" creationid="PiaVee" creationdate="20171014T155746Z">
+        <seg>Déjà Vu External View -tiedosto on RTF-muotoinen tiedosto, jonka yhdessä sarakkeessa on lähtökielinen, toisessa kohdekielinen teksti, ja yksi taulukon ruutu vastaa yhtä segmenttiä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -576,8 +576,8 @@
       <tuv lang="EN">
         <seg>In an as-yet untranslated "External View" file, the target column is empty.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T155819Z" creationid="PiaVee" creationdate="20171014T155819Z">
-        <seg>Kääntämättömässä "External View"-tiedostossa kohdesarake on tyhjä.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T161202Z" creationid="PiaVee" creationdate="20171014T155819Z">
+        <seg>Kääntämättömässä External View -tiedostossa kohdesarake on tyhjä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -586,6 +586,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T154325Z" creationid="PiaVee" creationdate="20171014T154325Z">
         <seg>Jos projektin kielille ei ole olemassa saneistimia, OmegaT käyttää Hunspell-oikolukusanastoja, mikäli nämä on asennettu koneelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order for this procedure to be used, the Déjà Vu user must prepare the source text file and supply it to the translator in the Déjà Vu "External View" format.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T161545Z" creationid="PiaVee" creationdate="20171014T161545Z">
+        <seg>Jotta nämä toimenpiteet onnistuisivat, Déjà Vu -käyttäjän on luotava lähtötekstistä Déjà Vu External View -tiedosto ja toimitettava se kääntäjälle tässä muodossa.</seg>
       </tuv>
     </tu>
     <tu>
