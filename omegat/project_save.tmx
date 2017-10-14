@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the documentation</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T120328Z" creationid="PiaVee" creationdate="20171014T120328Z">
+        <seg>Dokumentaatiosta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Generalities</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T101906Z" creationid="PiaVee" creationdate="20171014T101906Z">
