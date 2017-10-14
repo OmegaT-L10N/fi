@@ -1542,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Lao</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174819Z" creationid="PiaVee" creationdate="20171014T174819Z">
+        <seg>lao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Last but not least: my thanks to all the contributors to&lt;u0&gt; OmegaT documentation tracker&lt;/u0&gt; for all the inconsistencies found in the previous versions of the documentation.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140305Z" creationid="PiaVee" creationdate="20170930T080923Z">
@@ -1554,6 +1562,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174627Z" creationid="PiaVee" creationdate="20171014T174627Z">
         <seg>latina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latvian</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174841Z" creationid="PiaVee" creationdate="20171014T174841Z">
+        <seg>latvia</seg>
       </tuv>
     </tu>
     <tu>
@@ -1574,10 +1590,66 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Limburgish, Limburgan, Limburger</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174811Z" creationid="PiaVee" creationdate="20171014T174811Z">
+        <seg>limburgi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lingala</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174815Z" creationid="PiaVee" creationdate="20171014T174815Z">
+        <seg>lingala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lithuanian</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174825Z" creationid="PiaVee" creationdate="20171014T174825Z">
+        <seg>liettua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Local working copies cleaned up: {0}</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T060702Z" creationid="PiaVee" creationdate="20170930T060702Z">
         <seg>Siistittyjä paikallisia työkopioita: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Luba-Katanga</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174837Z" creationid="PiaVee" creationdate="20171014T174837Z">
+        <seg>katanganluba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Luganda</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174807Z" creationid="PiaVee" creationdate="20171014T174751Z">
+        <seg>luganda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Luxembourgish, Letzeburgesch</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174652Z" creationid="PiaVee" creationdate="20171014T174652Z">
+        <seg>letseburgi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Macedonian</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174851Z" creationid="PiaVee" creationdate="20171014T174851Z">
+        <seg>makedonia</seg>
       </tuv>
     </tu>
     <tu>
@@ -1594,6 +1666,54 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T160248Z" creationid="PiaVee" creationdate="20171014T160248Z">
         <seg>Tee kopio External View -tiedostosta. Jätä tiedostoon ainoastaan lähtötekstisarake, poista kaikki muu sisältö.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Malagasy</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174854Z" creationid="PiaVee" creationdate="20171014T174854Z">
+        <seg>malagasi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Malay</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174859Z" creationid="PiaVee" creationdate="20171014T174859Z">
+        <seg>malaiji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Malayalam</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174904Z" creationid="PiaVee" creationdate="20171014T174904Z">
+        <seg>malajalam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maltese</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174915Z" creationid="PiaVee" creationdate="20171014T174910Z">
+        <seg>malta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manx</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174847Z" creationid="PiaVee" creationdate="20171014T174847Z">
+        <seg>manksi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marathi (Marāṭhī)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174939Z" creationid="PiaVee" creationdate="20171014T174939Z">
+        <seg>marathi</seg>
       </tuv>
     </tu>
     <tu>
@@ -1618,6 +1738,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T161747Z" creationid="PiaVee" creationdate="20171014T161747Z">
         <seg>Sekä Déjà Vun että muiden CAT-työkalujen käyttäjät löytävät lisää tietoa tiedostomuodosta ja sen luomisesta &lt;a0&gt;Atrilin sivulta&lt;/a0&gt; sekä &lt;a1&gt;Kevin Lossnerin ylläpitämästä blogista&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Māori</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174929Z" creationid="PiaVee" creationdate="20171014T174929Z">
+        <seg>maori</seg>
       </tuv>
     </tu>
     <tu>
@@ -3247,6 +3375,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>glv</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174849Z" creationid="PiaVee" creationdate="20171014T174849Z">
+        <seg>glv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>gn</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174208Z" creationid="PiaVee" creationdate="20171014T174208Z">
@@ -3275,6 +3411,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174215Z" creationid="PiaVee" creationdate="20171014T174215Z">
         <seg>guj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gv</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174848Z" creationid="PiaVee" creationdate="20171014T174848Z">
+        <seg>gv</seg>
       </tuv>
     </tu>
     <tu>
@@ -3879,10 +4023,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>lao</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174824Z" creationid="PiaVee" creationdate="20171014T174824Z">
+        <seg>lao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>lat</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174637Z" creationid="PiaVee" creationdate="20171014T174630Z">
         <seg>lat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lav</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174843Z" creationid="PiaVee" creationdate="20171014T174843Z">
+        <seg>lav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lb</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174653Z" creationid="PiaVee" creationdate="20171014T174653Z">
+        <seg>lb</seg>
       </tuv>
     </tu>
     <tu>
@@ -3899,6 +4067,206 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T152812Z" creationid="PiaVee" creationdate="20171014T152812Z">
         <seg>lepši, lepša, lepše</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lg</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174753Z" creationid="PiaVee" creationdate="20171014T174753Z">
+        <seg>lg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>li</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174813Z" creationid="PiaVee" creationdate="20171014T174813Z">
+        <seg>li</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lim</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174814Z" creationid="PiaVee" creationdate="20171014T174814Z">
+        <seg>lim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lin</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174817Z" creationid="PiaVee" creationdate="20171014T174817Z">
+        <seg>lin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lit</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174827Z" creationid="PiaVee" creationdate="20171014T174827Z">
+        <seg>lit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ln</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174816Z" creationid="PiaVee" creationdate="20171014T174816Z">
+        <seg>ln</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lo</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174821Z" creationid="PiaVee" creationdate="20171014T174821Z">
+        <seg>lo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lt</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174827Z" creationid="PiaVee" creationdate="20171014T174827Z">
+        <seg>lt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ltz</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174654Z" creationid="PiaVee" creationdate="20171014T174654Z">
+        <seg>ltz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lu</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174838Z" creationid="PiaVee" creationdate="20171014T174838Z">
+        <seg>lu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lub</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174839Z" creationid="PiaVee" creationdate="20171014T174839Z">
+        <seg>lub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lug</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174754Z" creationid="PiaVee" creationdate="20171014T174754Z">
+        <seg>lug</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lv</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174842Z" creationid="PiaVee" creationdate="20171014T174842Z">
+        <seg>lv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mal</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174909Z" creationid="PiaVee" creationdate="20171014T174909Z">
+        <seg>mal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mg</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174856Z" creationid="PiaVee" creationdate="20171014T174856Z">
+        <seg>mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mi</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174936Z" creationid="PiaVee" creationdate="20171014T174936Z">
+        <seg>mi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mk</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174852Z" creationid="PiaVee" creationdate="20171014T174852Z">
+        <seg>mk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mkd</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174853Z" creationid="PiaVee" creationdate="20171014T174853Z">
+        <seg>mkd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ml</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174906Z" creationid="PiaVee" creationdate="20171014T174906Z">
+        <seg>ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mlg</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174856Z" creationid="PiaVee" creationdate="20171014T174856Z">
+        <seg>mlg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mlt</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174917Z" creationid="PiaVee" creationdate="20171014T174917Z">
+        <seg>mlt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mri</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174937Z" creationid="PiaVee" creationdate="20171014T174937Z">
+        <seg>mri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ms</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174900Z" creationid="PiaVee" creationdate="20171014T174900Z">
+        <seg>ms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>msa</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174902Z" creationid="PiaVee" creationdate="20171014T174902Z">
+        <seg>msa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mt</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174916Z" creationid="PiaVee" creationdate="20171014T174916Z">
+        <seg>mt</seg>
       </tuv>
     </tu>
     <tu>
