@@ -776,8 +776,8 @@
       <tuv lang="EN">
         <seg>Dzongkha</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174027Z" creationid="PiaVee" creationdate="20171014T174027Z">
-        <seg>bhutani</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T180804Z" creationid="PiaVee" creationdate="20171014T174027Z">
+        <seg>dzongkha</seg>
       </tuv>
     </tu>
     <tu>
@@ -920,8 +920,8 @@
       <tuv lang="EN">
         <seg>Fula, Fulah, Pulaar, Pular</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174119Z" creationid="PiaVee" creationdate="20171014T174119Z">
-        <seg>fulani, fulfulde</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T180918Z" creationid="PiaVee" creationdate="20171014T174119Z">
+        <seg>fulani</seg>
       </tuv>
     </tu>
     <tu>
@@ -968,8 +968,8 @@
       <tuv lang="EN">
         <seg>Greek, Modern</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174153Z" creationid="PiaVee" creationdate="20171014T174153Z">
-        <seg>nykykreikka</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T180921Z" creationid="PiaVee" creationdate="20171014T174153Z">
+        <seg>kreikka</seg>
       </tuv>
     </tu>
     <tu>
@@ -992,8 +992,8 @@
       <tuv lang="EN">
         <seg>Haitian, Haitian Creole</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174222Z" creationid="PiaVee" creationdate="20171014T174222Z">
-        <seg>haiti, haitinkreoli</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T181050Z" creationid="PiaVee" creationdate="20171014T174222Z">
+        <seg>haiti</seg>
       </tuv>
     </tu>
     <tu>
