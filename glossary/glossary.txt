@@ -40,3 +40,8 @@ LanguageTool	LanguageTool
 spell check	oikeinkirjoituksen tarkistu	> oikeinkirjoituksen tarkistus
 tokenizer	saneisti	> saneistin
 tokenizer	saneisti	EI : saneistaja (sehän olisi henkilö!)
+Abkhaz	abhaasi
+Afar	afari
+Afrikaans	afrikaans
+Akan	akan
+Albanian	albania
