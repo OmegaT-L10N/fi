@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A Déjà Vu "External View" file takes the form of an RTF file containing a multi-column table, including columns for the source and target text in which each segment occupies a table cell.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T155746Z" creationid="PiaVee" creationdate="20171014T155746Z">
+        <seg>Déjà Vu "External View" -tiedosto on RTF-muotoinen tiedosto, jonka yhdessä sarakkeessa on lähtökielinen, toisessa kohdekielinen teksti, ja yksi taulukon ruutu vastaa yhtä segmenttiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T152044Z" creationid="PiaVee" creationdate="20171014T152044Z">
