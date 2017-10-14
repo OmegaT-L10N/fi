@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A stemming algorithm reduces the words "fishing", "fished", "fish", and "fisher" to the root word, "fish".</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T152317Z" creationid="PiaVee" creationdate="20171014T152300Z">
+        <seg>Vartalonmuodostuksessa käytetty algoritmi tiivistää saneet "fishing", "fished" ja "fisher" perussanaksi "fish".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171001T104347Z" creationid="PiaVee" creationdate="20171001T104347Z">
@@ -1219,6 +1227,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T061617Z" creationid="PiaVee" creationdate="20170910T084447Z">
         <seg>OmegaT on vapaa työkalu tietokoneavusteista kääntämistä varten. Tämä tiedosto on virallinen OmegaT-käyttöopas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is especially useful in case of languages that use pre- and postfix forms for the stem words.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T152611Z" creationid="PiaVee" creationdate="20171014T152611Z">
+        <seg>Tästä on erityisen paljon hyötyä sellaisissa kielissä, joissa sanavartaloon liitetään etu- ja jälkiliitteitä.</seg>
       </tuv>
     </tu>
     <tu>
