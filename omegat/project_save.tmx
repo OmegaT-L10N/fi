@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T094747Z" creationid="PiaVee" creationdate="20171014T094747Z">
+        <seg>Kirjoita uusi sana tai ilmaisu (säännölliset lausekkeet eivät ole käytössä) &lt;e0&gt;Korvaa&lt;/e0&gt;-kenttääb </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Errors found:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092510Z" creationid="PiaVee" creationdate="20171014T092510Z">
