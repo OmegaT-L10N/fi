@@ -1248,8 +1248,8 @@
       <tuv lang="EN">
         <seg>Inupiaq</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174342Z" creationid="PiaVee" creationdate="20171014T174342Z">
-        <seg>inupiak</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T181113Z" creationid="PiaVee" creationdate="20171014T174342Z">
+        <seg>inupiaq</seg>
       </tuv>
     </tu>
     <tu>
@@ -1360,8 +1360,8 @@
       <tuv lang="EN">
         <seg>Kalaallisut, Greenlandic</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174447Z" creationid="PiaVee" creationdate="20171014T174447Z">
-        <seg>kalaallisut, grönlanti</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T181146Z" creationid="PiaVee" creationdate="20171014T174447Z">
+        <seg>kalaallisut</seg>
       </tuv>
     </tu>
     <tu>
@@ -1424,8 +1424,8 @@
       <tuv lang="EN">
         <seg>Kinyarwanda</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174537Z" creationid="PiaVee" creationdate="20171014T174532Z">
-        <seg>kinjaruanda</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T181220Z" creationid="PiaVee" creationdate="20171014T174532Z">
+        <seg>ruanda</seg>
       </tuv>
     </tu>
     <tu>
@@ -1472,8 +1472,8 @@
       <tuv lang="EN">
         <seg>Kwanyama, Kuanyama</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174623Z" creationid="PiaVee" creationdate="20171014T174623Z">
-        <seg>kwanyama, kuanjama</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T181304Z" creationid="PiaVee" creationdate="20171014T174623Z">
+        <seg>kuanjama</seg>
       </tuv>
     </tu>
     <tu>
@@ -1632,16 +1632,16 @@
       <tuv lang="EN">
         <seg>Luganda</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174807Z" creationid="PiaVee" creationdate="20171014T174751Z">
-        <seg>luganda</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T181400Z" creationid="PiaVee" creationdate="20171014T174751Z">
+        <seg>ganda</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Luxembourgish, Letzeburgesch</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174652Z" creationid="PiaVee" creationdate="20171014T174652Z">
-        <seg>letseburgi</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T181312Z" creationid="PiaVee" creationdate="20171014T174652Z">
+        <seg>luxemburg</seg>
       </tuv>
     </tu>
     <tu>
