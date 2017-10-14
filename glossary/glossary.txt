@@ -30,3 +30,4 @@ search option	hakuasetu	> hakuasetus
 Search and replace	etsi ja korvaa
 TaaS	TaaS-palvelu
 OmegaT	OmegaT
+TaaS Terminology Lookup	TaaS-terminologiaha	> haku
