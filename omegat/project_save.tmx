@@ -1319,6 +1319,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When hovering the mouse over the underlined phrase, an explanation will appear.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T150538Z" creationid="PiaVee" creationdate="20171014T150538Z">
+        <seg>Vie osoitin alleviivatun lausekkeen yläpuolelle, niin saat näkyviin selityksen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Will Helton: his final reading of the draft has spared me a lot of embarrassment.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T065723Z" creationid="PiaVee" creationdate="20170930T065317Z">
