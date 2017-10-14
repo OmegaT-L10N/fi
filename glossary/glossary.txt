@@ -29,3 +29,4 @@ click	napsaut	> napsauta
 search option	hakuasetu	> hakuasetus
 Search and replace	etsi ja korvaa
 TaaS	TaaS-palvelu
+OmegaT	OmegaT
