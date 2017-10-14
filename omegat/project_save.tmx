@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T152044Z" creationid="PiaVee" creationdate="20171014T152044Z">
+        <seg>Englanninkielisen vartalonmuodostimen pitäisi siis tunnistaa merkkijono "cats" (ja mielellään myös "catlike", "catty" jne.) sanavartalon "cat" johdannaiseksi sekä merkkijonot "stemmer", "stemming" ja "stemmed" sanavartalon "stem" johdannaisiksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171001T104347Z" creationid="PiaVee" creationdate="20171001T104347Z">
@@ -1194,6 +1202,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T060407Z" creationid="PiaVee" creationdate="20170930T060407Z">
         <seg>{0} ei sisällä paikallisia työkopioita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They also improve glossary matching.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T151815Z" creationid="PiaVee" creationdate="20171014T151815Z">
+        <seg>Tämän lisäksi saneistimet parantavat sanasto-osumia.</seg>
       </tuv>
     </tu>
     <tu>
