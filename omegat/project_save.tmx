@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Incompatibilities</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T150604Z" creationid="PiaVee" creationdate="20171014T150604Z">
+        <seg>Yhteensopivuusongelmat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installation and Use</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T145602Z" creationid="PiaVee" creationdate="20171014T145602Z">
@@ -530,6 +538,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T145535Z" creationid="PiaVee" creationdate="20171014T145535Z">
         <seg>LanguageTool perustuu sääntöihin, joita on luotu sen kielikohtaisiin määritystiedostoihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool will not work properly if an old version is found in the /plugin folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T150646Z" creationid="PiaVee" creationdate="20171014T150646Z">
+        <seg>Jos /plugin-kansiossa on laajennuksen vanha versio, LanguageTool ei toimi kunnolla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -770,6 +786,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T093426Z" creationid="PiaVee" creationdate="20171014T093426Z">
         <seg>Päivitä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove LanguageTool from the /plugin folder before starting OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T150716Z" creationid="PiaVee" creationdate="20171014T150716Z">
+        <seg>Poista LanguageTool /plugin-kansiosta ennen OmegaT-ohjelman avaamista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1219,6 +1243,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T101530Z" creationid="PiaVee" creationdate="20171014T101256Z">
         <seg>Etsi ja korvaa -toiminto hakee tekstiä ainoastaan jo muodostuneesta käännösmuistista, joten OmegaT kopioi lähdesegmentin kohdesegmenttiin ennen tekstin korvaamista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenizers</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T151024Z" creationid="PiaVee" creationdate="20171014T151024Z">
+        <seg>Saneistimet (tokenizers)</seg>
       </tuv>
     </tu>
     <tu>
