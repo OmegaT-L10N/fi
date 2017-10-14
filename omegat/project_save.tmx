@@ -96,8 +96,8 @@
       <tuv lang="EN">
         <seg>&lt;e0&gt;TaaS Terminology Lookup&lt;/e0&gt;: when checked, will allow querying TaaS data on a segment by segment basis.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T114649Z" creationid="PiaVee" creationdate="20171014T114649Z">
-        <seg>&lt;e0&gt;TaaS-terminologiahaku&lt;/e0&gt;: kun tämä kohta on merkitty toimii, </seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T114906Z" creationid="PiaVee" creationdate="20171014T114649Z">
+        <seg>&lt;e0&gt;TaaS-terminologiahaku&lt;/e0&gt; on käytössä, kun tämä kohta on rastittu. , eli termien hakeminen TaaS-datasta, haetaan termejä segmentti kerrallaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -224,8 +224,8 @@
       <tuv lang="EN">
         <seg>Except one: check &lt;e0&gt;Untranslated&lt;/e0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T101302Z" creationid="PiaVee" creationdate="20171014T101015Z">
-        <seg>On kuitenkin yksi poikkeus: valitse &lt;e0&gt;Kääntämättömät&lt;/e0&gt;, jotta etsi ja korvaa -toiminto hakee tekstiä myös kääntämättömistä segmenteistä.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T114659Z" creationid="PiaVee" creationdate="20171014T101015Z">
+        <seg>On kuitenkin yksi poikkeus: rastita &lt;e0&gt;Kääntämättömät&lt;/e0&gt;, jotta etsi ja korvaa -toiminto hakee tekstiä myös kääntämättömistä segmenteistä.</seg>
       </tuv>
     </tu>
     <tu>
