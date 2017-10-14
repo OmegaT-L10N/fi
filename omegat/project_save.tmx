@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T140935Z" creationid="PiaVee" creationdate="20171014T140935Z">
+        <seg>&lt;p0&gt;Laajennukset&lt;/p0&gt;&lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Search and replace - Ctrl+K&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T093555Z" creationid="PiaVee" creationdate="20171014T093555Z">
@@ -414,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T140947Z" creationid="PiaVee" creationdate="20171014T140947Z">
+        <seg>Johdanto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Issues/bugs tracking system</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140144Z" creationid="PiaVee" creationdate="20171014T140144Z">
@@ -458,6 +474,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092525Z" creationid="PiaVee" creationdate="20171014T092525Z">
         <seg>OPITTU:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool plugin</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T140940Z" creationid="PiaVee" creationdate="20171014T140940Z">
+        <seg>LanguageTool-laajennus</seg>
       </tuv>
     </tu>
     <tu>
@@ -648,8 +672,8 @@
       <tuv lang="EN">
         <seg>Please contact the &lt;a2&gt;webmaster&lt;/a2&gt; for any point regarding specifically the website.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T140823Z" creationid="PiaVee" creationdate="20171014T140823Z">
-        <seg>Jos kysymyksesi koskee erityisesti verkkosivua, ota yhteyttä &lt;a2&gt;.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T140911Z" creationid="PiaVee" creationdate="20171014T140823Z">
+        <seg>Jos kysymyksesi koskee erityisesti verkkosivua, ota yhteyttä &lt;a2&gt;sivuston ylläpitäjään&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1243,6 +1267,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T084258Z" creationid="PiaVee" creationdate="20170910T084258Z">
         <seg>fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.languagetool.org</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T141639Z" creationid="PiaVee" creationdate="20171014T141639Z">
+        <seg>http://www.languagetool.org</seg>
       </tuv>
     </tu>
     <tu>
