@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check whole project</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T092646Z" creationid="PiaVee" creationdate="20171014T092646Z">
+        <seg>Tarkista koko projekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose SVN repository to perform cleanup</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T083903Z" creationid="PiaVee" creationdate="20170910T083806Z">
@@ -160,8 +168,16 @@
       <tuv lang="EN">
         <seg>Ignore</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T092603Z" creationid="PiaVee" creationdate="20171014T092603Z">
-        <seg>[fuzzy]EI HUOMIOITU:</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T092631Z" creationid="PiaVee" creationdate="20171014T092603Z">
+        <seg>Älä huomioi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore glossary case</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T092738Z" creationid="PiaVee" creationdate="20171014T092738Z">
+        <seg>Älä huomioi sanaston mukaista kirjainkokoa</seg>
       </tuv>
     </tu>
     <tu>
@@ -202,6 +218,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T080923Z" creationid="PiaVee" creationdate="20170930T080923Z">
         <seg>Lopuksi vielä kiitokset kaikille &lt;u0&gt;OmegaT documentation tracker&lt;/u0&gt;iin osallistuville kaikista epäjohdonmukaisuuksista, joita he ovat löytäneet dokumentaation aiemmista versioista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Learn</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T092634Z" creationid="PiaVee" creationdate="20171014T092634Z">
+        <seg>Opi</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove OmegaT tags which have &lt;br&gt;lower case letter before and after it</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T092955Z" creationid="PiaVee" creationdate="20171014T092838Z">
+        <seg>Poista OmegaT-tägit, joita edeltää ja joita seuraa &lt;br&gt;pieni alkukirjain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove bidirectionality control characters in the current target</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T130344Z" creationid="PiaVee" creationdate="20170908T125345Z">
@@ -346,6 +378,22 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T084237Z" creationid="PiaVee" creationdate="20170910T084237Z">
         <seg>Korvaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace custom tags with space</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T092829Z" creationid="PiaVee" creationdate="20171014T092829Z">
+        <seg>Korvaa muokatut tägit välilyönnillä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace escaped sequences with space</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T092802Z" creationid="PiaVee" creationdate="20171014T092802Z">
+        <seg>Korvaa ohihypätyt osat välilyönnillä</seg>
       </tuv>
     </tu>
     <tu>
@@ -539,6 +587,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T122817Z" creationid="PiaVee" creationdate="20170908T122817Z">
         <seg>Avaaminen: java -jar OmegaT.jar [&lt;valinnat&gt;] [&lt;projektipolku&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use glossary</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T092651Z" creationid="PiaVee" creationdate="20171014T092651Z">
+        <seg>Käytä sanastoa</seg>
       </tuv>
     </tu>
     <tu>
