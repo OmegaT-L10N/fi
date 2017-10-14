@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T160255Z" creationid="PiaVee" creationdate="20171014T160255Z">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt;is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T134722Z" creationid="PiaVee" creationdate="20171014T134616Z">
@@ -562,6 +570,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T150604Z" creationid="PiaVee" creationdate="20171014T150604Z">
         <seg>Yhteensopivuusongelmat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inline tags within segments take the form of serial numbers within curly brackets, i.e. {1}, {2}, etc.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T160624Z" creationid="PiaVee" creationdate="20171014T160624Z">
+        <seg>Segmenttien sisällä olevat tägit ovat numerojärjestyksessä aaltosulkeiden sisällä: {1}, {2}, jne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1507,6 +1523,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T135733Z" creationid="PiaVee" creationdate="20171014T135733Z">
         <seg>Seurantajäjestelmä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translate this file in OmegaT in the usual way.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T160323Z" creationid="PiaVee" creationdate="20171014T160253Z">
+        <seg>Käännä tämä tiedosto OmegaT:ssä tavalliseen tapaan.</seg>
       </tuv>
     </tu>
     <tu>
