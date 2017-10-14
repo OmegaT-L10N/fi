@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T101637Z" creationid="PiaVee" creationdate="20171014T101637Z">
+        <seg>Jos kyseistä segmenttiä ei muuteta, kohdesegmentti "tyhjennetään", eli segmentti pysyy kääntämättömänä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T061112Z" creationid="PiaVee" creationdate="20170910T082715Z">
