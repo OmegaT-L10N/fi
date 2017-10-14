@@ -798,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The author of the Chapter &lt;e1&gt;Learn to use OmegaT in 5 minutes!&lt;/e1&gt; is Samuel Murray, Copyright ©2005-2012.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T132533Z" creationid="PiaVee" creationdate="20171014T132533Z">
+        <seg>Kappaleen &lt;e1&gt;Opi käyttämään OmegaT:tä viidessä minuutissa&lt;/e1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The collections are downloaded as TBX glossaries in the current glossary folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T114447Z" creationid="PiaVee" creationdate="20171014T114447Z">
@@ -810,6 +818,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T132259Z" creationid="PiaVee" creationdate="20171014T132259Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;:n mukana tulevia ohjeita ovat Käyttöopas ja readme.txt -asiakirja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The documentation is Copyright ©2013 Vito Smolej, ©2014-2016 Vincent Bidaux.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T132421Z" creationid="PiaVee" creationdate="20171014T132421Z">
+        <seg>Ohjeiden tekijänoikeuden haltijoita ovat ©2013 Vito Smolej sekä ©2014-2016 Vincent Bidaux.</seg>
       </tuv>
     </tu>
     <tu>
