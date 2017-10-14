@@ -36,3 +36,4 @@ warranty	takuu
 documentation	dokumentaatio
 tracking system	seurantajäjestelmä
 administration	ylläpito
+LanguageTool	LanguageTool
