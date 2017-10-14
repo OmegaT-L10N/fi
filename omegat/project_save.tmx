@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In case no tokenizer exists for the current languages, OmegaT uses Hunspell instead (in that case, make sure that relevant Hunspell dictionaries are installed).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T154325Z" creationid="PiaVee" creationdate="20171014T154325Z">
+        <seg>Jos projektin kielille ei ole olemassa saneistimia, OmegaT käyttää Hunspell-oikolukusanastoja, mikäli nämä on asennettu koneelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In that dialog, it's possible to select All domains or a specific one.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T120108Z" creationid="PiaVee" creationdate="20171014T120108Z">
