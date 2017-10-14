@@ -24,3 +24,4 @@ remove	poista
 mnemonic	muistisään	> muistisääntö
 skip	ohita
 shortcut	oikotie
+search window	hakuikkuna	MUTTA: "search and replace" : _etsi_ ja korvaa
