@@ -16,3 +16,6 @@ Learn to use OmegaT in 5 minutes	Opi käyttämään OmegaT:tä viidessä minuuti
 Will Helton	Will Helton
 Jean-Christophe Helary	Jean-Christophe Helary
 OmegaT documentation tracker	OmegaT documentation tracker	OmegaT documentation tracke
+spellcheck	oikeinkirjoituksen tarkistu	> oikeinkirjoituksen tarkistus
+segment	segment	> segmentti
+target	koh	> kohde
