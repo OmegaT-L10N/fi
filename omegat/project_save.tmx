@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Errors found:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T092510Z" creationid="PiaVee" creationdate="20171014T092510Z">
+        <seg>Löytyneet virheet:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Example - Search and Replace</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T084123Z" creationid="PiaVee" creationdate="20170910T084123Z">
@@ -126,10 +134,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Global spell checking</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T092459Z" creationid="PiaVee" creationdate="20171014T092459Z">
+        <seg>Yleinen oikeinkirjoituksen tarkistus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IGNORED:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T092521Z" creationid="PiaVee" creationdate="20171014T092518Z">
+        <seg>EI HUOMIOITU:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T061112Z" creationid="PiaVee" creationdate="20170910T082715Z">
         <seg>Laita rasti alla olevaan ruutuun, jos haluat käyttää OmegaT:tä samalla kielellä, jota käytettiin ohjelman asennuksen aikana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T092603Z" creationid="PiaVee" creationdate="20171014T092603Z">
+        <seg>[fuzzy]EI HUOMIOITU:</seg>
       </tuv>
     </tu>
     <tu>
@@ -154,6 +186,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T091417Z" creationid="PiaVee" creationdate="20170910T091354Z">
         <seg>Jatkakaa hyvää työtänne!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LEARNED:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T092525Z" creationid="PiaVee" creationdate="20171014T092525Z">
+        <seg>OPITTU:</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T092600Z" creationid="PiaVee" creationdate="20171014T092600Z">
+        <seg>Segmentti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Simple search and replace script</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T084223Z" creationid="PiaVee" creationdate="20170910T084223Z">
@@ -370,6 +418,30 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124842Z" creationid="PiaVee" creationdate="20170908T124842Z">
         <seg>Jokin meni pieleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellcheck</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T092431Z" creationid="PiaVee" creationdate="20171014T092431Z">
+        <seg>Oikeinkirjoituksen tarkistus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellcheck - errors found:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T092536Z" creationid="PiaVee" creationdate="20171014T092536Z">
+        <seg>Oikeinkirjoituksen tarkistus – löytyneet virheet:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellchecker</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T092445Z" creationid="PiaVee" creationdate="20171014T092445Z">
+        <seg>Oikeinkirjoituksen tarkistaja</seg>
       </tuv>
     </tu>
     <tu>
@@ -402,6 +474,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T082310Z" creationid="PiaVee" creationdate="20170910T082245Z">
         <seg>Poista tägit nykyisestä segmentistä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T092622Z" creationid="PiaVee" creationdate="20171014T092602Z">
+        <seg>Kohde</seg>
       </tuv>
     </tu>
     <tu>
