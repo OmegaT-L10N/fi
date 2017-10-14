@@ -19,3 +19,4 @@ OmegaT documentation tracker	OmegaT documentation tracker	OmegaT documentation t
 spellcheck	oikeinkirjoituksen tarkistu	> oikeinkirjoituksen tarkistus
 segment	segment	> segmentti
 target	koh	> kohde
+tag	tägi
