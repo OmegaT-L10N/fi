@@ -1271,6 +1271,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can think of LanguageTool as a software to detect errors that a simple spell checker cannot detect, e.g. mixing up there/their, no/now etc.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T145336Z" creationid="PiaVee" creationdate="20171014T145336Z">
+        <seg>LanguageTool-sovellus paljastaa virheitä, joita yksinkertainen oikeinkirjoituksen tarkastin ei huomaa, esim. kun there/their  tai no/now ovat menneet sekaisin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>en</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T084258Z" creationid="PiaVee" creationdate="20170910T084258Z">
