@@ -168,8 +168,8 @@
       <tuv lang="EN">
         <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T151053Z" creationid="PiaVee" creationdate="20171014T151053Z">
-        <seg>[fuzzy]&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T151411Z" creationid="PiaVee" creationdate="20171014T151053Z">
+        <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1267,6 +1267,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T151056Z" creationid="PiaVee" creationdate="20171014T151024Z">
         <seg>Saneistimet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T151734Z" creationid="PiaVee" creationdate="20171014T151734Z">
+        <seg>Saneistimet (vartalonmuodostimet) tunnistavat lähtötekstissä olevia taivutettuja sanoja ja antavat näin laadukkaampia käännösmuistiosumia.</seg>
       </tuv>
     </tu>
     <tu>
