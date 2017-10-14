@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt; is an Open Source style and grammar proofreading software for English, French, German, Polish, Dutch, Romanian, and a number of other languages - see the &lt;u1&gt;list of supported languages&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T145125Z" creationid="PiaVee" creationdate="20171014T145125Z">
+        <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt; on avoimeen lähdekoodiin perustuva tyyli- ja kielioppitarkistin, joka toimii englanniksi, ranskaksi, saksaksi, puolaksi, hollanniksi, romaniaksi ja monilla muillakin kielillä – tarkasta &lt;u1&gt;tuettujen kielien lista&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171001T104347Z" creationid="PiaVee" creationdate="20171001T104347Z">
@@ -1275,6 +1283,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T141639Z" creationid="PiaVee" creationdate="20171014T141639Z">
         <seg>http://www.languagetool.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.languagetool.org/languages/</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T144855Z" creationid="PiaVee" creationdate="20171014T144855Z">
+        <seg>http://www.languagetool.org/languages/</seg>
       </tuv>
     </tu>
     <tu>
