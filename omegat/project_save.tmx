@@ -528,8 +528,8 @@
       <tuv lang="EN">
         <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T134959Z" creationid="PiaVee" creationdate="20171014T134834Z">
-        <seg>&lt;a0&gt;Täältä&lt;/a0&gt; löytyy aktiivinen ja monikielinen OmegaT:n käyttäjien ryhmä, johon  on  on hyvin aktiivinen </seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T135120Z" creationid="PiaVee" creationdate="20171014T134834Z">
+        <seg>&lt;a0&gt;Täältä&lt;/a0&gt; löytyy aktiivinen ja monikielinen OmegaT:n käyttäjäryhmä, johon kannattaa liittyä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -934,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The user group also serves as the main point of contact between users and the project team.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T135229Z" creationid="PiaVee" creationdate="20171014T135229Z">
+        <seg>Käyttäjäryhmä on samalla pääasiallinen yhteistyökanava käyttäjien ja projektitiimin välillä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then click on &lt;e0&gt;Search&lt;/e0&gt; button to display all the corresponding occurrences.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T100450Z" creationid="PiaVee" creationdate="20171014T094539Z">
@@ -1025,8 +1033,8 @@
       <tuv lang="EN">
         <seg>User group</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T134838Z" creationid="PiaVee" creationdate="20171014T134746Z">
-        <seg>Käyttäjien ryhmä</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T135003Z" creationid="PiaVee" creationdate="20171014T134746Z">
+        <seg>Käyttäjäryhmä</seg>
       </tuv>
     </tu>
     <tu>
