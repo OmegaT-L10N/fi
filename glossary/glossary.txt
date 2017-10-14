@@ -26,3 +26,4 @@ skip	ohita
 shortcut	oikotie
 search window	hakuikkuna	MUTTA: "search and replace" : _etsi_ ja korvaa
 click	napsaut	> napsauta
+search option	hakuasetu	> hakuasetus
