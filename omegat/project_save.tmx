@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT configuration launchers (OmegaT.l4J.ini, omegat.kaptn and Configuration.properties) contain a template entry.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T110647Z" creationid="PiaVee" creationdate="20171014T110647Z">
+        <seg>OmegaT:n määrittimissä (OmegaT.l4J.ini, omegat.kaptn sekä Configuration.properties) on mallipohja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One could only wonder, how many the and a prepositions would still be missing without his invaluable help.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T075649Z" creationid="PiaVee" creationdate="20170930T070409Z">
