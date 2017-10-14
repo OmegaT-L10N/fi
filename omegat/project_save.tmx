@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Background situation</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T154553Z" creationid="PiaVee" creationdate="20171014T154553Z">
+        <seg>Alkutilanne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Borrowing an example from Slovenian, here "good" in all possible grammatically correct forms:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T152738Z" creationid="PiaVee" creationdate="20171014T152738Z">
@@ -1293,6 +1301,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>This can be achieved (for Déjà Vu DVX) by use of Déjà Vu's "External View" file format.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T154823Z" creationid="PiaVee" creationdate="20171014T154823Z">
+        <seg>Tämä onnistuu Déjà Vu DVX:n "External View" -tiedostomuodon avulla.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>VIRALLINEN KÄYTTÖOPAS?!??!?! Voiko tätä sanoa yksinkertaisemmin? Ja miten tätä lausetta jatketaan niin, että OmegaT tulee selvitettyä?</note>
       <tuv lang="EN">
         <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
@@ -1499,6 +1515,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T065723Z" creationid="PiaVee" creationdate="20170930T065317Z">
         <seg>Will Heltonia luonnoksen lopullisesta oikoluvusta, sillä se säästi minut monelta nolostumiselta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are an OmegaT user and are requested by a customer to deliver a translation in Déjà Vu's file format.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T154727Z" creationid="PiaVee" creationdate="20171014T154727Z">
+        <seg>Käyttämäsi CAT-ohjelma on OmegaT, mutta asiakas pyytää sinua palauttamaan käännöksen Déjà Vu -ohjelman tiedostomuodossa</seg>
       </tuv>
     </tu>
     <tu>
