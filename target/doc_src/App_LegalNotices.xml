@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<appendix id="appendix.legal.notices">
+  <title><indexterm class="singular">
+      <primary>Oikeudelliset huomautukset</primary>
+    </indexterm>Oikeudelliset huomautukset</title>
+
+  <section id="legal.notices.for.documentation">
+    <title>Dokumentaatiosta<indexterm class="singular">
+        <primary>Oikeudelliset huomautukset</primary><secondary>Dokumentaatiosta</secondary>
+      </indexterm></title>
+
+    <para><emphasis role="bold">Tekijänoikeus</emphasis></para>
+
+    <para><application>OmegaT</application>:n mukana tulevia ohjeita ovat Käyttöopas ja readme.txt -asiakirja. Ohjeiden copyright: © 2013 Vito Smolej sekä © 2014–2016 Vincent Bidaux. Kappaleen <emphasis>Opi käyttämään OmegaT:tä viidessä minuutissa</emphasis> tekijä on Samuel Murray, copyright © 2005–2012.</para>
+
+    <para><emphasis role="bold">Jakelu ja muokkaukset</emphasis></para>
+
+    <para>Ohjeet ovat vapaa asiakirja, joten niitä voi sekä levittää että muokata Free Software Foundationin julkaiseman GNU General Public Licencen (GNU-hankkeen yleinen lisenssin, GNU GPL) ehtojen mukaisesti. Voit käyttää joko versiota 3 tai (niin halutessasi) mitä tahansa myöhempää versiota.</para>
+
+    <para><emphasis role="bold">Takuu</emphasis></para>
+
+    <para>Vaikka ohjeista toivotaan olevan apua, niitä jaetaan ILMAN TAKUITA, jopa ilman takuuta niiden MYYNTIKELPOISUUDESTA tai SOVELTUVUUDESTA TIETTYYN TARKOITUKSEEN. Lisätietoja saa GNU GPL -lisenssitekstistä.</para>
+  </section>
+
+  <section id="legal.ntices.for.application">
+    <title>Sovelluksesta<indexterm class="singular">
+        <primary>Oikeudelliset huomautukset</primary><secondary>Sovelluksesta</secondary>
+      </indexterm></title>
+
+    <para><emphasis role="bold">Tekijänoikeus</emphasis></para>
+
+    <para><emphasis role="bold"><application>OmegaT</application>:n </emphasis> tekijänoikeus © 2000–2016: Keith Godfrey, Lev Abashkin, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich sekä Michael Zakharov.</para>
+
+    <para><emphasis role="bold">Jakelu ja muokkaukset</emphasis></para>
+
+    <para><emphasis role="bold">OmegaT</emphasis> on vapaa sovellus, joten sitä voi sekä levittää että muokata Free Software Foundationin julkaiseman GNU General Public Licencen (GNU-hankkeen yleinen lisenssin, GNU GPL) ehtojen mukaisesti. Voit käyttää joko versiota 3 tai (niin halutessasi) mitä tahansa myöhempää versiota.</para>
+
+    <para><emphasis role="bold">Takuu</emphasis></para>
+
+    <para>Vaikka <emphasis role="bold">OmegaT:n<application> käytöstä toivotaan olevan apua, ohjelmaa jaetaan ILMAN TAKUITA, jopa ilman takuuta sen MYYNTIKELPOISUUDESTA tai SOVELTUVUUDESTA TIETTYYN TARKOITUKSEEN. Lisätietoja saa GNU GPL -lisenssitekstistä.</para>
+  </section>
+</appendix>
