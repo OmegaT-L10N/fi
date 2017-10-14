@@ -64,8 +64,16 @@
       <tuv lang="EN">
         <seg>&lt;e0&gt;Replace All:&lt;/e0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T095004Z" creationid="PiaVee" creationdate="20171014T095004Z">
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T095134Z" creationid="PiaVee" creationdate="20171014T095004Z">
         <seg>&lt;e0&gt;Korvaa kaikki&lt;/e0&gt; näyttää vahvistusikkunassa, montako kertaa sana tai ilmaus esiintyy, ja korvaa ne kaikki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Replace:&lt;/e0&gt; operates a "one by one" replacement, by the mean of buttons in the &lt;e1&gt;header of the Editor pane&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T100237Z" creationid="PiaVee" creationdate="20171014T095031Z">
+        <seg>&lt;e0&gt;Korvaa&lt;/e0&gt; korvaa yhden esiintymän kerrallaan. Käytä tätä varten &lt;e1&gt;tekstinmuokkausruudun ylätunnisteessa&lt;/e1&gt; olevia painikkeita.</seg>
       </tuv>
     </tu>
     <tu>
