@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Déjà Vu "External View"</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T154833Z" creationid="PiaVee" creationdate="20171014T154833Z">
+        <seg>Déjà Vu "External View"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T100504Z" creationid="PiaVee" creationdate="20171014T094747Z">
@@ -554,6 +562,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T145441Z" creationid="PiaVee" creationdate="20171014T145441Z">
         <seg>Oikeinkirjoituksen tarkistus ei sisälly sovellukseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It enables editors who do not possess Déjà Vu to edit translations produced in Déjà Vu in such a way that amendments can be reincorporated easily.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T155321Z" creationid="PiaVee" creationdate="20171014T155321Z">
+        <seg>Sen avulla Déjà Vu -ohjelmalla tuotettuja käännöksiä voidaan muokata muissa ohjelmissa, ja muokkaukset saadaan vietyä helposti Déjà Vu -muotoon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1154,6 +1170,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T063056Z" creationid="PiaVee" creationdate="20170930T063056Z">
         <seg>Kiitos teille kaikille!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Déjà Vu "External View" file format is a feature of Déjà Vu DVX.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T154920Z" creationid="PiaVee" creationdate="20171014T154920Z">
+        <seg>"External View"-tiedostomuoto on Déjà Vu DVX:n ominaisuus.</seg>
       </tuv>
     </tu>
     <tu>
