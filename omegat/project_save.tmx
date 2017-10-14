@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installation and Use</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T145602Z" creationid="PiaVee" creationdate="20171014T145602Z">
+        <seg>Asennus ja käyttö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140947Z" creationid="PiaVee" creationdate="20171014T140947Z">
@@ -462,6 +470,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can also detect some grammar mistakes.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T145358Z" creationid="PiaVee" creationdate="20171014T145358Z">
+        <seg>Se paljastaa myös joitain kielioppivirheitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It does not include spell checking.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T145441Z" creationid="PiaVee" creationdate="20171014T145441Z">
+        <seg>Oikeinkirjoituksen tarkistus ei sisälly sovellukseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary: special thanks to JC for his concise description of OmegaT run, command line parameters and all other details, I have yet to notice.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T080551Z" creationid="PiaVee" creationdate="20170930T080331Z">
@@ -490,6 +514,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140940Z" creationid="PiaVee" creationdate="20171014T140940Z">
         <seg>LanguageTool-laajennus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool will find errors for which a rule has been defined in its language-specific configuration files.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T145535Z" creationid="PiaVee" creationdate="20171014T145535Z">
+        <seg>LanguageTool perustuu sääntöihin, joita on luotu sen kielikohtaisiin määritystiedostoihin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -986,6 +1018,22 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T063056Z" creationid="PiaVee" creationdate="20170930T063056Z">
         <seg>Kiitos teille kaikille!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The LanguageTool in OmegaT</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T145555Z" creationid="PiaVee" creationdate="20171014T145547Z">
+        <seg>LanguageTool ja OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The LanguageTool plugin is included in OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T145619Z" creationid="PiaVee" creationdate="20171014T145619Z">
+        <seg>OmegaT sisältää LanguageTool-laajennuksen.</seg>
       </tuv>
     </tu>
     <tu>
