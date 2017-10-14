@@ -32,3 +32,4 @@ TaaS	TaaS-palvelu
 OmegaT	OmegaT
 TaaS Terminology Lookup	TaaS-terminologiaha	> haku
 legal notice	oikeudelli huomautu	> oikeudellinen huomautus
+warranty	takuu
