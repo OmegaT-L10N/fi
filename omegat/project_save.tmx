@@ -320,8 +320,8 @@
       <tuv lang="EN">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T093718Z" creationid="PiaVee" creationdate="20171014T093718Z">
-        <seg>Avaa etsi ja korvaa -ikkuna painamalla </seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T094102Z" creationid="PiaVee" creationdate="20171014T093718Z">
+        <seg>Avaa etsi ja korvaa -ikkuna painamalla &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;K&lt;/k2&gt;&lt;/k0&gt;ja kirjoita &lt;e3&gt;Etsi&lt;/e3&gt;-kenttään sana tai ilmaus, jonka haluat korvata toisella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -602,6 +602,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T060643Z" creationid="PiaVee" creationdate="20170930T060643Z">
         <seg>Komentosarja päättyy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then click on &lt;e0&gt;Search&lt;/e0&gt; button to display all the corresponding occurrences.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171014T094539Z" creationid="PiaVee" creationdate="20171014T094539Z">
+        <seg>Paina sen jälkeen &lt;e0&gt;Etsi&lt;/e0&gt;-painiketta, jolloin haku näyttää kaikki kohdat, joissa kyseinen sana tai ilmaus esiintyy.</seg>
       </tuv>
     </tu>
     <tu>
