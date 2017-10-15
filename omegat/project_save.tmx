@@ -80,12 +80,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--disable-location-save
+		Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T083944Z" creationid="PiaVee" creationdate="20171015T083944Z">
+        <seg>--disable-location-save
+		Älä muista tiedostovalitsimessa viimeksi avattua hakemistoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--disable-project-locking
+		Do not attempt to lock the project's omegat.project file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T083837Z" creationid="PiaVee" creationdate="20171015T083837Z">
+        <seg>--disable-project-locking
+		Älä lukitse projektin omegat.project-tiedostoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T083314Z" creationid="PiaVee" creationdate="20171015T083314Z">
         <seg>--tila=[console-translate|console-pseudotranslatetmx|console-align]
 		Määrittelee muun kuin oletustilan (GUI).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--no-team
+		Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T084018Z" creationid="PiaVee" creationdate="20171015T084018Z">
+        <seg>--no-team
+		Poista ryhmäprojektiominaisuus käytöstä.</seg>
       </tuv>
     </tu>
     <tu>
