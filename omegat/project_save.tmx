@@ -2355,8 +2355,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T104225Z" creationid="PiaVee" creationdate="20171015T104225Z">
-        <seg>[fuzzy]Vasemmalta oikealle -merkki (LRM U+200E)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110313Z" creationid="PiaVee" creationdate="20171015T104225Z">
+        <seg>Vasemmalta oikealle sisällyttävä merkki (LRE U+200E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3214,6 +3214,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103139Z" creationid="PiaVee" creationdate="20171015T094908Z">
         <seg>Palauta oletus (&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-to-Left Embedding (RLE U+202B)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110322Z" creationid="PiaVee" creationdate="20171015T110311Z">
+        <seg>Oikealta vasemmalle sisällyttävä merkki (RLE U+200F)</seg>
       </tuv>
     </tu>
     <tu>
