@@ -62,6 +62,70 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Back</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T094323Z" creationid="PiaVee" creationdate="20171015T094323Z">
+        <seg>&amp;Back</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Cancel</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T094303Z" creationid="PiaVee" creationdate="20171015T094303Z">
+        <seg>&amp;Cancel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T094306Z" creationid="PiaVee" creationdate="20171015T094306Z">
+        <seg>&amp;Close</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Filter</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T094308Z" creationid="PiaVee" creationdate="20171015T094308Z">
+        <seg>&amp;Filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;OK</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T094259Z" creationid="PiaVee" creationdate="20171015T094259Z">
+        <seg>&amp;OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Remove</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T094447Z" creationid="PiaVee" creationdate="20171015T094447Z">
+        <seg>&amp;Poista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T094316Z" creationid="PiaVee" creationdate="20171015T094316Z">
+        <seg>&amp;Replace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Search</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T094411Z" creationid="PiaVee" creationdate="20171015T094411Z">
+        <seg>&amp;Etsi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T153019Z" creationid="PiaVee" creationdate="20171014T153019Z">
@@ -792,6 +856,14 @@
         <seg>Komennot:
 	-h, --help
 		Näyttää tietoa käytöstä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Con&amp;tents</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T094321Z" creationid="PiaVee" creationdate="20171015T094321Z">
+        <seg>Con&amp;tents</seg>
       </tuv>
     </tu>
     <tu>
@@ -2410,6 +2482,22 @@ ja vahvista kaikki.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Re&amp;move Filter</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T094314Z" creationid="PiaVee" creationdate="20171015T094314Z">
+        <seg>Re&amp;move Filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Re&amp;place All</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T094319Z" creationid="PiaVee" creationdate="20171015T094319Z">
+        <seg>Re&amp;place All</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Refresh</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T093426Z" creationid="PiaVee" creationdate="20171014T093426Z">
@@ -2678,6 +2766,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092600Z" creationid="PiaVee" creationdate="20171014T092600Z">
         <seg>Segmentti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T094344Z" creationid="PiaVee" creationdate="20171015T094344Z">
+        <seg>Valinta</seg>
       </tuv>
     </tu>
     <tu>
