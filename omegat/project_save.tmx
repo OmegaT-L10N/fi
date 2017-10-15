@@ -1282,8 +1282,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103920Z" creationid="PiaVee" creationdate="20171015T103857Z">
-        <seg>Luo sanastotieto...</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103934Z" creationid="PiaVee" creationdate="20171015T103857Z">
+        <seg>Luo sanastotieto... (&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1945,6 +1945,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Unicode Control Character</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T104105Z" creationid="PiaVee" creationdate="20171015T104105Z">
+        <seg>Lisää Unicode-ohjausmerkki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installation and Use</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T145602Z" creationid="PiaVee" creationdate="20171014T145602Z">
@@ -2341,6 +2349,22 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092634Z" creationid="PiaVee" creationdate="20171014T092634Z">
         <seg>Opi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left-to-Right Embedding (LRE U+202A)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T104225Z" creationid="PiaVee" creationdate="20171015T104225Z">
+        <seg>[fuzzy]Vasemmalta oikealle -merkki (LRM U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T104149Z" creationid="PiaVee" creationdate="20171015T104149Z">
+        <seg>Vasemmalta oikealle -merkki (LRM U+200E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3108,8 +3132,8 @@ ja vahvista kaikki.
       <tuv lang="EN">
         <seg>Remove bidirectionality control characters in the current target</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170908T130344Z" creationid="PiaVee" creationdate="20170908T125345Z">
-        <seg>Poista kaksisuuntaisen tekstin kontrollimerkit nykyisestä kohteesta</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T104126Z" creationid="PiaVee" creationdate="20170908T125345Z">
+        <seg>Poista kaksisuuntaisen tekstin ohjausmerkit nykyisestä kohteesta</seg>
       </tuv>
     </tu>
     <tu>
@@ -3190,6 +3214,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103139Z" creationid="PiaVee" creationdate="20171015T094908Z">
         <seg>Palauta oletus (&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-to-Left Mark (RLM U+200F)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T104208Z" creationid="PiaVee" creationdate="20171015T104208Z">
+        <seg>Oikealta vasemmalle -merkki (RLM U+200F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3398,6 +3430,70 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T101718Z" creationid="PiaVee" creationdate="20171015T094344Z">
         <seg>Valinnat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &amp;Next Match</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103950Z" creationid="PiaVee" creationdate="20171015T103950Z">
+        <seg>Valitse seuraava osuma (&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &amp;Previous Match</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T104001Z" creationid="PiaVee" creationdate="20171015T104001Z">
+        <seg>Valitse edellinen osuma (&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Mat&amp;ch</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103941Z" creationid="PiaVee" creationdate="20171015T103925Z">
+        <seg>Valitse osuma (&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;1</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T104015Z" creationid="PiaVee" creationdate="20171015T104015Z">
+        <seg>Valitse osuma nro &amp;1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;2</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T104020Z" creationid="PiaVee" creationdate="20171015T104020Z">
+        <seg>Valitse osuma nro &amp;3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;3</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T104027Z" creationid="PiaVee" creationdate="20171015T104027Z">
+        <seg>Valitse osuma nro &amp;3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;4</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T104032Z" creationid="PiaVee" creationdate="20171015T104032Z">
+        <seg>Valitse osuma nro &amp;4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;5</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T104037Z" creationid="PiaVee" creationdate="20171015T104037Z">
+        <seg>Valitse osuma nro &amp;5</seg>
       </tuv>
     </tu>
     <tu>
