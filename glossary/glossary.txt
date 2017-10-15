@@ -302,7 +302,7 @@ Kawi	kavi	kaw
 Kabardian	kabardi	kbd
 Kanembu	kanembu	kbl
 Tyap	tyap	kcg
-Makonde	makonde	kde	
+Makonde	makonde	kde
 Kabuverdianu	kapverdenkreoli	kea
 Kenyang	kenyang	ken
 Koro	norsunluurannikonkoro	kfo
@@ -503,9 +503,9 @@ Roviana	roviana	rug
 Aromanian	aromania	rup
 Kinyarwanda	ruanda	rw
 Rwa	rwa	rwk
-Sanskrit	sanskrit	sa	
+Sanskrit	sanskrit	sa
 Sandawe	sandawe	sad
-Sakha	jakuutti	sah	
+Sakha	jakuutti	sah
 Samaritan Aramaic	samarianaramea	sam
 Samburu	samburu	saq
 Sasak	sasak	sas
@@ -519,14 +519,14 @@ Scots	skotti	sco
 Sindhi	sindhi	sd
 Sassarese Sardinian	sassarinsardi	sdc
 Southern Kurdish	eteläkurdi	sdh
-Northern Sami	pohjoissaame	se	
+Northern Sami	pohjoissaame	se
 Seneca	seneca	see
 Sena	sena	seh
 Sri	seri	sei
 Selkup	selkuppi	sel
 Koyraboro Senni	koyraboro senni	ses
 Sango	sango	sg
-Old Irish	muinaisiiri	sga	
+Old Irish	muinaisiiri	sga
 Samogitian	samogiitti	sgs
 Serbo-Croatian	serbokroaatti	sh
 Tachelhit	tašelhit	shi
@@ -556,7 +556,7 @@ Saho	saho	ssy
 Southern Sotho	eteläsotho	st
 Saterland Frisian	saterlandinfriisi	stq
 Sundanese	sunda	su
-Sukuma	sukuma	suk	
+Sukuma	sukuma	suk
 Susu	susu	sus
 Sumerian	sumeri	sux
 Swedish	ruotsi	sv
@@ -570,7 +570,7 @@ Tamil	tamili	ta
 Tulu	tulu	tcy
 Telugu	telugu	te
 Timne	temne	tem
-Teso	teso	teo	
+Teso	teso	teo
 Tereno	tereno	ter
 Tetum	tetum	tet
 Tajik	tadžikki	tg
@@ -619,7 +619,7 @@ Wolaytta	wolaitta	wal
 Waray	waray	war
 Washo	washo	was
 Warlpiri	warlpiri	wbp
-Venda	venda	ve	
+Venda	venda	ve
 Venetian	venetsia	vec
 Veps	vepsä	vep
 Vietnamese	vietnam	vi
@@ -637,7 +637,7 @@ Mingrelian	mingreli	xmf
 Soga	soga	xog
 Yao	jao	yao
 Yapese	japi	yap
-Yangben	yangben	yav	
+Yangben	yangben	yav
 Yemba	yemba	ybb
 Yiddish	jiddiš	yi
 Yoruba	joruba	yo
@@ -656,3 +656,4 @@ Zulu	zulu	zu
 Zuni	zuni	zun
 No linguistic content	ei kielellistä sisältöä	zxx
 Zaza	zaza	zza
+user's Manual	käyttöopas	OmegaT:n ohje. Englanniksi Users manual, user manual, tai vaikka pelkkä manual
