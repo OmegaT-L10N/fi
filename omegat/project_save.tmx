@@ -1962,16 +1962,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124943Z" creationid="PiaVee" creationdate="20171015T124943Z">
-        <seg>Tiedosto: käännetty / segmenttimäärä (projekti: käännettyjä uniikkeja / uniikkeja yhteensä, segmenttejä kaikkiaan)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T125024Z" creationid="PiaVee" creationdate="20171015T124943Z">
+        <seg>Tiedosto: käännetty / segmenttimäärä (projekti: uniikkeja käännettyjä / uniikkeja yhteensä, segmenttejä kaikkiaan)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T125019Z" creationid="PiaVee" creationdate="20171015T125019Z">
-        <seg>Tiedosto: käännettyjä uniikkeja % (uniikkeja jäljellä) / projekti: segmenttimäärä (projekti: käännettyjä uniikkeja / uniikkeja yhteensä, segmenttejä kaikkiaan)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T125141Z" creationid="PiaVee" creationdate="20171015T125019Z">
+        <seg>Tiedosto: uniikkeja käännettyjä % (uniikkeja jäljellä) / projekti: uniikkeja käännettyjä % (uniikkeja jäljellä), segmenttejä kaikkiaan</seg>
       </tuv>
     </tu>
     <tu>
@@ -2581,6 +2581,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T080551Z" creationid="PiaVee" creationdate="20170930T080331Z">
         <seg>Jean-Christophe Helarytä OmegaT-ajon johdonmukaisesta kuvauksesta, komentolinjaparametreistä sekä kaikista muista yksityiskohdista, joita en ole vielä huomannut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jumping to last edited segment...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T125202Z" creationid="PiaVee" creationdate="20171015T125202Z">
+        <seg>Siirtymässä viimeksi muokattuun segmenttiin...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4751,6 +4759,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T160323Z" creationid="PiaVee" creationdate="20171014T160253Z">
         <seg>Käännä tämä tiedosto OmegaT:ssä tavalliseen tapaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation last modified by {0} on {1} at {2}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T125315Z" creationid="PiaVee" creationdate="20171015T125229Z">
+        <seg>Käännöstä muokkasi viimeksi {0}, {1} klo {2}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7449,6 +7465,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081326Z" creationid="PiaVee" creationdate="20171015T081326Z">
         <seg>se</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>segment 0000</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T125239Z" creationid="PiaVee" creationdate="20171015T125228Z">
+        <seg>segmentti 0000</seg>
       </tuv>
     </tu>
     <tu>
