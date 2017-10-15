@@ -1504,6 +1504,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionar&amp;y</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122210Z" creationid="PiaVee" creationdate="20171015T122210Z">
+        <seg>Sana&amp;kirja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122243Z" creationid="PiaVee" creationdate="20171015T122243Z">
+        <seg>Sanakirja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Didier Briel: I could not do without Didier's patient and persistent help with DocBook intricacies.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T064835Z" creationid="PiaVee" creationdate="20170930T064402Z">
@@ -1600,6 +1616,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable &amp;TransTips</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122150Z" creationid="PiaVee" creationdate="20171015T122150Z">
+        <seg>Ota TransTips käyttöön</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>English</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174031Z" creationid="PiaVee" creationdate="20171014T174031Z">
@@ -1652,6 +1676,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174047Z" creationid="PiaVee" creationdate="20171014T174047Z">
         <seg>ewe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exact &amp;match</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122200Z" creationid="PiaVee" creationdate="20171015T122200Z">
+        <seg>Tarkka &amp;osuma</seg>
       </tuv>
     </tu>
     <tu>
@@ -1796,6 +1828,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092459Z" creationid="PiaVee" creationdate="20171014T092459Z">
         <seg>Yleinen oikeinkirjoituksen tarkistus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122202Z" creationid="PiaVee" creationdate="20171015T122202Z">
+        <seg>Sanasto</seg>
       </tuv>
     </tu>
     <tu>
@@ -3410,6 +3450,14 @@ ja vahvista kaikki.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace &amp;glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122139Z" creationid="PiaVee" creationdate="20171015T122139Z">
+        <seg>Korvaa sanasto-&amp;osumat lähtötekstiä lisättäessä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace custom tags with space</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092829Z" creationid="PiaVee" creationdate="20171014T092829Z">
@@ -4331,6 +4379,14 @@ ja vahvista kaikki.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TransTips</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122144Z" creationid="PiaVee" creationdate="20171015T122144Z">
+        <seg>TransTips</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translate this file in OmegaT in the usual way.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T160323Z" creationid="PiaVee" creationdate="20171014T160253Z">
@@ -4419,10 +4475,26 @@ ja vahvista kaikki.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122239Z" creationid="PiaVee" creationdate="20171015T122239Z">
+        <seg>Käytä sanakirjatietueiden &amp;sumeita osumia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T121722Z" creationid="PiaVee" creationdate="20171015T111501Z">
         <seg>TA&amp;B liikuttaa eteenpäin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122255Z" creationid="PiaVee" creationdate="20171015T122255Z">
+        <seg>Käytä sanakirjatietueiden &amp;sumeita osumia</seg>
       </tuv>
     </tu>
     <tu>
