@@ -160,8 +160,8 @@
       <tuv lang="EN">
         <seg>&amp;Editor...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111556Z" creationid="PiaVee" creationdate="20171015T111556Z">
-        <seg>Muokkain... (&amp;E)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121851Z" creationid="PiaVee" creationdate="20171015T111556Z">
+        <seg>&amp;Muokkain...</seg>
       </tuv>
     </tu>
     <tu>
@@ -208,8 +208,8 @@
       <tuv lang="EN">
         <seg>&amp;Glossary</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111629Z" creationid="PiaVee" creationdate="20171015T111629Z">
-        <seg>Sanasto (&amp;G)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121922Z" creationid="PiaVee" creationdate="20171015T111629Z">
+        <seg>&amp;Sanasto</seg>
       </tuv>
     </tu>
     <tu>
@@ -424,8 +424,8 @@
       <tuv lang="EN">
         <seg>&amp;Segmentation...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111613Z" creationid="PiaVee" creationdate="20171015T111613Z">
-        <seg>Segmentointi... (&amp;S)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121913Z" creationid="PiaVee" creationdate="20171015T111613Z">
+        <seg>&amp;Segmentointi...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1514,8 +1514,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Display context description for TBX &amp;glossaries</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111741Z" creationid="PiaVee" creationdate="20171015T111741Z">
-        <seg>Näytä TBX-sanastojen kontekstitiedot (&amp;G)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121943Z" creationid="PiaVee" creationdate="20171015T111741Z">
+        <seg>Näytä TBX-&amp;sanastojen kontekstitiedot</seg>
       </tuv>
     </tu>
     <tu>
@@ -2587,8 +2587,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111623Z" creationid="PiaVee" creationdate="20171015T111623Z">
-        <seg>Konekäännös (&amp;H)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121919Z" creationid="PiaVee" creationdate="20171015T111623Z">
+        <seg>&amp;Konekäännös</seg>
       </tuv>
     </tu>
     <tu>
@@ -2675,16 +2675,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Translated Segments</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111515Z" creationid="PiaVee" creationdate="20171015T111515Z">
-        <seg>Merkitse käännetyt segmentit (&amp;T)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121738Z" creationid="PiaVee" creationdate="20171015T111515Z">
+        <seg>&amp;Merkitse käännetyt segmentit</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Mark &amp;Untranslated Segments</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111525Z" creationid="PiaVee" creationdate="20171015T111525Z">
-        <seg>Merkitse kääntämättömät segmentit (&amp;U)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121829Z" creationid="PiaVee" creationdate="20171015T111525Z">
+        <seg>Merkitse kää&amp;ntämättömät segmentit</seg>
       </tuv>
     </tu>
     <tu>
@@ -4421,8 +4421,16 @@ ja vahvista kaikki.
       <tuv lang="EN">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111501Z" creationid="PiaVee" creationdate="20171015T111501Z">
-        <seg>TAB liikuttaa eteenpäin (&amp;T)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121722Z" creationid="PiaVee" creationdate="20171015T111501Z">
+        <seg>TA&amp;B liikuttaa eteenpäin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122036Z" creationid="PiaVee" creationdate="20171015T122036Z">
+        <seg>Käytä sanastotietueiden &amp;vartaloita</seg>
       </tuv>
     </tu>
     <tu>
@@ -4437,8 +4445,8 @@ ja vahvista kaikki.
       <tuv lang="EN">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111851Z" creationid="PiaVee" creationdate="20171015T111851Z">
-        <seg>Käytä lähtötekstin yksittäisiä termejä</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121950Z" creationid="PiaVee" creationdate="20171015T111851Z">
+        <seg>Käytä lähtötekstin &amp;yksittäisiä termejä</seg>
       </tuv>
     </tu>
     <tu>
