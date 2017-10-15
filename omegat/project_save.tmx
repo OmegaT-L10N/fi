@@ -400,8 +400,8 @@
       <tuv lang="EN">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T085007Z" creationid="PiaVee" creationdate="20171015T085007Z">
-        <seg>Abort: Lopeta virheellisenä, jos tägit ovat virheellisiä.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T091427Z" creationid="PiaVee" creationdate="20171015T085007Z">
+        <seg>Abort: Antaa virheilmoituksen ja lopettaa, jos tägit ovat virheellisiä.</seg>
       </tuv>
     </tu>
     <tu>
