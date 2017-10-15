@@ -1426,8 +1426,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111657Z" creationid="PiaVee" creationdate="20171015T103857Z">
-        <seg>Luo sanastotietue... (&amp;G)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121042Z" creationid="PiaVee" creationdate="20171015T103857Z">
+        <seg>Luo &amp;sanastotietue...</seg>
       </tuv>
     </tu>
     <tu>
