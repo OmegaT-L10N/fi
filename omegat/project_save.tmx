@@ -1816,6 +1816,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to load translation memory {0} for project!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T123837Z" creationid="PiaVee" creationdate="20171015T123837Z">
+        <seg>Projektin käännösmuistin {0} lataaminen ei onnistunut!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Faroese</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174055Z" creationid="PiaVee" creationdate="20171014T174055Z">
@@ -3582,6 +3590,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103735Z" creationid="PiaVee" creationdate="20171015T103735Z">
         <seg>Poista käännös</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reopen the project now?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T123758Z" creationid="PiaVee" creationdate="20171015T123758Z">
+        <seg>Avataanko projekti uudelleen nyt?</seg>
       </tuv>
     </tu>
     <tu>
