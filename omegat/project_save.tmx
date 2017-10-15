@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111231Z" creationid="PiaVee" creationdate="20171015T111231Z">
+        <seg>&amp;Ohjeet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103144Z" creationid="PiaVee" creationdate="20171015T094955Z">
@@ -242,6 +250,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103246Z" creationid="PiaVee" creationdate="20171015T101338Z">
         <seg>Avaa... (&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Options</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111221Z" creationid="PiaVee" creationdate="20171015T111221Z">
+        <seg>&amp;Asetukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -390,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Statistics</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111322Z" creationid="PiaVee" creationdate="20171015T111322Z">
+        <seg>Tilastot (&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Target Files</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103426Z" creationid="PiaVee" creationdate="20171015T102746Z">
@@ -400,8 +424,8 @@
       <tuv lang="EN">
         <seg>&amp;Tools</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110910Z" creationid="PiaVee" creationdate="20171015T110910Z">
-        <seg>Työkalut (&amp;T)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111153Z" creationid="PiaVee" creationdate="20171015T110910Z">
+        <seg>&amp;Työkalut</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +434,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103457Z" creationid="PiaVee" creationdate="20171015T103457Z">
         <seg>Kumoa viime toiminto (&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;View</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111121Z" creationid="PiaVee" creationdate="20171015T111121Z">
+        <seg>&amp;Näkymä</seg>
       </tuv>
     </tu>
     <tu>
@@ -1132,6 +1164,22 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173806Z" creationid="PiaVee" creationdate="20171014T173806Z">
         <seg>tšetšeeni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check &amp;Issues...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111305Z" creationid="PiaVee" creationdate="20171015T111247Z">
+        <seg>Tarkista... (&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Issues for &amp;Current Document</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111310Z" creationid="PiaVee" creationdate="20171015T111303Z">
+        <seg>Tarkista nykyinen asiakirja... (&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
