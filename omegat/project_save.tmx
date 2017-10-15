@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T125535Z" creationid="PiaVee" creationdate="20171015T125535Z">
+        <seg>&amp;Käytä tätä fonttia taulukkomuotoisen tiedon (projektitiedostot, tilastot jne.) esittämiseen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103100Z" creationid="PiaVee" creationdate="20171015T094323Z">
@@ -1664,6 +1672,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display Font</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T125354Z" creationid="PiaVee" creationdate="20171015T125354Z">
+        <seg>Näytön fontti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display context description for TBX &amp;glossaries</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T121943Z" creationid="PiaVee" creationdate="20171015T111741Z">
@@ -1980,6 +1996,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174103Z" creationid="PiaVee" creationdate="20171014T174103Z">
         <seg>suomi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T125358Z" creationid="PiaVee" creationdate="20171015T125358Z">
+        <seg>Fontti</seg>
       </tuv>
     </tu>
     <tu>
@@ -2809,6 +2833,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Last modified by {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T125341Z" creationid="PiaVee" creationdate="20171015T125339Z">
+        <seg>Viimeksi muokannut: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Latin</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174627Z" creationid="PiaVee" creationdate="20171014T174627Z">
@@ -3602,6 +3634,14 @@ ja vahvista kaikki.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Files ({0})</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T125600Z" creationid="PiaVee" creationdate="20171015T125600Z">
+        <seg>Projektitiedostot ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project is Empty</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T101226Z" creationid="PiaVee" creationdate="20171015T101226Z">
@@ -3898,6 +3938,14 @@ ja vahvista kaikki.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sample Text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T125424Z" creationid="PiaVee" creationdate="20171015T125424Z">
+        <seg>Esimerkkiteksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Samuel Murray: for the introductory chapter "Learn to use OmegaT in 5 minutes".</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T065129Z" creationid="PiaVee" creationdate="20170930T065129Z">
@@ -4182,6 +4230,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081509Z" creationid="PiaVee" creationdate="20171015T081509Z">
         <seg>sinhala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T125403Z" creationid="PiaVee" creationdate="20171015T125400Z">
+        <seg>Koko</seg>
       </tuv>
     </tu>
     <tu>
@@ -4623,6 +4679,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T152611Z" creationid="PiaVee" creationdate="20171014T152611Z">
         <seg>Tästä on erityisen paljon hyötyä sellaisissa kielissä, joissa sanavartaloon liitetään etu- ja jälkiliitteitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the way text will look when displayed.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T125420Z" creationid="PiaVee" creationdate="20171015T125420Z">
+        <seg>Näytöllä teksti näyttää tältä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7977,6 +8041,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082217Z" creationid="PiaVee" creationdate="20171015T082217Z">
         <seg>ukr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>unknown</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T125346Z" creationid="PiaVee" creationdate="20171015T125346Z">
+        <seg>tuntematon</seg>
       </tuv>
     </tu>
     <tu>
