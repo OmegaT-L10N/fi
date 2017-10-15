@@ -120,24 +120,24 @@
       <tuv lang="EN">
         <seg>&amp;Finish</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T095021Z" creationid="PiaVee" creationdate="20171015T095021Z">
-        <seg>&amp;Viimeistele</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T102028Z" creationid="PiaVee" creationdate="20171015T095021Z">
+        <seg>&amp;Valmis</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Fix All</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T095005Z" creationid="PiaVee" creationdate="20171015T095005Z">
-        <seg>&amp;Korjaa kaikki</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T102006Z" creationid="PiaVee" creationdate="20171015T095005Z">
+        <seg>Korjaa &amp;kaikki</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Insert</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T094955Z" creationid="PiaVee" creationdate="20171015T094955Z">
-        <seg>&amp;Lisää</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T101925Z" creationid="PiaVee" creationdate="20171015T094955Z">
+        <seg>L&amp;isää</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,8 +200,8 @@
       <tuv lang="EN">
         <seg>&amp;Replace Next</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T095014Z" creationid="PiaVee" creationdate="20171015T095014Z">
-        <seg>&amp;Korvaa seuraava</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T102011Z" creationid="PiaVee" creationdate="20171015T095014Z">
+        <seg>Korvaa &amp;seuraava</seg>
       </tuv>
     </tu>
     <tu>
@@ -224,8 +224,8 @@
       <tuv lang="EN">
         <seg>&amp;Skip</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T095008Z" creationid="PiaVee" creationdate="20171015T095008Z">
-        <seg>&amp;Ohita</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T101946Z" creationid="PiaVee" creationdate="20171015T095008Z">
+        <seg>O&amp;hita</seg>
       </tuv>
     </tu>
     <tu>
@@ -2844,8 +2844,8 @@ ja vahvista kaikki.
       <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T094908Z" creationid="PiaVee" creationdate="20171015T094908Z">
-        <seg>Palauta &amp;oletus</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T101914Z" creationid="PiaVee" creationdate="20171015T094908Z">
+        <seg>P&amp;alauta oletus</seg>
       </tuv>
     </tu>
     <tu>
