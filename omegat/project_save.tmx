@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Align Files...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111355Z" creationid="PiaVee" creationdate="20171015T111355Z">
+        <seg>Kohdista tiedostoja... (&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103100Z" creationid="PiaVee" creationdate="20171015T094323Z">
@@ -146,6 +154,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103126Z" creationid="PiaVee" creationdate="20171015T094621Z">
         <seg>Muokkaa... (&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Editor...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111556Z" creationid="PiaVee" creationdate="20171015T111556Z">
+        <seg>Muokkain... (&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +234,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103546Z" creationid="PiaVee" creationdate="20171015T103546Z">
         <seg>Lisää osuma tai valinta (&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Match Statistics</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111331Z" creationid="PiaVee" creationdate="20171015T111331Z">
+        <seg>Osumatilastot (&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
@@ -386,6 +410,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T110554Z" creationid="PiaVee" creationdate="20171015T110554Z">
         <seg>Segmentti nro... (&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Segmentation...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111613Z" creationid="PiaVee" creationdate="20171015T111613Z">
+        <seg>Segmentointi... (&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2537,6 +2569,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mac&amp;hine Translate</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111623Z" creationid="PiaVee" creationdate="20171015T111623Z">
+        <seg>Konekäännös (&amp;H)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Macedonian</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174851Z" creationid="PiaVee" creationdate="20171014T174851Z">
@@ -2617,10 +2657,34 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111515Z" creationid="PiaVee" creationdate="20171015T111515Z">
+        <seg>Merkitse käännetyt segmentit (&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111525Z" creationid="PiaVee" creationdate="20171015T111525Z">
+        <seg>Merkitse kääntämättömät segmentit (&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Marshallese</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T181519Z" creationid="PiaVee" creationdate="20171014T174945Z">
         <seg>marshall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match Statistics per &amp;File</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111345Z" creationid="PiaVee" creationdate="20171015T111345Z">
+        <seg>Osumatilastot per tiedosto (&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3482,6 +3546,14 @@ ja vahvista kaikki.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scriptin&amp;g...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111443Z" creationid="PiaVee" creationdate="20171015T111420Z">
+        <seg>Komentosarjat... (&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T084233Z" creationid="PiaVee" creationdate="20170910T084233Z">
@@ -4327,6 +4399,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T092613Z" creationid="PiaVee" creationdate="20171015T092456Z">
         <seg>Käyttö: java -jar OmegaT.jar team &lt;komento&gt; [&lt;asetukset&gt;]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;TAB to Advance</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111501Z" creationid="PiaVee" creationdate="20171015T111501Z">
+        <seg>TAB liikuttaa eteenpäin (&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
