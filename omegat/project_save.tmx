@@ -70,6 +70,20 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+		Source- or target-language tokenizer to use (overrides project
+		settings).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T084132Z" creationid="PiaVee" creationdate="20171015T084132Z">
+        <seg>--ITokenizer=&lt;luokan nimi&gt;
+	--ITokenizerTarget=&lt;luokan nimi&gt;
+		Käytettävä lähde- tai kohdekielen saneistin (korvaa projektin
+		asetukset).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
@@ -1900,6 +1914,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-GUI mode options:
+	--quiet
+		Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T084702Z" creationid="PiaVee" creationdate="20171015T084702Z">
+        <seg>Asetukset muuta kuin GUI-tilaa varten:
+	--quiet
+		Tuottaa ainoastaan komentorivin stdoutin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-breaking space</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124335Z" creationid="PiaVee" creationdate="20170908T124247Z">
@@ -2488,6 +2514,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T093650Z" creationid="PiaVee" creationdate="20171014T093650Z">
         <seg>Hakuikkuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T084247Z" creationid="PiaVee" creationdate="20171015T084200Z">
+        <seg>Käytettäväksi sopivat arvot löytyvät tiedostosta OmegaT.jar/META-INF/MANIFEST.MF.</seg>
       </tuv>
     </tu>
     <tu>
