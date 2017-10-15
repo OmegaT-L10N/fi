@@ -40,612 +40,619 @@ LanguageTool	LanguageTool
 spell check	oikeinkirjoituksen tarkistu	> oikeinkirjoituksen tarkistus
 tokenizer	saneisti	> saneistin
 tokenizer	saneisti	EI : saneistaja (sehän olisi henkilö!)
-Abkhazian	abhaasi
-Achinese	atše
-Acoli	atšoli
-Adangme	adangme
-Adyghe	adyge
-Adygei	adyge
-Afar	afar
-Afrihili	afrihili
-Afrikaans	afrikaans
-Afro-Asiatic (Other)	muut afroaasialaiset kielet
-ainu	ainu
-Akan	akan
-Akkadian	akkadi
-Albanian	albania
-Aleut	aleutti
-Algonquian languages	algonkin-kielet
-Altaic (Other)	muut altailaiset kielet
-Amharic	amhara
-Apache languages	apassi
-Arabic	arabia
-Aragonese	aragonia
-Aramaic	aramea
-Arapaho	arapaho
-Araucanian	araukaani
-Arawak	arawak
-Armenian	armenia
-Artificial (Other)	muut tekokielet
-Assamese	assami
-Asturian	asturia
-Bable	asturia
-Athapascan languages	athapaski
-Athapascan languages	athapaska
-Athapascan languages	athabaska
-Athapascan languages	sathabasca-kielet
-Australian languages	australialaiset kielet
-Austronesian (Other)	muut austronesialaiset kielet
-Avaric	avaari
-Avestan	avesta 
-Awadhi	awadhi
-Aymara	aimara
-Azerbaijani	azeri
-Azerbaijani	azerbaidžani
-Balinese	bali
-Baltic (Other)	muut balttilaiset kielet
-Baluchi	balutši
-Baluchi	belutši
-Bambara	bambara
-Bamileke languages	bamileke
-Banda	banda
-Bantu (Other)	muut bantukielet
-Bantu (Other)	bantu
-Basa	bassa
-Bashkir	baškiiri
-Basque	baski
-Batak	batak
-Batak	batakki
-Beja	bedauje
-Beja	bedža
-Beja	beja
-Belarusian	valkovenäjä
-Bemba	bemba
-Bengali	bengali
-Berber (Other)	muut berberikielet
-Berber	berberi
-Bhojpuri	bhodžpuri
-Bihari	bihari
-Bikol	bicol
-Bikol	bikol
-Bini	bini
-Bislama	bislama
-Blin	blin
-Bilin	blin
-Bosnian	bosnia
-Braj	bradž
-Breton	bretoni
-Buginese	bugi
-Bulgarian	bulgaria
-Buriat	burjaatti
-Burmese	burma
-Caddo	caddo
-Carib	karib
-Carib	karibi
-Carib	karaibi
-Catalan	katalaani	aiemmin: katalonia
-Caucasian (Other)	muut kaukasialaiset kielet
-Cebuano	cebuano
-Cebuano	sebuano
-Cebuano	cebu
-Celtic (Other)	muut kelttiläiset kielet
-Central American Indian (Other)	muut Keski-Amerikan intiaanikielet
-Chagatai	tšagatai
-Chamic languages	tšam
-Chamic languages	cham
-Chamorro	chamorro
-Chamorro	tšamorro
-Chechen	tšetšeeni
-Cherokee	cherokee
-Cherokee	tsalagi
-Cheyenne	cheyenne
-Chibcha	chibcha
-Chibcha	tšibtša
-Chinese	kiina
-Chinook jargon	chinook
-Chipewyan	chipewya
-Chipewyan	chipewyan
-Chipewyan	chippewa
-Choctaw	choctaw
-Chuang	tšuang
-Zhuang	tšuang
-Chuang	zhuang
-Zhuang	zhuang
-Church Slavic	kirkkoslaavi	muinaiskirkkoslaavi, muinaisbulgaria
-Chuukese	truk
-Chuukese	chuuk
-Chuvash	tšuvassi
-Classical Newari	klassinen newari	myös: klassillinen newari, vanha kirjanewari
-Old Newari		klassinen newari	myös: klassillinen newari, vanha kirjanewari
-Coptic	kopti
-Cornish	korni
-Corsican	korsika	tai: Korsikan kieli
-Creek	muskogi
-Creoles and pidgins (Other) muut kreolit ja pidginit
-Creoles and pidgins, English-based (Other)	pidginenglanti
-Creoles and pidgins, French-based (Other)	muut ranskaan perustuvat kreolit ja pidginit
-Portuguese-based (Other)	muut portugaliin perustuvat kreolit ja pidginit
-Crimean Turkish	krimintataari	*krimin turkki, *krimin tataari
-Crimean Tatar	krimintataari	*krimin turkki, *krimin tataari
-Croatian	kroatia
-Cushitic (Other)	muut kuušilaiset kielet
-Cushitic (Other)	muut kuušilaiskielet
-Czech	tšekki
-Dakota	sioux
-Dakota	dakota
-Danish	tanska
-Dargwa	dargva
-Dargwa	dargiini
-Dargwa	dargi
-Dayak	dajak
-Dayak	dajakki
-Delaware	delaware
-Dinka	dinka
-Divehi	divehi
-Divehi	malediivi
-Dogri	dogri
-Dogrib	dogrib
-Dravidian (Other)	muut dravidakielet
-Duala	duala
-Dutch	hollanti
-Dutch	flaami
-Dutch, Middle (ca. 1050–1350)	keskihollanti
-Dyula	djula
-Dzongkha	bhutani
-Dzongkha	dzongkha
-Efik	efik
-Egyptian (Ancient)	egypti
-Egyptian (Ancient)	muinaisegypti
-Ekajuk	ekajuk
-Elamite	elami
-English	englanti
-English, Middle keskienglanti 1100–1500
-Middle English	keskienglanti 1100–1500
-English, Old	muinaisenglanti	ca. 450–1100
-Old English	muinaisenglanti	ca. 450–1100
-Erzya	ersä
-Erzya	ersämordva
-Erzya	erzä
-Esperanto	esperanto
-Estonian	viro
-Ewe	ewe
-Ewondo	ewondo
-Fang	fang
-Fanti	fanti
-Faroese	fääri
-Fijian	fidži
-Filipino	pilipino
-Pilipino	pilipino
-Finnish	suomi
-Finno-Ugrian (Other)	muut suomalais-ugrilaiset kielet
-Fon	fong
-Fon	fon
-French	ranska
-French, Middle	keskiranska	ca. 1400–1600
-Middle French	keskiranska	ca. 1400–1600
-French, Old 	muinaisranska	842–ca. 1400
-Old French	muinaisranska	842–ca. 1400
-Frisian	friisi
-Friulian	friuli
-Friulian	friuliaani
-Fulah	fulfulde
-Fulah	fulani
-Ga	ga
-Scottish Gaelic	skotti	tai: gaeli (skottigaeli)
-Gaelic	skotti	tai: gaeli (skottigaeli)
-Galician	galicia	tai: galego
-Gallegan	galicia	tai: galego
-Ganda	ganda
-Ganda	luganda
-Gayo	gayo
-Gbaya	gbaja
-Gbaya	gbaya
-Geez	etiopia
-Geez	ge'ez
-Geez	muinaisetiopia
-Georgian	gruusia	(kartveli)
-Georgian	georgia (kartveli)
-German	saksa
-German, Low	alasaksa
-Low German	alasaksa
-German, Middle High	keskiyläsaksa	ca. 1050–1500
-Middle High German	keskiyläsaksa	ca. 1050–1500
-German, Old High	muinaisyläsaksa	ca. 750–1050
-Old High German	muinaisyläsaksa	ca. 750–1050
-Germanic (Other)	muut germaaniset kielet
-Gikuyu	kikuju	kikuyu
-Kikuyu	kikuju	kikuyu
-Gilbertese	kiribati
-Gondi	gondi
-Gorontalo	gorontalo
-Gothic	gootti
-Grebo	grebo
-Greek, Ancient	muinaiskreikka
-Ancient Greek	muinaiskreikka
-Greek, Modern	kreikka	(nykykreikka)
-Modern Greek	kreikka	(nykykreikka)
-Greenlandic	grönlanti	grönlannineskimo, inuit, kalaallisut
-Kalaallisut	grönlanti	grönlannineskimo, inuit, kalaallisut
-Guarani	guarani
-Gujarati	gudžarati
-Gujarati	gujarati
-Gwich’in	gwitšin
-Haida	haida
-Haitian	haiti
-Haitian Creole	haitinkreoli
-Hausa	hausa
-Hawaiian	havaiji
-Hebrew	heprea
-Hebrew	ivrit
-Herero	herero
-Hiligaynon	hiligaino
-Hiligaynon	ilongo
-Himachali	himachali
-Hindi	hindi
-Hiri Motu	hiri-motu
-Hittite	heetti
-Hmong	miao
-Hmong	hmong
-Hungarian	unkari
-Hupa	hupa
-Iban	iban
-Icelandic	islanti
-Ido	ido
-Igbo	igbo
-Igbo	ibo
-Ijo	ijo
-Iloko	iloko tai: ilokano, iloco, ilocano
-Inari Sami	inarinsaame
-Indic (Other)	muut intialaiset kielet
-Indo-European (Other)	muut indoeurooppalaiset kielet
-Indonesian	indonesia
-Indonesian	bahasa indonesia
-Ingush	inguuši	myös: inguši, inguusi
-Interlingua	interlingua	(International Auxiliary Language Association)
-Interlingue	interlingue
-Inuktitut	eskimo	inuktitut
-Inupiaq	inupiak
-Iranian (Other)	muut iranilaiset kielet
-Irish	iiri
-Irish, Middle	keski-iiri	(900–1200)
-Middle Irish	keski-iiri	(900–1200)
-Irish, Old	muinaisiiri	to 900
-Old Irish	muinaisiiri	to 900
-Iroquoian languages	irokeesi
-Italian	italia
-Japanese	japani
-Javanese	jaava	aiemmin: kavi
-Judeo-Arabic	juutalaisarabia
-Judeo-Persian	juutalaispersia
-Kabardian	kabardi
-Kabyle	kabyyli	myös: kabili, kabyli
-Kachin	džingpho	myös: kachin
-Kalmyk	oiraatti myös: kalmukki
-Oirat	oiraatti myös: kalmukki
-Kamba	kamba	myös: kikamva
-Kannada	kannada
-Kanuri	kanuri
-Karachay-Balkar	karachay-balkar	myös: karatšai-balkaari
-Kara-Kalpak	karakalpakki
-Karelian	karjala	myös: karjala-aunus
-Karen	karen
-Kashmiri	kašmiri
-Kashubian	kašubi	myös: kashubi, kasubi
-Kawi	klassinen jaava	myös: kavi
-Kazakh	kazakki	myös: kasakki, kazah
-Khasi	khasi
-Khmer	khmer	myös: kambodža
-Khoisan (Other)	muut khoisankielet
-Khotanese	khotani
-Kikuyu	kikuju
-Gikuyu	kikuju
-Kimbundu	kimbundu
-Kinyarwanda	ruanda	myös: kinjaruanda, njaruanda
-Kirghiz	kirgiisi	aiemmin: karakirgiisi
-Klingon	klingon	myös: klingoni
-tlhInganHol	klingon	myös:
-Komi	komi
-Kongo	kongo	myös: kikongo
-Konkani	konkani
-Korean	korea
-Kosraean	kosrae
-Kpelle	kpelle
-Kru	kru-kielet
-Kuanyama;	Kwanyama	myös: kuanjama
-Kumyk	kumukki	myös: kumykki
-Kurdish	kurdi
-Kurukh	kurukh
-Kutenai	kutenai
-Kwanyama	kuanjama
-Kuanyama	kuanjama
-Ladino	ladino	myös: juutalaisespanja
-Lahnda	lahnda	myös: länsipandžabi
-Lamba	lamba
-Lao	lao
-Latin	latina
-Latvian	latvia	myös: lätti
-Letzeburgesch	letzeburg	myös: luxemburg (letseburgi)
-Luxembourgish	letzeburg	myös: luxemburg (letseburgi)
-Lezghian	lezgi
-Limburgan	limburgi
-Limburger	limburgi
-Limburgish	limburgi
-Lingala	lingala
-Lithuanian	liettua
-Lojban	lojban	myös: *lojba
-Lower Sorbian	alasorbi	myös: *ala-sorbi
-Lozi	lozi
-Luba-Katanga	(katangan)luba	myös: baluba
-Luba-Lulua	luba	myös: baluba
-Luiseno	luiseno
-Lule Sami	luulajansaame
-Lunda	lunda
-Luo	luo
-Lushai	lushai
-Macedonian	makedonia
-Madurese	madura
-Magahi	magahi
-Maithili	maithili
-Makasar	makassar
-Malagasy	malagasi	myös: madagassi (malagassi)
-Malay	malaiji
-Malayalam	malajalam	myös: malayalam
-Maltese	malta
-Manchu	mantšu	myös: mantsu
-Mandar	mandar
-Mandingo	mande	myös: mandingo (mandenga)
-Manipuri	meitei	myös: manipuri
-Manobo languages	manobo-kielet	?
-Manx	manx	myös: manksi
-Maori	maori
-Marathi	marathi
-Mari	mari	ennen: tšeremissi
-Marshallese	marshall	myös: marshalli
-Marwari	marwari
-Masai	maasai	myös: masai, maa
-Mayan languages	maya
-Mende	mende
-Mi'kmaq	micmac
-Micmac	micmac
-Minangkabau	minangkabau
-Mirandese	mirandeesi
-Miscellaneous languages	erilaiset kielet	myös: sekalaiset kielet
-Mohawk	mohawk
-Moksha	mokša	myös: mokšamordva
-Moldavian	moldavia	myös: moldova, dakoromania
-Mon-Khmer (Other)	muut mon-khmer-kielet
-Mongo	mongo	myös: lomongo
-Mongolian	mongoli
-Mossi	mosi
-moré
-Multiple languages	monikielinen
-Munda languages	mundakielet	myös: kolkielet
-Nahuatl	nahuatl
-Nauru	nauru
-Navaho	navaho	(navajo)
-Navajo	navaho	(navajo)
-Ndonga	ambo	myös: ovambo, ndonga
-Neapolitan	napoli	*napolin italia
-Nepali	nepali
-Newari	newari	myös: nevari
-Nias	nias
-Niger-Kordofanian (Other)	muut nigeriläis-kongolaiset l. nigeriläiskordofanilaiset kielet
-Nilo-Saharan (Other)	muut nilosaharalaiset kielet	myös: muut niililäis-saharalaiset kielet
-Niuean	niue
-Nogai	nogai
-Norse, Old	muinaisnorja	myös: muinaisskandinaavi
-Old Norse	muinaisnorja	myös: muinaisskandinaavi
-North American Indian (Other)	muut Pohjois-Amerikan intiaanikielet
-Northern Sami	pohjoissaame
-North Ndebele	pohjoisndebele
-Norwegian	norja
-Norwegian Bokmål	kirjanorja	selitys: bokmål, riksmål
-Norwegian Nynorsk	uusnorja	selitys: nynorsk, landsmål
-Nubian languages	nubialaiset kielet	*nuubialaiset kielet
-Nyamwezi	nyamwezi
-Nyanja	njandža	myös: tšewa, nyanja, njanja, chichewa
-Chichewa	njandža	myös: tšewa, nyanja, njanja, chichewa
-Chewa	njandža	myös: tšewa, nyanja, njanja, chichewa
-Nyankole	nyankole
-Nyoro	nyoro
-Nzima	nzima	myös: nzema
-Ojibwa	ojibwa
-Oriya	orija
-Oromo	galla	myös: afan oromo, oromo
-Osage	osage
-Ossetian	osseetti
-Ossetic	osseetti
-Otomian languages	otomangelaiset kielet	myös: otomi
-Pahlavi	pahlavi
-Palauan	palau
-Pali	pali	myös: pāli, paali
-Pampanga	pampanga
-Pangasinan	pangasinan
-Panjabi	pandžabi	myös: punjabi
-Papiamento	papiamentu	myös: papiamento
-Papuan (Other)	muut papuakielet	myös: muut papualaiskielet
-Persian	persia	myös: nykypersia, farsi; Afganistanissa: dari
-Persian, Old 	muinaispersia	ca.600–400 B.C.
-Old Persian	muinaispersia	ca.600–400 B.C.
-Philippine (Other)	muut filippiiniläiskielet
-Phoenician	foinikia
-Pohnpeian	pohnpei
-Polish	puola
-Portuguese	portugali
-Prakrit languages	prakrit	myös: prakriitit
-Provençal	oksitaani	post 1500 – myös: provensaali
-Occitan	oksitaani	post 1500 – myös: provensaali
-Provençal, Old	muinaisprovensaali	to 1500
-Old Provençal	muinaisprovensaali	to 1500
-Pushto	afgaani	myös: pašto (paštu, puštu)
-Quechua	ketšua	myös: ketsua, quechua
-Raeto-Romance	retoromaani	myös: (rumantsch)
-Rajasthani	radžastani	myös: rajasthani
-Rapanui	rapanui
-Rarotongan	rarotonga
-Reserved for local use	varattu paikalliseen käyttöön
-Romance (Other)	muut romaaniset kielet
-Romanian	romania
-Romany	romaani	myös: romani, mustalaiskieli (romanikieli)
-Rundi	rundi	myös: kirundi
-Russian	venäjä
-Salishan languages	sališ	myös: seliš
-Samaritan Aramaic	samarianaramea	myös: länsiaramea
-Sami languages (Other)	muut saamen kielet
-Samoan	samoa
-Sandawe	sandawe
-Sango	sango
-Sanskrit	sanskrit	myös: sanskriitti
-Santali	santali
-Sardinian	sardi
-Sasak	sasak	myös: lombok
-Scots	skotti	myös: skottienglanti, skotlanninenglanti
-Selkup	selkuppi	ennen: ostjakkisamojedi
-Semitic (Other)	muut seemiläiset kielet
-Serbian	serbia
-Serer	serer
-Shan	šan
-Shona	shona	myös: šona
-Sichuan Yi	pohjois-ji
-Sicilian	sisilia
-Sidamo	sidamo
-Sign languages	viittomakielet
-Siksika	mustajalka	myös: mustajalkojen kieli
-Sindhi	sindhi
-Sinhala	singali	myös: singaleesi, singhali
-Sinhalese	singali	myös: singaleesi, singhali
-Sino-Tibetan (Other)	muut sinotiibetiläiset kielet
-Siouan languages	siouxilaiset kielet
-Skolt Sami	koltansaame
-Slave (Athapascan)	athapaska-slavi	myös: slavey, slavi
-Slavic (Other)	muut slaavilaiset kielet
-Slovak	slovakki
-Slovenian	sloveeni
-Sogdian	sogdi
-Somali	somali
-Songhai	songhai	myös: songai
-Soninke	soninke
-Sorbian languages	sorbi	myös: vendi
-Soth, Northern	pohjoissotho	myös: pedi
-Northern Soth	pohjoissotho	myös: pedi
-Pedi	pohjoissotho	myös: pedi
-Sepedi	pohjoissotho	myös: pedi
-Sotho, Southern	sotho	myös: sesotho (eteläsotho)
-Southern Sotho	sotho	myös: sesotho (eteläsotho)
-South American Indian (Other)	muut Etelä-Amerikan intiaanikielet
-Southern Sami	eteläsaame
-South Ndebele	eteländebele
-Spanish; Castilian	espanja
-Castilian Spanish	espanja
-Sukuma	sukuma
-Sumerian	sumeri [LDR])
-Sundanese	sunda	myös: sundaneesi
-Susu	susu
-Swahili	suahili	myös: swahili, kiswahili
-Swati	siswati	myös: swazi
-Swedish	ruotsi
-Syriac	syyria
-Tagalog	tagalog	myös: pilipino (tagalogi, tagali, filippiino, filippiini, filipino)
-Tahitian	tahiti
-Tai (Other)	muut thaikielet
-Tajik	tadžikki	myös: (tadžik)
-Tamashek	tamašek
-Tamil	tamili
-Tatar	tataari
-Telugu	telugu
-Tereno	tereno
-Tetum	tetum	myös: tetun, tetumi, tetuni
-Thai	thai
-Tibetan	tiibet	myös: (tiibetti)
-Tigre	tigre
-Tigrinya	tigrinja
-Timne	temne
-Tiv	tiv	myös: munši
-Tlingit	tlingit	myös: tlinkit, tlingiitti
-Tok Pisin	tok-pisin
-Tokelau	tokelau
-Tonga	tonga	(Nyasa)
-Nyasa	tonga	(Tonga)
-Tonga (Tonga Islands)	[Tonga-saarten] tonga
-Tsimshian	tsimshian	?
-Tsonga	tsonga
-Tswana	tšwana	myös: setšwana (tswana, setswana)
-Tumbuka	tumbuka
-Tupi languages	tupilaiset kielet
-Turkish	turkki	ennen: osmani
-Turkish, Ottoman	osmani
-Ottoman Turkish	osmani
-Turkmen	turkmeeni
-Tuvalu	tuvalu
-Tuvinian	tuva	myös: tuviini (aik. urjanhai, sojoni, sojootti, tuba)
-Twi	twi
-Udmurt	udmurtti	ennen: votjakki
-Ugaritic	ugarit
-Uighur	uiguuri
-Ukrainian	ukraina	myös: vähävenäjä, ruteeni
-Umbundu	mbundu	myös: umbundu
-Undetermined	määrittämätön	myös: määrittelemätön
-Upper Sorbian	yläsorbi	myös: *ylä-sorbi
-Urdu	urdu
-Uzbek	uzbekki	myös: usbekki, ösbekki
-Vai	vai
-Venda	venda
-Vietnamese	vietnam	aiemmin: annam
-Volapük	volapük
-Votic	vatja
-Wakashan languages	wakasilaiset kielet
-Walamo	walamo
-Walloon	valloni
-Waray	waray
-Washo	washo
-Welsh	kymri	myös: wales
-Wolof	wolof
-Xhosa	xhosa	myös: kafferi, hosa
-Yakut	jakuutti	myös: saha
-Yao	yao	myös: jao
-Yapese	jap
-Yiddish	jiddi	myös: jiddiš (jiddish, jiddis, jiddisch, juutalaissaksa)
-Yoruba	joruba
-Yupik languages	juppik-kielet	myös: jupikki
-Zande	njamnjam	myös: zande
-Zapotec	zapoteekki	myös: sapoteekki
-Zenaga	zenaga
-Zulu	zulu	myös: sulu
-Zuni	zuni
-Enets	enetsi	myös: jeniseinsamojedi
-Yenisei Samoyed	enetsi	myös: jeniseinsamojedi
-Ingrian	inkeroinen	myös: inkeroismurteet
-Kamas	kamassi
-Kamassian	kamassi
-Khanty	hanti	ennen: ostjakki
-Khanti	hanti	ennen: ostjakki
-Ostyak	hanti	ennen: ostjakki
-Komi-Zyrian	komisyrjääni
-Komi-Permyak	komipermjakki
-Livonian	liivi
-Ludic	lyydi
-Ludian	lyydi
-Lude	lyydi
-Mansi	mansi	ennen: voguli
-Vogul	mansi	ennen: voguli
-Nenets	nenetsi	ennen myös: jurakki, jurakkisamojedi
-Yurak	nenetsi	ennen myös: jurakki, jurakkisamojedi
-Yurak Samoyed	nenetsi	ennen myös: jurakki, jurakkisamojedi
-Nganasan	nganasain	myös: taugi, taugisamojedi
-Tavgu	nganasain	myös: taugi, taugisamojedi
-Tavgi Samoyed	nganasain	myös: taugi, taugisamojedi
-Samoyed	samojedi
-Samoyedian	samojedi
-Vepsian	vepsä
-Veps	vepsä
-Altai	altai	myös: oirootti
-Arumanian	aromania
-Dungan	dungaani	myös: tungaani
-Even	eveni	myös: eveeni
-Gagauz	gagauzi	myös: gagauz
-Istro-Romanian	istroromania
-Ladin	ladiini
-Megleno-Romanian	meglenoromania
-Nanai	nanai	myös: goldi
-Rutul	rutuli
-Tati	tati
+Afar	afar	aa
+Abkhazian	abhaasi	ab
+Achinese	atšeh	ace
+Acoli	atšoli	ach
+Adangme	adangme	ada
+Adyghe	adyge	ady
+Avestan	avesta	ae
+Tunisian Arabic	tunisianarabia	aeb
+Afrikaans	afrikaans	af
+Afrihili	afrihili	afh
+Aghem	aghem	agq
+Ainu	ainu	ain
+Akan	akan	ak
+Akkadian	akkadi	akk
+Alabama	alabama	akz
+Aleut	aleutti	ale
+Southern Altai	altai	alt
+Amharic	amhara	am
+Aragonese	aragonia	an
+Old English	muinaisenglanti	ang
+Angika	angika	anp
+Arabic	arabia	ar
+Modern Standard Arabic	yleisarabia	ar_001
+Aramaic	valtakunnanaramea	arc
+Mapuche	mapudungun	arn
+Araona	araona	aro
+Arapaho	arapaho	arp
+Algerian Arabic	algerianarabia	arq
+Arawak	arawak	arw
+Moroccan Arabic	marokonarabia	ary
+Egyptian Arabic	egyptinarabia	arz
+Assamese	assami	as
+Asu	asu	asa
+American Sign Language	amerikkalainen viittomakieli	ase
+Asturian	asturia	ast
+Avaric	avaari	av
+Awadhi	awadhi	awa
+Kotava	kotava	avk
+Aymara	aimara	ay
+Azerbaijani	azeri	az
+Azeri	azeri	az-short
+Bashkir	baškiiri	ba
+Baluchi	belutši	bal
+Balinese	bali	ban
+Bavarian	baijeri	bar
+Basaa	basaa	bas
+Bamun	bamum	bax
+Batak Toba	batak-toba	bbc
+Ghomala	ghomala	bbj
+Belarusian	valkovenäjä	be
+Beja	bedža	bej
+Bemba	bemba	bem
+Betawi	betawi	bew
+Bena	bena	bez
+Bafut	fut	bfd
+Badaga	badaga	bfq
+Bulgarian	bulgaria	bg
+Western Balochi	länsibelutši	bgn
+Bhojpuri	bhodžpuri	bho
+Bislama	bislama	bi
+Bikol	bikol	bik
+Bini	bini	bin
+Banjar	banjar	bjn
+Kom	kom	bkm
+Siksika	siksika	bla
+Bambara	bambara	bm
+Bangla	bengali	bn
+Tibetan	tiibet	bo
+Bishnupriya	bišnupria	bpy
+Bakhtiari	bahtiari	bqi
+Breton	bretoni	br
+Braj	bradž	bra
+Brahui	brahui	brh
+Bodo	bodo	brx
+Bosnian	bosnia	bs
+Akoose	koose	bss
+Buriat	burjaatti	bua
+Buginese	bugi	bug
+Bulu	bulu	bum
+Blin	bilin	byn
+Medumba	medumba	byv
+Catalan	katalaani	ca
+Caddo	caddo	cad
+Carib	karibi	car
+Cayuga	cayuga	cay
+Atsam	atsam	cch
+Chechen	tšetšeeni	ce
+Cebuano	cebuano	ceb
+Chiga	kiga	cgg
+Chamorro	tšamorro	ch
+Chibcha	tšibtša	chb
+Chagatai	tšagatai	chg
+Chuukese	chuuk	chk
+Mari	mari	chm
+Chinook Jargon	chinook-jargon	chn
+Choctaw	choctaw	cho
+Chipewyan	chipewyan	chp
+Cherokee	cherokee	chr
+Cheyenne	cheyenne	chy
+Central Kurdish	sorani	ckb
+Corsican	korsika	co
+Coptic	kopti	cop
+Capiznon	capiznon	cps
+Cree	cree	cr
+Crimean Turkish	krimintataari	crh
+Crimean Turkish	kriminturkki	crh-secondary
+Czech	tšekki	cs
+Kashubian	kašubi	csb
+Church Slavic	kirkkoslaavi	cu
+Chuvash	tšuvassi	cv
+Welsh	kymri	cy
+Danish	tanska	da
+Dakota	dakota	dak
+Dargwa	dargi	dar
+Taita	taita	dav
+German	saksa	de
+Austrian German	itävallansaksa	de_AT
+Swiss High German	sveitsinyläsaksa	de_CH
+Delaware	delaware	del
+Slave	slevi	den
+Dogrib	dogrib	dgr
+Dinka	dinka	din
+Zarma	djerma	dje
+Dogri	dogri	doi
+Lower Sorbian	alasorbi	dsb
+Central Dusun	dusun	dtp
+Duala	duala	dua
+Middle Dutch	keskihollanti	dum
+Divehi	divehi	dv
+Jola-Fonyi	jola-fonyi	dyo
+Dyula	djula	dyu
+Dzongkha	dzongkha	dz
+Dazaga	dazaga	dzg
+Embu	embu	ebu
+Ewe	ewe	ee
+Efik	efik	efi
+Emilian	emilia	egl
+Ancient Egyptian	muinaisegypti	egy
+Ekajuk	ekajuk	eka
+Greek	kreikka	el
+Elamite	elami	elx
+English	englanti	en
+Australian English	australianenglanti	en_AU
+Canadian English	kanadanenglanti	en_CA
+British English	britannianenglanti	en_GB
+UK English	englanti (Britannia)	en_GB-short
+American English	amerikanenglanti	en_US
+US English	englanti (USA)	en_US-short
+Middle English	keskienglanti	enm
+Esperanto	esperanto	eo
+Spanish	espanja	es
+Latin American Spanish	amerikanespanja	es_419
+European Spanish	euroopanespanja	es_ES
+Mexican Spanish	meksikonespanja	es_MX
+Central Yupik	alaskanjupik	esu
+Estonian	viro	et
+Basque	baski	eu
+Ewondo	ewondo	ewo
+Extremaduran	extremadura	ext
+Persian	farsi	fa
+Fang	fang	fan
+Persian	persia	fa-secondary
+Fanti	fanti	fat
+Fulah	fulani	ff
+Finnish	suomi	fi
+Filipino	filipino	fil
+Tornedalen Finnish	meänkieli	fit
+Fijian	fidži	fj
+Faroese	fääri	fo
+Fon	fon	fon
+French	ranska	fr
+Canadian French	kanadanranska	fr_CA
+Swiss French	sveitsinranska	fr_CH
+Cajun French	cajun	frc
+Middle French	keskiranska	frm
+Old French	muinaisranska	fro
+Arpitan	arpitaani	frp
+Northern Frisian	pohjoisfriisi	frr
+Eastern Frisian	itäfriisi	frs
+Friulian	friuli	fur
+Western Frisian	länsifriisi	fy
+Irish	iiri	ga
+Ga	ga	gaa
+Gagauz	gagauzi	gag
+Gan Chinese	gan-kiina	gan
+Gayo	gajo	gay
+Gbaya	gbaja	gba
+Zoroastrian Dari	zoroastrialaisdari	gbz
+Scottish Gaelic	gaeli	gd
+Geez	ge’ez	gez
+Gilbertese	kiribati	gil
+Galician	galicia	gl
+Gilaki	gilaki	glk
+Middle High German	keskiyläsaksa	gmh
+Guarani	guarani	gn
+Old High German	muinaisyläsaksa	goh
+Goan Konkani	goankonkani	gom
+Gondi	gondi	gon
+Gorontalo	gorontalo	gor
+Gothic	gootti	got
+Grebo	grebo	grb
+Ancient Greek	muinaiskreikka	grc
+Swiss German	sveitsinsaksa	gsw
+Gujarati	gudžarati	gu
+Wayuu	wayuu	guc
+Frafra	frafra	gur
+Gusii	gusii	guz
+Manx	manksi	gv
+Gwichʼin	gwitšin	gwi
+Hausa	hausa	ha
+Haida	haida	hai
+Hakka Chinese	hakka-kiina	hak
+Hawaiian	havaiji	haw
+Hebrew	heprea	he
+Hindi	hindi	hi
+Fiji Hindi	fidžinhindi	hif
+Hiligaynon	hiligaino	hil
+Hittite	heetti	hit
+Hmong	hmong	hmn
+Hiri Motu	hiri-motu	ho
+Croatian	kroatia	hr
+Upper Sorbian	yläsorbi	hsb
+Xiang Chinese	xiang-kiina	hsn
+Haitian Creole	haiti	ht
+Hungarian	unkari	hu
+Hupa	hupa	hup
+Armenian	armenia	hy
+Herero	herero	hz
+Interlingua	interlingua	ia
+Iban	iban	iba
+Ibibio	ibibio	ibb
+Indonesian	indonesia	id
+Interlingue	interlingue	ie
+Igbo	igbo	ig
+Sichuan Yi	sichuanin-yi	ii
+Inupiaq	inupiaq	ik
+Iloko	iloko	ilo
+Ingush	inguuši	inh
+Ido	ido	io
+Icelandic	islanti	is
+Italian	italia	it
+Inuktitut	inuktitut	iu
+Ingrian	inkeroinen	izh
+Japanese	japani	ja
+Jamaican Creole English	jamaikankreolienglanti	jam
+Lojban	lojban	jbo
+Ngomba	ngomba	jgo
+Machame	machame	jmc
+Judeo-Persian	juutalaispersia	jpr
+Judeo-Arabic	juutalaisarabia	jrb
+Jutish	juutti	jut
+Javanese	jaava	jv
+Georgian	georgia	ka
+Kara-Kalpak	karakalpakki	kaa
+Kabyle	kabyyli	kab
+Kachin	katšin	kac
+Jju	jju	kaj
+Kamba	kamba	kam
+Kawi	kavi	kaw
+Kabardian	kabardi	kbd
+Kanembu	kanembu	kbl
+Tyap	tyap	kcg
+Makonde	makonde	kde	
+Kabuverdianu	kapverdenkreoli	kea
+Kenyang	kenyang	ken
+Koro	norsunluurannikonkoro	kfo
+Kongo	kongo	kg
+Kaingang	kaingang	kgp
+Khasi	khasi	kha
+Khotanese	khotani	kho
+Koyra Chiini	koyra chiini	khq
+Khowar	khowar	khw
+Kikuyu	kikuju	ki
+Kirmanjki	kirmanjki	kiu
+Kuanyama	kuanjama	kj
+Kazakh	kazakki	kk
+Kako	kako	kkj
+Kalaallisut	kalaallisut	kl
+Kalenjin	kalenjin	kln
+Kalaallisut	grönlanti	kl-secondary
+Khmer	khmer	km
+Kimbundu	kimbundu	kmb
+Kannada	kannada	kn
+Korean	korea	ko
+Komi-Permyak	komipermjakki	koi
+Konkani	konkani	kok
+Kosraean	kosrae	kos
+Kpelle	kpelle	kpe
+Kanuri	kanuri	kr
+Karachay-Balkar	karatšai-balkaari	krc
+Krio	krio	kri
+Kinaray-a	kinaray-a	krj
+Karelian	karjala	krl
+Kurukh	kurukh	kru
+Kashmiri	kašmiri	ks
+Shambala	shambala	ksb
+Bafia	bafia	ksf
+Colognian	kölsch	ksh
+Kurdish	kurdi	ku
+Kumyk	kumykki	kum
+Kutenai	kutenai	kut
+Komi	komi	kv
+Cornish	korni	kw
+Kyrgyz	kirgiisi	ky
+Latin	latina	la
+Ladino	ladino	lad
+Ladino	juutalaisespanja	lad-secondary
+Langi	lango	lag
+Lahnda	lahnda	lah
+Lamba	lamba	lam
+Luxembourgish	luxemburg	lb
+Lezghian	lezgi	lez
+Lingua Franca Nova	lingua franca nova	lfn
+Ganda	ganda	lg
+Limburgish	limburg	li
+Ligurian	liguuri	lij
+Livonian	liivi	liv
+Lakota	lakota	lkt
+Lombard	lombardi	lmo
+Lingala	lingala	ln
+Lao	lao	lo
+Mongo	mongo	lol
+Lozi	lozi	loz
+Northern Luri	pohjoisluri	lrc
+Lithuanian	liettua	lt
+Latgalian	latgalli	ltg
+Luba-Katanga	katanganluba	lu
+Luba-Lulua	luluanluba	lua
+Luiseno	luiseño	lui
+Lunda	lunda	lun
+Luo	luo	luo
+Mizo	lusai	lus
+Luyia	luhya	luy
+Latvian	latvia	lv
+Literary Chinese	klassinen kiina	lzh
+Laz	lazi	lzz
+Madurese	madura	mad
+Mafa	mafa	maf
+Magahi	magahi	mag
+Maithili	maithili	mai
+Makasar	makassar	mak
+Mandingo	mandingo	man
+Masai	maasai	mas
+Maba	maba	mde
+Moksha	mokša	mdf
+Mandar	mandar	mdr
+Mende	mende	men
+Meru	meru	mer
+Morisyen	morisyen	mfe
+Malagasy	malagassi	mg
+Middle Irish	keski-iiri	mga
+Makhuwa-Meetto	makua-meetto	mgh
+Metaʼ	meta’	mgo
+Marshallese	marshall	mh
+Maori	maori	mi
+Mi’kmaq	micmac	mic
+Minangkabau	minangkabau	min
+Macedonian	makedonia	mk
+Malayalam	malajalam	ml
+Mongolian	mongoli	mn
+Manchu	mantšu	mnc
+Manipuri	manipuri	mni
+Mohawk	mohawk	moh
+Mossi	mossi	mos
+Marathi	marathi	mr
+Western Mari	vuorimari	mrj
+Malay	malaiji	ms
+Maltese	malta	mt
+Mundang	mundang	mua
+Creek	creek	mus
+Mirandese	mirandeesi	mwl
+Marwari	marwari	mwr
+Mentawai	mentawai	mwv
+Burmese	burma	my
+Myene	myene	mye
+Erzya	ersä	myv
+Mazanderani	mazandarani	mzn
+Nauru	nauru	na
+Min Nan Chinese	min nan -kiina	nan
+Neapolitan	napoli	nap
+Nama	nama	naq
+Norwegian Bokmål	norjan bokmål	nb
+North Ndebele	pohjois-ndebele	nd
+Low German	alasaksa	nds
+Low Saxon	alankomaidenalasaksa	nds_NL
+Nepali	nepali	ne
+Newari	newari	new
+Ndonga	ndonga	ng
+Nias	nias	nia
+Niuean	niue	niu
+Ao Naga	ao naga	njo
+Dutch	hollanti	nl
+Flemish	flaami	nl_BE
+Kwasio	kwasio	nmg
+Norwegian Nynorsk	norjan nynorsk	nn
+Ngiemboon	ngiemboon	nnh
+Norwegian	norja	no
+Nogai	nogai	nog
+Old Norse	muinaisnorja	non
+Novial	novial	nov
+N’Ko	n’ko	nqo
+South Ndebele	etelä-ndebele	nr
+Northern Sotho	pohjoissotho	nso
+Nuer	nuer	nus
+Navajo	navajo	nv
+Classical Newari	klassinen newari	nwc
+Nyanja	njandža	ny
+Nyamwezi	nyamwezi	nym
+Nyankole	nyankole	nyn
+Nyoro	nyoro	nyo
+Nzima	nzima	nzi
+Occitan	oksitaani	oc
+Ojibwa	odžibwa	oj
+Oromo	oromo	om
+Odia	orija	or
+Ossetic	osseetti	os
+Osage	osage	osa
+Ottoman Turkish	osmani	ota
+Punjabi	pandžabi	pa
+Pangasinan	pangasinan	pag
+Pahlavi	pahlavi	pal
+Pampanga	pampanga	pam
+Papiamento	papiamentu	pap
+Palauan	palau	pau
+Picard	picardi	pcd
+Pennsylvania German	pennsylvaniansaksa	pdc
+Plautdietsch	plautdietsch	pdt
+Old Persian	muinaispersia	peo
+Palatine German	pfaltsi	pfl
+Phoenician	foinikia	phn
+Pali	paali	pi
+Polish	puola	pl
+Piedmontese	piemonte	pms
+Pontic	pontoksenkreikka	pnt
+Pohnpeian	pohnpei	pon
+Prussian	muinaispreussi	prg
+Old Provençal	muinaisprovensaali	pro
+Pashto	paštu	ps
+Portuguese	portugali	pt
+Brazilian Portuguese	brasilianportugali	pt_BR
+European Portuguese	euroopanportugali	pt_PT
+Quechua	ketšua	qu
+Kʼicheʼ	kʼicheʼ	quc
+Chimborazo Highland Quichua	chimborazonylänköketšua	qug
+Rajasthani	radžastani	raj
+Rapanui	rapanui	rap
+Rarotongan	rarotonga	rar
+Romagnol	romagnoli	rgn
+Riffian	tarifit	rif
+Romansh	retoromaani	rm
+Rundi	rundi	rn
+Romanian	romania	ro
+Moldavian	moldova	ro_MD
+Rombo	rombo	rof
+Romany	romani	rom
+Root	juuri	root
+Rotuman	rotuma	rtm
+Russian	venäjä	ru
+Rusyn	ruteeni	rue
+Roviana	roviana	rug
+Aromanian	aromania	rup
+Kinyarwanda	ruanda	rw
+Rwa	rwa	rwk
+Sanskrit	sanskrit	sa	
+Sandawe	sandawe	sad
+Sakha	jakuutti	sah	
+Samaritan Aramaic	samarianaramea	sam
+Samburu	samburu	saq
+Sasak	sasak	sas
+Santali	santali	sat
+Saurashtra	sauraštri	saz
+Ngambay	ngambay	sba
+Sangu	sangu	sbp
+Sardinian	sardi	sc
+Sicilian	sisilia	scn
+Scots	skotti	sco
+Sindhi	sindhi	sd
+Sassarese Sardinian	sassarinsardi	sdc
+Southern Kurdish	eteläkurdi	sdh
+Northern Sami	pohjoissaame	se	
+Seneca	seneca	see
+Sena	sena	seh
+Sri	seri	sei
+Selkup	selkuppi	sel
+Koyraboro Senni	koyraboro senni	ses
+Sango	sango	sg
+Old Irish	muinaisiiri	sga	
+Samogitian	samogiitti	sgs
+Serbo-Croatian	serbokroaatti	sh
+Tachelhit	tašelhit	shi
+Shan	shan	shn
+Chadian Arabic	tšadinarabia	shu
+Sinhala	sinhala	si
+Sidamo	sidamo	sid
+Slovak	slovakki	sk
+Slovenian	sloveeni	sl
+Lower Silesian	sleesiansaksa	sli
+Selayar	selayar	sly
+Samoan	samoa	sm
+Southern Sami	eteläsaame	sma
+Lule Sami	luulajansaame	smj
+Inari Sami	inarinsaame	smn
+Skolt Sami	koltansaame	sms
+Shona	šona	sn
+Soninke	soninke	snk
+Somali	somali	so
+Sogdien	sogdi	sog
+Albanian	albania	sq
+Serbian	serbia	sr
+Sranan Tongo	sranan	srn
+Serer	serer	srr
+Swati	swazi	ss
+Saho	saho	ssy
+Southern Sotho	eteläsotho	st
+Saterland Frisian	saterlandinfriisi	stq
+Sundanese	sunda	su
+Sukuma	sukuma	suk	
+Susu	susu	sus
+Sumerian	sumeri	sux
+Swedish	ruotsi	sv
+Swahili	swahili	sw
+Congo Swahili	kingwana	sw_CD
+Comorian	komori	swb
+Classical Syriac	muinaissyyria	syc
+Syriac	syyria	syr
+Silesian	sleesia	szl
+Tamil	tamili	ta
+Tulu	tulu	tcy
+Telugu	telugu	te
+Timne	temne	tem
+Teso	teso	teo	
+Tereno	tereno	ter
+Tetum	tetum	tet
+Tajik	tadžikki	tg
+Thai	thai	th
+Tigrinya	tigrinja	ti
+Tigre	tigre	tig
+Tiv	tiv	tiv
+Turkmen	turkmeeni	tk
+Tokelau	tokelau	tkl
+Tsakhur	tsahuri	tkr
+Tagalog	tagalog	tl
+Klingon	klingon	tlh
+Tlingit	tlingit	tli
+Talysh	tališi	tly
+Tamashek	tamašek	tmh
+Tswana	tswana	tn
+Tongan	tonga	to
+Nyasa Tonga	malawintonga	tog
+Tok Pisin	tok-pisin	tpi
+Turkish	turkki	tr
+Turoyo	turojo	tru
+Taroko	taroko	trv
+Tsonga	tsonga	ts
+Tsakonian	tsakonia	tsd
+Tsimshian	tsimši	tsi
+Tatar	tataari	tt
+Muslim Tat	tati	ttt
+Tumbuka	tumbuka	tum
+Twi	twi	tw
+Tuvalu	tuvalu	tvl
+Tasawaq	tasawaq	twq
+Tahitian	tahiti	ty
+Tuvinian	tuva	tyv
+Central Atlas Tamazight	keskiatlaksentamazight	tzm
+Udmurt	udmurtti	udm
+Uyghur	uiguuri	ug
+Ugaritic	ugarit	uga
+Ukrainian	ukraina	uk
+Umbundu	mbundu	umb
+Urdu	urdu	ur
+Uzbek	uzbekki	uz
+Walloon	valloni	wa
+Walser	walser	wae
+Vai	vai	vai
+Wolaytta	wolaitta	wal
+Waray	waray	war
+Washo	washo	was
+Warlpiri	warlpiri	wbp
+Venda	venda	ve	
+Venetian	venetsia	vec
+Veps	vepsä	vep
+Vietnamese	vietnam	vi
+West Flemish	länsiflaami	vls
+Main-Franconian	maininfrankki	vmf
+Volapük	volapük	vo
+Wolof	wolof	wo
+Votic	vatja	vot
+Võro	võro	vro
+Vunjo	vunjo	vun
+Wu Chinese	wu-kiina	wuu
+Kalmyk	kalmukki	xal
+Xhosa	xhosa	xh
+Mingrelian	mingreli	xmf
+Soga	soga	xog
+Yao	jao	yao
+Yapese	japi	yap
+Yangben	yangben	yav	
+Yemba	yemba	ybb
+Yiddish	jiddiš	yi
+Yoruba	joruba	yo
+Nheengatu	ñeengatú	yrl
+Cantonese	kantoninkiina	yue
+Zhuang	zhuang	za
+Zapotec	zapoteekki	zap
+Blissymbols	blisskieli	zbl
+Zeelandic	seelanti	zea
+Zenaga	zenaga	zen
+Standard Moroccan Tamazight	vakioitu tamazight	zgh
+Chinese	kiina	zh
+Simplified Chinese	yksinkertaistettu kiina	zh_Hans
+Traditional Chinese	perinteinen kiina	zh_Hant
+Zulu	zulu	zu
+Zuni	zuni	zun
+No linguistic content	ei kielellistä sisältöä	zxx
+Zaza	zaza	zza
