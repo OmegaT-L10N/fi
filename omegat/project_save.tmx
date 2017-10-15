@@ -1862,6 +1862,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Occitan</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T080723Z" creationid="PiaVee" creationdate="20171015T080723Z">
+        <seg>oksitaani</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ojibwe, Ojibwa</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T080736Z" creationid="PiaVee" creationdate="20171015T080736Z">
+        <seg>odžibwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Old Church Slavonic, Church Slavic, Church Slavonic, Old Bulgarian, Old Slavonic</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T080837Z" creationid="PiaVee" creationdate="20171015T080837Z">
+        <seg>kirkkoslaavi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmT-l10n</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T135628Z" creationid="PiaVee" creationdate="20171014T135628Z">
@@ -2242,6 +2266,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124842Z" creationid="PiaVee" creationdate="20170908T124842Z">
         <seg>Jokin meni pieleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>South Ndebele</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T080713Z" creationid="PiaVee" creationdate="20171015T080713Z">
+        <seg>etelä-ndebele</seg>
       </tuv>
     </tu>
     <tu>
@@ -3735,6 +3767,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ii</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T080653Z" creationid="PiaVee" creationdate="20171015T080653Z">
+        <seg>ii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>iii</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T080656Z" creationid="PiaVee" creationdate="20171015T080656Z">
+        <seg>iii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ik</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174343Z" creationid="PiaVee" creationdate="20171014T174343Z">
@@ -4463,6 +4511,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>nbl</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T080716Z" creationid="PiaVee" creationdate="20171015T080716Z">
+        <seg>nbl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>nd</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T175020Z" creationid="PiaVee" creationdate="20171014T175020Z">
@@ -4567,6 +4623,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>nr</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T080715Z" creationid="PiaVee" creationdate="20171015T080715Z">
+        <seg>nr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>nv</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T175006Z" creationid="PiaVee" creationdate="20171014T175006Z">
@@ -4587,6 +4651,38 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173902Z" creationid="PiaVee" creationdate="20171014T173902Z">
         <seg>nya</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>oc</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T080725Z" creationid="PiaVee" creationdate="20171015T080725Z">
+        <seg>oc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>oci</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T080726Z" creationid="PiaVee" creationdate="20171015T080726Z">
+        <seg>oci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>oj</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T080738Z" creationid="PiaVee" creationdate="20171015T080738Z">
+        <seg>oj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>oji</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T080739Z" creationid="PiaVee" creationdate="20171015T080739Z">
+        <seg>oji</seg>
       </tuv>
     </tu>
     <tu>
