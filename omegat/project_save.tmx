@@ -73,9 +73,9 @@
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T083552Z" creationid="PiaVee" creationdate="20171015T083552Z">
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T083629Z" creationid="PiaVee" creationdate="20171015T083552Z">
         <seg>--config-file=&lt;polku&gt;
-		Java-pohjainen .properties-tiedosto (ominaisuudet) oletusasetuksien lataamiseksi.</seg>
+		Java .properties-tiedosto (ominaisuudet) oletusasetuksien lataamiseksi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -98,6 +98,20 @@
         <seg>--remote-project
 		Noutaa omegat.project-tiedoston &lt;projektipolku&gt;-kohdassa annetusta osoitteesta
 		ja lataa projektin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--resource-bundle=&lt;path&gt;
+		A Java .properties file to use for interface text
+	--config-dir=&lt;path&gt;
+		The directory to read/write OmegaT configuration files from/to.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T083757Z" creationid="PiaVee" creationdate="20171015T083757Z">
+        <seg>--resource-bundle=&lt;polku&gt;
+		Java .properties-tiedosto (ominaisuudet) käyttöliittymän tekstiä varten
+	--config-dir=&lt;polku&gt;
+		Hakemisto, josta tai johon OmegaT:n kokoonpanotiedostot luetaan/kirjoitetaan.</seg>
       </tuv>
     </tu>
     <tu>
