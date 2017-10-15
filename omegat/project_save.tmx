@@ -784,6 +784,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commands:
+	-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T092631Z" creationid="PiaVee" creationdate="20171015T092540Z">
+        <seg>Komennot:
+	-h, --help
+		Näyttää tietoa käytöstä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
@@ -3277,6 +3289,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082533Z" creationid="PiaVee" creationdate="20170908T122817Z">
         <seg>Käyttö: java -jar OmegaT.jar [&lt;valinnat&gt;] [&lt;projektipolku&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar team &lt;command&gt; [&lt;options&gt;]]</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T092613Z" creationid="PiaVee" creationdate="20171015T092456Z">
+        <seg>Käyttö: java -jar OmegaT.jar team &lt;komento&gt; [&lt;asetukset&gt;]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -6525,6 +6545,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082356Z" creationid="PiaVee" creationdate="20171015T082356Z">
         <seg>zul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T092451Z" creationid="PiaVee" creationdate="20171015T092451Z">
+        <seg>{0}</seg>
       </tuv>
     </tu>
     <tu>
