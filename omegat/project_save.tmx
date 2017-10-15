@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable history completion</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122553Z" creationid="PiaVee" creationdate="20171015T122536Z">
+        <seg>Ota historiaan perustuva &amp;täydennys käyttöön</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Filter</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103025Z" creationid="PiaVee" creationdate="20171015T094308Z">
@@ -426,6 +434,22 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T121913Z" creationid="PiaVee" creationdate="20171015T111613Z">
         <seg>&amp;Segmentointi...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122333Z" creationid="PiaVee" creationdate="20171015T122333Z">
+        <seg>&amp;Näytä sopivia ehdotuksia automaattisesti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show relevant suggestions automatically</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122355Z" creationid="PiaVee" creationdate="20171015T122355Z">
+        <seg>&amp;Näytä sopivia ehdotuksia automaattisesti</seg>
       </tuv>
     </tu>
     <tu>
@@ -880,6 +904,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A&amp;uto-completion</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122348Z" creationid="PiaVee" creationdate="20171015T122348Z">
+        <seg>A&amp;utomaattinen täydennys</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Abkhaz</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T162148Z" creationid="PiaVee" creationdate="20171014T162127Z">
@@ -1012,6 +1044,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173523Z" creationid="PiaVee" creationdate="20171014T173518Z">
         <seg>assami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-Completion</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122446Z" creationid="PiaVee" creationdate="20171015T122446Z">
+        <seg>Automaattinen täydennys</seg>
       </tuv>
     </tu>
     <tu>
@@ -1624,6 +1664,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable history &amp;prediction</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122601Z" creationid="PiaVee" creationdate="20171015T122541Z">
+        <seg>Ota historiaan perustuva &amp;ennakointi käyttöön</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>English</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174031Z" creationid="PiaVee" creationdate="20171014T174031Z">
@@ -1908,6 +1956,22 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174250Z" creationid="PiaVee" creationdate="20171014T174250Z">
         <seg>hiri-motu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Completion</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122514Z" creationid="PiaVee" creationdate="20171015T122454Z">
+        <seg>Historiaan perustuva täydennys</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Prediction</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122521Z" creationid="PiaVee" creationdate="20171015T122510Z">
+        <seg>Historiaan perustuva ennakointi</seg>
       </tuv>
     </tu>
     <tu>
@@ -3998,6 +4062,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081631Z" creationid="PiaVee" creationdate="20171015T081631Z">
         <seg>ruotsi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch views with {0} and {1}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122439Z" creationid="PiaVee" creationdate="20171015T122439Z">
+        <seg>{0} ja {1}vaihtavat näkymää</seg>
       </tuv>
     </tu>
     <tu>
