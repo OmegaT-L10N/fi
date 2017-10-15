@@ -75,11 +75,11 @@
 		Source- or target-language tokenizer to use (overrides project
 		settings).</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T084132Z" creationid="PiaVee" creationdate="20171015T084132Z">
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T084756Z" creationid="PiaVee" creationdate="20171015T084132Z">
         <seg>--ITokenizer=&lt;luokan nimi&gt;
 	--ITokenizerTarget=&lt;luokan nimi&gt;
 		Käytettävä lähde- tai kohdekielen saneistin (korvaa projektin
-		asetukset).</seg>
+		asetukset)</seg>
       </tuv>
     </tu>
     <tu>
@@ -156,6 +156,26 @@
 		Java .properties-tiedosto (ominaisuudet) käyttöliittymän tekstiä varten
 	--config-dir=&lt;polku&gt;
 		Hakemisto, josta tai johon OmegaT:n kokoonpanotiedostot luetaan/kirjoitetaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--script=&lt;path&gt;
+		A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T084748Z" creationid="PiaVee" creationdate="20171015T084748Z">
+        <seg>--script=&lt;polku&gt;
+		Projektitapahtumissa suoritettava komentosarjatiedosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--tag-validation=[abort|warn]
+		Validate tags.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T084823Z" creationid="PiaVee" creationdate="20171015T084823Z">
+        <seg>--tag-validation=[abort|warn]
+		Vahvistaa tägit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,6 +394,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T162148Z" creationid="PiaVee" creationdate="20171014T162127Z">
         <seg>abhaasi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Abort: Exit with an error if tags invalid.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T085007Z" creationid="PiaVee" creationdate="20171015T085007Z">
+        <seg>Abort: Lopeta virheellisenä, jos tägit ovat virheellisiä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1918,7 +1946,7 @@
 	--quiet
 		Reduce output to command line stdout.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T084702Z" creationid="PiaVee" creationdate="20171015T084702Z">
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T084805Z" creationid="PiaVee" creationdate="20171015T084702Z">
         <seg>Asetukset muuta kuin GUI-tilaa varten:
 	--quiet
 		Tuottaa ainoastaan komentorivin stdoutin.</seg>
