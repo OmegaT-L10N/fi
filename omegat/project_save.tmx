@@ -1082,8 +1082,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T101414Z" creationid="PiaVee" creationdate="20171015T101414Z">
-        <seg>&amp;Kopioi tiedostoja lähdekansioon...</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T102243Z" creationid="PiaVee" creationdate="20171015T101414Z">
+        <seg>Kopioi tiedostoja &amp;lähdekansioon...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T102253Z" creationid="PiaVee" creationdate="20171015T102253Z">
+        <seg>Kopioi tiedostoja lähdekansioon...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1204,6 +1212,22 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T101333Z" creationid="PiaVee" creationdate="20171015T101333Z">
         <seg>Lataa &amp;ryhmäprojekti...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Media&amp;Wiki Page...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T102305Z" creationid="PiaVee" creationdate="20171015T102305Z">
+        <seg>Lataa Media&amp;Wiki-sivu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T102316Z" creationid="PiaVee" creationdate="20171015T102311Z">
+        <seg>Lataa MediaWiki-sivu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1332,6 +1356,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174059Z" creationid="PiaVee" creationdate="20171014T174059Z">
         <seg>fidži</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Copy Failed</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T102405Z" creationid="PiaVee" creationdate="20171015T102405Z">
+        <seg>Tiedoston kopiointi ei onnistunut</seg>
       </tuv>
     </tu>
     <tu>
@@ -1597,6 +1629,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T093024Z" creationid="PiaVee" creationdate="20171014T092738Z">
         <seg>Älä huomioi sanaston mukaista alkukirjaimen kokoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Importing Wiki Page Failed</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T102356Z" creationid="PiaVee" creationdate="20171015T102356Z">
+        <seg>Wiki-sivun tuonti ei onnistunut</seg>
       </tuv>
     </tu>
     <tu>
@@ -2670,6 +2710,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T125418Z" creationid="PiaVee" creationdate="20170908T125418Z">
         <seg>Avaa projekti ja yritä sen jälkeen uudelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please type or paste the URL of the mediawiki page</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T102342Z" creationid="PiaVee" creationdate="20171015T102313Z">
+        <seg>Kirjoita tai liitä MediaWiki-sivun osoite</seg>
       </tuv>
     </tu>
     <tu>
