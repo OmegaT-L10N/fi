@@ -136,8 +136,8 @@
       <tuv lang="EN">
         <seg>&amp;Edit</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103446Z" creationid="PiaVee" creationdate="20171015T103446Z">
-        <seg>Muokkaa (&amp;E)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110937Z" creationid="PiaVee" creationdate="20171015T103446Z">
+        <seg>&amp;Muokkaa</seg>
       </tuv>
     </tu>
     <tu>
@@ -192,8 +192,8 @@
       <tuv lang="EN">
         <seg>&amp;Go To</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110433Z" creationid="PiaVee" creationdate="20171015T110428Z">
-        <seg>Siirry (&amp;G)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110955Z" creationid="PiaVee" creationdate="20171015T110428Z">
+        <seg>&amp;Siirry</seg>
       </tuv>
     </tu>
     <tu>
