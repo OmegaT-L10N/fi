@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Back in History</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110620Z" creationid="PiaVee" creationdate="20171015T110620Z">
+        <seg>Taaksepäin historiassa (&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103013Z" creationid="PiaVee" creationdate="20171015T094303Z">
@@ -166,10 +174,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Forward in History</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110607Z" creationid="PiaVee" creationdate="20171015T110607Z">
+        <seg>Eteenpäin historiassa (&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Glossaries</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103414Z" creationid="PiaVee" creationdate="20171015T102704Z">
         <seg>Sanastot (&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Go To</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110433Z" creationid="PiaVee" creationdate="20171015T110428Z">
+        <seg>Siirry (&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -198,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Next Segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110455Z" creationid="PiaVee" creationdate="20171015T110431Z">
+        <seg>Seuraava segmentti (&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103008Z" creationid="PiaVee" creationdate="20171015T094259Z">
@@ -210,6 +242,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103246Z" creationid="PiaVee" creationdate="20171015T101338Z">
         <seg>Avaa... (&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Previous Segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110538Z" creationid="PiaVee" creationdate="20171015T110538Z">
+        <seg>Edellinen segmentti (&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,6 +362,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103529Z" creationid="PiaVee" creationdate="20171015T103515Z">
         <seg>Etsi projektista... (&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Segment Number...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110554Z" creationid="PiaVee" creationdate="20171015T110554Z">
+        <seg>Segmentti nro... (&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2355,8 +2403,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110313Z" creationid="PiaVee" creationdate="20171015T104225Z">
-        <seg>Vasemmalta oikealle sisällyttävä merkki (LRE U+200E)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110332Z" creationid="PiaVee" creationdate="20171015T104225Z">
+        <seg>Vasemmalta oikealle upottava merkki (LRE U+200E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2581,6 +2629,30 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T175023Z" creationid="PiaVee" creationdate="20171014T175023Z">
         <seg>nepali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next &amp;Translated Segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110530Z" creationid="PiaVee" creationdate="20171015T110530Z">
+        <seg>Seuraava käännetty segmentti (&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next &amp;Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110522Z" creationid="PiaVee" creationdate="20171015T110522Z">
+        <seg>Seuraava kääntämätön segmentti (&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next N&amp;ote</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110510Z" creationid="PiaVee" creationdate="20171015T110510Z">
+        <seg>Seuraava muistiinpano (&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3002,10 +3074,26 @@ ja vahvista kaikki.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110422Z" creationid="PiaVee" creationdate="20171015T110422Z">
+        <seg>Suuntaa kääntävä ohjainmerkki (PDF U-202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Portuguese</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081115Z" creationid="PiaVee" creationdate="20171015T081115Z">
         <seg>portugali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous No&amp;te</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110546Z" creationid="PiaVee" creationdate="20171015T110546Z">
+        <seg>Edellinen muistiinpano (&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3220,8 +3308,8 @@ ja vahvista kaikki.
       <tuv lang="EN">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110322Z" creationid="PiaVee" creationdate="20171015T110311Z">
-        <seg>Oikealta vasemmalle sisällyttävä merkki (RLE U+200F)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110342Z" creationid="PiaVee" creationdate="20171015T110311Z">
+        <seg>Oikealta vasemmalle upottava merkki (RLE U+200F)</seg>
       </tuv>
     </tu>
     <tu>
