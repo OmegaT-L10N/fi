@@ -88,8 +88,8 @@
       <tuv lang="EN">
         <seg>&amp;Align Files...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111355Z" creationid="PiaVee" creationdate="20171015T111355Z">
-        <seg>Kohdista tiedostoja... (&amp;A)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121651Z" creationid="PiaVee" creationdate="20171015T111355Z">
+        <seg>&amp;Kohdista tiedostoja...</seg>
       </tuv>
     </tu>
     <tu>
@@ -104,8 +104,8 @@
       <tuv lang="EN">
         <seg>&amp;Back in History</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110811Z" creationid="PiaVee" creationdate="20171015T110620Z">
-        <seg>Siirry historiassa taaksepäin (&amp;B)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121524Z" creationid="PiaVee" creationdate="20171015T110620Z">
+        <seg>Siirry historiassa &amp;taaksepäin</seg>
       </tuv>
     </tu>
     <tu>
@@ -192,8 +192,8 @@
       <tuv lang="EN">
         <seg>&amp;Forward in History</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110803Z" creationid="PiaVee" creationdate="20171015T110607Z">
-        <seg>Siirry historiassa eteenpäin (&amp;F)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121510Z" creationid="PiaVee" creationdate="20171015T110607Z">
+        <seg>Siirry historiassa &amp;eteenpäin</seg>
       </tuv>
     </tu>
     <tu>
@@ -248,8 +248,8 @@
       <tuv lang="EN">
         <seg>&amp;Match Statistics</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111331Z" creationid="PiaVee" creationdate="20171015T111331Z">
-        <seg>Osumatilastot (&amp;M)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121632Z" creationid="PiaVee" creationdate="20171015T111331Z">
+        <seg>&amp;Osumatilastot</seg>
       </tuv>
     </tu>
     <tu>
@@ -296,8 +296,8 @@
       <tuv lang="EN">
         <seg>&amp;Previous Segment</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121316Z" creationid="PiaVee" creationdate="20171015T110538Z">
-        <seg>&amp;Edellinen segmentti</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121459Z" creationid="PiaVee" creationdate="20171015T110538Z">
+        <seg>Edellinen se&amp;gmentti</seg>
       </tuv>
     </tu>
     <tu>
@@ -448,8 +448,8 @@
       <tuv lang="EN">
         <seg>&amp;Statistics</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111322Z" creationid="PiaVee" creationdate="20171015T111322Z">
-        <seg>Tilastot (&amp;S)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121628Z" creationid="PiaVee" creationdate="20171015T111322Z">
+        <seg>&amp;Tilastot</seg>
       </tuv>
     </tu>
     <tu>
@@ -1210,16 +1210,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Check &amp;Issues...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111305Z" creationid="PiaVee" creationdate="20171015T111247Z">
-        <seg>Tarkista... (&amp;I)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121623Z" creationid="PiaVee" creationdate="20171015T111247Z">
+        <seg>T&amp;arkista...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111310Z" creationid="PiaVee" creationdate="20171015T111303Z">
-        <seg>Tarkista nykyinen asiakirja... (&amp;I)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121620Z" creationid="PiaVee" creationdate="20171015T111303Z">
+        <seg>Tarkista &amp;nykyinen asiakirja...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2699,8 +2699,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Match Statistics per &amp;File</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111345Z" creationid="PiaVee" creationdate="20171015T111345Z">
-        <seg>Osumatilastot per tiedosto (&amp;F)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121641Z" creationid="PiaVee" creationdate="20171015T111345Z">
+        <seg>Osumatilastot &amp;per tiedosto</seg>
       </tuv>
     </tu>
     <tu>
@@ -2795,8 +2795,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Next Uni&amp;que Segment</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110831Z" creationid="PiaVee" creationdate="20171015T110831Z">
-        <seg>Seuraava uniikki segmentti (&amp;Q)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121604Z" creationid="PiaVee" creationdate="20171015T110831Z">
+        <seg>Seuraava &amp;uniikki segmentti</seg>
       </tuv>
     </tu>
     <tu>
@@ -3236,8 +3236,8 @@ ja vahvista kaikki.
       <tuv lang="EN">
         <seg>Previous No&amp;te</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121327Z" creationid="PiaVee" creationdate="20171015T110546Z">
-        <seg>Edellinen m&amp;uistiinpano</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121506Z" creationid="PiaVee" creationdate="20171015T110546Z">
+        <seg>Edellinen muistiin&amp;pano</seg>
       </tuv>
     </tu>
     <tu>
@@ -3564,8 +3564,8 @@ ja vahvista kaikki.
       <tuv lang="EN">
         <seg>Scriptin&amp;g...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111443Z" creationid="PiaVee" creationdate="20171015T111420Z">
-        <seg>Komentosarjat... (&amp;G)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121657Z" creationid="PiaVee" creationdate="20171015T111420Z">
+        <seg>Komento&amp;sarjat...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3836,8 +3836,8 @@ ja vahvista kaikki.
       <tuv lang="EN">
         <seg>Source of Selected &amp;Match</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110823Z" creationid="PiaVee" creationdate="20171015T110823Z">
-        <seg>Valitun osuman lähde (&amp;M)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121555Z" creationid="PiaVee" creationdate="20171015T110823Z">
+        <seg>Valitun osuman &amp;lähde</seg>
       </tuv>
     </tu>
     <tu>
