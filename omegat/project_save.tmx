@@ -584,6 +584,22 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--/--</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124732Z" creationid="PiaVee" creationdate="20171015T124732Z">
+        <seg>--/--</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124805Z" creationid="PiaVee" creationdate="20171015T124805Z">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--ITokenizer=&lt;classname&gt;
 	--ITokenizerTarget=&lt;classname&gt;
 		Source- or target-language tokenizer to use (overrides project
@@ -1592,6 +1608,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cursor lock off</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124730Z" creationid="PiaVee" creationdate="20171015T124730Z">
+        <seg>Kohdistimen lukitus pois päältä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cursor lock on</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124723Z" creationid="PiaVee" creationdate="20171015T124723Z">
+        <seg>Kohdistimen lukitus päällä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Czech</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173958Z" creationid="PiaVee" creationdate="20171014T173958Z">
@@ -1652,6 +1684,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T180708Z" creationid="PiaVee" creationdate="20171014T174013Z">
         <seg>divehi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you really want to quit?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124743Z" creationid="PiaVee" creationdate="20171015T124743Z">
+        <seg>Haluatko todella lopettaa?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1916,6 +1956,22 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T102405Z" creationid="PiaVee" creationdate="20171015T102405Z">
         <seg>Tiedoston kopiointi ei onnistunut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124943Z" creationid="PiaVee" creationdate="20171015T124943Z">
+        <seg>Tiedosto: käännetty / segmenttimäärä (projekti: käännettyjä uniikkeja / uniikkeja yhteensä, segmenttejä kaikkiaan)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T125019Z" creationid="PiaVee" creationdate="20171015T125019Z">
+        <seg>Tiedosto: käännettyjä uniikkeja % (uniikkeja jäljellä) / projekti: segmenttimäärä (projekti: käännettyjä uniikkeja / uniikkeja yhteensä, segmenttejä kaikkiaan)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4174,6 +4230,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T121555Z" creationid="PiaVee" creationdate="20171015T110823Z">
         <seg>Valitun osuman &amp;lähde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source/translation lengths (characters)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124802Z" creationid="PiaVee" creationdate="20171015T124802Z">
+        <seg>Lähteen/käännöksen pituus (merkkiä)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8113,6 +8177,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T092451Z" creationid="PiaVee" creationdate="20171015T092451Z">
         <seg>{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124826Z" creationid="PiaVee" creationdate="20171015T124826Z">
+        <seg>{0} ({1} jäljellä) / {2} ({3} jäljellä), {4}</seg>
       </tuv>
     </tu>
     <tu>
