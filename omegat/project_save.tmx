@@ -1615,6 +1615,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing and running OmegaT" in the User Manual.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T095724Z" creationid="PiaVee" creationdate="20171015T095724Z">
+        <seg>"OmegaT:n asennus ja käyttö".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Interlingua</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174305Z" creationid="PiaVee" creationdate="20171014T174305Z">
@@ -2868,6 +2876,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T093650Z" creationid="PiaVee" creationdate="20171014T093650Z">
         <seg>Hakuikkuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See "Chapter 3.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T095632Z" creationid="PiaVee" creationdate="20171015T095632Z">
+        <seg>Lisätietoja käyttöoppaan luvussa 3:</seg>
       </tuv>
     </tu>
     <tu>
