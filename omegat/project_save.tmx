@@ -2187,8 +2187,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T123151Z" creationid="PiaVee" creationdate="20171015T123151Z">
-        <seg>Sulje OmegaT ja avaa projekti uudelleen, jotta muutokset astuvat voimaan.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T123740Z" creationid="PiaVee" creationdate="20171015T123151Z">
+        <seg>Muutokset astuvat voimaan käynnistettyäsi OmegaT:n uudelleen ja avattuasi projektin.</seg>
       </tuv>
     </tu>
     <tu>
