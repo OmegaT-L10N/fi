@@ -193,9 +193,9 @@
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T083049Z" creationid="PiaVee" creationdate="20171015T083049Z">
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T092640Z" creationid="PiaVee" creationdate="20171015T083049Z">
         <seg>-h, --help
-		Näytä tietoa käytöstä.</seg>
+		Näyttää tietoa käytöstä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1284,6 +1284,15 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174348Z" creationid="PiaVee" creationdate="20171014T174348Z">
         <seg>ido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If invoked in a git working tree or svn checkout, the results
+		will be staged/added.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T093821Z" creationid="PiaVee" creationdate="20171015T093821Z">
+        <seg>Jos komento annetaan versionhallintapuun tai SVN-checkoutin yhteydessä, tulokset valmistellaan tai lisätään tähän.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4697,6 +4706,16 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174320Z" creationid="PiaVee" creationdate="20171014T174320Z">
         <seg>ind</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>init &lt;source language&gt; &lt;target language&gt;
+		Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T092850Z" creationid="PiaVee" creationdate="20171015T092850Z">
+        <seg>init &lt;lähdekieli&gt; &lt;kohdekieli&gt;
+		Alustaa yksinkertaisen ryhmäprojektin, jossa käytetään kyseisiä kieliä.</seg>
       </tuv>
     </tu>
     <tu>
