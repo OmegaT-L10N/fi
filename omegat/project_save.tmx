@@ -1393,6 +1393,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initialized {0}-{1} team project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T093911Z" creationid="PiaVee" creationdate="20171015T093911Z">
+        <seg>Käynnistetty {0}-{1} ryhmäprojekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inline tags within segments take the form of serial numbers within curly brackets, i.e. {1}, {2}, etc.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T160624Z" creationid="PiaVee" creationdate="20171014T160624Z">
