@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Always Confirm Quit</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122700Z" creationid="PiaVee" creationdate="20171015T122700Z">
+        <seg>&amp;Pyydä aina lopetusvarmistusta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103100Z" creationid="PiaVee" creationdate="20171015T094323Z">
@@ -378,6 +386,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103157Z" creationid="PiaVee" creationdate="20171015T095014Z">
         <seg>Korvaa seuraava (&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Restore Main Window</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122710Z" creationid="PiaVee" creationdate="20171015T122710Z">
+        <seg>&amp;Palauta pääikkuna</seg>
       </tuv>
     </tu>
     <tu>
@@ -932,6 +948,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171001T104347Z" creationid="PiaVee" creationdate="20171001T104347Z">
         <seg>[fuzzy]OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Configurat&amp;ion Folder</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T123005Z" creationid="PiaVee" creationdate="20171015T123005Z">
+        <seg>Mene &amp;Määrittely-kansioon</seg>
       </tuv>
     </tu>
     <tu>
@@ -1956,6 +1980,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174250Z" creationid="PiaVee" creationdate="20171014T174250Z">
         <seg>hiri-motu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122605Z" creationid="PiaVee" creationdate="20171015T122605Z">
+        <seg>Historia</seg>
       </tuv>
     </tu>
     <tu>
