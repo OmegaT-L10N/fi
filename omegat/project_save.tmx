@@ -70,6 +70,28 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--remote-project
+		Download an omegat.project file from the URL given as &lt;project
+		path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T083243Z" creationid="PiaVee" creationdate="20171015T083243Z">
+        <seg>--remote-project
+		Noutaa omegat.project-tiedoston &lt;projektipolku&gt;-kohdassa annetusta osoitteesta
+		ja lataa projektin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T083049Z" creationid="PiaVee" creationdate="20171015T083049Z">
+        <seg>-h, --help
+		Näytä tietoa käytöstä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T155948Z" creationid="PiaVee" creationdate="20171014T155948Z">
@@ -1250,6 +1272,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T181113Z" creationid="PiaVee" creationdate="20171014T174342Z">
         <seg>inupiaq</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invoke `team -h` for details.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T083024Z" creationid="PiaVee" creationdate="20171015T083024Z">
+        <seg>Komento 'team -h' näyttää yksityiskohtaista tietoa.</seg>
       </tuv>
     </tu>
     <tu>
