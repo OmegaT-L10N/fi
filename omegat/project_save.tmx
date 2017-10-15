@@ -774,6 +774,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Console-translate mode:
+	--source-pattern=&lt;pattern&gt;
+		A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T091723Z" creationid="PiaVee" creationdate="20171015T091723Z">
+        <seg>Konsolikäännöstila:
+	--source-pattern=&lt;kuvio&gt;
+		Luettelo prosessoitavien lähdetiedostojen sallituista säännönmukaisista lausekkeista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert the file back to RTF format.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T161116Z" creationid="PiaVee" creationdate="20171014T161116Z">
@@ -3311,6 +3323,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082246Z" creationid="PiaVee" creationdate="20171015T082246Z">
         <seg>valloni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warn: Report invalid tags to stdout.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T091545Z" creationid="PiaVee" creationdate="20171015T091545Z">
+        <seg>Warn: Tulostaa virheelliset tägit stdoutiin.</seg>
       </tuv>
     </tu>
     <tu>
