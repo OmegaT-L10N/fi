@@ -206,6 +206,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
+To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T100902Z" creationid="PiaVee" creationdate="20171015T100902Z">
+        <seg>(Lista tuetuista tiedostomuodoista löytyy käyttöoppaan kohdasta "Käännettävät tiedostot " &gt; "Tiedostomuodot".)
+Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projektit-valikon painiketta Kopioi tiedostoja lähdekansioon ja valitse kopioitavat lähdetiedostot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T153019Z" creationid="PiaVee" creationdate="20171014T153019Z">
@@ -402,6 +412,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T161104Z" creationid="PiaVee" creationdate="20171014T161104Z">
         <seg>5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T100433Z" creationid="PiaVee" creationdate="20171015T100433Z">
+        <seg>&lt;auto&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3845,6 +3863,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T095154Z" creationid="PiaVee" creationdate="20171015T095154Z">
         <seg>Seuraavassa on tapoja selvittää tämä ongelma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your project does not contain any files in a supported file format.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T100511Z" creationid="PiaVee" creationdate="20171015T100511Z">
+        <seg>Projektin tiedostomuotoja ei tueta.</seg>
       </tuv>
     </tu>
     <tu>
