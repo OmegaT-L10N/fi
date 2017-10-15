@@ -1776,6 +1776,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error while trying to edit the project!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124634Z" creationid="PiaVee" creationdate="20171015T124634Z">
+        <seg>Projektia muokatessa tapahtui virhe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Errors found:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092510Z" creationid="PiaVee" creationdate="20171014T092510Z">
@@ -2977,6 +2985,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124510Z" creationid="PiaVee" creationdate="20171015T124510Z">
+        <seg>Lisää</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More information on the format and the procedure for its creation, for both users of Déjà Vu and of other CAT tools, can be found on the &lt;a0&gt;relevant Atril page&lt;/a0&gt;, and on the helpful &lt;a1&gt;blog maintained by Kevin Lossner&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T161747Z" creationid="PiaVee" creationdate="20171014T161747Z">
@@ -3530,6 +3546,14 @@ ja vahvista kaikki.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project saved</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124710Z" creationid="PiaVee" creationdate="20171015T124710Z">
+        <seg>Projektin tallennettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pāli</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081023Z" creationid="PiaVee" creationdate="20171015T081023Z">
@@ -3670,6 +3694,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T123758Z" creationid="PiaVee" creationdate="20171015T123758Z">
         <seg>Avataanko projekti uudelleen nyt?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reopen the project?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124638Z" creationid="PiaVee" creationdate="20171015T124638Z">
+        <seg>Avataanko projekti uudelleen?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3830,6 +3862,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081310Z" creationid="PiaVee" creationdate="20171015T081310Z">
         <seg>sardi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving project...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124654Z" creationid="PiaVee" creationdate="20171015T124654Z">
+        <seg>Projektoa tallenetaan...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5015,6 +5055,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T095154Z" creationid="PiaVee" creationdate="20171015T095154Z">
         <seg>Seuraavassa on tapoja selvittää tämä ongelma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must enter a number between 1 and {0}.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124620Z" creationid="PiaVee" creationdate="20171015T124620Z">
+        <seg>Numeron on oltava 1 ja {0} väliltä.</seg>
       </tuv>
     </tu>
     <tu>
