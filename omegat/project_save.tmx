@@ -1280,6 +1280,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create &amp;Glossary Entry...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103920Z" creationid="PiaVee" creationdate="20171015T103857Z">
+        <seg>Luo sanastotieto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create &amp;Translated Documents</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103326Z" creationid="PiaVee" creationdate="20171015T102448Z">
@@ -1428,6 +1436,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T154833Z" creationid="PiaVee" creationdate="20171014T154833Z">
         <seg>Déjà Vu "External View"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E&amp;xport Selection</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103656Z" creationid="PiaVee" creationdate="20171015T103656Z">
+        <seg>Vie valinta (&amp;X)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1712,6 +1728,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I&amp;nsert Source</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103618Z" creationid="PiaVee" creationdate="20171015T103618Z">
+        <seg>Lisää lähde (&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IGNORED:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092521Z" creationid="PiaVee" creationdate="20171014T092518Z">
@@ -1893,6 +1917,30 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T160624Z" creationid="PiaVee" creationdate="20171014T160624Z">
         <seg>Segmenttien sisällä olevat tägit ovat numerojärjestyksessä aaltosulkeiden sisällä: {1}, {2}, jne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Missing Source &amp;Tags</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103707Z" creationid="PiaVee" creationdate="20171015T103707Z">
+        <seg>Lisää puuttuvat lähdetägit (&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Next Missing Tag</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103720Z" creationid="PiaVee" creationdate="20171015T103720Z">
+        <seg>Lisää seuraava puuttuva tägi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Tag {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103728Z" creationid="PiaVee" creationdate="20171015T103728Z">
+        <seg>Lisää tägi {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3010,10 +3058,26 @@ ja vahvista kaikki.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Re&amp;place with Source</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103646Z" creationid="PiaVee" creationdate="20171015T103633Z">
+        <seg>Korvaa lähteellä (&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Refresh</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T093426Z" creationid="PiaVee" creationdate="20171014T093426Z">
         <seg>Päivitä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Register Identical Translation</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103903Z" creationid="PiaVee" creationdate="20171015T103831Z">
+        <seg>Kirjaa sama käännös</seg>
       </tuv>
     </tu>
     <tu>
@@ -3070,6 +3134,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T082302Z" creationid="PiaVee" creationdate="20170910T082245Z">
         <seg>Poista tägit nykyisestä kohteesta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove translation</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103735Z" creationid="PiaVee" creationdate="20171015T103735Z">
+        <seg>Poista käännös</seg>
       </tuv>
     </tu>
     <tu>
@@ -3334,6 +3406,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081350Z" creationid="PiaVee" creationdate="20171015T081350Z">
         <seg>serbia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set empty translation</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103807Z" creationid="PiaVee" creationdate="20171015T103807Z">
+        <seg>Aseta tyhjä käännös</seg>
       </tuv>
     </tu>
     <tu>
