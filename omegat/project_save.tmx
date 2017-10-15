@@ -344,10 +344,32 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1) Reduce the number of source files and translate in batches;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T095233Z" creationid="PiaVee" creationdate="20171015T095233Z">
+        <seg>1) Vähennä lähdetiedostojen määrää, käännä pienemmissä erissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T155948Z" creationid="PiaVee" creationdate="20171014T155948Z">
         <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2) Increase the amount of memory available to OmegaT, by
+specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
+command line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T095559Z" creationid="PiaVee" creationdate="20171015T095559Z">
+        <seg>2) Lisää OmegaT:n käytettävissä olevaa muistia käyttämällä
+joko komentorivillä tai OmegaT:n aloituskomentosarjassa
+komentoa "java -Xmx&lt;muistin-koko-(MB)&gt;M -jar OmegaT.jar".
+Nykyinen asetus on {0} MB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -952,6 +974,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T094748Z" creationid="PiaVee" creationdate="20171015T094321Z">
         <seg>S&amp;isältö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T095044Z" creationid="PiaVee" creationdate="20171015T095044Z">
+        <seg>Vahvista</seg>
       </tuv>
     </tu>
     <tu>
@@ -2365,6 +2395,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T095118Z" creationid="PiaVee" creationdate="20171015T095118Z">
+        <seg>OmegaT:ltä loppui muisti, ja ohjelma sulkeutuu, kun painat OK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will not launch if tokenizers are found in the /plugin folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T154350Z" creationid="PiaVee" creationdate="20171014T154350Z">
@@ -3759,6 +3797,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T145336Z" creationid="PiaVee" creationdate="20171014T145336Z">
         <seg>LanguageTool-sovellus paljastaa virheitä, joita yksinkertainen oikeinkirjoituksen tarkastin ei huomaa, esim. kun there/their  tai no/now ovat menneet sekaisin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may try to solve this problem in one of the following ways:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T095154Z" creationid="PiaVee" creationdate="20171015T095154Z">
+        <seg>Seuraavassa on tapoja selvittää tämä ongelma:</seg>
       </tuv>
     </tu>
     <tu>
