@@ -112,8 +112,8 @@
       <tuv lang="EN">
         <seg>&amp;Filter</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T094711Z" creationid="PiaVee" creationdate="20171015T094308Z">
-        <seg>&amp;Suodatin</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T101626Z" creationid="PiaVee" creationdate="20171015T094308Z">
+        <seg>S&amp;uodatin</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,10 +142,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;New...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T101311Z" creationid="PiaVee" creationdate="20171015T101311Z">
+        <seg>&amp;Uusi...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T094259Z" creationid="PiaVee" creationdate="20171015T094259Z">
         <seg>&amp;OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Open...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T101338Z" creationid="PiaVee" creationdate="20171015T101338Z">
+        <seg>&amp;Avaa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Project</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T101307Z" creationid="PiaVee" creationdate="20171015T101307Z">
+        <seg>&amp;Projekti</seg>
       </tuv>
     </tu>
     <tu>
@@ -1056,6 +1080,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cop&amp;y Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T101414Z" creationid="PiaVee" creationdate="20171015T101414Z">
+        <seg>&amp;Kopioi tiedostoja lähdekansioon...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T132056Z" creationid="PiaVee" creationdate="20171014T132056Z">
@@ -1164,6 +1196,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140557Z" creationid="PiaVee" creationdate="20171014T140224Z">
         <seg>Dokumentaation seurantajäjestelmä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download &amp;Team Project...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T101333Z" creationid="PiaVee" creationdate="20171015T101333Z">
+        <seg>Lataa &amp;ryhmäprojekti...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2429,6 +2469,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has chosen option 'Yes' automatically.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T101302Z" creationid="PiaVee" creationdate="20171015T101302Z">
+        <seg>OmegaT valitsi automaattisesti Kyllä-vaihtoehdon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T095118Z" creationid="PiaVee" creationdate="20171015T095118Z">
@@ -2457,6 +2505,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T075649Z" creationid="PiaVee" creationdate="20170930T070409Z">
         <seg>Ilman hänen korvaamatonta apuaan englanninkielisestä tekstistä olisi jäänyt puuttumaan vaikka kuinka monta artikkelia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Recent Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T101350Z" creationid="PiaVee" creationdate="20171015T101350Z">
+        <seg>Avaa &amp;viimeisin projekti</seg>
       </tuv>
     </tu>
     <tu>
@@ -2638,6 +2694,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T114358Z" creationid="PiaVee" creationdate="20171014T114358Z">
         <seg>Yksityisten kokoelmien nimet on lihavoitu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project is Empty</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T101226Z" creationid="PiaVee" creationdate="20171015T101226Z">
+        <seg>Projekti on tyhjä</seg>
       </tuv>
     </tu>
     <tu>
@@ -3727,6 +3791,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T091545Z" creationid="PiaVee" creationdate="20171015T091545Z">
         <seg>Warn: Tulostaa virheelliset tägit stdoutiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T101229Z" creationid="PiaVee" creationdate="20171015T101229Z">
+        <seg>Varoitus</seg>
       </tuv>
     </tu>
     <tu>
