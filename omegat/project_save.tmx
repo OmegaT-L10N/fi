@@ -3859,6 +3859,14 @@ ja vahvista kaikki.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T101217Z" creationid="PiaVee" creationdate="20171015T101217Z">
+        <seg>Voit myös kopioida tiedostoja projektin source-kansioon tiedostonhallintaohjelmaa käyttäen. Lataa tämän jälkeen projekti uudelleen (Projekti-valikko &gt; Lataa uudelleen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may try to solve this problem in one of the following ways:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T095154Z" creationid="PiaVee" creationdate="20171015T095154Z">
