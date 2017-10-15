@@ -134,6 +134,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--pseudotranslatetype=[equal|empty]
+		What to fill the pseudotranslated TMX with.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T092058Z" creationid="PiaVee" creationdate="20171015T092058Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+		Millä muka käännetty TMX täytetään</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--remote-project
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
@@ -774,12 +784,24 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Console-pseudotranslatetmx mode:
+	--pseudotranslatetmx=&lt;path&gt;
+		The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T092022Z" creationid="PiaVee" creationdate="20171015T092022Z">
+        <seg>Konsolin pseudotranslatetmx-tila:
+	--pseudotranslatetmx=&lt;polku&gt;
+		Tuottaa muka käännetyn TMX-tiedoston.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Console-translate mode:
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T091723Z" creationid="PiaVee" creationdate="20171015T091723Z">
-        <seg>Konsolikäännöstila:
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T091741Z" creationid="PiaVee" creationdate="20171015T091723Z">
+        <seg>Konsolin käännöstila:
 	--source-pattern=&lt;kuvio&gt;
 		Luettelo prosessoitavien lähdetiedostojen sallituista säännönmukaisista lausekkeista.</seg>
       </tuv>
