@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Glossary</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111629Z" creationid="PiaVee" creationdate="20171015T111629Z">
+        <seg>Sanasto (&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Go To</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T110955Z" creationid="PiaVee" creationdate="20171015T110428Z">
@@ -1418,8 +1426,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103934Z" creationid="PiaVee" creationdate="20171015T103857Z">
-        <seg>Luo sanastotieto... (&amp;G)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111657Z" creationid="PiaVee" creationdate="20171015T103857Z">
+        <seg>Luo sanastotietue... (&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1500,6 +1508,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T064835Z" creationid="PiaVee" creationdate="20170930T064402Z">
         <seg>Didier Brieliä kaikesta kärsivällisyydestä ja avusta DocBook-koukeroiden kanssa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display context description for TBX &amp;glossaries</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111741Z" creationid="PiaVee" creationdate="20171015T111741Z">
+        <seg>Näytä TBX-sanastojen kontekstitiedot (&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4415,6 +4431,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092651Z" creationid="PiaVee" creationdate="20171014T092651Z">
         <seg>Käytä sanastoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use terms &amp;appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111851Z" creationid="PiaVee" creationdate="20171015T111851Z">
+        <seg>Käytä lähtötekstin yksittäisiä termejä</seg>
       </tuv>
     </tu>
     <tu>
