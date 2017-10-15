@@ -80,8 +80,8 @@
       <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T094811Z" creationid="PiaVee" creationdate="20171015T094323Z">
-        <seg>&amp;Paluu</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T101701Z" creationid="PiaVee" creationdate="20171015T094323Z">
+        <seg>Pal&amp;uu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1014,8 +1014,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Con&amp;tents</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T094748Z" creationid="PiaVee" creationdate="20171015T094321Z">
-        <seg>S&amp;isältö</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T101649Z" creationid="PiaVee" creationdate="20171015T094321Z">
+        <seg>Sisä&amp;ltö</seg>
       </tuv>
     </tu>
     <tu>
@@ -2732,16 +2732,16 @@ ja vahvista kaikki.
       <tuv lang="EN">
         <seg>Re&amp;move Filter</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T094723Z" creationid="PiaVee" creationdate="20171015T094314Z">
-        <seg>P&amp;oista suodatin</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T101630Z" creationid="PiaVee" creationdate="20171015T094314Z">
+        <seg>Po&amp;ista suodatin</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Re&amp;place All</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T094736Z" creationid="PiaVee" creationdate="20171015T094319Z">
-        <seg>Kor&amp;vaa kaikki</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T101639Z" creationid="PiaVee" creationdate="20171015T094319Z">
+        <seg>Ko&amp;rvaa kaikki</seg>
       </tuv>
     </tu>
     <tu>
@@ -3044,8 +3044,8 @@ ja vahvista kaikki.
       <tuv lang="EN">
         <seg>Select</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T094820Z" creationid="PiaVee" creationdate="20171015T094344Z">
-        <seg>Valitse</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T101718Z" creationid="PiaVee" creationdate="20171015T094344Z">
+        <seg>Valinnat</seg>
       </tuv>
     </tu>
     <tu>
