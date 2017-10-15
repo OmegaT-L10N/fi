@@ -264,8 +264,8 @@
       <tuv lang="EN">
         <seg>&amp;Next Segment</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110455Z" creationid="PiaVee" creationdate="20171015T110431Z">
-        <seg>Seuraava segmentti (&amp;N)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121258Z" creationid="PiaVee" creationdate="20171015T110431Z">
+        <seg>Seuraava &amp;segmentti</seg>
       </tuv>
     </tu>
     <tu>
@@ -296,8 +296,8 @@
       <tuv lang="EN">
         <seg>&amp;Previous Segment</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110538Z" creationid="PiaVee" creationdate="20171015T110538Z">
-        <seg>Edellinen segmentti (&amp;P)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121316Z" creationid="PiaVee" creationdate="20171015T110538Z">
+        <seg>&amp;Edellinen segmentti</seg>
       </tuv>
     </tu>
     <tu>
@@ -416,8 +416,8 @@
       <tuv lang="EN">
         <seg>&amp;Segment Number...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110554Z" creationid="PiaVee" creationdate="20171015T110554Z">
-        <seg>Segmentti nro... (&amp;S)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121333Z" creationid="PiaVee" creationdate="20171015T110554Z">
+        <seg>Segmentti &amp;nro...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2507,8 +2507,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110332Z" creationid="PiaVee" creationdate="20171015T104225Z">
-        <seg>Vasemmalta oikealle upottava merkki (LRE U+200E)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121239Z" creationid="PiaVee" creationdate="20171015T104225Z">
+        <seg>Upotusmerkki vasemmalta oikealle (LRE U+200E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2771,24 +2771,24 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110530Z" creationid="PiaVee" creationdate="20171015T110530Z">
-        <seg>Seuraava käännetty segmentti (&amp;T)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121311Z" creationid="PiaVee" creationdate="20171015T110530Z">
+        <seg>Seuraava käännett&amp;y segmentti</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Next &amp;Untranslated Segment</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110522Z" creationid="PiaVee" creationdate="20171015T110522Z">
-        <seg>Seuraava kääntämätön segmentti (&amp;U)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121306Z" creationid="PiaVee" creationdate="20171015T110522Z">
+        <seg>Seuraava &amp;kääntämätön segmentti</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Next N&amp;ote</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110510Z" creationid="PiaVee" creationdate="20171015T110510Z">
-        <seg>Seuraava muistiinpano (&amp;O)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121302Z" creationid="PiaVee" creationdate="20171015T110510Z">
+        <seg>Seuraava &amp;muistiinpano</seg>
       </tuv>
     </tu>
     <tu>
@@ -3236,8 +3236,8 @@ ja vahvista kaikki.
       <tuv lang="EN">
         <seg>Previous No&amp;te</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110546Z" creationid="PiaVee" creationdate="20171015T110546Z">
-        <seg>Edellinen muistiinpano (&amp;T)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121327Z" creationid="PiaVee" creationdate="20171015T110546Z">
+        <seg>Edellinen m&amp;uistiinpano</seg>
       </tuv>
     </tu>
     <tu>
@@ -3452,8 +3452,8 @@ ja vahvista kaikki.
       <tuv lang="EN">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110342Z" creationid="PiaVee" creationdate="20171015T110311Z">
-        <seg>Oikealta vasemmalle upottava merkki (RLE U+200F)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121247Z" creationid="PiaVee" creationdate="20171015T110311Z">
+        <seg>Upotusmerkki oikealta vasemmalle (RLE U+200F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3684,24 +3684,24 @@ ja vahvista kaikki.
       <tuv lang="EN">
         <seg>Select &amp;Next Match</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103950Z" creationid="PiaVee" creationdate="20171015T103950Z">
-        <seg>Valitse seuraava osuma (&amp;N)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121214Z" creationid="PiaVee" creationdate="20171015T103950Z">
+        <seg>Valitse &amp;seuraava osuma</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select &amp;Previous Match</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T104001Z" creationid="PiaVee" creationdate="20171015T104001Z">
-        <seg>Valitse edellinen osuma (&amp;P)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121218Z" creationid="PiaVee" creationdate="20171015T104001Z">
+        <seg>Valitse &amp;edellinen osuma</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103941Z" creationid="PiaVee" creationdate="20171015T103925Z">
-        <seg>Valitse osuma (&amp;C)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121210Z" creationid="PiaVee" creationdate="20171015T103925Z">
+        <seg>Valitse &amp;osuma</seg>
       </tuv>
     </tu>
     <tu>
