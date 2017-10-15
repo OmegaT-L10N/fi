@@ -1816,6 +1816,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to compile project files!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124023Z" creationid="PiaVee" creationdate="20171015T124023Z">
+        <seg>Projektitiedostojen kokoaminen ei onnistunut!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to load specified project!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T123901Z" creationid="PiaVee" creationdate="20171015T123901Z">
+        <seg>Kyseisen projektin lataaminen ei onnistunut!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T123837Z" creationid="PiaVee" creationdate="20171015T123837Z">
@@ -2413,6 +2429,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T153741Z" creationid="PiaVee" creationdate="20171014T153741Z">
         <seg>Projektin ominaisuudet -ikkunassa voi valita käytettävän saneistimen (Saneistin) tai sen version (Saneistimen toiminta).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124139Z" creationid="PiaVee" creationdate="20171015T124139Z">
+        <seg>Käännettyjen tiedostojen luonti ei onnistunut, sillä tägejä puuttui tai ne olivat vahingoittuneita.</seg>
       </tuv>
     </tu>
     <tu>
