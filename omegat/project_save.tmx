@@ -1404,6 +1404,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Committing source files</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124241Z" creationid="PiaVee" creationdate="20171015T124230Z">
+        <seg>Lähdetiedostojen vahvistaminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Con&amp;tents</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103056Z" creationid="PiaVee" creationdate="20171015T094321Z">
@@ -1680,6 +1688,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Duplicate segments: {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124358Z" creationid="PiaVee" creationdate="20171015T124358Z">
+        <seg>Toistetut segmentit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dutch</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174019Z" creationid="PiaVee" creationdate="20171014T174019Z">
@@ -1740,6 +1756,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T100504Z" creationid="PiaVee" creationdate="20171014T094747Z">
         <seg>Kirjoita uusi sana tai ilmaisu (säännölliset lausekkeet eivät ole käytössä) &lt;e0&gt;Korvaa tällä&lt;/e0&gt;-kenttään ja napsauta sitten yhtä seuraavista vaihtoehdoista:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the segment number:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124309Z" creationid="PiaVee" creationdate="20171015T124309Z">
+        <seg>Kirjoita segmentin numero:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1812,6 +1836,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T080346Z" creationid="PiaVee" creationdate="20170930T063645Z">
         <seg>Haluan erityisesti kiittää</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit source file!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124227Z" creationid="PiaVee" creationdate="20171015T124227Z">
+        <seg>Lähdetiedoston vahvistus ei onnistunut!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1964,6 +1996,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T122202Z" creationid="PiaVee" creationdate="20171015T122202Z">
         <seg>Sanasto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go To Segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124316Z" creationid="PiaVee" creationdate="20171015T124316Z">
+        <seg>Siirry segmenttiin</seg>
       </tuv>
     </tu>
     <tu>
@@ -3386,6 +3426,14 @@ ja vahvista kaikki.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124213Z" creationid="PiaVee" creationdate="20171015T124213Z">
+        <seg>Korjaa ensin tägiongelmat ja luo sitten käännetyt tiedostot uudelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140123Z" creationid="PiaVee" creationdate="20171014T140123Z">
@@ -3906,6 +3954,14 @@ ja vahvista kaikki.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment {0,number,#}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124427Z" creationid="PiaVee" creationdate="20171015T124427Z">
+        <seg>Segmentti {0,number,#}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T101718Z" creationid="PiaVee" creationdate="20171015T094344Z">
@@ -4062,6 +4118,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124842Z" creationid="PiaVee" creationdate="20170908T124842Z">
         <seg>Jokin meni pieleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source files committed</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124251Z" creationid="PiaVee" creationdate="20171015T124251Z">
+        <seg>Lähdetiedostot vahvistettu</seg>
       </tuv>
     </tu>
     <tu>
