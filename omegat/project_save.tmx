@@ -2301,6 +2301,19 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Place source files in ./source and supplemental
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T094257Z" creationid="PiaVee" creationdate="20171015T094257Z">
+        <seg>Lisää lähtötiedostot kansioon ./source, apumateriaali
+kansioihin ./tm, ./glossary ja ./dictionary
+ja vahvista kaikki.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please check the &lt;u0&gt;ISO 639 Code Tables&lt;/u0&gt; for further and up-to-date information about language codes.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T162043Z" creationid="PiaVee" creationdate="20171014T162043Z">
