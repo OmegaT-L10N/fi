@@ -1998,6 +1998,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options:
+	None: Launch GUI
+	Project path only: Launch GUI and load specified project
+	team
+		Team project tool.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T082944Z" creationid="PiaVee" creationdate="20171015T082944Z">
+        <seg>Asetukset:
+	Ei mitään: Käynnistää GUI:n
+	Ainoastaan projektipolku: Käynnistää GUI:n ja lataa kyseisen projektin
+	team
+		Ryhmäprojektin työkalu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Oriya</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T080946Z" creationid="PiaVee" creationdate="20171015T080946Z">
@@ -3041,8 +3057,8 @@
       <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170908T122817Z" creationid="PiaVee" creationdate="20170908T122817Z">
-        <seg>Avaaminen: java -jar OmegaT.jar [&lt;valinnat&gt;] [&lt;projektipolku&gt;]</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171015T082533Z" creationid="PiaVee" creationdate="20170908T122817Z">
+        <seg>Käyttö: java -jar OmegaT.jar [&lt;valinnat&gt;] [&lt;projektipolku&gt;]</seg>
       </tuv>
     </tu>
     <tu>
