@@ -1834,8 +1834,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Ctrl+A</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T124513Z" creationid="PiaVee" creationdate="20171218T124513Z">
-        <seg>[CTRL + A</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T124531Z" creationid="PiaVee" creationdate="20171218T124513Z">
+        <seg>CTRL + A</seg>
       </tuv>
     </tu>
     <tu>
@@ -1908,6 +1908,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T123250Z" creationid="PiaVee" creationdate="20171218T123211Z">
         <seg>CTRL + nuolinäppäin oikealle:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+O</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T124740Z" creationid="PiaVee" creationdate="20171218T124740Z">
+        <seg>CTRL + Shift +O</seg>
       </tuv>
     </tu>
     <tu>
@@ -4576,6 +4584,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T120817Z" creationid="PiaVee" creationdate="20171015T103601Z">
         <seg>K&amp;orvaa osumalla tai valinnalla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RTL-LTR switch</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T124825Z" creationid="PiaVee" creationdate="20171218T124800Z">
+        <seg>vaihtaa kirjoitussuuntaa vasemmalta oikealle ja oikealta vasemmalle</seg>
       </tuv>
     </tu>
     <tu>
