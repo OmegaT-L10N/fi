@@ -1312,6 +1312,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backspace*</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123925Z" creationid="PiaVee" creationdate="20171218T123925Z">
+        <seg>Askelpalautin (Backspace)*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bambara</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173638Z" creationid="PiaVee" creationdate="20171014T173638Z">
@@ -1824,10 +1832,18 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+End</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123641Z" creationid="PiaVee" creationdate="20171218T123641Z">
+        <seg>CTRL + End</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Home</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123614Z" creationid="PiaVee" creationdate="20171218T123614Z">
-        <seg>CTRL + Home:</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123644Z" creationid="PiaVee" creationdate="20171218T123614Z">
+        <seg>CTRL + Home</seg>
       </tuv>
     </tu>
     <tu>
@@ -1836,6 +1852,22 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T123226Z" creationid="PiaVee" creationdate="20171218T123054Z">
         <seg>CTRL + nuolinäppäin vasemmalle:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+PgDn</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123737Z" creationid="PiaVee" creationdate="20171218T123737Z">
+        <seg>CTRL + PgDn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+PgUp</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123701Z" creationid="PiaVee" creationdate="20171218T123701Z">
+        <seg>CTRL + PgUp</seg>
       </tuv>
     </tu>
     <tu>
@@ -2106,8 +2138,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>End*</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123559Z" creationid="PiaVee" creationdate="20171218T123541Z">
-        <seg>Loppunäppäin (End)*</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123622Z" creationid="PiaVee" creationdate="20171218T123541Z">
+        <seg>End*</seg>
       </tuv>
     </tu>
     <tu>
@@ -8165,6 +8197,38 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T123607Z" creationid="PiaVee" creationdate="20171218T123607Z">
         <seg>siirtyy segmentissä rivin loppuun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the end of the segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123652Z" creationid="PiaVee" creationdate="20171218T123652Z">
+        <seg>siirtyy segmentin loppuun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the first segment of the document (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123729Z" creationid="PiaVee" creationdate="20171218T123729Z">
+        <seg>siirtyy asiakirjan ensimmäiseen segmenttiin (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the last segment of the document (Mac: &lt;e0&gt;Cmd+PgDn&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123749Z" creationid="PiaVee" creationdate="20171218T123749Z">
+        <seg>siirtyy asiakirjan viimeiseen segmenttiin (Mac: &lt;e0&gt;Cmd+PgDn&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the start of the segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123632Z" creationid="PiaVee" creationdate="20171218T123632Z">
+        <seg>siirtyy segmentin alkuun</seg>
       </tuv>
     </tu>
     <tu>
