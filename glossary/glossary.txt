@@ -657,3 +657,5 @@ Zuni	zuni	zun
 No linguistic content	ei kielellistä sisältöä	zxx
 Zaza	zaza	zza
 user's Manual	käyttöopas	OmegaT:n ohje. Englanniksi Users manual, user manual, tai vaikka pelkkä manual
+without spaces	ilman välilyöntejä
+including spaces	sis. välilyönnit
