@@ -1824,6 +1824,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Home</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123614Z" creationid="PiaVee" creationdate="20171218T123614Z">
+        <seg>CTRL + Home:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Left:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T123226Z" creationid="PiaVee" creationdate="20171218T123054Z">
@@ -2092,6 +2100,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072331Z" creationid="PiaVee" creationdate="20171218T072331Z">
         <seg>Merkistökoodaus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End*</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123559Z" creationid="PiaVee" creationdate="20171218T123541Z">
+        <seg>Loppunäppäin (End)*</seg>
       </tuv>
     </tu>
     <tu>
@@ -2708,6 +2724,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T122521Z" creationid="PiaVee" creationdate="20171015T122510Z">
         <seg>Historiaan perustuva ennakointi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Home*</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123619Z" creationid="PiaVee" creationdate="20171218T123428Z">
+        <seg>Home*</seg>
       </tuv>
     </tu>
     <tu>
@@ -4233,6 +4257,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081045Z" creationid="PiaVee" creationdate="20171015T081045Z">
         <seg>farsi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PgDn:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123407Z" creationid="PiaVee" creationdate="20171218T123407Z">
+        <seg>Sivu alan (PgDn):</seg>
       </tuv>
     </tu>
     <tu>
@@ -8121,6 +8153,22 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>move to the beginning of the line in the segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123447Z" creationid="PiaVee" creationdate="20171218T123447Z">
+        <seg>siirtyy segmentissä rivin alkuun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the end of the line in the segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123607Z" creationid="PiaVee" creationdate="20171218T123607Z">
+        <seg>siirtyy segmentissä rivin loppuun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>mr</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174940Z" creationid="PiaVee" creationdate="20171014T174940Z">
@@ -8477,6 +8525,22 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081006Z" creationid="PiaVee" creationdate="20171015T081006Z">
         <seg>pa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>page down through the document</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123421Z" creationid="PiaVee" creationdate="20171218T123411Z">
+        <seg>sivun verran alemmas asiakirjassa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>page up through the document</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123416Z" creationid="PiaVee" creationdate="20171218T123354Z">
+        <seg>sivun verran ylemmäs asiakirjassa</seg>
       </tuv>
     </tu>
     <tu>
