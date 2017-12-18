@@ -1428,6 +1428,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commit Target Files</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T071428Z" creationid="PiaVee" creationdate="20171218T071428Z">
+        <seg>Vahvista kohdetiedostot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Committing source files</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124241Z" creationid="PiaVee" creationdate="20171015T124230Z">
