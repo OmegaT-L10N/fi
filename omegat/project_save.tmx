@@ -1314,8 +1314,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Backspace*</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T124304Z" creationid="PiaVee" creationdate="20171218T123925Z">
-        <seg>Backspace*</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T125130Z" creationid="PiaVee" creationdate="20171218T123925Z">
+        <seg>Back space*</seg>
       </tuv>
     </tu>
     <tu>
@@ -1858,8 +1858,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Ctrl+End</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123641Z" creationid="PiaVee" creationdate="20171218T123641Z">
-        <seg>CTRL + End</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T125110Z" creationid="PiaVee" creationdate="20171218T123641Z">
+        <seg>Ctrl + End</seg>
       </tuv>
     </tu>
     <tu>
@@ -1874,40 +1874,40 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Ctrl+Home</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123644Z" creationid="PiaVee" creationdate="20171218T123614Z">
-        <seg>CTRL + Home</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T125108Z" creationid="PiaVee" creationdate="20171218T123614Z">
+        <seg>Ctrl + Home</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ctrl+Left:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123226Z" creationid="PiaVee" creationdate="20171218T123054Z">
-        <seg>CTRL + nuolinäppäin vasemmalle:</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T125101Z" creationid="PiaVee" creationdate="20171218T123054Z">
+        <seg>Ctrl + nuolinäppäin vasemmalle:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ctrl+PgDn</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123737Z" creationid="PiaVee" creationdate="20171218T123737Z">
-        <seg>CTRL + PgDn</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T125119Z" creationid="PiaVee" creationdate="20171218T123737Z">
+        <seg>Ctrl + PgDn</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ctrl+PgUp</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123701Z" creationid="PiaVee" creationdate="20171218T123701Z">
-        <seg>CTRL + PgUp</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T125112Z" creationid="PiaVee" creationdate="20171218T123701Z">
+        <seg>Ctrl + PgUp</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ctrl+Right:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123250Z" creationid="PiaVee" creationdate="20171218T123211Z">
-        <seg>CTRL + nuolinäppäin oikealle:</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T125103Z" creationid="PiaVee" creationdate="20171218T123211Z">
+        <seg>Ctrl + nuolinäppäin oikealle:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1916,6 +1916,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T124740Z" creationid="PiaVee" creationdate="20171218T124740Z">
         <seg>CTRL + Shift +O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Space</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T124915Z" creationid="PiaVee" creationdate="20171218T124915Z">
+        <seg>CTRL + välilyönti</seg>
       </tuv>
     </tu>
     <tu>
@@ -8267,7 +8275,7 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>move to the first segment of the document (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T124218Z" creationid="PiaVee" creationdate="20171218T123729Z">
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T125121Z" creationid="PiaVee" creationdate="20171218T123729Z">
         <seg>siirtyy asiakirjan ensimmäiseen segmenttiin (Mac: &lt;e0&gt;Cmd + PgUp&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
@@ -8275,7 +8283,7 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>move to the last segment of the document (Mac: &lt;e0&gt;Cmd+PgDn&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T124222Z" creationid="PiaVee" creationdate="20171218T123749Z">
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T125125Z" creationid="PiaVee" creationdate="20171218T123749Z">
         <seg>siirtyy asiakirjan viimeiseen segmenttiin (Mac: &lt;e0&gt;Cmd + PgDn&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
