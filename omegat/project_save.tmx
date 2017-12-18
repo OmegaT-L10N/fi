@@ -5565,6 +5565,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This short text describes key behavior in the editor pane.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T122045Z" creationid="PiaVee" creationdate="20171218T122045Z">
+        <seg>Tässä lyhyessä tekstissä kuvataan tekstinmuokkausruudussa käytettäviä näppäimiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tibetan Standard, Tibetan, Central</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081928Z" creationid="PiaVee" creationdate="20171015T081928Z">
