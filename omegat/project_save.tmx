@@ -1786,8 +1786,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Downloading project...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T082803Z" creationid="PiaVee" creationdate="20171218T082803Z">
-        <seg>Projektia ladataan...</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T083007Z" creationid="PiaVee" creationdate="20171218T082803Z">
+        <seg>Projektia noudetaan...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1884,6 +1884,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T095042Z" creationid="PiaVee" creationdate="20171015T095042Z">
         <seg>Virhe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error saving project file!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T083211Z" creationid="PiaVee" creationdate="20171218T083211Z">
+        <seg>Projektitiedoston tallentamisessa tapahtui virhe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3025,10 +3033,18 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Loading glossaries</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T083050Z" creationid="PiaVee" creationdate="20171218T083050Z">
+        <seg>Sanastoja ladataan...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading project...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T082805Z" creationid="PiaVee" creationdate="20171218T082805Z">
-        <seg>[fuzzy]Projektoa tallenetaan...</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T083022Z" creationid="PiaVee" creationdate="20171218T082805Z">
+        <seg>Projektia ladataan...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3882,10 +3898,18 @@ ja vahvista kaikki.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project load cancelled by user</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T083117Z" creationid="PiaVee" creationdate="20171218T083117Z">
+        <seg>Käyttäjä keskeytti projektin lataamisen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project saved</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124710Z" creationid="PiaVee" creationdate="20171015T124710Z">
-        <seg>Projektin tallennettu</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T083031Z" creationid="PiaVee" creationdate="20171015T124710Z">
+        <seg>Projekti tallennettu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4212,8 +4236,8 @@ ja vahvista kaikki.
       <tuv lang="EN">
         <seg>Saving project...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124654Z" creationid="PiaVee" creationdate="20171015T124654Z">
-        <seg>Projektoa tallenetaan...</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T083026Z" creationid="PiaVee" creationdate="20171015T124654Z">
+        <seg>Projektia tallenetaan...</seg>
       </tuv>
     </tu>
     <tu>
