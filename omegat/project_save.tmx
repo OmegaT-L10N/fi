@@ -1834,24 +1834,24 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Ctrl+A</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T124531Z" creationid="PiaVee" creationdate="20171218T124513Z">
-        <seg>CTRL + A</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T125147Z" creationid="PiaVee" creationdate="20171218T124513Z">
+        <seg>Ctrl + A</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ctrl+Backspace</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T124025Z" creationid="PiaVee" creationdate="20171218T124025Z">
-        <seg>CTRL + Backspace</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T125137Z" creationid="PiaVee" creationdate="20171218T124025Z">
+        <seg>Ctrl + Backspace</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ctrl+Delete</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T124240Z" creationid="PiaVee" creationdate="20171218T124240Z">
-        <seg>CTRL + Delete</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T125141Z" creationid="PiaVee" creationdate="20171218T124240Z">
+        <seg>Ctrl + Delete</seg>
       </tuv>
     </tu>
     <tu>
@@ -1914,16 +1914,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Ctrl+Shift+O</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T124740Z" creationid="PiaVee" creationdate="20171218T124740Z">
-        <seg>CTRL + Shift +O</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T125151Z" creationid="PiaVee" creationdate="20171218T124740Z">
+        <seg>Ctrl + Shift +O</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ctrl+Space</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T124915Z" creationid="PiaVee" creationdate="20171218T124915Z">
-        <seg>CTRL + välilyönti</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T125156Z" creationid="PiaVee" creationdate="20171218T124915Z">
+        <seg>Ctrl + välilyönti</seg>
       </tuv>
     </tu>
     <tu>
@@ -4145,6 +4145,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T100129Z" creationid="PiaVee" creationdate="20171015T100129Z">
         <seg>OmegaT sulkeutuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once Auto-completer is open, use &lt;e1&gt;Ctrl+Space&lt;/e1&gt; again to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T125739Z" creationid="PiaVee" creationdate="20171218T125739Z">
+        <seg>Kun automaattisen korvauksen valintaikkuna on avoinna, paina &lt;e1&gt;Ctrl + välilyönti&lt;/e1&gt; vaihtaaksesi kohtiin &lt;e2&gt;Sanasto&lt;/e2&gt;, &lt;e3&gt;Autom. tekstikohdat&lt;/e3&gt;, &lt;e4&gt;Puuttuvat tägit&lt;/e4&gt; ja &lt;e5&gt;Näppäintaulukko&lt;/e5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8605,6 +8613,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T123300Z" creationid="PiaVee" creationdate="20171218T123300Z">
         <seg>yhden sanan verran oikealle, kuitenkin korkeintaan segmentin loppuun saakka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>open Auto-completer dialog box with contextual suggestions (Mac: &lt;e0&gt;Esc&lt;/e0&gt;).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T125325Z" creationid="PiaVee" creationdate="20171218T125325Z">
+        <seg>avaa automaattisen korvauksen valintaikkunan ehdotuksineen ((Mac: &lt;e0&gt;Esc&lt;/e0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
