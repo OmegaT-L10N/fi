@@ -1176,6 +1176,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Arrays must not be null</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091018Z" creationid="PiaVee" creationdate="20171218T091018Z">
+        <seg>Matriisit eivät saa olla tyhjiä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Assamese</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173523Z" creationid="PiaVee" creationdate="20171014T173518Z">
@@ -1912,10 +1920,34 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>E&amp;nable Sentence-level Segmenting</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091125Z" creationid="PiaVee" creationdate="20171218T091033Z">
+        <seg>Käytä &amp;lausetason segmentointia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E&amp;xport Selection</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T120947Z" creationid="PiaVee" creationdate="20171015T103656Z">
         <seg>&amp;Vie valinta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Project</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091040Z" creationid="PiaVee" creationdate="20171218T091040Z">
+        <seg>Muokkaa projektia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit project properties here.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091100Z" creationid="PiaVee" creationdate="20171218T091100Z">
+        <seg>Muokkaa projektin ominaisuuksia täällä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2264,6 +2296,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File locations</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091111Z" creationid="PiaVee" creationdate="20171218T091111Z">
+        <seg>Tiedostosijainnit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File {0}: {1}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090828Z" creationid="PiaVee" creationdate="20171218T090828Z">
+        <seg>Tiedosto {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T125024Z" creationid="PiaVee" creationdate="20171015T124943Z">
@@ -2324,6 +2372,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T125358Z" creationid="PiaVee" creationdate="20171015T125358Z">
         <seg>Fontti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For all files:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090838Z" creationid="PiaVee" creationdate="20171218T090838Z">
+        <seg>Kaikki tiedostot:</seg>
       </tuv>
     </tu>
     <tu>
