@@ -661,3 +661,6 @@ without spaces	ilman välilyöntejä
 including spaces	sis. välilyönnit
 project specific	projektikohtainen
 editor pane	muokkausruu	> muokkausruutu
+auto-completer	automaattin korvau	> automaattinen korvaus
+auto-completer	automaattisen korvauksen valintaikkuna
+auto-text entries	autom. tekstikohdat
