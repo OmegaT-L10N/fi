@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072118Z" creationid="PiaVee" creationdate="20171218T072118Z">
+        <seg>&amp;Ohita osumat, jos isoja kirjaimia käytetään eri tavoin (esim. FOO ja foo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103144Z" creationid="PiaVee" creationdate="20171015T094955Z">
@@ -1444,6 +1452,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Committing target files</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072152Z" creationid="PiaVee" creationdate="20171218T072152Z">
+        <seg>Kohdetiedostojen vahvistaminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Con&amp;tents</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103056Z" creationid="PiaVee" creationdate="20171015T094321Z">
@@ -1920,6 +1936,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to commit source files!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072129Z" creationid="PiaVee" creationdate="20171218T072129Z">
+        <seg>Lähdetiedostojen vahvistus ei onnistunut!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit target files!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072137Z" creationid="PiaVee" creationdate="20171218T072137Z">
+        <seg>Kohdetiedostojen vahvistus ei onnistunut!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to compile project files!</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124023Z" creationid="PiaVee" creationdate="20171015T124023Z">
@@ -1940,6 +1972,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T123837Z" creationid="PiaVee" creationdate="20171015T123837Z">
         <seg>Projektin käännösmuistin {0} lataaminen ei onnistunut!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to update project properties</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072239Z" creationid="PiaVee" creationdate="20171218T072239Z">
+        <seg>Projektin ominaisuuksien päivittäminen ei onnistunut</seg>
       </tuv>
     </tu>
     <tu>
@@ -4478,6 +4518,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092622Z" creationid="PiaVee" creationdate="20171014T092602Z">
         <seg>Kohde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target files committed</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072159Z" creationid="PiaVee" creationdate="20171218T072159Z">
+        <seg>Kohdetiedostot vahvistettu</seg>
       </tuv>
     </tu>
     <tu>
