@@ -1322,16 +1322,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T084843Z" creationid="PiaVee" creationdate="20171218T084843Z">
-        <seg>Sanastokansioon ei pääse!</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T085335Z" creationid="PiaVee" creationdate="20171218T084843Z">
+        <seg>Sanastokansioon ei pääse käsiksi!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Cannot create folder for translated files:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T085152Z" creationid="PiaVee" creationdate="20171218T085152Z">
-        <seg>[fuzzy]Luo &amp;nykyinen käännettyjen tiedostojen: </seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T085256Z" creationid="PiaVee" creationdate="20171218T085152Z">
+        <seg>Kansiota seuraaville käännetyille tiedostoille ei voi luoda:</seg>
       </tuv>
     </tu>
     <tu>
