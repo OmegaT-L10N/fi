@@ -3778,6 +3778,16 @@ ja vahvista kaikki.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please consult the documentation about your recovery options and
+return the information below to the software manufacturer with
+a description of how this error was produced.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T083841Z" creationid="PiaVee" creationdate="20171218T083841Z">
+        <seg>Tarkasta dokumentaatiosta, millaisia palautusvaihtoehtoja on käytössä, ja lähetä ohjelmiston valmistajalle sekä alla olevat tiedot että kuvaus siitä, kuinka virhe tapahtui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140734Z" creationid="PiaVee" creationdate="20171014T140734Z">
