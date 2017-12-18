@@ -1824,6 +1824,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Encoding</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072331Z" creationid="PiaVee" creationdate="20171218T072331Z">
+        <seg>Merkistökoodaus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>English</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174031Z" creationid="PiaVee" creationdate="20171014T174031Z">
@@ -2036,6 +2044,22 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T125141Z" creationid="PiaVee" creationdate="20171015T125019Z">
         <seg>Tiedosto: uniikkeja käännettyjä % (uniikkeja jäljellä) / projekti: uniikkeja käännettyjä % (uniikkeja jäljellä), segmenttejä kaikkiaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filename</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072322Z" creationid="PiaVee" creationdate="20171218T072322Z">
+        <seg>Tiedoston nimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072326Z" creationid="PiaVee" creationdate="20171218T072326Z">
+        <seg>Suodatin</seg>
       </tuv>
     </tu>
     <tu>
@@ -3145,6 +3169,30 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move &amp;Down</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072534Z" creationid="PiaVee" creationdate="20171218T072534Z">
+        <seg>Siirrä &amp;alas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;First</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072518Z" creationid="PiaVee" creationdate="20171218T072518Z">
+        <seg>Siirrä &amp;ensimmäiseksi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;Up</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072527Z" creationid="PiaVee" creationdate="20171218T072527Z">
+        <seg>Siirrä &amp;ylös</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Māori</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174929Z" creationid="PiaVee" creationdate="20171014T174929Z">
@@ -3682,6 +3730,14 @@ ja vahvista kaikki.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Files ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072317Z" creationid="PiaVee" creationdate="20171218T072317Z">
+        <seg>Projektitiedostot ({0} / {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Files ({0})</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T125600Z" creationid="PiaVee" creationdate="20171015T125600Z">
@@ -4158,6 +4214,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124427Z" creationid="PiaVee" creationdate="20171015T124427Z">
         <seg>Segmentti {0,number,#}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072422Z" creationid="PiaVee" creationdate="20171218T072353Z">
+        <seg>Segmenttejä</seg>
       </tuv>
     </tu>
     <tu>
@@ -4947,6 +5011,14 @@ ja vahvista kaikki.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unique segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072418Z" creationid="PiaVee" creationdate="20171218T072418Z">
+        <seg>Uniikkeja segmenttejä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Urdu</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082219Z" creationid="PiaVee" creationdate="20171015T082219Z">
@@ -5223,6 +5295,16 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T060722Z" creationid="PiaVee" creationdate="20170930T060722Z">
         <seg>Käytössäsi on OmegaT:n versio {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can find detailed statistic information in the file:
+{0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072457Z" creationid="PiaVee" creationdate="20171218T072457Z">
+        <seg>Yksityiskohtaista tilastotietoa löytyy tiedostosta
+{0}</seg>
       </tuv>
     </tu>
     <tu>
