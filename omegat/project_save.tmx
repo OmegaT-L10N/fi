@@ -3169,6 +3169,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyboard shortcuts in the editor</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T121919Z" creationid="PiaVee" creationdate="20171218T121919Z">
+        <seg>Editorin pikanäppäimet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Khmer</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174513Z" creationid="PiaVee" creationdate="20171014T174513Z">
