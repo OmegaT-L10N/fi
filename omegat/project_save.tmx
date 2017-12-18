@@ -1832,6 +1832,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Backspace</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T124025Z" creationid="PiaVee" creationdate="20171218T124025Z">
+        <seg>CTRL + Backspace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+End</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T123641Z" creationid="PiaVee" creationdate="20171218T123641Z">
@@ -1916,6 +1924,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174003Z" creationid="PiaVee" creationdate="20171014T174003Z">
         <seg>tanska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete*</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T124000Z" creationid="PiaVee" creationdate="20171218T124000Z">
+        <seg>Delete*</seg>
       </tuv>
     </tu>
     <tu>
@@ -8211,16 +8227,16 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>move to the first segment of the document (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123729Z" creationid="PiaVee" creationdate="20171218T123729Z">
-        <seg>siirtyy asiakirjan ensimmäiseen segmenttiin (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T124218Z" creationid="PiaVee" creationdate="20171218T123729Z">
+        <seg>siirtyy asiakirjan ensimmäiseen segmenttiin (Mac: &lt;e0&gt;Cmd + PgUp&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>move to the last segment of the document (Mac: &lt;e0&gt;Cmd+PgDn&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123749Z" creationid="PiaVee" creationdate="20171218T123749Z">
-        <seg>siirtyy asiakirjan viimeiseen segmenttiin (Mac: &lt;e0&gt;Cmd+PgDn&lt;/e0&gt;)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T124222Z" creationid="PiaVee" creationdate="20171218T123749Z">
+        <seg>siirtyy asiakirjan viimeiseen segmenttiin (Mac: &lt;e0&gt;Cmd + PgDn&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8693,6 +8709,30 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081129Z" creationid="PiaVee" creationdate="20171015T081129Z">
         <seg>que</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>remove char after cursor</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T124016Z" creationid="PiaVee" creationdate="20171218T124016Z">
+        <seg>poistaa kohdistimen jälkeisen merkin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>remove char before cursor</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123936Z" creationid="PiaVee" creationdate="20171218T123936Z">
+        <seg>poistaa ennen kohdistinta olevan merkin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>remove chars up to the start of the current word (Mac: &lt;e0&gt;Alt+Backspace&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T124213Z" creationid="PiaVee" creationdate="20171218T124213Z">
+        <seg>poistaa sanasta kohdistinta edeltävät merkit (Mac: &lt;e0&gt;Alt+Backspace&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
