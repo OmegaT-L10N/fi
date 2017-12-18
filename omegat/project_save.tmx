@@ -1320,6 +1320,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot access glossary folder!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T084843Z" creationid="PiaVee" creationdate="20171218T084843Z">
+        <seg>Sanastokansioon ei pääse!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot create folder for translated files:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T085152Z" creationid="PiaVee" creationdate="20171218T085152Z">
+        <seg>[fuzzy]Luo &amp;nykyinen käännettyjen tiedostojen: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Catalan</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173748Z" creationid="PiaVee" creationdate="20171014T173748Z">
@@ -2020,6 +2036,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124023Z" creationid="PiaVee" creationdate="20171015T124023Z">
         <seg>Projektitiedostojen kokoaminen ei onnistunut!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to create project!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T084724Z" creationid="PiaVee" creationdate="20171218T084724Z">
+        <seg>Projektin luominen ei onnistunut!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3920,6 +3944,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T114358Z" creationid="PiaVee" creationdate="20171014T114358Z">
         <seg>Yksityisten kokoelmien nimet on lihavoitu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Problem encountered loading project file!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T084755Z" creationid="PiaVee" creationdate="20171218T084755Z">
+        <seg>Ongelma projektitiedoston lataamisessa!</seg>
       </tuv>
     </tu>
     <tu>
