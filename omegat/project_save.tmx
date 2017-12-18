@@ -962,8 +962,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Replace:&lt;/e0&gt; operates a "one by one" replacement, by the mean of buttons in the &lt;e1&gt;header of the Editor pane&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T100237Z" creationid="PiaVee" creationdate="20171014T095031Z">
-        <seg>&lt;e0&gt;Korvaa&lt;/e0&gt; korvaa yhden esiintymän kerrallaan. Käytä tätä varten &lt;e1&gt;tekstinmuokkausruudun ylätunnisteessa&lt;/e1&gt; olevia painikkeita.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T122816Z" creationid="PiaVee" creationdate="20171014T095031Z">
+        <seg>&lt;e0&gt;Korvaa&lt;/e0&gt; korvaa yhden esiintymän kerrallaan. Käytä tätä varten &lt;e1&gt;muokkausruudun ylätunnisteessa&lt;/e1&gt; olevia painikkeita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1140,6 +1140,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T063050Z" creationid="PiaVee" creationdate="20170930T063050Z">
         <seg>Kiitokset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Action</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T122845Z" creationid="PiaVee" creationdate="20171218T122845Z">
+        <seg>Toiminto</seg>
       </tuv>
     </tu>
     <tu>
@@ -3171,8 +3179,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Key behavior in the editor</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T122620Z" creationid="PiaVee" creationdate="20171218T122620Z">
-        <seg>Näppäintoiminto muokkausruudussa</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T122832Z" creationid="PiaVee" creationdate="20171218T122620Z">
+        <seg>Näppäimen toiminto muokkausruudussa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Key combination</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T122923Z" creationid="PiaVee" creationdate="20171218T122841Z">
+        <seg>Näppäinyhdistelmä</seg>
       </tuv>
     </tu>
     <tu>
@@ -3397,6 +3413,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T104149Z" creationid="PiaVee" creationdate="20171015T104149Z">
         <seg>Vasemmalta oikealle -merkki (LRM U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T122851Z" creationid="PiaVee" creationdate="20171218T122851Z">
+        <seg>Vasen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4688,6 +4712,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T104208Z" creationid="PiaVee" creationdate="20171015T104208Z">
         <seg>Oikealta vasemmalle -merkki (RLM U+200F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T122956Z" creationid="PiaVee" creationdate="20171218T122946Z">
+        <seg>Oikea:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8341,6 +8373,22 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T080855Z" creationid="PiaVee" creationdate="20171015T080855Z">
         <seg>om</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>one char left, but not further than the beginning of segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T122944Z" creationid="PiaVee" creationdate="20171218T122944Z">
+        <seg>yksi merkki vasemmalle, kuitenkin korkeintaan segmentin alkuun saakka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>one char right, but not further than the end of segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123030Z" creationid="PiaVee" creationdate="20171218T122947Z">
+        <seg>yksi merkki oikealle, kuitenkin korkeintaan segmentin loppuun saakka</seg>
       </tuv>
     </tu>
     <tu>
