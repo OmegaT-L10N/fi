@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Browse</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T092149Z" creationid="PiaVee" creationdate="20171218T092149Z">
+        <seg>&amp;Selaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103013Z" creationid="PiaVee" creationdate="20171015T094303Z">
@@ -1996,6 +2004,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T091125Z" creationid="PiaVee" creationdate="20171218T091033Z">
         <seg>Käytä &amp;lausetason segmentointia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E&amp;xclusions...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T113733Z" creationid="PiaVee" creationdate="20171218T113733Z">
+        <seg>[fuzzy]&amp;Vie valinta</seg>
       </tuv>
     </tu>
     <tu>
