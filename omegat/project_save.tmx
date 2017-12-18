@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Auto-propagation of Translations</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091614Z" creationid="PiaVee" creationdate="20171218T091614Z">
+        <seg>&amp;Automaattinen käännösehdotusten käyttö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103100Z" creationid="PiaVee" creationdate="20171015T094323Z">
@@ -298,6 +306,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T123046Z" creationid="PiaVee" creationdate="20171015T123046Z">
         <seg>&amp;Viimeksi muutettu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Make the segmentation rules project specific</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091204Z" creationid="PiaVee" creationdate="20171218T091204Z">
+        <seg>&amp;Tee segmentointisäännöistä projektikohtaiset</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,6 +550,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source Files Language:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091337Z" creationid="PiaVee" creationdate="20171218T091324Z">
+        <seg>&amp;Lähdetiedostojen kieli:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Source Language Tokenizer:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091408Z" creationid="PiaVee" creationdate="20171218T091408Z">
+        <seg>&amp;Lähdekielen saneistin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Statistics</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T121628Z" creationid="PiaVee" creationdate="20171015T111322Z">
@@ -550,10 +582,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Target Language Tokenizer:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091414Z" creationid="PiaVee" creationdate="20171218T091414Z">
+        <seg>&amp;Kohdekielen saneistin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Tools</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T111153Z" creationid="PiaVee" creationdate="20171015T110910Z">
         <seg>&amp;Työkalut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Translated Files Language:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091350Z" creationid="PiaVee" creationdate="20171218T091350Z">
+        <seg>&amp;Käännettyjen tiedostojen kieli:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1712,6 +1760,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create New Project</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091211Z" creationid="PiaVee" creationdate="20171218T091211Z">
+        <seg>Luo uusi projekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a key</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T103358Z" creationid="PiaVee" creationdate="20171014T103358Z">
@@ -1796,6 +1852,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T122243Z" creationid="PiaVee" creationdate="20171015T122243Z">
         <seg>Sanakirja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary Folder:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091417Z" creationid="PiaVee" creationdate="20171218T091417Z">
+        <seg>Sanastokansio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2460,6 +2524,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T122202Z" creationid="PiaVee" creationdate="20171015T122202Z">
         <seg>Sanasto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary Folder:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091257Z" creationid="PiaVee" creationdate="20171218T091257Z">
+        <seg>Sanastokansio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3877,6 +3949,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Project</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091216Z" creationid="PiaVee" creationdate="20171218T091216Z">
+        <seg>Avaa projekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open Recent Pro&amp;ject</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T120213Z" creationid="PiaVee" creationdate="20171015T101350Z">
@@ -4948,6 +5028,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source Files Folder:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091225Z" creationid="PiaVee" creationdate="20171218T091225Z">
+        <seg>Lähdetiedostokansio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T084027Z" creationid="PiaVee" creationdate="20171218T084027Z">
@@ -5565,6 +5653,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated Files Folder:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091252Z" creationid="PiaVee" creationdate="20171218T091252Z">
+        <seg>Käännettyjen tiedostojen kansio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated document created</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T084639Z" creationid="PiaVee" creationdate="20171218T084639Z">
@@ -5585,6 +5681,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072925Z" creationid="PiaVee" creationdate="20171218T072925Z">
         <seg>Käännettyjä uniikkeja segmenttejä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation Memory Folder:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091318Z" creationid="PiaVee" creationdate="20171218T091318Z">
+        <seg>Käännösmuistikansio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5993,6 +6097,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T085932Z" creationid="PiaVee" creationdate="20171218T085932Z">
         <seg>Sanoja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writeable Glossary File:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091308Z" creationid="PiaVee" creationdate="20171218T091308Z">
+        <seg>Kirjoituskelpoinen sanastotiedosto:</seg>
       </tuv>
     </tu>
     <tu>
