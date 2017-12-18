@@ -1416,6 +1416,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clo&amp;se</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072609Z" creationid="PiaVee" creationdate="20171218T072609Z">
+        <seg>&amp;Sulje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commands:
 	-h, --help
 		Show usage information.</seg>
@@ -2060,6 +2068,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072326Z" creationid="PiaVee" creationdate="20171218T072326Z">
         <seg>Suodatin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072548Z" creationid="PiaVee" creationdate="20171218T072548Z">
+        <seg>Suodatin:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3185,6 +3201,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move &amp;Last</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072543Z" creationid="PiaVee" creationdate="20171218T072543Z">
+        <seg>Siirrä &amp;viimeiseksi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move &amp;Up</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072527Z" creationid="PiaVee" creationdate="20171218T072527Z">
@@ -3501,10 +3525,74 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Source File</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072619Z" creationid="PiaVee" creationdate="20171218T072619Z">
+        <seg>Avaa lähdetiedosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Source File Location</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072733Z" creationid="PiaVee" creationdate="20171218T072733Z">
+        <seg>Avaa lähdetiedoston sijainti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Target File</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072814Z" creationid="PiaVee" creationdate="20171218T072814Z">
+        <seg>Avaa kohdetiedosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Target File Location</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072826Z" creationid="PiaVee" creationdate="20171218T072826Z">
+        <seg>Avaa kohdetiedoston sijainti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T094756Z" creationid="PiaVee" creationdate="20171014T093718Z">
         <seg>Avaa etsi ja korvaa -ikkuna painamalla &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;K&lt;/k2&gt;&lt;/k0&gt;ja kirjoita &lt;e3&gt;Etsi tämä&lt;/e3&gt;-kenttään sana tai ilmaus, jonka haluat korvata toisella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Source Files</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072751Z" creationid="PiaVee" creationdate="20171218T072640Z">
+        <seg>Avaa {0} lähdetiedostoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Source Files' Locations</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072808Z" creationid="PiaVee" creationdate="20171218T072808Z">
+        <seg>Avaa {0} lähdetiedoston sijainnit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Target Files</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072820Z" creationid="PiaVee" creationdate="20171218T072820Z">
+        <seg>Avaa {0} kohdetiedostoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Target Files' Locations</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072837Z" creationid="PiaVee" creationdate="20171218T072837Z">
+        <seg>Avaa {0} kohdetiedoston sijainnit</seg>
       </tuv>
     </tu>
     <tu>
