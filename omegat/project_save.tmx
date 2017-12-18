@@ -2136,6 +2136,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Folder {0} was automatically created for team mode project</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T083954Z" creationid="PiaVee" creationdate="20171218T083954Z">
+        <seg>Ryhmätyöprojektia varten luotiin automaattisesti kansio {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T125358Z" creationid="PiaVee" creationdate="20171015T125358Z">
@@ -3049,6 +3057,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Loading TMX files...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T084452Z" creationid="PiaVee" creationdate="20171218T084452Z">
+        <seg>TMX-tiedostoja ladataan...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading glossaries</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T083050Z" creationid="PiaVee" creationdate="20171218T083050Z">
@@ -3061,6 +3077,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T083022Z" creationid="PiaVee" creationdate="20171218T082805Z">
         <seg>Projektia ladataan...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading: {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T084005Z" creationid="PiaVee" creationdate="20171218T084005Z">
+        <seg>Ladattavana: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4568,6 +4592,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124842Z" creationid="PiaVee" creationdate="20170908T124842Z">
         <seg>Jokin meni pieleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source file loading complete</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T084027Z" creationid="PiaVee" creationdate="20171218T084027Z">
+        <seg>Lähdetiedosto on ladattu</seg>
       </tuv>
     </tu>
     <tu>
