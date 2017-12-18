@@ -660,3 +660,4 @@ user's Manual	käyttöopas	OmegaT:n ohje. Englanniksi Users manual, user manual,
 without spaces	ilman välilyöntejä
 including spaces	sis. välilyönnit
 project specific	projektikohtainen
+editor pane	tekstinmuokkausruu	> tekstinmuokkausruutu
