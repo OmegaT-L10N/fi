@@ -1104,6 +1104,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Analyzing strings - {0} of {1} completed</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T082754Z" creationid="PiaVee" creationdate="20171218T082754Z">
+        <seg>Merkkijonoja analysoidaan – {0} / {1} valmiina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arabic</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173503Z" creationid="PiaVee" creationdate="20171014T173503Z">
@@ -1772,6 +1780,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T102316Z" creationid="PiaVee" creationdate="20171015T102311Z">
         <seg>Lataa MediaWiki-sivu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Downloading project...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T082803Z" creationid="PiaVee" creationdate="20171218T082803Z">
+        <seg>Projektia ladataan...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3005,6 +3021,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174825Z" creationid="PiaVee" creationdate="20171014T174825Z">
         <seg>liettua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading project...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T082805Z" creationid="PiaVee" creationdate="20171218T082805Z">
+        <seg>[fuzzy]Projektoa tallenetaan...</seg>
       </tuv>
     </tu>
     <tu>
