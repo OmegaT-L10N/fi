@@ -968,6 +968,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091954Z" creationid="PiaVee" creationdate="20171218T091954Z">
+        <seg>&lt;html&gt;&gt;Projektikohtaiset ulkoiset komennot eivät ole käytössä, eikä niitä suoriteta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the application&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T134325Z" creationid="PiaVee" creationdate="20171014T134325Z">
@@ -2212,6 +2220,22 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T080346Z" creationid="PiaVee" creationdate="20170930T063645Z">
         <seg>Haluan erityisesti kiittää</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Post-processing Command (Disabled):</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091651Z" creationid="PiaVee" creationdate="20171218T091651Z">
+        <seg>Ulkoinen jälkikäsittelykomento (ei käytössä):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Post-processing Command:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091635Z" creationid="PiaVee" creationdate="20171218T091635Z">
+        <seg>Ulkoinen jälkikäsittelykomento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4456,6 +4480,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092955Z" creationid="PiaVee" creationdate="20171014T092838Z">
         <seg>Poista OmegaT-tägit, joita edeltää ja joita seuraa &lt;br&gt;pieni alkukirjain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove Ta&amp;gs</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091622Z" creationid="PiaVee" creationdate="20171218T091622Z">
+        <seg>Poista tä&amp;git</seg>
       </tuv>
     </tu>
     <tu>
