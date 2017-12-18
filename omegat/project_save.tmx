@@ -816,10 +816,34 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>50%-74%:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090749Z" creationid="PiaVee" creationdate="20171218T090749Z">
+        <seg>50 % – 74 % :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>75%-84%:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090727Z" creationid="PiaVee" creationdate="20171218T090727Z">
+        <seg>75 % – 84 % :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>85%-94%:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090735Z" creationid="PiaVee" creationdate="20171218T090702Z">
+        <seg>85 % – 94 % :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>95%-100%:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090645Z" creationid="PiaVee" creationdate="20171218T090645Z">
-        <seg>95 % – 100 %:</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090732Z" creationid="PiaVee" creationdate="20171218T090645Z">
+        <seg>95 % – 100 % :</seg>
       </tuv>
     </tu>
     <tu>
@@ -2034,7 +2058,7 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Exact match:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090455Z" creationid="PiaVee" creationdate="20171218T090455Z">
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090810Z" creationid="PiaVee" creationdate="20171218T090455Z">
         <seg>Tarkka osuma:</seg>
       </tuv>
     </tu>
@@ -3549,6 +3573,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T121604Z" creationid="PiaVee" creationdate="20171015T110831Z">
         <seg>Seuraava &amp;uniikki segmentti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No match:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090817Z" creationid="PiaVee" creationdate="20171218T090802Z">
+        <seg>Ei osumaa:</seg>
       </tuv>
     </tu>
     <tu>
