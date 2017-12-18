@@ -4933,8 +4933,8 @@ ja vahvista kaikki.
       <tuv lang="EN">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121722Z" creationid="PiaVee" creationdate="20171015T111501Z">
-        <seg>TA&amp;B liikuttaa eteenpäin</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T071716Z" creationid="PiaVee" creationdate="20171015T111501Z">
+        <seg>Siirry eteenpäin TA&amp;B-näppäimellä</seg>
       </tuv>
     </tu>
     <tu>
