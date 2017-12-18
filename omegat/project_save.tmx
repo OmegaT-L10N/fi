@@ -3169,6 +3169,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Key behavior in the editor</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T122620Z" creationid="PiaVee" creationdate="20171218T122620Z">
+        <seg>Näppäintoiminto muokkausruudussa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyboard shortcuts in the editor</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T121919Z" creationid="PiaVee" creationdate="20171218T121919Z">
@@ -5567,8 +5575,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>This short text describes key behavior in the editor pane.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T122045Z" creationid="PiaVee" creationdate="20171218T122045Z">
-        <seg>Tässä lyhyessä tekstissä kuvataan tekstinmuokkausruudussa käytettäviä näppäimiä.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T122810Z" creationid="PiaVee" creationdate="20171218T122045Z">
+        <seg>Tässä kuvataan lyhyesti, kuinka muokkausruudussa käytettävät näppäimet ja näppäinyhdistelmät toimivat.</seg>
       </tuv>
     </tu>
     <tu>
