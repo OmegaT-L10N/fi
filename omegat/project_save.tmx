@@ -936,6 +936,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Any char key,&lt;/e0&gt; if clicked outside editable segment, will be ignored.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T150706Z" creationid="PiaVee" creationdate="20171218T150706Z">
+        <seg>&lt;e0&gt;Merkkinäppäimiä&lt;/e0&gt;, joita painetaan valittuna olevan segmentin ulkopuolella, ei huomioida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Backspace: &lt;/e0&gt;nothing</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T130051Z" creationid="PiaVee" creationdate="20171218T130051Z">
+        <seg>&lt;e0&gt;Backspace: &lt;/e0&gt;ei toimintoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Browse TaaS Collections&lt;/e0&gt; will allow browsing existing collections for the source and target languages of the project, and downloading them.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T111408Z" creationid="PiaVee" creationdate="20171014T111408Z">
@@ -948,6 +964,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T100639Z" creationid="PiaVee" creationdate="20171014T100639Z">
         <seg>&lt;e0&gt;Sulje&lt;/e0&gt; sulkee ikkunan muutamatta mitään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Delete: &lt;/e0&gt;nothing</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T130057Z" creationid="PiaVee" creationdate="20171218T130057Z">
+        <seg>&lt;e0&gt;Delete: &lt;/e0&gt;ei toimintoa</seg>
       </tuv>
     </tu>
     <tu>
