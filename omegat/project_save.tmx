@@ -2000,6 +2000,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Executing external command...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T085622Z" creationid="PiaVee" creationdate="20171218T085622Z">
+        <seg>Ulkoista komentoa suoritetaan...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Explicit thanks to:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T080346Z" creationid="PiaVee" creationdate="20170930T063645Z">
@@ -3761,6 +3769,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T080853Z" creationid="PiaVee" creationdate="20171015T080853Z">
         <seg>oromo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Orphan segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T085506Z" creationid="PiaVee" creationdate="20171218T085506Z">
+        <seg>Yksinäisiä segmenttejä</seg>
       </tuv>
     </tu>
     <tu>
