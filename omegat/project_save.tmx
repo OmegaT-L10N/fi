@@ -1824,6 +1824,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Left:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123226Z" creationid="PiaVee" creationdate="20171218T123054Z">
+        <seg>CTRL + nuolinäppäin vasemmalle:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Right:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123250Z" creationid="PiaVee" creationdate="20171218T123211Z">
+        <seg>CTRL + nuolinäppäin oikealle:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T100425Z" creationid="PiaVee" creationdate="20171015T100425Z">
@@ -3419,8 +3435,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Left:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T122851Z" creationid="PiaVee" creationdate="20171218T122851Z">
-        <seg>Vasen:</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123231Z" creationid="PiaVee" creationdate="20171218T122851Z">
+        <seg>Nuolinäppäin vasemmalle:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4221,6 +4237,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PgUp:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123317Z" creationid="PiaVee" creationdate="20171218T123317Z">
+        <seg>Sivu ylös (PgUp):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Place source files in ./source and supplemental
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
@@ -4718,8 +4742,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Right:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T122956Z" creationid="PiaVee" creationdate="20171218T122946Z">
-        <seg>Oikea:</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123236Z" creationid="PiaVee" creationdate="20171218T122946Z">
+        <seg>Nuolinäppäin oikealle:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8379,16 +8403,32 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>one char left, but not further than the beginning of segment</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T122944Z" creationid="PiaVee" creationdate="20171218T122944Z">
-        <seg>yksi merkki vasemmalle, kuitenkin korkeintaan segmentin alkuun saakka</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123153Z" creationid="PiaVee" creationdate="20171218T122944Z">
+        <seg>yhden merkin verran vasemmalle, kuitenkin korkeintaan segmentin alkuun saakka</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>one char right, but not further than the end of segment</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123030Z" creationid="PiaVee" creationdate="20171218T122947Z">
-        <seg>yksi merkki oikealle, kuitenkin korkeintaan segmentin loppuun saakka</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123159Z" creationid="PiaVee" creationdate="20171218T122947Z">
+        <seg>yhden merkin verran oikealle, kuitenkin korkeintaan segmentin loppuun saakka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>one word left, but not further than the beginning of segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123208Z" creationid="PiaVee" creationdate="20171218T123115Z">
+        <seg>yhden sanan verran vasemmalle, kuitenkin korkeintaan segmentin alkuun saakka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>one word right, but not further than the end of segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T123300Z" creationid="PiaVee" creationdate="20171218T123300Z">
+        <seg>yhden sanan verran oikealle, kuitenkin korkeintaan segmentin loppuun saakka</seg>
       </tuv>
     </tu>
     <tu>
