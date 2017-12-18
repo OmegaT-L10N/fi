@@ -1888,6 +1888,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error creating project!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T083222Z" creationid="PiaVee" creationdate="20171218T083222Z">
+        <seg>Projektin luomisessa tapahtui virhe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error saving project file!</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T083211Z" creationid="PiaVee" creationdate="20171218T083211Z">
@@ -2036,6 +2044,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174055Z" creationid="PiaVee" creationdate="20171014T174055Z">
         <seg>fääri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T083504Z" creationid="PiaVee" creationdate="20171218T083504Z">
+        <seg>Tapahtui vakava virhe – projektitiedostosta tehdään varmuuskopio (tiedostotunniste: .recover).</seg>
       </tuv>
     </tu>
     <tu>
