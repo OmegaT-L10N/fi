@@ -1936,6 +1936,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T082637Z" creationid="PiaVee" creationdate="20171218T082637Z">
+        <seg>Poistuminen ohjesivulta&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Explicit thanks to:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T080346Z" creationid="PiaVee" creationdate="20170930T063645Z">
@@ -3361,6 +3369,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T064856Z" creationid="PiaVee" creationdate="20170930T064833Z">
         <seg>sekä siitä huolellisuudesta, jolla hän piti pakettivarastot hyvässä järjestyksessä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Number of unique segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072915Z" creationid="PiaVee" creationdate="20171218T072915Z">
+        <seg>Uniikkeja segmenttejä</seg>
       </tuv>
     </tu>
     <tu>
@@ -5011,6 +5027,14 @@ ja vahvista kaikki.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Total number of segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072847Z" creationid="PiaVee" creationdate="20171218T072847Z">
+        <seg>Segmenttejä yhteensä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tracking system</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T135733Z" creationid="PiaVee" creationdate="20171014T135733Z">
@@ -5031,6 +5055,14 @@ ja vahvista kaikki.
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T160323Z" creationid="PiaVee" creationdate="20171014T160253Z">
         <seg>Käännä tämä tiedosto OmegaT:ssä tavalliseen tapaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated unique segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072925Z" creationid="PiaVee" creationdate="20171218T072925Z">
+        <seg>Käännettyjä uniikkeja segmenttejä</seg>
       </tuv>
     </tu>
     <tu>
