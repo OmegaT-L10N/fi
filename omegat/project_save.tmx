@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>#Files</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090042Z" creationid="PiaVee" creationdate="20171218T090042Z">
+        <seg>Tiedostoja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;About...</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T123028Z" creationid="PiaVee" creationdate="20171015T123028Z">
@@ -1352,6 +1360,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090009Z" creationid="PiaVee" creationdate="20171218T090009Z">
+        <seg>Merkkejä (sis. välilyönnit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T085958Z" creationid="PiaVee" creationdate="20171218T085958Z">
+        <seg>Merkkejä (ilman välilyöntejä)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chechen</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173806Z" creationid="PiaVee" creationdate="20171014T173806Z">
@@ -2184,6 +2208,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090114Z" creationid="PiaVee" creationdate="20171218T090114Z">
+        <seg>Tiedostonimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T125024Z" creationid="PiaVee" creationdate="20171015T124943Z">
@@ -2613,6 +2645,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T150604Z" creationid="PiaVee" creationdate="20171014T150604Z">
         <seg>Yhteensopivuusongelmat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Individual File Statistics:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090109Z" creationid="PiaVee" creationdate="20171218T090109Z">
+        <seg>Yksittäisen tiedoston tilastot</seg>
       </tuv>
     </tu>
     <tu>
@@ -4052,6 +4092,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Statistics</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T085924Z" creationid="PiaVee" creationdate="20171218T085924Z">
+        <seg>Projektitilastot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project is Empty</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T101226Z" creationid="PiaVee" creationdate="20171015T101226Z">
@@ -4144,6 +4192,30 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103903Z" creationid="PiaVee" creationdate="20171015T103831Z">
         <seg>Kirjaa sama käännös</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090139Z" creationid="PiaVee" creationdate="20171218T090139Z">
+        <seg>Segmenttejä jäljellä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Words</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090204Z" creationid="PiaVee" creationdate="20171218T090204Z">
+        <seg>Sanoja jäljellä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090047Z" creationid="PiaVee" creationdate="20171218T090047Z">
+        <seg>Jäljellä:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5245,10 +5317,34 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Total Segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090117Z" creationid="PiaVee" creationdate="20171218T090117Z">
+        <seg>Segmenttejä yhteensä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total Words</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090158Z" creationid="PiaVee" creationdate="20171218T090158Z">
+        <seg>Sanoja yhteensä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Total number of segments</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072847Z" creationid="PiaVee" creationdate="20171218T072847Z">
         <seg>Segmenttejä yhteensä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T085928Z" creationid="PiaVee" creationdate="20171218T085928Z">
+        <seg>Yhteensä:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5373,10 +5469,50 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unique Remaining Segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090154Z" creationid="PiaVee" creationdate="20171218T090154Z">
+        <seg>Uniikkeja segmenttejä jäljellä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090053Z" creationid="PiaVee" creationdate="20171218T090053Z">
+        <seg>Uniikkeja jäljellä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090142Z" creationid="PiaVee" creationdate="20171218T090142Z">
+        <seg>Uniikkeja segmenttejä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Words</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090214Z" creationid="PiaVee" creationdate="20171218T090214Z">
+        <seg>Uniikkeja sanoja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unique segments</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072418Z" creationid="PiaVee" creationdate="20171218T072418Z">
         <seg>Uniikkeja segmenttejä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090059Z" creationid="PiaVee" creationdate="20171218T090059Z">
+        <seg>Uniikkeja:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5617,6 +5753,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082257Z" creationid="PiaVee" creationdate="20171015T082257Z">
         <seg>wolof</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Words</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171218T085932Z" creationid="PiaVee" creationdate="20171218T085932Z">
+        <seg>Sanoja</seg>
       </tuv>
     </tu>
     <tu>
