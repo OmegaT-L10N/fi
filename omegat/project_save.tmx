@@ -4421,6 +4421,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T102614Z" creationid="PiaVee" creationdate="20171219T102614Z">
+        <seg>Kaksikielisen lähde- ja kohdekielisen sanakirjan lisäksi voit käyttää Sanakirja-toimintoa hakeaksesi tietoa seuraavista:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Number of unique segments</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072915Z" creationid="PiaVee" creationdate="20171218T072915Z">
@@ -6288,6 +6296,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T060407Z" creationid="PiaVee" creationdate="20170930T060407Z">
         <seg>{0} ei sisällä paikallisia työkopioita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T102338Z" creationid="PiaVee" creationdate="20171219T102338Z">
+        <seg>Kansiossa pitäisi olle kolme tiedostoa, joiden tiedostotunnisteet ovat &lt;e1&gt;dz, idx&lt;/e1&gt; ja &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
