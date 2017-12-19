@@ -1056,6 +1056,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Merriam Webster&lt;/s1&gt; &lt;s2&gt;Dictionaries&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T105737Z" creationid="PiaVee" creationdate="20171219T105737Z">
+        <seg>&lt;p0&gt;Sanakirjat&lt;/p0&gt; &lt;s1&gt;Merriam Webster&lt;/s1&gt; &lt;s2&gt;Sanakirjat&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Problems with&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T105829Z" creationid="PiaVee" creationdate="20171219T105829Z">
+        <seg>[fuzzy]&lt;p0&gt;Sanakirjat&lt;/p0&gt; &lt;s1&gt;Longman&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;StarDict&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T095816Z" creationid="PiaVee" creationdate="20171219T095816Z">
@@ -4221,6 +4237,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090424Z" creationid="PiaVee" creationdate="20171218T090424Z">
         <seg>Osumatilastot per tiedosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Merriam Webster dictionary - use</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T105754Z" creationid="PiaVee" creationdate="20171219T105754Z">
+        <seg>Merriam Webster dictionary - use</seg>
       </tuv>
     </tu>
     <tu>
