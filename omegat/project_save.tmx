@@ -1040,6 +1040,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;StarDict&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T095816Z" creationid="PiaVee" creationdate="20171219T095816Z">
+        <seg>&lt;p0&gt;Sanakirjat&lt;/p0&gt; &lt;s1&gt;StarDict&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the application&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T134325Z" creationid="PiaVee" creationdate="20171014T134325Z">
@@ -2202,8 +2210,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T095702Z" creationid="PiaVee" creationdate="20171219T095702Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;:ssä käytettävät sanakirjat perustuvat joko StarDictiin tai Lingvo DSL -muotoon.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T095723Z" creationid="PiaVee" creationdate="20171219T095702Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;:ssä käytettävät sanakirjat ovat joko StarDict- tai Lingvo DSL -muotoisia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6391,8 +6399,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T095712Z" creationid="PiaVee" creationdate="20171219T095712Z">
-        <seg>[fuzzy]Tiedosto käännetään OmegaT:ssä seuraavalla tavalla:</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T095805Z" creationid="PiaVee" creationdate="20171219T095712Z">
+        <seg>Asenna StarDict-muodon vaatimat tiedostot seuraavalla tavalla:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8171,6 +8179,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T091405Z" creationid="PiaVee" creationdate="20170910T091405Z">
         <seg>https://sourceforge.net/p/omegat/documentation/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T095808Z" creationid="PiaVee" creationdate="20171219T095808Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
       </tuv>
     </tu>
     <tu>
