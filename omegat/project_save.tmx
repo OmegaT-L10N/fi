@@ -1144,6 +1144,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aaron Madlon-Kay</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083649Z" creationid="PiaVee" creationdate="20171219T083649Z">
+        <seg>Aaron Madlon-Kay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Abkhaz</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T162148Z" creationid="PiaVee" creationdate="20171014T162127Z">
@@ -1244,6 +1252,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173333Z" creationid="PiaVee" creationdate="20171014T173333Z">
         <seg>albania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alex Buloichik</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083648Z" creationid="PiaVee" creationdate="20171219T083648Z">
+        <seg>Alex Buloichik</seg>
       </tuv>
     </tu>
     <tu>
@@ -1452,6 +1468,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173732Z" creationid="PiaVee" creationdate="20171014T173732Z">
         <seg>bretoni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Briac Pilpré</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083643Z" creationid="PiaVee" creationdate="20171219T083643Z">
+        <seg>Briac Pilpré</seg>
       </tuv>
     </tu>
     <tu>
@@ -2024,6 +2048,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083703Z" creationid="PiaVee" creationdate="20171219T083703Z">
+        <seg>Kehittäjät</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionar&amp;y</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T122210Z" creationid="PiaVee" creationdate="20171015T122210Z">
@@ -2044,6 +2076,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T091417Z" creationid="PiaVee" creationdate="20171218T091417Z">
         <seg>Sanastokansio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083647Z" creationid="PiaVee" creationdate="20171219T083647Z">
+        <seg>Didier Briel</seg>
       </tuv>
     </tu>
     <tu>
@@ -2092,6 +2132,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124743Z" creationid="PiaVee" creationdate="20171015T124743Z">
         <seg>Haluatko todella lopettaa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documentation manager</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083838Z" creationid="PiaVee" creationdate="20171219T083838Z">
+        <seg>Dokumentaatiosta vastaava</seg>
       </tuv>
     </tu>
     <tu>
@@ -3289,6 +3337,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jean-Christophe Helary</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083658Z" creationid="PiaVee" creationdate="20171219T083658Z">
+        <seg>Jean-Christophe Helary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary: special thanks to JC for his concise description of OmegaT run, command line parameters and all other details, I have yet to notice.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T080551Z" creationid="PiaVee" creationdate="20170930T080331Z">
@@ -3349,6 +3405,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T091417Z" creationid="PiaVee" creationdate="20170910T091354Z">
         <seg>Jatkakaa hyvää työtänne!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keith Godfrey</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083645Z" creationid="PiaVee" creationdate="20171219T083645Z">
+        <seg>Keith Godfrey</seg>
       </tuv>
     </tu>
     <tu>
@@ -3673,6 +3737,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Localization manager, user group owner</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083829Z" creationid="PiaVee" creationdate="20171219T083651Z">
+        <seg>Lokalisointipomo, käyttäjäryhmän omistaja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Luba-Katanga</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174837Z" creationid="PiaVee" creationdate="20171014T174837Z">
@@ -3773,6 +3845,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174939Z" creationid="PiaVee" creationdate="20171014T174939Z">
         <seg>marathi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marc Prior</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083651Z" creationid="PiaVee" creationdate="20171219T083651Z">
+        <seg>Marc Prior</seg>
       </tuv>
     </tu>
     <tu>
@@ -5692,6 +5772,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083752Z" creationid="PiaVee" creationdate="20171219T083752Z">
+        <seg>Projektin taustalla olevaa filosofiaa kuvataan &lt;a0&gt;täällä&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The rules applied (if any) will depend on the source and target language of the project.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T145843Z" creationid="PiaVee" creationdate="20171014T145843Z">
@@ -6297,6 +6385,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082236Z" creationid="PiaVee" creationdate="20171015T082236Z">
         <seg>vietnam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vincent Bidaux</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083653Z" creationid="PiaVee" creationdate="20171219T083653Z">
+        <seg>Vincent Bidaux</seg>
       </tuv>
     </tu>
     <tu>
