@@ -1512,6 +1512,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Arno Peters and Mariëtte van Drunen (in Dutch).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094420Z" creationid="PiaVee" creationdate="20171219T094420Z">
+        <seg>Tekijät: Arno Peters ja Mariëtte van Drunen (hollanniksi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Václav Hejda (in Czech).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094502Z" creationid="PiaVee" creationdate="20171219T094502Z">
+        <seg>Tekijä: Václav Hejda (tšekiksi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090414Z" creationid="PiaVee" creationdate="20171218T090414Z">
@@ -2128,6 +2144,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Diptik</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094200Z" creationid="PiaVee" creationdate="20171219T094200Z">
+        <seg>Diptik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display Font</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T125354Z" creationid="PiaVee" creationdate="20171015T125354Z">
@@ -2180,6 +2204,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140557Z" creationid="PiaVee" creationdate="20171014T140224Z">
         <seg>Dokumentaation seurantajäjestelmä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Doublet KK</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094201Z" creationid="PiaVee" creationdate="20171219T094201Z">
+        <seg>Doublet KK</seg>
       </tuv>
     </tu>
     <tu>
@@ -2808,6 +2840,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Genua</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094204Z" creationid="PiaVee" creationdate="20171219T094204Z">
+        <seg>Genua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Georgian</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174140Z" creationid="PiaVee" creationdate="20171014T174140Z">
@@ -2860,6 +2900,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T180921Z" creationid="PiaVee" creationdate="20171014T174153Z">
         <seg>kreikka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grup de Recerca Tradumàtica</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094206Z" creationid="PiaVee" creationdate="20171219T094206Z">
+        <seg>Grup de Recerca Tradumàtica</seg>
       </tuv>
     </tu>
     <tu>
@@ -3225,6 +3273,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Institut Laue-Langevin</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094208Z" creationid="PiaVee" creationdate="20171219T094208Z">
+        <seg>Institut Laue-Langevin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Integration manager</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T083945Z" creationid="PiaVee" creationdate="20171219T083919Z">
@@ -3257,6 +3313,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Introduction to OmegaT (2.5.0).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094401Z" creationid="PiaVee" creationdate="20171219T094401Z">
+        <seg>Johdatus OmegaT (2.5.0):n käyttöön</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inuktitut</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174421Z" creationid="PiaVee" creationdate="20171014T174421Z">
@@ -3269,6 +3333,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T181113Z" creationid="PiaVee" creationdate="20171014T174342Z">
         <seg>inupiaq</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invantive</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094210Z" creationid="PiaVee" creationdate="20171219T094210Z">
+        <seg>Invantive</seg>
       </tuv>
     </tu>
     <tu>
@@ -3409,6 +3481,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Julian Rippon</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094211Z" creationid="PiaVee" creationdate="20171219T094211Z">
+        <seg>Julian Rippon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jumping to last edited segment...</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T125202Z" creationid="PiaVee" creationdate="20171015T125202Z">
@@ -3509,6 +3589,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174521Z" creationid="PiaVee" creationdate="20171014T174521Z">
         <seg>kikuju</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kilgray</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094212Z" creationid="PiaVee" creationdate="20171219T094212Z">
+        <seg>Kilgray</seg>
       </tuv>
     </tu>
     <tu>
@@ -4261,6 +4349,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT - The Free Translation Memory Tool</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094223Z" creationid="PiaVee" creationdate="20171219T094223Z">
+        <seg>[fuzzy]Käännösmuistikansio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT 3.5 - User's Guide</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T084353Z" creationid="PiaVee" creationdate="20170910T084253Z">
@@ -4517,6 +4613,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other OmegaT resources</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094253Z" creationid="PiaVee" creationdate="20171219T094253Z">
+        <seg>[fuzzy]OmegaT-projekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Otherwise, OmegaT will use the language of the operating system.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T082758Z" creationid="PiaVee" creationdate="20170910T082758Z">
@@ -4684,6 +4788,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Portavita</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094213Z" creationid="PiaVee" creationdate="20171219T094213Z">
+        <seg>Portavita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Portuguese</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081115Z" creationid="PiaVee" creationdate="20171015T081115Z">
@@ -4784,6 +4896,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081023Z" creationid="PiaVee" creationdate="20171015T081023Z">
         <seg>paali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Qabiria</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094215Z" creationid="PiaVee" creationdate="20171219T094215Z">
+        <seg>Qabiria</seg>
       </tuv>
     </tu>
     <tu>
@@ -5064,6 +5184,22 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103139Z" creationid="PiaVee" creationdate="20171015T094908Z">
         <seg>Palauta oletus (&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT 2.3.0.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094446Z" creationid="PiaVee" creationdate="20171219T094446Z">
+        <seg>OmegaT 2.3.0:n arvostelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reviews of OmegaT</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094316Z" creationid="PiaVee" creationdate="20171219T094224Z">
+        <seg>OmegaT:n arvioinnit</seg>
       </tuv>
     </tu>
     <tu>
@@ -6525,6 +6661,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Velior</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094216Z" creationid="PiaVee" creationdate="20171219T094216Z">
+        <seg>Velior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Venda</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082231Z" creationid="PiaVee" creationdate="20171015T082231Z">
@@ -7387,6 +7531,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174029Z" creationid="PiaVee" creationdate="20171014T174029Z">
         <seg>dzo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>e-lexica</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094203Z" creationid="PiaVee" creationdate="20171219T094203Z">
+        <seg>e-lexica</seg>
       </tuv>
     </tu>
     <tu>
@@ -9885,6 +10037,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082248Z" creationid="PiaVee" creationdate="20171015T082248Z">
         <seg>wa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>weLocalize</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094218Z" creationid="PiaVee" creationdate="20171219T094218Z">
+        <seg>weLocalize</seg>
       </tuv>
     </tu>
     <tu>
