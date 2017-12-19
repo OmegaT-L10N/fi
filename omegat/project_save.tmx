@@ -5404,6 +5404,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T093717Z" creationid="PiaVee" creationdate="20171219T093717Z">
+        <seg>Projektin käynnistymisestä lähtien mukana on ollut suuri joukko tukijoita, joiden kaikkien nimiä tässä ei ole tilaa mainita. Olemme erittäin kiitollisia heidän avustaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sindhi</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081319Z" creationid="PiaVee" creationdate="20171015T081319Z">
