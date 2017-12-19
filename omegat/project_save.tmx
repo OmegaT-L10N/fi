@@ -1488,6 +1488,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Brief introduction to OmegaT, 2009 (in Vietnamese).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T095055Z" creationid="PiaVee" creationdate="20171219T094921Z">
+        <seg>Lyhyt johdatus OmegaT:n käyttöön, 2009 (kieli: vietnam)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140535Z" creationid="PiaVee" creationdate="20171014T140015Z">
@@ -1532,6 +1540,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094757Z" creationid="PiaVee" creationdate="20171219T094757Z">
         <seg>Corinne McKay (kieli: englanti)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Leo Viëtor (in Dutch).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094816Z" creationid="PiaVee" creationdate="20171219T094816Z">
+        <seg>Leo Viëtor (kieli: hollanti)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2116,6 +2132,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174003Z" creationid="PiaVee" creationdate="20171014T174003Z">
         <seg>tanska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Degree thesis by Sébastien Guillardeau, 2010 (in German).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T095122Z" creationid="PiaVee" creationdate="20171219T095122Z">
+        <seg>Sébastien Guillardeaun opinnäytetyö, 2010 (kieli: saksa)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3173,6 +3197,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T102356Z" creationid="PiaVee" creationdate="20171015T102356Z">
         <seg>Wiki-sivun tuonti ei onnistunut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In PCW.GR (in Greek).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T095035Z" creationid="PiaVee" creationdate="20171219T094836Z">
+        <seg>Sivustolla PCW.GR (kieli: kreikka)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5256,6 +5288,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094744Z" creationid="PiaVee" creationdate="20171219T094744Z">
         <seg>OmegaT:n arvostelu, 11. huhtikuuta 2008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT, 2009.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094821Z" creationid="PiaVee" creationdate="20171219T094821Z">
+        <seg>OmegaT:n arvostelu, 2009</seg>
       </tuv>
     </tu>
     <tu>
