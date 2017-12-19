@@ -2138,8 +2138,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Documentation manager</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083838Z" creationid="PiaVee" creationdate="20171219T083838Z">
-        <seg>Dokumentaatiosta vastaava</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083954Z" creationid="PiaVee" creationdate="20171219T083838Z">
+        <seg>Dokumentaatiopäällikkö</seg>
       </tuv>
     </tu>
     <tu>
@@ -2300,6 +2300,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174031Z" creationid="PiaVee" creationdate="20171014T174031Z">
         <seg>englanti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English version translators</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T084113Z" creationid="PiaVee" creationdate="20171219T084113Z">
+        <seg>Englanninkielisen version kääntäjät</seg>
       </tuv>
     </tu>
     <tu>
@@ -3185,6 +3193,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Integration manager</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083945Z" creationid="PiaVee" creationdate="20171219T083919Z">
+        <seg>Integrointipäällikkö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Interlingua</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174305Z" creationid="PiaVee" creationdate="20171014T174305Z">
@@ -3633,6 +3649,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Lead developer</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083927Z" creationid="PiaVee" creationdate="20171219T083927Z">
+        <seg>Pääkehittäjä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Learn</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092634Z" creationid="PiaVee" creationdate="20171014T092634Z">
@@ -3739,8 +3763,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Localization manager, user group owner</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083829Z" creationid="PiaVee" creationdate="20171219T083651Z">
-        <seg>Lokalisointipomo, käyttäjäryhmän omistaja</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083959Z" creationid="PiaVee" creationdate="20171219T083651Z">
+        <seg>Lokalisointipäällikkö, käyttäjäryhmän omistaja</seg>
       </tuv>
     </tu>
     <tu>
@@ -4413,6 +4437,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Original author of the OmegaT application</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T084024Z" creationid="PiaVee" creationdate="20171219T084024Z">
+        <seg>OmegaT-sovelluksen alkuperäinen tekijä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Oriya</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T080946Z" creationid="PiaVee" creationdate="20171015T080946Z">
@@ -4688,6 +4720,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T083117Z" creationid="PiaVee" creationdate="20171218T083117Z">
         <seg>Käyttäjä keskeytti projektin lataamisen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project manager</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083940Z" creationid="PiaVee" creationdate="20171219T083940Z">
+        <seg>Projektipäällikkö</seg>
       </tuv>
     </tu>
     <tu>
@@ -5708,6 +5748,22 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT project</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T084121Z" creationid="PiaVee" creationdate="20171219T084121Z">
+        <seg>OmegaT-projekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project is maintained by an informal, international group of volunteers.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T084202Z" creationid="PiaVee" creationdate="20171219T084202Z">
+        <seg>OmegaT-projektia ylläpitää epämuodollinen ja kansainvälinen vapaaehtoisten ryhmä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The TaaS service at https://demo.taas-project.eu/info provides terminology services in European languages (plus Russian).</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T104617Z" creationid="PiaVee" creationdate="20171014T102553Z">
@@ -5776,6 +5832,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T083752Z" creationid="PiaVee" creationdate="20171219T083752Z">
         <seg>Projektin taustalla olevaa filosofiaa kuvataan &lt;a0&gt;täällä&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The principal members of the project are:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T084027Z" creationid="PiaVee" creationdate="20171219T084027Z">
+        <seg>[fuzzy]Avataanko projekti uudelleen?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6449,6 +6513,30 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124921Z" creationid="PiaVee" creationdate="20170908T124921Z">
         <seg>Etsimääsi sivua ei löytynyt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website content authors</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T084052Z" creationid="PiaVee" creationdate="20171219T084052Z">
+        <seg>Sivuston sisällön tekijät</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website design</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T084100Z" creationid="PiaVee" creationdate="20171219T084100Z">
+        <seg>Nettisivujen suunnittelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website manager</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083950Z" creationid="PiaVee" creationdate="20171219T083912Z">
+        <seg>Nettisivupäällikkö</seg>
       </tuv>
     </tu>
     <tu>
