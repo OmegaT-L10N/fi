@@ -1032,6 +1032,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Britannica&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T102710Z" creationid="PiaVee" creationdate="20171219T102710Z">
+        <seg>&lt;p0&gt;Sanakirjat&lt;/p0&gt; &lt;s1&gt;Britannica&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Downloading and installing&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T095442Z" creationid="PiaVee" creationdate="20171219T095442Z">
@@ -1040,10 +1048,26 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Longman&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T102658Z" creationid="PiaVee" creationdate="20171219T102658Z">
+        <seg>&lt;p0&gt;Sanakirjat&lt;/p0&gt; &lt;s1&gt;Longman&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;StarDict&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T095816Z" creationid="PiaVee" creationdate="20171219T095816Z">
         <seg>&lt;p0&gt;Sanakirjat&lt;/p0&gt; &lt;s1&gt;StarDict&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Webster&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T102629Z" creationid="PiaVee" creationdate="20171219T102629Z">
+        <seg>&lt;p0&gt;Sanakirjat&lt;/p0&gt; &lt;s1&gt;Webster&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4025,6 +4049,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Longman Dictionary of Contemporary English</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T102704Z" creationid="PiaVee" creationdate="20171219T102704Z">
+        <seg>Longman Dictionary of Contemporary English</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Luba-Katanga</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174837Z" creationid="PiaVee" creationdate="20171014T174837Z">
@@ -5852,6 +5884,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T102819Z" creationid="PiaVee" creationdate="20171219T102819Z">
+        <seg>Jotkut sanakirjat ovat vapaasti käytettävissä, toiset – kuten edellä mainitut – on lisensoitu GPL-lisenssillä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sorry</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124842Z" creationid="PiaVee" creationdate="20170908T124842Z">
@@ -6124,6 +6164,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Britannica Concise Encyclopedia</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T102711Z" creationid="PiaVee" creationdate="20171219T102711Z">
+        <seg>The Britannica Concise Encyclopedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Déjà Vu "External View" file format is a feature of Déjà Vu DVX.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T161150Z" creationid="PiaVee" creationdate="20171014T154920Z">
@@ -6224,6 +6272,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140521Z" creationid="PiaVee" creationdate="20171014T134114Z">
         <seg>Vaikka dokumentaatiosta toivotaan olevan apua, niitä jaetaan ILMAN TAKUITA, jopa ilman takuuta niiden MYYNTIKELPOISUUDESTA tai SOVELTUVUUDESTA TIETTYYN TARKOITUKSEEN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T105400Z" creationid="PiaVee" creationdate="20171219T105400Z">
+        <seg>Seuraava esimerkki näyttää Merriam Websterin 10. sanakirjan "täydessä vauhdissa":</seg>
       </tuv>
     </tu>
     <tu>
@@ -7001,6 +7057,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T083950Z" creationid="PiaVee" creationdate="20171219T083912Z">
         <seg>Nettisivupäällikkö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T102650Z" creationid="PiaVee" creationdate="20171219T102650Z">
+        <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7851,6 +7915,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174044Z" creationid="PiaVee" creationdate="20171014T174044Z">
         <seg>et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>etc...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T102714Z" creationid="PiaVee" creationdate="20171219T102714Z">
+        <seg>jne.</seg>
       </tuv>
     </tu>
     <tu>
