@@ -1066,8 +1066,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Problems with&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T105829Z" creationid="PiaVee" creationdate="20171219T105829Z">
-        <seg>[fuzzy]&lt;p0&gt;Sanakirjat&lt;/p0&gt; &lt;s1&gt;Longman&lt;/s1&gt;</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T105841Z" creationid="PiaVee" creationdate="20171219T105829Z">
+        <seg>&lt;p0&gt;Sanakirjat&lt;/p0&gt; &lt;s1&gt;Ongelmia&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1124,6 +1124,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T161840Z" creationid="PiaVee" creationdate="20171014T161840Z">
         <seg>&lt;p0&gt;Projekti&lt;/p0&gt; &lt;s1&gt;Ominaisuudet&lt;/s1&gt; &lt;s2&gt;Languages&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Project properties - Ctrl+E&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T105924Z" creationid="PiaVee" creationdate="20171219T105924Z">
+        <seg>&lt;p0&gt;Oikotiet&lt;/p0&gt; &lt;s1&gt;Projektin ominaisuudet – Ctrl + E&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1740,6 +1748,22 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T121620Z" creationid="PiaVee" creationdate="20171015T111303Z">
         <seg>Tarkista &amp;nykyinen asiakirja...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;Project&lt;/g6&gt; &lt;g7&gt;Properties&lt;/g7&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T110104Z" creationid="PiaVee" creationdate="20171219T110104Z">
+        <seg>Tarkasta &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;Projekti&lt;/g6&gt; &lt;g7&gt;Ominaisuudet&lt;/g7&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T110032Z" creationid="PiaVee" creationdate="20171219T110032Z">
+        <seg>Tarkasta, että sanakirjatiedostosi ovat oikeassa kansiossa (tai sen alakansiossa).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5040,6 +5064,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T084755Z" creationid="PiaVee" creationdate="20171218T084755Z">
         <seg>Ongelma projektitiedoston lataamisessa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Problems with dictionaries</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T105854Z" creationid="PiaVee" creationdate="20171219T105833Z">
+        <seg>Ongelmia sanakirjojen käytössä</seg>
       </tuv>
     </tu>
     <tu>
