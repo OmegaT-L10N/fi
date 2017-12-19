@@ -1384,6 +1384,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Balabit</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094154Z" creationid="PiaVee" creationdate="20171219T094154Z">
+        <seg>Balabit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bambara</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173638Z" creationid="PiaVee" creationdate="20171014T173638Z">
@@ -1520,6 +1528,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CJ Translations</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094157Z" creationid="PiaVee" creationdate="20171219T094157Z">
+        <seg>CJ Translations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Canceled</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T083908Z" creationid="PiaVee" creationdate="20170910T083908Z">
@@ -1548,6 +1564,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173748Z" creationid="PiaVee" creationdate="20171014T173748Z">
         <seg>katalaani</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Certain program functions have however been commissioned by commercial sponsors who have then donated the features back to the community.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094137Z" creationid="PiaVee" creationdate="20171219T094137Z">
+        <seg>Tietyt ohjematoiminnot on kuitenkin toteutettu kaupallisten sponsonsorien tilauksesta, ja sponsorit ovat lahjoittaneet toiminnot yhteisön käyttöön.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1712,6 +1736,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072152Z" creationid="PiaVee" creationdate="20171218T072152Z">
         <seg>Kohdetiedostojen vahvistaminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commodity12</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094158Z" creationid="PiaVee" creationdate="20171219T094158Z">
+        <seg>Commodity12</seg>
       </tuv>
     </tu>
     <tu>
@@ -6037,6 +6069,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To date, these sponsors are:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094153Z" creationid="PiaVee" creationdate="20171219T094153Z">
+        <seg>Tähän päivään mennessä sposoreina ovat toimineet:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To limit the amount of data, it is possible to select a specific domain by selecting &lt;e0&gt;Select TaaS Terminology Lookup Domain&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T115844Z" creationid="PiaVee" creationdate="20171014T115844Z">
@@ -7123,6 +7163,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173740Z" creationid="PiaVee" creationdate="20171014T173740Z">
         <seg>bul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cApStAn</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094155Z" creationid="PiaVee" creationdate="20171219T094155Z">
+        <seg>cApStAn</seg>
       </tuv>
     </tu>
     <tu>
