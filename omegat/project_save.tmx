@@ -3337,6 +3337,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T084355Z" creationid="PiaVee" creationdate="20171219T084334Z">
+        <seg>OmegaT-projektia ylläpitää epämuodollinen ja kansainvälinen vapaaehtoisten ryhmä, jonka tarkoituksena on kehittää ja jakaa ohjelmistoa sekä tarjota tukea sen käyttöön.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Japanese</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174426Z" creationid="PiaVee" creationdate="20171014T174426Z">
@@ -5758,8 +5766,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>The OmegaT project is maintained by an informal, international group of volunteers.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T084202Z" creationid="PiaVee" creationdate="20171219T084202Z">
-        <seg>OmegaT-projektia ylläpitää epämuodollinen ja kansainvälinen vapaaehtoisten ryhmä.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T084339Z" creationid="PiaVee" creationdate="20171219T084202Z">
+        <seg>OmegaT on avoimeen lähdekoodiin perustuva käännösmuistisovellus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5838,8 +5846,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>The principal members of the project are:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T084027Z" creationid="PiaVee" creationdate="20171219T084027Z">
-        <seg>[fuzzy]Avataanko projekti uudelleen?</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T084444Z" creationid="PiaVee" creationdate="20171219T084027Z">
+        <seg>Projektissa pääosia näyttelevät:</seg>
       </tuv>
     </tu>
     <tu>
