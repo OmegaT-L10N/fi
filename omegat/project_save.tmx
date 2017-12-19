@@ -5396,6 +5396,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show English Version</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T093756Z" creationid="PiaVee" creationdate="20171219T093756Z">
+        <seg>[fuzzy]Englanninkielisen version kääntäjät</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Simple search and replace script</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T084223Z" creationid="PiaVee" creationdate="20170910T084223Z">
@@ -5560,6 +5568,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092445Z" creationid="PiaVee" creationdate="20171014T092445Z">
         <seg>Oikeinkirjoituksen tarkistaja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sponsorship</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T093846Z" creationid="PiaVee" creationdate="20171219T093846Z">
+        <seg>Sponsorit</seg>
       </tuv>
     </tu>
     <tu>
@@ -5832,6 +5848,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140521Z" creationid="PiaVee" creationdate="20171014T134114Z">
         <seg>Vaikka dokumentaatiosta toivotaan olevan apua, niitä jaetaan ILMAN TAKUITA, jopa ilman takuuta niiden MYYNTIKELPOISUUDESTA tai SOVELTUVUUDESTA TIETTYYN TARKOITUKSEEN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The great majority of work on the OmegaT project has been completed on a voluntary basis.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T093947Z" creationid="PiaVee" creationdate="20171219T093947Z">
+        <seg>Ylivoimaisesti suurin osa OmegaT-projektin parissa tehdystä työstä on tehty vapaaehtoisvoimin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6433,6 +6457,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T082445Z" creationid="PiaVee" creationdate="20170910T082445Z">
         <seg>OmegaT-käyttöliittymän kieli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User manuals</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T093754Z" creationid="PiaVee" creationdate="20171219T093754Z">
+        <seg>[fuzzy]&amp;Käyttöopas...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7337,8 +7369,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>en</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T174033Z" creationid="PiaVee" creationdate="20170910T084258Z">
-        <seg>en</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T093808Z" creationid="PiaVee" creationdate="20170910T084258Z">
+        <seg>fi</seg>
       </tuv>
     </tu>
     <tu>
