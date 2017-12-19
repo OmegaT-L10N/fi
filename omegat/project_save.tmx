@@ -6831,8 +6831,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T101933Z" creationid="PiaVee" creationdate="20171219T101933Z">
-        <seg>Käytä untar- (tai vastaavaa, esim. Windowsin &lt;f0&gt;winrar&lt;/f0&gt; </seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T102254Z" creationid="PiaVee" creationdate="20171219T101933Z">
+        <seg>Pura (untar tai vastaava, esim. Windowsin &lt;f0&gt;winrar&lt;/f0&gt; tiedoston sisältö projektin Dictionary-kansioon.</seg>
       </tuv>
     </tu>
     <tu>
