@@ -1514,16 +1514,48 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>By Arno Peters and Mariëtte van Drunen (in Dutch).</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094420Z" creationid="PiaVee" creationdate="20171219T094420Z">
-        <seg>Tekijät: Arno Peters ja Mariëtte van Drunen (hollanniksi)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094649Z" creationid="PiaVee" creationdate="20171219T094420Z">
+        <seg>Arno Peters ja Mariëtte van Drunen (kieli: hollanti)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Asier Sarasua Garmendia (in Basque).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094709Z" creationid="PiaVee" creationdate="20171219T094630Z">
+        <seg>Asier Sarasua Garmendia (kieli: baski)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Corinne McKay (in English).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094757Z" creationid="PiaVee" creationdate="20171219T094757Z">
+        <seg>Corinne McKay (kieli: englanti)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Takashi Miyamoto (in Japanese).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094731Z" creationid="PiaVee" creationdate="20171219T094731Z">
+        <seg>Takashi Miyamoto (kieli: japani)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>By Václav Hejda (in Czech).</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094502Z" creationid="PiaVee" creationdate="20171219T094502Z">
-        <seg>Tekijä: Václav Hejda (tšekiksi)</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094657Z" creationid="PiaVee" creationdate="20171219T094502Z">
+        <seg>Václav Hejda (kieli: tšekki)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Yutaka Kachi (in Japanese).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094703Z" creationid="PiaVee" creationdate="20171219T094533Z">
+        <seg>Yutaka Kachi (kieli: japani)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2092,6 +2124,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T124000Z" creationid="PiaVee" creationdate="20171218T124000Z">
         <seg>Delete*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Description of OmegaT (2008).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094610Z" creationid="PiaVee" creationdate="20171219T094610Z">
+        <seg>OmegaT (2008) -kuvaus</seg>
       </tuv>
     </tu>
     <tu>
@@ -5188,10 +5228,42 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Review of OmegaT 1.6 RC5.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094522Z" creationid="PiaVee" creationdate="20171219T094522Z">
+        <seg>OmegaT 1.6 RC5:n arvostelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT 1.6.1_1.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094722Z" creationid="PiaVee" creationdate="20171219T094722Z">
+        <seg>OmegaT 1.6.1_1:n arvostelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Review of OmegaT 2.3.0.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094446Z" creationid="PiaVee" creationdate="20171219T094446Z">
         <seg>OmegaT 2.3.0:n arvostelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT, 11 April 2008.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094744Z" creationid="PiaVee" creationdate="20171219T094744Z">
+        <seg>OmegaT:n arvostelu, 11. huhtikuuta 2008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT, 2010.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094806Z" creationid="PiaVee" creationdate="20171219T094806Z">
+        <seg>OmegaT:n arvostelu, 2010</seg>
       </tuv>
     </tu>
     <tu>
