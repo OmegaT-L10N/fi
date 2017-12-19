@@ -2200,6 +2200,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T095702Z" creationid="PiaVee" creationdate="20171219T095702Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;:ssä käytettävät sanakirjat perustuvat joko StarDictiin tai Lingvo DSL -muotoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionary</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T122243Z" creationid="PiaVee" creationdate="20171015T122243Z">
@@ -3092,6 +3100,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T123619Z" creationid="PiaVee" creationdate="20171218T123428Z">
         <seg>Home*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to download and install dictionaries</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T095600Z" creationid="PiaVee" creationdate="20171219T095544Z">
+        <seg>Kuinka sanakirjoja ladataan ja asennetaan</seg>
       </tuv>
     </tu>
     <tu>
@@ -6369,6 +6385,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094153Z" creationid="PiaVee" creationdate="20171219T094153Z">
         <seg>Tähän päivään mennessä sposoreina ovat toimineet:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T095712Z" creationid="PiaVee" creationdate="20171219T095712Z">
+        <seg>[fuzzy]Tiedosto käännetään OmegaT:ssä seuraavalla tavalla:</seg>
       </tuv>
     </tu>
     <tu>
