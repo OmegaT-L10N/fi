@@ -2346,8 +2346,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T101808Z" creationid="PiaVee" creationdate="20171219T101808Z">
-        <seg>Lataa &lt;f0&gt;tarball&lt;/f0&gt;-muotoinen tiedosto (tiedostotunniste &lt;e1&gt;tar.bz&lt;/e1&gt; tai &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T102021Z" creationid="PiaVee" creationdate="20171219T101808Z">
+        <seg>Lataa &lt;f0&gt;tarball&lt;/f0&gt;-muotoinen tiedostoarkisto (tiedostotunniste &lt;e1&gt;tar.bz&lt;/e1&gt; tai &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6825,6 +6825,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T082822Z" creationid="PiaVee" creationdate="20170910T082822Z">
         <seg>Käytä OmegaT-asennuksen kieltä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T101933Z" creationid="PiaVee" creationdate="20171219T101933Z">
+        <seg>Käytä untar- (tai vastaavaa, esim. Windowsin &lt;f0&gt;winrar&lt;/f0&gt; </seg>
       </tuv>
     </tu>
     <tu>
