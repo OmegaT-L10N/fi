@@ -5556,6 +5556,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;&lt;i1/&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T101449Z" creationid="PiaVee" creationdate="20171219T101449Z">
+        <seg>Etsi tarvittua kieliyhdistelmää esimerkiksi &lt;u0&gt;&lt;i1/&gt;OmegaT-wikin sanakirjalinkkien&lt;/u0&gt; avulla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search options</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T100713Z" creationid="PiaVee" creationdate="20171014T100713Z">
