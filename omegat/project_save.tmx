@@ -2344,6 +2344,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T101808Z" creationid="PiaVee" creationdate="20171219T101808Z">
+        <seg>Lataa &lt;f0&gt;tarball&lt;/f0&gt;-muotoinen tiedosto (tiedostotunniste &lt;e1&gt;tar.bz&lt;/e1&gt; tai &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Downloading project...</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T083007Z" creationid="PiaVee" creationdate="20171218T082803Z">
