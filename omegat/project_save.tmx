@@ -1144,6 +1144,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Plain text files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T110422Z" creationid="PiaVee" creationdate="20171219T110422Z">
+        <seg>&lt;p0&gt;Lähdetiedostot&lt;/p0&gt; &lt;s1&gt;Puhtaat tekstitiedostot&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T151411Z" creationid="PiaVee" creationdate="20171014T151053Z">
@@ -2376,6 +2384,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Does the folder contain three files of the same name, with extensions?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T110139Z" creationid="PiaVee" creationdate="20171219T110139Z">
+        <seg>Onko kansiossa kolme samannimistä tiedostoa, joiden tiedostotunnisteet ovat erilaiset?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Doublet KK</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094201Z" creationid="PiaVee" creationdate="20171219T094201Z">
@@ -3273,10 +3289,26 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T110319Z" creationid="PiaVee" creationdate="20171219T110319Z">
+        <seg>Jos se on &lt;e0&gt;tar.bz&lt;/e0&gt;, olet unohtanut purkaa (untar) tiedoston.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T101637Z" creationid="PiaVee" creationdate="20171014T101637Z">
         <seg>Jos kyseistä segmenttiä ei muuteta, kohdesegmentti "tyhjennetään", eli segmentti pysyy kääntämättömänä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If only one file is present, check its extension.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171219T110237Z" creationid="PiaVee" creationdate="20171219T110237Z">
+        <seg>Jos kansiossa on vain yksi tiedosto, tarkasta sen tiedostotunniste.</seg>
       </tuv>
     </tu>
     <tu>
