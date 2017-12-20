@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6300,6 +6300,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;a0&gt;OmegaT&lt;/a0&gt; solution</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171220T111914Z" creationid="PiaVee" creationdate="20171220T111914Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;-ratkaisu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Britannica Concise Encyclopedia</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T102711Z" creationid="PiaVee" creationdate="20171219T102711Z">
@@ -6376,6 +6384,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T114447Z" creationid="PiaVee" creationdate="20171014T114447Z">
         <seg>Kokoelmat ladataan TBX-muotoisina termikantoina kyseisen projektin sanastokansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The computer, running OmegaT, has Russian as the default language, and thus shows the characters in the Cyrillic alphabet and not in Kanji.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171220T111716Z" creationid="PiaVee" creationdate="20171220T111716Z">
+        <seg>Koska tietokoneen oletuskieli on venäjä, OmegaT näyttää merkit kyrillisinä aakkosina eikä japanilaisina kanji-merkkeinä.</seg>
       </tuv>
     </tu>
     <tu>
