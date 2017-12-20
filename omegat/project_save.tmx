@@ -3337,6 +3337,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the text is encoded in 8 bits, however, one can be faced with the following awkward situation: instead of displaying the text, for Japanese characters...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171220T094311Z" creationid="PiaVee" creationdate="20171220T094311Z">
+        <seg>Jos teksti sen sijaan käyttää 8-bittistä merkistökoodausta, voidaan joutua seuraavanlaiseen ikävään tilanteeseen: japanilaisten merkkien sijaan...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T061112Z" creationid="PiaVee" creationdate="20170910T082715Z">
