@@ -6605,6 +6605,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is the most common-sense alternative, sparing you problems in the long run.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171220T112845Z" creationid="PiaVee" creationdate="20171220T112845Z">
+        <seg>Tämä on yksinkertaisin tapa, ja sen avulla vältyt jatkossa monilta hankaluuksilta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is the way text will look when displayed.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T125420Z" creationid="PiaVee" creationdate="20171015T125420Z">
