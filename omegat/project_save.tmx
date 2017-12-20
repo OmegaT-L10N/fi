@@ -674,8 +674,8 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
       <tuv lang="EN">
         <seg>- i.e. files with a &lt;f0&gt;.txt &lt;/f0&gt;extension - : in the &lt;e1&gt;Text files &lt;/e1&gt;section of the file filters dialog, change the &lt;e2&gt;Source File Encoding&lt;/e2&gt; from &lt;auto&gt; to the encoding that corresponds to your source &lt;f3&gt;.txt&lt;/f3&gt; file, for instance to .jp for the above example.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171220T115337Z" creationid="PiaVee" creationdate="20171220T115010Z">
-        <seg>Tämä koskee tiedostoja, joiden tiedostotunnisteena on &lt;f0&gt;.txt&lt;/f0&gt;: Avaa valikko Asetukset &gt; Tiedostosuodattimet, jolloin avautuu valintaikkuna. Valitse Tiedostomuodot-listalta &lt;e1&gt;Teksti&lt;/e1&gt; ja paina Muokkaa-painiketta, jolloin avautuu uusi ikkuna. Valitse &lt;e2&gt;Lähdetiedostojen merkistökoodaus&lt;/e2&gt; -kohdan pudotusvalikosta lähde-&lt;f3&gt;.txt&lt;/f3&gt;tiedostoon sopiva merkistökoodaus – edellä mainitussa tapauksessa &lt;auto&gt; vaihdetaan vaikkapa ISO-2022-JP-merkistökoodaukseen.</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171220T115759Z" creationid="PiaVee" creationdate="20171220T115010Z">
+        <seg>Tämä koskee tiedostoja, joiden tiedostotunnisteena on &lt;f0&gt;.txt&lt;/f0&gt;: Valitse valikko Asetukset &gt; Tiedostosuodattimet &gt; valintaikkunan Tiedostomuodot-listalta &lt;e1&gt;Teksti&lt;/e1&gt;. Paina Muokkaa-painiketta, jolloin avautuu uusi ikkuna. Valitse &lt;e2&gt;Lähdetiedostojen merkistökoodaus&lt;/e2&gt; -kohdan pudotusvalikosta lähde-&lt;f3&gt;.txt&lt;/f3&gt;tiedostoon sopiva merkistökoodaus – edellä mainitussa tapauksessa &lt;auto&gt; vaihdetaan vaikkapa ISO-2022-JP-merkistökoodaukseen.</seg>
       </tuv>
     </tu>
     <tu>
