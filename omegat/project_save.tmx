@@ -6508,6 +6508,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are basically three ways to address this problem in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171220T112014Z" creationid="PiaVee" creationdate="20171220T111922Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;-ohjelmassa on kolme tapaa ratkaista tämä ongelma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are no local working copies in {0}.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T060407Z" creationid="PiaVee" creationdate="20170930T060407Z">
@@ -6520,6 +6528,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T102338Z" creationid="PiaVee" creationdate="20171219T102338Z">
         <seg>Kansiossa pitäisi olle kolme tiedostoa, joiden tiedostotunnisteet ovat &lt;e1&gt;dz, idx&lt;/e1&gt; ja &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They all involve the application of file filters in the&lt;e1&gt; Options &lt;/e1&gt;menu.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171220T112118Z" creationid="PiaVee" creationdate="20171220T112118Z">
+        <seg>Niissä kaikissa käytetään &lt;e1&gt;Asetukset&lt;/e1&gt;-valikosta löytyviä tiedostosuodattimia.</seg>
       </tuv>
     </tu>
     <tu>
