@@ -1744,6 +1744,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the encoding of your files to Unicode</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171220T112223Z" creationid="PiaVee" creationdate="20171220T112223Z">
+        <seg>Vaihda tiedostojen merkistökoodaukseksi Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change the file extension from &lt;l1&gt;.txt&lt;/l1&gt; to &lt;l2&gt;.utf8.&lt;/l2&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; will automatically interpret the file as a UTF-8 file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171220T112625Z" creationid="PiaVee" creationdate="20171220T112625Z">
+        <seg>Vaihda tiedostotunnisteeksi &lt;l1&gt;.txt&lt;/l1&gt;:n sijaan &lt;l2&gt;.utf8&lt;/l2&gt;. Näin &lt;a3&gt;OmegaT&lt;/a3&gt; tulkitsee automaattisesti tiedoston UTF-8-tiedostoksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Characters (including spaces)</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090009Z" creationid="PiaVee" creationdate="20171218T090009Z">
@@ -9613,6 +9629,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T124457Z" creationid="PiaVee" creationdate="20171218T124457Z">
         <seg>avaa edellisen segmentin (Mac: &lt;e0&gt;Cmd + Enter&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>open your source file in a text editor that correctly interprets its encoding and save the file in &lt;e0&gt;"UTF-8"&lt;/e0&gt; encoding.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171220T112428Z" creationid="PiaVee" creationdate="20171220T112345Z">
+        <seg>Avaa lähdetiedosto tekstieditorissa, joka tunnistaa käytetyn merkistökoodauksen, ja tallenna tiedosto käyttämällä &lt;e0&gt;UTF-8&lt;/e0&gt;-merkistökoodausta.</seg>
       </tuv>
     </tu>
     <tu>
