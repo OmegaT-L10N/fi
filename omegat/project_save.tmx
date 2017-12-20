@@ -6420,6 +6420,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The most that OmegaT can do in such a case, is to assume that the text is written in the same language the computer itself uses.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171220T093524Z" creationid="PiaVee" creationdate="20171220T093524Z">
+        <seg>Tällaisissa tapauksissa OmegaT voi vain olettaa, että teksti on kirjoitettu samalla kielellä kuin mitä tietokonekin käyttää.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T083752Z" creationid="PiaVee" creationdate="20171219T083752Z">
@@ -6521,6 +6529,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T152611Z" creationid="PiaVee" creationdate="20171014T152611Z">
         <seg>Tästä on erityisen paljon hyötyä sellaisissa kielissä, joissa sanavartaloon liitetään etu- ja jälkiliitteitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is no problem for files encoded in Unicode using a 16 bit character encoding set.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171220T093909Z" creationid="PiaVee" creationdate="20171220T093909Z">
+        <seg>Tämä ei ole ongelma, jos tiedostossa käytetään 16-bittistä Unicode-merkistökoodausta.</seg>
       </tuv>
     </tu>
     <tu>
