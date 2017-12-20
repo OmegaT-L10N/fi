@@ -4988,8 +4988,8 @@ ja vahvista kaikki.
       <tuv lang="EN">
         <seg>Plain text files - in most cases files with a txt extension - contain just textual information and offer no clearly defined way to inform the computer which language they contain.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T133409Z" creationid="PiaVee" creationdate="20171219T133409Z">
-        <seg>Muotoilematonta tekstiä sisältävät tiedostot, joiden tiedostotunnisteena on useimmiten useimmiten txt, sisältävät ainoastaan tekstiä  – </seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171220T093135Z" creationid="PiaVee" creationdate="20171219T133409Z">
+        <seg>Tekstitiedostot, joiden tiedostotunnisteena on useimmiten useimmiten txt, koostuvat muotoilemattomasta tekstistä, jota tietokoneohjelmat kyllä pystyvät käsittelemään, mutta ne eivät pysty päättelemään, millä kielellä tiedoston teksti on kirjoitettu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7255,8 +7255,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Working with plain text</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T110549Z" creationid="PiaVee" creationdate="20171219T110524Z">
-        <seg>Muotoilemattoman tekstin kanssa työskentely</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171220T092319Z" creationid="PiaVee" creationdate="20171219T110524Z">
+        <seg>Tekstitiedostojen kanssa työskentely</seg>
       </tuv>
     </tu>
     <tu>
