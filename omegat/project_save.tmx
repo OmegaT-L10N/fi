@@ -672,6 +672,14 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- i.e. files with a &lt;f0&gt;.txt &lt;/f0&gt;extension - : in the &lt;e1&gt;Text files &lt;/e1&gt;section of the file filters dialog, change the &lt;e2&gt;Source File Encoding&lt;/e2&gt; from &lt;auto&gt; to the encoding that corresponds to your source &lt;f3&gt;.txt&lt;/f3&gt; file, for instance to .jp for the above example.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171220T115010Z" creationid="PiaVee" creationdate="20171220T115010Z">
+        <seg>Tämä koskee tiedostoja, joiden tiedostotunnisteena on &lt;f0&gt;.txt&lt;/f0&gt;: Avaa valikko Asetukset &gt; Tiedostosuodattimet, jolloin avautuu valintaikkuna. Valitse Tiedostomuodot-listalta Teksti ja paina Muokkaa-painiketta, jolloin avautuu uusi ikkuna. Valitse &lt;e1&gt;Lähdetiedostojen merkistökoodaus&lt;/e1&gt;-kohdan pudotusvalikosta lähdetiedostoon sopiva merkistökoodaus – edellä mainitussa tapauksessa &lt;auto&gt; vaihdetaan vaikkapa ISO-2022-JP-merkistökoodaukseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--/--</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124732Z" creationid="PiaVee" creationdate="20171015T124732Z">
@@ -6112,6 +6120,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081554Z" creationid="PiaVee" creationdate="20171015T081554Z">
         <seg>espanja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specify the encoding for your plain text files</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171220T112922Z" creationid="PiaVee" creationdate="20171220T112922Z">
+        <seg>Määritä tekstitiedostoissa käytetty merkistökoodaus</seg>
       </tuv>
     </tu>
     <tu>
