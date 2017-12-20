@@ -8265,8 +8265,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>for instance from &lt;f0&gt;.txt&lt;/f0&gt; to &lt;f1&gt;.jp&lt;/f1&gt; for Japanese plain texts: in the &lt;e2&gt;Text files&lt;/e2&gt; section of the file filters dialog, add new &lt;e3&gt;Source Filename Pattern&lt;/e3&gt; (&lt;f4&gt;*.jp&lt;/f4&gt; for this example) and select the appropriate parameters for the source and target encoding</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171220T115702Z" creationid="PiaVee" creationdate="20171220T115702Z">
-        <seg>Esimerkiksi japaninkielisten tekstitiedostojen &lt;f0&gt;.txt&lt;/f0&gt;-tunniste vaihdetaan muotoon &lt;f1&gt;.jp&lt;/f1&gt;: Valitse Asetukset &gt; Tiedostosuodattimet &gt; valintaikkunan kohta  </seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171220T120149Z" creationid="PiaVee" creationdate="20171220T115702Z">
+        <seg>Esimerkiksi japaninkielisten tekstitiedostojen &lt;f0&gt;.txt&lt;/f0&gt;-tunniste vaihdetaan muotoon &lt;f1&gt;.jp&lt;/f1&gt; näin: Valitse Asetukset &gt; Tiedostosuodattimet &gt; valintaikkunan kohta &lt;e2&gt;Teksti&lt;/e2&gt;. Lisää uusi &lt;e3&gt;Lähdetiedoston muoto&lt;/e3&gt; (tässä esimerkissä &lt;f4&gt;*.jp&lt;/f4&gt;) ja määritä sopivat asetukset lähde- ja kohdetiedostokohtiin.</seg>
       </tuv>
     </tu>
     <tu>
