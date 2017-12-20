@@ -820,8 +820,8 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
       <tuv lang="EN">
         <seg>...the system will display it like this for instance:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171220T094508Z" creationid="PiaVee" creationdate="20171220T094330Z">
-        <seg>...järjestelmä näyttää tekstin esimerkiksi </seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171220T094607Z" creationid="PiaVee" creationdate="20171220T094330Z">
+        <seg>...järjestelmä näyttää tekstin vaikkapa tällaisena:</seg>
       </tuv>
     </tu>
     <tu>
