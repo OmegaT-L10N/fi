@@ -818,6 +818,14 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>...the system will display it like this for instance:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171220T094508Z" creationid="PiaVee" creationdate="20171220T094330Z">
+        <seg>...järjestelmä näyttää tekstin esimerkiksi </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T095233Z" creationid="PiaVee" creationdate="20171015T095233Z">
@@ -3339,8 +3347,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>If the text is encoded in 8 bits, however, one can be faced with the following awkward situation: instead of displaying the text, for Japanese characters...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171220T094311Z" creationid="PiaVee" creationdate="20171220T094311Z">
-        <seg>Jos teksti sen sijaan käyttää 8-bittistä merkistökoodausta, voidaan joutua seuraavanlaiseen ikävään tilanteeseen: japanilaisten merkkien sijaan...</seg>
+      <tuv lang="FI" changeid="PiaVee" changedate="20171220T094600Z" creationid="PiaVee" creationdate="20171220T094311Z">
+        <seg>Jos teksti sen sijaan käyttää 8-bittistä merkistökoodausta, voidaan joutua ikäviin tilanteisiin: japanilaisia merkkejä käyttävän tekstin sijaan...</seg>
       </tuv>
     </tu>
     <tu>
