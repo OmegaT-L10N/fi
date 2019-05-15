@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5036,8 +5036,8 @@ ja vahvista kaikki.
       <tuv lang="EN">
         <seg>Plain text files - in most cases files with a txt extension - contain just textual information and offer no clearly defined way to inform the computer which language they contain.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171220T093444Z" creationid="PiaVee" creationdate="20171219T133409Z">
-        <seg>Tekstitiedostot, joiden tiedostotunnisteena on useimmiten useimmiten txt, koostuvat muotoilemattomasta tekstistä, mutta tiedosto ei kerro tietokoneelle, millä kielellä teksti on kirjoitettu.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190515T072348Z" creationid="PiaVee" creationdate="20171219T133409Z">
+        <seg>Tekstitiedostot – joiden tiedostotunniste on useimmiten txt – sisältävät muotoilematonta tekstiä, mutta eivät kerro tietokoneelle, millä kielellä teksti on kirjoitettu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6494,8 +6494,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>The most that OmegaT can do in such a case, is to assume that the text is written in the same language the computer itself uses.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171220T093524Z" creationid="PiaVee" creationdate="20171220T093524Z">
-        <seg>Tällaisissa tapauksissa OmegaT voi vain olettaa, että teksti on kirjoitettu samalla kielellä kuin mitä tietokonekin käyttää.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190515T072544Z" creationid="PiaVee" creationdate="20171220T093524Z">
+        <seg>Tällöin OmegaT olettaa, että teksti on kirjoitettu samalla kielellä, jota tietokonekin käyttää.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6623,8 +6623,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>This is no problem for files encoded in Unicode using a 16 bit character encoding set.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171220T093909Z" creationid="PiaVee" creationdate="20171220T093909Z">
-        <seg>Tämä ei ole ongelma, jos tiedostossa käytetään 16-bittistä Unicode-merkistökoodausta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190515T072646Z" creationid="PiaVee" creationdate="20171220T093909Z">
+        <seg>Tämä ei ole ongelma, jos tiedostossa on käytössä 16-bittinen Unicode-merkistökoodaus.</seg>
       </tuv>
     </tu>
     <tu>
