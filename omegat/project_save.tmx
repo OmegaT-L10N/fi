@@ -5036,8 +5036,8 @@ ja vahvista kaikki.
       <tuv lang="EN">
         <seg>Plain text files - in most cases files with a txt extension - contain just textual information and offer no clearly defined way to inform the computer which language they contain.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190515T072348Z" creationid="PiaVee" creationdate="20171219T133409Z">
-        <seg>Tekstitiedostot – joiden tiedostotunniste on useimmiten txt – sisältävät muotoilematonta tekstiä, mutta eivät kerro tietokoneelle, millä kielellä teksti on kirjoitettu.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190515T111935Z" creationid="PiaVee" creationdate="20171219T133409Z">
+        <seg>Muotoilematonta tekstiä sisältävien tekstitiedostojen tiedostotunniste on useimmiten .txt. Tekstitiedostot eivät kuitenkaan kerro tietokoneelle, millä kielellä teksti on kirjoitettu.</seg>
       </tuv>
     </tu>
     <tu>
