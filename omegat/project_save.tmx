@@ -5526,8 +5526,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170908T124508Z" creationid="PiaVee" creationdate="20170908T124309Z">
-        <seg>Kun kirjoitat ranskaa, korvaa sopivissa kohdissa välilyönnit sitovilla välilyönneillä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190515T191307Z" creationid="PiaVee" creationdate="20170908T124309Z">
+        <seg>Kun kirjoitat ranskaa, korvaa välilyönnit sopivissa kohdissa sitovilla välilyönneillä.</seg>
       </tuv>
     </tu>
     <tu>
