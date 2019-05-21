@@ -718,6 +718,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T141339Z" creationid="piav" creationdate="20190521T141339Z">
+        <seg>Asteriski * vastaa mitä tahansa merkkiä, joita voi olla nolla, yksi tai useampi: hakulauseke 'run*' vastaa sanoja 'run', 'runs', 'running' jne.
+Kysymysmerkki ? vastaa yhtä merkkiä: hakulauseke 'run?' vastaa sanoja 'runs' tai 'rung', mutta ei sanoja 'run' tai 'running'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
