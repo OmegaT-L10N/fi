@@ -168,8 +168,8 @@
       <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103013Z" creationid="PiaVee" creationdate="20171015T094303Z">
-        <seg>Peru (&amp;C)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T165548Z" creationid="PiaVee" creationdate="20171015T094303Z">
+        <seg>&amp;Peru</seg>
       </tuv>
     </tu>
     <tu>
@@ -192,8 +192,8 @@
       <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T093327Z" creationid="PiaVee" creationdate="20171015T094306Z">
-        <seg>Sulje (&amp;C)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T165555Z" creationid="PiaVee" creationdate="20171015T094306Z">
+        <seg>&amp;Sulje</seg>
       </tuv>
     </tu>
     <tu>
@@ -264,8 +264,8 @@
       <tuv lang="EN">
         <seg>&amp;Filter</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103025Z" creationid="PiaVee" creationdate="20171015T094308Z">
-        <seg>Suodatin (&amp;F)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T165602Z" creationid="PiaVee" creationdate="20171015T094308Z">
+        <seg>S&amp;uodatin</seg>
       </tuv>
     </tu>
     <tu>
@@ -408,8 +408,8 @@
       <tuv lang="EN">
         <seg>&amp;OK</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103008Z" creationid="PiaVee" creationdate="20171015T094259Z">
-        <seg>OK (&amp;O)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T165544Z" creationid="PiaVee" creationdate="20171015T094259Z">
+        <seg>&amp;OK</seg>
       </tuv>
     </tu>
     <tu>
@@ -512,8 +512,8 @@
       <tuv lang="EN">
         <seg>&amp;Replace</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103034Z" creationid="PiaVee" creationdate="20171015T094316Z">
-        <seg>Korvaa (&amp;R)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T165623Z" creationid="PiaVee" creationdate="20171015T094316Z">
+        <seg>&amp;Korvaa</seg>
       </tuv>
     </tu>
     <tu>
@@ -2199,8 +2199,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Con&amp;tents</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103056Z" creationid="PiaVee" creationdate="20171015T094321Z">
-        <seg>Sisältö (&amp;T)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T165732Z" creationid="PiaVee" creationdate="20171015T094321Z">
+        <seg>S&amp;isältö</seg>
       </tuv>
     </tu>
     <tu>
@@ -6029,16 +6029,16 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Re&amp;move Filter</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103030Z" creationid="PiaVee" creationdate="20171015T094314Z">
-        <seg>Poista suodatin (&amp;M)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T165615Z" creationid="PiaVee" creationdate="20171015T094314Z">
+        <seg>P&amp;oista suodatin</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Re&amp;place All</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103039Z" creationid="PiaVee" creationdate="20171015T094319Z">
-        <seg>Korvaa kaikki (&amp;P)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T165633Z" creationid="PiaVee" creationdate="20171015T094319Z">
+        <seg>Korvaa k&amp;aikki</seg>
       </tuv>
     </tu>
     <tu>
