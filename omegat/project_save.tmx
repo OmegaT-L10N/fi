@@ -810,6 +810,14 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>---- Localization Notes ----</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180000Z" creationid="piav" creationdate="20190521T180000Z">
+        <seg>---- Lokalisointimuistiinpanot ----</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--/--</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124732Z" creationid="PiaVee" creationdate="20171015T124732Z">
@@ -3513,6 +3521,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Format:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175831Z" creationid="piav" creationdate="20190521T175831Z">
+        <seg>Muoto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>French</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174108Z" creationid="PiaVee" creationdate="20171014T174108Z">
@@ -4210,6 +4226,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invalid file format</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175904Z" creationid="piav" creationdate="20190521T175904Z">
+        <seg>Tiedostomuoto ei kelpaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid repository type: {0}</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T133150Z" creationid="piav" creationdate="20190521T133150Z">
@@ -4582,6 +4606,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092525Z" creationid="PiaVee" creationdate="20171014T092525Z">
         <seg>OPITTU:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LaTeX</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175813Z" creationid="piav" creationdate="20190521T175813Z">
+        <seg>LaTeX</seg>
       </tuv>
     </tu>
     <tu>
@@ -5066,6 +5098,30 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Monolingual</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175839Z" creationid="piav" creationdate="20190521T175839Z">
+        <seg>Yksikielinen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moodle PHP</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175917Z" creationid="piav" creationdate="20190521T175917Z">
+        <seg>Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moodle PHP Filter Options</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175929Z" creationid="piav" creationdate="20190521T175929Z">
+        <seg>Moodle PHP-suodattimen asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124510Z" creationid="PiaVee" creationdate="20171015T124510Z">
@@ -5110,6 +5166,30 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173602Z" creationid="PiaVee" creationdate="20171218T072527Z">
         <seg>Siirrä &amp;ylös</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla DTD</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175935Z" creationid="piav" creationdate="20190521T175935Z">
+        <seg>Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla DTD Filter Options</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175944Z" creationid="piav" creationdate="20190521T175944Z">
+        <seg>Mozilla DTD-suodattimen asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla Lang</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175947Z" creationid="piav" creationdate="20190521T175947Z">
+        <seg>Mozilla Lang</seg>
       </tuv>
     </tu>
     <tu>
@@ -5722,6 +5802,22 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T101947Z" creationid="piav" creationdate="20190521T101902Z">
         <seg>Korvaustila</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PO</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175818Z" creationid="piav" creationdate="20190521T175818Z">
+        <seg>PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PO Filter Options</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175826Z" creationid="piav" creationdate="20190521T175826Z">
+        <seg>PO-suodattimen asetukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -6813,6 +6909,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment source text into paragraphs on:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180032Z" creationid="piav" creationdate="20190521T180032Z">
+        <seg>Lähdetekstin kappalejaon merkkinä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment {0,number,#}</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T101822Z" creationid="PiaVee" creationdate="20171015T124427Z">
@@ -7063,8 +7167,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Source Filename Pattern</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T175553Z" creationid="piav" creationdate="20190521T175553Z">
-        <seg>Lähdetiedoston nimen kuvio</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175810Z" creationid="piav" creationdate="20190521T175553Z">
+        <seg>Lähdetiedoston nimessä käytetty kuvio</seg>
       </tuv>
     </tu>
     <tu>
@@ -7193,6 +7297,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T093846Z" creationid="PiaVee" creationdate="20171219T093846Z">
         <seg>Sponsorit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175834Z" creationid="piav" creationdate="20190521T175834Z">
+        <seg>Standardi</seg>
       </tuv>
     </tu>
     <tu>
@@ -7467,6 +7579,14 @@ Tekstin korvaus tapahtuu projektin lähtökielisissä segmenteissäriippumatta s
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T084339Z" creationid="PiaVee" creationdate="20171219T084202Z">
         <seg>OmegaT on avoimeen lähdekoodiin perustuva käännösmuistisovellus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The PO filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175848Z" creationid="piav" creationdate="20190521T175848Z">
+        <seg>PO-suodatin antoi poikkeuksen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7980,8 +8100,16 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>Translated File Encoding</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T175708Z" creationid="piav" creationdate="20190521T175708Z">
-        <seg>Käännöstiedoston merkistökoodaus</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175731Z" creationid="piav" creationdate="20190521T175708Z">
+        <seg>Käännetyn tiedoston merkistökoodaus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated Filename Pattern</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175753Z" creationid="piav" creationdate="20190521T175753Z">
+        <seg>Käännetyn tiedoston nimessä käytetty kuvio</seg>
       </tuv>
     </tu>
     <tu>
