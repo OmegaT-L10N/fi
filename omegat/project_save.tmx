@@ -2089,8 +2089,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121042Z" creationid="PiaVee" creationdate="20171015T103857Z">
-        <seg>Luo &amp;sanastotietue...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093735Z" creationid="PiaVee" creationdate="20171015T103857Z">
+        <seg>Luo sanastotietue… (&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5891,24 +5891,24 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Select &amp;Next Match</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121214Z" creationid="PiaVee" creationdate="20171015T103950Z">
-        <seg>Valitse &amp;seuraava osuma</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093745Z" creationid="PiaVee" creationdate="20171015T103950Z">
+        <seg>Valitse seuraava osuma (&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select &amp;Previous Match</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121218Z" creationid="PiaVee" creationdate="20171015T104001Z">
-        <seg>Valitse &amp;edellinen osuma</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093752Z" creationid="PiaVee" creationdate="20171015T104001Z">
+        <seg>Valitse edellinen osuma (&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121210Z" creationid="PiaVee" creationdate="20171015T103925Z">
-        <seg>Valitse &amp;osuma</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093739Z" creationid="PiaVee" creationdate="20171015T103925Z">
+        <seg>Valitse osuma (&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5923,8 +5923,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Select Match #&amp;2</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T104020Z" creationid="PiaVee" creationdate="20171015T104020Z">
-        <seg>Valitse osuma nro &amp;3</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093759Z" creationid="PiaVee" creationdate="20171015T104020Z">
+        <seg>Valitse osuma nro &amp;2</seg>
       </tuv>
     </tu>
     <tu>
