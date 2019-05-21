@@ -754,6 +754,14 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(comment tag)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T143259Z" creationid="piav" creationdate="20190521T143259Z">
+        <seg>(kommenttitägi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* These keys behave differently when the cursor is outside the editable segment:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T125908Z" creationid="PiaVee" creationdate="20171218T125908Z">
@@ -3397,6 +3405,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174103Z" creationid="PiaVee" creationdate="20171014T174103Z">
         <seg>suomi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Floating '?' character not tied to '&gt;'!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T143713Z" creationid="piav" creationdate="20190521T143713Z">
+        <seg>Kelluva ?-merkki, ei  &gt;-merkkiä!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7153,6 +7169,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T093504Z" creationid="PiaVee" creationdate="20171015T102732Z">
         <seg>Käännösmuistit (&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag name:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T143254Z" creationid="piav" creationdate="20190521T143254Z">
+        <seg>Tägin nimi:</seg>
       </tuv>
     </tu>
     <tu>
