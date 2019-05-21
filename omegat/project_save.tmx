@@ -248,8 +248,8 @@
       <tuv lang="EN">
         <seg>&amp;Exact search</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T140222Z" creationid="piav" creationdate="20190521T134350Z">
-        <seg>Täsmähaku (&amp;E)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173921Z" creationid="piav" creationdate="20190521T134350Z">
+        <seg>&amp;Täsmähaku</seg>
       </tuv>
     </tu>
     <tu>
@@ -360,8 +360,8 @@
       <tuv lang="EN">
         <seg>&amp;Keyword search</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T134341Z" creationid="piav" creationdate="20190521T134341Z">
-        <seg>Avainsanahaku (&amp;K)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173917Z" creationid="piav" creationdate="20190521T134341Z">
+        <seg>&amp;Avainsanahaku</seg>
       </tuv>
     </tu>
     <tu>
@@ -480,8 +480,8 @@
       <tuv lang="EN">
         <seg>&amp;Regular expressions</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T134512Z" creationid="piav" creationdate="20190521T134512Z">
-        <seg>Säännölliset lausekkeet (&amp;R)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173924Z" creationid="piav" creationdate="20190521T134512Z">
+        <seg>&amp;Säännölliset lausekkeet</seg>
       </tuv>
     </tu>
     <tu>
@@ -1563,8 +1563,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Aut&amp;hor:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T134613Z" creationid="piav" creationdate="20190521T134613Z">
-        <seg>Tekijä: (&amp;H)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174053Z" creationid="piav" creationdate="20190521T134613Z">
+        <seg>Te&amp;kijä:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1883,8 +1883,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T134819Z" creationid="piav" creationdate="20190521T134819Z">
-        <seg>Erottele kirjainkoko (&amp;A)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174200Z" creationid="piav" creationdate="20190521T134819Z">
+        <seg>&amp;Erottele kirjainkoko</seg>
       </tuv>
     </tu>
     <tu>
@@ -1995,8 +1995,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T134750Z" creationid="piav" creationdate="20190521T134637Z">
-        <seg>Muutettu ennen (&amp;B):</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174137Z" creationid="piav" creationdate="20190521T134637Z">
+        <seg>Muutettu ennen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3483,8 +3483,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Full/Half &amp;width char insensitive</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T134929Z" creationid="piav" creationdate="20190521T134929Z">
-        <seg>Ei erottele täys- ja puolileveitä merkkejä (&amp;W)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174204Z" creationid="piav" creationdate="20190521T134929Z">
+        <seg>Ei erottele täys- ja puolileveitä merkkejä</seg>
       </tuv>
     </tu>
     <tu>
@@ -3675,8 +3675,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Hide Advanced &amp;Options</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T134606Z" creationid="piav" creationdate="20190521T134606Z">
-        <seg>Piilota lisäasetukset</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173959Z" creationid="piav" creationdate="20190521T134606Z">
+        <seg>&amp;Piilota lisäasetukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -6477,8 +6477,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T135029Z" creationid="piav" creationdate="20190521T134953Z">
-        <seg>Välilyönti vastaa nbsp:tä (&amp;P)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174214Z" creationid="piav" creationdate="20190521T134953Z">
+        <seg>&amp;Välilyönti vastaa nbsp:tä</seg>
       </tuv>
     </tu>
     <tu>
@@ -6847,8 +6847,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Show Advanced &amp;Options</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T134600Z" creationid="piav" creationdate="20190521T134600Z">
-        <seg>Näytä lisäasetukset (&amp;O)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173956Z" creationid="piav" creationdate="20190521T134600Z">
+        <seg>&amp;Näytä lisäasetukset</seg>
       </tuv>
     </tu>
     <tu>
