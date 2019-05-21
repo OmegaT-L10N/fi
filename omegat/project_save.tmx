@@ -72,8 +72,8 @@
       <tuv lang="EN">
         <seg>&amp;About...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T123028Z" creationid="PiaVee" creationdate="20171015T123028Z">
-        <seg>&amp;Tietoja...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T101442Z" creationid="PiaVee" creationdate="20171015T123028Z">
+        <seg>Tietoja… (&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +170,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103013Z" creationid="PiaVee" creationdate="20171015T094303Z">
         <seg>Peru (&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T101531Z" creationid="piav" creationdate="20190521T101531Z">
+        <seg>Tarkista päivitykset… (&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -296,8 +304,8 @@
       <tuv lang="EN">
         <seg>&amp;Help</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111231Z" creationid="PiaVee" creationdate="20171015T111231Z">
-        <seg>&amp;Ohjeet</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T101431Z" creationid="PiaVee" creationdate="20171015T111231Z">
+        <seg>Ohjeet (&amp;H)</seg>
       </tuv>
     </tu>
     <tu>
@@ -328,8 +336,8 @@
       <tuv lang="EN">
         <seg>&amp;Last Changes...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T123046Z" creationid="PiaVee" creationdate="20171015T123046Z">
-        <seg>&amp;Viimeksi muutettu...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T101449Z" creationid="PiaVee" creationdate="20171015T123046Z">
+        <seg>Viimeksi muutettu… (&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -392,8 +400,8 @@
       <tuv lang="EN">
         <seg>&amp;Preferences...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T123011Z" creationid="PiaVee" creationdate="20171015T123011Z">
-        <seg>&amp;Asetukset</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T101427Z" creationid="PiaVee" creationdate="20171015T123011Z">
+        <seg>Asetukset… (&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -640,8 +648,8 @@
       <tuv lang="EN">
         <seg>&amp;User's Manual...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T123020Z" creationid="PiaVee" creationdate="20171015T123020Z">
-        <seg>&amp;Käyttöopas...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T101437Z" creationid="PiaVee" creationdate="20171015T123020Z">
+        <seg>Käyttöopas… (&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3466,8 +3474,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T123740Z" creationid="PiaVee" creationdate="20171015T123151Z">
-        <seg>Muutokset astuvat voimaan käynnistettyäsi OmegaT:n uudelleen ja avattuasi projektin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T101552Z" creationid="PiaVee" creationdate="20171015T123151Z">
+        <seg>Muutokset astuvat voimaan, kun olet käynnistänyt OmegaT:n uudelleen ja avannut projektin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3978,8 +3986,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>L&amp;og...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T123100Z" creationid="PiaVee" creationdate="20171015T123100Z">
-        <seg>&amp;Lokikirja...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T101456Z" creationid="PiaVee" creationdate="20171015T123100Z">
+        <seg>Lokikirja… (&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
