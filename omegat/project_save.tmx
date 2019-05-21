@@ -2887,6 +2887,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclude Pattern</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T133127Z" creationid="piav" creationdate="20190521T133103Z">
+        <seg>Älä sisällytä kuviota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T103053Z" creationid="PiaVee" creationdate="20171218T085622Z">
@@ -3632,6 +3640,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include Pattern</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T133123Z" creationid="piav" creationdate="20190521T133123Z">
+        <seg>Sisällytä kuvio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Incompatibilities</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T150604Z" creationid="PiaVee" creationdate="20171014T150604Z">
@@ -3796,6 +3812,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T181113Z" creationid="PiaVee" creationdate="20171014T174342Z">
         <seg>inupiaq</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid repository type: {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T133150Z" creationid="piav" creationdate="20190521T133150Z">
+        <seg>Kelpaamaton pakettivaraston tyyppi: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4348,6 +4372,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T084005Z" creationid="PiaVee" creationdate="20171218T084005Z">
         <seg>Ladattavana: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Local File/Folder</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132947Z" creationid="piav" creationdate="20190521T132947Z">
+        <seg>Paikallinen tiedosto/kansio</seg>
       </tuv>
     </tu>
     <tu>
@@ -5601,6 +5633,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote File/Folder</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132954Z" creationid="piav" creationdate="20190521T132954Z">
+        <seg>Etätiedosto/etäkansio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote Repositories</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T132520Z" creationid="piav" creationdate="20190521T132520Z">
@@ -5777,6 +5817,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repository</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132939Z" creationid="piav" creationdate="20190521T132939Z">
+        <seg>Pakettivarasto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repository Mapping</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T132836Z" creationid="piav" creationdate="20190521T132505Z">
@@ -5789,6 +5837,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T132841Z" creationid="piav" creationdate="20190521T131935Z">
         <seg>Pakettivarastojen yhdistäminen…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository {0} is already present</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T133208Z" creationid="piav" creationdate="20190521T133208Z">
+        <seg>Pakettivarasto {0} on jo käytössä</seg>
       </tuv>
     </tu>
     <tu>
