@@ -128,8 +128,8 @@
       <tuv lang="EN">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091614Z" creationid="PiaVee" creationdate="20171218T091614Z">
-        <seg>&amp;Automaattinen käännösehdotusten käyttö</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131424Z" creationid="PiaVee" creationdate="20171218T091614Z">
+        <seg>Automaattinen käännösehdotusten käyttö (&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -160,8 +160,8 @@
       <tuv lang="EN">
         <seg>&amp;Browse</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T092149Z" creationid="PiaVee" creationdate="20171218T092149Z">
-        <seg>&amp;Selaa</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131458Z" creationid="PiaVee" creationdate="20171218T092149Z">
+        <seg>Selaa (&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -592,8 +592,8 @@
       <tuv lang="EN">
         <seg>&amp;Source Language Tokenizer:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091408Z" creationid="PiaVee" creationdate="20171218T091408Z">
-        <seg>&amp;Lähdekielen saneistin:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131408Z" creationid="PiaVee" creationdate="20171218T091408Z">
+        <seg>Lähdekielen saneistin (&amp;S):</seg>
       </tuv>
     </tu>
     <tu>
@@ -616,8 +616,8 @@
       <tuv lang="EN">
         <seg>&amp;Target Language Tokenizer:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091414Z" creationid="PiaVee" creationdate="20171218T091414Z">
-        <seg>&amp;Kohdekielen saneistin:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131414Z" creationid="PiaVee" creationdate="20171218T091414Z">
+        <seg>Kohdekielen saneistin (&amp;T):</seg>
       </tuv>
     </tu>
     <tu>
@@ -632,8 +632,8 @@
       <tuv lang="EN">
         <seg>&amp;Translated Files Language:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091350Z" creationid="PiaVee" creationdate="20171218T091350Z">
-        <seg>&amp;Käännettyjen tiedostojen kieli:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131404Z" creationid="PiaVee" creationdate="20171218T091350Z">
+        <seg>Käännettyjen tiedostojen kieli (&amp;T):</seg>
       </tuv>
     </tu>
     <tu>
@@ -1065,8 +1065,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091954Z" creationid="PiaVee" creationdate="20171218T091954Z">
-        <seg>&lt;html&gt;&gt;Projektikohtaiset ulkoiset komennot eivät ole käytössä, eikä niitä suoriteta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131443Z" creationid="PiaVee" creationdate="20171218T091954Z">
+        <seg>&lt;html&gt;Projektikohtaiset ulkoiset komennot eivät ole käytössä, eikä niitä suoriteta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2593,8 +2593,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>E&amp;xclusions...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T113733Z" creationid="PiaVee" creationdate="20171218T113733Z">
-        <seg>[fuzzy]&amp;Vie valinta</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131651Z" creationid="PiaVee" creationdate="20171218T113733Z">
+        <seg>Poikkeukset…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2641,8 +2641,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T092146Z" creationid="PiaVee" creationdate="20171218T092146Z">
-        <seg>Ota ne käyttöön kohdassa &lt;b&gt;Asetukset &gt; Tallentaminen ja tuotos...&lt;/b&gt;.&lt;/html&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131454Z" creationid="PiaVee" creationdate="20171218T092146Z">
+        <seg>Ota ne käyttöön kohdassa &lt;b&gt;Asetukset &gt; Tallentaminen ja tuotos…&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5499,8 +5499,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091622Z" creationid="PiaVee" creationdate="20171218T091622Z">
-        <seg>Poista tä&amp;git</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131430Z" creationid="PiaVee" creationdate="20171218T091622Z">
+        <seg>Poista tägit (&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
