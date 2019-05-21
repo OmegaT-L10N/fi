@@ -152,8 +152,8 @@
       <tuv lang="EN">
         <seg>&amp;Back in History</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T171633Z" creationid="PiaVee" creationdate="20171015T110620Z">
-        <seg>Siirry historiassa &amp;taaksepäin</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T172803Z" creationid="PiaVee" creationdate="20171015T110620Z">
+        <seg>Siirry historiass&amp;a taaksepäin</seg>
       </tuv>
     </tu>
     <tu>
@@ -232,8 +232,8 @@
       <tuv lang="EN">
         <seg>&amp;Editor...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T142240Z" creationid="PiaVee" creationdate="20171015T111556Z">
-        <seg>Editori… (&amp;E)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T172931Z" creationid="PiaVee" creationdate="20171015T111556Z">
+        <seg>&amp;Editori…</seg>
       </tuv>
     </tu>
     <tu>
@@ -288,8 +288,8 @@
       <tuv lang="EN">
         <seg>&amp;Forward in History</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T171614Z" creationid="PiaVee" creationdate="20171015T110607Z">
-        <seg>Siirry historiassa &amp;eteenpäin</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T172748Z" creationid="PiaVee" creationdate="20171015T110607Z">
+        <seg>Siirry &amp;historiassa eteenpäin</seg>
       </tuv>
     </tu>
     <tu>
@@ -600,8 +600,8 @@
       <tuv lang="EN">
         <seg>&amp;Segmentation...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T100828Z" creationid="PiaVee" creationdate="20171015T111613Z">
-        <seg>Segmentointi… (&amp;S)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T172935Z" creationid="PiaVee" creationdate="20171015T111613Z">
+        <seg>&amp;Segmentointi…</seg>
       </tuv>
     </tu>
     <tu>
@@ -680,8 +680,8 @@
       <tuv lang="EN">
         <seg>&amp;Tools</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T094813Z" creationid="PiaVee" creationdate="20171015T110910Z">
-        <seg>Työkalut (&amp;T)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T172811Z" creationid="PiaVee" creationdate="20171015T110910Z">
+        <seg>&amp;Työkalut</seg>
       </tuv>
     </tu>
     <tu>
@@ -4804,8 +4804,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T100833Z" creationid="PiaVee" creationdate="20171015T111623Z">
-        <seg>Konekäännös (&amp;H)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T172951Z" creationid="PiaVee" creationdate="20171015T111623Z">
+        <seg>Ko&amp;nekäännös</seg>
       </tuv>
     </tu>
     <tu>
