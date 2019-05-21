@@ -2647,6 +2647,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you want to continue?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T135802Z" creationid="piav" creationdate="20190521T135802Z">
+        <seg>Haluatko jatkaa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documentation manager</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T083954Z" creationid="PiaVee" creationdate="20171219T083838Z">
@@ -5044,6 +5052,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Number of matching segments:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T135829Z" creationid="piav" creationdate="20190521T135829Z">
+        <seg>Osuvien segmenttien määrä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Number of unique segments</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072915Z" creationid="PiaVee" creationdate="20171218T072915Z">
@@ -6313,6 +6329,16 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scope:
+The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T140034Z" creationid="piav" creationdate="20190521T140034Z">
+        <seg>Laajuus:
+Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan kaikkia määrätyn kansiohierarkian tiedostoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scottish Gaelic, Gaelic</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081406Z" creationid="PiaVee" creationdate="20171015T081406Z">
@@ -6973,6 +6999,22 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081651Z" creationid="PiaVee" creationdate="20171015T081651Z">
         <seg>telugu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Replace</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T135741Z" creationid="piav" creationdate="20190521T135741Z">
+        <seg>Tekstin korvaus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Search</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T135738Z" creationid="piav" creationdate="20190521T135738Z">
+        <seg>Tekstihaku</seg>
       </tuv>
     </tu>
     <tu>
@@ -8216,6 +8258,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T154727Z" creationid="PiaVee" creationdate="20171014T154727Z">
         <seg>Käyttämäsi CAT-ohjelma on OmegaT, mutta asiakas pyytää sinua palauttamaan käännöksen Déjà Vu -ohjelman tiedostomuodossa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are going to modify {0} segments.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T135756Z" creationid="piav" creationdate="20190521T135756Z">
+        <seg>Olet muokkaamatta {0} segmettiä.</seg>
       </tuv>
     </tu>
     <tu>
