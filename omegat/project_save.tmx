@@ -3578,8 +3578,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Insert Mode</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T101904Z" creationid="piav" creationdate="20190521T101904Z">
-        <seg>Korvaustila</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T101953Z" creationid="piav" creationdate="20190521T101904Z">
+        <seg>Lisäystila</seg>
       </tuv>
     </tu>
     <tu>
