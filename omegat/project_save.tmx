@@ -112,8 +112,8 @@
       <tuv lang="EN">
         <seg>&amp;Always Confirm Quit</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122700Z" creationid="PiaVee" creationdate="20171015T122700Z">
-        <seg>&amp;Pyydä aina lopetusvarmistusta</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T101302Z" creationid="PiaVee" creationdate="20171015T122700Z">
+        <seg>Pyydä aina lopetusvahvistusta (&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -130,6 +130,14 @@
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T091614Z" creationid="PiaVee" creationdate="20171218T091614Z">
         <seg>&amp;Automaattinen käännösehdotusten käyttö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T101134Z" creationid="piav" creationdate="20190521T101134Z">
+        <seg>Segmentin tekstin automaattinen sanakirjahaku (&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -224,8 +232,8 @@
       <tuv lang="EN">
         <seg>&amp;Enable history completion</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122553Z" creationid="PiaVee" creationdate="20171015T122536Z">
-        <seg>Ota historiaan perustuva &amp;täydennys käyttöön</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T101225Z" creationid="PiaVee" creationdate="20171015T122536Z">
+        <seg>Ota historiaan perustuva täydennys käyttöön (&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -472,8 +480,8 @@
       <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122710Z" creationid="PiaVee" creationdate="20171015T122710Z">
-        <seg>&amp;Palauta pääikkuna</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T101307Z" creationid="PiaVee" creationdate="20171015T122710Z">
+        <seg>Palauta pääikkuna (&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -536,16 +544,16 @@
       <tuv lang="EN">
         <seg>&amp;Show Relevant Suggestions Automatically</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122333Z" creationid="PiaVee" creationdate="20171015T122333Z">
-        <seg>&amp;Näytä sopivia ehdotuksia automaattisesti</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T101156Z" creationid="PiaVee" creationdate="20171015T122333Z">
+        <seg>Näytä sopivia ehdotuksia automaattisesti (&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Show relevant suggestions automatically</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122355Z" creationid="PiaVee" creationdate="20171015T122355Z">
-        <seg>&amp;Näytä sopivia ehdotuksia automaattisesti</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T101209Z" creationid="PiaVee" creationdate="20171015T122355Z">
+        <seg>Näytä sopivia ehdotuksia automaattisesti (&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1249,8 +1257,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>A&amp;uto-completion</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122348Z" creationid="PiaVee" creationdate="20171015T122348Z">
-        <seg>A&amp;utomaattinen täydennys</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T101202Z" creationid="PiaVee" creationdate="20171015T122348Z">
+        <seg>Automaattinen täydennys (&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1289,8 +1297,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T123005Z" creationid="PiaVee" creationdate="20171015T123005Z">
-        <seg>Mene &amp;Määrittely-kansioon</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T101328Z" creationid="PiaVee" creationdate="20171015T123005Z">
+        <seg>Mene Määrittely-kansioon (&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2593,8 +2601,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Enable history &amp;prediction</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122601Z" creationid="PiaVee" creationdate="20171015T122541Z">
-        <seg>Ota historiaan perustuva &amp;ennakointi käyttöön</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T101234Z" creationid="PiaVee" creationdate="20171015T122541Z">
+        <seg>Ota historiaan perustuva ennakointi käyttöön (&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5765,6 +5773,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T084233Z" creationid="PiaVee" creationdate="20170910T084233Z">
         <seg>Etsi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T101150Z" creationid="piav" creationdate="20190521T101150Z">
+        <seg>Hae sanakirjoista</seg>
       </tuv>
     </tu>
     <tu>
