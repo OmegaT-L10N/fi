@@ -336,8 +336,8 @@
       <tuv lang="EN">
         <seg>&amp;New...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120154Z" creationid="PiaVee" creationdate="20171015T101311Z">
-        <seg>&amp;Uusi...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T082401Z" creationid="PiaVee" creationdate="20171015T101311Z">
+        <seg>Uusi… (&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -360,8 +360,8 @@
       <tuv lang="EN">
         <seg>&amp;Open...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120207Z" creationid="PiaVee" creationdate="20171015T101338Z">
-        <seg>&amp;Avaa...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T082418Z" creationid="PiaVee" creationdate="20171015T101338Z">
+        <seg>Avaa… (&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2465,8 +2465,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120202Z" creationid="PiaVee" creationdate="20171015T101333Z">
-        <seg>Lataa &amp;ryhmäprojekti...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T082410Z" creationid="PiaVee" creationdate="20171015T101333Z">
+        <seg>Lataa ryhmäprojekti… (&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4814,8 +4814,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Open Recent Pro&amp;ject</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120213Z" creationid="PiaVee" creationdate="20171015T101350Z">
-        <seg>Avaa &amp;viimeisin projekti</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T082520Z" creationid="PiaVee" creationdate="20171015T101350Z">
+        <seg>Avaa viimeisin projekti (&amp;J)</seg>
       </tuv>
     </tu>
     <tu>
