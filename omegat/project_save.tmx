@@ -216,8 +216,8 @@
       <tuv lang="EN">
         <seg>&amp;Editor...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121851Z" creationid="PiaVee" creationdate="20171015T111556Z">
-        <seg>&amp;Muokkain...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T100823Z" creationid="PiaVee" creationdate="20171015T111556Z">
+        <seg>Muokkain… (&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -272,8 +272,8 @@
       <tuv lang="EN">
         <seg>&amp;Glossary</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121922Z" creationid="PiaVee" creationdate="20171015T111629Z">
-        <seg>&amp;Sanasto</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T100836Z" creationid="PiaVee" creationdate="20171015T111629Z">
+        <seg>Sanasto (&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -296,8 +296,8 @@
       <tuv lang="EN">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072118Z" creationid="PiaVee" creationdate="20171218T072118Z">
-        <seg>&amp;Ohita osumat, jos isoja kirjaimia käytetään eri tavoin (esim. FOO ja foo)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T101007Z" creationid="PiaVee" creationdate="20171218T072118Z">
+        <seg>Ohita osumat, jos isoja kirjaimia käytetään eri tavoin (esim. FOO ja foo) (&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -528,8 +528,8 @@
       <tuv lang="EN">
         <seg>&amp;Segmentation...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121913Z" creationid="PiaVee" creationdate="20171015T111613Z">
-        <seg>&amp;Segmentointi...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T100828Z" creationid="PiaVee" creationdate="20171015T111613Z">
+        <seg>Segmentointi… (&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2337,8 +2337,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Dictionar&amp;y</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122210Z" creationid="PiaVee" creationdate="20171015T122210Z">
-        <seg>Sana&amp;kirja</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T101013Z" creationid="PiaVee" creationdate="20171015T122210Z">
+        <seg>Sanakirja (&amp;Y)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2409,8 +2409,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Display context description for TBX &amp;glossaries</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121943Z" creationid="PiaVee" creationdate="20171015T111741Z">
-        <seg>Näytä TBX-&amp;sanastojen kontekstitiedot</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T100846Z" creationid="PiaVee" creationdate="20171015T111741Z">
+        <seg>Näytä TBX-&amp;sanastojen kontekstitiedot (&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4234,8 +4234,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121919Z" creationid="PiaVee" creationdate="20171015T111623Z">
-        <seg>&amp;Konekäännös</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T100833Z" creationid="PiaVee" creationdate="20171015T111623Z">
+        <seg>Konekäännös (&amp;H)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4328,18 +4328,26 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T100809Z" creationid="piav" creationdate="20190521T100809Z">
+        <seg>Merkitse kappalejaot (&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Translated Segments</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121738Z" creationid="PiaVee" creationdate="20171015T111515Z">
-        <seg>&amp;Merkitse käännetyt segmentit</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T100743Z" creationid="PiaVee" creationdate="20171015T111515Z">
+        <seg>Merkitse käännetyt segmentit (&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Mark &amp;Untranslated Segments</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121829Z" creationid="PiaVee" creationdate="20171015T111525Z">
-        <seg>Merkitse kää&amp;ntämättömät segmentit</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T100751Z" creationid="PiaVee" creationdate="20171015T111525Z">
+        <seg>Merkitse kääntämättömät segmentit (&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5507,8 +5515,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122139Z" creationid="PiaVee" creationdate="20171015T122139Z">
-        <seg>Korvaa sanasto-&amp;osumat lähtötekstiä lisättäessä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T100945Z" creationid="PiaVee" creationdate="20171015T122139Z">
+        <seg>Korvaa sanasto-osumat lähtötekstiä lisättäessä (&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7092,8 +7100,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122239Z" creationid="PiaVee" creationdate="20171015T122239Z">
-        <seg>Käytä sanakirjatietueiden &amp;sumeita osumia</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T101032Z" creationid="PiaVee" creationdate="20171015T122239Z">
+        <seg>Käytä sanakirjatietueiden sumeita osumia (&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7108,16 +7116,16 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Use &amp;fuzzy matching for dictionary entries</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122255Z" creationid="PiaVee" creationdate="20171015T122255Z">
-        <seg>Käytä sanakirjatietueiden &amp;sumeita osumia</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T101050Z" creationid="PiaVee" creationdate="20171015T122255Z">
+        <seg>Käytä sanakirjatietueiden sumeita osumia (&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Use &amp;stemming for glossary entries</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122036Z" creationid="PiaVee" creationdate="20171015T122036Z">
-        <seg>Käytä sanastotietueiden &amp;vartaloita</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T100935Z" creationid="PiaVee" creationdate="20171015T122036Z">
+        <seg>Käytä sanastotietueiden vartaloita (&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7132,8 +7140,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121950Z" creationid="PiaVee" creationdate="20171015T111851Z">
-        <seg>Käytä lähtötekstin &amp;yksittäisiä termejä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T100919Z" creationid="PiaVee" creationdate="20171015T111851Z">
+        <seg>Käytä lähtötekstin yksittäisiä termejä (&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
