@@ -835,8 +835,8 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
       <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T080948Z" creationid="PiaVee" creationdate="20171015T095233Z">
-        <seg>käytettävissä 1) Vähennä lähdetiedostojen määrää, käännä pienemmissä erissä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T081142Z" creationid="PiaVee" creationdate="20171015T095233Z">
+        <seg>1) Vähennä lähdetiedostojen määrää ja käännä pienemmissä erissä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -854,10 +854,10 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T095559Z" creationid="PiaVee" creationdate="20171015T095559Z">
-        <seg>2) Lisää OmegaT:n käytettävissä olevaa muistia käyttämällä
-joko komentorivillä tai OmegaT:n aloituskomentosarjassa
-komentoa "java -Xmx&lt;muistin-koko-(MB)&gt;M -jar OmegaT.jar".
+      <tuv lang="FI" changeid="piav" changedate="20190521T081510Z" creationid="PiaVee" creationdate="20171015T095559Z">
+        <seg>2) Lisää OmegaT:n käytettävissä olevaa muistia. Kirjoita
+joko komentoriville tai OmegaT:n aloituskomentosarjaan
+komento "java -Xmx&lt;muistin-koko-megatavuissa&gt;M -jar OmegaT.jar".
 Nykyinen asetus on {0} MB.</seg>
       </tuv>
     </tu>
@@ -4758,8 +4758,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T080838Z" creationid="PiaVee" creationdate="20171015T095118Z">
-        <seg>OmegaT:n muisti on täysi. Paina OK, niin ohjelma sulkeutuu.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T081040Z" creationid="PiaVee" creationdate="20171015T095118Z">
+        <seg>OmegaT:n käytettävissä oleva muisti on täysi. Paina OK, niin ohjelma sulkeutuu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7462,8 +7462,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>You may try to solve this problem in one of the following ways:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T095154Z" creationid="PiaVee" creationdate="20171015T095154Z">
-        <seg>Seuraavassa on tapoja selvittää tämä ongelma:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T081135Z" creationid="PiaVee" creationdate="20171015T095154Z">
+        <seg>Seuraavassa on tapoja ratkaista tämä ongelma:</seg>
       </tuv>
     </tu>
     <tu>
