@@ -4842,6 +4842,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Maximum number of finds has been reached ({0})</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T142735Z" creationid="piav" creationdate="20190521T142735Z">
+        <seg>Osumien maksimimäärä ({0}) on saavutettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Memor&amp;y</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T135036Z" creationid="piav" creationdate="20190521T135036Z">
