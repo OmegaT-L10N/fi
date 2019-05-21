@@ -7045,6 +7045,16 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text Replace:
+The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T141620Z" creationid="piav" creationdate="20190521T141620Z">
+        <seg>Tekstin korvaus:
+Tekstin korvaus tapahtuu projektin lähtökielisissä segmenteissäriippumatta siitä, onko niissä jo sisältöä vai ovatko ne tyhjiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text Search</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T135738Z" creationid="piav" creationdate="20190521T135738Z">
