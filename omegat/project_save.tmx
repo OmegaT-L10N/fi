@@ -701,11 +701,10 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
 		Source- or target-language tokenizer to use (overrides project
 		settings).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T075302Z" creationid="PiaVee" creationdate="20171015T084132Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T075938Z" creationid="PiaVee" creationdate="20171015T084132Z">
         <seg>--ITokenizer=&lt;luokan nimi&gt;
 	--ITokenizerTarget=&lt;luokan nimi&gt;
-		Projektissa käytettävä lähde- tai kohdekielen saneistin (korvaa
-		projektin asetukset)</seg>
+		Projektissa käytettävä lähde- tai kohdekielen saneistin (korvaa projektin asetukset)</seg>
       </tuv>
     </tu>
     <tu>
@@ -713,10 +712,9 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T074442Z" creationid="PiaVee" creationdate="20171015T083552Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T075852Z" creationid="PiaVee" creationdate="20171015T083552Z">
         <seg>--config-file=&lt;polku&gt;
-		Java-ominaisuuksien tiedosto (.properties), jonka perusteella 
-		oletusasetukset ladataan</seg>
+		Java-ominaisuuksien tiedosto (.properties), jonka perusteella oletusasetukset ladataan</seg>
       </tuv>
     </tu>
     <tu>
@@ -764,9 +762,9 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
         <seg>--pseudotranslatetype=[equal|empty]
 		What to fill the pseudotranslated TMX with.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T092058Z" creationid="PiaVee" creationdate="20171015T092058Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T080053Z" creationid="PiaVee" creationdate="20171015T092058Z">
         <seg>--pseudotranslatetype=[equal|empty]
-		Millä muka käännetty TMX täytetään</seg>
+		Millä pseudokäännetty TMX täytetään</seg>
       </tuv>
     </tu>
     <tu>
@@ -788,13 +786,11 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
 	--config-dir=&lt;path&gt;
 		The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T074847Z" creationid="PiaVee" creationdate="20171015T083757Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T075917Z" creationid="PiaVee" creationdate="20171015T083757Z">
         <seg>--resource-bundle=&lt;polku&gt;
-		Java-ominaisuuksien tiedosto ( .properties) käyttöliittymän tekstiä
-		varten
+		Java-ominaisuuksien tiedosto ( .properties) käyttöliittymän tekstiä varten
 	--config-dir=&lt;polku&gt;
-		Hakemisto, josta OmegaT:n kokoonpanotiedostot luetaan
-		tai johon ne kirjoitetaan</seg>
+		Hakemisto, josta OmegaT:n kokoonpanotiedostot luetaan tai johon ne kirjoitetaan</seg>
       </tuv>
     </tu>
     <tu>
@@ -802,10 +798,9 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T075450Z" creationid="PiaVee" creationdate="20171015T084748Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T075950Z" creationid="PiaVee" creationdate="20171015T084748Z">
         <seg>--script=&lt;polku&gt;
-		Projektitapahtumissa suoritettava komentosarja-
-		tiedosto</seg>
+		Projektitapahtumissa suoritettava komentosarjatiedosto</seg>
       </tuv>
     </tu>
     <tu>
@@ -1992,10 +1987,10 @@ Nykyinen asetus on {0} MB.</seg>
 	--pseudotranslatetmx=&lt;path&gt;
 		The output pseudotranslated TMX file.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T092022Z" creationid="PiaVee" creationdate="20171015T092022Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T080045Z" creationid="PiaVee" creationdate="20171015T092022Z">
         <seg>Konsolin pseudotranslatetmx-tila:
 	--pseudotranslatetmx=&lt;polku&gt;
-		Tuottaa muka käännetyn TMX-tiedoston.</seg>
+		Tuottaa pseudokäännetyn TMX-tiedoston</seg>
       </tuv>
     </tu>
     <tu>
@@ -7251,8 +7246,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T091545Z" creationid="PiaVee" creationdate="20171015T091545Z">
-        <seg>Warn: Tulostaa virheelliset tägit stdoutiin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T075833Z" creationid="PiaVee" creationdate="20171015T091545Z">
+        <seg>Warn: Tulostaa virheelliset tägit standarditulosteeseen.</seg>
       </tuv>
     </tu>
     <tu>
