@@ -5539,8 +5539,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T080732Z" creationid="PiaVee" creationdate="20171015T094908Z">
-        <seg>Palauta oletus (&amp;F)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T085738Z" creationid="PiaVee" creationdate="20171015T094908Z">
+        <seg>Palauta oletusasetukset (&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
