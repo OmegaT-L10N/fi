@@ -701,11 +701,11 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
 		Source- or target-language tokenizer to use (overrides project
 		settings).</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T084756Z" creationid="PiaVee" creationdate="20171015T084132Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T075302Z" creationid="PiaVee" creationdate="20171015T084132Z">
         <seg>--ITokenizer=&lt;luokan nimi&gt;
 	--ITokenizerTarget=&lt;luokan nimi&gt;
-		Käytettävä lähde- tai kohdekielen saneistin (korvaa projektin
-		asetukset)</seg>
+		Projektissa käytettävä lähde- tai kohdekielen saneistin (korvaa
+		projektin asetukset)</seg>
       </tuv>
     </tu>
     <tu>
@@ -724,9 +724,9 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T083944Z" creationid="PiaVee" creationdate="20171015T083944Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T075013Z" creationid="PiaVee" creationdate="20171015T083944Z">
         <seg>--disable-location-save
-		Älä muista tiedostovalitsimessa viimeksi avattua hakemistoa.</seg>
+		Ei muista viimeksi avattua hakemistoa tiedostovalitsimessa </seg>
       </tuv>
     </tu>
     <tu>
@@ -734,9 +734,9 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T074858Z" creationid="PiaVee" creationdate="20171015T083837Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T074924Z" creationid="PiaVee" creationdate="20171015T083837Z">
         <seg>--disable-project-locking
-		Älä lukitse projektin omegat.project-tiedostoa</seg>
+		Ei lukitse projektin omegat.project-tiedostoa</seg>
       </tuv>
     </tu>
     <tu>
@@ -754,9 +754,9 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
         <seg>--no-team
 		Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T084018Z" creationid="PiaVee" creationdate="20171015T084018Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T075033Z" creationid="PiaVee" creationdate="20171015T084018Z">
         <seg>--no-team
-		Poista ryhmäprojektiominaisuus käytöstä.</seg>
+		Ryhmäprojektiominaisuus pois käytöstä</seg>
       </tuv>
     </tu>
     <tu>
