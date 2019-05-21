@@ -3411,8 +3411,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Floating '?' character not tied to '&gt;'!</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T143713Z" creationid="piav" creationdate="20190521T143713Z">
-        <seg>Kelluva ?-merkki, ei  &gt;-merkkiä!</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T144040Z" creationid="piav" creationdate="20190521T143713Z">
+        <seg>Kelluva ?-merkki, ei  yhteyttä &gt;-merkkiin!</seg>
       </tuv>
     </tu>
     <tu>
