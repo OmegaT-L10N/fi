@@ -734,9 +734,9 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T083837Z" creationid="PiaVee" creationdate="20171015T083837Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T074858Z" creationid="PiaVee" creationdate="20171015T083837Z">
         <seg>--disable-project-locking
-		Älä lukitse projektin omegat.project-tiedostoa.</seg>
+		Älä lukitse projektin omegat.project-tiedostoa</seg>
       </tuv>
     </tu>
     <tu>
@@ -788,11 +788,13 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
 	--config-dir=&lt;path&gt;
 		The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T074526Z" creationid="PiaVee" creationdate="20171015T083757Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T074847Z" creationid="PiaVee" creationdate="20171015T083757Z">
         <seg>--resource-bundle=&lt;polku&gt;
-		Java-ominaisuuksien tiedosto ( .properties) käyttöliittymän tekstiä varten
+		Java-ominaisuuksien tiedosto ( .properties) käyttöliittymän tekstiä
+		varten
 	--config-dir=&lt;polku&gt;
-		Hakemisto, josta tai johon OmegaT:n kokoonpanotiedostot luetaan/kirjoitetaan.</seg>
+		Hakemisto, josta OmegaT:n kokoonpanotiedostot luetaan
+		tai johon ne kirjoitetaan</seg>
       </tuv>
     </tu>
     <tu>
