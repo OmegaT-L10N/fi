@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Bookmarks</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180324Z" creationid="piav" creationdate="20190521T180324Z">
+        <seg>&amp;kirjanmerkit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Browse</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173838Z" creationid="PiaVee" creationdate="20171218T092149Z">
@@ -234,6 +242,14 @@
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T172931Z" creationid="PiaVee" creationdate="20171015T111556Z">
         <seg>&amp;Editori…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Empty lines</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180045Z" creationid="piav" creationdate="20190521T180045Z">
+        <seg>&amp;tyhjä rivi</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Line breaks</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180040Z" creationid="piav" creationdate="20190521T180040Z">
+        <seg>&amp;rivinvaihto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Make the segmentation rules project specific</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173717Z" creationid="PiaVee" creationdate="20171218T091204Z">
@@ -386,6 +410,14 @@
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T171744Z" creationid="PiaVee" creationdate="20171015T111331Z">
         <seg>&amp;Osumatilastot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Never</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180049Z" creationid="piav" creationdate="20190521T180049Z">
+        <seg>&amp;ei koskaan</seg>
       </tuv>
     </tu>
     <tu>
@@ -1541,6 +1573,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T082754Z" creationid="PiaVee" creationdate="20171218T082754Z">
         <seg>Merkkijonoja analysoidaan – {0} / {1} valmiina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Android Resources</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180246Z" creationid="piav" creationdate="20190521T180246Z">
+        <seg>Android Resources</seg>
       </tuv>
     </tu>
     <tu>
@@ -2777,6 +2817,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DocBook</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180150Z" creationid="piav" creationdate="20190521T180150Z">
+        <seg>DocBook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documentation manager</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T083954Z" creationid="PiaVee" creationdate="20171219T083838Z">
@@ -2797,6 +2845,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T110139Z" creationid="PiaVee" creationdate="20171219T110139Z">
         <seg>Onko kansiossa kolme samannimistä tiedostoa, joiden tiedostotunnisteet ovat erilaiset?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DokuWiki</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180250Z" creationid="piav" creationdate="20190521T180250Z">
+        <seg>DokuWiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -3045,6 +3101,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T142830Z" creationid="piav" creationdate="20190521T142830Z">
         <seg>Säännöllisten lausekkeiden avulla korvaamisessa tapahtui virhe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error in file {0}, line {1}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180148Z" creationid="piav" creationdate="20190521T180148Z">
+        <seg>Virhe tiedostossa {0} rivillä {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4082,6 +4146,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Infix</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180123Z" creationid="piav" creationdate="20190521T180123Z">
+        <seg>Infix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T093911Z" creationid="PiaVee" creationdate="20171015T093911Z">
@@ -4770,6 +4842,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Line length:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180056Z" creationid="piav" creationdate="20190521T180056Z">
+        <seg>Rivin pituus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lingala</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174815Z" creationid="PiaVee" creationdate="20171014T174815Z">
@@ -5046,6 +5126,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090424Z" creationid="PiaVee" creationdate="20171218T090424Z">
         <seg>Osumatilastot per tiedosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maximum line length:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180106Z" creationid="piav" creationdate="20190521T180106Z">
+        <seg>Pisin rivin pituus:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5714,6 +5802,22 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072837Z" creationid="PiaVee" creationdate="20171218T072837Z">
         <seg>Avaa {0} kohdetiedoston sijainnit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenDocument</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180253Z" creationid="piav" creationdate="20190521T180253Z">
+        <seg>OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenDocument Filter Options</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180305Z" creationid="piav" creationdate="20190521T180305Z">
+        <seg>OpenDocument-suodattimen asetukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -6531,6 +6635,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ResX</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180112Z" creationid="piav" creationdate="20190521T180112Z">
+        <seg>ResX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T170016Z" creationid="PiaVee" creationdate="20171015T094908Z">
@@ -6745,6 +6857,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081406Z" creationid="PiaVee" creationdate="20171015T081406Z">
         <seg>gaeli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scribus</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180130Z" creationid="piav" creationdate="20190521T180130Z">
+        <seg>Scribus</seg>
       </tuv>
     </tu>
     <tu>
@@ -7345,6 +7465,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T082310Z" creationid="PiaVee" creationdate="20170910T082245Z">
         <seg>Poista tägit nykyisestä segmentistä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SubRip Subtitles</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180212Z" creationid="piav" creationdate="20190521T180212Z">
+        <seg>SubRip-tekstitys</seg>
       </tuv>
     </tu>
     <tu>
@@ -8090,6 +8218,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translate the following elements:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180312Z" creationid="piav" creationdate="20190521T180312Z">
+        <seg>Käännä seuraavat elementit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translate this file in OmegaT in the usual way.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T160323Z" creationid="PiaVee" creationdate="20171014T160253Z">
@@ -8628,6 +8764,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Visio</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180127Z" creationid="piav" creationdate="20190521T180127Z">
+        <seg>Visio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Vito Smolej</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T061147Z" creationid="PiaVee" creationdate="20170930T061147Z">
@@ -8680,6 +8824,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124921Z" creationid="PiaVee" creationdate="20170908T124921Z">
         <seg>Etsimääsi sivua ei löytynyt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WebVTT Subtitles</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180240Z" creationid="piav" creationdate="20190521T180240Z">
+        <seg>WebVTT-tekstitys</seg>
       </tuv>
     </tu>
     <tu>
@@ -8790,6 +8942,22 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Wordfast TXML</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180126Z" creationid="piav" creationdate="20190521T180126Z">
+        <seg>Wordfast TXML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wordpress</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180129Z" creationid="piav" creationdate="20190521T180129Z">
+        <seg>Wordpress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Words</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T085932Z" creationid="PiaVee" creationdate="20171218T085932Z">
@@ -8826,6 +8994,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T133828Z" creationid="piav" creationdate="20190521T133828Z">
         <seg>Annettua kirjoituskelpoisen sanaston kansiota ei ole!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XLIFF</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180111Z" creationid="piav" creationdate="20190521T180111Z">
+        <seg>XLIFF</seg>
       </tuv>
     </tu>
     <tu>
@@ -8931,6 +9107,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T132041Z" creationid="piav" creationdate="20190521T132041Z">
         <seg>Osoita niiden uusi sijainti tai luo ne uudestaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>YouTube Subtitles</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180230Z" creationid="piav" creationdate="20190521T180230Z">
+        <seg>YouTube-tekstitys</seg>
       </tuv>
     </tu>
     <tu>
