@@ -152,8 +152,8 @@
       <tuv lang="EN">
         <seg>&amp;Back in History</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T094757Z" creationid="PiaVee" creationdate="20171015T110620Z">
-        <seg>Siirry historiassa taaksepäin (&amp;B)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171633Z" creationid="PiaVee" creationdate="20171015T110620Z">
+        <seg>Siirry historiassa &amp;taaksepäin</seg>
       </tuv>
     </tu>
     <tu>
@@ -288,8 +288,8 @@
       <tuv lang="EN">
         <seg>&amp;Forward in History</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T094752Z" creationid="PiaVee" creationdate="20171015T110607Z">
-        <seg>Siirry historiassa eteenpäin (&amp;F)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171614Z" creationid="PiaVee" creationdate="20171015T110607Z">
+        <seg>Siirry historiassa &amp;eteenpäin</seg>
       </tuv>
     </tu>
     <tu>
@@ -440,8 +440,8 @@
       <tuv lang="EN">
         <seg>&amp;Previous Segment</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T094722Z" creationid="PiaVee" creationdate="20171015T110538Z">
-        <seg>Edellinen segmentti (&amp;P)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171420Z" creationid="PiaVee" creationdate="20171015T110538Z">
+        <seg>&amp;Edelliseen segmenttiin</seg>
       </tuv>
     </tu>
     <tu>
@@ -592,8 +592,8 @@
       <tuv lang="EN">
         <seg>&amp;Segment Number...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T094747Z" creationid="PiaVee" creationdate="20171015T110554Z">
-        <seg>Segmentti nro… (&amp;S)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171521Z" creationid="PiaVee" creationdate="20171015T110554Z">
+        <seg>Segmenttiin &amp;nro…</seg>
       </tuv>
     </tu>
     <tu>
@@ -5100,16 +5100,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T094715Z" creationid="PiaVee" creationdate="20171015T110530Z">
-        <seg>Seuraava käännetty segmentti (&amp;T)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171404Z" creationid="PiaVee" creationdate="20171015T110530Z">
+        <seg>Seuraavaan &amp;käännettyyn segmenttiin</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Next &amp;Untranslated Segment</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T094710Z" creationid="PiaVee" creationdate="20171015T110522Z">
-        <seg>Seuraava kääntämätön segmentti (&amp;U)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171607Z" creationid="PiaVee" creationdate="20171015T110522Z">
+        <seg>Seuraavaan k&amp;ääntämättömään segmenttiin</seg>
       </tuv>
     </tu>
     <tu>
@@ -5869,8 +5869,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Previous No&amp;te</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T094727Z" creationid="PiaVee" creationdate="20171015T110546Z">
-        <seg>Edellinen muistiinpano (&amp;T)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171435Z" creationid="PiaVee" creationdate="20171015T110546Z">
+        <seg>E&amp;delliseen muistiinpanoon</seg>
       </tuv>
     </tu>
     <tu>
