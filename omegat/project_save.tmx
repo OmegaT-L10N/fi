@@ -774,10 +774,9 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T083243Z" creationid="PiaVee" creationdate="20171015T083243Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T073321Z" creationid="PiaVee" creationdate="20171015T083243Z">
         <seg>--remote-project
-		Noutaa omegat.project-tiedoston &lt;projektipolku&gt;-kohdassa annetusta osoitteesta
-		ja lataa projektin.</seg>
+		Noutaa omegat.project-tiedoston &lt;projektipolku&gt;-kohdassa annetusta osoitteesta ja lataa projektin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -819,9 +818,9 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T092640Z" creationid="PiaVee" creationdate="20171015T083049Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T073613Z" creationid="PiaVee" creationdate="20171015T083049Z">
         <seg>-h, --help
-		Näyttää tietoa käytöstä.</seg>
+		Näyttää tarkempaa tietoa käytöstä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4907,12 +4906,12 @@ Nykyinen asetus on {0} MB.</seg>
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T073052Z" creationid="PiaVee" creationdate="20171015T082944Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T073216Z" creationid="PiaVee" creationdate="20171015T082944Z">
         <seg>Valinnat:
-	Ei mitään: GUI:n käynnistys
-	Ainoastaan projektipolku: Käynnistää GUI:n ja lataa kyseisen projektin
+	Ei mitään: Käynnistä GUI
+	Ainoastaan projektipolku: Käynnistä GUI, lataa kyseinen projekti 
 	team
-		Ryhmäprojektin työkalu.</seg>
+		Ryhmäprojektin työkalu</seg>
       </tuv>
     </tu>
     <tu>
