@@ -5974,8 +5974,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Show English Version</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T093756Z" creationid="PiaVee" creationdate="20171219T093756Z">
-        <seg>[fuzzy]Englanninkielisen version kääntäjät</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T072118Z" creationid="PiaVee" creationdate="20171219T093756Z">
+        <seg>Näytä englanninkielinen versio</seg>
       </tuv>
     </tu>
     <tu>
@@ -6681,6 +6681,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T122810Z" creationid="PiaVee" creationdate="20171218T122045Z">
         <seg>Tässä kuvataan lyhyesti, kuinka muokkausruudussa käytettävät näppäimet ja näppäinyhdistelmät toimivat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This site is also available in English!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T072202Z" creationid="piav" creationdate="20190521T072202Z">
+        <seg>Tämän sivun voi lukea myös englanniksi!</seg>
       </tuv>
     </tu>
     <tu>
