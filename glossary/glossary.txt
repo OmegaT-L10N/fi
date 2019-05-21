@@ -665,3 +665,4 @@ auto-completer	automaattin korvau	> automaattinen korvaus
 auto-completer	automaattisen korvauksen valintaikkuna
 auto-text entries	autom. tekstikohdat
 Java .properties file	Java-ominaisuuksien tiedosto (.properties)
+stdout	stdout-tuloste
