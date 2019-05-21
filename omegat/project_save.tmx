@@ -774,9 +774,10 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T073321Z" creationid="PiaVee" creationdate="20171015T083243Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T073719Z" creationid="PiaVee" creationdate="20171015T083243Z">
         <seg>--remote-project
-		Noutaa omegat.project-tiedoston &lt;projektipolku&gt;-kohdassa annetusta osoitteesta ja lataa projektin.</seg>
+		Noutaa omegat.project-tiedoston &lt;projektipolku&gt;-
+		-kohdassa annetusta osoitteesta ja lataa projektin.</seg>
       </tuv>
     </tu>
     <tu>
