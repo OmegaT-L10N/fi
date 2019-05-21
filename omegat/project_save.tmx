@@ -2215,8 +2215,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Confused by false start of comment tag!</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T143251Z" creationid="piav" creationdate="20190521T143251Z">
-        <seg>Väärä alku tai kommenttitägi hämmentää!</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T144055Z" creationid="piav" creationdate="20190521T143251Z">
+        <seg>Väärä alku- tai kommenttitägi aiheuttaa hämmennystä!</seg>
       </tuv>
     </tu>
     <tu>
