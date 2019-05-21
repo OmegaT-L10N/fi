@@ -713,9 +713,9 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T083629Z" creationid="PiaVee" creationdate="20171015T083552Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T073951Z" creationid="PiaVee" creationdate="20171015T083552Z">
         <seg>--config-file=&lt;polku&gt;
-		Java .properties-tiedosto (ominaisuudet) oletusasetuksien lataamiseksi.</seg>
+		Java-ominaisuuksien tiedosto (.properties), josta oletusasetukset ladataan</seg>
       </tuv>
     </tu>
     <tu>
@@ -743,8 +743,8 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T083314Z" creationid="PiaVee" creationdate="20171015T083314Z">
-        <seg>--tila=[console-translate|console-pseudotranslatetmx|console-align]
+      <tuv lang="FI" changeid="piav" changedate="20190521T073729Z" creationid="PiaVee" creationdate="20171015T083314Z">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Määrittelee muun kuin oletustilan (GUI).</seg>
       </tuv>
     </tu>
