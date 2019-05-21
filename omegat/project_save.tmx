@@ -344,8 +344,8 @@
       <tuv lang="EN">
         <seg>&amp;Make the segmentation rules project specific</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091204Z" creationid="PiaVee" creationdate="20171218T091204Z">
-        <seg>&amp;Tee segmentointisäännöistä projektikohtaiset</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131230Z" creationid="PiaVee" creationdate="20171218T091204Z">
+        <seg>Tee segmentointisäännöistä projektikohtaiset (&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
@@ -584,8 +584,8 @@
       <tuv lang="EN">
         <seg>&amp;Source Files Language:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091337Z" creationid="PiaVee" creationdate="20171218T091324Z">
-        <seg>&amp;Lähdetiedostojen kieli:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131243Z" creationid="PiaVee" creationdate="20171218T091324Z">
+        <seg>Lähdetiedostojen kieli (&amp;S):</seg>
       </tuv>
     </tu>
     <tu>
@@ -1705,8 +1705,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T090414Z" creationid="PiaVee" creationdate="20171218T090414Z">
-        <seg>K&amp;opioi kaikki tiedot leikepöydälle</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131135Z" creationid="PiaVee" creationdate="20171218T090414Z">
+        <seg>Kopioi kaikki tiedot leikepöydälle (&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2585,8 +2585,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>E&amp;nable Sentence-level Segmenting</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091125Z" creationid="PiaVee" creationdate="20171218T091033Z">
-        <seg>Käytä &amp;lausetason segmentointia</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131212Z" creationid="PiaVee" creationdate="20171218T091033Z">
+        <seg>Käytä lausetason segmentointia (&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
