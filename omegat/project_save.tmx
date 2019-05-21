@@ -4266,6 +4266,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyword searches are not available in the search string.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T141636Z" creationid="piav" creationdate="20190521T141636Z">
+        <seg>Hakulausekkeessa ei voi käyttää avainsanahakua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T140325Z" creationid="piav" creationdate="20190521T140325Z">
@@ -8224,6 +8232,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T150538Z" creationid="PiaVee" creationdate="20171014T150538Z">
         <seg>Vie osoitin alleviivatun lausekkeen yläpuolelle, niin saat näkyviin selityksen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T142032Z" creationid="piav" creationdate="20190521T142032Z">
+        <seg>Tekstin korvaamisessa voi käyttää säännöllisiä lausekkeita, jolloin korvattavassa tekstissä voi viitata hakulausekkeessa määriteltyihin ryhmiin.</seg>
       </tuv>
     </tu>
     <tu>
