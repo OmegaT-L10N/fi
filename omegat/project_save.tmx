@@ -3017,8 +3017,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T125024Z" creationid="PiaVee" creationdate="20171015T124943Z">
-        <seg>Tiedosto: käännetty / segmenttimäärä (projekti: uniikkeja käännettyjä / uniikkeja yhteensä, segmenttejä kaikkiaan)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T102442Z" creationid="PiaVee" creationdate="20171015T124943Z">
+        <seg>Tiedosto: käännetty / segmenttejä (projekti: uniikkeja käännettyjä / uniikkeja yhteensä, segmenttejä kaikkiaan)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3842,8 +3842,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Jumping to last edited segment...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T125202Z" creationid="PiaVee" creationdate="20171015T125202Z">
-        <seg>Siirtymässä viimeksi muokattuun segmenttiin...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T102457Z" creationid="PiaVee" creationdate="20171015T125202Z">
+        <seg>Siirtymässä viimeksi muokattuun segmenttiin…</seg>
       </tuv>
     </tu>
     <tu>
