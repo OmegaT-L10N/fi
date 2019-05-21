@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Files</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T135300Z" creationid="piav" creationdate="20190521T135300Z">
+        <seg>Tiedostot (&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Filter</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103025Z" creationid="PiaVee" creationdate="20171015T094308Z">
@@ -322,6 +330,14 @@
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T101007Z" creationid="PiaVee" creationdate="20171218T072118Z">
         <seg>Ohita osumat, jos isoja kirjaimia käytetään eri tavoin (esim. FOO ja foo) (&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;In translation</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T135113Z" creationid="piav" creationdate="20190521T135113Z">
+        <seg>Käännöksessä (&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,6 +666,14 @@
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T094813Z" creationid="PiaVee" creationdate="20171015T110910Z">
         <seg>Työkalut (&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Translated</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T135047Z" creationid="piav" creationdate="20190521T135047Z">
+        <seg>Käännetty (&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2591,6 +2615,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T135230Z" creationid="piav" creationdate="20190521T135230Z">
+        <seg>Näytä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Distribution and modifications</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T132639Z" creationid="PiaVee" creationdate="20171014T132639Z">
@@ -3768,6 +3800,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In so&amp;urce</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T135118Z" creationid="piav" creationdate="20190521T135103Z">
+        <seg>Lähtötekstissä (&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In that dialog, it's possible to select All domains or a specific one.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T120108Z" creationid="PiaVee" creationdate="20171014T120108Z">
@@ -4544,6 +4584,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T135249Z" creationid="piav" creationdate="20190521T135249Z">
+        <seg>Sijainti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Longman Dictionary of Contemporary English</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T102704Z" creationid="PiaVee" creationdate="20171219T102704Z">
@@ -4732,6 +4780,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090424Z" creationid="PiaVee" creationdate="20171218T090424Z">
         <seg>Osumatilastot per tiedosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T135036Z" creationid="piav" creationdate="20190521T135036Z">
+        <seg>Muisti (&amp;Y)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5601,6 +5657,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T135308Z" creationid="piav" creationdate="20190521T135308Z">
+        <seg>Projekti (&amp;J)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Problem encountered loading project file!</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T084755Z" creationid="PiaVee" creationdate="20171218T084755Z">
@@ -5749,6 +5813,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T093643Z" creationid="PiaVee" creationdate="20171015T103633Z">
         <seg>Korvaa lähteellä (&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recursi&amp;ve search</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T135735Z" creationid="piav" creationdate="20190521T135735Z">
+        <seg>Rekursiivinen haku (&amp;V)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6429,6 +6501,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T093752Z" creationid="PiaVee" creationdate="20171015T104001Z">
         <seg>Valitse edellinen osuma (&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Fol&amp;der</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T135255Z" creationid="piav" creationdate="20190521T135255Z">
+        <seg>Valitse kansio (&amp;D)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7452,6 +7532,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Trans&amp;lated or untranslated</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T135219Z" creationid="piav" creationdate="20190521T135219Z">
+        <seg>Käännetty tai kääntämättä (&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TransTips</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T122144Z" creationid="PiaVee" creationdate="20171015T122144Z">
@@ -7592,6 +7680,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T132523Z" creationid="piav" creationdate="20190521T132523Z">
         <seg>Tyyppi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>U&amp;ntranslated</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T135151Z" creationid="piav" creationdate="20190521T135056Z">
+        <seg>Kääntämättä (&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8293,6 +8389,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>all matching segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T135242Z" creationid="piav" creationdate="20190521T135242Z">
+        <seg>kaikki osuvat segmentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>am</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173500Z" creationid="PiaVee" creationdate="20171014T173500Z">
@@ -8961,6 +9065,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174101Z" creationid="PiaVee" creationdate="20171014T174101Z">
         <seg>fij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>file names</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T135246Z" creationid="piav" creationdate="20190521T135246Z">
+        <seg>tiedostonimet</seg>
       </tuv>
     </tu>
     <tu>
