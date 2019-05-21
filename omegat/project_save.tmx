@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Endnotes</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180811Z" creationid="piav" creationdate="20190521T180811Z">
+        <seg>&amp;Loppuviitteet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Exact search</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173921Z" creationid="piav" creationdate="20190521T134350Z">
@@ -314,6 +322,14 @@
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T170053Z" creationid="PiaVee" creationdate="20171015T095005Z">
         <seg>&amp;Korjaa kaikki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Footnotes</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180807Z" creationid="piav" creationdate="20190521T180807Z">
+        <seg>&amp;Alaviitteet</seg>
       </tuv>
     </tu>
     <tu>
@@ -1489,6 +1505,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About OmegaT</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180937Z" creationid="piav" creationdate="20190521T180937Z">
+        <seg>Tietoa OmegaT:stä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173443Z" creationid="PiaVee" creationdate="20171015T123005Z">
@@ -2253,6 +2277,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173618Z" creationid="PiaVee" creationdate="20171218T072609Z">
         <seg>&amp;Sulje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Co&amp;mments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180801Z" creationid="piav" creationdate="20190521T180801Z">
+        <seg>&amp;Kommentit</seg>
       </tuv>
     </tu>
     <tu>
@@ -3257,6 +3289,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Excel</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180844Z" creationid="piav" creationdate="20190521T180844Z">
+        <seg>Excel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Except one: check &lt;e0&gt;Untranslated&lt;/e0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T114659Z" creationid="PiaVee" creationdate="20171014T101015Z">
@@ -3609,6 +3649,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Foote&amp;rs</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180841Z" creationid="piav" creationdate="20190521T180841Z">
+        <seg>Alatunnistee&amp;t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For all files:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090838Z" creationid="PiaVee" creationdate="20171218T090838Z">
@@ -3821,6 +3869,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174226Z" creationid="PiaVee" creationdate="20171014T174226Z">
         <seg>hausa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>He&amp;aders</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180825Z" creationid="piav" creationdate="20190521T180825Z">
+        <seg>&amp;Ylätunnisteet</seg>
       </tuv>
     </tu>
     <tu>
@@ -5226,6 +5282,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Open XML</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180643Z" creationid="piav" creationdate="20190521T180643Z">
+        <seg>Microsoft Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mini-review of OmegaT, 2012.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T095149Z" creationid="PiaVee" creationdate="20171219T095149Z">
@@ -5450,6 +5514,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124335Z" creationid="PiaVee" creationdate="20170908T124247Z">
         <seg>Sitova välilyönti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-visible Instruction Te&amp;xt</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180757Z" creationid="piav" creationdate="20190521T180757Z">
+        <seg>Näkymätön &amp;ohjeteksti</seg>
       </tuv>
     </tu>
     <tu>
@@ -5734,6 +5806,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT version {0} ({1})</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180911Z" creationid="piav" creationdate="20190521T180911Z">
+        <seg>OmegaT-versio {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT version {0}, update {1} ({2})</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180925Z" creationid="piav" creationdate="20190521T180925Z">
+        <seg>OmegaT-versio {0}, päivitys {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will not launch if tokenizers are found in the /plugin folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T154350Z" creationid="PiaVee" creationdate="20171014T154350Z">
@@ -5826,6 +5914,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072826Z" creationid="PiaVee" creationdate="20171218T072826Z">
         <seg>Avaa kohdetiedoston sijainti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open XML Filter Options</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180736Z" creationid="piav" creationdate="20190521T180736Z">
+        <seg>Open XML -suodattimen asetukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -9018,6 +9114,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082257Z" creationid="PiaVee" creationdate="20171015T082257Z">
         <seg>wolof</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180737Z" creationid="piav" creationdate="20190521T180737Z">
+        <seg>Word</seg>
       </tuv>
     </tu>
     <tu>
