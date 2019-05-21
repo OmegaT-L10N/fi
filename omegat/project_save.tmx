@@ -4537,10 +4537,10 @@ Nykyinen asetus on {0} MB.</seg>
 	--quiet
 		Reduce output to command line stdout.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T084805Z" creationid="PiaVee" creationdate="20171015T084702Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T075813Z" creationid="PiaVee" creationdate="20171015T084702Z">
         <seg>Asetukset muuta kuin GUI-tilaa varten:
 	--quiet
-		Tuottaa ainoastaan komentorivin stdoutin.</seg>
+		Tuottaa ainoastaan komentorivin standarditulosteen (stdout).</seg>
       </tuv>
     </tu>
     <tu>
