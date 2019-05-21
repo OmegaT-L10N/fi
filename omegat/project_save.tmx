@@ -232,8 +232,8 @@
       <tuv lang="EN">
         <seg>&amp;Editor...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T100823Z" creationid="PiaVee" creationdate="20171015T111556Z">
-        <seg>Muokkain… (&amp;E)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T142240Z" creationid="PiaVee" creationdate="20171015T111556Z">
+        <seg>Editori… (&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1545,6 +1545,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-sync with Editor</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T142229Z" creationid="piav" creationdate="20190521T142229Z">
+        <seg>Automaattinen synkronisointi editorissa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Avaric</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173531Z" creationid="PiaVee" creationdate="20171014T173531Z">
@@ -1581,6 +1589,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T131658Z" creationid="piav" creationdate="20190521T131658Z">
         <seg>Selaa (&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Back to the initial segment on close</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T142312Z" creationid="piav" creationdate="20190521T142312Z">
+        <seg>Sulje ja palaa takaisin alkuperäiseen segmenttiin</seg>
       </tuv>
     </tu>
     <tu>
@@ -3021,6 +3037,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T133127Z" creationid="piav" creationdate="20190521T133103Z">
         <seg>Älä sisällytä kuviota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exclude orphan segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T142413Z" creationid="piav" creationdate="20190521T142413Z">
+        <seg>Älä sisällytä yksinäisiä segmenttejä</seg>
       </tuv>
     </tu>
     <tu>
@@ -7968,6 +7992,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T092613Z" creationid="PiaVee" creationdate="20171015T092456Z">
         <seg>Käyttö: java -jar OmegaT.jar team &lt;komento&gt; [&lt;asetukset&gt;]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T142111Z" creationid="piav" creationdate="20190521T142111Z">
+        <seg>Käytä merkintää $n viittaamaan n:nteen ryhmään.</seg>
       </tuv>
     </tu>
     <tu>
