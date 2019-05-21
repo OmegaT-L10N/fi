@@ -676,3 +676,6 @@ Glossary files folder	sanastojen kansio
 Writeable glossary file folder	kirjoituskelpoisen sanaston kansio
 Writeable glossary	kirjoituskelpoinen sanasto
 Dictionary files folder	Sanakirjojen kansio
+An error occurred	tapahtui virhe	An error occurred while B-ing --> B:ssä tapahtui virhe
+Regular expressions	Säännölliset lausekkeet
+Regular expression	Säännöllinen lauseke	EI: säännönMUKAINEN lauseke
