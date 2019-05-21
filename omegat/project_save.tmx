@@ -256,8 +256,8 @@
       <tuv lang="EN">
         <seg>&amp;Files</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T135300Z" creationid="piav" creationdate="20190521T135300Z">
-        <seg>Tiedostot (&amp;F)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174612Z" creationid="piav" creationdate="20190521T135300Z">
+        <seg>&amp;Tiedostot</seg>
       </tuv>
     </tu>
     <tu>
@@ -336,8 +336,8 @@
       <tuv lang="EN">
         <seg>&amp;In translation</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T135113Z" creationid="piav" creationdate="20190521T135113Z">
-        <seg>Käännöksessä (&amp;I)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174528Z" creationid="piav" creationdate="20190521T135113Z">
+        <seg>&amp;Käännöksessä</seg>
       </tuv>
     </tu>
     <tu>
@@ -528,8 +528,8 @@
       <tuv lang="EN">
         <seg>&amp;Reset Options</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T143053Z" creationid="piav" creationdate="20190521T143053Z">
-        <seg>Nollaa asetukset (&amp;R)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174654Z" creationid="piav" creationdate="20190521T143053Z">
+        <seg>&amp;Nollaa asetukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -584,8 +584,8 @@
       <tuv lang="EN">
         <seg>&amp;Search for Selection</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T143037Z" creationid="piav" creationdate="20190521T143037Z">
-        <seg>Etsi valintaa (&amp;S)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174648Z" creationid="piav" creationdate="20190521T143037Z">
+        <seg>Etsi &amp;valintaa</seg>
       </tuv>
     </tu>
     <tu>
@@ -688,8 +688,8 @@
       <tuv lang="EN">
         <seg>&amp;Translated</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T174446Z" creationid="piav" creationdate="20190521T135047Z">
-        <seg>&amp;Käännetty</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174514Z" creationid="piav" creationdate="20190521T135047Z">
+        <seg>Käännetty</seg>
       </tuv>
     </tu>
     <tu>
@@ -754,10 +754,26 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(close tag)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174711Z" creationid="piav" creationdate="20190521T174711Z">
+        <seg>(lopputägi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(comment tag)</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T143259Z" creationid="piav" creationdate="20190521T143259Z">
         <seg>(kommenttitägi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(empty tag)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174705Z" creationid="piav" creationdate="20190521T174705Z">
+        <seg>(tyhjä tägi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3353,6 +3369,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File {0} does not exist!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174804Z" creationid="piav" creationdate="20190521T174804Z">
+        <seg>Tiedostoa {0} ei ole!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File {0}: {1}</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090828Z" creationid="PiaVee" creationdate="20171218T090828Z">
@@ -3964,8 +3988,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>In so&amp;urce</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T135118Z" creationid="piav" creationdate="20190521T135103Z">
-        <seg>Lähtötekstissä (&amp;U)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174522Z" creationid="piav" creationdate="20190521T135103Z">
+        <seg>&amp;Lähtötekstissä</seg>
       </tuv>
     </tu>
     <tu>
@@ -5885,8 +5909,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Pro&amp;ject</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T135308Z" creationid="piav" creationdate="20190521T135308Z">
-        <seg>Projekti (&amp;J)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174616Z" creationid="piav" creationdate="20190521T135308Z">
+        <seg>&amp;Projekti</seg>
       </tuv>
     </tu>
     <tu>
@@ -6053,8 +6077,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Recursi&amp;ve search</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T135735Z" creationid="piav" creationdate="20190521T135735Z">
-        <seg>Rekursiivinen haku (&amp;V)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174622Z" creationid="piav" creationdate="20190521T135735Z">
+        <seg>&amp;Rekursiivinen haku</seg>
       </tuv>
     </tu>
     <tu>
@@ -6767,8 +6791,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Select Fol&amp;der</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T135255Z" creationid="piav" creationdate="20190521T135255Z">
-        <seg>Valitse kansio (&amp;D)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174607Z" creationid="piav" creationdate="20190521T135255Z">
+        <seg>Valitse &amp;kansio</seg>
       </tuv>
     </tu>
     <tu>
@@ -7265,8 +7289,8 @@ Tekstin korvaus tapahtuu projektin lähtökielisissä segmenteissäriippumatta s
       <tuv lang="EN">
         <seg>Text Search</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T135738Z" creationid="piav" creationdate="20190521T135738Z">
-        <seg>Tekstihaku</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174626Z" creationid="piav" creationdate="20190521T135738Z">
+        <seg>T&amp;ekstihaku</seg>
       </tuv>
     </tu>
     <tu>
@@ -7828,8 +7852,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>Trans&amp;lated or untranslated</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T135219Z" creationid="piav" creationdate="20190521T135219Z">
-        <seg>Käännetty tai kääntämättä (&amp;L)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174558Z" creationid="piav" creationdate="20190521T135219Z">
+        <seg>Käännetty tai kääntämättä</seg>
       </tuv>
     </tu>
     <tu>
@@ -8056,6 +8080,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T143124Z" creationid="piav" creationdate="20190521T143124Z">
         <seg>XML-tiedoston luvun alustus ei onnistu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to read file</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174838Z" creationid="piav" creationdate="20190521T174838Z">
+        <seg>Tiedoston lukeminen ei onnistu</seg>
       </tuv>
     </tu>
     <tu>
@@ -8819,6 +8851,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173529Z" creationid="PiaVee" creationdate="20171014T173529Z">
         <seg>asm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>attributes.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174731Z" creationid="piav" creationdate="20190521T174731Z">
+        <seg>attribuutteja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10341,6 +10381,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174821Z" creationid="PiaVee" creationdate="20171014T174821Z">
         <seg>lo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>loaded</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174715Z" creationid="piav" creationdate="20190521T174715Z">
+        <seg>ladattu</seg>
       </tuv>
     </tu>
     <tu>
