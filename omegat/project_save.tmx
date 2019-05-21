@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Exact search</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T134350Z" creationid="piav" creationdate="20190521T134350Z">
+        <seg>Täsmällinen haku (&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Filter</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103025Z" creationid="PiaVee" creationdate="20171015T094308Z">
@@ -330,6 +338,14 @@
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T093612Z" creationid="PiaVee" creationdate="20171015T103546Z">
         <seg>Lisää osuma tai valinta (&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Keyword search</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T134341Z" creationid="piav" creationdate="20190521T134341Z">
+        <seg>Avainsanahaku (&amp;K)</seg>
       </tuv>
     </tu>
     <tu>
@@ -442,6 +458,14 @@
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T093554Z" creationid="PiaVee" creationdate="20171015T103506Z">
         <seg>Toista viime toiminto (&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Regular expressions</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T134512Z" creationid="piav" creationdate="20190521T134512Z">
+        <seg>Säännölliset lausekkeet (&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1411,6 +1435,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173459Z" creationid="PiaVee" creationdate="20171014T173459Z">
         <seg>amhara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while trying to create a new folder</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T134305Z" creationid="piav" creationdate="20190521T134305Z">
+        <seg>Uuden kansion luonnissa tapahtui virhe</seg>
       </tuv>
     </tu>
     <tu>
@@ -3171,6 +3203,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174103Z" creationid="PiaVee" creationdate="20171014T174103Z">
         <seg>suomi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Folder already exists and is not empty.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T134132Z" creationid="piav" creationdate="20190521T134132Z">
+        <seg>Kansio on jo olemassa eikä se ole tyhjä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5012,6 +5052,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT does not have read and write permissions to this folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T134211Z" creationid="piav" creationdate="20190521T134211Z">
+        <seg>OmegaT:llä ei ole luku- ja kirjoitusoikeuksia tähän kansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T135120Z" creationid="PiaVee" creationdate="20171014T134834Z">
@@ -5397,6 +5445,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T091313Z" creationid="PiaVee" creationdate="20170910T090316Z">
         <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select a different folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T134138Z" creationid="piav" creationdate="20190521T134138Z">
+        <seg>Valitse toinen kansio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5865,6 +5921,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T134319Z" creationid="piav" creationdate="20190521T134319Z">
+        <seg>Korvaa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repository</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T132939Z" creationid="piav" creationdate="20190521T132939Z">
@@ -6149,6 +6213,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T101449Z" creationid="PiaVee" creationdate="20171219T101449Z">
         <seg>Etsi tarvittua kieliyhdistelmää esimerkiksi &lt;u0&gt;&lt;i1/&gt;OmegaT-wikin sanakirjalinkkien&lt;/u0&gt; avulla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search for:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T134317Z" creationid="piav" creationdate="20190521T134311Z">
+        <seg>Etsi:</seg>
       </tuv>
     </tu>
     <tu>
