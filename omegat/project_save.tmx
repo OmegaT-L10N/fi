@@ -208,8 +208,8 @@
       <tuv lang="EN">
         <seg>&amp;Dictionaries</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T170538Z" creationid="PiaVee" creationdate="20171015T102701Z">
-        <seg>&amp;Sanakirjat</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T172514Z" creationid="PiaVee" creationdate="20171015T102701Z">
+        <seg>S&amp;anakirjat</seg>
       </tuv>
     </tu>
     <tu>
@@ -296,8 +296,8 @@
       <tuv lang="EN">
         <seg>&amp;Glossaries</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T170543Z" creationid="PiaVee" creationdate="20171015T102704Z">
-        <seg>S&amp;anastot</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T172517Z" creationid="PiaVee" creationdate="20171015T102704Z">
+        <seg>&amp;Sanastot</seg>
       </tuv>
     </tu>
     <tu>
@@ -3747,8 +3747,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>I&amp;nsert Source</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T170951Z" creationid="PiaVee" creationdate="20171015T103618Z">
-        <seg>Lisää &amp;lähde</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T172558Z" creationid="PiaVee" creationdate="20171015T103618Z">
+        <seg>&amp;Lisää lähde</seg>
       </tuv>
     </tu>
     <tu>
@@ -4052,8 +4052,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103720Z" creationid="PiaVee" creationdate="20171015T103720Z">
-        <seg>Lisää seuraava puuttuva tägi</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T172618Z" creationid="PiaVee" creationdate="20171015T103720Z">
+        <seg>Lisää &amp;seuraava puuttuva tägi</seg>
       </tuv>
     </tu>
     <tu>
@@ -6045,8 +6045,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Re&amp;place with Source</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T170958Z" creationid="PiaVee" creationdate="20171015T103633Z">
-        <seg>Korvaa lä&amp;hteellä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T172601Z" creationid="PiaVee" creationdate="20171015T103633Z">
+        <seg>&amp;Korvaa lähteellä</seg>
       </tuv>
     </tu>
     <tu>
