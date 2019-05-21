@@ -104,8 +104,8 @@
       <tuv lang="EN">
         <seg>&amp;Align Files...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T100047Z" creationid="PiaVee" creationdate="20171015T111355Z">
-        <seg>Kohdista tiedostoja… (&amp;A)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171755Z" creationid="PiaVee" creationdate="20171015T111355Z">
+        <seg>&amp;Kohdista tiedostoja…</seg>
       </tuv>
     </tu>
     <tu>
@@ -384,8 +384,8 @@
       <tuv lang="EN">
         <seg>&amp;Match Statistics</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T094837Z" creationid="PiaVee" creationdate="20171015T111331Z">
-        <seg>Osumatilastot (&amp;M)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171744Z" creationid="PiaVee" creationdate="20171015T111331Z">
+        <seg>&amp;Osumatilastot</seg>
       </tuv>
     </tu>
     <tu>
@@ -424,8 +424,8 @@
       <tuv lang="EN">
         <seg>&amp;Options</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T100704Z" creationid="PiaVee" creationdate="20171015T111221Z">
-        <seg>Asetukset (&amp;O)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171808Z" creationid="PiaVee" creationdate="20171015T111221Z">
+        <seg>&amp;Asetukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -656,8 +656,8 @@
       <tuv lang="EN">
         <seg>&amp;Statistics</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T094833Z" creationid="PiaVee" creationdate="20171015T111322Z">
-        <seg>Tilastot (&amp;S)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171739Z" creationid="PiaVee" creationdate="20171015T111322Z">
+        <seg>T&amp;ilastot</seg>
       </tuv>
     </tu>
     <tu>
@@ -2035,16 +2035,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Check &amp;Issues...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T094822Z" creationid="PiaVee" creationdate="20171015T111247Z">
-        <seg>Tarkista… (&amp;I)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171721Z" creationid="PiaVee" creationdate="20171015T111247Z">
+        <seg>&amp;Tarkista…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T094830Z" creationid="PiaVee" creationdate="20171015T111303Z">
-        <seg>Tarkista nykyinen asiakirja… (&amp;C)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171727Z" creationid="PiaVee" creationdate="20171015T111303Z">
+        <seg>Tarkista &amp;nykyinen asiakirja…</seg>
       </tuv>
     </tu>
     <tu>
@@ -4908,24 +4908,24 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Paragraph Delimitations</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T100809Z" creationid="piav" creationdate="20190521T100809Z">
-        <seg>Merkitse kappalejaot (&amp;P)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171936Z" creationid="piav" creationdate="20190521T100809Z">
+        <seg>Merkitse kappale&amp;jaot</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Mark &amp;Translated Segments</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T100743Z" creationid="PiaVee" creationdate="20171015T111515Z">
-        <seg>Merkitse käännetyt segmentit (&amp;T)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171921Z" creationid="PiaVee" creationdate="20171015T111515Z">
+        <seg>Merkitse &amp;käännetyt segmentit</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Mark &amp;Untranslated Segments</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T100751Z" creationid="PiaVee" creationdate="20171015T111525Z">
-        <seg>Merkitse kääntämättömät segmentit (&amp;U)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171928Z" creationid="PiaVee" creationdate="20171015T111525Z">
+        <seg>Merkitse k&amp;ääntämättömät segmentit</seg>
       </tuv>
     </tu>
     <tu>
@@ -4948,8 +4948,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Match Statistics per &amp;File</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T094841Z" creationid="PiaVee" creationdate="20171015T111345Z">
-        <seg>Osumatilastot per tiedosto (&amp;F)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171749Z" creationid="PiaVee" creationdate="20171015T111345Z">
+        <seg>Osumatilastot &amp;per tiedosto</seg>
       </tuv>
     </tu>
     <tu>
@@ -5124,8 +5124,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Next Uni&amp;que Segment</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T094808Z" creationid="PiaVee" creationdate="20171015T110831Z">
-        <seg>Seuraava uniikki segmentti (&amp;Q)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171651Z" creationid="PiaVee" creationdate="20171015T110831Z">
+        <seg>Seuraava &amp;uniikki segmentti</seg>
       </tuv>
     </tu>
     <tu>
@@ -6575,8 +6575,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Scriptin&amp;g...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T100659Z" creationid="PiaVee" creationdate="20171015T111420Z">
-        <seg>Komentosarjat… (&amp;G)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171845Z" creationid="PiaVee" creationdate="20171015T111420Z">
+        <seg>Ko&amp;mentosarjat…</seg>
       </tuv>
     </tu>
     <tu>
@@ -6999,8 +6999,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Source of Selected &amp;Match</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T094801Z" creationid="PiaVee" creationdate="20171015T110823Z">
-        <seg>Valitun osuman lähde (&amp;M)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171647Z" creationid="PiaVee" creationdate="20171015T110823Z">
+        <seg>&amp;Valitun osuman lähde</seg>
       </tuv>
     </tu>
     <tu>
@@ -8214,8 +8214,8 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       <tuv lang="EN">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T100738Z" creationid="PiaVee" creationdate="20171015T111501Z">
-        <seg>Siirry eteenpäin TAB-näppäimellä (&amp;T)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171839Z" creationid="PiaVee" creationdate="20171015T111501Z">
+        <seg>Siirry eteenpäin TA&amp;B-näppäimellä</seg>
       </tuv>
     </tu>
     <tu>
