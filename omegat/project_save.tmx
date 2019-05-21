@@ -88,16 +88,16 @@
       <tuv lang="EN">
         <seg>&amp;Add</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103129Z" creationid="PiaVee" creationdate="20171015T094629Z">
-        <seg>Lisää (&amp;A)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T165857Z" creationid="PiaVee" creationdate="20171015T094629Z">
+        <seg>&amp;Lisää</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Add...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T080707Z" creationid="PiaVee" creationdate="20171015T094607Z">
-        <seg>Lisää… (&amp;A)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T165953Z" creationid="PiaVee" creationdate="20171015T094607Z">
+        <seg>&amp;Lisää…</seg>
       </tuv>
     </tu>
     <tu>
@@ -144,8 +144,8 @@
       <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103100Z" creationid="PiaVee" creationdate="20171015T094323Z">
-        <seg>Paluu (&amp;B)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T165810Z" creationid="PiaVee" creationdate="20171015T094323Z">
+        <seg>P&amp;aluu</seg>
       </tuv>
     </tu>
     <tu>
@@ -224,8 +224,8 @@
       <tuv lang="EN">
         <seg>&amp;Edit...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T080714Z" creationid="PiaVee" creationdate="20171015T094621Z">
-        <seg>Muokkaa… (&amp;E)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T165848Z" creationid="PiaVee" creationdate="20171015T094621Z">
+        <seg>&amp;Muokkaa…</seg>
       </tuv>
     </tu>
     <tu>
@@ -280,8 +280,8 @@
       <tuv lang="EN">
         <seg>&amp;Fix All</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103149Z" creationid="PiaVee" creationdate="20171015T095005Z">
-        <seg>Korjaa kaikki (&amp;F)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T170053Z" creationid="PiaVee" creationdate="20171015T095005Z">
+        <seg>&amp;Korjaa kaikki</seg>
       </tuv>
     </tu>
     <tu>
@@ -344,8 +344,8 @@
       <tuv lang="EN">
         <seg>&amp;Insert</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103144Z" creationid="PiaVee" creationdate="20171015T094955Z">
-        <seg>Lisää (&amp;I)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T170034Z" creationid="PiaVee" creationdate="20171015T094955Z">
+        <seg>Li&amp;sää</seg>
       </tuv>
     </tu>
     <tu>
@@ -496,8 +496,8 @@
       <tuv lang="EN">
         <seg>&amp;Remove</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103110Z" creationid="PiaVee" creationdate="20171015T094447Z">
-        <seg>Poista (&amp;R)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T165823Z" creationid="PiaVee" creationdate="20171015T094447Z">
+        <seg>&amp;Poista</seg>
       </tuv>
     </tu>
     <tu>
@@ -568,8 +568,8 @@
       <tuv lang="EN">
         <seg>&amp;Search</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103107Z" creationid="PiaVee" creationdate="20171015T094411Z">
-        <seg>Etsi (&amp;S)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T165817Z" creationid="PiaVee" creationdate="20171015T094411Z">
+        <seg>&amp;Etsi</seg>
       </tuv>
     </tu>
     <tu>
@@ -1347,8 +1347,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>A&amp;dd</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103134Z" creationid="PiaVee" creationdate="20171015T094644Z">
-        <seg>Lisää (&amp;D)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T165906Z" creationid="PiaVee" creationdate="20171015T094644Z">
+        <seg>L&amp;isää</seg>
       </tuv>
     </tu>
     <tu>
@@ -6005,8 +6005,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>R&amp;emove</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103115Z" creationid="PiaVee" creationdate="20171015T094601Z">
-        <seg>Poista (&amp;E)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T165835Z" creationid="PiaVee" creationdate="20171015T094601Z">
+        <seg>P&amp;oista</seg>
       </tuv>
     </tu>
     <tu>
@@ -6357,8 +6357,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T085738Z" creationid="PiaVee" creationdate="20171015T094908Z">
-        <seg>Palauta oletusasetukset (&amp;F)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T170016Z" creationid="PiaVee" creationdate="20171015T094908Z">
+        <seg>P&amp;alauta oletusasetukset</seg>
       </tuv>
     </tu>
     <tu>
