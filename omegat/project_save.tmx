@@ -802,9 +802,10 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T084748Z" creationid="PiaVee" creationdate="20171015T084748Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T075450Z" creationid="PiaVee" creationdate="20171015T084748Z">
         <seg>--script=&lt;polku&gt;
-		Projektitapahtumissa suoritettava komentosarjatiedosto</seg>
+		Projektitapahtumissa suoritettava komentosarja-
+		tiedosto</seg>
       </tuv>
     </tu>
     <tu>
@@ -812,9 +813,9 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T084823Z" creationid="PiaVee" creationdate="20171015T084823Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T075547Z" creationid="PiaVee" creationdate="20171015T084823Z">
         <seg>--tag-validation=[abort|warn]
-		Vahvistaa tägit.</seg>
+		Tägien vahvistaminen</seg>
       </tuv>
     </tu>
     <tu>
