@@ -200,8 +200,8 @@
       <tuv lang="EN">
         <seg>&amp;Edit...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103126Z" creationid="PiaVee" creationdate="20171015T094621Z">
-        <seg>Muokkaa... (&amp;E)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T080714Z" creationid="PiaVee" creationdate="20171015T094621Z">
+        <seg>Muokkaa… (&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -440,8 +440,8 @@
       <tuv lang="EN">
         <seg>&amp;Remove Filter</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103206Z" creationid="PiaVee" creationdate="20171015T095028Z">
-        <seg>Poista suodatin (&amp;R</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T080744Z" creationid="PiaVee" creationdate="20171015T095028Z">
+        <seg>Poista suodatin (&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -488,8 +488,8 @@
       <tuv lang="EN">
         <seg>&amp;Save As...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103218Z" creationid="PiaVee" creationdate="20171015T095038Z">
-        <seg>Tallenna nimellä... (&amp;S)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T080750Z" creationid="PiaVee" creationdate="20171015T095038Z">
+        <seg>Tallenna nimellä… (&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -835,8 +835,8 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
       <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T095233Z" creationid="PiaVee" creationdate="20171015T095233Z">
-        <seg>1) Vähennä lähdetiedostojen määrää, käännä pienemmissä erissä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T080948Z" creationid="PiaVee" creationdate="20171015T095233Z">
+        <seg>käytettävissä 1) Vähennä lähdetiedostojen määrää, käännä pienemmissä erissä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4758,8 +4758,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T095118Z" creationid="PiaVee" creationdate="20171015T095118Z">
-        <seg>OmegaT:ltä loppui muisti, ja ohjelma sulkeutuu, kun painat OK.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T080838Z" creationid="PiaVee" creationdate="20171015T095118Z">
+        <seg>OmegaT:n muisti on täysi. Paina OK, niin ohjelma sulkeutuu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5539,8 +5539,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103139Z" creationid="PiaVee" creationdate="20171015T094908Z">
-        <seg>Palauta oletus (&amp;A)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T080732Z" creationid="PiaVee" creationdate="20171015T094908Z">
+        <seg>Palauta oletus (&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
