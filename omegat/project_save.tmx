@@ -304,8 +304,8 @@
       <tuv lang="EN">
         <seg>&amp;Glossary</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T100836Z" creationid="PiaVee" creationdate="20171015T111629Z">
-        <seg>Sanasto (&amp;G)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173012Z" creationid="PiaVee" creationdate="20171015T111629Z">
+        <seg>&amp;Sanasto</seg>
       </tuv>
     </tu>
     <tu>
@@ -328,8 +328,8 @@
       <tuv lang="EN">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T101007Z" creationid="PiaVee" creationdate="20171218T072118Z">
-        <seg>Ohita osumat, jos isoja kirjaimia käytetään eri tavoin (esim. FOO ja foo) (&amp;I)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173202Z" creationid="PiaVee" creationdate="20171218T072118Z">
+        <seg>&amp;Ohita osumat, jos isoja kirjaimia käytetään eri tavoin (esim. FOO ja foo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -600,8 +600,8 @@
       <tuv lang="EN">
         <seg>&amp;Segmentation...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T172935Z" creationid="PiaVee" creationdate="20171015T111613Z">
-        <seg>&amp;Segmentointi…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173006Z" creationid="PiaVee" creationdate="20171015T111613Z">
+        <seg>S&amp;egmentointi…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2611,8 +2611,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Dictionar&amp;y</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T101013Z" creationid="PiaVee" creationdate="20171015T122210Z">
-        <seg>Sanakirja (&amp;Y)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173214Z" creationid="PiaVee" creationdate="20171015T122210Z">
+        <seg>S&amp;anakirja</seg>
       </tuv>
     </tu>
     <tu>
@@ -2699,8 +2699,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Display context description for TBX &amp;glossaries</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T100846Z" creationid="PiaVee" creationdate="20171015T111741Z">
-        <seg>Näytä TBX-&amp;sanastojen kontekstitiedot (&amp;G)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173022Z" creationid="PiaVee" creationdate="20171015T111741Z">
+        <seg>Näytä TB&amp;X-sanastojen kontekstitiedot</seg>
       </tuv>
     </tu>
     <tu>
@@ -6269,8 +6269,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T100945Z" creationid="PiaVee" creationdate="20171015T122139Z">
-        <seg>Korvaa sanasto-osumat lähtötekstiä lisättäessä (&amp;G)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173146Z" creationid="PiaVee" creationdate="20171015T122139Z">
+        <seg>&amp;Korvaa sanasto-osumat lähtötekstiä lisättäessä</seg>
       </tuv>
     </tu>
     <tu>
@@ -8206,8 +8206,8 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       <tuv lang="EN">
         <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T101032Z" creationid="PiaVee" creationdate="20171015T122239Z">
-        <seg>Käytä sanakirjatietueiden sumeita osumia (&amp;F)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173240Z" creationid="PiaVee" creationdate="20171015T122239Z">
+        <seg>Käytä sanakirjatietueiden s&amp;umeita osumia</seg>
       </tuv>
     </tu>
     <tu>
@@ -8230,8 +8230,8 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       <tuv lang="EN">
         <seg>Use &amp;stemming for glossary entries</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T100935Z" creationid="PiaVee" creationdate="20171015T122036Z">
-        <seg>Käytä sanastotietueiden vartaloita (&amp;S)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173138Z" creationid="PiaVee" creationdate="20171015T122036Z">
+        <seg>Käytä sanastotietueiden &amp;vartaloita</seg>
       </tuv>
     </tu>
     <tu>
@@ -8246,8 +8246,8 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       <tuv lang="EN">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T100919Z" creationid="PiaVee" creationdate="20171015T111851Z">
-        <seg>Käytä lähtötekstin yksittäisiä termejä (&amp;A)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173122Z" creationid="PiaVee" creationdate="20171015T111851Z">
+        <seg>Käytä lähtötekstin &amp;yksittäisiä termejä</seg>
       </tuv>
     </tu>
     <tu>
