@@ -4907,9 +4907,9 @@ Nykyinen asetus on {0} MB.</seg>
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T082944Z" creationid="PiaVee" creationdate="20171015T082944Z">
-        <seg>Asetukset:
-	Ei mitään: Käynnistää GUI:n
+      <tuv lang="FI" changeid="piav" changedate="20190521T073052Z" creationid="PiaVee" creationdate="20171015T082944Z">
+        <seg>Valinnat:
+	Ei mitään: GUI:n käynnistys
 	Ainoastaan projektipolku: Käynnistää GUI:n ja lataa kyseisen projektin
 	team
 		Ryhmäprojektin työkalu.</seg>
