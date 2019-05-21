@@ -713,10 +713,10 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T074156Z" creationid="PiaVee" creationdate="20171015T083552Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T074442Z" creationid="PiaVee" creationdate="20171015T083552Z">
         <seg>--config-file=&lt;polku&gt;
-		Java-ominaisuuksien tiedosto (.properties), josta oletusasetukset
-		ladataan</seg>
+		Java-ominaisuuksien tiedosto (.properties), jonka perusteella 
+		oletusasetukset ladataan</seg>
       </tuv>
     </tu>
     <tu>
@@ -788,9 +788,9 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
 	--config-dir=&lt;path&gt;
 		The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T083757Z" creationid="PiaVee" creationdate="20171015T083757Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T074526Z" creationid="PiaVee" creationdate="20171015T083757Z">
         <seg>--resource-bundle=&lt;polku&gt;
-		Java .properties-tiedosto (ominaisuudet) käyttöliittymän tekstiä varten
+		Java-ominaisuuksien tiedosto ( .properties) käyttöliittymän tekstiä varten
 	--config-dir=&lt;polku&gt;
 		Hakemisto, josta tai johon OmegaT:n kokoonpanotiedostot luetaan/kirjoitetaan.</seg>
       </tuv>
