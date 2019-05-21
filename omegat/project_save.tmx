@@ -3562,8 +3562,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T095724Z" creationid="PiaVee" creationdate="20171015T095724Z">
-        <seg>"OmegaT:n asennus ja käyttö".</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T081552Z" creationid="PiaVee" creationdate="20171015T095724Z">
+        <seg>OmegaT:n asennus ja käyttö.</seg>
       </tuv>
     </tu>
     <tu>
