@@ -1911,6 +1911,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose MED project</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132213Z" creationid="piav" creationdate="20190521T132213Z">
+        <seg>Valitse MED-projekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose SVN repository to perform cleanup</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T083903Z" creationid="PiaVee" creationdate="20170910T083806Z">
@@ -2178,6 +2186,14 @@ Nykyinen asetus on {0} MB.</seg>
         <seg>Create New Project</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T091211Z" creationid="PiaVee" creationdate="20171218T091211Z">
+        <seg>Luo uusi projekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a New Project</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132157Z" creationid="piav" creationdate="20190521T132157Z">
         <seg>Luo uusi projekti</seg>
       </tuv>
     </tu>
@@ -3307,6 +3323,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174236Z" creationid="PiaVee" creationdate="20171014T174236Z">
         <seg>heprea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here you may also specify custom location of project folders.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132404Z" creationid="piav" creationdate="20190521T132157Z">
+        <seg>Tässä kohdassa voit myös antaa projektikansioiden mukautetun sijainnin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5261,6 +5285,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T091313Z" creationid="PiaVee" creationdate="20170910T090316Z">
         <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132113Z" creationid="piav" creationdate="20190521T132113Z">
+        <seg>Valitse lähdetiedostoissa käytetty kieli ja kohdekieli, jolle olet kääntämässä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7695,6 +7727,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124620Z" creationid="PiaVee" creationdate="20171015T124620Z">
         <seg>Numeron on oltava 1 ja {0} väliltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132041Z" creationid="piav" creationdate="20190521T132041Z">
+        <seg>Osoita niiden uusi sijainti tai luo ne uudestaan.</seg>
       </tuv>
     </tu>
     <tu>
