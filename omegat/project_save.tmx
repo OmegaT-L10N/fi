@@ -312,8 +312,8 @@
       <tuv lang="EN">
         <seg>&amp;Go To</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T094640Z" creationid="PiaVee" creationdate="20171015T110428Z">
-        <seg>Siirry (G)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171251Z" creationid="PiaVee" creationdate="20171015T110428Z">
+        <seg>S&amp;iirry</seg>
       </tuv>
     </tu>
     <tu>
@@ -400,8 +400,8 @@
       <tuv lang="EN">
         <seg>&amp;Next Segment</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T094700Z" creationid="PiaVee" creationdate="20171015T110431Z">
-        <seg>Seuraava segmentti (&amp;N)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171329Z" creationid="PiaVee" creationdate="20171015T110431Z">
+        <seg>Seuraavaan &amp;segmenttiin</seg>
       </tuv>
     </tu>
     <tu>
@@ -2339,8 +2339,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T093735Z" creationid="PiaVee" creationdate="20171015T103857Z">
-        <seg>Luo sanastotietue… (&amp;G)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171134Z" creationid="PiaVee" creationdate="20171015T103857Z">
+        <seg>Luo &amp;sanastotietue…</seg>
       </tuv>
     </tu>
     <tu>
@@ -4036,8 +4036,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T093656Z" creationid="PiaVee" creationdate="20171015T103707Z">
-        <seg>Lisää puuttuvat lähdetägit (&amp;T)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171118Z" creationid="PiaVee" creationdate="20171015T103707Z">
+        <seg>Lisää &amp;puuttuvat lähdetägit</seg>
       </tuv>
     </tu>
     <tu>
@@ -5116,8 +5116,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Next N&amp;ote</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T094705Z" creationid="PiaVee" creationdate="20171015T110510Z">
-        <seg>Seuraava muistiinpano (&amp;O)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171325Z" creationid="PiaVee" creationdate="20171015T110510Z">
+        <seg>Seuraavaan &amp;muistiinpanoon</seg>
       </tuv>
     </tu>
     <tu>
@@ -6751,16 +6751,16 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Select &amp;Next Match</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T093745Z" creationid="PiaVee" creationdate="20171015T103950Z">
-        <seg>Valitse seuraava osuma (&amp;N)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171228Z" creationid="PiaVee" creationdate="20171015T103950Z">
+        <seg>Valitse se&amp;uraava osuma</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select &amp;Previous Match</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T093752Z" creationid="PiaVee" creationdate="20171015T104001Z">
-        <seg>Valitse edellinen osuma (&amp;P)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171232Z" creationid="PiaVee" creationdate="20171015T104001Z">
+        <seg>Valitse &amp;edellinen osuma</seg>
       </tuv>
     </tu>
     <tu>
@@ -6775,8 +6775,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T093739Z" creationid="PiaVee" creationdate="20171015T103925Z">
-        <seg>Valitse osuma (&amp;C)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T171209Z" creationid="PiaVee" creationdate="20171015T103925Z">
+        <seg>Valitse &amp;osuma</seg>
       </tuv>
     </tu>
     <tu>
