@@ -2308,8 +2308,9 @@ Nykyinen asetus on {0} MB.</seg>
         <seg>Code has been contributed by:
 {0}</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T181438Z" creationid="piav" creationdate="20190521T181438Z">
-        <seg>Koodia ovat tuottaneet: {0}</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T182444Z" creationid="piav" creationdate="20190521T181438Z">
+        <seg>Koodia ovat tuottaneet:
+{0}</seg>
       </tuv>
     </tu>
     <tu>
