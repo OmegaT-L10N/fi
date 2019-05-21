@@ -7454,8 +7454,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T082325Z" creationid="PiaVee" creationdate="20171015T101217Z">
-        <seg>Voit kopioida tiedostoja projektin source-kansioon myös tiedostonhallintaohjelmassa. Lataa tämän jälkeen projekti uudelleen (Projekti-valikko &gt; Lataa uudelleen).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T090201Z" creationid="PiaVee" creationdate="20171015T101217Z">
+        <seg>Voit kopioida tiedostoja projektin lähdetekstikansioon (/source) myös tiedostonhallintaohjelmassa. Lataa tämän jälkeen projekti uudelleen (Projekti-valikko &gt; Lataa uudelleen).</seg>
       </tuv>
     </tu>
     <tu>
