@@ -120,8 +120,8 @@
       <tuv lang="EN">
         <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T125535Z" creationid="PiaVee" creationdate="20171015T125535Z">
-        <seg>&amp;Käytä tätä fonttia taulukkomuotoisen tiedon (projektitiedostot, tilastot jne.) esittämiseen</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T102622Z" creationid="PiaVee" creationdate="20171015T125535Z">
+        <seg>Käytä tätä fonttia taulukkomuotoisen tiedon (projektitiedostot, tilastot jne.) esittämiseen (&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1921,8 +1921,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Clo&amp;se</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072609Z" creationid="PiaVee" creationdate="20171218T072609Z">
-        <seg>&amp;Sulje</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T102703Z" creationid="PiaVee" creationdate="20171218T072609Z">
+        <seg>Sulje (&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2537,8 +2537,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Downloading project...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T083007Z" creationid="PiaVee" creationdate="20171218T082803Z">
-        <seg>Projektia noudetaan...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T102735Z" creationid="PiaVee" creationdate="20171218T082803Z">
+        <seg>Projektia noudetaan…</seg>
       </tuv>
     </tu>
     <tu>
@@ -4218,16 +4218,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Loading glossaries</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T083050Z" creationid="PiaVee" creationdate="20171218T083050Z">
-        <seg>Sanastoja ladataan...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T102829Z" creationid="PiaVee" creationdate="20171218T083050Z">
+        <seg>Sanastoja ladataan…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Loading project...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T083022Z" creationid="PiaVee" creationdate="20171218T082805Z">
-        <seg>Projektia ladataan...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T102749Z" creationid="PiaVee" creationdate="20171218T082805Z">
+        <seg>Projektia ladataan…</seg>
       </tuv>
     </tu>
     <tu>
@@ -4490,32 +4490,32 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Move &amp;Down</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072534Z" creationid="PiaVee" creationdate="20171218T072534Z">
-        <seg>Siirrä &amp;alas</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T102653Z" creationid="PiaVee" creationdate="20171218T072534Z">
+        <seg>Siirrä alas (&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Move &amp;First</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072518Z" creationid="PiaVee" creationdate="20171218T072518Z">
-        <seg>Siirrä &amp;ensimmäiseksi</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T102644Z" creationid="PiaVee" creationdate="20171218T072518Z">
+        <seg>Siirrä ensimmäiseksi (&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Move &amp;Last</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072543Z" creationid="PiaVee" creationdate="20171218T072543Z">
-        <seg>Siirrä &amp;viimeiseksi</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T102658Z" creationid="PiaVee" creationdate="20171218T072543Z">
+        <seg>Siirrä viimeiseksi (&amp;V)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Move &amp;Up</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072527Z" creationid="PiaVee" creationdate="20171218T072527Z">
-        <seg>Siirrä &amp;ylös</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T102648Z" creationid="PiaVee" creationdate="20171218T072527Z">
+        <seg>Siirrä ylös (&amp;Y)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5139,8 +5139,8 @@ everything.</seg>
 return the information below to the software manufacturer with
 a description of how this error was produced.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T083841Z" creationid="PiaVee" creationdate="20171218T083841Z">
-        <seg>Tarkasta dokumentaatiosta, millaisia palautusvaihtoehtoja on käytössä, ja lähetä ohjelmiston valmistajalle sekä alla olevat tiedot että kuvaus siitä, kuinka virhe tapahtui.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T102910Z" creationid="PiaVee" creationdate="20171218T083841Z">
+        <seg>Tarkasta dokumentaatiosta, millaisia palautusvaihtoehtoja on käytössä. Lähetä ohjelmiston valmistajalle alla olevat tiedot ja kuvaus siitä, kuinka virhe tapahtui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7533,9 +7533,8 @@ a description of how this error was produced.</seg>
         <seg>You can find detailed statistic information in the file:
 {0}</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072457Z" creationid="PiaVee" creationdate="20171218T072457Z">
-        <seg>Yksityiskohtaista tilastotietoa löytyy tiedostosta
-{0}</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T102639Z" creationid="PiaVee" creationdate="20171218T072457Z">
+        <seg>Yksityiskohtaista tilastotietoa löytyy tiedostosta {0}</seg>
       </tuv>
     </tu>
     <tu>
