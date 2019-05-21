@@ -248,8 +248,8 @@
       <tuv lang="EN">
         <seg>&amp;Exact search</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T134350Z" creationid="piav" creationdate="20190521T134350Z">
-        <seg>Täsmällinen haku (&amp;E)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T140222Z" creationid="piav" creationdate="20190521T134350Z">
+        <seg>Täsmähaku (&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5761,6 +5761,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T140149Z" creationid="piav" creationdate="20190521T140149Z">
+        <seg>Projektihaku hakee oletusarvoisesti projektin lähde- ja kohdekansioista, apukäännösmuisteista, sanastoista, muistiinpanoista ja kommenteista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pāli</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081023Z" creationid="PiaVee" creationdate="20171015T081023Z">
@@ -7722,6 +7730,16 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T132523Z" creationid="piav" creationdate="20190521T132523Z">
         <seg>Tyyppi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Types:
+Exact searches match the whole search string.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T140217Z" creationid="piav" creationdate="20190521T140217Z">
+        <seg>Tyypit:
+Täsmähaut etsivät koko </seg>
       </tuv>
     </tu>
     <tu>
