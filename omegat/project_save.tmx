@@ -80,8 +80,8 @@
       <tuv lang="EN">
         <seg>&amp;Access Project Contents</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120453Z" creationid="PiaVee" creationdate="20171015T102652Z">
-        <seg>&amp;Avaa projektin sisältö...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093440Z" creationid="PiaVee" creationdate="20171015T102652Z">
+        <seg>Avaa projektin sisältö… (&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -184,24 +184,24 @@
       <tuv lang="EN">
         <seg>&amp;Current Source Document</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120529Z" creationid="PiaVee" creationdate="20171015T102804Z">
-        <seg>&amp;Nykyinen lähdetiedosto</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093519Z" creationid="PiaVee" creationdate="20171015T102804Z">
+        <seg>Nykyinen lähdetiedosto (&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Dictionaries</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120503Z" creationid="PiaVee" creationdate="20171015T102701Z">
-        <seg>Sana&amp;kirjat</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093453Z" creationid="PiaVee" creationdate="20171015T102701Z">
+        <seg>Sanakirjat (&amp;D)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Edit</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T110937Z" creationid="PiaVee" creationdate="20171015T103446Z">
-        <seg>&amp;Muokkaa</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093544Z" creationid="PiaVee" creationdate="20171015T103446Z">
+        <seg>Muokkaa (&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -264,8 +264,8 @@
       <tuv lang="EN">
         <seg>&amp;Glossaries</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120508Z" creationid="PiaVee" creationdate="20171015T102704Z">
-        <seg>&amp;Sanastot</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093458Z" creationid="PiaVee" creationdate="20171015T102704Z">
+        <seg>Sanastot (&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -312,8 +312,8 @@
       <tuv lang="EN">
         <seg>&amp;Insert Match or Selection</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120907Z" creationid="PiaVee" creationdate="20171015T103546Z">
-        <seg>Lisää &amp;osuma tai valinta</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093612Z" creationid="PiaVee" creationdate="20171015T103546Z">
+        <seg>Lisää osuma tai valinta (&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -408,24 +408,24 @@
       <tuv lang="EN">
         <seg>&amp;Properties...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120426Z" creationid="PiaVee" creationdate="20171015T102541Z">
-        <seg>&amp;Ominaisuudet...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093414Z" creationid="PiaVee" creationdate="20171015T102541Z">
+        <seg>Ominaisuudet… (&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Quit</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120736Z" creationid="PiaVee" creationdate="20171015T102855Z">
-        <seg>L&amp;opeta</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093540Z" creationid="PiaVee" creationdate="20171015T102855Z">
+        <seg>Lopeta (&amp;Q)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Redo Last Action</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120750Z" creationid="PiaVee" creationdate="20171015T103506Z">
-        <seg>&amp;Toista viime toiminto</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093554Z" creationid="PiaVee" creationdate="20171015T103506Z">
+        <seg>Toista viime toiminto (&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -480,8 +480,8 @@
       <tuv lang="EN">
         <seg>&amp;Root</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120458Z" creationid="PiaVee" creationdate="20171015T102655Z">
-        <seg>&amp;Juuri</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093447Z" creationid="PiaVee" creationdate="20171015T102655Z">
+        <seg>Juuri (&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -512,8 +512,8 @@
       <tuv lang="EN">
         <seg>&amp;Search Project...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120755Z" creationid="PiaVee" creationdate="20171015T103515Z">
-        <seg>&amp;Etsi projektista...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093600Z" creationid="PiaVee" creationdate="20171015T103515Z">
+        <seg>Etsi projektista… (&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -560,8 +560,8 @@
       <tuv lang="EN">
         <seg>&amp;Source Files</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120519Z" creationid="PiaVee" creationdate="20171015T102737Z">
-        <seg>&amp;Lähdetiedostot</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093509Z" creationid="PiaVee" creationdate="20171015T102737Z">
+        <seg>Lähdetiedostot (&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -592,8 +592,8 @@
       <tuv lang="EN">
         <seg>&amp;Target Files</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120727Z" creationid="PiaVee" creationdate="20171015T102746Z">
-        <seg>Ko&amp;hdetiedostot</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093515Z" creationid="PiaVee" creationdate="20171015T102746Z">
+        <seg>Kohdetiedostot (&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -624,8 +624,8 @@
       <tuv lang="EN">
         <seg>&amp;Undo Last Action</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120746Z" creationid="PiaVee" creationdate="20171015T103457Z">
-        <seg>&amp;Kumoa viime toiminto</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093549Z" creationid="PiaVee" creationdate="20171015T103457Z">
+        <seg>Kumoa viime toiminto (&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -648,8 +648,8 @@
       <tuv lang="EN">
         <seg>&amp;Writeable Glossary</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120723Z" creationid="PiaVee" creationdate="20171015T102853Z">
-        <seg>K&amp;irjoituskelpoinen sanasto</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093536Z" creationid="PiaVee" creationdate="20171015T102853Z">
+        <seg>Kirjoituskelpoinen sanasto (&amp;W)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1697,8 +1697,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>C&amp;urrent Target Document</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120540Z" creationid="PiaVee" creationdate="20171015T102820Z">
-        <seg>N&amp;ykyinen kohdetiedosto</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093529Z" creationid="PiaVee" creationdate="20171015T102820Z">
+        <seg>Nykyinen kohdetiedosto (&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2113,8 +2113,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Create MED Project...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T102529Z" creationid="PiaVee" creationdate="20171015T102529Z">
-        <seg>Luo MED-projekti...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093407Z" creationid="PiaVee" creationdate="20171015T102529Z">
+        <seg>Luo MED-projekti…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2561,8 +2561,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>E&amp;xport Selection</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120947Z" creationid="PiaVee" creationdate="20171015T103656Z">
-        <seg>&amp;Vie valinta</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093648Z" creationid="PiaVee" creationdate="20171015T103656Z">
+        <seg>Vie valinta (&amp;X)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2945,8 +2945,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>File &amp;Filters...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120640Z" creationid="PiaVee" creationdate="20171015T102600Z">
-        <seg>Tiedostos&amp;uodattimet...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093426Z" creationid="PiaVee" creationdate="20171015T102600Z">
+        <seg>Tiedostosuodattimet… (&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3289,8 +3289,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>I&amp;nsert Source</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120913Z" creationid="PiaVee" creationdate="20171015T103618Z">
-        <seg>&amp;Lisää lähde</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093638Z" creationid="PiaVee" creationdate="20171015T103618Z">
+        <seg>Lisää lähde (&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3530,8 +3530,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121002Z" creationid="PiaVee" creationdate="20171015T103707Z">
-        <seg>Lisää &amp;puuttuvat lähdetägit</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093656Z" creationid="PiaVee" creationdate="20171015T103707Z">
+        <seg>Lisää puuttuvat lähdetägit (&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5195,8 +5195,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Project &amp;Files...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120442Z" creationid="PiaVee" creationdate="20171015T102616Z">
-        <seg>Projektin &amp;tiedostot...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093432Z" creationid="PiaVee" creationdate="20171015T102616Z">
+        <seg>Projektin tiedostot… (&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5291,8 +5291,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>R&amp;eplace with Match or Selection</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120817Z" creationid="PiaVee" creationdate="20171015T103601Z">
-        <seg>K&amp;orvaa osumalla tai valinnalla</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093618Z" creationid="PiaVee" creationdate="20171015T103601Z">
+        <seg>Korvaa osumalla tai valinnalla (&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5323,8 +5323,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Re&amp;place with Source</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120939Z" creationid="PiaVee" creationdate="20171015T103633Z">
-        <seg>Ko&amp;rvaa lähteellä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093643Z" creationid="PiaVee" creationdate="20171015T103633Z">
+        <seg>Korvaa lähteellä (&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5539,8 +5539,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120848Z" creationid="PiaVee" creationdate="20171015T103611Z">
-        <seg>Korvaa ko&amp;nekäännöksellä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093633Z" creationid="PiaVee" creationdate="20171015T103611Z">
+        <seg>Korvaa konekäännöksellä (&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5771,8 +5771,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Search and Replace...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103526Z" creationid="PiaVee" creationdate="20171015T103526Z">
-        <seg>Etsi ja korvaa...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093606Z" creationid="PiaVee" creationdate="20171015T103526Z">
+        <seg>Etsi ja korvaa…</seg>
       </tuv>
     </tu>
     <tu>
@@ -6259,8 +6259,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>T&amp;Ms</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T120514Z" creationid="PiaVee" creationdate="20171015T102732Z">
-        <seg>Käännös&amp;muistit</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T093504Z" creationid="PiaVee" creationdate="20171015T102732Z">
+        <seg>Käännösmuistit (&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
