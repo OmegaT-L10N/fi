@@ -1489,6 +1489,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T181429Z" creationid="piav" creationdate="20190521T181429Z">
+        <seg>OmegaT-projektipäällikkö on Aaron Madlon-Kay.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Abkhaz</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T162148Z" creationid="PiaVee" creationdate="20171014T162127Z">
@@ -2293,6 +2301,15 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180801Z" creationid="piav" creationdate="20190521T180801Z">
         <seg>&amp;Kommentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code has been contributed by:
+{0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T181438Z" creationid="piav" creationdate="20190521T181438Z">
+        <seg>Koodia ovat tuottaneet: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5806,6 +5823,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is the original work of Keith Godfrey.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T181314Z" creationid="piav" creationdate="20190521T181314Z">
+        <seg>OmegaT:n luoja on Keith Godfrey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT on Wikipedia</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T095157Z" creationid="PiaVee" creationdate="20171219T095157Z">
@@ -6074,6 +6099,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094253Z" creationid="PiaVee" creationdate="20171219T094253Z">
         <seg>[fuzzy]OmegaT-projekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other contributions are detailed in the readme.txt file</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T181601Z" creationid="piav" creationdate="20190521T181601Z">
+        <seg>Muut vaikuttajat esitellään tarkemmin readme.txt-tiedostossa.</seg>
       </tuv>
     </tu>
     <tu>
