@@ -669,3 +669,4 @@ stdout	stdout-tuloste
 Copy Files to Source Folder...	Kopioi lähdekansioon…	button = painike
 Files to translate	Käännettävät tiedostot	käyttöoppaan kohta
 File formats	Tiedostomuodot	käyttöoppaan kohdan "Käännettävät tiedostot" alakohta
+Mapping	yhdistäminen	esim. paikallinen kansio yhdistetään etäkansioon
