@@ -1617,6 +1617,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bad folder name {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T142900Z" creationid="piav" creationdate="20190521T142900Z">
+        <seg>Kansion nimi {0} ei kelpaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bad regular expression!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T142801Z" creationid="piav" creationdate="20190521T142801Z">
+        <seg>Säännöllinen lauseke ei kelpaa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Balabit</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094154Z" creationid="PiaVee" creationdate="20171219T094154Z">
@@ -2929,6 +2945,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error during regular expression replacement:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T142830Z" creationid="piav" creationdate="20190521T142830Z">
+        <seg>Säännöllisten lausekkeiden avulla korvaamisessa tapahtui virhe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T085916Z" creationid="PiaVee" creationdate="20171218T085916Z">
@@ -2941,6 +2965,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T083211Z" creationid="PiaVee" creationdate="20171218T083211Z">
         <seg>Projektitiedoston tallentamisessa tapahtui virhe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error searching directory tree!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T142752Z" creationid="piav" creationdate="20190521T142752Z">
+        <seg>Hakemistopuusta hakiessa tapahtui virhe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3485,6 +3517,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T180921Z" creationid="PiaVee" creationdate="20171014T174153Z">
         <seg>kreikka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T142848Z" creationid="piav" creationdate="20190521T142848Z">
+        <seg>ryhmää {0} ei ole hakulausekkeessa</seg>
       </tuv>
     </tu>
     <tu>
@@ -6497,6 +6537,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T100807Z" creationid="PiaVee" creationdate="20171014T100807Z">
         <seg>Hakuasetukset ovat samantapaisia kuin &lt;l0&gt;hakuikkunassa&lt;/l0&gt; näkyvät asetukset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search thread died unexpectedly!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T142940Z" creationid="piav" creationdate="20190521T142940Z">
+        <seg>Hakuketju päättyi odottamatta!</seg>
       </tuv>
     </tu>
     <tu>
