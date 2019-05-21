@@ -2687,6 +2687,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Empty repository URL in the mapping</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132934Z" creationid="piav" creationdate="20190521T132934Z">
+        <seg>Yhdistäminen: tyhjä varasto-URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable &amp;TransTips</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T122150Z" creationid="PiaVee" creationdate="20171015T122150Z">
@@ -5771,16 +5779,16 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Repository Mapping</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T132505Z" creationid="piav" creationdate="20190521T132505Z">
-        <seg>Pakettivarastojen kartoitus</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132836Z" creationid="piav" creationdate="20190521T132505Z">
+        <seg>Pakettivarastojen yhdistäminen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Repository Mapping...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T131935Z" creationid="piav" creationdate="20190521T131935Z">
-        <seg>Pakettivarastojen kartoitus…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132841Z" creationid="piav" creationdate="20190521T131935Z">
+        <seg>Pakettivarastojen yhdistäminen…</seg>
       </tuv>
     </tu>
     <tu>
