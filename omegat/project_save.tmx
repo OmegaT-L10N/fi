@@ -649,9 +649,9 @@
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T100902Z" creationid="PiaVee" creationdate="20171015T100902Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T082214Z" creationid="PiaVee" creationdate="20171015T100902Z">
         <seg>(Lista tuetuista tiedostomuodoista löytyy käyttöoppaan kohdasta "Käännettävät tiedostot " &gt; "Tiedostomuodot".)
-Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projektit-valikon painiketta Kopioi tiedostoja lähdekansioon ja valitse kopioitavat lähdetiedostot.</seg>
+Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projektit-valikon painiketta "Kopioi lähdekansioon…" ja valitse kopioitavat lähdetiedostot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7454,8 +7454,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T101217Z" creationid="PiaVee" creationdate="20171015T101217Z">
-        <seg>Voit myös kopioida tiedostoja projektin source-kansioon tiedostonhallintaohjelmaa käyttäen. Lataa tämän jälkeen projekti uudelleen (Projekti-valikko &gt; Lataa uudelleen).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T082325Z" creationid="PiaVee" creationdate="20171015T101217Z">
+        <seg>Voit kopioida tiedostoja projektin source-kansioon myös tiedostonhallintaohjelmassa. Lataa tämän jälkeen projekti uudelleen (Projekti-valikko &gt; Lataa uudelleen).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7478,8 +7478,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Your project does not contain any files in a supported file format.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T100511Z" creationid="PiaVee" creationdate="20171015T100511Z">
-        <seg>Projektin tiedostomuotoja ei tueta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T082045Z" creationid="PiaVee" creationdate="20171015T100511Z">
+        <seg>Projektissa ei ole tiedostoja, joiden tiedostomuotoja tuetaan.</seg>
       </tuv>
     </tu>
     <tu>
