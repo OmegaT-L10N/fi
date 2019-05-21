@@ -713,9 +713,10 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T073951Z" creationid="PiaVee" creationdate="20171015T083552Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T074156Z" creationid="PiaVee" creationdate="20171015T083552Z">
         <seg>--config-file=&lt;polku&gt;
-		Java-ominaisuuksien tiedosto (.properties), josta oletusasetukset ladataan</seg>
+		Java-ominaisuuksien tiedosto (.properties), josta oletusasetukset
+		ladataan</seg>
       </tuv>
     </tu>
     <tu>
