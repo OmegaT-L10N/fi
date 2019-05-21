@@ -3295,6 +3295,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T133812Z" creationid="piav" creationdate="20190521T133812Z">
+        <seg>Annettua sanastojen kansiota ei ole!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124316Z" creationid="PiaVee" creationdate="20171015T124316Z">
@@ -6449,6 +6457,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T133727Z" creationid="piav" creationdate="20190521T133727Z">
+        <seg>Annettua lähdetiedostojen kansiota ei ole!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source of Selected &amp;Match</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T094801Z" creationid="PiaVee" creationdate="20171015T110823Z">
@@ -6915,6 +6931,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The translated file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T133710Z" creationid="piav" creationdate="20190521T133710Z">
+        <seg>Annettu kohdekieli ei kelpaa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The user group also serves as the main point of contact between users and the project team.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T135229Z" creationid="PiaVee" creationdate="20171014T135229Z">
@@ -7272,6 +7296,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T084630Z" creationid="PiaVee" creationdate="20171218T084630Z">
         <seg>Käännetyt tiedostot on luotu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T133742Z" creationid="piav" creationdate="20190521T133742Z">
+        <seg>Annettua käännettyjen tiedostojen kansiota ei ole!</seg>
       </tuv>
     </tu>
     <tu>
