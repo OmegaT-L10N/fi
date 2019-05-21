@@ -376,8 +376,8 @@
       <tuv lang="EN">
         <seg>&amp;Options</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T111221Z" creationid="PiaVee" creationdate="20171015T111221Z">
-        <seg>&amp;Asetukset</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T100704Z" creationid="PiaVee" creationdate="20171015T111221Z">
+        <seg>Asetukset (&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5747,8 +5747,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Scriptin&amp;g...</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T121657Z" creationid="PiaVee" creationdate="20171015T111420Z">
-        <seg>Komento&amp;sarjat...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T100659Z" creationid="PiaVee" creationdate="20171015T111420Z">
+        <seg>Komentosarjat… (&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7100,8 +7100,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T071716Z" creationid="PiaVee" creationdate="20171015T111501Z">
-        <seg>Siirry eteenpäin TA&amp;B-näppäimellä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T100738Z" creationid="PiaVee" creationdate="20171015T111501Z">
+        <seg>Siirry eteenpäin TAB-näppäimellä (&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
