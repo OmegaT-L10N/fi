@@ -1335,6 +1335,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132507Z" creationid="piav" creationdate="20190521T132507Z">
+        <seg>Lisää</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Administration</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140628Z" creationid="PiaVee" creationdate="20171014T140628Z">
@@ -4456,6 +4464,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132754Z" creationid="piav" creationdate="20190521T132754Z">
+        <seg>Paikallisten kansioiden yhdistäminen pakettivarastojen etäkansioihin </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Marathi (Marāṭhī)</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174939Z" creationid="PiaVee" creationdate="20171014T174939Z">
@@ -4864,6 +4880,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T084353Z" creationid="PiaVee" creationdate="20170910T084253Z">
         <seg>OmegaT 3.5 – Käyttöopas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Project Files</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132421Z" creationid="piav" creationdate="20190521T132421Z">
+        <seg>OmegaT-projektitiedostot</seg>
       </tuv>
     </tu>
     <tu>
@@ -5569,6 +5593,22 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote Repositories</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132520Z" creationid="piav" creationdate="20190521T132520Z">
+        <seg>Etäpakettivarastot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132509Z" creationid="piav" creationdate="20190521T132509Z">
+        <seg>Poista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove LanguageTool from the /plugin folder before starting OmegaT.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T150716Z" creationid="PiaVee" creationdate="20171014T150716Z">
@@ -5725,6 +5765,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T093633Z" creationid="PiaVee" creationdate="20171015T103611Z">
         <seg>Korvaa konekäännöksellä (&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository Mapping</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132505Z" creationid="piav" creationdate="20190521T132505Z">
+        <seg>Pakettivarastojen kartoitus</seg>
       </tuv>
     </tu>
     <tu>
@@ -7186,10 +7234,26 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132523Z" creationid="piav" creationdate="20190521T132523Z">
+        <seg>Tyyppi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>UNL</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T101914Z" creationid="piav" creationdate="20190521T101914Z">
         <seg>VAP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132524Z" creationid="piav" creationdate="20190521T132524Z">
+        <seg>URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -7214,6 +7278,30 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T084707Z" creationid="PiaVee" creationdate="20171218T084707Z">
         <seg>Uuden TMX-tiedoston luominen ei onnistu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to convert project!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132446Z" creationid="piav" creationdate="20190521T132446Z">
+        <seg>Projektin muuntaminen ei onnistu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to download team project!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132457Z" creationid="piav" creationdate="20190521T132457Z">
+        <seg>Ryhmäprojektin lataaminen ei onnistu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to read project file!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132432Z" creationid="piav" creationdate="20190521T132432Z">
+        <seg>Projektitiedoston lukeminen ei onnistu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7743,6 +7831,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T082045Z" creationid="PiaVee" creationdate="20171015T100511Z">
         <seg>Projektissa ei ole tiedostoja, joiden tiedostomuotoja tuetaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ZIP files</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132413Z" creationid="piav" creationdate="20190521T132413Z">
+        <seg>ZIP-tiedostot</seg>
       </tuv>
     </tu>
     <tu>
