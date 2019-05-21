@@ -4256,6 +4256,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T140325Z" creationid="piav" creationdate="20190521T140325Z">
+        <seg>Avainsanahaku etsii kaikkia välilyönnein erotettuja avainsanoja riippumatta niiden järjestyksestä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Khmer</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174513Z" creationid="PiaVee" creationdate="20171014T174513Z">
@@ -5861,6 +5869,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103903Z" creationid="PiaVee" creationdate="20171015T103831Z">
         <seg>Kirjaa sama käännös</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T140454Z" creationid="piav" creationdate="20190521T140454Z">
+        <seg>Haku säännöllisillä lausekkeilla etsii Javasta säännöllisiä lausekkeita käyttöoppaassa kuvatulla tavalla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7737,9 +7753,9 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
         <seg>Types:
 Exact searches match the whole search string.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T140217Z" creationid="piav" creationdate="20190521T140217Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T140237Z" creationid="piav" creationdate="20190521T140217Z">
         <seg>Tyypit:
-Täsmähaut etsivät koko </seg>
+Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8188,6 +8204,16 @@ Täsmähaut etsivät koko </seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T150538Z" creationid="PiaVee" creationdate="20171014T150538Z">
         <seg>Vie osoitin alleviivatun lausekkeen yläpuolelle, niin saat näkyviin selityksen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wildcards:
+Both exact and keyword searches support the wildcard characters * and ?.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T140527Z" creationid="piav" creationdate="20190521T140527Z">
+        <seg>Jokerimerkit:
+Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * ja ?.</seg>
       </tuv>
     </tu>
     <tu>
