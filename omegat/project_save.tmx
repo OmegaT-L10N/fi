@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;License</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180956Z" creationid="piav" creationdate="20190521T180956Z">
+        <seg>&amp;Lisenssi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Line breaks</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180040Z" creationid="piav" creationdate="20190521T180040Z">
@@ -2453,6 +2461,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T161803Z" creationid="PiaVee" creationdate="20171014T161803Z">
         <seg>Copyright Marc Prior 2009–2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180951Z" creationid="piav" creationdate="20190521T180951Z">
+        <seg>Copyright © 2000–2019 Keith Godfrey, Maxym Mykhalchuk sekä muut</seg>
       </tuv>
     </tu>
     <tu>
@@ -5778,6 +5794,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T101302Z" creationid="PiaVee" creationdate="20171015T101302Z">
         <seg>OmegaT valitsi automaattisesti Kyllä-vaihtoehdon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T181303Z" creationid="piav" creationdate="20190521T181303Z">
+        <seg>OmegaT on vapaa ja avoin työkalu tietokoneavusteiseen kääntämiseen. Siinä yhdistyvät sumeat käännösosumat, käännösmuisti, avainsanahaku ja erilaiset sanastot, ja ohjelma vie käännöksiä päivitettyihin projekteihin.</seg>
       </tuv>
     </tu>
     <tu>
