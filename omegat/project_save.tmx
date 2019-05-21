@@ -1495,6 +1495,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>B&amp;rowse</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131658Z" creationid="piav" creationdate="20190521T131658Z">
+        <seg>Selaa (&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Background situation</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T154553Z" creationid="PiaVee" creationdate="20171014T154553Z">
@@ -1619,6 +1627,30 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T095055Z" creationid="PiaVee" creationdate="20171219T094921Z">
         <seg>Lyhyt johdatus OmegaT:n käyttöön, 2009 (kieli: vietnam)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bro&amp;wse</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131708Z" creationid="piav" creationdate="20190521T131708Z">
+        <seg>Selaa (&amp;W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Brows&amp;e</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131716Z" creationid="piav" creationdate="20190521T131716Z">
+        <seg>Selaa (&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131711Z" creationid="piav" creationdate="20190521T131711Z">
+        <seg>Selaa</seg>
       </tuv>
     </tu>
     <tu>
@@ -2407,6 +2439,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionary Files Folder</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131912Z" creationid="piav" creationdate="20190521T131912Z">
+        <seg>Sanakirjojen kansio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionary Folder:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T091417Z" creationid="PiaVee" creationdate="20171218T091417Z">
@@ -2863,6 +2903,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Search...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131940Z" creationid="piav" creationdate="20190521T131940Z">
+        <seg>Ulkoinen haku…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External command completed.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T085724Z" creationid="PiaVee" creationdate="20171218T085724Z">
@@ -3179,6 +3227,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T122202Z" creationid="PiaVee" creationdate="20171015T122202Z">
         <seg>Sanasto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary Files Folder</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131827Z" creationid="piav" creationdate="20190521T131827Z">
+        <seg>Sanastojen kansio</seg>
       </tuv>
     </tu>
     <tu>
@@ -5641,6 +5697,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repository Mapping...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131935Z" creationid="piav" creationdate="20190521T131935Z">
+        <seg>Pakettivarastojen kartoitus…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T085738Z" creationid="PiaVee" creationdate="20171015T094908Z">
@@ -6169,6 +6233,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some project folders seem to have been moved.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T132008Z" creationid="piav" creationdate="20190521T132008Z">
+        <seg>Näyttää siltä, että jotkut projektikansiot on siirretty muualle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sorry</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124842Z" creationid="PiaVee" creationdate="20170908T124842Z">
@@ -6177,10 +6249,18 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source Files Folder</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131802Z" creationid="piav" creationdate="20190521T131747Z">
+        <seg>Lähdetiedostojen kansio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source Files Folder:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091225Z" creationid="PiaVee" creationdate="20171218T091225Z">
-        <seg>Lähdetiedostokansio:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131759Z" creationid="PiaVee" creationdate="20171218T091225Z">
+        <seg>Lähdetiedostojen kansio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6970,6 +7050,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated Files Folder</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131814Z" creationid="piav" creationdate="20190521T131814Z">
+        <seg>Käännettyjen tiedostojen kansio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated Files Folder:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T091252Z" creationid="PiaVee" creationdate="20171218T091252Z">
@@ -6998,6 +7086,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072925Z" creationid="PiaVee" creationdate="20171218T072925Z">
         <seg>Käännettyjä uniikkeja segmenttejä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131859Z" creationid="piav" creationdate="20190521T131859Z">
+        <seg>Käännösmuistitiedostojen kansio</seg>
       </tuv>
     </tu>
     <tu>
@@ -7494,6 +7590,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171220T092319Z" creationid="PiaVee" creationdate="20171219T110524Z">
         <seg>Tekstitiedostojen kanssa työskentely</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writeable Glossary File</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T131923Z" creationid="piav" creationdate="20190521T131923Z">
+        <seg>Kirjoituskelpoinen sanastotiedosto</seg>
       </tuv>
     </tu>
     <tu>
