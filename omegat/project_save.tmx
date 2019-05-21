@@ -3255,6 +3255,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Git</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T133224Z" creationid="piav" creationdate="20190521T133224Z">
+        <seg>Git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Global spell checking</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092459Z" creationid="PiaVee" creationdate="20171014T092459Z">
@@ -3323,6 +3331,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174213Z" creationid="PiaVee" creationdate="20171014T174213Z">
         <seg>gudžarati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTTP(S)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T133230Z" creationid="piav" creationdate="20190521T133230Z">
+        <seg>HTTP(S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5849,6 +5865,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repository {0} unknown</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T133221Z" creationid="piav" creationdate="20190521T133221Z">
+        <seg>Pakettivarasto {0} on tuntematon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T085738Z" creationid="PiaVee" creationdate="20171015T094908Z">
@@ -6545,6 +6569,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subversion</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T133226Z" creationid="piav" creationdate="20190521T133226Z">
+        <seg>Aliversio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sundanese</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081603Z" creationid="PiaVee" creationdate="20171015T081603Z">
@@ -6825,6 +6857,16 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
+xx or xxx is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T133658Z" creationid="piav" creationdate="20190521T133658Z">
+        <seg>Kielikoodin tulisi olla muotoa xx-YY, xxx-YY, xx_YY tai xxx_YY, jossa
+xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The most that OmegaT can do in such a case, is to assume that the text is written in the same language the computer itself uses.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190515T072544Z" creationid="PiaVee" creationdate="20171220T093524Z">
@@ -6861,6 +6903,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T060643Z" creationid="PiaVee" creationdate="20170930T060643Z">
         <seg>Komentosarja päättyy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The source file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T133247Z" creationid="piav" creationdate="20190521T133247Z">
+        <seg>Annettu lähtökieli ei kelpaa!</seg>
       </tuv>
     </tu>
     <tu>
