@@ -722,9 +722,9 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T075013Z" creationid="PiaVee" creationdate="20171015T083944Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T080245Z" creationid="PiaVee" creationdate="20171015T083944Z">
         <seg>--disable-location-save
-		Ei muista viimeksi avattua hakemistoa tiedostovalitsimessa </seg>
+		Ei muista viimeksi avattua hakemistoa tiedostovalitsimessa. </seg>
       </tuv>
     </tu>
     <tu>
@@ -732,9 +732,9 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T074924Z" creationid="PiaVee" creationdate="20171015T083837Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T080228Z" creationid="PiaVee" creationdate="20171015T083837Z">
         <seg>--disable-project-locking
-		Ei lukitse projektin omegat.project-tiedostoa</seg>
+		Ei lukitse projektin omegat.project-tiedostoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -742,8 +742,8 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T073729Z" creationid="PiaVee" creationdate="20171015T083314Z">
-        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+      <tuv lang="FI" changeid="piav" changedate="20190521T080225Z" creationid="PiaVee" creationdate="20171015T083314Z">
+        <seg>.--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Määrittelee muun kuin oletustilan (GUI).</seg>
       </tuv>
     </tu>
@@ -773,10 +773,10 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T073719Z" creationid="PiaVee" creationdate="20171015T083243Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T080215Z" creationid="PiaVee" creationdate="20171015T083243Z">
         <seg>--remote-project
 		Noutaa omegat.project-tiedoston &lt;projektipolku&gt;-
-		-kohdassa annetusta osoitteesta ja lataa projektin.</seg>
+		-kohdassa annetusta osoitteesta ja lataa projektin,</seg>
       </tuv>
     </tu>
     <tu>
@@ -818,7 +818,7 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T073613Z" creationid="PiaVee" creationdate="20171015T083049Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T080213Z" creationid="PiaVee" creationdate="20171015T083049Z">
         <seg>-h, --help
 		Näyttää tarkempaa tietoa käytöstä.</seg>
       </tuv>
@@ -1907,10 +1907,10 @@ Nykyinen asetus on {0} MB.</seg>
 	-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T092631Z" creationid="PiaVee" creationdate="20171015T092540Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T080309Z" creationid="PiaVee" creationdate="20171015T092540Z">
         <seg>Komennot:
 	-h, --help
-		Näyttää tietoa käytöstä.</seg>
+		Näyttää tarkempaa tietoa käytöstä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5024,10 +5024,8 @@ Nykyinen asetus on {0} MB.</seg>
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T094257Z" creationid="PiaVee" creationdate="20171015T094257Z">
-        <seg>Lisää lähtötiedostot kansioon ./source, apumateriaali
-kansioihin ./tm, ./glossary ja ./dictionary
-ja vahvista kaikki.
+      <tuv lang="FI" changeid="piav" changedate="20190521T080356Z" creationid="PiaVee" creationdate="20171015T094257Z">
+        <seg>Lisää lähtötiedostot kansioon ./source, apumateriaali kansioihin ./tm, ./glossary ja ./dictionary ja vahvista kaikki.
 </seg>
       </tuv>
     </tu>
