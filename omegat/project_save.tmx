@@ -1495,6 +1495,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aut&amp;hor:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T134613Z" creationid="piav" creationdate="20190521T134613Z">
+        <seg>Tekijä: (&amp;H)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-Completion</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T122446Z" creationid="PiaVee" creationdate="20171015T122446Z">
@@ -1867,6 +1875,22 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171220T112625Z" creationid="PiaVee" creationdate="20171220T112625Z">
         <seg>Vaihda tiedostotunnisteeksi &lt;l1&gt;.txt&lt;/l1&gt;:n sijaan &lt;l2&gt;.utf8&lt;/l2&gt;. Näin &lt;a3&gt;OmegaT&lt;/a3&gt; tulkitsee automaattisesti tiedoston UTF-8-tiedostoksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changed &amp;before:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T134637Z" creationid="piav" creationdate="20190521T134637Z">
+        <seg>Muutettu ennen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changed after:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T134647Z" creationid="piav" creationdate="20190521T134624Z">
+        <seg>Muutospvm jälkeen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3447,6 +3471,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hide Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T134606Z" creationid="piav" creationdate="20190521T134606Z">
+        <seg>Piilota lisäasetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hindi</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174246Z" creationid="PiaVee" creationdate="20171014T174246Z">
@@ -3684,6 +3716,22 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T154325Z" creationid="PiaVee" creationdate="20171014T154325Z">
         <seg>Jos projektin kielille ei ole olemassa saneistimia, OmegaT käyttää Hunspell-oikolukusanastoja, mikäli nämä on asennettu koneelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In comments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T134521Z" creationid="piav" creationdate="20190521T134521Z">
+        <seg>Kommenteissa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In notes</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T134518Z" creationid="piav" creationdate="20190521T134518Z">
+        <seg>Muistiinpanoissa</seg>
       </tuv>
     </tu>
     <tu>
@@ -4912,6 +4960,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T102614Z" creationid="PiaVee" creationdate="20171219T102614Z">
         <seg>Kaksikielisen lähde- ja kohdekielisen sanakirjan lisäksi voit käyttää Sanakirja-toimintoa hakeaksesi tietoa seuraavista:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T134614Z" creationid="piav" creationdate="20190521T134614Z">
+        <seg>Nyt</seg>
       </tuv>
     </tu>
     <tu>
@@ -6413,6 +6469,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081421Z" creationid="PiaVee" creationdate="20171015T081421Z">
         <seg>šona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T134600Z" creationid="piav" creationdate="20190521T134600Z">
+        <seg>Näytä lisäasetukset (&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
