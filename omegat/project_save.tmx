@@ -184,8 +184,8 @@
       <tuv lang="EN">
         <seg>&amp;Clear Menu</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T093221Z" creationid="piav" creationdate="20190521T093221Z">
-        <seg>Tyhjennä valikko (&amp;C)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T170321Z" creationid="piav" creationdate="20190521T093221Z">
+        <seg>T&amp;yhjennä valikko</seg>
       </tuv>
     </tu>
     <tu>
@@ -272,8 +272,8 @@
       <tuv lang="EN">
         <seg>&amp;Finish</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103201Z" creationid="PiaVee" creationdate="20171015T095021Z">
-        <seg>Valmis (&amp;F)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T170135Z" creationid="PiaVee" creationdate="20171015T095021Z">
+        <seg>&amp;Valmis</seg>
       </tuv>
     </tu>
     <tu>
@@ -392,8 +392,8 @@
       <tuv lang="EN">
         <seg>&amp;New...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T082401Z" creationid="PiaVee" creationdate="20171015T101311Z">
-        <seg>Uusi… (&amp;N)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T170254Z" creationid="PiaVee" creationdate="20171015T101311Z">
+        <seg>&amp;Uusi…</seg>
       </tuv>
     </tu>
     <tu>
@@ -416,8 +416,8 @@
       <tuv lang="EN">
         <seg>&amp;Open...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T082418Z" creationid="PiaVee" creationdate="20171015T101338Z">
-        <seg>Avaa… (&amp;O)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T170306Z" creationid="PiaVee" creationdate="20171015T101338Z">
+        <seg>&amp;Avaa…</seg>
       </tuv>
     </tu>
     <tu>
@@ -488,8 +488,8 @@
       <tuv lang="EN">
         <seg>&amp;Reload</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T093324Z" creationid="PiaVee" creationdate="20171015T102412Z">
-        <seg>Lataa uudelleen (&amp;R)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T170358Z" creationid="PiaVee" creationdate="20171015T102412Z">
+        <seg>Lataa &amp;uudelleen</seg>
       </tuv>
     </tu>
     <tu>
@@ -504,8 +504,8 @@
       <tuv lang="EN">
         <seg>&amp;Remove Filter</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T080744Z" creationid="PiaVee" creationdate="20171015T095028Z">
-        <seg>Poista suodatin (&amp;R)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T170210Z" creationid="PiaVee" creationdate="20171015T095028Z">
+        <seg>Poista suo&amp;datin</seg>
       </tuv>
     </tu>
     <tu>
@@ -520,8 +520,8 @@
       <tuv lang="EN">
         <seg>&amp;Replace Next</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T103157Z" creationid="PiaVee" creationdate="20171015T095014Z">
-        <seg>Korvaa seuraava (&amp;R)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T170129Z" creationid="PiaVee" creationdate="20171015T095014Z">
+        <seg>Korvaa &amp;seuraava</seg>
       </tuv>
     </tu>
     <tu>
@@ -560,8 +560,8 @@
       <tuv lang="EN">
         <seg>&amp;Save As...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T080750Z" creationid="PiaVee" creationdate="20171015T095038Z">
-        <seg>Tallenna nimellä… (&amp;S)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T170245Z" creationid="PiaVee" creationdate="20171015T095038Z">
+        <seg>Tallenna &amp;nimellä…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2283,8 +2283,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T093242Z" creationid="PiaVee" creationdate="20171015T101414Z">
-        <seg>Kopioi tiedostoja lähdekansioon… (&amp;Y)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T170337Z" creationid="PiaVee" creationdate="20171015T101414Z">
+        <seg>&amp;Kopioi tiedostoja lähdekansioon…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2779,16 +2779,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T082410Z" creationid="PiaVee" creationdate="20171015T101333Z">
-        <seg>Lataa ryhmäprojekti… (&amp;T)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T170258Z" creationid="PiaVee" creationdate="20171015T101333Z">
+        <seg>Lataa &amp;ryhmäprojekti…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Download Media&amp;Wiki Page...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T093303Z" creationid="PiaVee" creationdate="20171015T102305Z">
-        <seg>Lataa MediaWiki-sivu… (&amp;W)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T170348Z" creationid="PiaVee" creationdate="20171015T102305Z">
+        <seg>Lataa Media&amp;Wiki-sivu…</seg>
       </tuv>
     </tu>
     <tu>
@@ -5496,8 +5496,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Open Recent Pro&amp;ject</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T082520Z" creationid="PiaVee" creationdate="20171015T101350Z">
-        <seg>Avaa viimeisin projekti (&amp;J)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T170314Z" creationid="PiaVee" creationdate="20171015T101350Z">
+        <seg>Avaa &amp;viimeisin projekti</seg>
       </tuv>
     </tu>
     <tu>
