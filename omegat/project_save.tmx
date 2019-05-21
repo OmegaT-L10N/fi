@@ -128,8 +128,8 @@
       <tuv lang="EN">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T131424Z" creationid="PiaVee" creationdate="20171218T091614Z">
-        <seg>Automaattinen käännösehdotusten käyttö (&amp;A)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173818Z" creationid="PiaVee" creationdate="20171218T091614Z">
+        <seg>&amp;Automaattinen käännösehdotusten käyttö</seg>
       </tuv>
     </tu>
     <tu>
@@ -160,8 +160,8 @@
       <tuv lang="EN">
         <seg>&amp;Browse</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T131458Z" creationid="PiaVee" creationdate="20171218T092149Z">
-        <seg>Selaa (&amp;B)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173838Z" creationid="PiaVee" creationdate="20171218T092149Z">
+        <seg>&amp;Selaa</seg>
       </tuv>
     </tu>
     <tu>
@@ -376,8 +376,8 @@
       <tuv lang="EN">
         <seg>&amp;Make the segmentation rules project specific</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T131230Z" creationid="PiaVee" creationdate="20171218T091204Z">
-        <seg>Tee segmentointisäännöistä projektikohtaiset (&amp;M)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173717Z" creationid="PiaVee" creationdate="20171218T091204Z">
+        <seg>Tee segmentointisäännöistä &amp;projektikohtaiset</seg>
       </tuv>
     </tu>
     <tu>
@@ -640,16 +640,16 @@
       <tuv lang="EN">
         <seg>&amp;Source Files Language:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T131243Z" creationid="PiaVee" creationdate="20171218T091324Z">
-        <seg>Lähdetiedostojen kieli (&amp;S):</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173728Z" creationid="PiaVee" creationdate="20171218T091324Z">
+        <seg>&amp;Lähdetiedostojen kieli:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Source Language Tokenizer:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T131408Z" creationid="PiaVee" creationdate="20171218T091408Z">
-        <seg>Lähdekielen saneistin (&amp;S):</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173753Z" creationid="PiaVee" creationdate="20171218T091408Z">
+        <seg>Lähdekielen &amp;saneistin:</seg>
       </tuv>
     </tu>
     <tu>
@@ -672,8 +672,8 @@
       <tuv lang="EN">
         <seg>&amp;Target Language Tokenizer:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T131414Z" creationid="PiaVee" creationdate="20171218T091414Z">
-        <seg>Kohdekielen saneistin (&amp;T):</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173802Z" creationid="PiaVee" creationdate="20171218T091414Z">
+        <seg>Kohdekielen saneisti&amp;n:</seg>
       </tuv>
     </tu>
     <tu>
@@ -696,8 +696,8 @@
       <tuv lang="EN">
         <seg>&amp;Translated Files Language:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T131404Z" creationid="PiaVee" creationdate="20171218T091350Z">
-        <seg>Käännettyjen tiedostojen kieli (&amp;T):</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173747Z" creationid="PiaVee" creationdate="20171218T091350Z">
+        <seg>&amp;Käännettyjen tiedostojen kieli:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1619,8 +1619,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>B&amp;rowse</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T131658Z" creationid="piav" creationdate="20190521T131658Z">
-        <seg>Selaa (&amp;R)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173847Z" creationid="piav" creationdate="20190521T131658Z">
+        <seg>S&amp;elaa</seg>
       </tuv>
     </tu>
     <tu>
@@ -1779,16 +1779,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Bro&amp;wse</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T131708Z" creationid="piav" creationdate="20190521T131708Z">
-        <seg>Selaa (&amp;W)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173852Z" creationid="piav" creationdate="20190521T131708Z">
+        <seg>Se&amp;laa</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Brows&amp;e</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T131716Z" creationid="piav" creationdate="20190521T131716Z">
-        <seg>Selaa (&amp;E)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173857Z" creationid="piav" creationdate="20190521T131716Z">
+        <seg>Sel&amp;aa</seg>
       </tuv>
     </tu>
     <tu>
@@ -1891,8 +1891,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T131135Z" creationid="PiaVee" creationdate="20171218T090414Z">
-        <seg>Kopioi kaikki tiedot leikepöydälle (&amp;O)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173701Z" creationid="PiaVee" creationdate="20171218T090414Z">
+        <seg>&amp;Kopioi kaikki tiedot leikepöydälle</seg>
       </tuv>
     </tu>
     <tu>
@@ -2139,8 +2139,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Clo&amp;se</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T102703Z" creationid="PiaVee" creationdate="20171218T072609Z">
-        <seg>Sulje (&amp;S)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173618Z" creationid="PiaVee" creationdate="20171218T072609Z">
+        <seg>&amp;Sulje</seg>
       </tuv>
     </tu>
     <tu>
@@ -2851,16 +2851,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>E&amp;nable Sentence-level Segmenting</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T131212Z" creationid="PiaVee" creationdate="20171218T091033Z">
-        <seg>Käytä lausetason segmentointia (&amp;N)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173707Z" creationid="PiaVee" creationdate="20171218T091033Z">
+        <seg>Käytä &amp;lausetason segmentointia</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>E&amp;xclusions...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T131651Z" creationid="PiaVee" creationdate="20171218T113733Z">
-        <seg>Poikkeukset…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173841Z" creationid="PiaVee" creationdate="20171218T113733Z">
+        <seg>&amp;Poikkeukset…</seg>
       </tuv>
     </tu>
     <tu>
@@ -5044,8 +5044,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Move &amp;Last</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T102658Z" creationid="PiaVee" creationdate="20171218T072543Z">
-        <seg>Siirrä viimeiseksi (&amp;V)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173611Z" creationid="PiaVee" creationdate="20171218T072543Z">
+        <seg>Siirrä &amp;viimeiseksi</seg>
       </tuv>
     </tu>
     <tu>
@@ -6165,8 +6165,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T131430Z" creationid="PiaVee" creationdate="20171218T091622Z">
-        <seg>Poista tägit (&amp;G)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T173827Z" creationid="PiaVee" creationdate="20171218T091622Z">
+        <seg>&amp;Poista tägit</seg>
       </tuv>
     </tu>
     <tu>
