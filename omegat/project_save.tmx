@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset Options</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T143053Z" creationid="piav" creationdate="20190521T143053Z">
+        <seg>Nollaa asetukset (&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T101307Z" creationid="PiaVee" creationdate="20171015T122710Z">
@@ -570,6 +578,14 @@
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T093600Z" creationid="PiaVee" creationdate="20171015T103515Z">
         <seg>Etsi projektista… (&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Search for Selection</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T143037Z" creationid="piav" creationdate="20190521T143037Z">
+        <seg>Etsi valintaa (&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -742,6 +758,14 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T125908Z" creationid="PiaVee" creationdate="20171218T125908Z">
         <seg>* Nämä näppäimet toimivat eri tavalla, kun kohdistin on muokattavan segmentin ulkopuolella:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>+{0} more</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T143012Z" creationid="piav" creationdate="20190521T143012Z">
+        <seg>+{0} lisää</seg>
       </tuv>
     </tu>
     <tu>
@@ -1905,6 +1929,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot load specified XML file!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T143206Z" creationid="piav" creationdate="20190521T143206Z">
+        <seg>Annetun XML-tiedoston lataaminen ei onnistu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Catalan</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173748Z" creationid="PiaVee" creationdate="20171014T173748Z">
@@ -2169,6 +2201,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T095044Z" creationid="PiaVee" creationdate="20171015T095044Z">
         <seg>Vahvista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confused by false start of comment tag!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T143251Z" creationid="piav" creationdate="20190521T143251Z">
+        <seg>Väärä alku tai kommenttitägi hämmentää!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2833,6 +2873,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T143040Z" creationid="piav" creationdate="20190521T143040Z">
+        <seg>Muokkaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Project</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T091040Z" creationid="PiaVee" creationdate="20171218T091040Z">
@@ -3253,6 +3301,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174059Z" creationid="PiaVee" creationdate="20171014T174059Z">
         <seg>fidži</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T143020Z" creationid="piav" creationdate="20190521T143020Z">
+        <seg>Tiedosto</seg>
       </tuv>
     </tu>
     <tu>
@@ -3693,6 +3749,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T101930Z" creationid="piav" creationdate="20190521T101930Z">
         <seg>LIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IOException encountered:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T143218Z" creationid="piav" creationdate="20190521T143218Z">
+        <seg>Tapahtui I/O-poikkeus:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5058,6 +5122,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No matches returned by search.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T142955Z" creationid="piav" creationdate="20190521T142955Z">
+        <seg>Haku ei löytänyt tuloksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-GUI mode options:
 	--quiet
 		Reduce output to command line stdout.</seg>
@@ -5126,6 +5198,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not a valid XML file!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T143146Z" creationid="piav" creationdate="20190521T143146Z">
+        <seg>XML-tiedosto ei kelpaa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not to mention his care and diligence, keeping repositories intact and in good order.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T064856Z" creationid="PiaVee" creationdate="20170930T064833Z">
@@ -5146,6 +5226,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T134614Z" creationid="piav" creationdate="20190521T134614Z">
         <seg>Nyt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nr of matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T143007Z" creationid="piav" creationdate="20190521T143007Z">
+        <seg>Osuvien segmenttien lukumäärä: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5629,6 +5717,14 @@ everything.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T162043Z" creationid="PiaVee" creationdate="20171014T162043Z">
         <seg>Tarkempaa ja ajankohtaista tietoa kielikoodeista löytyy &lt;u0&gt;ISO 639 -kooditaulukosta&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please close search window.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T142946Z" creationid="piav" creationdate="20190521T142946Z">
+        <seg>Sulje hakuikkuna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7932,10 +8028,26 @@ Täsmähaut etsivät koko hakustringiä.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to initialize read of XML file!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T143124Z" creationid="piav" creationdate="20190521T143124Z">
+        <seg>XML-tiedoston luvun alustus ei onnistu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to read project file!</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T132432Z" creationid="piav" creationdate="20190521T132432Z">
         <seg>Projektitiedoston lukeminen ei onnistu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unexpected char {0} ({1})!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T143231Z" creationid="piav" creationdate="20190521T143231Z">
+        <seg>odottamaton merkki {0} ({1})!</seg>
       </tuv>
     </tu>
     <tu>
@@ -8024,6 +8136,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090059Z" creationid="PiaVee" creationdate="20171218T090059Z">
         <seg>Uniikkeja:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported XML version {0}!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T143135Z" creationid="piav" creationdate="20190521T143135Z">
+        <seg>XML-versiota {0} ei tueta!</seg>
       </tuv>
     </tu>
     <tu>
@@ -11805,6 +11925,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124826Z" creationid="PiaVee" creationdate="20171015T124826Z">
         <seg>{0} ({1} jäljellä) / {2} ({3} jäljellä), {4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} +{1} more</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T143015Z" creationid="piav" creationdate="20190521T143015Z">
+        <seg>{0} +{1} lisää</seg>
       </tuv>
     </tu>
     <tu>
