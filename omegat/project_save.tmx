@@ -1783,6 +1783,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;ase sensitive</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T134819Z" creationid="piav" creationdate="20190521T134819Z">
+        <seg>Erottele kirjainkoko (&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T131135Z" creationid="PiaVee" creationdate="20171218T090414Z">
@@ -1881,16 +1889,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T134637Z" creationid="piav" creationdate="20190521T134637Z">
-        <seg>Muutettu ennen:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T134750Z" creationid="piav" creationdate="20190521T134637Z">
+        <seg>Muutettu ennen (&amp;B):</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Changed after:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T134647Z" creationid="piav" creationdate="20190521T134624Z">
-        <seg>Muutospvm jälkeen:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190521T134745Z" creationid="piav" creationdate="20190521T134624Z">
+        <seg>Muutettu jälkeen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3291,6 +3299,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T180918Z" creationid="PiaVee" creationdate="20171014T174119Z">
         <seg>fulani</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full/Half &amp;width char insensitive</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T134929Z" creationid="piav" creationdate="20190521T134929Z">
+        <seg>Ei erottele täys- ja puolileveitä merkkejä (&amp;W)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6145,6 +6161,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>S&amp;pace matches nbsp</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T135029Z" creationid="piav" creationdate="20190521T134953Z">
+        <seg>Välilyönti vastaa nbsp:tä (&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SVN - Cleanup</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T083324Z" creationid="PiaVee" creationdate="20170910T083324Z">
@@ -6277,6 +6301,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T134317Z" creationid="piav" creationdate="20190521T134311Z">
         <seg>Etsi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search in</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T134956Z" creationid="piav" creationdate="20190521T134956Z">
+        <seg>Etsittävä alue</seg>
       </tuv>
     </tu>
     <tu>
