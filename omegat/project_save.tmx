@@ -2961,6 +2961,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175534Z" creationid="piav" creationdate="20190521T175534Z">
+        <seg>Käytössä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Encoding</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072331Z" creationid="PiaVee" creationdate="20171218T072331Z">
@@ -3357,6 +3365,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T102405Z" creationid="PiaVee" creationdate="20171015T102405Z">
         <seg>Tiedoston kopiointi ei onnistunut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Format</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175530Z" creationid="piav" creationdate="20190521T175530Z">
+        <seg>Tiedostomuoto</seg>
       </tuv>
     </tu>
     <tu>
@@ -4754,6 +4770,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Loading glossary {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175526Z" creationid="piav" creationdate="20190521T175526Z">
+        <seg>Sanastoa {0} ladataan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading project...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T102749Z" creationid="PiaVee" creationdate="20171218T082805Z">
@@ -5490,6 +5514,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T100129Z" creationid="PiaVee" creationdate="20171015T100129Z">
         <seg>OmegaT sulkeutuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will try to resegment the TMX file...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175508Z" creationid="piav" creationdate="20190521T175508Z">
+        <seg>OmegaT yrittää segmentoida TMX-tiedoston uudelleen…</seg>
       </tuv>
     </tu>
     <tu>
@@ -7021,6 +7053,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source File Encoding</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175603Z" creationid="piav" creationdate="20190521T175603Z">
+        <seg>Lähdetiedoston merkistökoodaus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Filename Pattern</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175553Z" creationid="piav" creationdate="20190521T175553Z">
+        <seg>Lähdetiedoston nimen kuvio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source Files Folder</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T131802Z" creationid="piav" creationdate="20190521T131747Z">
@@ -7926,6 +7974,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T160323Z" creationid="PiaVee" creationdate="20171014T160253Z">
         <seg>Käännä tämä tiedosto OmegaT:ssä tavalliseen tapaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated File Encoding</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175708Z" creationid="piav" creationdate="20190521T175708Z">
+        <seg>Käännöstiedoston merkistökoodaus</seg>
       </tuv>
     </tu>
     <tu>
