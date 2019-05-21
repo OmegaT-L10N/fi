@@ -862,11 +862,11 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T081754Z" creationid="PiaVee" creationdate="20171015T095559Z">
+      <tuv lang="FI" changeid="piav" changedate="20190521T094600Z" creationid="PiaVee" creationdate="20171015T095559Z">
         <seg>2) Lisää OmegaT:n käytettävissä olevaa muistia. Kirjoita
 joko komentoriville tai OmegaT:n aloituskomentosarjaan
 komento "java -Xmx&lt;muistin-koko-megatavuissa&gt;M -jar OmegaT.jar".
-Nykyinen asetus on {0} MB.</seg>
+Nykyinen asetus on {0} MB.</seg>
       </tuv>
     </tu>
     <tu>
