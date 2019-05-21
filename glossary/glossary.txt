@@ -670,3 +670,9 @@ Copy Files to Source Folder...	Kopioi lähdekansioon…	button = painike
 Files to translate	Käännettävät tiedostot	käyttöoppaan kohta
 File formats	Tiedostomuodot	käyttöoppaan kohdan "Käännettävät tiedostot" alakohta
 Mapping	yhdistäminen	esim. paikallinen kansio yhdistetään etäkansioon
+Source files folder	lähdetiedostojen kansio
+Translated files folder	käännettyjen tiedostojen kansio
+Glossary files folder	sanastojen kansio
+Writeable glossary file folder	kirjoituskelpoisen sanaston kansio
+Writeable glossary	kirjoituskelpoinen sanasto
+Dictionary files folder	Sanakirjojen kansio
