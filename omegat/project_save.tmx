@@ -206,6 +206,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Comments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180340Z" creationid="piav" creationdate="20190521T180340Z">
+        <seg>&amp;kommentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Compatibility with OmegaT 2.6</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180524Z" creationid="piav" creationdate="20190521T180524Z">
+        <seg>&amp;Yhteensopivuus OmegaT 2.6:n kanssa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Current Source Document</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T170642Z" creationid="PiaVee" creationdate="20171015T102804Z">
@@ -438,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Notes</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180336Z" creationid="piav" creationdate="20190521T180336Z">
+        <seg>&amp;muistiinpanot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T165544Z" creationid="PiaVee" creationdate="20171015T094259Z">
@@ -466,6 +490,14 @@
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173447Z" creationid="PiaVee" creationdate="20171015T123011Z">
         <seg>&amp;Asetukset…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Presentation notes</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180348Z" creationid="piav" creationdate="20190521T180348Z">
+        <seg>&amp;esitysmuistiinpanot</seg>
       </tuv>
     </tu>
     <tu>
@@ -634,6 +666,14 @@
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173006Z" creationid="PiaVee" creationdate="20171015T111613Z">
         <seg>S&amp;egmentointi…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Sheet Names</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180408Z" creationid="piav" creationdate="20190521T180408Z">
+        <seg>&amp;arkkien nimet</seg>
       </tuv>
     </tu>
     <tu>
@@ -1797,6 +1837,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173716Z" creationid="PiaVee" creationdate="20171014T173716Z">
         <seg>bislama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bookmark &amp;references</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180332Z" creationid="piav" creationdate="20190521T180332Z">
+        <seg>kirjanmerkki&amp;viitteet</seg>
       </tuv>
     </tu>
     <tu>
@@ -3945,6 +3993,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Identifier used for alternative translations</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180557Z" creationid="piav" creationdate="20190521T180557Z">
+        <seg>Vaihtoehtoisissa käännöksissä käytetty tunnus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ido</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174348Z" creationid="PiaVee" creationdate="20171014T174348Z">
@@ -4854,6 +4910,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174815Z" creationid="PiaVee" creationdate="20171014T174815Z">
         <seg>lingala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Links (&amp;URL)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180355Z" creationid="piav" creationdate="20190521T180355Z">
+        <seg>Linkit (&amp;URL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6139,6 +6203,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Previous and &amp;next paragraphs</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180614Z" creationid="piav" creationdate="20190521T180614Z">
+        <seg>Edelliset ja &amp;seuraavat kappaleet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Private collections are displayed in bold.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T114358Z" creationid="PiaVee" creationdate="20171014T114358Z">
@@ -7377,6 +7449,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081554Z" creationid="PiaVee" creationdate="20171015T081554Z">
         <seg>espanja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specify tag handling behaviour</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180511Z" creationid="piav" creationdate="20190521T180511Z">
+        <seg>Määrittele tägien käsittelyn käyttäytyminen</seg>
       </tuv>
     </tu>
     <tu>
@@ -9002,6 +9082,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180111Z" creationid="piav" creationdate="20190521T180111Z">
         <seg>XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XLIFF Filter Options</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T180417Z" creationid="piav" creationdate="20190521T180417Z">
+        <seg>XLIFF-suodattimen asetukset</seg>
       </tuv>
     </tu>
     <tu>
