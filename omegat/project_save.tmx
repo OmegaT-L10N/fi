@@ -2401,6 +2401,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Created by: {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174908Z" creationid="piav" creationdate="20190521T174908Z">
+        <seg>Laatija: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a key</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T103358Z" creationid="PiaVee" creationdate="20171014T103358Z">
@@ -6075,6 +6083,22 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reading TMX file {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174851Z" creationid="piav" creationdate="20190521T174851Z">
+        <seg>TMX-tiedostoa {0} luetaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reading of TMX file complete</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174859Z" creationid="piav" creationdate="20190521T174859Z">
+        <seg>TMX-tiedosto luettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Recursi&amp;ve search</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T174622Z" creationid="piav" creationdate="20190521T135735Z">
@@ -6749,10 +6773,26 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment skipped.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174959Z" creationid="piav" creationdate="20190521T174959Z">
+        <seg>Segmentti ohitettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment {0,number,#}</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T101822Z" creationid="PiaVee" creationdate="20171015T124427Z">
         <seg>Segmentti {0,numero,#}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation method: {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174922Z" creationid="piav" creationdate="20190521T174922Z">
+        <seg>Segmentointitapa: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7017,6 +7057,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T133727Z" creationid="piav" creationdate="20190521T133727Z">
         <seg>Annettua lähdetiedostojen kansiota ei ole!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source language: {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174926Z" creationid="piav" creationdate="20190521T174926Z">
+        <seg>Lähdekieli: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7573,6 +7621,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T102338Z" creationid="PiaVee" creationdate="20171219T102338Z">
         <seg>Kansiossa pitäisi olle kolme tiedostoa, joiden tiedostotunnisteet ovat &lt;e1&gt;dz, idx&lt;/e1&gt; ja &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These units have been skipped.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175008Z" creationid="piav" creationdate="20190521T175008Z">
+        <seg>Nämä yksiköt on ohitettu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8204,6 +8260,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Upgrading...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175043Z" creationid="piav" creationdate="20190521T175043Z">
+        <seg>Päivitetään…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Urdu</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082219Z" creationid="PiaVee" creationdate="20171015T082219Z">
@@ -8352,6 +8416,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082231Z" creationid="PiaVee" creationdate="20171015T082231Z">
         <seg>venda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version: {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T174914Z" creationid="piav" creationdate="20190521T174914Z">
+        <seg>Versio: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8675,6 +8747,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T132041Z" creationid="piav" creationdate="20190521T132041Z">
         <seg>Osoita niiden uusi sijainti tai luo ne uudestaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190521T175454Z" creationid="piav" creationdate="20190521T175454Z">
+        <seg>Tämänhetkinen projekti on segmentoitu lauseittain, mutta TMX-tiedostossa on käytössä kappaleittainen segmentointi.</seg>
       </tuv>
     </tu>
     <tu>
