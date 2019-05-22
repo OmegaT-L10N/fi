@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Browse TaaS Collections...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T081711Z" creationid="piav" creationdate="20190522T081711Z">
+        <seg>&amp;Selaa TaaS-kokoelmia…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T165548Z" creationid="PiaVee" creationdate="20171015T094303Z">
@@ -242,6 +250,14 @@
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T172514Z" creationid="PiaVee" creationdate="20171015T102701Z">
         <seg>S&amp;anakirjat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Download</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T081850Z" creationid="piav" creationdate="20190522T081850Z">
+        <seg>&amp;Lataa</seg>
       </tuv>
     </tu>
     <tu>
@@ -742,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Select</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T081939Z" creationid="piav" creationdate="20190522T081939Z">
+        <seg>&amp;Valitse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Sheet Names</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180408Z" creationid="piav" creationdate="20190521T180408Z">
@@ -802,6 +826,14 @@
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T171739Z" creationid="PiaVee" creationdate="20171015T111322Z">
         <seg>T&amp;ilastot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;TaaS Terminology Lookup</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T081753Z" creationid="piav" creationdate="20190522T081753Z">
+        <seg>&amp;TaaS-terminologiahaku</seg>
       </tuv>
     </tu>
     <tu>
@@ -1717,6 +1749,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T115640Z" creationid="PiaVee" creationdate="20171014T115640Z">
         <seg>Terminologiahaku etsii lähde- ja kohdekielisiä termejä sekä julkisista että yksityisistä kokoelmista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All domains</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T081933Z" creationid="piav" creationdate="20190522T081933Z">
+        <seg>Kaikki aihepiirit</seg>
       </tuv>
     </tu>
     <tu>
@@ -3027,6 +3067,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T081804Z" creationid="piav" creationdate="20190522T081804Z">
+        <seg>Kuvaus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Description of OmegaT (2008).</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094610Z" creationid="PiaVee" creationdate="20171219T094610Z">
@@ -3259,6 +3307,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Domains</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T081845Z" creationid="piav" creationdate="20190522T081845Z">
+        <seg>Aihepiirit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Done</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081306Z" creationid="piav" creationdate="20190522T081306Z">
@@ -3295,6 +3351,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T102316Z" creationid="PiaVee" creationdate="20171015T102311Z">
         <seg>Lataa MediaWiki-sivu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download collection {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T082051Z" creationid="piav" creationdate="20190522T082051Z">
+        <seg>Lataa kokoelma {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5956,6 +6020,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T081801Z" creationid="piav" creationdate="20190522T081801Z">
+        <seg>Nimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nauru</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174953Z" creationid="PiaVee" creationdate="20171014T174953Z">
@@ -7477,6 +7549,22 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Request error: {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T082057Z" creationid="piav" creationdate="20190522T082057Z">
+        <seg>Pyyntövirhe: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Request to TaaS: {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T081701Z" creationid="piav" creationdate="20190522T081701Z">
+        <seg>TaaS-pyyntö: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ResX</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180112Z" creationid="piav" creationdate="20190521T180112Z">
@@ -7489,6 +7577,22 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T170016Z" creationid="PiaVee" creationdate="20171015T094908Z">
         <seg>P&amp;alauta oletusasetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Retrieve collection list...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T082031Z" creationid="piav" creationdate="20190522T082003Z">
+        <seg>Hanki kokoelmaluettelo…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Retrieve domain list...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T082038Z" creationid="piav" creationdate="20190522T082038Z">
+        <seg>Hanki kokoelmaluettelo…</seg>
       </tuv>
     </tu>
     <tu>
@@ -8007,6 +8111,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select TaaS Terminology &amp;Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T081741Z" creationid="piav" creationdate="20190522T081741Z">
+        <seg>Valitse TaaS-terminologiahaun aihepiiri…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select TaaS domain</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T082016Z" creationid="piav" creationdate="20190522T082016Z">
+        <seg>Valitse TaaS-aihepiiri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Serbian</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081350Z" creationid="PiaVee" creationdate="20171015T081350Z">
@@ -8183,6 +8303,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T082302Z" creationid="piav" creationdate="20190522T082302Z">
+        <seg>Jokin meni vikaan. Lisätietoja saat Tilde Terminology-palvelusta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sorry</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124842Z" creationid="PiaVee" creationdate="20170908T124842Z">
@@ -8267,6 +8395,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T131759Z" creationid="PiaVee" creationdate="20171218T091225Z">
         <seg>Lähdetiedostojen kansio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source count</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T081833Z" creationid="piav" creationdate="20190522T081822Z">
+        <seg>Lähdelukema</seg>
       </tuv>
     </tu>
     <tu>
@@ -8503,6 +8639,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TaaS API key not set.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T082409Z" creationid="piav" creationdate="20190522T082409Z">
+        <seg>TaaS-palvelun API-avainta ei ole asetettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS Collections</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T081759Z" creationid="piav" creationdate="20190522T081759Z">
+        <seg>TaaS-kokoelmat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tab</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T063528Z" creationid="piav" creationdate="20190522T063528Z">
@@ -8571,6 +8723,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092622Z" creationid="PiaVee" creationdate="20171014T092602Z">
         <seg>Kohde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target count</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T081835Z" creationid="piav" creationdate="20190522T081830Z">
+        <seg>Kohdelukema</seg>
       </tuv>
     </tu>
     <tu>
@@ -9518,6 +9678,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unauthorized request to TaaS service.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T082207Z" creationid="piav" creationdate="20190522T082207Z">
+        <seg>Valtuuttamaton pyyntö TaaS-palvelulle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unexpected char {0} ({1})!</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T143231Z" creationid="piav" creationdate="20190521T143231Z">
@@ -9626,6 +9794,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T143135Z" creationid="piav" creationdate="20190521T143135Z">
         <seg>XML-versiota {0} ei tueta!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updated</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T081848Z" creationid="piav" creationdate="20190522T081848Z">
+        <seg>Päivitetty</seg>
       </tuv>
     </tu>
     <tu>
@@ -10100,6 +10276,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T070915Z" creationid="piav" creationdate="20190521T133828Z">
         <seg>Annettua kirjoituskelpoisen termilistan kansiota ei ole!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wrong response format from TaaS service</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T082321Z" creationid="piav" creationdate="20190522T082321Z">
+        <seg>TaaS-palvelun vastauksen muoto on väärä.</seg>
       </tuv>
     </tu>
     <tu>
