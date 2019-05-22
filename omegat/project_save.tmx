@@ -5652,6 +5652,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Merge</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T080843Z" creationid="piav" creationdate="20190522T080843Z">
+        <seg>Yhdistä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Merriam Webster dictionary - use</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T105754Z" creationid="PiaVee" creationdate="20171219T105754Z">
@@ -5664,6 +5672,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180643Z" creationid="piav" creationdate="20190521T180643Z">
         <seg>Microsoft Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mine</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T080823Z" creationid="piav" creationdate="20190522T080823Z">
+        <seg>Louhos</seg>
       </tuv>
     </tu>
     <tu>
@@ -6681,6 +6697,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T064017Z" creationid="piav" creationdate="20190522T063920Z">
         <seg>Tarkista tägit uudelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please resolve the conflicts by choosing a translation for each segment below.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T080952Z" creationid="piav" creationdate="20190522T080952Z">
+        <seg>Ratkaise ristiriidat valitsemalla alla mainittujen segmenttien käännökset.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7827,6 +7851,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T080028Z" creationid="piav" creationdate="20190522T080028Z">
         <seg>Palvelin (alkuperäinen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server (updated)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T080820Z" creationid="piav" creationdate="20190522T080820Z">
+        <seg>Palvelin (päivitetty)</seg>
       </tuv>
     </tu>
     <tu>
