@@ -2687,6 +2687,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compress whitespace in translated document</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T085412Z" creationid="piav" creationdate="20190522T085333Z">
+        <seg>Tiivistä tyhjätilamerkit käännetyssä dokumentissa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Con&amp;tents</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T165732Z" creationid="PiaVee" creationdate="20171015T094321Z">
@@ -5932,6 +5940,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mar&amp;k Whitespace</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T085346Z" creationid="piav" creationdate="20190522T085346Z">
+        <seg>Merkitse tyhjätila</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Marathi (Marāṭhī)</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174939Z" creationid="PiaVee" creationdate="20171014T174939Z">
@@ -6372,6 +6388,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T063523Z" creationid="piav" creationdate="20190522T063523Z">
         <seg>Sitova välilyönti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-breakable spaces</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T084835Z" creationid="piav" creationdate="20190522T084835Z">
+        <seg>Sitovat välilyönnit</seg>
       </tuv>
     </tu>
     <tu>
@@ -7673,6 +7697,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T093320Z" creationid="PiaVee" creationdate="20171014T093320Z">
         <seg>Poista määritellyt fragmentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T085408Z" creationid="piav" creationdate="20190522T085234Z">
+        <seg>Poista alussa ja lopussa olevat &amp;tyhjätilamerkit projekteissa, joita ei ole jaettu segmentteihin</seg>
       </tuv>
     </tu>
     <tu>
@@ -10640,8 +10672,16 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       <tuv lang="EN">
         <seg>Whitespace</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T063755Z" creationid="piav" creationdate="20190522T063755Z">
-        <seg>Välilyönti</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T085355Z" creationid="piav" creationdate="20190522T063755Z">
+        <seg>Tyhjätila</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespaces</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T085556Z" creationid="piav" creationdate="20190522T085202Z">
+        <seg>Tyhjätilat</seg>
       </tuv>
     </tu>
     <tu>
