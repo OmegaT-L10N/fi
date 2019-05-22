@@ -684,3 +684,5 @@ Writeable glossary file folder	kirjoituskelpoisen termilistan kansio
 Writeable glossary	kirjoituskelpoinen termilista
 domain	aihepiiri	Esimerkki käytöstä: TaaS-aihepiiri
 TaaS domain	TaaS-aihepiiri
+Whitespace	Tyhjätila
+Whitespace character	Tyhjätilamerkki
