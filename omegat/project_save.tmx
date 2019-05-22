@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Allow only unique characters</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T074927Z" creationid="piav" creationdate="20190522T074927Z">
+        <seg>&amp;Käytä vain uniikkeja merkkejä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Always Confirm Quit</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173433Z" creationid="PiaVee" creationdate="20171015T122700Z">
@@ -2137,6 +2145,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;lear</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T074943Z" creationid="piav" creationdate="20190522T074943Z">
+        <seg>T&amp;yhjennä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173701Z" creationid="PiaVee" creationdate="20171218T090414Z">
@@ -2253,6 +2269,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T134745Z" creationid="piav" creationdate="20190521T134624Z">
         <seg>Muutettu jälkeen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character Table</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T074947Z" creationid="piav" creationdate="20190522T074947Z">
+        <seg>Merkkitaulukko</seg>
       </tuv>
     </tu>
     <tu>
@@ -2863,6 +2887,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T101854Z" creationid="piav" creationdate="20190521T101854Z">
         <seg>Kohdistin vapautettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom table</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T075110Z" creationid="piav" creationdate="20190522T074843Z">
+        <seg>Oma merkkitaulukko</seg>
       </tuv>
     </tu>
     <tu>
@@ -3959,6 +3991,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T180918Z" creationid="PiaVee" creationdate="20171014T174119Z">
         <seg>fulani</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full table</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T075055Z" creationid="piav" creationdate="20190522T074837Z">
+        <seg>Kaikki merkit</seg>
       </tuv>
     </tu>
     <tu>
@@ -9590,6 +9630,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Warning!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T075044Z" creationid="piav" creationdate="20190522T075044Z">
+        <seg>Varoitus!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Warranty</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T133459Z" creationid="PiaVee" creationdate="20171014T133459Z">
@@ -9860,6 +9908,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T060722Z" creationid="PiaVee" creationdate="20170930T060722Z">
         <seg>Käytössäsi on OmegaT:n versio {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T075851Z" creationid="piav" creationdate="20190522T075851Z">
+        <seg>HunspellTokenizer-jäsennystoiminto ei toimi kielessä {0}, sillä tälle kielelle ei ole asennettu oikolukusanakirjaa.</seg>
       </tuv>
     </tu>
     <tu>
