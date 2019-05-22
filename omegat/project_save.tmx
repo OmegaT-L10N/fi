@@ -1042,9 +1042,9 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T075547Z" creationid="PiaVee" creationdate="20171015T084823Z">
+      <tuv lang="FI" changeid="piav" changedate="20190522T063958Z" creationid="PiaVee" creationdate="20171015T084823Z">
         <seg>--tag-validation=[abort|warn]
-		Tägien vahvistaminen</seg>
+		Tägien tarkistaminen</seg>
       </tuv>
     </tu>
     <tu>
@@ -1157,6 +1157,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090732Z" creationid="PiaVee" creationdate="20171218T090645Z">
         <seg>95 % – 100 % :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;No suggestions&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T064035Z" creationid="piav" creationdate="20190522T064035Z">
+        <seg>&lt;Ei ehdotuksia&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3235,6 +3243,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error fixing tags</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T063846Z" creationid="piav" creationdate="20190522T063846Z">
+        <seg>Tägien korjaamisessa tapahtui virhe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error in file {0}, line {1}</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180148Z" creationid="piav" creationdate="20190521T180148Z">
@@ -3463,6 +3479,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T085849Z" creationid="PiaVee" creationdate="20171218T085849Z">
         <seg>Ulkoinen komento keskeytettiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extraneous</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T063737Z" creationid="piav" creationdate="20190522T063737Z">
+        <seg>Ylimääräistä</seg>
       </tuv>
     </tu>
     <tu>
@@ -5364,6 +5388,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Missing</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T063742Z" creationid="piav" creationdate="20190522T063705Z">
+        <seg>Puuttuvaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modified Segments:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T084248Z" creationid="PiaVee" creationdate="20170910T084248Z">
@@ -6128,6 +6160,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Orphaned</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T063759Z" creationid="piav" creationdate="20190522T063759Z">
+        <seg>Yksinäinen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ossetian, Ossetic</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T080958Z" creationid="PiaVee" creationdate="20171015T080958Z">
@@ -6156,6 +6196,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T082758Z" creationid="PiaVee" creationdate="20170910T082758Z">
         <seg>Muussa tapauksessa OmegaT käyttää käyttöjärjestelmän kieltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Out-of-order</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T063749Z" creationid="piav" creationdate="20190522T063749Z">
+        <seg>Epäjärjestyksessä</seg>
       </tuv>
     </tu>
     <tu>
@@ -6325,6 +6373,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please redo tag validation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T064017Z" creationid="piav" creationdate="20190522T063920Z">
+        <seg>Tarkista tägit uudelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please select a different folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T134138Z" creationid="piav" creationdate="20190521T134138Z">
@@ -6393,6 +6449,22 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081115Z" creationid="PiaVee" creationdate="20171015T081115Z">
         <seg>portugali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T064312Z" creationid="piav" creationdate="20190522T064312Z">
+        <seg> Mene &lt;b&gt;{1}&lt;b&gt; ehdotuksiin napsauttamal &lt;u&gt;{0}&lt;/u&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T064133Z" creationid="piav" creationdate="20190522T064133Z">
+        <seg>Palaa &lt;b&gt;{1}&lt;b&gt; ehdotuksiin napsauttamalla &lt;u&gt;{0}&lt;/u&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7863,6 +7935,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag validation failed</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T064008Z" creationid="piav" creationdate="20190522T063954Z">
+        <seg>Tägien tarkistaminen ei onnistunut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tagalog</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082020Z" creationid="PiaVee" creationdate="20171015T082020Z">
@@ -8199,6 +8279,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T133710Z" creationid="piav" creationdate="20190521T133710Z">
         <seg>Annettu kohdekieli ei kelpaa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translation has changed.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T063851Z" creationid="piav" creationdate="20190522T063851Z">
+        <seg>Käännös on muuttunut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8910,6 +8998,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unspecified</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T063806Z" creationid="piav" creationdate="20190522T063806Z">
+        <seg>Määrittelemätön</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unsupported XML version {0}!</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T143135Z" creationid="piav" creationdate="20190521T143135Z">
@@ -9250,6 +9346,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T142032Z" creationid="piav" creationdate="20190521T142032Z">
         <seg>Tekstin korvaamisessa voi käyttää säännöllisiä lausekkeita, jolloin korvattavassa tekstissä voi viitata hakulausekkeessa määriteltyihin ryhmiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T063755Z" creationid="piav" creationdate="20190522T063755Z">
+        <seg>Välilyönti</seg>
       </tuv>
     </tu>
     <tu>
