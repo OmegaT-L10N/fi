@@ -1921,6 +1921,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An existing translation was changed to something different from what you chose.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T094534Z" creationid="piav" creationdate="20190522T094534Z">
+        <seg>Valitsemasi käännösratkaisu vaihdettiin muunlaiseksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T094316Z" creationid="piav" creationdate="20190522T094316Z">
@@ -5564,6 +5572,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep Mine</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T094559Z" creationid="piav" creationdate="20190522T094559Z">
+        <seg>Pidä om</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep Other</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T094607Z" creationid="piav" creationdate="20190522T094607Z">
+        <seg>Pidä muu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keep up your good work!</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T091417Z" creationid="PiaVee" creationdate="20170910T091354Z">
@@ -6334,8 +6358,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Mine</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T081108Z" creationid="piav" creationdate="20190522T080823Z">
-        <seg>Oma</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T094551Z" creationid="piav" creationdate="20190522T080823Z">
+        <seg>Oman</seg>
       </tuv>
     </tu>
     <tu>
@@ -7264,6 +7288,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T094556Z" creationid="piav" creationdate="20190522T094556Z">
+        <seg>Jonkun muun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other OmegaT resources</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094253Z" creationid="PiaVee" creationdate="20171219T094253Z">
@@ -7607,8 +7639,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Previous</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T081626Z" creationid="piav" creationdate="20190522T081626Z">
-        <seg>Edellinen</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T094548Z" creationid="piav" creationdate="20190522T081626Z">
+        <seg>Edellisen</seg>
       </tuv>
     </tu>
     <tu>
@@ -8647,6 +8679,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment Properties</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T094618Z" creationid="piav" creationdate="20190522T094618Z">
+        <seg>Segmentin ominaisuudet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment marker background</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T084140Z" creationid="piav" creationdate="20190522T084140Z">
@@ -8907,6 +8947,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T072118Z" creationid="PiaVee" creationdate="20171219T093756Z">
         <seg>Näytä englanninkielinen versio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Raw Key Names</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T142454Z" creationid="piav" creationdate="20190522T142454Z">
+        <seg>Näytä </seg>
       </tuv>
     </tu>
     <tu>
@@ -9395,6 +9443,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T063528Z" creationid="piav" creationdate="20190522T063528Z">
         <seg>TAB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table View</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T094626Z" creationid="piav" creationdate="20190522T094626Z">
+        <seg>Taulukkonäkymä</seg>
       </tuv>
     </tu>
     <tu>
@@ -10986,6 +11042,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T142032Z" creationid="piav" creationdate="20190521T142032Z">
         <seg>Tekstin korvaamisessa voi käyttää säännöllisiä lausekkeita, jolloin korvattavassa tekstissä voi viitata hakulausekkeessa määriteltyihin ryhmiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Which version do you want to keep?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T094544Z" creationid="piav" creationdate="20190522T094544Z">
+        <seg>Kumman version haluat pitää?</seg>
       </tuv>
     </tu>
     <tu>
