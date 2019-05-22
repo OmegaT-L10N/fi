@@ -1801,6 +1801,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bad nesting</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T063701Z" creationid="piav" creationdate="20190522T063701Z">
+        <seg>Sisäkkäisyys ei kelpaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bad regular expression!</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T142801Z" creationid="piav" creationdate="20190521T142801Z">
@@ -3019,6 +3027,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Duplicate</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T063553Z" creationid="piav" creationdate="20190522T063542Z">
+        <seg>Toistettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Duplicate segments: {0}</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T101808Z" creationid="PiaVee" creationdate="20171015T124358Z">
@@ -3391,6 +3407,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T080346Z" creationid="PiaVee" creationdate="20170930T063645Z">
         <seg>Haluan erityisesti kiittää</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Post-processing Command</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T063219Z" creationid="piav" creationdate="20190522T063219Z">
+        <seg>Ulkoinen jälkikäsittelykomento</seg>
       </tuv>
     </tu>
     <tu>
@@ -5332,6 +5356,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Minutes:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T063208Z" creationid="piav" creationdate="20190522T063208Z">
+        <seg>Minuutit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modified Segments:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T084248Z" creationid="PiaVee" creationdate="20170910T084248Z">
@@ -5540,6 +5572,14 @@ Nykyinen asetus on {0} MB.</seg>
         <seg>Asetukset muuta kuin GUI-tilaa varten:
 	--quiet
 		Tuottaa ainoastaan komentorivin standarditulosteen (stdout).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-breakable space</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T063523Z" creationid="piav" creationdate="20190522T063523Z">
+        <seg>Sitova välilyönti</seg>
       </tuv>
     </tu>
     <tu>
@@ -6289,6 +6329,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T134138Z" creationid="piav" creationdate="20190521T134138Z">
         <seg>Valitse toinen kansio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select the interval at which the project should be saved automatically, in minutes and seconds.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T063204Z" creationid="piav" creationdate="20190522T063204Z">
+        <seg>Valitse projektin automaattisen tallennuksen aikaväli (minuuttia ja sekuntia).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7061,6 +7109,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saving and Output</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T063131Z" creationid="piav" creationdate="20190522T063131Z">
+        <seg>Tallentaminen ja tuotos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving and Output Options</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T063122Z" creationid="piav" creationdate="20190522T061358Z">
@@ -7195,6 +7251,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T093650Z" creationid="PiaVee" creationdate="20171014T093650Z">
         <seg>Hakuikkuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Seconds:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T063212Z" creationid="piav" creationdate="20190522T063212Z">
+        <seg>Sekunnit:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7775,6 +7839,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T063528Z" creationid="piav" creationdate="20190522T063528Z">
+        <seg>TAB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T063530Z" creationid="piav" creationdate="20190522T063530Z">
+        <seg>Tägi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag name:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T143254Z" creationid="piav" creationdate="20190521T143254Z">
@@ -7869,6 +7949,14 @@ Tekstin korvaus tapahtuu projektin lähtökielisissä segmenteissäriippumatta s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T174626Z" creationid="piav" creationdate="20190521T135738Z">
         <seg>T&amp;ekstihaku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text to be removed</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T063537Z" creationid="piav" creationdate="20190522T063537Z">
+        <seg>Poistettava teksti</seg>
       </tuv>
     </tu>
     <tu>
@@ -8199,6 +8287,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T154823Z" creationid="PiaVee" creationdate="20171014T154823Z">
         <seg>Tämä onnistuu Déjà Vu DVX:n "External View" -tiedostomuodon avulla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This command will be executed after Creating Translated Documents.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T063255Z" creationid="piav" creationdate="20190522T063255Z">
+        <seg>Tämä komento suoritetaan sen jälkeen kun käännettävät dokumentit on luotu.</seg>
       </tuv>
     </tu>
     <tu>
