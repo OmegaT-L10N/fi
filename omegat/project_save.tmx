@@ -270,6 +270,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable autotext</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T073624Z" creationid="piav" creationdate="20190522T073533Z">
+        <seg>&amp;Ota automaattinen teksti käyttöön</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Enable character table</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T074118Z" creationid="piav" creationdate="20190522T074118Z">
+        <seg>&amp;Ota merkkitaulukko käyttöön</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T071035Z" creationid="piav" creationdate="20190522T070732Z">
@@ -442,6 +458,14 @@
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180040Z" creationid="piav" creationdate="20190521T180040Z">
         <seg>&amp;rivinvaihto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Load...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T073914Z" creationid="piav" creationdate="20190522T073914Z">
+        <seg>&amp;Lataa…</seg>
       </tuv>
     </tu>
     <tu>
@@ -658,6 +682,14 @@
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T170245Z" creationid="PiaVee" creationdate="20171015T095038Z">
         <seg>Tallenna &amp;nimellä…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T073919Z" creationid="piav" creationdate="20190522T073919Z">
+        <seg>&amp;Tallenna…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1745,6 +1777,30 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-text configuration</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T073725Z" creationid="piav" creationdate="20190522T073725Z">
+        <seg>Automaattisen tekstin määritykset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-text file (*.autotext)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T073935Z" creationid="piav" creationdate="20190522T073935Z">
+        <seg>Automaattisen tekstin tiedosto (*.autotext)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Autotext</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T074106Z" creationid="piav" creationdate="20190522T074106Z">
+        <seg>Automaattinen teksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Autotext entries</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T064827Z" creationid="piav" creationdate="20190522T064827Z">
@@ -2201,6 +2257,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Character table auto-completer options</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T074144Z" creationid="piav" creationdate="20190522T074144Z">
+        <seg>Merkkitaulukon automaattisen täydennyksen asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Characters (including spaces)</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090009Z" creationid="PiaVee" creationdate="20171218T090009Z">
@@ -2363,6 +2427,14 @@ Nykyinen asetus on {0} MB.</seg>
         <seg>Komennot:
 	-h, --help
 		Näyttää tarkempaa tietoa käytöstä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T074103Z" creationid="piav" creationdate="20190522T074103Z">
+        <seg>Kommentti</seg>
       </tuv>
     </tu>
     <tu>
@@ -2931,6 +3003,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T073808Z" creationid="piav" creationdate="20190522T073808Z">
+        <seg>Näyttötapa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display Font</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T125354Z" creationid="PiaVee" creationdate="20171015T125354Z">
@@ -3271,6 +3351,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124309Z" creationid="PiaVee" creationdate="20171015T124309Z">
         <seg>Kirjoita segmentin numero:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entries</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T073814Z" creationid="piav" creationdate="20190522T073814Z">
+        <seg>Merkinnät</seg>
       </tuv>
     </tu>
     <tu>
@@ -3855,6 +3943,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T180918Z" creationid="PiaVee" creationdate="20171014T174119Z">
         <seg>fulani</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T074057Z" creationid="piav" creationdate="20190522T074057Z">
+        <seg>Kokoteksti</seg>
       </tuv>
     </tu>
     <tu>
@@ -7679,6 +7775,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shortcut</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T074055Z" creationid="piav" creationdate="20190522T074011Z">
+        <seg>Lyhenne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T065925Z" creationid="piav" creationdate="20190522T065925Z">
@@ -7811,6 +7915,30 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124842Z" creationid="PiaVee" creationdate="20170908T124842Z">
         <seg>Jokin meni pieleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T073616Z" creationid="piav" creationdate="20190522T073616Z">
+        <seg>&amp;Aakkosjärjestys</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by &amp;full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T074051Z" creationid="piav" creationdate="20190522T073716Z">
+        <seg>Järjestä &amp;kokotekstin, ei lyhenteen, mukaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by len&amp;gth</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T073621Z" creationid="piav" creationdate="20190522T073552Z">
+        <seg>&amp;Pituusjärjestykseen</seg>
       </tuv>
     </tu>
     <tu>
@@ -9090,6 +9218,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T132432Z" creationid="piav" creationdate="20190521T132432Z">
         <seg>Projektitiedoston lukeminen ei onnistu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to save data.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T073942Z" creationid="piav" creationdate="20190522T073942Z">
+        <seg>Tietojen tallentaminen ei onnistu.</seg>
       </tuv>
     </tu>
     <tu>
