@@ -2909,8 +2909,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T065113Z" creationid="piav" creationdate="20190522T065113Z">
-        <seg>Nä&amp;ytä lähdekieliset termit</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T065852Z" creationid="piav" creationdate="20190522T065113Z">
+        <seg>Näytä lähdekieliset &amp;termit</seg>
       </tuv>
     </tu>
     <tu>
@@ -4191,6 +4191,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174348Z" creationid="PiaVee" creationdate="20171014T174348Z">
         <seg>ido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, the longer entries are placed on the list first.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070034Z" creationid="piav" creationdate="20190522T070034Z">
+        <seg>Kun tämä on valittuna, termit näytetään pisimmästä lyhimpään.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7591,6 +7599,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show &amp;longer target terms first</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T065925Z" creationid="piav" creationdate="20190522T065925Z">
+        <seg>Näytä pisimmät kohdekieliset termit ensin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show Advanced &amp;Options</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173956Z" creationid="piav" creationdate="20190521T134600Z">
@@ -7699,6 +7715,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124842Z" creationid="PiaVee" creationdate="20170908T124842Z">
         <seg>Jokin meni pieleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by source term &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070401Z" creationid="piav" creationdate="20190522T070109Z">
+        <seg>Aakkosta lähdekielisten termien mukaisesti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort tar&amp;get terms alphabetically</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070422Z" creationid="piav" creationdate="20190522T070157Z">
+        <seg>Aakkosta kohdekielisten termien mukaisesti</seg>
       </tuv>
     </tu>
     <tu>
@@ -9392,8 +9424,8 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       <tuv lang="EN">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T065842Z" creationid="piav" creationdate="20190522T065842Z">
-        <seg>Kun tämä on valittuna, sanaston automaattisen korvauksen valintaikkunassa näkyy myös lähtökielinen teksti.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070226Z" creationid="piav" creationdate="20190522T065842Z">
+        <seg>Kun tämä on valittuna, sanaston automaattisen korvauksen valintaikkunassa näkyy myös lähdekielinen teksti.</seg>
       </tuv>
     </tu>
     <tu>
