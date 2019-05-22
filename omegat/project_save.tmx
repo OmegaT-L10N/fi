@@ -5604,6 +5604,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Language Checker</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T090441Z" creationid="piav" creationdate="20190522T090441Z">
+        <seg>Kielentarkistin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Language Pattern</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T083317Z" creationid="piav" creationdate="20190522T083317Z">
@@ -6088,6 +6096,30 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090424Z" creationid="PiaVee" creationdate="20171218T090424Z">
         <seg>Osumatilastot per tiedosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Changed</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T090450Z" creationid="piav" creationdate="20190522T090450Z">
+        <seg>Muutetut osumat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Inserted Active</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T090515Z" creationid="piav" creationdate="20190522T090515Z">
+        <seg>Aktiiviset lisätyt osumat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Unchanged</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T090503Z" creationid="piav" creationdate="20190522T090503Z">
+        <seg>Osumat, joita ei ole muutettu</seg>
       </tuv>
     </tu>
     <tu>
@@ -7116,6 +7148,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081005Z" creationid="PiaVee" creationdate="20171015T081005Z">
         <seg>pandžabi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph delimitation</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T090435Z" creationid="piav" creationdate="20190522T090435Z">
+        <seg>Kappalejako</seg>
       </tuv>
     </tu>
     <tu>
@@ -9243,6 +9283,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081651Z" creationid="PiaVee" creationdate="20171015T081651Z">
         <seg>telugu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terminology</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T090446Z" creationid="piav" creationdate="20190522T090446Z">
+        <seg>Terminologia</seg>
       </tuv>
     </tu>
     <tu>
