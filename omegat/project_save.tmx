@@ -7061,6 +7061,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saving and Output Options</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T061358Z" creationid="piav" creationdate="20190522T061358Z">
+        <seg>Tallentaminen ja tuotos-asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving project...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T101841Z" creationid="PiaVee" creationdate="20171015T124654Z">
