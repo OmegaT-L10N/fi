@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Apply to all</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T094404Z" creationid="piav" creationdate="20190522T094404Z">
+        <seg>Käytä k&amp;aikkiin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173818Z" creationid="PiaVee" creationdate="20171218T091614Z">
@@ -698,6 +706,14 @@
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T174654Z" creationid="piav" creationdate="20190521T143053Z">
         <seg>&amp;Nollaa asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Reset This Colour</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T093817Z" creationid="piav" creationdate="20190522T093805Z">
+        <seg>&amp;Palauta tämä väri</seg>
       </tuv>
     </tu>
     <tu>
@@ -1401,6 +1417,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T094107Z" creationid="piav" creationdate="20190522T094107Z">
+        <seg>&lt;html&gt;&lt;i&gt;Asetukset&lt;/i&gt; &amp;gt; &lt;i&gt;Yleistä&lt;/i&gt; &amp;gt; &lt;i&gt;Siirry eteenpäin TAB-näppäimellä&lt;/i&gt; on valittu&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T083908Z" creationid="piav" creationdate="20190522T083030Z">
@@ -1881,10 +1905,26 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while opening the item.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T094444Z" creationid="piav" creationdate="20190522T094424Z">
+        <seg>Nimekkeen avaamisessa tapahtui virhe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T134305Z" creationid="piav" creationdate="20190521T134305Z">
         <seg>Uuden kansion luonnissa tapahtui virhe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An item named "{0}" already exists in this location.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T094316Z" creationid="piav" creationdate="20190522T094316Z">
+        <seg>Tässä sijainnisssa on jo nimeke {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1917,6 +1957,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173512Z" creationid="PiaVee" creationdate="20171014T173512Z">
         <seg>aragonia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to reset all custom colours?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T093835Z" creationid="piav" creationdate="20190522T093835Z">
+        <seg>Haluatko varmasti palauttaa kaikki muokatut värit oletuksiksi?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2663,6 +2711,14 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="FI" changeid="piav" changedate="20190521T182444Z" creationid="piav" creationdate="20190521T181438Z">
         <seg>Koodia ovat tuottaneet:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Colours</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T093952Z" creationid="piav" creationdate="20190522T093952Z">
+        <seg>Värit</seg>
       </tuv>
     </tu>
     <tu>
@@ -3443,6 +3499,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you want to replace it with the one you're moving?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T094348Z" creationid="piav" creationdate="20190522T094348Z">
+        <seg>Haluatko korvata sen nimekkeellä, jota olet siirtämässä?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DocBook</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180150Z" creationid="piav" creationdate="20190521T180150Z">
@@ -3551,6 +3615,30 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T102735Z" creationid="PiaVee" creationdate="20171218T082803Z">
         <seg>Projektia noudetaan…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop TMX files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T094224Z" creationid="piav" creationdate="20190522T094224Z">
+        <seg>Lisää projektiin TMX-tiedostoja pudottamalla ne tähän.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop a project here to open it.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T094236Z" creationid="piav" creationdate="20190522T094236Z">
+        <seg>Avaa projekti pudottamalla se tähän.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T094213Z" creationid="piav" creationdate="20190522T094213Z">
+        <seg>Lisää projektiin tiedostoja pudottamalla ne tähän.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7421,6 +7509,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please restart the application to correctly display the new colours.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T093949Z" creationid="piav" creationdate="20190522T093949Z">
+        <seg>Käynnistä sovellus uudelleen, niin uudet värit tulevat käyttöön.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please select a different folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T134138Z" creationid="piav" creationdate="20190521T134138Z">
@@ -8081,6 +8177,22 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180112Z" creationid="piav" creationdate="20190521T180112Z">
         <seg>ResX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reset &amp;All Colours</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T093819Z" creationid="piav" creationdate="20190522T093813Z">
+        <seg>Palauta &amp;kaikki värit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resolve Conflicts</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T094432Z" creationid="piav" creationdate="20190522T094432Z">
+        <seg>Ratkaise ristiriidat</seg>
       </tuv>
     </tu>
     <tu>
@@ -9639,6 +9751,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190515T072544Z" creationid="PiaVee" creationdate="20171220T093524Z">
         <seg>Tällöin OmegaT olettaa, että teksti on kirjoitettu samalla kielellä, jota tietokonekin käyttää.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The new colours have been saved.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T093844Z" creationid="piav" creationdate="20190522T093844Z">
+        <seg>Uudet värit on tallennettu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14479,6 +14599,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081003Z" creationid="piav" creationdate="20190522T081003Z">
         <seg>{0} segmenttiä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T094205Z" creationid="piav" creationdate="20190522T094205Z">
+        <seg>{0} vaihtaa kirjoitussuuntaa vasemmalta oikealle, oikealta vasemmalle ja kielen mukaisesti</seg>
       </tuv>
     </tu>
     <tu>
