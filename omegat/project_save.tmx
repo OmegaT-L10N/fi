@@ -2907,6 +2907,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displa&amp;y source terms</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T065113Z" creationid="piav" creationdate="20190522T065113Z">
+        <seg>Nä&amp;ytä lähdekieliset termit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display Font</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T125354Z" creationid="PiaVee" creationdate="20171015T125354Z">
@@ -3165,8 +3173,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Enable history &amp;prediction</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T173426Z" creationid="PiaVee" creationdate="20171015T122541Z">
-        <seg>Ota historiaan perustuva &amp;ennakointi käyttöön</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T065024Z" creationid="PiaVee" creationdate="20171015T122541Z">
+        <seg>Ota syöttöhistoriaan perustuva &amp;ennakointi käyttöön</seg>
       </tuv>
     </tu>
     <tu>
@@ -4061,8 +4069,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>History Prediction</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122521Z" creationid="PiaVee" creationdate="20171015T122510Z">
-        <seg>Historiaan perustuva ennakointi</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T065015Z" creationid="PiaVee" creationdate="20171015T122510Z">
+        <seg>Syöttöhistoriaan perustuva ennakointi</seg>
       </tuv>
     </tu>
     <tu>
@@ -9378,6 +9386,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T150440Z" creationid="PiaVee" creationdate="20171014T150440Z">
         <seg>Sääntöä vastaava lauseke näkyy muokkausruudussa sinisellä alleviivattuna (ks. &lt;e1&gt;also &lt;/e1&gt; ja &lt;e2&gt;I didn't do nothing&lt;/e2&gt; yllä olevassa kuvassa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T065842Z" creationid="piav" creationdate="20190522T065842Z">
+        <seg>Kun tämä on valittuna, sanaston automaattisen korvauksen valintaikkunassa näkyy myös lähtökielinen teksti.</seg>
       </tuv>
     </tu>
     <tu>
