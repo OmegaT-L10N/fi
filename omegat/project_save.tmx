@@ -3787,6 +3787,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Follow capitalization of the typed text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T073440Z" creationid="piav" creationdate="20190522T073440Z">
+        <seg>Käytä isoja ja pieniä kirjaimia kirjoituksen mukaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T125358Z" creationid="PiaVee" creationdate="20171015T125358Z">
@@ -8179,6 +8187,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081651Z" creationid="PiaVee" creationdate="20171015T081651Z">
         <seg>telugu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terms with multiple targets</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T073413Z" creationid="piav" creationdate="20190522T073413Z">
+        <seg>Termit, joilla on useita vastaavuuksia</seg>
       </tuv>
     </tu>
     <tu>
