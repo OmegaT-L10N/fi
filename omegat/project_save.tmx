@@ -1617,6 +1617,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T074831Z" creationid="piav" creationdate="20190522T074831Z">
+        <seg>Kaksoisnapsauttamalla haluamaasi merkkiä saat sen lisättyä mukautettuun taulukkoon. Voit myös maalata merkin ja painaa Ins-näppäintä. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Administration</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140628Z" creationid="PiaVee" creationdate="20171014T140628Z">
@@ -2859,6 +2867,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customize character &amp;table</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T074419Z" creationid="piav" creationdate="20190522T074419Z">
+        <seg>&amp;Mukauta merkkitaulukkoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Czech</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173958Z" creationid="PiaVee" creationdate="20171014T173958Z">
@@ -4053,8 +4069,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Glossary auto-completer options</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T071022Z" creationid="piav" creationdate="20190522T070526Z">
-        <seg>Termistön automaattisen korvauksen asetukset</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T074246Z" creationid="piav" creationdate="20190522T070526Z">
+        <seg>Termistön automaattisen täydennyksen asetukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -9664,8 +9680,8 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       <tuv lang="EN">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T071015Z" creationid="piav" creationdate="20190522T065842Z">
-        <seg>Kun tämä on valittuna, termistön automaattisen korvauksen valintaikkunassa näkyy myös lähdekielinen teksti.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T074234Z" creationid="piav" creationdate="20190522T065842Z">
+        <seg>Kun tämä on valittuna, termistön automaattisen täydennyksen valintaikkunassa näkyy myös lähdekielinen teksti.</seg>
       </tuv>
     </tu>
     <tu>
