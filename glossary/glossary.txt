@@ -672,9 +672,6 @@ File formats	Tiedostomuodot	käyttöoppaan kohdan "Käännettävät tiedostot" a
 Mapping	yhdistäminen	esim. paikallinen kansio yhdistetään etäkansioon
 Source files folder	lähdetiedostojen kansio
 Translated files folder	käännettyjen tiedostojen kansio
-Glossary files folder	sanastojen kansio
-Writeable glossary file folder	kirjoituskelpoisen sanaston kansio
-Writeable glossary	kirjoituskelpoinen sanasto
 Dictionary files folder	Sanakirjojen kansio
 An error occurred	tapahtui virhe	An error occurred while B-ing --> B:ssä tapahtui virhe
 Regular expressions	Säännölliset lausekkeet
@@ -682,3 +679,6 @@ Regular expression	Säännöllinen lauseke	EI: säännönMUKAINEN lauseke
 Advanced Options	lisäasetukset
 Subtitles	tekstitys
 Subtitles	tekstitys
+Glossary files folder	termilistatiedostojen kansio
+Writeable glossary file folder	kirjoituskelpoisen termilistan kansio
+Writeable glossary	kirjoituskelpoinen termilista
