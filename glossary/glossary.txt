@@ -682,3 +682,5 @@ Subtitles	tekstitys
 Glossary files folder	termilistatiedostojen kansio
 Writeable glossary file folder	kirjoituskelpoisen termilistan kansio
 Writeable glossary	kirjoituskelpoinen termilista
+domain	aihepiiri	Esimerkki käytöstä: TaaS-aihepiiri
+TaaS domain	TaaS-aihepiiri
