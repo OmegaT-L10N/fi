@@ -3955,6 +3955,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For best results, please install the appropriate dictionaries via Preferences &gt; Spell Checking.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T080021Z" creationid="piav" creationdate="20190522T080021Z">
+        <seg>Parhaan lopputuloksen saat asentamalla sopivat sanakirjat kohdassa Asetukset &gt; Oikeinkirjoituksen tarkistus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the application</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T134332Z" creationid="PiaVee" creationdate="20171014T134332Z">
@@ -7811,6 +7819,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081350Z" creationid="PiaVee" creationdate="20171015T081350Z">
         <seg>serbia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server (original)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T080028Z" creationid="piav" creationdate="20190522T080028Z">
+        <seg>Palvelin (alkuperäinen)</seg>
       </tuv>
     </tu>
     <tu>
