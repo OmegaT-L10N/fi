@@ -1403,8 +1403,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T083030Z" creationid="piav" creationdate="20190522T083030Z">
-        <seg>&lt;html&gt;Lisää mallikuvioita käyttämällä jokerimerkkejä (Apache Ant -tyyliin): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083908Z" creationid="piav" creationdate="20190522T083030Z">
+        <seg>&lt;html&gt;Lisää mallikuvioita käyttämällä jokerimerkkejä (Apache Ant -tyyliin): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Esimerkki: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1705,6 +1705,38 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Active segment source</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083932Z" creationid="piav" creationdate="20190522T083932Z">
+        <seg>Aktiivinen lähdesegmentti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Active segment source text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T084003Z" creationid="piav" creationdate="20190522T083935Z">
+        <seg>Aktiivisen lähdesegmentin teksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Active segment target</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T084010Z" creationid="piav" creationdate="20190522T084010Z">
+        <seg>Aktiivinen kohdesegmentti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Active segment target text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T084015Z" creationid="piav" creationdate="20190522T084015Z">
+        <seg>Aktiivisen kohdesegmentin teksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T132507Z" creationid="piav" creationdate="20190521T132507Z">
@@ -1981,6 +2013,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T142312Z" creationid="piav" creationdate="20190521T142312Z">
         <seg>Sulje ja palaa takaisin alkuperäiseen segmenttiin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083924Z" creationid="piav" creationdate="20190522T083924Z">
+        <seg>Tausta</seg>
       </tuv>
     </tu>
     <tu>
@@ -3071,6 +3111,22 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T101854Z" creationid="piav" creationdate="20190521T101854Z">
         <seg>Kohdistin vapautettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom Colours</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083922Z" creationid="piav" creationdate="20190522T083922Z">
+        <seg>Mukautetut värit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom Colours Selection</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083918Z" creationid="piav" creationdate="20190522T083918Z">
+        <seg>Mukautettujen värien valinta</seg>
       </tuv>
     </tu>
     <tu>
@@ -9003,6 +9059,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T073413Z" creationid="piav" creationdate="20190522T073413Z">
         <seg>Termit, joilla on useita vastaavuuksia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083925Z" creationid="piav" creationdate="20190522T083925Z">
+        <seg>Teksti</seg>
       </tuv>
     </tu>
     <tu>
