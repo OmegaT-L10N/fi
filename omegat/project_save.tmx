@@ -2121,6 +2121,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bidirectional control characters</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T085648Z" creationid="piav" creationdate="20190522T085648Z">
+        <seg>Kaksisuuntaisen tekstin ohjausmerkit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bihari</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173712Z" creationid="PiaVee" creationdate="20171014T173712Z">
@@ -4335,6 +4343,46 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174108Z" creationid="PiaVee" creationdate="20171014T174108Z">
         <seg>ranska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From 100% memory</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T085748Z" creationid="piav" creationdate="20190522T085748Z">
+        <seg>100 % muistista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From ICE memory</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T085657Z" creationid="piav" creationdate="20190522T085657Z">
+        <seg>ICE-muistista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From auto memory</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T085852Z" creationid="piav" creationdate="20190522T085852Z">
+        <seg>Automaattisesta muistista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From enforced memory</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T090357Z" creationid="piav" creationdate="20190522T090357Z">
+        <seg>Pakotetusta muistista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From memory</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T085652Z" creationid="piav" creationdate="20190522T085652Z">
+        <seg>Muistista</seg>
       </tuv>
     </tu>
     <tu>
@@ -10680,8 +10728,8 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       <tuv lang="EN">
         <seg>Whitespaces</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T085556Z" creationid="piav" creationdate="20190522T085202Z">
-        <seg>Tyhjätilat</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T085635Z" creationid="piav" creationdate="20190522T085202Z">
+        <seg>Tyhjätilamerkit</seg>
       </tuv>
     </tu>
     <tu>
