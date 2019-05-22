@@ -4964,6 +4964,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T084623Z" creationid="piav" creationdate="20190522T084623Z">
+        <seg>Laskee mukaan ensimmäisen toistuvan segmentin ja merkitsee muut toistot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Incompatibilities</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T150604Z" creationid="PiaVee" creationdate="20171014T150604Z">
@@ -5972,6 +5980,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Non-Unique Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T084639Z" creationid="piav" creationdate="20190522T084639Z">
+        <seg>Merkitse toistuvat segmentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Marshallese</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T181519Z" creationid="PiaVee" creationdate="20171014T174945Z">
@@ -6096,6 +6112,22 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T064752Z" creationid="piav" creationdate="20190522T064752Z">
         <seg>Puuttuvat tägit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification info</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T084704Z" creationid="piav" creationdate="20190522T084653Z">
+        <seg>Muokkaustiedot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification info text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T084713Z" creationid="piav" creationdate="20190522T084659Z">
+        <seg>Muokkaustietojen teksti</seg>
       </tuv>
     </tu>
     <tu>
@@ -6348,6 +6380,22 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124335Z" creationid="PiaVee" creationdate="20170908T124247Z">
         <seg>Sitova välilyönti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-unique segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T084412Z" creationid="piav" creationdate="20190522T084412Z">
+        <seg>Toistuvat segmentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-unique segments background</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T084649Z" creationid="piav" creationdate="20190522T084446Z">
+        <seg>Toistuvien segmenttien tausta</seg>
       </tuv>
     </tu>
     <tu>
@@ -7653,6 +7701,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove text target</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T084827Z" creationid="piav" creationdate="20190522T084827Z">
+        <seg>Poista kohdeteksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove translation</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103735Z" creationid="PiaVee" creationdate="20171015T103735Z">
@@ -8255,6 +8311,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment marker background</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T084140Z" creationid="piav" creationdate="20190522T084140Z">
+        <seg>Segmenttimerkin tausta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment marker text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T084135Z" creationid="piav" creationdate="20190522T084135Z">
+        <seg>Segmenttimerkin teksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment skipped.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T174959Z" creationid="piav" creationdate="20190521T174959Z">
@@ -8299,6 +8371,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072422Z" creationid="PiaVee" creationdate="20171218T072353Z">
         <seg>Segmenttejä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segments with notes</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T084233Z" creationid="piav" creationdate="20190522T084233Z">
+        <seg>Segmentit, joissa on muistiinpanoja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segments with notes text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T084249Z" creationid="piav" creationdate="20190522T084249Z">
+        <seg>Segmenttien muistiinpanojen teksti</seg>
       </tuv>
     </tu>
     <tu>
@@ -8727,6 +8815,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T084146Z" creationid="piav" creationdate="20190522T084146Z">
+        <seg>Lähdesegmentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source segments text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T084220Z" creationid="piav" creationdate="20190522T084220Z">
+        <seg>Lähdesegmenttien teksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source/translation lengths (characters)</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124802Z" creationid="PiaVee" creationdate="20171015T124802Z">
@@ -8987,6 +9091,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082020Z" creationid="PiaVee" creationdate="20171015T082020Z">
         <seg>tagalog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T084716Z" creationid="piav" creationdate="20190522T084716Z">
+        <seg>Tägit</seg>
       </tuv>
     </tu>
     <tu>
@@ -9780,6 +9892,22 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T084317Z" creationid="piav" creationdate="20190522T084317Z">
+        <seg>Käännetyt segmentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated segments text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T084348Z" creationid="piav" creationdate="20190522T084348Z">
+        <seg>Käännettyjen segmenttien teksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated unique segments</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072925Z" creationid="PiaVee" creationdate="20171218T072925Z">
@@ -10106,6 +10234,22 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T143135Z" creationid="piav" creationdate="20190521T143135Z">
         <seg>XML-versiota {0} ei tueta!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T084301Z" creationid="piav" creationdate="20190522T084301Z">
+        <seg>Kääntämättömät segmentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T084311Z" creationid="piav" creationdate="20190522T084311Z">
+        <seg>Kääntämättömien segmenttien teksti</seg>
       </tuv>
     </tu>
     <tu>
