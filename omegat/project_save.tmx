@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Browse...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083634Z" creationid="piav" creationdate="20190522T083634Z">
+        <seg>&amp;Selaa…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T165548Z" creationid="PiaVee" creationdate="20171015T094303Z">
@@ -458,6 +466,14 @@
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T170852Z" creationid="PiaVee" creationdate="20171015T103546Z">
         <seg>Lisää &amp;osuma tai valinta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Install new dictionary...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083718Z" creationid="piav" creationdate="20190522T083718Z">
+        <seg>&amp;Asenna uusi sanakirja…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1697,6 +1713,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add Pattern</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083305Z" creationid="piav" creationdate="20190522T083305Z">
+        <seg>Lisää mallikuvio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T074831Z" creationid="piav" creationdate="20190522T074831Z">
@@ -2297,6 +2321,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot reset the filter to default patterns.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083251Z" creationid="piav" creationdate="20190522T083251Z">
+        <seg>Suodattimen nollaaminen oletusmallikuvioihin ei onnistu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Catalan</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173748Z" creationid="PiaVee" creationdate="20171014T173748Z">
@@ -2631,6 +2663,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Confirm removal of pattern {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083201Z" creationid="piav" creationdate="20190522T083201Z">
+        <seg>Vahvista mallikuvion {0} poisto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conflict resolution</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081317Z" creationid="piav" creationdate="20190522T081317Z">
@@ -2683,9 +2723,9 @@ Nykyinen asetus on {0} MB.</seg>
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T091741Z" creationid="PiaVee" creationdate="20171015T091723Z">
+      <tuv lang="FI" changeid="piav" changedate="20190522T083127Z" creationid="PiaVee" creationdate="20171015T091723Z">
         <seg>Konsolin käännöstila:
-	--source-pattern=&lt;kuvio&gt;
+	--source-pattern=&lt;mallikuvio&gt;
 		Luettelo prosessoitavien lähdetiedostojen sallituista säännönmukaisista lausekkeista.</seg>
       </tuv>
     </tu>
@@ -3499,6 +3539,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit Filter Patterns</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083301Z" creationid="piav" creationdate="20190522T083301Z">
+        <seg>Muokkaa suodatinkuvioita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Pattern</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083121Z" creationid="piav" creationdate="20190522T083121Z">
+        <seg>Muokkaa mallikuviota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Project</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T091040Z" creationid="PiaVee" creationdate="20171218T091040Z">
@@ -3781,8 +3837,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Exclude Pattern</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T133127Z" creationid="piav" creationdate="20190521T133103Z">
-        <seg>Älä sisällytä kuviota</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083130Z" creationid="piav" creationdate="20190521T133103Z">
+        <seg>Älä sisällytä mallikuviota</seg>
       </tuv>
     </tu>
     <tu>
@@ -3797,8 +3853,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Exclusion Patterns</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T082849Z" creationid="piav" creationdate="20190522T082849Z">
-        <seg>Älä sisällytä kuvioita</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083422Z" creationid="piav" creationdate="20190522T082849Z">
+        <seg>Älä sisällytä mallikuvioita</seg>
       </tuv>
     </tu>
     <tu>
@@ -4019,6 +4075,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File Filters...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083538Z" creationid="piav" creationdate="20190522T083538Z">
+        <seg>Tiedostosuodattimet…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File Format</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T175530Z" creationid="piav" creationdate="20190521T175530Z">
@@ -4095,6 +4159,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072548Z" creationid="PiaVee" creationdate="20171218T072548Z">
         <seg>Suodatin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filters...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083549Z" creationid="piav" creationdate="20190522T083549Z">
+        <seg>Suodattimet…</seg>
       </tuv>
     </tu>
     <tu>
@@ -4475,6 +4547,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Highlight</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083551Z" creationid="piav" creationdate="20190522T083551Z">
+        <seg>Korosta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hindi</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174246Z" creationid="PiaVee" creationdate="20171014T174246Z">
@@ -4822,8 +4902,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Include Pattern</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T133123Z" creationid="piav" creationdate="20190521T133123Z">
-        <seg>Sisällytä kuvio</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083133Z" creationid="piav" creationdate="20190521T133123Z">
+        <seg>Sisällytä mallikuvio</seg>
       </tuv>
     </tu>
     <tu>
@@ -5400,6 +5480,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T175813Z" creationid="piav" creationdate="20190521T175813Z">
         <seg>LaTeX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language Pattern</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083317Z" creationid="piav" creationdate="20190522T083317Z">
+        <seg>Kielikuvio</seg>
       </tuv>
     </tu>
     <tu>
@@ -6304,6 +6392,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083417Z" creationid="piav" creationdate="20190522T083417Z">
+        <seg>Huomautus: Kaikkia segmentointisääntöjoukkoja, joissa on vastaava kielikuvio, käytetään tässä järjestyksessä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T134614Z" creationid="piav" creationdate="20190521T134614Z">
@@ -6340,6 +6436,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T180402Z" creationid="PiaVee" creationdate="20171014T180402Z">
         <seg>sichuanin-yi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>O&amp;ptions...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083737Z" creationid="piav" creationdate="20190522T083737Z">
+        <seg>&amp;Asetukset…</seg>
       </tuv>
     </tu>
     <tu>
@@ -6498,8 +6602,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>OmegaT is the original work of Keith Godfrey.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T182046Z" creationid="piav" creationdate="20190521T181314Z">
-        <seg>OmegaT:n aloitti Keith Godfrey.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083841Z" creationid="piav" creationdate="20190521T181314Z">
+        <seg>OmegaT:n kehitti Keith Godfrey.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6844,6 +6948,30 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081111Z" creationid="PiaVee" creationdate="20171015T081111Z">
         <seg>paštu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pattern After</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083333Z" creationid="piav" creationdate="20190522T083333Z">
+        <seg>Mallikuvio jälkeen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pattern Before</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083321Z" creationid="piav" creationdate="20190522T083321Z">
+        <seg>Mallikuvio ennen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pattern...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083555Z" creationid="piav" creationdate="20190522T083555Z">
+        <seg>Mallikuvio…</seg>
       </tuv>
     </tu>
     <tu>
@@ -7453,6 +7581,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove pattern?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083210Z" creationid="piav" creationdate="20190522T083210Z">
+        <seg>Poistetaanko mallikuvio?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove tags in the current target</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T082302Z" creationid="PiaVee" creationdate="20170910T082245Z">
@@ -7749,6 +7885,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rules...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083542Z" creationid="piav" creationdate="20190522T083542Z">
+        <seg>Säännöt…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Running on Java {0} ({1}-bit)</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T100212Z" creationid="PiaVee" creationdate="20171015T100212Z">
@@ -7833,6 +7977,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081310Z" creationid="PiaVee" creationdate="20171015T081310Z">
         <seg>sardi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save TMX...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083521Z" creationid="piav" creationdate="20190522T083521Z">
+        <seg>Tallenna TMX…</seg>
       </tuv>
     </tu>
     <tu>
@@ -8067,6 +8219,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T101822Z" creationid="PiaVee" creationdate="20171015T124427Z">
         <seg>Segmentti {0,numero,#}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083530Z" creationid="piav" creationdate="20190522T083530Z">
+        <seg>Segmentointisäännöt…</seg>
       </tuv>
     </tu>
     <tu>
@@ -8433,8 +8593,16 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Source Filename Pattern</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T175810Z" creationid="piav" creationdate="20190521T175553Z">
-        <seg>Lähdetiedoston nimessä käytetty kuvio</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083141Z" creationid="piav" creationdate="20190521T175553Z">
+        <seg>Lähdetiedoston nimen mallikuvio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Filename Pattern:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083313Z" creationid="piav" creationdate="20190522T083106Z">
+        <seg>Lähdetiedoston nimen mallikuvio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9502,8 +9670,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>Translated Filename Pattern</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T175753Z" creationid="piav" creationdate="20190521T175753Z">
-        <seg>Käännetyn tiedoston nimessä käytetty kuvio</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083149Z" creationid="piav" creationdate="20190521T175753Z">
+        <seg>Käännetyn tiedoston nimen mallikuvio</seg>
       </tuv>
     </tu>
     <tu>
@@ -9674,6 +9842,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T132524Z" creationid="piav" creationdate="20190521T132524Z">
         <seg>URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083643Z" creationid="piav" creationdate="20190522T083630Z">
+        <seg>URL:</seg>
       </tuv>
     </tu>
     <tu>
