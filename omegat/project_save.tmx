@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable TaaS terminology lookup</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T082840Z" creationid="piav" creationdate="20190522T082840Z">
+        <seg>&amp;Ota TaaS-terminologiahaku käyttöön</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable autotext</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T073624Z" creationid="piav" creationdate="20190522T073533Z">
@@ -1377,6 +1385,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T083030Z" creationid="piav" creationdate="20190522T083030Z">
+        <seg>&lt;html&gt;Lisää mallikuvioita käyttämällä jokerimerkkejä (Apache Ant -tyyliin): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T131443Z" creationid="PiaVee" creationdate="20171218T091954Z">
@@ -1581,6 +1597,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173353Z" creationid="PiaVee" creationdate="20171015T122348Z">
         <seg>&amp;Automaattinen täydennys</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>API Key:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T082556Z" creationid="piav" creationdate="20190522T082556Z">
+        <seg>API-avain:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2811,6 +2835,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create your own key then input it below.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T082503Z" creationid="piav" creationdate="20190522T082503Z">
+        <seg>Luo oma avaimesi ja kirjoita se alla olevaan kenttään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Created by: {0}</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T174908Z" creationid="piav" creationdate="20190521T174908Z">
@@ -3763,6 +3795,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclusion Patterns</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T082849Z" creationid="piav" creationdate="20190522T082849Z">
+        <seg>Älä sisällytä kuvioita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T103053Z" creationid="PiaVee" creationdate="20171218T085622Z">
@@ -4231,6 +4271,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174144Z" creationid="PiaVee" creationdate="20171014T174144Z">
         <seg>saksa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Get API Key</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T082529Z" creationid="piav" creationdate="20190522T082529Z">
+        <seg>Hanki API-avain</seg>
       </tuv>
     </tu>
     <tu>
@@ -5784,6 +5832,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T181519Z" creationid="PiaVee" creationdate="20171014T174945Z">
         <seg>marshall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mask</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T082851Z" creationid="piav" creationdate="20190522T082851Z">
+        <seg>Maski</seg>
       </tuv>
     </tu>
     <tu>
@@ -8305,8 +8361,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T082302Z" creationid="piav" creationdate="20190522T082302Z">
-        <seg>Jokin meni vikaan. Lisätietoja saat Tilde Terminology-palvelusta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T082832Z" creationid="piav" creationdate="20190522T082302Z">
+        <seg>Jokin meni vikaan. Tilde Terminology osaa antaa lisätietoja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8639,6 +8695,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TaaS</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T082532Z" creationid="piav" creationdate="20190522T082532Z">
+        <seg>TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TaaS API key not set.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T082409Z" creationid="piav" creationdate="20190522T082409Z">
@@ -8651,6 +8715,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081759Z" creationid="piav" creationdate="20190522T081759Z">
         <seg>TaaS-kokoelmat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS Terminology</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T082609Z" creationid="piav" creationdate="20190522T082609Z">
+        <seg>TaaS-terminologia</seg>
       </tuv>
     </tu>
     <tu>
