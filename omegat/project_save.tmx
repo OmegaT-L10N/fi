@@ -1825,6 +1825,38 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aligner "Accepted" Group</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T093712Z" creationid="piav" creationdate="20190522T093628Z">
+        <seg>Kohdistin: "Hyväksytty"-ryhmä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aligner "Needs Review" Group</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T093719Z" creationid="piav" creationdate="20190522T093641Z">
+        <seg>Kohdistin: "Tarkistettava"-ryhmä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aligner Highlight</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T093723Z" creationid="piav" creationdate="20190522T093647Z">
+        <seg>Kohdistin: korostus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aligner Table Row Highlight</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T093733Z" creationid="piav" creationdate="20190522T093733Z">
+        <seg>Kohdistin: taulukon rivin korostus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All collections (public and private) will be queried for the source and target language.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T115640Z" creationid="PiaVee" creationdate="20171014T115640Z">
@@ -4747,6 +4779,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hyperlinks</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T093426Z" creationid="piav" creationdate="20190522T093426Z">
+        <seg>Hyperlinkit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I&amp;nsert Source</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T172558Z" creationid="PiaVee" creationdate="20171015T103618Z">
@@ -5328,6 +5368,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174404Z" creationid="PiaVee" creationdate="20171014T174404Z">
         <seg>italia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Item:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T093757Z" creationid="piav" creationdate="20190522T093757Z">
+        <seg>Nimike:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6108,10 +6156,34 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Matches Deleted Active</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T093410Z" creationid="piav" creationdate="20190522T093410Z">
+        <seg>Aktiiviset poistetut osumat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Deleted Inactive</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T093419Z" creationid="piav" creationdate="20190522T093419Z">
+        <seg>Passiviset poistetut osumat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Matches Inserted Active</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T090515Z" creationid="piav" creationdate="20190522T090515Z">
         <seg>Aktiiviset lisätyt osumat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Inserted Inactive</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T093403Z" creationid="piav" creationdate="20190522T093403Z">
+        <seg>Passiviset lisätyt osumat</seg>
       </tuv>
     </tu>
     <tu>
@@ -6604,6 +6676,22 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T083417Z" creationid="piav" creationdate="20190522T083417Z">
         <seg>Huomautus: Kaikkia segmentointisääntöjoukkoja, joissa on vastaava kielikuvio, käytetään tässä järjestyksessä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notification (flash)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T093558Z" creationid="piav" creationdate="20190522T093558Z">
+        <seg>Ilmoitus (välähdys)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notification (steady)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T093611Z" creationid="piav" creationdate="20190522T093533Z">
+        <seg>Ilmoitus (pysyvä)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8291,6 +8379,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T101150Z" creationid="piav" creationdate="20190521T101150Z">
         <seg>Hae sanakirjoista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Found Mark</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T093443Z" creationid="piav" creationdate="20190522T093443Z">
+        <seg>Haussa löytynyt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Replaced Mark</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T093527Z" creationid="piav" creationdate="20190522T093527Z">
+        <seg>Haettu ja korvattu</seg>
       </tuv>
     </tu>
     <tu>
