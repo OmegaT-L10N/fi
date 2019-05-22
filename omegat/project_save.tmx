@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable glossary suggestions</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T071035Z" creationid="piav" creationdate="20190522T070732Z">
+        <seg>Ota termilistaehdotukset käyttöön</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable history completion</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T064944Z" creationid="PiaVee" creationdate="20171015T122536Z">
@@ -352,8 +360,8 @@
       <tuv lang="EN">
         <seg>&amp;Glossary</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T173012Z" creationid="PiaVee" creationdate="20171015T111629Z">
-        <seg>&amp;Sanasto</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070803Z" creationid="PiaVee" creationdate="20171015T111629Z">
+        <seg>&amp;Termilista</seg>
       </tuv>
     </tu>
     <tu>
@@ -824,8 +832,8 @@
       <tuv lang="EN">
         <seg>&amp;Writeable Glossary</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T170717Z" creationid="PiaVee" creationdate="20171015T102853Z">
-        <seg>K&amp;irjoituskelpoinen sanasto</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070744Z" creationid="PiaVee" creationdate="20171015T102853Z">
+        <seg>K&amp;irjoituskelpoinen termilista</seg>
       </tuv>
     </tu>
     <tu>
@@ -2099,8 +2107,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T085335Z" creationid="PiaVee" creationdate="20171218T084843Z">
-        <seg>Sanastokansioon ei pääse käsiksi!</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070843Z" creationid="PiaVee" creationdate="20171218T084843Z">
+        <seg>Termilistakansioon ei pääse käsiksi!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2549,8 +2557,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T171134Z" creationid="PiaVee" creationdate="20171015T103857Z">
-        <seg>Luo &amp;sanastotietue…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070759Z" creationid="PiaVee" creationdate="20171015T103857Z">
+        <seg>Luo &amp;termilistan termi…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2567,6 +2575,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T170427Z" creationid="PiaVee" creationdate="20171015T102458Z">
         <seg>Luo &amp;nykyinen käännetty tiedosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Glossary Entry</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070947Z" creationid="piav" creationdate="20190522T070947Z">
+        <seg>Luo termilistan termi</seg>
       </tuv>
     </tu>
     <tu>
@@ -2939,6 +2955,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070639Z" creationid="piav" creationdate="20190522T070639Z">
+        <seg>Termien järjestys: &lt;kohde&gt; → &lt;lähde&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Distribution and modifications</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T132639Z" creationid="PiaVee" creationdate="20171014T132639Z">
@@ -3055,6 +3079,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T102735Z" creationid="PiaVee" creationdate="20171218T082803Z">
         <seg>Projektia noudetaan…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop glossary files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T071118Z" creationid="piav" creationdate="20190522T071118Z">
+        <seg>Lisää projektiin termilistatiedostoja pudottamalla ne tähän.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3311,6 +3343,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T085712Z" creationid="PiaVee" creationdate="20171218T085712Z">
         <seg>Ulkoisen komennon aloittamisessa tapahtui virhe: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error updating glossary file</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T071047Z" creationid="piav" creationdate="20190522T071047Z">
+        <seg>Termilistatiedoston päivityksessä tapahtui virhe</seg>
       </tuv>
     </tu>
     <tu>
@@ -3877,40 +3917,64 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Glossary</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T122202Z" creationid="PiaVee" creationdate="20171015T122202Z">
-        <seg>Sanasto</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070838Z" creationid="PiaVee" creationdate="20171015T122202Z">
+        <seg>Termilista</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Glossary Files Folder</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T131827Z" creationid="piav" creationdate="20190521T131827Z">
-        <seg>Sanastojen kansio</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070858Z" creationid="piav" creationdate="20190521T131827Z">
+        <seg>Termilistojen kansio</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Glossary Folder:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091257Z" creationid="PiaVee" creationdate="20171218T091257Z">
-        <seg>Sanastokansio:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070847Z" creationid="PiaVee" creationdate="20171218T091257Z">
+        <seg>Termilistakansio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary Matches</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T071058Z" creationid="piav" creationdate="20190522T071058Z">
+        <seg>Termilistaosumat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary auto-completer options</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T071022Z" creationid="piav" creationdate="20190522T070526Z">
+        <seg>Termistön automaattisen korvauksen asetukset</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Glossary entries</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T064744Z" creationid="piav" creationdate="20190522T064744Z">
-        <seg>Sanastotietueet</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T071008Z" creationid="piav" creationdate="20190522T064744Z">
+        <seg>Termilistatietueet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary file: {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T071003Z" creationid="piav" creationdate="20190522T071003Z">
+        <seg>Termilistatiedosto: {0}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T133812Z" creationid="piav" creationdate="20190521T133812Z">
-        <seg>Annettua sanastojen kansiota ei ole!</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070911Z" creationid="piav" creationdate="20190521T133812Z">
+        <seg>Annettua termilistojen kansiota ei ole!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4191,6 +4255,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174348Z" creationid="PiaVee" creationdate="20171014T174348Z">
         <seg>ido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, the entries are sorted alphabetically.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070515Z" creationid="piav" creationdate="20190522T070515Z">
+        <seg>Kun jompi kumpi näistä on valittuna, termit esitetään aakkosjärjestyksessä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5142,8 +5214,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Loading glossary {0}</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T175526Z" creationid="piav" creationdate="20190521T175526Z">
-        <seg>Sanastoa {0} ladataan</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070936Z" creationid="piav" creationdate="20190521T175526Z">
+        <seg>Termilistaa {0} ladataan</seg>
       </tuv>
     </tu>
     <tu>
@@ -6959,8 +7031,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T173146Z" creationid="PiaVee" creationdate="20171015T122139Z">
-        <seg>&amp;Korvaa sanasto-osumat lähtötekstiä lisättäessä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070836Z" creationid="PiaVee" creationdate="20171015T122139Z">
+        <seg>&amp;Korvaa termilistaosumat lähtötekstiä lisättäessä</seg>
       </tuv>
     </tu>
     <tu>
@@ -7603,6 +7675,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T065925Z" creationid="piav" creationdate="20190522T065925Z">
         <seg>Näytä pisimmät kohdekieliset termit ensin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show &amp;source term first</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070648Z" creationid="piav" creationdate="20190522T070648Z">
+        <seg>Näytä &amp;lähdekieliset termit ensin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show &amp;target term first</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070537Z" creationid="piav" creationdate="20190522T070537Z">
+        <seg>Näytä &amp;kohdekieliset termit ensin</seg>
       </tuv>
     </tu>
     <tu>
@@ -8389,8 +8477,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The writeable glossary file must be inside the glossary folder</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T133853Z" creationid="piav" creationdate="20190521T133853Z">
-        <seg>Kirjoituskelpoisen sanastotiedoston on oltava sanastokansiossa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070923Z" creationid="piav" creationdate="20190521T133853Z">
+        <seg>Kirjoituskelpoisen termilistatiedoston on oltava termilistakansiossa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9168,8 +9256,8 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       <tuv lang="EN">
         <seg>Use &amp;stemming for glossary entries</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T173138Z" creationid="PiaVee" creationdate="20171015T122036Z">
-        <seg>Käytä sanastotietueiden &amp;vartaloita</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070827Z" creationid="PiaVee" creationdate="20171015T122036Z">
+        <seg>Käytä termilistan termeissä &amp;vartaloita</seg>
       </tuv>
     </tu>
     <tu>
@@ -9424,8 +9512,8 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       <tuv lang="EN">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T070226Z" creationid="piav" creationdate="20190522T065842Z">
-        <seg>Kun tämä on valittuna, sanaston automaattisen korvauksen valintaikkunassa näkyy myös lähdekielinen teksti.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T071015Z" creationid="piav" creationdate="20190522T065842Z">
+        <seg>Kun tämä on valittuna, termistön automaattisen korvauksen valintaikkunassa näkyy myös lähdekielinen teksti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9522,24 +9610,24 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       <tuv lang="EN">
         <seg>Writeable Glossary File</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T131923Z" creationid="piav" creationdate="20190521T131923Z">
-        <seg>Kirjoituskelpoinen sanastotiedosto</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070904Z" creationid="piav" creationdate="20190521T131923Z">
+        <seg>Kirjoituskelpoinen termilistatiedosto</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Writeable Glossary File:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T091308Z" creationid="PiaVee" creationdate="20171218T091308Z">
-        <seg>Kirjoituskelpoinen sanastotiedosto:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070853Z" creationid="PiaVee" creationdate="20171218T091308Z">
+        <seg>Kirjoituskelpoinen termilistatiedosto:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Writeable glossary file folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T133828Z" creationid="piav" creationdate="20190521T133828Z">
-        <seg>Annettua kirjoituskelpoisen sanaston kansiota ei ole!</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190522T070915Z" creationid="piav" creationdate="20190521T133828Z">
+        <seg>Annettua kirjoituskelpoisen termilistan kansiota ei ole!</seg>
       </tuv>
     </tu>
     <tu>
