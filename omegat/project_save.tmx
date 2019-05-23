@@ -3951,6 +3951,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error initializing marker '{0}'</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T161548Z" creationid="piav" creationdate="20190523T161548Z">
+        <seg>Virhe merkinnän '{0}' alustamisessa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T085916Z" creationid="PiaVee" creationdate="20171218T085916Z">
