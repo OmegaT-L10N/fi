@@ -3819,6 +3819,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End of stream encountered without finding close block!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T100347Z" creationid="piav" creationdate="20190523T100257Z">
+        <seg>Virran loppu saavutettu, mutta loppulohkoa ei löytynyt!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>End*</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T123622Z" creationid="PiaVee" creationdate="20171218T123541Z">
@@ -3959,6 +3967,22 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092510Z" creationid="PiaVee" creationdate="20171014T092510Z">
         <seg>Löytyneet virheet:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escaped binary char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T100726Z" creationid="piav" creationdate="20190523T100726Z">
+        <seg>Binäärisessä pakomerkissä on dataa ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escaped character never terminated!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T100500Z" creationid="piav" creationdate="20190523T100341Z">
+        <seg>Kenoviivaa ei ole päätetty!</seg>
       </tuv>
     </tu>
     <tu>
