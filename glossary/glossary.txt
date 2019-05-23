@@ -691,3 +691,4 @@ close block	loppulohko
 Escaped character	Koodinvaihtomerkki
 Escaped character	Kenoviiva
 Translation unit	Käännösyksikkö
+plugin	liitännäi	> liitännäinen
