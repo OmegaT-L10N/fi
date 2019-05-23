@@ -312,8 +312,8 @@
       <tuv lang="EN">
         <seg>&amp;Empty lines</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T180045Z" creationid="piav" creationdate="20190521T180045Z">
-        <seg>&amp;tyhjä rivi</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T173259Z" creationid="piav" creationdate="20190521T180045Z">
+        <seg>tyhjä rivi</seg>
       </tuv>
     </tu>
     <tu>
@@ -520,8 +520,8 @@
       <tuv lang="EN">
         <seg>&amp;Line breaks</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T180040Z" creationid="piav" creationdate="20190521T180040Z">
-        <seg>&amp;rivinvaihto</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T173254Z" creationid="piav" creationdate="20190521T180040Z">
+        <seg>rivinvaihto</seg>
       </tuv>
     </tu>
     <tu>
@@ -552,8 +552,8 @@
       <tuv lang="EN">
         <seg>&amp;Never</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T180049Z" creationid="piav" creationdate="20190521T180049Z">
-        <seg>&amp;ei koskaan</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T173310Z" creationid="piav" creationdate="20190521T180049Z">
+        <seg>ei koskaan</seg>
       </tuv>
     </tu>
     <tu>
@@ -7432,6 +7432,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options to set the line length in target documents (0 = no limit)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T173403Z" creationid="piav" creationdate="20190523T173403Z">
+        <seg>Kohdedokumenttien rivipituuden määritys (0 = rajaton)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options:
 	None: Launch GUI
 	Project path only: Launch GUI and load specified project
@@ -8053,6 +8061,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094215Z" creationid="PiaVee" creationdate="20171219T094215Z">
         <seg>Qabiria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T173239Z" creationid="piav" creationdate="20190523T173239Z">
+        <seg>QuarkXPress CopyFlow Gold</seg>
       </tuv>
     </tu>
     <tu>
@@ -9005,8 +9021,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Segment source text into paragraphs on:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T180032Z" creationid="piav" creationdate="20190521T180032Z">
-        <seg>Lähdetekstin kappalejaon merkkinä:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T173306Z" creationid="piav" creationdate="20190521T180032Z">
+        <seg>Lähdetekstin kappalejaon merkki:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9907,6 +9923,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text Filter Options</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T173251Z" creationid="piav" creationdate="20190523T173251Z">
+        <seg>Tekstisuodattimen asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text Replace</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T135741Z" creationid="piav" creationdate="20190521T135741Z">
@@ -9983,8 +10007,8 @@ Tekstin korvaus tapahtuu projektin lähtökielisissä segmenteissäriippumatta s
       <tuv lang="EN">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T172934Z" creationid="piav" creationdate="20190523T172934Z">
-        <seg>aiheutti poikkeuksen:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T173117Z" creationid="piav" creationdate="20190523T172934Z">
+        <seg>Java-resurssipaketit aiheuttivat poikkeuksen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10007,16 +10031,16 @@ Tekstin korvaus tapahtuu projektin lähtökielisissä segmenteissäriippumatta s
       <tuv lang="EN">
         <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T172535Z" creationid="piav" creationdate="20190523T172358Z">
-        <seg>Moodle PHP -suodatin aiheutti poikkeuksen:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T172946Z" creationid="piav" creationdate="20190523T172358Z">
+        <seg>Moodle PHP -suodatin aiheutti poikkeuksen:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T172550Z" creationid="piav" creationdate="20190523T172550Z">
-        <seg>Mozilla DTD -suodatin aiheutti poikkeuksen:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T172952Z" creationid="piav" creationdate="20190523T172550Z">
+        <seg>Mozilla DTD -suodatin aiheutti poikkeuksen:</seg>
       </tuv>
     </tu>
     <tu>
