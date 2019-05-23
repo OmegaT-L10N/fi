@@ -4315,6 +4315,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fatal error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T102547Z" creationid="piav" creationdate="20190523T102547Z">
+        <seg>Jäsennettäessä ilmeni vakava virhe rivillä {0}, sarakkeessa {1}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Feature requests tracking system</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140153Z" creationid="PiaVee" creationdate="20171014T140153Z">
@@ -7977,6 +7985,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T102520Z" creationid="piav" creationdate="20190523T102520Z">
+        <seg>Jäsennettäessä ilmeni korjattavissa oleva virhe rivillä {0}, sarakkeessa {1}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Recursi&amp;ve search</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T174622Z" creationid="piav" creationdate="20190521T135735Z">
@@ -10762,6 +10778,16 @@ Täsmähaut etsivät koko hakustringiä.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unrecoverable error while parsing TMX file
+{0}
+on line {1}, column {2}.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T102632Z" creationid="piav" creationdate="20190523T102632Z">
+        <seg>Rivi {0},</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unspecified</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T063806Z" creationid="piav" creationdate="20190522T063806Z">
@@ -11078,6 +11104,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T101229Z" creationid="PiaVee" creationdate="20171015T101229Z">
         <seg>Varoitus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T102721Z" creationid="piav" creationdate="20190523T102124Z">
+        <seg>Varoitus jäsennettäessä (rivi {0}, sarake {1}):</seg>
       </tuv>
     </tu>
     <tu>
