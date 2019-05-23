@@ -4317,8 +4317,8 @@ bittiavaruus.</seg>
       <tuv lang="EN">
         <seg>Fatal error on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T102759Z" creationid="piav" creationdate="20190523T102547Z">
-        <seg>Vakava virhe jäsennettäessä (rivi {0}, sarake {1}):</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T141326Z" creationid="piav" creationdate="20190523T102547Z">
+        <seg>Jäsennettäessä havaittiin vakava virhe rivillä {0}, sarakkeessa {1}:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7995,8 +7995,8 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
       <tuv lang="EN">
         <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T102745Z" creationid="piav" creationdate="20190523T102520Z">
-        <seg>Korjattavissa oleva virhe jäsennettäessä (rivi {0}, sarake {1}):</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T141335Z" creationid="piav" creationdate="20190523T102520Z">
+        <seg>Jäsennettäessä havaittiin korjattavissa oleva virhe rivillä {0}, sarakkeessa {1}:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8837,8 +8837,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Segment encountered outside translation unit variant.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T140717Z" creationid="piav" creationdate="20190523T140717Z">
-        <seg>Löydettiin </seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T141452Z" creationid="piav" creationdate="20190523T140717Z">
+        <seg>Havaittiin käännösyksikön ulkopuolella oleva segmentti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10540,16 +10540,16 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>Translation unit encountered before TMX header.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T140848Z" creationid="piav" creationdate="20190523T140355Z">
-        <seg>Tuli vastaan käännösyksikkö ennen TMX-otsaketta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T141539Z" creationid="piav" creationdate="20190523T140355Z">
+        <seg>Käännösyksikkö ennen TMX-otsaketta.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Translation unit variant encountered outside translation unit.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T140634Z" creationid="piav" creationdate="20190523T140412Z">
-        <seg>Löydettiin käännösyksikön ulkopuolinen käännösyksikkövariantti.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T141443Z" creationid="piav" creationdate="20190523T140412Z">
+        <seg>Havaittiin käännösyksikön ulkopuolinen käännösyksikkövariantti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10824,10 +10824,10 @@ Täsmähaut etsivät koko hakustringiä.</seg>
 {0}
 on line {1}, column {2}.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T102852Z" creationid="piav" creationdate="20190523T102632Z">
-        <seg>Peruuttamaton virhe jäsennettäessä TMX-tiedostoa
+      <tuv lang="FI" changeid="piav" changedate="20190523T141434Z" creationid="piav" creationdate="20190523T102632Z">
+        <seg>Tapahtui peruuttamaton virhe jäsennettäessä TMX-tiedostoa
 {0}
-(rivi {1}, sarake {2})</seg>
+rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11162,8 +11162,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Warning on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T102721Z" creationid="piav" creationdate="20190523T102124Z">
-        <seg>Varoitus jäsennettäessä (rivi {0}, sarake {1}):</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T141237Z" creationid="piav" creationdate="20190523T102124Z">
+        <seg>Jäsennettäessä havaittiin varoitus rivillä {0}, sarakkeessa {1}:</seg>
       </tuv>
     </tu>
     <tu>
