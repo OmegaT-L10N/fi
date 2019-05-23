@@ -3621,8 +3621,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Downloading project...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T102735Z" creationid="PiaVee" creationdate="20171218T082803Z">
-        <seg>Projektia noudetaan…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T094423Z" creationid="PiaVee" creationdate="20171218T082803Z">
+        <seg>Ladataan projekti…</seg>
       </tuv>
     </tu>
     <tu>
@@ -4073,8 +4073,8 @@ bittiavaruus.</seg>
       <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T103053Z" creationid="PiaVee" creationdate="20171218T085622Z">
-        <seg>Ulkoista komentoa suoritetaan…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T094508Z" creationid="PiaVee" creationdate="20171218T085622Z">
+        <seg>Suoritetaan ulkoinen komento…</seg>
       </tuv>
     </tu>
     <tu>
@@ -5986,16 +5986,16 @@ bittiavaruus.</seg>
       <tuv lang="EN">
         <seg>Loading TMX files...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T102921Z" creationid="PiaVee" creationdate="20171218T084452Z">
-        <seg>TMX-tiedostoja ladataan…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T094459Z" creationid="PiaVee" creationdate="20171218T084452Z">
+        <seg>Ladataan TMX-tiedostoja…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Loading glossaries</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T102829Z" creationid="PiaVee" creationdate="20171218T083050Z">
-        <seg>Sanastoja ladataan…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T094449Z" creationid="PiaVee" creationdate="20171218T083050Z">
+        <seg>Ladataan termilistoja…</seg>
       </tuv>
     </tu>
     <tu>
@@ -6010,8 +6010,8 @@ bittiavaruus.</seg>
       <tuv lang="EN">
         <seg>Loading project...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T102749Z" creationid="PiaVee" creationdate="20171218T082805Z">
-        <seg>Projektia ladataan…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T094434Z" creationid="PiaVee" creationdate="20171218T082805Z">
+        <seg>Ladataan projekti…</seg>
       </tuv>
     </tu>
     <tu>
@@ -7867,8 +7867,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Reading TMX file {0}</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T174851Z" creationid="piav" creationdate="20190521T174851Z">
-        <seg>TMX-tiedostoa {0} luetaan</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T094516Z" creationid="piav" creationdate="20190521T174851Z">
+        <seg>Luetaan TMX-tiedostoa {0}</seg>
       </tuv>
     </tu>
     <tu>
