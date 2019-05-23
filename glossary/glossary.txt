@@ -687,3 +687,6 @@ TaaS domain	TaaS-aihepiiri
 Whitespace	Tyhjätila
 Whitespace character	Tyhjätilamerkki
 shortcut	näppäinyhdistelmä	kun on kyse esim CTRL+M
+close block	loppulohko
+Escaped character	Koodinvaihtomerkki
+Escaped character	Kenoviiva
