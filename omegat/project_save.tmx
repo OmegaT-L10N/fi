@@ -1785,6 +1785,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Added {0} glossary entries from {1}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T142058Z" creationid="piav" creationdate="20190523T142058Z">
+        <seg>{0} termiä lisätty kohteesta {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Added: {1}, Deleted: {2}, Modified: {3} (Conflicts: {0})</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081650Z" creationid="piav" creationdate="20190522T081650Z">
@@ -2991,6 +2999,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Could not initialize OS look and feel!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T142202Z" creationid="piav" creationdate="20190523T142202Z">
+        <seg>Käyttöjärjestelmän ulkoasun alustaminen ei onnistunut!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T070759Z" creationid="PiaVee" creationdate="20171015T103857Z">
@@ -3939,6 +3955,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T085916Z" creationid="PiaVee" creationdate="20171218T085916Z">
         <seg>Ulkoisen komennon valvomisessa tapahtui virhe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error reading TMX level2 at line {0} column {1}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T141944Z" creationid="piav" creationdate="20190523T141944Z">
+        <seg>Kakkostason TMX-tiedostoa luettaessa tapahtui virhe rivillä {0}, sarakkeessa {1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8837,8 +8861,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Segment encountered outside translation unit variant.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T141452Z" creationid="piav" creationdate="20190523T140717Z">
-        <seg>Havaittiin käännösyksikön ulkopuolella oleva segmentti.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T141613Z" creationid="piav" creationdate="20190523T140717Z">
+        <seg>Löytyi käännösyksikön ulkopuolella oleva segmentti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8861,8 +8885,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Segment skipped.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T174959Z" creationid="piav" creationdate="20190521T174959Z">
-        <seg>Segmentti ohitettu.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T141617Z" creationid="piav" creationdate="20190521T174959Z">
+        <seg>Segmentti ohitettiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9363,6 +9387,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source segment could not be located for certain translation units.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T141637Z" creationid="piav" creationdate="20190523T141637Z">
+        <seg>Tiettyjen käännösyksikköjen lähdesegmenttiä ei löydy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source segments</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T084146Z" creationid="piav" creationdate="20190522T084146Z">
@@ -9567,6 +9599,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T174440Z" creationid="PiaVee" creationdate="20171015T102732Z">
         <seg>Käännösmuistit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T141842Z" creationid="piav" creationdate="20190523T141842Z">
+        <seg>TMX-tiedosto on luotu OmegaT:n versiolla 1.4.x tai aiemmalla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9869,12 +9909,28 @@ Tekstin korvaus tapahtuu projektin lähtökielisissä segmenteissäriippumatta s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The TMX file will continue to be loaded.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T141804Z" creationid="piav" creationdate="20190523T141804Z">
+        <seg>Jatketaan TMX-tiedoston lataamista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The TMX file will not be loaded
 Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T102924Z" creationid="piav" creationdate="20190523T102924Z">
         <seg>TMX-tiedostoa ei ladata.
 Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T141739Z" creationid="piav" creationdate="20190523T141739Z">
+        <seg>TMX-tiedoston lähdekieli ({0}) on eri kuin projektin lähdekieli ({1}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10540,16 +10596,16 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>Translation unit encountered before TMX header.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T141539Z" creationid="piav" creationdate="20190523T140355Z">
-        <seg>Käännösyksikkö ennen TMX-otsaketta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T141601Z" creationid="piav" creationdate="20190523T140355Z">
+        <seg>Löytyi käännösyksikkö ennen TMX-otsaketta.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Translation unit variant encountered outside translation unit.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T141443Z" creationid="piav" creationdate="20190523T140412Z">
-        <seg>Havaittiin käännösyksikön ulkopuolinen käännösyksikkövariantti.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T141605Z" creationid="piav" creationdate="20190523T140412Z">
+        <seg>Löytyi käännösyksikön ulkopuolinen käännösyksikkövariantti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10816,6 +10872,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090059Z" creationid="PiaVee" creationdate="20171218T090059Z">
         <seg>Uniikkeja:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unknown plugin type '{0}' in '{1}'</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T161252Z" creationid="piav" creationdate="20190523T161252Z">
+        <seg>Tuntematon liitännäistyyppi '{0}'</seg>
       </tuv>
     </tu>
     <tu>
