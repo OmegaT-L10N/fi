@@ -1921,6 +1921,18 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An exception occurred while parsing the TMX file
+{0}
+The TMX file will not be loaded.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T101930Z" creationid="piav" creationdate="20190523T101916Z">
+        <seg>TMX-tiedoston
+{0}
+jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An existing translation was changed to something different from what you chose.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T094534Z" creationid="piav" creationdate="20190522T094534Z">
@@ -4067,6 +4079,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exception while parsing:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T101705Z" creationid="piav" creationdate="20190523T101705Z">
+        <seg>Jäsentämisen aikana havaittiin poikkeus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exciting help page
 Gossamer threads hold you back
 404 not found</seg>
@@ -4203,6 +4223,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T063737Z" creationid="piav" creationdate="20190522T063737Z">
         <seg>Ylimääräistä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to back up preferences file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T101419Z" creationid="piav" creationdate="20190523T101419Z">
+        <seg>Asetustiedoston varmuuskopiointi epäonnistui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7537,6 +7565,18 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please consult the log
+({1})
+to determine the source of the error and try again.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T102102Z" creationid="piav" creationdate="20190523T102102Z">
+        <seg>Tutki lokitiedostoa
+({1})
+selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140734Z" creationid="PiaVee" creationdate="20171014T140734Z">
@@ -10746,6 +10786,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unsupported project file version ({0})!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T101436Z" creationid="piav" creationdate="20190523T101436Z">
+        <seg>Projektiviedoston versiota {0} ei tueta!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Untranslated segments</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T084301Z" creationid="piav" creationdate="20190522T084301Z">
@@ -10934,6 +10982,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082225Z" creationid="PiaVee" creationdate="20171015T082225Z">
         <seg>uzbekki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Variants in the following languages will be displayed: {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T101557Z" creationid="piav" creationdate="20190523T101557Z">
+        <seg>Seuraavat kielivariantit näytetään: {0}</seg>
       </tuv>
     </tu>
     <tu>
