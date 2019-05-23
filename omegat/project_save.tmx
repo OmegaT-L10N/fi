@@ -3903,6 +3903,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Encountered illegal \u sequence</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T173709Z" creationid="piav" creationdate="20190523T173709Z">
+        <seg>Virheellinen \u-sarja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>End of stream encountered without finding close block!</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T100347Z" creationid="piav" creationdate="20190523T100257Z">
@@ -5688,6 +5696,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T171358Z" creationid="piav" creationdate="20190523T171358Z">
         <seg>Liitännäisissä käytety jar-paketti: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java(TM) Resource Bundles</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T174107Z" creationid="piav" creationdate="20190523T173419Z">
+        <seg>Java(TM)-resurssiniput</seg>
       </tuv>
     </tu>
     <tu>
@@ -8989,8 +9005,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Segment encountered outside translation unit variant.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T141613Z" creationid="piav" creationdate="20190523T140717Z">
-        <seg>Löytyi käännösyksikön ulkopuolella oleva segmentti.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T173555Z" creationid="piav" creationdate="20190523T140717Z">
+        <seg>Käännösyksikön ulkopuolella oleva segmentti</seg>
       </tuv>
     </tu>
     <tu>
@@ -10773,16 +10789,16 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>Translation unit encountered before TMX header.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T141601Z" creationid="piav" creationdate="20190523T140355Z">
-        <seg>Löytyi käännösyksikkö ennen TMX-otsaketta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T173608Z" creationid="piav" creationdate="20190523T140355Z">
+        <seg>Käännösyksikkö ennen TMX-otsaketta</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Translation unit variant encountered outside translation unit.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T141605Z" creationid="piav" creationdate="20190523T140412Z">
-        <seg>Löytyi käännösyksikön ulkopuolinen käännösyksikkövariantti.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T173601Z" creationid="piav" creationdate="20190523T140412Z">
+        <seg>Käännösyksikön ulkopuolinen käännösyksikkövariantti</seg>
       </tuv>
     </tu>
     <tu>
