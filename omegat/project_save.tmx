@@ -3959,6 +3959,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error load plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T161810Z" creationid="piav" creationdate="20190523T161643Z">
+        <seg>Virhe liitännäisen lataamisessa luokasta '{0}': {1}: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T085916Z" creationid="PiaVee" creationdate="20171218T085916Z">
@@ -3995,6 +4003,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T085712Z" creationid="PiaVee" creationdate="20171218T085712Z">
         <seg>Ulkoisen komennon aloittamisessa tapahtui virhe: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error unload plugin from class '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T170510Z" creationid="piav" creationdate="20190523T170510Z">
+        <seg>Virhe liitännäisen lataamisessa luokasta '{0}': {1}</seg>
       </tuv>
     </tu>
     <tu>
