@@ -4027,6 +4027,18 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exciting help page
+Gossamer threads hold you back
+404 not found</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T093921Z" creationid="piav" creationdate="20190523T093921Z">
+        <seg>Etsit, mutta et
+löytänyt hakemaasi:
+bittiavaruus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T082637Z" creationid="PiaVee" creationdate="20171218T082637Z">
@@ -7637,6 +7649,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press the keyboard shortcut you wish to assign, then click OK.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T093305Z" creationid="piav" creationdate="20190523T093305Z">
+        <seg>Paina haluamaasi näppäinyhdistelmää ja napsauta sitten OK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T094548Z" creationid="piav" creationdate="20190522T081626Z">
@@ -8519,6 +8539,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search ({0})</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T093244Z" creationid="piav" creationdate="20190523T093223Z">
+        <seg>Etsi ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search Dictionaries</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T101150Z" creationid="piav" creationdate="20190521T101150Z">
@@ -8905,8 +8933,16 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Shortcut</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T074055Z" creationid="piav" creationdate="20190522T074011Z">
-        <seg>Lyhenne</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T093534Z" creationid="piav" creationdate="20190522T074011Z">
+        <seg>Pikanäppäin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shortcut:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T093541Z" creationid="piav" creationdate="20190523T093249Z">
+        <seg>Pikanäppäin:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9073,8 +9109,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Sort by &amp;full text, not shortcut</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T074051Z" creationid="piav" creationdate="20190522T073716Z">
-        <seg>Järjestä &amp;kokotekstin, ei lyhenteen, mukaan</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T093529Z" creationid="piav" creationdate="20190522T073716Z">
+        <seg>Järjestä &amp;kokotekstin, ei pikanäppäimen, mukaan</seg>
       </tuv>
     </tu>
     <tu>
