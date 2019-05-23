@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T174912Z" creationid="piav" creationdate="20190523T174912Z">
+        <seg>Älä käännä Unicode-literaaleja (\uXXXX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Download</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081850Z" creationid="piav" creationdate="20190522T081850Z">
@@ -5696,6 +5704,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T171358Z" creationid="piav" creationdate="20190523T171358Z">
         <seg>Liitännäisissä käytety jar-paketti: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java Resource Bundles Filter Options</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T174121Z" creationid="piav" creationdate="20190523T174121Z">
+        <seg>Java-resurssinippujen suodattimen asetukset</seg>
       </tuv>
     </tu>
     <tu>
