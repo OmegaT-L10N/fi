@@ -5876,6 +5876,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Language not specified for translation unit variant.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T140659Z" creationid="piav" creationdate="20190523T140659Z">
+        <seg>Käännösyksikkövariantin kieltä ei ole määritetty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool plugin</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140940Z" creationid="PiaVee" creationdate="20171014T140940Z">
@@ -8827,6 +8835,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment encountered outside translation unit variant.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T140717Z" creationid="piav" creationdate="20190523T140717Z">
+        <seg>Löydettiin </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment marker background</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T084140Z" creationid="piav" creationdate="20190522T084140Z">
@@ -10522,6 +10538,22 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation unit encountered before TMX header.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T140848Z" creationid="piav" creationdate="20190523T140355Z">
+        <seg>Tuli vastaan käännösyksikkö ennen TMX-otsaketta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation unit variant encountered outside translation unit.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T140634Z" creationid="piav" creationdate="20190523T140412Z">
+        <seg>Löydettiin käännösyksikön ulkopuolinen käännösyksikkövariantti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tsonga</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082133Z" creationid="PiaVee" creationdate="20171015T082133Z">
@@ -11020,6 +11052,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082225Z" creationid="PiaVee" creationdate="20171015T082225Z">
         <seg>uzbekki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Variant skipped.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T140706Z" creationid="piav" creationdate="20190523T140551Z">
+        <seg>Variantti ohitettiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14913,6 +14953,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T060336Z" creationid="PiaVee" creationdate="20170930T060336Z">
         <seg>{0}: Siistitty!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}_{1}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T140156Z" creationid="piav" creationdate="20190523T140156Z">
+        <seg>{0}_{1}</seg>
       </tuv>
     </tu>
     <tu>
