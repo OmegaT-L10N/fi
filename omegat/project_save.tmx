@@ -4317,8 +4317,8 @@ bittiavaruus.</seg>
       <tuv lang="EN">
         <seg>Fatal error on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T102547Z" creationid="piav" creationdate="20190523T102547Z">
-        <seg>Jäsennettäessä ilmeni vakava virhe rivillä {0}, sarakkeessa {1}:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T102759Z" creationid="piav" creationdate="20190523T102547Z">
+        <seg>Vakava virhe jäsennettäessä (rivi {0}, sarake {1}):</seg>
       </tuv>
     </tu>
     <tu>
@@ -7987,8 +7987,8 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
       <tuv lang="EN">
         <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T102520Z" creationid="piav" creationdate="20190523T102520Z">
-        <seg>Jäsennettäessä ilmeni korjattavissa oleva virhe rivillä {0}, sarakkeessa {1}:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T102745Z" creationid="piav" creationdate="20190523T102520Z">
+        <seg>Korjattavissa oleva virhe jäsennettäessä (rivi {0}, sarake {1}):</seg>
       </tuv>
     </tu>
     <tu>
@@ -9853,6 +9853,16 @@ Tekstin korvaus tapahtuu projektin lähtökielisissä segmenteissäriippumatta s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The TMX file will not be loaded
+Please try to correct the error and reload the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T102924Z" creationid="piav" creationdate="20190523T102924Z">
+        <seg>TMX-tiedostoa ei ladata.
+Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The TaaS service at https://demo.taas-project.eu/info provides terminology services in European languages (plus Russian).</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T104617Z" creationid="PiaVee" creationdate="20171014T102553Z">
@@ -10782,8 +10792,10 @@ Täsmähaut etsivät koko hakustringiä.</seg>
 {0}
 on line {1}, column {2}.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T102632Z" creationid="piav" creationdate="20190523T102632Z">
-        <seg>Rivi {0},</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T102852Z" creationid="piav" creationdate="20190523T102632Z">
+        <seg>Peruuttamaton virhe jäsennettäessä TMX-tiedostoa
+{0}
+(rivi {1}, sarake {2})</seg>
       </tuv>
     </tu>
     <tu>
