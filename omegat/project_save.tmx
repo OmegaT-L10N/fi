@@ -2821,8 +2821,8 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T085412Z" creationid="piav" creationdate="20190522T085333Z">
-        <seg>Tiivistä tyhjätilamerkit käännetyssä dokumentissa</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T170524Z" creationid="piav" creationdate="20190522T085333Z">
+        <seg>Tiivistä tyhjät merkit käännetyssä dokumentissa</seg>
       </tuv>
     </tu>
     <tu>
@@ -8195,8 +8195,8 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
       <tuv lang="EN">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T085408Z" creationid="piav" creationdate="20190522T085234Z">
-        <seg>Poista alussa ja lopussa olevat &amp;tyhjätilamerkit projekteissa, joita ei ole jaettu segmentteihin</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T170519Z" creationid="piav" creationdate="20190522T085234Z">
+        <seg>Poista alussa ja lopussa olevat &amp;tyhjät merkit projekteissa, joita ei ole jaettu segmentteihin</seg>
       </tuv>
     </tu>
     <tu>
