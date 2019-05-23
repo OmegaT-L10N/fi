@@ -686,3 +686,4 @@ domain	aihepiiri	Esimerkki käytöstä: TaaS-aihepiiri
 TaaS domain	TaaS-aihepiiri
 Whitespace	Tyhjätila
 Whitespace character	Tyhjätilamerkki
+shortcut	näppäinyhdistelmä	kun on kyse esim CTRL+M
