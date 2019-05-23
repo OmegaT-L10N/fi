@@ -2105,6 +2105,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backed up preferences to {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T101354Z" creationid="piav" creationdate="20190523T101354Z">
+        <seg>Asetukset varmuuskopioitu, polku: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Background</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T083924Z" creationid="piav" creationdate="20190522T083924Z">
@@ -3973,16 +3981,24 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Escaped binary char contains malformed data ({0})!</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T100726Z" creationid="piav" creationdate="20190523T100726Z">
-        <seg>Binäärisessä pakomerkissä on dataa ({0})!</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T100940Z" creationid="piav" creationdate="20190523T100726Z">
+        <seg>Binäärisessä pakomerkissä on väärin muotoiltua dataa ({0})!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Escaped character never terminated!</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T100500Z" creationid="piav" creationdate="20190523T100341Z">
-        <seg>Kenoviivaa ei ole päätetty!</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T100735Z" creationid="piav" creationdate="20190523T100341Z">
+        <seg>Koodinvaihtomerkkiä ei ole päätetty!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escaped decimal char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T100957Z" creationid="piav" creationdate="20190523T100957Z">
+        <seg>Numeromuotoisessa pakomerkissä on väärin muotoiltua dataa ({0})!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7404,6 +7420,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Parse error encountered reading preferences file!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T101200Z" creationid="piav" creationdate="20190523T101200Z">
+        <seg>Virhe asetustiedoston lukemisessa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pashto, Pushto</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081111Z" creationid="PiaVee" creationdate="20171015T081111Z">
@@ -7653,6 +7677,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081115Z" creationid="PiaVee" creationdate="20171015T081115Z">
         <seg>portugali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences system save operation failed!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T101054Z" creationid="piav" creationdate="20190523T101054Z">
+        <seg>Asetusjärjestelmän tallennus epäonnistui!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10702,6 +10734,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T143135Z" creationid="piav" creationdate="20190521T143135Z">
         <seg>XML-versiota {0} ei tueta!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported file encoding</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T101231Z" creationid="piav" creationdate="20190523T101231Z">
+        <seg>Tiedostokoodausta ei tueta</seg>
       </tuv>
     </tu>
     <tu>
