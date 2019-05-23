@@ -692,3 +692,5 @@ Escaped character	Koodinvaihtomerkki
 Escaped character	Kenoviiva
 Translation unit	Käännösyksikkö
 plugin	liitännäi	> liitännäinen
+filter threw an exception	suodatin aiheutti poikkeuksen
+threw an exception	aiheutti poikkeuksen	käyttö: XXX aiheutti poikkeuksen
