@@ -695,3 +695,5 @@ plugin	liitännäi	> liitännäinen
 filter threw an exception	suodatin aiheutti poikkeuksen
 threw an exception	aiheutti poikkeuksen	käyttö: XXX aiheutti poikkeuksen
 Java Resource Bundles	Java-resurssiniput
+unescape	kääntää	Java-funktio unescape() kääntää ASCII-merkinnän tavan kielelle
+escape	unescape	JavaScriptin sisäänrakkettu funktio Escape() palauttaa merkin ASCII-merkinnän
