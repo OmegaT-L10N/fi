@@ -690,3 +690,4 @@ shortcut	näppäinyhdistelmä	kun on kyse esim CTRL+M
 close block	loppulohko
 Escaped character	Koodinvaihtomerkki
 Escaped character	Kenoviiva
+Translation unit	Käännösyksikkö
