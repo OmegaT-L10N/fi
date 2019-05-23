@@ -694,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Remove untranslated strings in the target files</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T172132Z" creationid="piav" creationdate="20190523T172132Z">
+        <seg>Poista kohdetiedostoista stringit, joita ei ole käännetty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Replace</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T165623Z" creationid="PiaVee" creationdate="20171015T094316Z">
@@ -7536,6 +7544,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PDF Input</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T172030Z" creationid="piav" creationdate="20190523T172030Z">
+        <seg>PDF-syöte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PO</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T175818Z" creationid="piav" creationdate="20190521T175818Z">
@@ -7580,6 +7596,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081111Z" creationid="PiaVee" creationdate="20171015T081111Z">
         <seg>paštu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password-protected PDF files are not supported: {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T172046Z" creationid="piav" creationdate="20190523T172046Z">
+        <seg>Salasanalla suojattuja PDF-tiedostoja ei tueta: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9957,6 +9981,14 @@ Tekstin korvaus tapahtuu projektin lähtökielisissä segmenteissäriippumatta s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Java Resource Bundles filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T172934Z" creationid="piav" creationdate="20190523T172934Z">
+        <seg>aiheutti poikkeuksen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The LanguageTool in OmegaT</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T145555Z" creationid="PiaVee" creationdate="20171014T145547Z">
@@ -9969,6 +10001,22 @@ Tekstin korvaus tapahtuu projektin lähtökielisissä segmenteissäriippumatta s
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T145619Z" creationid="PiaVee" creationdate="20171014T145619Z">
         <seg>OmegaT sisältää LanguageTool-laajennuksen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moodle PHP filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T172535Z" creationid="piav" creationdate="20190523T172358Z">
+        <seg>Moodle PHP -suodatin aiheutti poikkeuksen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Mozilla DTD filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T172550Z" creationid="piav" creationdate="20190523T172550Z">
+        <seg>Mozilla DTD -suodatin aiheutti poikkeuksen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9999,8 +10047,8 @@ Tekstin korvaus tapahtuu projektin lähtökielisissä segmenteissäriippumatta s
       <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T175848Z" creationid="piav" creationdate="20190521T175848Z">
-        <seg>PO-suodatin antoi poikkeuksen:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190523T172451Z" creationid="piav" creationdate="20190521T175848Z">
+        <seg>PO-suodatin aiheutti poikkeuksen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11511,6 +11559,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T065723Z" creationid="PiaVee" creationdate="20170930T065317Z">
         <seg>Will Heltonia luonnoksen lopullisesta oikoluvusta, sillä se säästi minut monelta nolostumiselta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows Resources</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T172111Z" creationid="piav" creationdate="20190523T172111Z">
+        <seg>Windows-resurssit</seg>
       </tuv>
     </tu>
     <tu>
