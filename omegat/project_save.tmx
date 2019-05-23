@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Allow blank translations in the target files</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T171744Z" creationid="piav" creationdate="20190523T171724Z">
+        <seg>Kohdetiedostoissa saa olla tyhjiä käännöksiä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Allow only unique characters</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T074927Z" creationid="piav" creationdate="20190522T074927Z">
@@ -834,6 +842,14 @@
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T170102Z" creationid="PiaVee" creationdate="20171015T095008Z">
         <seg>O&amp;hita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Skip PO header</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T171815Z" creationid="piav" creationdate="20190523T171815Z">
+        <seg>Ohita PO-otsake</seg>
       </tuv>
     </tu>
     <tu>
@@ -1905,6 +1921,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow translating &amp;blank source segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T171801Z" creationid="piav" creationdate="20190523T171801Z">
+        <seg>Tyhjiä lähdesegmenttejä saa kääntää</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Amharic</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173459Z" creationid="PiaVee" creationdate="20171014T173459Z">
@@ -2025,6 +2049,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T174332Z" creationid="piav" creationdate="20190521T134613Z">
         <seg>Tekijä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T172019Z" creationid="piav" creationdate="20190523T172019Z">
+        <seg>Korvaa otsakkeen 'nplurals=INTEGER; &amp;plural=EXPRESSION;' automaattisesti</seg>
       </tuv>
     </tu>
     <tu>
@@ -2755,6 +2787,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T093952Z" creationid="piav" creationdate="20190522T093952Z">
         <seg>Värit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Column Index must be equal to 1</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T171655Z" creationid="piav" creationdate="20190523T171655Z">
+        <seg>Sarakeindeksin on oltava 1</seg>
       </tuv>
     </tu>
     <tu>
@@ -4487,6 +4527,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072326Z" creationid="PiaVee" creationdate="20171218T072326Z">
         <seg>Suodatin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter '{0}' could not be loaded from '{1}'</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T171555Z" creationid="piav" creationdate="20190523T171555Z">
+        <seg>Suodattimen '{0}' lataaminen kohteesta '{1}' ei onnistunut</seg>
       </tuv>
     </tu>
     <tu>
@@ -7761,6 +7809,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plugin successfully loaded from class '{0}'</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T171418Z" creationid="piav" creationdate="20190523T171418Z">
+        <seg>Liitännäisen lataaminen luokasta '{0}' onnistui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Polish</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081054Z" creationid="PiaVee" creationdate="20171015T081054Z">
@@ -9227,6 +9283,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skipping previously loaded plugin from class '{0}'</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T171444Z" creationid="piav" creationdate="20190523T171444Z">
+        <seg>Ohitetaan aiemmin ladattu liitännäinen luokasta '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Slovak</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081515Z" creationid="PiaVee" creationdate="20171015T081515Z">
@@ -10554,6 +10618,15 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated file path cannot be identical to the source file path:
+{0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T171619Z" creationid="piav" creationdate="20190523T171619Z">
+        <seg>Käännetyn tiedoston polku ei voi olla sama kuin lähdetiedoston polku: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T133742Z" creationid="piav" creationdate="20190521T133742Z">
@@ -10780,6 +10853,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to parse filters configuration file</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T171519Z" creationid="piav" creationdate="20190523T171519Z">
+        <seg>Suodattimien määritystiedoston jäsentäminen ei onnistu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to read file</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T174838Z" creationid="piav" creationdate="20190521T174838Z">
@@ -10800,6 +10881,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T073942Z" creationid="piav" creationdate="20190522T073942Z">
         <seg>Tietojen tallentaminen ei onnistu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to save filters configuration file</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190523T171529Z" creationid="piav" creationdate="20190523T171529Z">
+        <seg>Suodattimien määritystiedoston tallentaminen ei onnistu</seg>
       </tuv>
     </tu>
     <tu>
