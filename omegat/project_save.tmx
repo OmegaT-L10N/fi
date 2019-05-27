@@ -1729,6 +1729,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ANTLR (ANTLR 3 License)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185038Z" creationid="piav" creationdate="20190527T185038Z">
+        <seg>ANTLR (lisenssi: ANTLR 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>API Key:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T082556Z" creationid="piav" creationdate="20190522T082556Z">
@@ -5075,6 +5083,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T184930Z" creationid="piav" creationdate="20190527T184930Z">
+        <seg>HTMLParser 1.6, tekijöinä Somik Raha, Derrick Oswald sekä muita (lisenssi: LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTTP(S)</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T133230Z" creationid="piav" creationdate="20190521T133230Z">
@@ -5860,6 +5876,22 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JGit (Eclipse Distribution License)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185237Z" creationid="piav" creationdate="20190527T185237Z">
+        <seg>JGit (lisenssi: Eclipse Distribution)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>JSch (JSch License)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185254Z" creationid="piav" creationdate="20190527T185254Z">
+        <seg>JSch (lisenssi: JSch)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Japanese</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174426Z" creationid="PiaVee" creationdate="20171014T174426Z">
@@ -5920,6 +5952,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T080551Z" creationid="PiaVee" creationdate="20170930T080331Z">
         <seg>Jean-Christophe Helarytä OmegaT-ajon johdonmukaisesta kuvauksesta, komentolinjaparametreistä sekä kaikista muista yksityiskohdista, joita en ole vielä huomannut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jmyspell (LGPL License)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T184940Z" creationid="piav" creationdate="20190527T184940Z">
+        <seg>Jmyspell (lisenssi: LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7480,6 +7520,16 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT uses the following libraries:
+{1}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T184712Z" creationid="piav" creationdate="20190527T184712Z">
+        <seg>OmegaT käyttää seuraavia kirjastoja:
+{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT version {0} ({1})</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180911Z" creationid="piav" creationdate="20190521T180911Z">
@@ -8937,6 +8987,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SQLJet (GPL License)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185045Z" creationid="piav" creationdate="20190527T185045Z">
+        <seg>SQLJet (lisenssi: GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SVG Image and Adobe Illustrator Export</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T105904Z" creationid="piav" creationdate="20190527T105802Z">
@@ -8957,6 +9015,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T060325Z" creationid="PiaVee" creationdate="20170930T060325Z">
         <seg>SVN:n siistiminen (rekursiivinen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVNKit (TMate License)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T184951Z" creationid="piav" creationdate="20190527T184951Z">
+        <seg>SVNKit (lisenssi: TMate)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9211,6 +9277,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See /docs/contributors.txt</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T184723Z" creationid="piav" creationdate="20190527T184723Z">
+        <seg>Lisätietoja: /docs/contributors.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T175011Z" creationid="PiaVee" creationdate="20171015T092448Z">
@@ -9447,6 +9521,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T082016Z" creationid="piav" creationdate="20190522T082016Z">
         <seg>Valitse TaaS-aihepiiri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sequence Library (Sequence Library License)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185031Z" creationid="piav" creationdate="20190527T185031Z">
+        <seg>Sequence Library (lisenssi: Sequence Library)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11637,6 +11719,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082225Z" creationid="PiaVee" creationdate="20171015T082225Z">
         <seg>uzbekki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VLDocking Framework (LGPL License)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T184937Z" creationid="piav" creationdate="20190527T184937Z">
+        <seg>VLDocking Framework (lisenssi: LGPL)</seg>
       </tuv>
     </tu>
     <tu>
