@@ -5500,6 +5500,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the filter has any options, you may change them by clicking Options.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T191221Z" creationid="piav" creationdate="20190527T191221Z">
+        <seg>Pääset vaihtamaan mahdollisia suodatinasetuksia napsauttamalla Asetukset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the text is encoded in 8 bits, however, one can be faced with the following awkward situation: instead of displaying the text, for Japanese characters...</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171220T094600Z" creationid="PiaVee" creationdate="20171220T094311Z">
@@ -7466,8 +7474,8 @@ bittiavaruus.</seg>
       <tuv lang="EN">
         <seg>O&amp;ptions...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T083737Z" creationid="piav" creationdate="20190522T083737Z">
-        <seg>&amp;Asetukset…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190527T191224Z" creationid="piav" creationdate="20190522T083737Z">
+        <seg>Asetukset…</seg>
       </tuv>
     </tu>
     <tu>
@@ -8339,6 +8347,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preserve spaces &amp;for all tags</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T191252Z" creationid="piav" creationdate="20190527T191252Z">
+        <seg>Jätä kaikkien tägien välilyönnit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T064735Z" creationid="piav" creationdate="20190522T064312Z">
@@ -8715,6 +8731,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T191234Z" creationid="piav" creationdate="20190527T191234Z">
+        <seg>Poista alussa ja lopussa olevat &amp;tyhjät merkit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove LanguageTool from the /plugin folder before starting OmegaT.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T150716Z" creationid="PiaVee" creationdate="20171014T150716Z">
@@ -8765,8 +8789,8 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
       <tuv lang="EN">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T170519Z" creationid="piav" creationdate="20190522T085234Z">
-        <seg>Poista alussa ja lopussa olevat &amp;tyhjät merkit projekteissa, joita ei ole jaettu segmentteihin</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190527T191247Z" creationid="piav" creationdate="20190522T085234Z">
+        <seg>Poista alussa ja lopussa olevat &amp;tyhjät merkit projekteista, joita ei ole jaettu segmentteihin</seg>
       </tuv>
     </tu>
     <tu>
@@ -11064,6 +11088,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094153Z" creationid="PiaVee" creationdate="20171219T094153Z">
         <seg>Tähän päivään mennessä sposoreina ovat toimineet:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T190831Z" creationid="piav" creationdate="20190527T190831Z">
+        <seg>Valitse suodatin listalta ja napsauta Muokkaa, niin pääset valitsemaan suodattimen käsittelemät tiedostot.</seg>
       </tuv>
     </tu>
     <tu>
