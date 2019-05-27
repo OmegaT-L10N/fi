@@ -2501,6 +2501,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Camtasia for Windows</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T105541Z" creationid="piav" creationdate="20190527T105541Z">
+        <seg>Camtasia for Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Canceled</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T083908Z" creationid="PiaVee" creationdate="20170910T083908Z">
@@ -5716,6 +5724,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java Properties XML</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T105538Z" creationid="piav" creationdate="20190527T105451Z">
+        <seg>Java Properties XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Java Resource Bundles Filter Options</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T174121Z" creationid="piav" creationdate="20190523T174121Z">
@@ -8137,6 +8153,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>RELAX NG</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T105536Z" creationid="piav" creationdate="20190527T105536Z">
+        <seg>RELAX NG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>RTL-LTR switch</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T124825Z" creationid="PiaVee" creationdate="20171218T124800Z">
@@ -8713,6 +8737,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SVG Image and Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T105802Z" creationid="piav" creationdate="20190527T105802Z">
+        <seg>SVG-vektorigrafiikka ja Adobe Illustrator -vienti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SVN - Cleanup</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T083324Z" creationid="PiaVee" creationdate="20170910T083324Z">
@@ -8805,6 +8837,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T094536Z" creationid="PiaVee" creationdate="20171015T124654Z">
         <seg>Projektia tallennetaan…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Schematron</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T105529Z" creationid="piav" creationdate="20190527T105529Z">
+        <seg>Schematron</seg>
       </tuv>
     </tu>
     <tu>
@@ -10885,6 +10925,22 @@ Täsmähaut etsivät koko hakustringiä.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Typo3 LocManager</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T105542Z" creationid="piav" creationdate="20190527T105542Z">
+        <seg>Typo3 LocManager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typo3 l10nmgr</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T105543Z" creationid="piav" creationdate="20190527T105543Z">
+        <seg>Typo3 l10nmgr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>U&amp;ntranslated</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T174513Z" creationid="piav" creationdate="20190521T135056Z">
@@ -11605,6 +11661,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T085635Z" creationid="piav" creationdate="20190522T085202Z">
         <seg>Tyhjätilamerkit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WiX Localization</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T105544Z" creationid="piav" creationdate="20190527T105544Z">
+        <seg>WiX Localization</seg>
       </tuv>
     </tu>
     <tu>
