@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Preserve spaces for all tags</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T172027Z" creationid="piav" creationdate="20190527T172027Z">
+        <seg>Jätä kaikkien tägien välilyönnit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Previous Segment</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T171420Z" creationid="PiaVee" creationdate="20171015T110538Z">
@@ -1705,6 +1713,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A&amp;ggregate Tags</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T172006Z" creationid="piav" creationdate="20190527T172006Z">
+        <seg>Yhdistä tägit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A&amp;uto-completion</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173353Z" creationid="PiaVee" creationdate="20171015T122348Z">
@@ -2505,6 +2521,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T174200Z" creationid="piav" creationdate="20190521T134819Z">
         <seg>&amp;Erottele kirjainkoko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>C&amp;harts</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T171722Z" creationid="piav" creationdate="20190527T171722Z">
+        <seg>Kaaviot</seg>
       </tuv>
     </tu>
     <tu>
@@ -3415,6 +3439,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>D&amp;iagrams</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T171724Z" creationid="piav" creationdate="20190527T171724Z">
+        <seg>Kuvaajat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Danish</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174003Z" creationid="PiaVee" creationdate="20171014T174003Z">
@@ -3779,6 +3811,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T094423Z" creationid="PiaVee" creationdate="20171218T082803Z">
         <seg>Ladataan projekti…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dra&amp;wings</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T171759Z" creationid="piav" creationdate="20190527T171759Z">
+        <seg>Piirrokset</seg>
       </tuv>
     </tu>
     <tu>
@@ -4355,6 +4395,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Lin&amp;ks</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T171640Z" creationid="piav" creationdate="20190527T171640Z">
+        <seg>Ulkoiset linkit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Post-processing Command</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T063219Z" creationid="piav" creationdate="20190522T063219Z">
@@ -4895,6 +4943,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T133224Z" creationid="piav" creationdate="20190521T133224Z">
         <seg>Git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Global</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T171621Z" creationid="piav" creationdate="20190527T171621Z">
+        <seg>Yleinen</seg>
       </tuv>
     </tu>
     <tu>
@@ -7696,6 +7752,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other Options:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T171815Z" creationid="piav" creationdate="20190527T171815Z">
+        <seg>Muut asetukset:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other contributions are detailed in the readme.txt file</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T182450Z" creationid="piav" creationdate="20190521T181601Z">
@@ -9547,6 +9611,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sli&amp;de Masters</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T171553Z" creationid="piav" creationdate="20190527T171553Z">
+        <seg>Dian perustyylit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slide La&amp;youts</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T171617Z" creationid="piav" creationdate="20190527T171617Z">
+        <seg>Dian rakenteet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Slovak</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081515Z" creationid="PiaVee" creationdate="20171015T081515Z">
@@ -9847,6 +9927,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T175834Z" creationid="piav" creationdate="20190521T175834Z">
         <seg>Standardi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T172740Z" creationid="piav" creationdate="20190527T172740Z">
+        <seg>Wordin pehmeä rivinvaihto aloittaa uuden kappaleen</seg>
       </tuv>
     </tu>
     <tu>
@@ -11863,6 +11951,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180737Z" creationid="piav" creationdate="20190521T180737Z">
         <seg>Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordAr&amp;t</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T171803Z" creationid="piav" creationdate="20190527T171803Z">
+        <seg>WordArt</seg>
       </tuv>
     </tu>
     <tu>
