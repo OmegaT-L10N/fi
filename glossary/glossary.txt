@@ -698,3 +698,4 @@ Java Resource Bundles	Java-resurssiniput
 unescape	kääntää	Java-funktio unescape() kääntää ASCII-merkinnän tavan kielelle
 escape	unescape	JavaScriptin sisäänrakkettu funktio Escape() palauttaa merkin ASCII-merkinnän
 slide masters	dian perustyylit	PowerPointissa!
+LGPL License	lisenssi: LGPL
