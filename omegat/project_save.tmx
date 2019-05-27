@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Index entries</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T165235Z" creationid="piav" creationdate="20190527T165229Z">
+        <seg>&amp;hakusanat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T170034Z" creationid="PiaVee" creationdate="20171015T094955Z">
@@ -4015,6 +4023,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error in file</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T165310Z" creationid="piav" creationdate="20190527T165310Z">
+        <seg>Virhe tiedostossa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error in file {0}, line {1}</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180148Z" creationid="piav" creationdate="20190521T180148Z">
@@ -5131,6 +5147,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ILIAS Language File</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T165210Z" creationid="piav" creationdate="20190527T165210Z">
+        <seg>ILIAS-kielitiedosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>INS</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T101930Z" creationid="piav" creationdate="20190521T101930Z">
@@ -5886,8 +5910,8 @@ bittiavaruus.</seg>
       <tuv lang="EN">
         <seg>Key=Value Text</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190527T164522Z" creationid="piav" creationdate="20190527T164522Z">
-        <seg>Avain=Arvo tekstinä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190527T165140Z" creationid="piav" creationdate="20190527T164522Z">
+        <seg>Avain–arvo-pari (teksti)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6368,6 +6392,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174851Z" creationid="PiaVee" creationdate="20171014T174851Z">
         <seg>makedonia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Magento CE Locale CSV</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T165144Z" creationid="piav" creationdate="20190527T165144Z">
+        <seg>Magento CE Locale CSV</seg>
       </tuv>
     </tu>
     <tu>
