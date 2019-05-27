@@ -5884,6 +5884,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Key=Value Text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T164522Z" creationid="piav" creationdate="20190527T164522Z">
+        <seg>Avain=Arvo tekstinä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyboard shortcuts in the editor</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T121919Z" creationid="PiaVee" creationdate="20171218T121919Z">
