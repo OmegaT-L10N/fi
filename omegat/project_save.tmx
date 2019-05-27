@@ -4595,6 +4595,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Flash XML Export</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T105906Z" creationid="piav" creationdate="20190527T105903Z">
+        <seg>Flash XML Export</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Floating '?' character not tied to '&gt;'!</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T144040Z" creationid="piav" creationdate="20190521T143713Z">
@@ -7056,6 +7064,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T110236Z" creationid="piav" creationdate="20190527T110236Z">
+        <seg>Huom. DocBook-tiedostoilla on oma tunnisteensa, mutta niissä on myös oltava DOCTYPE-määritys &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... (DocBook 4) tai nimitila xmlns="http://docbook.org/ns/docbook" (DocBook 5).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notification (flash)</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T093558Z" creationid="piav" creationdate="20190522T093558Z">
@@ -8739,8 +8755,8 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
       <tuv lang="EN">
         <seg>SVG Image and Adobe Illustrator Export</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190527T105802Z" creationid="piav" creationdate="20190527T105802Z">
-        <seg>SVG-vektorigrafiikka ja Adobe Illustrator -vienti</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190527T105904Z" creationid="piav" creationdate="20190527T105802Z">
+        <seg>SVG Image and Adobe Illustrator Export</seg>
       </tuv>
     </tu>
     <tu>
@@ -9757,7 +9773,7 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>SubRip Subtitles</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T180212Z" creationid="piav" creationdate="20190521T180212Z">
+      <tuv lang="FI" changeid="piav" changedate="20190527T110419Z" creationid="piav" creationdate="20190521T180212Z">
         <seg>SubRip-tekstitys</seg>
       </tuv>
     </tu>
@@ -11795,6 +11811,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>XML Spreadsheet 2003</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T105914Z" creationid="piav" creationdate="20190527T105914Z">
+        <seg>XML Spreadsheet 2003</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Xhosa</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082316Z" creationid="PiaVee" creationdate="20171015T082316Z">
@@ -11910,8 +11934,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       <tuv lang="EN">
         <seg>YouTube Subtitles</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T180230Z" creationid="piav" creationdate="20190521T180230Z">
-        <seg>YouTube-tekstitys</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190527T110240Z" creationid="piav" creationdate="20190521T180230Z">
+        <seg>YouTube Subtitles</seg>
       </tuv>
     </tu>
     <tu>
