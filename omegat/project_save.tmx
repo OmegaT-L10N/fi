@@ -7442,8 +7442,8 @@ bittiavaruus.</seg>
       <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T181303Z" creationid="piav" creationdate="20190521T181303Z">
-        <seg>OmegaT on vapaa ja avoin työkalu tietokoneavusteiseen kääntämiseen. Siinä yhdistyvät sumeat käännösosumat, käännösmuisti, avainsanahaku ja erilaiset sanastot, ja ohjelma vie käännöksiä päivitettyihin projekteihin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190527T183018Z" creationid="piav" creationdate="20190521T181303Z">
+        <seg>OmegaT on vapaa, avoin ja käyttöjärjestelmästä riippumaton työkalu tietokoneavusteiseen kääntämiseen. Ohjelma tarjoaa ihmismuistin jatkeeksi käännösmuistin sekä erilaisia sanastoja, ja sumeat käännösosumat sekä monipuoliset hakumahdollisuudet auttavat uusien käännösratkaisujen luomisessa. Uudet käännökset viedään päivitettyjä käännösprojekteja.</seg>
       </tuv>
     </tu>
     <tu>
