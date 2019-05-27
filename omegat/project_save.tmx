@@ -262,10 +262,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Copy Support Info</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185544Z" creationid="piav" creationdate="20190527T185544Z">
+        <seg>Tietoa kopioinnin tuesta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Current Source Document</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T170642Z" creationid="PiaVee" creationdate="20171015T102804Z">
         <seg>&amp;Nykyinen lähdetiedosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Defaults</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185901Z" creationid="piav" creationdate="20190527T185901Z">
+        <seg>Oletukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -2077,6 +2093,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apache Commons (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185407Z" creationid="piav" creationdate="20190527T185407Z">
+        <seg>Apache Commons (lisenssi: Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arabic</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173503Z" creationid="PiaVee" creationdate="20171014T173503Z">
@@ -3535,6 +3559,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DictZip from JDict (GPL)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185500Z" creationid="piav" creationdate="20190527T185500Z">
+        <seg>DictZip from JDict (lisenssi: GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionar&amp;y</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173214Z" creationid="PiaVee" creationdate="20171015T122210Z">
@@ -3603,6 +3635,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T064835Z" creationid="PiaVee" creationdate="20170930T064402Z">
         <seg>Didier Brieliä kaikesta kärsivällisyydestä ja avusta DocBook-koukeroiden kanssa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Diff (GPL)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185312Z" creationid="piav" creationdate="20190527T185312Z">
+        <seg>Diff (lisenssi: GPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3947,6 +3987,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T143040Z" creationid="piav" creationdate="20190521T143040Z">
         <seg>Muokkaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Filter</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185847Z" creationid="piav" creationdate="20190527T185847Z">
+        <seg>Muokkaa suodatinta</seg>
       </tuv>
     </tu>
     <tu>
@@ -4319,6 +4367,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exception occurred:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185858Z" creationid="piav" creationdate="20190527T185858Z">
+        <seg>Tapahtui poikkeus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception while parsing:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T101705Z" creationid="piav" creationdate="20190523T101705Z">
@@ -4599,6 +4655,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T170456Z" creationid="PiaVee" creationdate="20171015T102600Z">
         <seg>Tiedostos&amp;uodattimet…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File &amp;Format</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185904Z" creationid="piav" creationdate="20190527T185904Z">
+        <seg>Tiedostomuoto</seg>
       </tuv>
     </tu>
     <tu>
@@ -5051,6 +5115,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Groovy (Apache Licence 2.0)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185438Z" creationid="piav" creationdate="20190527T185438Z">
+        <seg>Groovy (lisenssi: Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Group {0} does not exist in search expression</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T142848Z" creationid="piav" creationdate="20190521T142848Z">
@@ -5143,6 +5215,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T132404Z" creationid="piav" creationdate="20190521T132157Z">
         <seg>Tässä kohdassa voit myös antaa projektikansioiden mukautetun sijainnin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T190525Z" creationid="piav" creationdate="20190527T190525Z">
+        <seg>Tässä kohdassa voit määritellä lähdetiedostonimen mallikuviot, joita käytetään suodattimen käsittelemissä tiedostoissa. Voit myös mukauttaa käännettyjen tiedostojen tiedostonimiä ja valita merkistökoodaukset, joita suodatin käyttää ladatessaan lähdetiedostoja ja tallentaessaan käännöksiä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6252,6 +6332,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool (LGPL License and others)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185420Z" creationid="piav" creationdate="20190527T185420Z">
+        <seg>LanguageTool (lisenssit: LGPL ja muita)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool plugin</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140940Z" creationid="PiaVee" creationdate="20171014T140940Z">
@@ -6312,6 +6400,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140305Z" creationid="PiaVee" creationdate="20170930T080923Z">
         <seg>Lopuksi vielä kiitokset kaikille &lt;u0&gt;OmegaT-dokumentaation seurantajärjestelmään&lt;/u0&gt; osallistuville kaikista epäjohdonmukaisuuksista, joita he ovat löytäneet dokumentaation aiemmista versioista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Last changes</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185558Z" creationid="piav" creationdate="20190527T185558Z">
+        <seg>Viime muutokset</seg>
       </tuv>
     </tu>
     <tu>
@@ -6508,6 +6604,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Log:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185601Z" creationid="piav" creationdate="20190527T185601Z">
+        <seg>Loki:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Longman Dictionary of Contemporary English</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T102704Z" creationid="PiaVee" creationdate="20171219T102704Z">
@@ -6520,6 +6624,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174837Z" creationid="PiaVee" creationdate="20171014T174837Z">
         <seg>katanganluba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lucene (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185401Z" creationid="piav" creationdate="20190527T185401Z">
+        <seg>Lucene (lisenssi: Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7496,6 +7608,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT license</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185551Z" creationid="piav" creationdate="20190527T185551Z">
+        <seg>OmegaT-lisenssi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT on Wikipedia</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T095157Z" creationid="PiaVee" creationdate="20171219T095157Z">
@@ -7846,6 +7966,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T172030Z" creationid="piav" creationdate="20190523T172030Z">
         <seg>PDF-syöte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDFBox (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185425Z" creationid="piav" creationdate="20190527T185425Z">
+        <seg>PDFBox (lisenssi: Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10085,6 +10213,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SuperTMXMerge (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185430Z" creationid="piav" creationdate="20190527T185430Z">
+        <seg>SuperTMXMerge (lisenssi: Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Swahili</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081614Z" creationid="PiaVee" creationdate="20171015T081614Z">
@@ -10824,6 +10960,22 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T063704Z" creationid="PiaVee" creationdate="20170930T063430Z">
         <seg>Tätä käyttöohjekirjaa ei kuitenkaan olisi olemassa ilman monen ihmisen apua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185839Z" creationid="piav" creationdate="20190527T185839Z">
+        <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185818Z" creationid="piav" creationdate="20190527T185818Z">
+        <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13616,6 +13768,22 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>jsch-agent-proxy (jsch-agent-proxy License)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185307Z" creationid="piav" creationdate="20190527T185307Z">
+        <seg>jsch-agent-proxy (lisenssi: jsch-agent-proxy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>juniversalchardet (GPL)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185453Z" creationid="piav" creationdate="20190527T185453Z">
+        <seg>juniversalchardet (lisenssi: GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>jv</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174434Z" creationid="PiaVee" creationdate="20171014T174434Z">
@@ -14028,6 +14196,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174842Z" creationid="PiaVee" creationdate="20171014T174842Z">
         <seg>lv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mALIGNa (MIT License)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185505Z" creationid="piav" creationdate="20190527T185505Z">
+        <seg>mALIGNa (lisenssi: MIT)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14880,6 +15056,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>slf4j (MIT License)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185447Z" creationid="piav" creationdate="20190527T185444Z">
+        <seg>slf4j (lisenssi: MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>slk</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081517Z" creationid="PiaVee" creationdate="20171015T081517Z">
@@ -15236,6 +15420,22 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082128Z" creationid="PiaVee" creationdate="20171015T082128Z">
         <seg>tr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trie4j (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185511Z" creationid="piav" creationdate="20190527T185511Z">
+        <seg>trie4j (lisenssi: Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trilead-ssh2 (Trilead SSH license)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T185318Z" creationid="piav" creationdate="20190527T185318Z">
+        <seg>trilead-ssh2 (lisenssi: Trilead SSH)</seg>
       </tuv>
     </tu>
     <tu>
