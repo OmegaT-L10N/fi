@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T170803Z" creationid="piav" creationdate="20190527T170803Z">
+        <seg>Älä huomioi type- ja ctype-attribuutteja, kun &lt;ph&gt;-tägien pikanäppäimiä luodaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;In translation</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T174528Z" creationid="piav" creationdate="20190521T135113Z">
