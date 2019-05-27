@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Make the file filter settings project specific</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T190631Z" creationid="piav" creationdate="20190527T190631Z">
+        <seg>Tee suodatinasetuksista projektikohtaisia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Make the segmentation rules project specific</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173717Z" creationid="PiaVee" creationdate="20171218T091204Z">
@@ -4675,6 +4683,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File Filters</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T190606Z" creationid="piav" creationdate="20190527T190606Z">
+        <seg>Tiedostosuodattimet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File Filters...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T083538Z" creationid="piav" creationdate="20190522T083538Z">
@@ -7384,6 +7400,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: not all filters allow you to select an encoding.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T190602Z" creationid="piav" creationdate="20190527T190602Z">
+        <seg>Huomioi, että kaikki suodattimet eivät anna valita merkistökoodausta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notification (flash)</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T093558Z" creationid="piav" creationdate="20190522T093558Z">
@@ -8423,6 +8447,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T125600Z" creationid="PiaVee" creationdate="20171015T125600Z">
         <seg>Projektitiedostot ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Specific File Filters</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T190618Z" creationid="piav" creationdate="20190527T190618Z">
+        <seg>Projektikohtaiset tiedostosuodattimet</seg>
       </tuv>
     </tu>
     <tu>
@@ -11927,6 +11959,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082236Z" creationid="PiaVee" creationdate="20171015T082236Z">
         <seg>vietnam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View or edit file filters.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T190716Z" creationid="piav" creationdate="20190527T190716Z">
+        <seg>Tarkastele tai muokkaa tiedostosuodattimia.</seg>
       </tuv>
     </tu>
     <tu>
