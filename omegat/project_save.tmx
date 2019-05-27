@@ -480,8 +480,8 @@
       <tuv lang="EN">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190527T170803Z" creationid="piav" creationdate="20190527T170803Z">
-        <seg>Älä huomioi type- ja ctype-attribuutteja, kun &lt;ph&gt;-tägien pikanäppäimiä luodaan</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190527T170925Z" creationid="piav" creationdate="20190527T170803Z">
+        <seg>Älä huomioi type- ja ctype-attribuutteja, kun &lt;ph&gt;-tägille luodaan pikanäppäintä</seg>
       </tuv>
     </tu>
     <tu>
@@ -856,8 +856,8 @@
       <tuv lang="EN">
         <seg>&amp;Sheet Names</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T180408Z" creationid="piav" creationdate="20190521T180408Z">
-        <seg>&amp;arkkien nimet</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190527T171404Z" creationid="piav" creationdate="20190521T180408Z">
+        <seg>Arkkien nimet</seg>
       </tuv>
     </tu>
     <tu>
@@ -2875,6 +2875,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comme&amp;nts</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T171402Z" creationid="piav" creationdate="20190527T171402Z">
+        <seg>Kommentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comment</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T074103Z" creationid="piav" creationdate="20190522T074103Z">
@@ -3655,6 +3663,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Doc&amp;ument properties</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T171342Z" creationid="piav" creationdate="20190527T171342Z">
+        <seg>Asiakirjan ominaisuudet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DocBook</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180150Z" creationid="piav" creationdate="20190521T180150Z">
@@ -3803,6 +3819,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T063553Z" creationid="piav" creationdate="20190522T063542Z">
         <seg>Toistettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Duplicate Fallbac&amp;k Text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T171334Z" creationid="piav" creationdate="20190527T171018Z">
+        <seg>Kaksinkertainen varateksti</seg>
       </tuv>
     </tu>
     <tu>
@@ -5344,6 +5368,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T093024Z" creationid="PiaVee" creationdate="20171014T092738Z">
         <seg>Älä huomioi sanaston mukaista alkukirjaimen kokoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T170939Z" creationid="piav" creationdate="20190527T170835Z">
+        <seg>Älä huomioi type- ja ctype-attribuutteja, kun &lt;&amp;bpt&gt;- ja &lt;ept&gt;-tägeille luodaan pikanäppäimiä</seg>
       </tuv>
     </tu>
     <tu>
@@ -8025,6 +8057,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Power Point</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T171406Z" creationid="piav" creationdate="20190527T171406Z">
+        <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T101054Z" creationid="piav" creationdate="20190523T101054Z">
@@ -8813,6 +8853,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081245Z" creationid="PiaVee" creationdate="20171015T081245Z">
         <seg>venäjä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>S&amp;lide Comments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190527T171453Z" creationid="piav" creationdate="20190527T171453Z">
+        <seg>Dian kommentit</seg>
       </tuv>
     </tu>
     <tu>
@@ -11731,8 +11779,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>When unavailable, the ID will be used as a fallback</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190527T165934Z" creationid="piav" creationdate="20190527T165934Z">
-        <seg>Muulloin käytetään tunnistetta</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190527T171247Z" creationid="piav" creationdate="20190527T165934Z">
+        <seg>Jos sitä ei ole, varana on tunniste.</seg>
       </tuv>
     </tu>
     <tu>
