@@ -705,3 +705,4 @@ HTML	HTML
 XHTML	XHTML
 encoding declaration	maininta merkistökoodauksesta
 Error saving	_ tallentamisessa tapahtui virhe
+Pattern	rakenne	mallikuvio
