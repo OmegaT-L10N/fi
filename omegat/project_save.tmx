@@ -6534,8 +6534,8 @@ bittiavaruus.</seg>
       <tuv lang="EN">
         <seg>Language Pattern</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T083317Z" creationid="piav" creationdate="20190522T083317Z">
-        <seg>Kielikuvio</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T103034Z" creationid="piav" creationdate="20190522T083317Z">
+        <seg>Kielivariantti</seg>
       </tuv>
     </tu>
     <tu>
@@ -7594,8 +7594,8 @@ bittiavaruus.</seg>
       <tuv lang="EN">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T103007Z" creationid="piav" creationdate="20190522T083417Z">
-        <seg>Huomautus: Segmentointisäännöt koskevat kaikkia projekteja, joissa on kielivariantti Kaikkia segmentointisääntöjä, joissa on vastaava kielikuvio, käytetään tässä järjestyksessä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T103322Z" creationid="piav" creationdate="20190522T083417Z">
+        <seg>Huomautus: Projektin segmentointi tapahtuu kielivariantin mukaisten segmentointisääntöjen perusteella, ja sääntöjä käytetään annetussa järjestyksessä.</seg>
       </tuv>
     </tu>
     <tu>
