@@ -1056,8 +1056,8 @@
       <tuv lang="EN">
         <seg>&amp;value (of form input, including button, submit and reset)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T095411Z" creationid="piav" creationdate="20190913T091001Z">
-        <seg>&amp;value (lomakkeeseen syötetyn tekstin sekä lähetä- ja nollaa-painikkeiden arvo)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T095922Z" creationid="piav" creationdate="20190913T091001Z">
+        <seg>value (lomakkeeseen syötetyn tekstin sekä lähetä- ja nollaa-painikkeiden arvo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1413,6 +1413,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090732Z" creationid="PiaVee" creationdate="20171218T090645Z">
         <seg>95 % – 100 % :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;&amp;br&gt; (breaks)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T100032Z" creationid="piav" creationdate="20190913T100032Z">
+        <seg>&lt;&amp;br&gt; (rivinvaihdot)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4447,6 +4455,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exception while editing options:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T100058Z" creationid="piav" creationdate="20190913T100058Z">
+        <seg>Poikkeus asetuksien muokkaamisessa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception while parsing:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T101705Z" creationid="piav" creationdate="20190523T101705Z">
@@ -5239,6 +5255,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174213Z" creationid="PiaVee" creationdate="20171014T174213Z">
         <seg>gudžarati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML Help Compiler</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T100457Z" creationid="piav" creationdate="20190913T100457Z">
+        <seg>HTML Help Compiler</seg>
       </tuv>
     </tu>
     <tu>
@@ -8867,6 +8891,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove HTML comments in translated document</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T095947Z" creationid="piav" creationdate="20190913T095947Z">
+        <seg>Poista HTML-kommentit käännetystä dokumentista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove LanguageTool from the /plugin folder before starting OmegaT.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T150716Z" creationid="PiaVee" creationdate="20171014T150716Z">
@@ -10345,6 +10377,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T172740Z" creationid="piav" creationdate="20190527T172740Z">
         <seg>Wordin pehmeä rivinvaihto aloittaa uuden kappaleen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start a new paragraph on:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T100007Z" creationid="piav" creationdate="20190913T100007Z">
+        <seg>Merkki, joka aloittaa uuden kappaleen:</seg>
       </tuv>
     </tu>
     <tu>
