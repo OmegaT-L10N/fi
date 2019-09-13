@@ -1339,6 +1339,14 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T111215Z" creationid="piav" creationdate="20190913T111215Z">
+        <seg>…mutta samat merkit näkyvät oikein Muokkaus-paneelissa: tiedostopääte ja tiedostokoodaus eroavat toisistaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>...the system will display it like this for instance:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171220T094607Z" creationid="PiaVee" creationdate="20171220T094330Z">
@@ -11327,6 +11335,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="FI" changeid="piav" changedate="20190521T133658Z" creationid="piav" creationdate="20190521T133658Z">
         <seg>Kielikoodin tulisi olla muotoa xx-YY, xxx-YY, xx_YY tai xxx_YY, jossa
 xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The location of the writable glossary file can be set in the &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;dialog.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T111050Z" creationid="piav" creationdate="20190913T111050Z">
+        <seg>Voi asettaa kirjoituskelpoisen sanastotiedoston sijainnin valinnassa &lt;g0&gt;Projekti &gt; Ominaisuudet…&lt;/g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
