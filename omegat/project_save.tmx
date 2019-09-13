@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Move Down</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110022Z" creationid="piav" creationdate="20190913T105910Z">
+        <seg>Siirrä alas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Never</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T085552Z" creationid="piav" creationdate="20190521T180049Z">
@@ -7310,24 +7318,40 @@ bittiavaruus.</seg>
       <tuv lang="EN">
         <seg>Move &amp;First</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T173558Z" creationid="PiaVee" creationdate="20171218T072518Z">
-        <seg>Siirrä &amp;ensimmäiseksi</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T105932Z" creationid="PiaVee" creationdate="20171218T072518Z">
+        <seg>Siirrä ensimmäiseksi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Move &amp;Last</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T173611Z" creationid="PiaVee" creationdate="20171218T072543Z">
-        <seg>Siirrä &amp;viimeiseksi</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T105934Z" creationid="PiaVee" creationdate="20171218T072543Z">
+        <seg>Siirrä viimeiseksi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Move &amp;Up</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T173602Z" creationid="PiaVee" creationdate="20171218T072527Z">
-        <seg>Siirrä &amp;ylös</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T105938Z" creationid="PiaVee" creationdate="20171218T072527Z">
+        <seg>Siirrä ylös</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move Do&amp;wn</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T105906Z" creationid="piav" creationdate="20190913T105906Z">
+        <seg>Siirrä alas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move U&amp;p</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T105903Z" creationid="piav" creationdate="20190913T105903Z">
+        <seg>Siirrä ylös</seg>
       </tuv>
     </tu>
     <tu>
@@ -11213,8 +11237,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T104206Z" creationid="piav" creationdate="20190913T103639Z">
-        <seg>Kun sitten käännät kanadanranskankielistä tekstiä,  projektissa  käyttää kaikkia </seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T105858Z" creationid="piav" creationdate="20190913T103639Z">
+        <seg>Kun sitten käännät kanadanranskankielistä tekstiä, projektissa käytetään kaikkien kielten segmentointisääntöjä annetussa järjestyksessä.</seg>
       </tuv>
     </tu>
     <tu>
