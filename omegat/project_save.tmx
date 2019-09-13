@@ -2073,6 +2073,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All segmentation rule sets for a matching language pattern are active and are applied in the given order of priority, so rules for specific language should be higher than default ones.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T104717Z" creationid="piav" creationdate="20190913T104717Z">
+        <seg>Kaikki kielitunnuksen mukaiset segmentointisäännöt ovat voimassa, ja niitä käytetään tärkeysjärjestyksessä. Siksi tietyn kielitunnuksen mukaisten sääntöjen pitäisi olla listalla korkeammalla kuin oletussäännöt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow translating &amp;blank source segments</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T171801Z" creationid="piav" creationdate="20190523T171801Z">
@@ -5800,6 +5808,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T161545Z" creationid="PiaVee" creationdate="20171014T161545Z">
         <seg>Jotta nämä toimenpiteet onnistuisivat, Déjà Vu -käyttäjän on luotava lähtötekstistä Déjà Vu External View -tiedosto ja toimitettava se kääntäjälle tässä muodossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to create an empty set of rules for a new language pattern click &lt;e0&gt;Add &lt;/e0&gt;in the upper half of the dialog.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T104958Z" creationid="piav" creationdate="20190913T104958Z">
+        <seg>Jos haluat luoda uuden segmentointisäännöstön uudelle kielitunnukselle, klikkaa &lt;e0&gt;Lisää&lt;/e0&gt;-painiketta valintaikkunan yläosassa.</seg>
       </tuv>
     </tu>
     <tu>
