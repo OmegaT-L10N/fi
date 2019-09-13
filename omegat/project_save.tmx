@@ -624,8 +624,8 @@
       <tuv lang="EN">
         <seg>&amp;Never</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T173310Z" creationid="piav" creationdate="20190521T180049Z">
-        <seg>ei koskaan</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T085552Z" creationid="piav" creationdate="20190521T180049Z">
+        <seg>Ei koskaan</seg>
       </tuv>
     </tu>
     <tu>
@@ -1050,6 +1050,14 @@
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T070744Z" creationid="PiaVee" creationdate="20171015T102853Z">
         <seg>K&amp;irjoituskelpoinen termilista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;value (of form input, including button, submit and reset)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T091001Z" creationid="piav" creationdate="20190913T091001Z">
+        <seg>&amp;value (kaavakkeeseen syötety of form input, including button, submit and reset)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11380,6 +11388,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translate the following attributes:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T085602Z" creationid="piav" creationdate="20190913T085602Z">
+        <seg>Käännä seuraavat attribuutit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translate the following elements:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180312Z" creationid="piav" creationdate="20190521T180312Z">
@@ -13614,6 +13630,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>h&amp;reflang (language of links)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T085733Z" creationid="piav" creationdate="20190913T085733Z">
+        <seg>h&amp;reflang (linkkien kieli)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ha</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174231Z" creationid="PiaVee" creationdate="20171014T174231Z">
@@ -13698,6 +13722,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173954Z" creationid="PiaVee" creationdate="20171014T173954Z">
         <seg>hr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>href (URL of &amp;links)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T085651Z" creationid="piav" creationdate="20190913T085623Z">
+        <seg>href (linkkien URL-osoite)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14260,6 +14292,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174629Z" creationid="PiaVee" creationdate="20171014T174629Z">
         <seg>la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lan&amp;g (language attribute)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T085710Z" creationid="piav" creationdate="20190913T085710Z">
+        <seg>lan&amp;g (kieliattribuutti)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15404,6 +15444,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081352Z" creationid="PiaVee" creationdate="20171015T081352Z">
         <seg>sr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>src (URL of &amp;images)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T085700Z" creationid="piav" creationdate="20190913T085646Z">
+        <seg>src (kuvien URL-osoite)</seg>
       </tuv>
     </tu>
     <tu>
