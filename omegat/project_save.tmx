@@ -1585,6 +1585,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110941Z" creationid="piav" creationdate="20190913T110941Z">
+        <seg>&lt;html&gt;&lt;center&gt;Ladataan…&lt;br&gt;&lt;br&gt;Vihje: Voit milloin tahansa ottaa tarkistukset käyttöön tai poistaa ne käytöstä Asetukset-valikosta.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T094107Z" creationid="piav" creationdate="20190522T094107Z">
@@ -2597,6 +2605,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110835Z" creationid="piav" creationdate="20190913T110835Z">
+        <seg>Selaa…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140535Z" creationid="PiaVee" creationdate="20171014T140015Z">
@@ -2945,6 +2961,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092646Z" creationid="PiaVee" creationdate="20171014T092646Z">
         <seg>Tarkista koko projekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Checking out the project...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110658Z" creationid="piav" creationdate="20190913T110658Z">
+        <seg>Kirjaudutaan ulos projektista…</seg>
       </tuv>
     </tu>
     <tu>
@@ -3691,6 +3715,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081040Z" creationid="piav" creationdate="20190522T081040Z">
         <seg>Lisätietoja ei ole saatavilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Detecting...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110827Z" creationid="piav" creationdate="20190913T110827Z">
+        <seg>Havaitaan…</seg>
       </tuv>
     </tu>
     <tu>
@@ -7896,6 +7928,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT Javadoc...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110625Z" creationid="piav" creationdate="20190913T110625Z">
+        <seg>OmegaT Javadoc…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Project Files</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T132421Z" creationid="piav" creationdate="20190521T132421Z">
@@ -9651,6 +9691,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save Current Set...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110620Z" creationid="piav" creationdate="20190913T110620Z">
+        <seg>Tallenna nykyinen sarja…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save TMX...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T083521Z" creationid="piav" creationdate="20190522T083521Z">
@@ -10929,6 +10977,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T110130Z" creationid="piav" creationdate="20190913T110130Z">
         <seg>Tiimiasetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team synchronization...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110741Z" creationid="piav" creationdate="20190913T110741Z">
+        <seg>Tiimisynkronointi…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team synchronization: Waiting for you to finish this segment...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110821Z" creationid="piav" creationdate="20190913T110821Z">
+        <seg>Tiimisynkronointi: Odotetaan, että saat tämän segmentin valmiiksi…</seg>
       </tuv>
     </tu>
     <tu>
