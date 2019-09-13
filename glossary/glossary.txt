@@ -700,3 +700,6 @@ escape	unescape	JavaScriptin sisäänrakkettu funktio Escape() palauttaa merkin 
 slide masters	dian perustyylit	PowerPointissa!
 LGPL License	lisenssi: LGPL
 License	lisenssi
+Source File Encoding	lähdetiedoston merkistökoodaus
+HTML	HTML
+XHTML	XHTML
