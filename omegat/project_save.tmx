@@ -5259,6 +5259,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HHC file too big!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T100731Z" creationid="piav" creationdate="20190913T100731Z">
+        <seg>HHC-tiedosto on liian iso!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTML Help Compiler</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T100722Z" creationid="piav" creationdate="20190913T100457Z">
@@ -5559,6 +5567,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T085123Z" creationid="piav" creationdate="20190913T075948Z">
         <seg>Jos taas merkistökoodaus on mainittu HTML-tiedostossa, ohjelma käyttää sitä riippumatta tässä valinnassa olevasta arvosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T100942Z" creationid="piav" creationdate="20190913T100942Z">
+        <seg>Jos merkistökoodaus on mainittu HHC- tai HHK-tiedostossa, ohjelma käyttää sitä riippumatta tämän valinnan arvosta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7524,6 +7540,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T110236Z" creationid="piav" creationdate="20190527T110236Z">
         <seg>Huom. DocBook-tiedostoilla on oma tunnisteensa, mutta niissä on myös oltava DOCTYPE-määritys &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... (DocBook 4) tai nimitila xmlns="http://docbook.org/ns/docbook" (DocBook 5).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T100805Z" creationid="piav" creationdate="20190913T100805Z">
+        <seg>Huomautus: Lähdetiedoston merkistökoodauksen asetukset koskevat ainoastaan sellaisia HHC- ja HHK-tiedostoja, joissa ei ole mainintaa merkistökoodauksesta.</seg>
       </tuv>
     </tu>
     <tu>
