@@ -1056,8 +1056,8 @@
       <tuv lang="EN">
         <seg>&amp;value (of form input, including button, submit and reset)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T095324Z" creationid="piav" creationdate="20190913T091001Z">
-        <seg>&amp;value (lomakkeeseen syötetyn tekstin, painikkeen,  of form input, including button, submit and reset)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T095411Z" creationid="piav" creationdate="20190913T091001Z">
+        <seg>&amp;value (lomakkeeseen syötetyn tekstin sekä lähetä- ja nollaa-painikkeiden arvo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14298,8 +14298,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       <tuv lang="EN">
         <seg>lan&amp;g (language attribute)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T085710Z" creationid="piav" creationdate="20190913T085710Z">
-        <seg>lan&amp;g (kieliattribuutti)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T095330Z" creationid="piav" creationdate="20190913T085710Z">
+        <seg>lan&amp;g (kieli)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15852,6 +15852,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082228Z" creationid="PiaVee" creationdate="20171015T082228Z">
         <seg>uzb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>value (of button, &amp;submit and reset input)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T095914Z" creationid="piav" creationdate="20190913T095456Z">
+        <seg>value (lähetä- ja nollaa-painikkeiden arvo)</seg>
       </tuv>
     </tu>
     <tu>
