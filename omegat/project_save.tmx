@@ -3559,6 +3559,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T102313Z" creationid="piav" creationdate="20190913T102313Z">
+        <seg>Oletus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default encoding</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T110644Z" creationid="PiaVee" creationdate="20171219T110644Z">
@@ -4091,6 +4099,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T101814Z" creationid="piav" creationdate="20190522T083301Z">
         <seg>Muokkaa suodatuskuvioita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Highlight Pattern</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T102301Z" creationid="piav" creationdate="20190913T102301Z">
+        <seg>Muokkaa kohtaa Korosta lausekekuvio</seg>
       </tuv>
     </tu>
     <tu>
@@ -5307,6 +5323,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTML, XHTML, ODF and Infix segmentation</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T102339Z" creationid="piav" creationdate="20190913T102339Z">
+        <seg>HTML-, XHTML-, ODF- ja Infix-tiedostojen segmentointi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T184930Z" creationid="piav" creationdate="20190527T184930Z">
@@ -5405,8 +5429,8 @@ bittiavaruus.</seg>
       <tuv lang="EN">
         <seg>Highlight Pattern...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T102135Z" creationid="piav" creationdate="20190913T102135Z">
-        <seg>Korosta kuvio...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T102154Z" creationid="piav" creationdate="20190913T102135Z">
+        <seg>Korosta lausekekuvio...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8292,8 +8316,8 @@ bittiavaruus.</seg>
       <tuv lang="EN">
         <seg>Pattern...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T083555Z" creationid="piav" creationdate="20190522T083555Z">
-        <seg>Mallikuvio…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T102141Z" creationid="piav" creationdate="20190522T083555Z">
+        <seg>Lausekekuvio…</seg>
       </tuv>
     </tu>
     <tu>
@@ -10779,6 +10803,14 @@ Tekstin korvaus tapahtuu projektin lähtökielisissä segmenteissäriippumatta s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T174626Z" creationid="piav" creationdate="20190521T135738Z">
         <seg>T&amp;ekstihaku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text files segmentation</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T102320Z" creationid="piav" creationdate="20190913T102320Z">
+        <seg>Tekstitiedostojen segmentointi</seg>
       </tuv>
     </tu>
     <tu>
