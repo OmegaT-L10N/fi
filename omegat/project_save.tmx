@@ -2485,6 +2485,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Break/Exception</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T101150Z" creationid="piav" creationdate="20190913T101150Z">
+        <seg>Katkaisu/poikkeus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Breton</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173732Z" creationid="PiaVee" creationdate="20171014T173732Z">
@@ -3135,9 +3143,9 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T083127Z" creationid="PiaVee" creationdate="20171015T091723Z">
+      <tuv lang="FI" changeid="piav" changedate="20190913T101312Z" creationid="PiaVee" creationdate="20171015T091723Z">
         <seg>Konsolin käännöstila:
-	--source-pattern=&lt;mallikuvio&gt;
+	--source-pattern=&lt;lauseke&gt;
 		Luettelo prosessoitavien lähdetiedostojen sallituista säännönmukaisista lausekkeista.</seg>
       </tuv>
     </tu>
@@ -4509,8 +4517,8 @@ bittiavaruus.</seg>
       <tuv lang="EN">
         <seg>Exclude Pattern</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T083130Z" creationid="piav" creationdate="20190521T133103Z">
-        <seg>Älä sisällytä mallikuviota</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T101333Z" creationid="piav" creationdate="20190521T133103Z">
+        <seg>Älä sisällytä rakennetta</seg>
       </tuv>
     </tu>
     <tu>
@@ -5790,8 +5798,8 @@ bittiavaruus.</seg>
       <tuv lang="EN">
         <seg>Include Pattern</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T083133Z" creationid="piav" creationdate="20190521T133123Z">
-        <seg>Sisällytä mallikuvio</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T101338Z" creationid="piav" creationdate="20190521T133123Z">
+        <seg>Sisällytä rakenne</seg>
       </tuv>
     </tu>
     <tu>
@@ -6480,6 +6488,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T090441Z" creationid="piav" creationdate="20190522T090441Z">
         <seg>Kielentarkistin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language Name</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T101132Z" creationid="piav" creationdate="20190913T101132Z">
+        <seg>Kieli</seg>
       </tuv>
     </tu>
     <tu>
@@ -10223,8 +10239,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Source Filename Pattern</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T083141Z" creationid="piav" creationdate="20190521T175553Z">
-        <seg>Lähdetiedoston nimen mallikuvio</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T101344Z" creationid="piav" creationdate="20190521T175553Z">
+        <seg>Lähdetiedoston nimen rakenne</seg>
       </tuv>
     </tu>
     <tu>
@@ -11510,8 +11526,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>Translated Filename Pattern</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T083149Z" creationid="piav" creationdate="20190521T175753Z">
-        <seg>Käännetyn tiedoston nimen mallikuvio</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T101351Z" creationid="piav" creationdate="20190521T175753Z">
+        <seg>Käännetyn tiedoston nimen rakenne</seg>
       </tuv>
     </tu>
     <tu>
