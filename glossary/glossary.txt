@@ -703,3 +703,4 @@ License	lisenssi
 Source File Encoding	lähdetiedoston merkistökoodaus
 HTML	HTML
 XHTML	XHTML
+encoding declaration	maininta merkistökoodauksesta
