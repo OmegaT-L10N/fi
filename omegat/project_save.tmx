@@ -4311,6 +4311,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error saving segmentation rules configuration:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T101127Z" creationid="piav" creationdate="20190913T101127Z">
+        <seg>Segmentointisääntöjen tallentamisessa tapahtui virhe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error searching directory tree!</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T142752Z" creationid="piav" creationdate="20190521T142752Z">
@@ -4467,6 +4475,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T101705Z" creationid="piav" creationdate="20190523T101705Z">
         <seg>Jäsentämisen aikana havaittiin poikkeus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exceptions occurred while loading segmentation rules:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T101043Z" creationid="piav" creationdate="20190913T101043Z">
+        <seg>Segmentointisääntöjä ladattaessa tapahtui virhe:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5565,8 +5581,8 @@ bittiavaruus.</seg>
       <tuv lang="EN">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T085123Z" creationid="piav" creationdate="20190913T075948Z">
-        <seg>Jos taas merkistökoodaus on mainittu HTML-tiedostossa, ohjelma käyttää sitä riippumatta tässä valinnassa olevasta arvosta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T100947Z" creationid="piav" creationdate="20190913T075948Z">
+        <seg>Jos merkistökoodaus on mainittu HTML-tiedostossa, ohjelma käyttää sitä riippumatta tässä valinnassa olevasta arvosta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12569,6 +12585,22 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T082321Z" creationid="piav" creationdate="20190522T082321Z">
         <seg>TaaS-palvelun vastauksen muoto on väärä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T100957Z" creationid="piav" creationdate="20190913T100957Z">
+        <seg>XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML Filter Options</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T101008Z" creationid="piav" creationdate="20190913T101008Z">
+        <seg>XHTML-suodattimen asetukset</seg>
       </tuv>
     </tu>
     <tu>
