@@ -7594,8 +7594,8 @@ bittiavaruus.</seg>
       <tuv lang="EN">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T083417Z" creationid="piav" creationdate="20190522T083417Z">
-        <seg>Huomautus: Kaikkia segmentointisääntöjoukkoja, joissa on vastaava kielikuvio, käytetään tässä järjestyksessä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T102634Z" creationid="piav" creationdate="20190522T083417Z">
+        <seg>Huomautus: Kaikkia segmentointisääntöjä, joissa on vastaava kielikuvio, käytetään tässä järjestyksessä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8703,6 +8703,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T190618Z" creationid="piav" creationdate="20190527T190618Z">
         <seg>Projektikohtaiset tiedostosuodattimet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Specific Segmentation Setup</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T102610Z" creationid="piav" creationdate="20190913T102610Z">
+        <seg>Projektikohtainen segmentointi</seg>
       </tuv>
     </tu>
     <tu>
@@ -9825,6 +9833,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T083530Z" creationid="piav" creationdate="20190522T083530Z">
         <seg>Segmentointisäännöt…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation Setup</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T102426Z" creationid="piav" creationdate="20190913T102426Z">
+        <seg>Segmentointiasetukset</seg>
       </tuv>
     </tu>
     <tu>
