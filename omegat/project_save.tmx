@@ -7842,6 +7842,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T084951Z" creationid="piav" creationdate="20190913T084951Z">
+        <seg>Vain kun (X)HTML-tiedostossa on maininta merkistökoodauksesta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open MED Project...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T093403Z" creationid="PiaVee" creationdate="20171015T102525Z">
