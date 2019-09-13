@@ -11179,6 +11179,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T103639Z" creationid="piav" creationdate="20190913T103639Z">
+        <seg>Kun sitten käännät kanadanranskankielistä tekstiä, projek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are basically three ways to address this problem in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171220T112014Z" creationid="PiaVee" creationdate="20171220T111922Z">
@@ -11358,8 +11366,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T102804Z" creationid="piav" creationdate="20190913T102804Z">
-        <seg>Näin esimerkiksi Kanadan ranskaa (FR-CA) koskevat säännött</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T103438Z" creationid="piav" creationdate="20190913T102804Z">
+        <seg>Näin esimerkiksi Kanadan ranskaa (FR-CA) koskevat segmentointisäännöt tulisi olla listalla ennen ranskaa (FR.*) koskevia sääntöjä, ja näiden molempien tulisi olla ennen oletussääntöjä (.*).</seg>
       </tuv>
     </tu>
     <tu>
