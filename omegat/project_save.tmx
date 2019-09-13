@@ -7594,8 +7594,8 @@ bittiavaruus.</seg>
       <tuv lang="EN">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T102634Z" creationid="piav" creationdate="20190522T083417Z">
-        <seg>Huomautus: Kaikkia segmentointisääntöjä, joissa on vastaava kielikuvio, käytetään tässä järjestyksessä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T103007Z" creationid="piav" creationdate="20190522T083417Z">
+        <seg>Huomautus: Segmentointisäännöt koskevat kaikkia projekteja, joissa on kielivariantti Kaikkia segmentointisääntöjä, joissa on vastaava kielikuvio, käytetään tässä järjestyksessä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11352,6 +11352,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T072202Z" creationid="piav" creationdate="20190521T072202Z">
         <seg>Tämän sivun voi lukea myös englanniksi!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T102804Z" creationid="piav" creationdate="20190913T102804Z">
+        <seg>Näin esimerkiksi Kanadan ranskaa (FR-CA) koskevat säännött</seg>
       </tuv>
     </tu>
     <tu>
