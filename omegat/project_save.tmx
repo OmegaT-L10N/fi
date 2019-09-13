@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Name/ID:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110202Z" creationid="piav" creationdate="20190913T110202Z">
+        <seg>Nimi/tunnus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Never</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T085552Z" creationid="piav" creationdate="20190521T180049Z">
@@ -2185,6 +2193,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173512Z" creationid="PiaVee" creationdate="20171014T173512Z">
         <seg>aragonia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110118Z" creationid="piav" creationdate="20190913T110118Z">
+        <seg>Haluatko varmasti poistaa {0}-segmentointisäännöt?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4155,6 +4171,22 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T091100Z" creationid="PiaVee" creationdate="20171218T091100Z">
         <seg>Muokkaa projektin ominaisuuksia täällä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110308Z" creationid="piav" creationdate="20190913T110308Z">
+        <seg>FZZ&amp;Editori…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editor Options</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110246Z" creationid="piav" creationdate="20190913T110246Z">
+        <seg>Editorin asetukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -6164,6 +6196,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is used to mark your translations.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110158Z" creationid="piav" creationdate="20190913T110158Z">
+        <seg>Tekemäsi käännökset merkitään sillä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124139Z" creationid="PiaVee" creationdate="20171015T124139Z">
@@ -7428,6 +7468,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New Language and Country</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110124Z" creationid="piav" creationdate="20190913T110124Z">
+        <seg>Uusi kieli ja alue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081616Z" creationid="piav" creationdate="20190522T081616Z">
@@ -8503,6 +8551,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T091313Z" creationid="PiaVee" creationdate="20170910T090316Z">
         <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter your name/ID.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110142Z" creationid="piav" creationdate="20190913T110142Z">
+        <seg>Kirjoita nimesi/tunnuksesi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9901,6 +9957,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segmentation rules are applied in the following order:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110050Z" creationid="piav" creationdate="20190913T110050Z">
+        <seg>Segmentointisääntöjä käytetään seuraavassa järjestyksessä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segments</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072422Z" creationid="PiaVee" creationdate="20171218T072353Z">
@@ -10057,6 +10121,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103807Z" creationid="PiaVee" creationdate="20171015T103807Z">
         <seg>Aseta tyhjä käännös</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sets of segmentation rules:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110033Z" creationid="piav" creationdate="20190913T110033Z">
+        <seg>Segmentointisäännöstöt:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10801,6 +10873,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082141Z" creationid="PiaVee" creationdate="20171015T082141Z">
         <seg>tataari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110252Z" creationid="piav" creationdate="20190913T110132Z">
+        <seg>Tiimiasetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team Options</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110130Z" creationid="piav" creationdate="20190913T110130Z">
+        <seg>Tiimiasetukset</seg>
       </tuv>
     </tu>
     <tu>
