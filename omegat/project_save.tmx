@@ -920,8 +920,8 @@
       <tuv lang="EN">
         <seg>&amp;Segment Number...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T171521Z" creationid="PiaVee" creationdate="20171015T110554Z">
-        <seg>Segmenttiin &amp;nro…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T111438Z" creationid="PiaVee" creationdate="20171015T110554Z">
+        <seg>Segmentin &amp;nro…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1339,10 +1339,26 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>... matches the following</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T111239Z" creationid="piav" creationdate="20190913T111239Z">
+        <seg>… vastaa seuraavaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T111215Z" creationid="piav" creationdate="20190913T111215Z">
         <seg>…mutta samat merkit näkyvät oikein Muokkaus-paneelissa: tiedostopääte ja tiedostokoodaus eroavat toisistaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>...matches the following</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T111309Z" creationid="piav" creationdate="20190913T111309Z">
+        <seg>… vastaa seuraavaa</seg>
       </tuv>
     </tu>
     <tu>
@@ -2301,6 +2317,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-completion/Glossary...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T111524Z" creationid="piav" creationdate="20190913T111524Z">
+        <seg>Automaattinen täydennys / sanasto…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-sync with Editor</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T142229Z" creationid="piav" creationdate="20190521T142229Z">
@@ -2377,6 +2401,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173847Z" creationid="piav" creationdate="20190521T131658Z">
         <seg>S&amp;elaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Back in history...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T111508Z" creationid="piav" creationdate="20190913T111508Z">
+        <seg>Siirry historiassa taaksepäin…</seg>
       </tuv>
     </tu>
     <tu>
@@ -4039,6 +4071,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download MediaWiki Page...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T111332Z" creationid="piav" creationdate="20190913T111325Z">
+        <seg>Lataa MediaWiki-sivu…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download collection {0}</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T082051Z" creationid="piav" creationdate="20190522T082051Z">
@@ -5143,6 +5183,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T175831Z" creationid="piav" creationdate="20190521T175831Z">
         <seg>Muoto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Forward in history...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T111459Z" creationid="piav" creationdate="20190913T111447Z">
+        <seg>Siirry historiassa eteenpäin…</seg>
       </tuv>
     </tu>
     <tu>
@@ -8883,6 +8931,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Files...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T111343Z" creationid="piav" creationdate="20190913T111343Z">
+        <seg>Projektin tiedostot…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Specific File Filters</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T190618Z" creationid="piav" creationdate="20190527T190618Z">
@@ -8951,6 +9007,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T140149Z" creationid="piav" creationdate="20190521T140149Z">
         <seg>Projektihaku hakee oletusarvoisesti projektin lähde- ja kohdekansioista, apukäännösmuisteista, sanastoista, muistiinpanoista ja kommenteista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Properties...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T111337Z" creationid="piav" creationdate="20190913T111337Z">
+        <seg>Ominaisuudet…</seg>
       </tuv>
     </tu>
     <tu>
@@ -9813,6 +9877,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search Project...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T111349Z" creationid="piav" creationdate="20190913T111346Z">
+        <seg>Etsi projektista…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search Replaced Mark</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T093527Z" creationid="piav" creationdate="20190522T093527Z">
@@ -9993,6 +10065,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T084135Z" creationid="piav" creationdate="20190522T084135Z">
         <seg>Segmenttimerkin teksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment number...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T111416Z" creationid="piav" creationdate="20190913T111347Z">
+        <seg>Segmentin nro…</seg>
       </tuv>
     </tu>
     <tu>
@@ -11245,6 +11325,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T132632Z" creationid="PiaVee" creationdate="20171014T132533Z">
         <seg>Kappaleen &lt;e1&gt;Opi käyttämään OmegaT:tä viidessä minuutissa&lt;/e1&gt; tekijä on Samuel Murray, copyright © 2005–2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The character x, except the following...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T111249Z" creationid="piav" creationdate="20190913T111249Z">
+        <seg>Merkki x, paitsi seuraava…</seg>
       </tuv>
     </tu>
     <tu>
