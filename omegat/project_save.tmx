@@ -11163,6 +11163,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The syntax of the language pattern conforms to regular expression syntax.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T105806Z" creationid="piav" creationdate="20190913T105806Z">
+        <seg>Kielikuvion merkkijonossa käytetään säännöllisten lausekkeiden syntaksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The translated file language entered is invalid!</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T133710Z" creationid="piav" creationdate="20190521T133710Z">
