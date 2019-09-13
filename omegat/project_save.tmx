@@ -13632,8 +13632,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       <tuv lang="EN">
         <seg>h&amp;reflang (language of links)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T085733Z" creationid="piav" creationdate="20190913T085733Z">
-        <seg>h&amp;reflang (linkkien kieli)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T095921Z" creationid="piav" creationdate="20190913T085733Z">
+        <seg>hreflang (linkkien kieli)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14298,8 +14298,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       <tuv lang="EN">
         <seg>lan&amp;g (language attribute)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T095330Z" creationid="piav" creationdate="20190913T085710Z">
-        <seg>lan&amp;g (kieli)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T095920Z" creationid="piav" creationdate="20190913T085710Z">
+        <seg>lang (kieli)</seg>
       </tuv>
     </tu>
     <tu>
