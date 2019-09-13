@@ -1056,8 +1056,8 @@
       <tuv lang="EN">
         <seg>&amp;value (of form input, including button, submit and reset)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T091146Z" creationid="piav" creationdate="20190913T091001Z">
-        <seg>&amp;value (kaavakkeeseen syötetty of form input, including button, submit and reset)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T095324Z" creationid="piav" creationdate="20190913T091001Z">
+        <seg>&amp;value (lomakkeeseen syötetyn tekstin, painikkeen,  of form input, including button, submit and reset)</seg>
       </tuv>
     </tu>
     <tu>
