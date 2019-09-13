@@ -11181,8 +11181,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T103639Z" creationid="piav" creationdate="20190913T103639Z">
-        <seg>Kun sitten käännät kanadanranskankielistä tekstiä, projek</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T104206Z" creationid="piav" creationdate="20190913T103639Z">
+        <seg>Kun sitten käännät kanadanranskankielistä tekstiä,  projektissa  käyttää kaikkia </seg>
       </tuv>
     </tu>
     <tu>
