@@ -1931,8 +1931,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T081418Z" creationid="piav" creationdate="20190913T081418Z">
-        <seg>Lisää tai kirjoita HTML- ja XHTML merkistökoodaustieto:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T085132Z" creationid="piav" creationdate="20190913T081418Z">
+        <seg>Lisää tai kirjoita HTML- ja XHTML maininta merkistökoodauksesta:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5525,8 +5525,8 @@ bittiavaruus.</seg>
       <tuv lang="EN">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T081328Z" creationid="piav" creationdate="20190913T075948Z">
-        <seg>Jos taas merkistökoodaus on annettu HTML-tiedostossa, ohjelma käyttää sitä riippumatta tässä valinnassa olevasta arvosta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T085123Z" creationid="piav" creationdate="20190913T075948Z">
+        <seg>Jos taas merkistökoodaus on mainittu HTML-tiedostossa, ohjelma käyttää sitä riippumatta tässä valinnassa olevasta arvosta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7498,8 +7498,8 @@ bittiavaruus.</seg>
       <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T075952Z" creationid="piav" creationdate="20190913T075815Z">
-        <seg>Huom.: Lähdetiedoston merkistökoodauksen asetukset koskevat ainoastaan HTML-tiedostoja, joissa ei ole tietoja merkistökoodauksesta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T085001Z" creationid="piav" creationdate="20190913T075815Z">
+        <seg>Huom.: Lähdetiedoston merkistökoodauksen asetukset koskevat ainoastaan HTML-tiedostoja, joissa ei ole mainintaa merkistökoodauksesta.</seg>
       </tuv>
     </tu>
     <tu>
