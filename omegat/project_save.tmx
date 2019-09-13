@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Find...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110600Z" creationid="piav" creationdate="20190913T110600Z">
+        <seg>Etsi…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Finish</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T170135Z" creationid="PiaVee" creationdate="20171015T095021Z">
@@ -678,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Open Script...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110534Z" creationid="piav" creationdate="20190913T110534Z">
+        <seg>Avaa komentosarja…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Open...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T170306Z" creationid="PiaVee" creationdate="20171015T101338Z">
@@ -810,6 +826,14 @@
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T170129Z" creationid="PiaVee" creationdate="20171015T095014Z">
         <seg>Korvaa &amp;seuraava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110608Z" creationid="piav" creationdate="20190913T110608Z">
+        <seg>Korvaa…</seg>
       </tuv>
     </tu>
     <tu>
@@ -5307,6 +5331,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Goto &amp;Line...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110612Z" creationid="piav" creationdate="20190913T110612Z">
+        <seg>Mene riville…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Greek, Modern</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T180921Z" creationid="PiaVee" creationdate="20171014T174153Z">
@@ -5485,8 +5517,8 @@ bittiavaruus.</seg>
       <tuv lang="EN">
         <seg>Highlight Pattern...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T102154Z" creationid="piav" creationdate="20190913T102135Z">
-        <seg>Korosta lausekekuvio...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110449Z" creationid="piav" creationdate="20190913T102135Z">
+        <seg>Korosta lausekekuvio…</seg>
       </tuv>
     </tu>
     <tu>
@@ -7698,8 +7730,8 @@ bittiavaruus.</seg>
       <tuv lang="EN">
         <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190527T110236Z" creationid="piav" creationdate="20190527T110236Z">
-        <seg>Huom. DocBook-tiedostoilla on oma tunnisteensa, mutta niissä on myös oltava DOCTYPE-määritys &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... (DocBook 4) tai nimitila xmlns="http://docbook.org/ns/docbook" (DocBook 5).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110430Z" creationid="piav" creationdate="20190527T110236Z">
+        <seg>Huom. DocBook-tiedostoilla on oma tunnisteensa, mutta niissä on myös oltava DOCTYPE-määritys &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML… (DocBook 4) tai nimitila xmlns="http://docbook.org/ns/docbook" (DocBook 5).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10117,6 +10149,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set Scripts Folder...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110556Z" creationid="piav" creationdate="20190913T110556Z">
+        <seg>Aseta komentosarjakansio…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set empty translation</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103807Z" creationid="PiaVee" creationdate="20171015T103807Z">
@@ -10917,6 +10957,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Testing...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110522Z" creationid="piav" creationdate="20190913T110522Z">
+        <seg>Testataan…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T083925Z" creationid="piav" creationdate="20190522T083925Z">
@@ -11255,6 +11303,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T145843Z" creationid="PiaVee" creationdate="20171014T145843Z">
         <seg>Mahdolliset käytetyt säännöt riippuvat projektin lähtö- ja kohdekielistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The script "{0}" is running...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T110547Z" creationid="piav" creationdate="20190913T110547Z">
+        <seg>Komentosarja "{0}" on käynnissä…</seg>
       </tuv>
     </tu>
     <tu>
