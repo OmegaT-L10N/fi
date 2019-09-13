@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Always</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T081423Z" creationid="piav" creationdate="20190913T081423Z">
+        <seg>Aina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Always Confirm Quit</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173433Z" creationid="PiaVee" creationdate="20171015T122700Z">
@@ -482,6 +490,14 @@
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173451Z" creationid="PiaVee" creationdate="20171015T111231Z">
         <seg>&amp;Ohjeet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Ignore file context when identifying segments with alternate translations</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T075646Z" creationid="piav" creationdate="20190913T075646Z">
+        <seg>Älä huomioi tiedostokontekstia, kun tunnistetaan vaihtoehtoisten käännösten segmenttejä </seg>
       </tuv>
     </tu>
     <tu>
@@ -1054,6 +1070,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="FI" changeid="piav" changedate="20190523T175107Z" creationid="PiaVee" creationdate="20171015T100902Z">
         <seg>(Lista tuetuista tiedostomuodoista löytyy käsikirjan kohdasta "Käännettävät tiedostot " &gt; "Tiedostomuodot".)
 Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projektit-valikon painiketta "Kopioi lähdekansioon…" ja valitse kopioitavat lähdetiedostot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(X)HTML Filter Options</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T081343Z" creationid="piav" creationdate="20190913T081343Z">
+        <seg>(X)HTML-suodattimen asetukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -1905,6 +1929,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T081418Z" creationid="piav" creationdate="20190913T081418Z">
+        <seg>Lisää tai kirjoita HTML- ja XHTML merkistökoodaustieto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T142058Z" creationid="piav" creationdate="20190523T142058Z">
@@ -2313,6 +2345,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T063701Z" creationid="piav" creationdate="20190522T063701Z">
         <seg>Sisäkkäisyys ei kelpaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bad regular expression</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T081858Z" creationid="piav" creationdate="20190913T081858Z">
+        <seg>Säännöllinen lauseke ei kelpaa</seg>
       </tuv>
     </tu>
     <tu>
@@ -3727,6 +3767,22 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T082721Z" creationid="piav" creationdate="20190913T082516Z">
+        <seg>Älä käännä meta-tägien content-attribuutteja, joissa on seuraavat avain–arvo-parit (erota pilkuilla): </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not translate the content of tags with the following attribute key-value pairs (separate with commas):</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T082901Z" creationid="piav" creationdate="20190913T082602Z">
+        <seg>Älä käännä sisältöattribuuttia meta-tägeissä, joissa attribuutilla on seuraavat  avain–arvo-parit (erota pilkuilla): </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you really want to quit?</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124743Z" creationid="PiaVee" creationdate="20171015T124743Z">
@@ -4763,6 +4819,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filename Variables:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T075724Z" creationid="piav" creationdate="20190913T075724Z">
+        <seg>Tiedostonimen muuttujat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072326Z" creationid="PiaVee" creationdate="20171218T072326Z">
@@ -5171,6 +5235,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTML and XHTML</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T075759Z" creationid="piav" creationdate="20190913T075759Z">
+        <seg>HTML ja XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T184930Z" creationid="piav" creationdate="20190527T184930Z">
@@ -5447,6 +5519,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174348Z" creationid="PiaVee" creationdate="20171014T174348Z">
         <seg>ido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T081328Z" creationid="piav" creationdate="20190913T075948Z">
+        <seg>Jos taas merkistökoodaus on annettu HTML-tiedostossa, ohjelma käyttää sitä riippumatta tässä valinnassa olevasta arvosta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5832,6 +5912,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T181113Z" creationid="PiaVee" creationdate="20171014T174342Z">
         <seg>inupiaq</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid HTML file</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T075756Z" creationid="piav" creationdate="20190913T075756Z">
+        <seg>HTML-tiedosto ei kelpaa</seg>
       </tuv>
     </tu>
     <tu>
@@ -7408,6 +7496,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T075952Z" creationid="piav" creationdate="20190913T075815Z">
+        <seg>Huom.: Lähdetiedoston merkistökoodauksen asetukset koskevat ainoastaan HTML-tiedostoja, joissa ei ole tietoja merkistökoodauksesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T190602Z" creationid="piav" creationdate="20190527T190602Z">
@@ -7734,6 +7830,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T075649Z" creationid="PiaVee" creationdate="20170930T070409Z">
         <seg>Ilman hänen korvaamatonta apuaan englanninkielisestä tekstistä olisi jäänyt puuttumaan vaikka kuinka monta artikkelia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only if (X)HTML file has a &amp;header</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T081835Z" creationid="piav" creationdate="20190913T081835Z">
+        <seg>Vain jos (X)HTML-tiedostossa on header</seg>
       </tuv>
     </tu>
     <tu>
@@ -8479,6 +8583,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T085924Z" creationid="PiaVee" creationdate="20171218T085924Z">
         <seg>Projektitilastot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project autosaved on {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T075734Z" creationid="piav" creationdate="20190913T075734Z">
+        <seg>Projekti tallennettu automaattisesti {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9869,6 +9981,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skip text matching regular expression:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T081851Z" creationid="piav" creationdate="20190913T081851Z">
+        <seg>Ohita teksti, jokas vastaa säännöllistä lauseketta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T171444Z" creationid="piav" creationdate="20190523T171444Z">
@@ -10005,6 +10125,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source File Encoding:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T075659Z" creationid="piav" creationdate="20190913T075659Z">
+        <seg>Lähdetiedoston merkistökoodaus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source Filename Pattern</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T083141Z" creationid="piav" creationdate="20190521T175553Z">
@@ -10015,8 +10143,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Source Filename Pattern:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T083313Z" creationid="piav" creationdate="20190522T083106Z">
-        <seg>Lähdetiedoston nimen mallikuvio:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190913T075705Z" creationid="piav" creationdate="20190522T083106Z">
+        <seg>Lähdetiedoston nimen malli:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11164,6 +11292,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Too big HTML file!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T075749Z" creationid="piav" creationdate="20190913T075749Z">
+        <seg>HTML-tiedosto on liian iso!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Total Characters (including spaces)</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090306Z" creationid="PiaVee" creationdate="20171218T090306Z">
@@ -11256,6 +11392,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T175731Z" creationid="piav" creationdate="20190521T175708Z">
         <seg>Käännetyn tiedoston merkistökoodaus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated File Encoding:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190913T075710Z" creationid="piav" creationdate="20190913T075710Z">
+        <seg>Käännetyn tiedoston merkistökoodaus:</seg>
       </tuv>
     </tu>
     <tu>
