@@ -2419,6 +2419,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Algorithm:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132307Z" creationid="piav" creationdate="20190920T132307Z">
+        <seg>Algoritmi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Align</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132302Z" creationid="piav" creationdate="20190920T132302Z">
+        <seg>Kohdista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align Files</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T131701Z" creationid="piav" creationdate="20190920T131701Z">
@@ -2579,6 +2595,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when saving the TMX.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132556Z" creationid="piav" creationdate="20190920T132556Z">
+        <seg>TMX:n tallennuksessa tapahtui virhe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T125831Z" creationid="piav" creationdate="20190920T125831Z">
@@ -2696,6 +2720,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T094316Z" creationid="piav" creationdate="20190522T094316Z">
+        <seg>Tässä sijainnisssa on jo nimeke {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An item of the name "{0}" already exists at this location.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132535Z" creationid="piav" creationdate="20190920T132535Z">
         <seg>Tässä sijainnisssa on jo nimeke {0}.</seg>
       </tuv>
     </tu>
@@ -2923,6 +2955,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173531Z" creationid="PiaVee" creationdate="20171014T173531Z">
         <seg>avaari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Average Score: {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132403Z" creationid="piav" creationdate="20190920T132403Z">
+        <seg>Keskiarvotulos: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3339,6 +3379,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094157Z" creationid="PiaVee" creationdate="20171219T094157Z">
         <seg>CJ Translations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculator:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132310Z" creationid="piav" creationdate="20190920T132310Z">
+        <seg>Laskin:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3911,6 +3959,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comparison Mode:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132337Z" creationid="piav" creationdate="20190920T132337Z">
+        <seg>Vertailutapa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T170524Z" creationid="piav" creationdate="20190522T085333Z">
@@ -4023,6 +4079,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T095142Z" creationid="PiaVee" creationdate="20171219T095142Z">
         <seg>Sisältää OmegaT:n perusteellisen kuvauksen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132410Z" creationid="piav" creationdate="20190920T132410Z">
+        <seg>Jatka</seg>
       </tuv>
     </tu>
     <tu>
@@ -4161,6 +4225,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T130243Z" creationid="piav" creationdate="20190916T130243Z">
         <seg>Laske suojeltu teksti ja mukautetut tägit mukaan tilastoihin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Counter:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132328Z" creationid="piav" creationdate="20190920T132328Z">
+        <seg>Laskuri:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4909,6 +4981,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Distance</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132518Z" creationid="piav" creationdate="20190920T132518Z">
+        <seg>Etäisyys</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Distribution and modifications</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T132639Z" creationid="PiaVee" creationdate="20171014T132639Z">
@@ -4969,6 +5049,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T135623Z" creationid="piav" creationdate="20190916T135623Z">
         <seg>Haluatko luoda sen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to overwrite it?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132545Z" creationid="piav" creationdate="20190920T132545Z">
+        <seg>Korvataanko se?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8074,6 +8162,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132521Z" creationid="piav" creationdate="20190920T132521Z">
+        <seg>Pidä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keep All</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T131923Z" creationid="piav" creationdate="20190920T131923Z">
@@ -10778,6 +10874,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pinpoint Align: Select corresponding cell</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132513Z" creationid="piav" creationdate="20190920T132513Z">
+        <seg>Osoittava kohdistus: Valitse vastaava solu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Place source files in ./source and supplemental
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
@@ -11791,6 +11895,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove Tags</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132258Z" creationid="piav" creationdate="20190920T132258Z">
+        <seg>Poista tägit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove all the tokenizers from the /plugin folder before starting OmegaT.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T154405Z" creationid="PiaVee" creationdate="20171014T154405Z">
@@ -12233,6 +12345,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Row</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132515Z" creationid="piav" creationdate="20190920T132515Z">
+        <seg>Rivi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T140723Z" creationid="piav" creationdate="20190916T140723Z">
@@ -12413,6 +12533,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081310Z" creationid="PiaVee" creationdate="20171015T081310Z">
         <seg>sardi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save Alignment Results</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132528Z" creationid="piav" creationdate="20190920T132528Z">
+        <seg>Tallenna kohdistustulokset</seg>
       </tuv>
     </tu>
     <tu>
@@ -13705,6 +13833,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T122611Z" creationid="piav" creationdate="20190916T122611Z">
         <seg>Stemmaus, ei tägejä eikä numeroita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 1: Adjust alignment parameters</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132442Z" creationid="piav" creationdate="20190920T132442Z">
+        <seg>1. vaihe: Muokkaa kohdistusparametrejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 2: Make manual corrections</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132456Z" creationid="piav" creationdate="20190920T132456Z">
+        <seg>2. vaihe: Tee manuaalisia korjauksia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20393,6 +20537,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081521Z" creationid="piav" creationdate="20190522T081521Z">
         <seg>← Edellinen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▲</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132404Z" creationid="piav" creationdate="20190920T132404Z">
+        <seg>▲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▼</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132405Z" creationid="piav" creationdate="20190920T132405Z">
+        <seg>▼</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
