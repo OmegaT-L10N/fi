@@ -4051,6 +4051,62 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command delimiter is empty</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135859Z" creationid="piav" creationdate="20190920T135859Z">
+        <seg>Komennon erotin on tyhjä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command does not contain "{0}"</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135821Z" creationid="piav" creationdate="20190920T135821Z">
+        <seg>Komennossa ei ole kohtaa {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing command string</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135757Z" creationid="piav" creationdate="20190920T135757Z">
+        <seg>Komentostringistä puuttuu komento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing delimiter</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135850Z" creationid="piav" creationdate="20190920T135850Z">
+        <seg>Komennossa ei ole erotinta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing encoding</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135844Z" creationid="piav" creationdate="20190920T135844Z">
+        <seg>Komennossa ei ole koodausta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing target</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135834Z" creationid="piav" creationdate="20190920T135834Z">
+        <seg>Komennolla ei ole kohdetta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commands</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135910Z" creationid="piav" creationdate="20190920T135910Z">
+        <seg>Komennot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commands:
 	-h, --help
 		Show usage information.</seg>
@@ -6370,6 +6426,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T091635Z" creationid="PiaVee" creationdate="20171218T091635Z">
         <seg>Ulkoinen jälkikäsittelykomento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Search</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135916Z" creationid="piav" creationdate="20190920T135916Z">
+        <seg>Ulkoinen haku</seg>
       </tuv>
     </tu>
     <tu>
@@ -11911,6 +11975,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Specific External Search</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140238Z" creationid="piav" creationdate="20190920T140238Z">
+        <seg>Projektikohtainen ulkoinen haku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Specific File Filters</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T190618Z" creationid="piav" creationdate="20190527T190618Z">
@@ -16467,8 +16539,8 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       <tuv lang="EN">
         <seg>URL does not contain "{0}"</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T135655Z" creationid="piav" creationdate="20190920T135637Z">
-        <seg>URL:ssä ei ole  {0}</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135826Z" creationid="piav" creationdate="20190920T135637Z">
+        <seg>URL:ssä ei ole kohtaa {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -16477,6 +16549,22 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T135634Z" creationid="piav" creationdate="20190920T135634Z">
         <seg>URL-osoitteesta puuttuu URL-stringi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing encoding</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135743Z" creationid="piav" creationdate="20190920T135743Z">
+        <seg>URL:ssä ei ole tietoa koodauksesta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing target</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135721Z" creationid="piav" creationdate="20190920T135721Z">
+        <seg>URL:n kohde puuttuu</seg>
       </tuv>
     </tu>
     <tu>
@@ -16493,6 +16581,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T083643Z" creationid="piav" creationdate="20190522T083630Z">
         <seg>URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URLs</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135908Z" creationid="piav" creationdate="20190920T135908Z">
+        <seg>URL-osoitteet</seg>
       </tuv>
     </tu>
     <tu>
