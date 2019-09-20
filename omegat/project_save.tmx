@@ -4101,8 +4101,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Command is missing encoding</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T135844Z" creationid="piav" creationdate="20190920T135844Z">
-        <seg>Komennossa ei ole koodausta</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140659Z" creationid="piav" creationdate="20190920T135844Z">
+        <seg>Komennossa ei ole merkistökoodausta</seg>
       </tuv>
     </tu>
     <tu>
@@ -11058,6 +11058,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT {0} is now available.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140849Z" creationid="piav" creationdate="20190920T140849Z">
+        <seg>OmegaT {0} on nyt saatavilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once Auto-completer is open, use &lt;e1&gt;Ctrl+Space&lt;/e1&gt; again to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T125739Z" creationid="PiaVee" creationdate="20171218T125739Z">
@@ -13273,6 +13281,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sample Output</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140822Z" creationid="piav" creationdate="20190920T140822Z">
+        <seg>Esimerkkituotos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sample Text</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T125424Z" creationid="PiaVee" creationdate="20171015T125424Z">
@@ -14405,7 +14421,7 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Source File Encoding</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T175603Z" creationid="piav" creationdate="20190521T175603Z">
+      <tuv lang="FI" changeid="piav" changedate="20190920T140640Z" creationid="piav" creationdate="20190521T175603Z">
         <seg>Lähdetiedoston merkistökoodaus</seg>
       </tuv>
     </tu>
@@ -15466,6 +15482,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140753Z" creationid="piav" creationdate="20190920T140753Z">
+        <seg>URL-osoitteessa on oltava {kohde}, joka korvataan hakutekstillä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The author of the Chapter &lt;e1&gt;Learn to use OmegaT in 5 minutes!&lt;/e1&gt; is Samuel Murray, Copyright ©2005-2012.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T132632Z" creationid="PiaVee" creationdate="20171014T132533Z">
@@ -15486,6 +15510,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T114447Z" creationid="PiaVee" creationdate="20171014T114447Z">
         <seg>Kokoelmat ladataan TBX-muotoisina termikantoina kyseisen projektin sanastokansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The command must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140814Z" creationid="piav" creationdate="20190920T140814Z">
+        <seg>Komennossa on oltava {kohde}, joka korvataan hakutekstillä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16715,8 +16747,8 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       <tuv lang="EN">
         <seg>URL is missing encoding</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T135743Z" creationid="piav" creationdate="20190920T135743Z">
-        <seg>URL:ssä ei ole tietoa koodauksesta</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140654Z" creationid="piav" creationdate="20190920T135743Z">
+        <seg>URL:ssä ei ole tietoa merkistökoodauksesta</seg>
       </tuv>
     </tu>
     <tu>
@@ -17865,6 +17897,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You already have the latest version.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140841Z" creationid="piav" creationdate="20190920T140841Z">
+        <seg>Käytössäsi on jo uusin versio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are an OmegaT user and are requested by a customer to deliver a translation in Déjà Vu's file format.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T154727Z" creationid="PiaVee" creationdate="20171014T154727Z">
@@ -17934,6 +17974,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T145336Z" creationid="PiaVee" creationdate="20171014T145336Z">
         <seg>LanguageTool-sovellus paljastaa virheitä, joita yksinkertainen oikeinkirjoituksen tarkastin ei huomaa, esim. kun there/their  tai no/now ovat menneet sekaisin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You currently have {1}.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140915Z" creationid="piav" creationdate="20190920T140915Z">
+        <seg>Tällä hetkellä käyttämäsi versio on {1}.</seg>
       </tuv>
     </tu>
     <tu>
