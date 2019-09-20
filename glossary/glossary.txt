@@ -712,3 +712,4 @@ Fuzzy Matches	Sumeat osumat
 fuzzy Match	sumea osuma
 Git	Git
 team project	ryhmäprojekti
+Master Password	pääsalasana
