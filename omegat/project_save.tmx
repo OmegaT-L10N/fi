@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Jump To Segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133009Z" creationid="piav" creationdate="20190920T133009Z">
+        <seg>Siirry segmenttiin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Keyword search</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173917Z" creationid="piav" creationdate="20190521T134341Z">
@@ -910,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Refresh</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133016Z" creationid="piav" creationdate="20190920T133016Z">
+        <seg>Päivitä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Regular expressions</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173924Z" creationid="piav" creationdate="20190521T134512Z">
@@ -1098,6 +1114,14 @@
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T171404Z" creationid="piav" creationdate="20190521T180408Z">
         <seg>Arkkien nimet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show All</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133013Z" creationid="piav" creationdate="20190920T133013Z">
+        <seg>Näytä kaikki</seg>
       </tuv>
     </tu>
     <tu>
@@ -2491,6 +2515,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133143Z" creationid="piav" creationdate="20190920T133143Z">
+        <seg>Kaikki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All collections (public and private) will be queried for the source and target language.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T115640Z" creationid="PiaVee" creationdate="20171014T115640Z">
@@ -3599,6 +3631,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Character</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133001Z" creationid="piav" creationdate="20190920T133001Z">
+        <seg>Merkki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Character Table</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T074947Z" creationid="piav" creationdate="20190522T074947Z">
@@ -3707,6 +3747,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092646Z" creationid="PiaVee" creationdate="20171014T092646Z">
         <seg>Tarkista koko projekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133157Z" creationid="piav" creationdate="20190920T133157Z">
+        <seg>Tarki</seg>
       </tuv>
     </tu>
     <tu>
@@ -6590,6 +6638,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Forward-Backward</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132943Z" creationid="piav" creationdate="20190920T132943Z">
+        <seg>Edestakaisin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Found in:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T141541Z" creationid="piav" creationdate="20190916T141531Z">
@@ -7917,6 +7973,46 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T131613Z" creationid="piav" creationdate="20190920T131613Z">
         <seg>Kaksoiskappale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133020Z" creationid="piav" creationdate="20190920T133020Z">
+        <seg>Ongelmat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133105Z" creationid="piav" creationdate="20190920T133105Z">
+        <seg>Ongelmat ({0}/{1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0})</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133036Z" creationid="piav" creationdate="20190920T133036Z">
+        <seg>Ongelmat ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1} of {2})</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133129Z" creationid="piav" creationdate="20190920T133129Z">
+        <seg>{0}-ongelmat ({1}/{2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1})</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133056Z" creationid="piav" creationdate="20190920T133056Z">
+        <seg>{0}-ongelmat ({1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -9754,6 +9850,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No Issues Found</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133141Z" creationid="piav" creationdate="20190920T133141Z">
+        <seg>Ongelmia ei kohdattu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T135312Z" creationid="piav" creationdate="20190916T135312Z">
@@ -9890,6 +9994,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180757Z" creationid="piav" creationdate="20190521T180757Z">
         <seg>Näkymätön &amp;ohjeteksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132945Z" creationid="piav" creationdate="20190920T132945Z">
+        <seg>Normaali</seg>
       </tuv>
     </tu>
     <tu>
@@ -10802,6 +10914,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Parsewise</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132929Z" creationid="piav" creationdate="20190920T132929Z">
+        <seg>Segmentti kerrallaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pashto, Pushto</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081111Z" creationid="PiaVee" creationdate="20171015T081111Z">
@@ -11185,6 +11305,14 @@ onko sinun tehtävä vielä muuta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T171418Z" creationid="piav" creationdate="20190523T171418Z">
         <seg>Liitännäisen lataaminen luokasta '{0}' onnistui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Poisson</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132957Z" creationid="piav" creationdate="20190920T132957Z">
+        <seg>Poisson</seg>
       </tuv>
     </tu>
     <tu>
@@ -16437,6 +16565,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Viterbi</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132932Z" creationid="piav" creationdate="20190920T132932Z">
+        <seg>Viterbi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Vito Smolej</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T061147Z" creationid="PiaVee" creationdate="20170930T061147Z">
@@ -16715,8 +16851,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       <tuv lang="EN">
         <seg>Word</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T180737Z" creationid="piav" creationdate="20190521T180737Z">
-        <seg>Word</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132959Z" creationid="piav" creationdate="20190521T180737Z">
+        <seg>Sana</seg>
       </tuv>
     </tu>
     <tu>
@@ -20497,6 +20633,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124826Z" creationid="PiaVee" creationdate="20171015T124826Z">
         <seg>{0} ({1} jäljellä) / {2} ({3} jäljellä), {4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} ({1})</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133147Z" creationid="piav" creationdate="20190920T133147Z">
+        <seg>{0}{1}</seg>
       </tuv>
     </tu>
     <tu>
