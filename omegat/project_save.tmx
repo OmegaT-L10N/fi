@@ -2465,10 +2465,18 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow to save password as plain text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T122832Z" creationid="piav" creationdate="20190920T122746Z">
+        <seg>Salli, että salasana tallennetaan pelkkänä tekstinä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow to save password locally as plain text</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T122226Z" creationid="piav" creationdate="20190920T122226Z">
-        <seg>Salasana tallennetaan paikallisesti pelkkänä tekstinä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T122843Z" creationid="piav" creationdate="20190920T122226Z">
+        <seg>Salli, että salasana tallennetaan paikallisesti pelkkänä tekstinä</seg>
       </tuv>
     </tu>
     <tu>
@@ -3841,6 +3849,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T144055Z" creationid="piav" creationdate="20190521T143251Z">
         <seg>Väärä alku- tai kommenttitägi aiheuttaa hämmennystä!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Connection available, the project is in team project mode.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T122921Z" creationid="piav" creationdate="20190920T122921Z">
+        <seg>Yhteys on luotu, projekti on tiimiprojektitilassa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9264,6 +9280,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No connection available, the project is in offline mode.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T122859Z" creationid="piav" creationdate="20190920T122859Z">
+        <seg>Ei yhteyttä, projekti on offline-tilassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No match:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090817Z" creationid="PiaVee" creationdate="20171218T090802Z">
@@ -14008,6 +14032,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The specified project is an OmegaT 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T123016Z" creationid="piav" creationdate="20190920T123016Z">
+        <seg>Kyseinen projekti on OmegaT 3.6 -tyylinen tiimiprojekti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The specified translation direction is not supported</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190919T132011Z" creationid="piav" creationdate="20190919T132011Z">
@@ -15181,8 +15213,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>Upload disabled because repository in read-only mode</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T121231Z" creationid="piav" creationdate="20190920T121205Z">
-        <seg>Lataus ei ole käytössä, sillä pakettivarasto on vain-luku-muodossq</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T122725Z" creationid="piav" creationdate="20190920T121205Z">
+        <seg>Lataus ei ole käytössä, sillä pakettivarasto on vain luku -muodossa.</seg>
       </tuv>
     </tu>
     <tu>
