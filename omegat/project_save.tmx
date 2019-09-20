@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Go To Downloads</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140927Z" creationid="piav" creationdate="20190920T140927Z">
+        <seg>Siirry latauksiin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T104157Z" creationid="piav" creationdate="20190916T104157Z">
@@ -1955,6 +1963,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T141024Z" creationid="piav" creationdate="20190920T141024Z">
+        <seg>&lt;html&gt;Nykyinen versio: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T131443Z" creationid="PiaVee" creationdate="20171218T091954Z">
@@ -1983,6 +1999,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T134143Z" creationid="piav" creationdate="20190920T134143Z">
         <seg>&lt;html&gt;Termi: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Termilistat:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Update channel: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T141043Z" creationid="piav" creationdate="20190920T141043Z">
+        <seg>&lt;html&gt;Päivityskanava: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3079,6 +3103,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically check for updates</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T141058Z" creationid="piav" creationdate="20190920T141058Z">
+        <seg>Tarkista päivitykset automaattisesti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Autotext</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T074106Z" creationid="piav" creationdate="20190522T074106Z">
@@ -3831,6 +3863,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;automatically</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140922Z" creationid="piav" creationdate="20190920T140922Z">
+        <seg>Tarkista automaattisesti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T125421Z" creationid="piav" creationdate="20190916T125421Z">
@@ -3843,6 +3883,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T133618Z" creationid="PiaVee" creationdate="20171015T111303Z">
         <seg>Tarkista &amp;nykyisen asiakirjan ongelmakohdat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Now</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T141100Z" creationid="piav" creationdate="20190920T141100Z">
+        <seg>Tarkista nyt</seg>
       </tuv>
     </tu>
     <tu>
@@ -6638,6 +6686,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to fetch latest version info: {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T141002Z" creationid="piav" creationdate="20190920T140954Z">
+        <seg>Viimeisimmän versiotiedon nouto ei onnistunut: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to load specified project!</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T123901Z" creationid="PiaVee" creationdate="20171015T123901Z">
@@ -9206,6 +9262,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T125341Z" creationid="PiaVee" creationdate="20171015T125339Z">
         <seg>Viimeksi muokannut: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latest</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T141045Z" creationid="piav" creationdate="20190920T141045Z">
+        <seg>Uusin</seg>
       </tuv>
     </tu>
     <tu>
@@ -17089,6 +17153,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081848Z" creationid="piav" creationdate="20190522T081848Z">
         <seg>Päivitetty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updates</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T141008Z" creationid="piav" creationdate="20190920T140958Z">
+        <seg>Päivitykset</seg>
       </tuv>
     </tu>
     <tu>
