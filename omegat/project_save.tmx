@@ -1883,6 +1883,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Place the caret at the location where you want to split the text.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132730Z" creationid="piav" creationdate="20190920T132730Z">
+        <seg>&lt;html&gt;Vie kohdistin kohtaan, josta haluat jakaa tekstin.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T125343Z" creationid="piav" creationdate="20190920T125343Z">
@@ -4091,6 +4099,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Continue anyway?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132840Z" creationid="piav" creationdate="20190920T132840Z">
+        <seg>Haluatko silti jatkaa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Continue?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132623Z" creationid="piav" creationdate="20190920T132623Z">
+        <seg>Haluatko jatkaa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T123627Z" creationid="piav" creationdate="20190920T123559Z">
@@ -5410,6 +5434,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T091040Z" creationid="PiaVee" creationdate="20171218T091040Z">
         <seg>Muokkaa projektia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132628Z" creationid="piav" creationdate="20190920T132628Z">
+        <seg>Muokkaa tekstiä</seg>
       </tuv>
     </tu>
     <tu>
@@ -7010,6 +7042,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180825Z" creationid="piav" creationdate="20190521T180825Z">
         <seg>&amp;Ylätunnisteet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Heapwise</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132922Z" creationid="piav" creationdate="20190920T132922Z">
+        <seg>Kokonaisuutena</seg>
       </tuv>
     </tu>
     <tu>
@@ -12577,6 +12617,22 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save changes to filter settings?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132815Z" creationid="piav" creationdate="20190920T132815Z">
+        <seg>Tallennetaanko suodatinasetuksiin tehdyt muutokset?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save changes to segmentation rules?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132752Z" creationid="piav" creationdate="20190920T132752Z">
+        <seg>Tallennetaanko segmentointisääntöihin tehdyt muutokset?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving and Output</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T063131Z" creationid="piav" creationdate="20190522T063131Z">
@@ -13435,6 +13491,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some alignments still need review.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132832Z" creationid="piav" creationdate="20190920T132832Z">
+        <seg>Jotkin kohdistukset on vielä tarkastettava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T102819Z" creationid="PiaVee" creationdate="20171219T102819Z">
@@ -13751,6 +13815,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T131813Z" creationid="piav" creationdate="20190920T131813Z">
         <seg>Jaa kahtia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Split Text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132651Z" creationid="piav" creationdate="20190920T132651Z">
+        <seg>Jaa teksti</seg>
       </tuv>
     </tu>
     <tu>
@@ -15152,6 +15224,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T072202Z" creationid="piav" creationdate="20190521T072202Z">
         <seg>Tämän sivun voi lukea myös englanniksi!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will discard all changes you have made so far.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132616Z" creationid="piav" creationdate="20190920T132616Z">
+        <seg>Tämä hylkää kaikki tähän asti tekemäsi muutokset.</seg>
       </tuv>
     </tu>
     <tu>
