@@ -7833,6 +7833,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Editor</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140254Z" creationid="piav" creationdate="20190920T140254Z">
+        <seg>Editorissa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In PCW.GR (in Greek).</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T095035Z" creationid="PiaVee" creationdate="20171219T094836Z">
@@ -8446,6 +8454,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T093757Z" creationid="piav" creationdate="20190522T093757Z">
         <seg>Nimike:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Items</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140243Z" creationid="piav" creationdate="20190920T140243Z">
+        <seg>Nimikkeet</seg>
       </tuv>
     </tu>
     <tu>
@@ -14673,6 +14689,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T133226Z" creationid="piav" creationdate="20190521T133226Z">
         <seg>Aliversio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140248Z" creationid="piav" creationdate="20190920T140248Z">
+        <seg>Yhteenveto</seg>
       </tuv>
     </tu>
     <tu>
