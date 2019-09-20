@@ -1875,6 +1875,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125343Z" creationid="piav" creationdate="20190920T125343Z">
+        <seg>&lt;html&gt;Pakettivaraston URL:&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;none&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T114618Z" creationid="piav" creationdate="20190920T114618Z">
@@ -2779,6 +2787,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T174332Z" creationid="piav" creationdate="20190521T134613Z">
         <seg>Tekijä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Authentication</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125308Z" creationid="piav" creationdate="20190920T125308Z">
+        <seg>Todennus</seg>
       </tuv>
     </tu>
     <tu>
@@ -4949,6 +4965,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download Team Project</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125350Z" creationid="piav" creationdate="20190920T125350Z">
+        <seg>Lataa ryhmäprojekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download Team Project...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T123257Z" creationid="piav" creationdate="20190920T123257Z">
@@ -5354,6 +5378,22 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T095042Z" creationid="PiaVee" creationdate="20171015T095042Z">
         <seg>Virhe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error checking out the project from remote repository:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125443Z" creationid="piav" creationdate="20190920T125443Z">
+        <seg>Projektin kirjaamisessa ulos etävarastosta tapahtui virhe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error checking out the project from remote repository: {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125459Z" creationid="piav" creationdate="20190920T125459Z">
+        <seg>Projektin kirjaamisessa ulos etävarastosta tapahtui virhe: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8466,6 +8506,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local translation not synchronized with remote repository.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125519Z" creationid="piav" creationdate="20190920T125519Z">
+        <seg>Paikallista käännöstä ei ole synkronoitu etävaraston kanssa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Local working copies cleaned up: {0}</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T060702Z" creationid="PiaVee" creationdate="20170930T060702Z">
@@ -9254,6 +9302,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T140618Z" creationid="piav" creationdate="20190916T140618Z">
         <seg>Uusi LanguageTool-sääntö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New Local Project Folder:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125359Z" creationid="piav" creationdate="20190920T125359Z">
+        <seg>Uusi paikallisen projektin kansio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10565,6 +10621,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please enter username/password</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125315Z" creationid="piav" creationdate="20190920T125315Z">
+        <seg>Anna käyttäjänimi/salasana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please enter your name/ID.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T110142Z" creationid="piav" creationdate="20190913T110142Z">
@@ -11051,6 +11115,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T140149Z" creationid="piav" creationdate="20190521T140149Z">
         <seg>Projektihaku hakee oletusarvoisesti projektin lähde- ja kohdekansioista, apukäännösmuisteista, sanastoista, muistiinpanoista ja kommenteista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project will not be updated.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125525Z" creationid="piav" creationdate="20190920T125525Z">
+        <seg>Projektia ei päivitetä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13597,10 +13669,26 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Team synchronization</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125530Z" creationid="piav" creationdate="20190920T125530Z">
+        <seg>Ryhmäsynkronointi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Team synchronization...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T123500Z" creationid="piav" creationdate="20190913T110741Z">
         <seg>Ryhmäsynkronointi…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team synchronization: Saving translation in {0} s</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125555Z" creationid="piav" creationdate="20190920T125555Z">
+        <seg>Ryhmäsynkronointi: Käännös tallennetaan {0} sekunnin kuluttua</seg>
       </tuv>
     </tu>
     <tu>
@@ -15977,6 +16065,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Wrong authentication</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125330Z" creationid="piav" creationdate="20190920T125330Z">
+        <seg>Virheellinen todennus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Wrong response format from TaaS service</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T082321Z" creationid="piav" creationdate="20190522T082321Z">
@@ -15989,6 +16085,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T142225Z" creationid="piav" creationdate="20190916T142225Z">
         <seg>Väärä vastaus koneelta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wrong username/password</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125324Z" creationid="piav" creationdate="20190920T125324Z">
+        <seg>Virheellinen käyttäjänimi/salasana</seg>
       </tuv>
     </tu>
     <tu>
