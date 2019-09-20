@@ -5582,6 +5582,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error updating repository.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131111Z" creationid="piav" creationdate="20190920T131111Z">
+        <seg>Pakettivaraston päivityksessä tapahtui virhe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error while reading MT results</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T141820Z" creationid="piav" creationdate="20190916T141820Z">
@@ -8548,8 +8556,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T125519Z" creationid="piav" creationdate="20190920T125519Z">
-        <seg>Paikallista käännöstä ei ole synkronoitu etävaraston kanssa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T130921Z" creationid="piav" creationdate="20190920T125519Z">
+        <seg>Paikallista käännöstä ei ole synkronisoitu etävaraston kanssa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10234,6 +10242,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening team project</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T130953Z" creationid="piav" creationdate="20190920T130953Z">
+        <seg>Ryhmäprojekti avataan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T102545Z" creationid="PiaVee" creationdate="20171015T102545Z">
@@ -11471,6 +11487,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote repository network communication error: {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131037Z" creationid="piav" creationdate="20190920T131037Z">
+        <seg>Virhe etäpakettivarastojen verkoston kommunikaatiossa: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T132509Z" creationid="piav" creationdate="20190521T132509Z">
@@ -11733,6 +11757,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T132939Z" creationid="piav" creationdate="20190521T132939Z">
         <seg>Pakettivarasto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository Credentials</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T130832Z" creationid="piav" creationdate="20190920T130811Z">
+        <seg>Pakettivaraston tunnistetiedot</seg>
       </tuv>
     </tu>
     <tu>
@@ -13509,10 +13541,18 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Synchronisation of repositories</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T130942Z" creationid="piav" creationdate="20190920T130848Z">
+        <seg>Pakettivarastojen synkronisointi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Synchronization error</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T125603Z" creationid="piav" creationdate="20190920T125603Z">
-        <seg>Synkronointivirhe</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T130937Z" creationid="piav" creationdate="20190920T125603Z">
+        <seg>Synkronisointivirhe</seg>
       </tuv>
     </tu>
     <tu>
@@ -13751,32 +13791,32 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Team synchronization</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T125530Z" creationid="piav" creationdate="20190920T125530Z">
-        <seg>Ryhmäsynkronointi</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T130924Z" creationid="piav" creationdate="20190920T125530Z">
+        <seg>Ryhmäsynkronisointi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Team synchronization...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T123500Z" creationid="piav" creationdate="20190913T110741Z">
-        <seg>Ryhmäsynkronointi…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T130927Z" creationid="piav" creationdate="20190913T110741Z">
+        <seg>Ryhmäsynkronisointi…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Team synchronization: Saving translation in {0} s</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T125555Z" creationid="piav" creationdate="20190920T125555Z">
-        <seg>Ryhmäsynkronointi: Käännös tallennetaan {0} sekunnin kuluttua</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T130932Z" creationid="piav" creationdate="20190920T125555Z">
+        <seg>Ryhmäsynkronisointi: Käännös tallennetaan {0} sekunnin kuluttua</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Team synchronization: Waiting for you to finish this segment...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T123508Z" creationid="piav" creationdate="20190913T110821Z">
-        <seg>Ryhmäsynkronointi: Odotetaan, että saat tämän segmentin valmiiksi…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T130929Z" creationid="piav" creationdate="20190913T110821Z">
+        <seg>Ryhmäsynkronisointi: Odotetaan, että saat tämän segmentin valmiiksi…</seg>
       </tuv>
     </tu>
     <tu>
@@ -16099,8 +16139,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       <tuv lang="EN">
         <seg>Will be synchronized next time.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T121144Z" creationid="piav" creationdate="20190920T121144Z">
-        <seg>Synkronointi tapahtuu ensi kerralla.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T130918Z" creationid="piav" creationdate="20190920T121144Z">
+        <seg>Synkronisointi tapahtuu ensi kerralla.</seg>
       </tuv>
     </tu>
     <tu>
