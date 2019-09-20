@@ -1428,6 +1428,14 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>,</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133445Z" creationid="piav" creationdate="20190920T133445Z">
+        <seg>,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T153019Z" creationid="PiaVee" creationdate="20171014T153019Z">
@@ -2355,6 +2363,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add To Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133453Z" creationid="piav" creationdate="20190920T133453Z">
+        <seg>Lisää sanakirjaan: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T074831Z" creationid="piav" creationdate="20190522T074831Z">
@@ -2801,6 +2817,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T141748Z" creationid="piav" creationdate="20190916T141748Z">
         <seg>Apertium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apply &amp;Fix</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133520Z" creationid="piav" creationdate="20190920T133520Z">
+        <seg>Käytä korjausta</seg>
       </tuv>
     </tu>
     <tu>
@@ -4893,6 +4917,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Disable rule “{0}”</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133539Z" creationid="piav" creationdate="20190920T133539Z">
+        <seg>Ota sääntö {0} pois käytöstä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T065852Z" creationid="piav" creationdate="20190522T065113Z">
@@ -5201,6 +5233,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081845Z" creationid="piav" creationdate="20190522T081845Z">
         <seg>Aihepiirit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't Ask What to Check First</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133432Z" creationid="piav" creationdate="20190920T133432Z">
+        <seg>Älä kysy, mitä tarkistetaan ensin</seg>
       </tuv>
     </tu>
     <tu>
@@ -7537,6 +7577,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore: “{0}”</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133500Z" creationid="piav" creationdate="20190920T133500Z">
+        <seg>Älä huomioi: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Importing Wiki Page Failed</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T102356Z" creationid="PiaVee" creationdate="20171015T102356Z">
@@ -7637,6 +7685,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T101728Z" creationid="piav" creationdate="20190521T133123Z">
         <seg>Sisällytä lausekekuvio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Include matches from &amp;other languages</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133322Z" creationid="piav" creationdate="20190920T133322Z">
+        <seg>Ota mukaan muunkieliset osumat</seg>
       </tuv>
     </tu>
     <tu>
@@ -8590,6 +8646,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T135831Z" creationid="piav" creationdate="20190916T135831Z">
         <seg>LanguageToolin API-versio ei kelpaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool Issues</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133527Z" creationid="piav" creationdate="20190920T133527Z">
+        <seg>LanguageTool-virheet</seg>
       </tuv>
     </tu>
     <tu>
@@ -10990,6 +11054,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T102141Z" creationid="piav" creationdate="20190522T083555Z">
         <seg>Lausekekuvio…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Penalty for matches in other languages:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133425Z" creationid="piav" creationdate="20190920T133425Z">
+        <seg>Muunkielisten osumien sakko:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13939,6 +14011,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spelling</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133444Z" creationid="piav" creationdate="20190920T133444Z">
+        <seg>Oikeinkirjoitus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spelling Issues</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133442Z" creationid="piav" creationdate="20190920T133442Z">
+        <seg>Oikeinkirjoitusvirheet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Split</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T131813Z" creationid="piav" creationdate="20190920T131813Z">
@@ -14277,6 +14365,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag Issues</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133505Z" creationid="piav" creationdate="20190920T133505Z">
+        <seg>Tägivirheet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag Processing</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T125100Z" creationid="piav" creationdate="20190916T125100Z">
@@ -14473,6 +14569,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T090446Z" creationid="piav" creationdate="20190522T090446Z">
         <seg>Terminologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terminology Issues</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133556Z" creationid="piav" creationdate="20190920T133556Z">
+        <seg>Terminologiapulmat</seg>
       </tuv>
     </tu>
     <tu>
@@ -20689,6 +20793,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T094205Z" creationid="piav" creationdate="20190522T094205Z">
         <seg>{0} vaihtaa kirjoitussuuntaa vasemmalta oikealle, oikealta vasemmalle ja kielen mukaisesti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} x{1}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133507Z" creationid="piav" creationdate="20190920T133507Z">
+        <seg>{0} x{1}</seg>
       </tuv>
     </tu>
     <tu>
