@@ -3907,8 +3907,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T123559Z" creationid="piav" creationdate="20190920T123559Z">
-        <seg>Muunna vanha</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T123627Z" creationid="piav" creationdate="20190920T123559Z">
+        <seg>Muunna vanha ryhmäprojekti</seg>
       </tuv>
     </tu>
     <tu>
@@ -9848,6 +9848,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T101302Z" creationid="PiaVee" creationdate="20171015T101302Z">
         <seg>OmegaT valitsi automaattisesti Kyllä-vaihtoehdon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has detected a 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T123709Z" creationid="piav" creationdate="20190920T123709Z">
+        <seg>OmegaT on havainnut 3.6-tyylisen ryhmäprojektin.</seg>
       </tuv>
     </tu>
     <tu>
