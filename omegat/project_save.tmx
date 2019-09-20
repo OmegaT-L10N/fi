@@ -6388,10 +6388,34 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Git '{0}' did nothing because there were no changes</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T122630Z" creationid="piav" creationdate="20190920T122630Z">
+        <seg>Git {0} ei tehnyt mitään, sillä muutoksia ei ollut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git '{0}' error: {1}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T122642Z" creationid="piav" creationdate="20190920T122642Z">
+        <seg>Git {0}-virhe: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git '{0}' execution finished successfully</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T122444Z" creationid="piav" creationdate="20190920T122444Z">
+        <seg>Git {0}: suoritettu onnistuneesti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Git '{0}' execution start</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T122306Z" creationid="piav" creationdate="20190920T122306Z">
-        <seg>Git {0}</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T122429Z" creationid="piav" creationdate="20190920T122306Z">
+        <seg>Git {0}: suoritus alkaa</seg>
       </tuv>
     </tu>
     <tu>
@@ -10961,6 +10985,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Push failed.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T122655Z" creationid="piav" creationdate="20190920T122655Z">
+        <seg>Push ei onnistunut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pāli</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081023Z" creationid="PiaVee" creationdate="20171015T081023Z">
@@ -11045,6 +11077,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T172601Z" creationid="PiaVee" creationdate="20171015T103633Z">
         <seg>&amp;Korvaa lähteellä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Read-only</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T122715Z" creationid="piav" creationdate="20190920T122715Z">
+        <seg>Vain luku</seg>
       </tuv>
     </tu>
     <tu>
