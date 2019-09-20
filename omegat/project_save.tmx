@@ -5326,6 +5326,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End rebase</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T130121Z" creationid="piav" creationdate="20190920T130121Z">
+        <seg>Lopeta rebase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>End*</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T123622Z" creationid="PiaVee" creationdate="20171218T123541Z">
@@ -10621,6 +10629,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please double-check it.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125930Z" creationid="piav" creationdate="20190920T125930Z">
+        <seg>Tarkista se uudelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T091300Z" creationid="PiaVee" creationdate="20170910T090343Z">
@@ -10817,6 +10833,14 @@ onko sinun tehtävä vielä muuta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T171406Z" creationid="piav" creationdate="20190527T171406Z">
         <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Predefined credentials was not passed.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T130213Z" creationid="piav" creationdate="20190920T130213Z">
+        <seg>Ei ennalta määriteltyjä tunnistetietoja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13341,6 +13365,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start rebase</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T130114Z" creationid="piav" creationdate="20190920T130114Z">
+        <seg>Käynnistä rebase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090416Z" creationid="PiaVee" creationdate="20171218T090416Z">
@@ -14451,6 +14483,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This URL appears to be invalid.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125926Z" creationid="piav" creationdate="20190920T125926Z">
+        <seg>Tämä URL vaikuttaa virheelliseltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This call MUST NOT be in swing thread</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T135009Z" creationid="piav" creationdate="20190916T135009Z">
@@ -14502,8 +14542,16 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This is a Subversion repository.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T125853Z" creationid="piav" creationdate="20190920T125853Z">
-        <seg>Tämä on </seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125905Z" creationid="piav" creationdate="20190920T125853Z">
+        <seg>Tämä on aliversioiden pakettivarasto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a valid project file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125915Z" creationid="piav" creationdate="20190920T125915Z">
+        <seg>Tämä on kelvollinen projektitiedosto.</seg>
       </tuv>
     </tu>
     <tu>
