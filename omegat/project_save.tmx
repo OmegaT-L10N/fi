@@ -1158,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Show in Editor context menu</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140457Z" creationid="piav" creationdate="20190920T140457Z">
+        <seg>Näytä editorin pikavalikossa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Show relevant suggestions automatically</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173401Z" creationid="PiaVee" creationdate="20171015T122355Z">
@@ -4051,6 +4059,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140339Z" creationid="piav" creationdate="20190920T140339Z">
+        <seg>Komento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Command delimiter is empty</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T135859Z" creationid="piav" creationdate="20190920T135859Z">
@@ -4095,6 +4111,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T135834Z" creationid="piav" creationdate="20190920T135834Z">
         <seg>Komennolla ei ole kohdetta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140535Z" creationid="piav" creationdate="20190920T140535Z">
+        <seg>Komento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4335,6 +4359,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T095142Z" creationid="PiaVee" creationdate="20171219T095142Z">
         <seg>Sisältää OmegaT:n perusteellisen kuvauksen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Context Menu Priority:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140322Z" creationid="piav" creationdate="20190920T140322Z">
+        <seg>Pikavalikon tärkeysjärjestys:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4913,6 +4945,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081419Z" creationid="piav" creationdate="20190522T081419Z">
         <seg>Poistettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delimiter</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140341Z" creationid="piav" creationdate="20190920T140341Z">
+        <seg>Erotin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delimiter:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140548Z" creationid="piav" creationdate="20190920T140548Z">
+        <seg>Erotin:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5662,10 +5710,42 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ed&amp;it</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140513Z" creationid="piav" creationdate="20190920T140513Z">
+        <seg>Muokkaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T143040Z" creationid="piav" creationdate="20190521T143040Z">
         <seg>Muokkaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search Command</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140531Z" creationid="piav" creationdate="20190920T140531Z">
+        <seg>Muokkaa ulkoisen haun komentoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search Item</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140335Z" creationid="piav" creationdate="20190920T140335Z">
+        <seg>Muokkaa ulkoisen haun kohtaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search URL</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140525Z" creationid="piav" creationdate="20190920T140525Z">
+        <seg>Muokkaa ulkoisen haun URL-osoitetta</seg>
       </tuv>
     </tu>
     <tu>
@@ -5782,6 +5862,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable project-specific commands</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140304Z" creationid="piav" creationdate="20190920T140304Z">
+        <seg>Salli projektikohtaiset komennot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T131454Z" creationid="PiaVee" creationdate="20171218T092146Z">
@@ -5802,6 +5890,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072331Z" creationid="PiaVee" creationdate="20171218T072331Z">
         <seg>Merkistökoodaus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140540Z" creationid="piav" creationdate="20190920T140540Z">
+        <seg>Merkistökoodaus:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10098,6 +10194,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Name:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140344Z" creationid="piav" creationdate="20190920T140344Z">
+        <seg>Nimi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name: {0}</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T135602Z" creationid="piav" creationdate="20190920T135602Z">
@@ -12455,6 +12559,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remo&amp;ve</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140511Z" creationid="piav" creationdate="20190920T140511Z">
+        <seg>Poista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote &amp;server</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T140640Z" creationid="piav" creationdate="20190916T140640Z">
@@ -13375,6 +13487,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T114146Z" creationid="piav" creationdate="20190920T114146Z">
         <seg>Komentosarjojen kansio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Se&amp;t</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140507Z" creationid="piav" creationdate="20190920T140507Z">
+        <seg>Aseta</seg>
       </tuv>
     </tu>
     <tu>
@@ -14459,6 +14579,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140447Z" creationid="piav" creationdate="20190920T140447Z">
+        <seg>Määrittele valintakirjain &amp;-merkin avulla: esim. F&amp;oobar käyttää O-kirjainta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180511Z" creationid="piav" creationdate="20190521T180511Z">
@@ -14993,6 +15121,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T124602Z" creationid="piav" creationdate="20190916T124536Z">
         <seg>Termi kohdekielellä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T140537Z" creationid="piav" creationdate="20190920T140537Z">
+        <seg>Kohde:</seg>
       </tuv>
     </tu>
     <tu>
