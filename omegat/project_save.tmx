@@ -2555,6 +2555,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when trying to detect the project file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125831Z" creationid="piav" creationdate="20190920T125831Z">
+        <seg>Projektitiedosto havaitsemisessa tapahtui virhe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while downloading the dictionary.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T135652Z" creationid="piav" creationdate="20190916T135652Z">
@@ -3343,6 +3351,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cancelled creating new team project</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125623Z" creationid="piav" creationdate="20190920T125623Z">
+        <seg>Uuden ryhmäprojektin luominen peruttiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T070843Z" creationid="PiaVee" creationdate="20171218T084843Z">
@@ -4049,6 +4065,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T120133Z" creationid="piav" creationdate="20190523T142202Z">
         <seg>Käyttöjärjestelmän ulkoasun käynnistäminen ei onnistunut!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could not save credentials to text file</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125721Z" creationid="piav" creationdate="20190920T125721Z">
+        <seg>Tunnistetietojen tallentaminen tekstitiedostoon ei onnistunut</seg>
       </tuv>
     </tu>
     <tu>
@@ -11039,6 +11063,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project file should be on http protocol.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125820Z" creationid="piav" creationdate="20190920T125743Z">
+        <seg>Projektitiedoston pitäisi käyttää http-yhteyttä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project is Empty</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T101226Z" creationid="PiaVee" creationdate="20171015T101226Z">
@@ -13437,6 +13469,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Synchronization error</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125603Z" creationid="piav" creationdate="20190920T125603Z">
+        <seg>Synkronointivirhe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>T&amp;Ms</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T174440Z" creationid="PiaVee" creationdate="20171015T102732Z">
@@ -14142,6 +14182,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project folder {0} is missing and could not be created.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125701Z" creationid="piav" creationdate="20190920T125701Z">
+        <seg>Projektikansio {0} puuttuu, eikä sitä voitu luoda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project was converted successfully.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T125117Z" creationid="piav" creationdate="20190920T125117Z">
@@ -14440,6 +14488,22 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T174943Z" creationid="PiaVee" creationdate="20170910T084447Z">
         <seg>OmegaT on vapaa työkalu tietokoneavusteista kääntämistä varten. Tämä tiedosto on virallinen OmegaT-käsikirja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a Git repository.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125841Z" creationid="piav" creationdate="20190920T125841Z">
+        <seg>Tämä on Git-pakettivarasto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a Subversion repository.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125853Z" creationid="piav" creationdate="20190920T125853Z">
+        <seg>Tämä on </seg>
       </tuv>
     </tu>
     <tu>
@@ -15553,6 +15617,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T102254Z" creationid="PiaVee" creationdate="20171219T101933Z">
         <seg>Pura (untar tai vastaava, esim. Windowsin &lt;f0&gt;winrar&lt;/f0&gt; tiedoston sisältö projektin Dictionary-kansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User denied credentials</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125646Z" creationid="piav" creationdate="20190920T125646Z">
+        <seg>Käyttäjä ei antanut tunnistetietoja</seg>
       </tuv>
     </tu>
     <tu>
