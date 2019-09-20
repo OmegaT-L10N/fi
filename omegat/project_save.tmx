@@ -3855,8 +3855,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T122921Z" creationid="piav" creationdate="20190920T122921Z">
-        <seg>Yhteys on luotu, projekti on tiimiprojektitilassa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T123433Z" creationid="piav" creationdate="20190920T122921Z">
+        <seg>Yhteys on luotu, projekti on ryhmäprojektitilassa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3901,6 +3901,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T095142Z" creationid="PiaVee" creationdate="20171219T095142Z">
         <seg>Sisältää OmegaT:n perusteellisen kuvauksen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Convert Old Team Project</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T123559Z" creationid="piav" creationdate="20190920T123559Z">
+        <seg>Muunna vanha</seg>
       </tuv>
     </tu>
     <tu>
@@ -7265,8 +7273,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T123241Z" creationid="PiaVee" creationdate="20171015T093911Z">
-        <seg>Käynnistetty {0}-{1} tiimiprojekti</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T123325Z" creationid="PiaVee" creationdate="20171015T093911Z">
+        <seg>Käynnistetty {0}-{1} ryhmäprojekti</seg>
       </tuv>
     </tu>
     <tu>
@@ -7601,8 +7609,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T123058Z" creationid="piav" creationdate="20190920T123058Z">
-        <seg>Se on muunnettava uudeksi tiimiprojektiksi, mutta sitä ei voi tehdä konsolitilassa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T123607Z" creationid="piav" creationdate="20190920T123058Z">
+        <seg>Se on muunnettava uudenlaiseksi ryhmäprojektiksi, mutta sitä ei voi tehdä konsolitilassa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13152,8 +13160,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T121950Z" creationid="piav" creationdate="20190920T121950Z">
-        <seg>Käynnistä OmegaT uudelleen, lataa tiimiprojekti ja sulje OmegaT.
+      <tuv lang="FI" changeid="piav" changedate="20190920T123423Z" creationid="piav" creationdate="20190920T121950Z">
+        <seg>Käynnistä OmegaT uudelleen, lataa ryhmäprojekti ja sulje OmegaT.
 5.</seg>
       </tuv>
     </tu>
@@ -13529,32 +13537,32 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Team</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T110252Z" creationid="piav" creationdate="20190913T110132Z">
-        <seg>Tiimiasetukset</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T123416Z" creationid="piav" creationdate="20190913T110132Z">
+        <seg>Ryhmä</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Team Options</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T110130Z" creationid="piav" creationdate="20190913T110130Z">
-        <seg>Tiimiasetukset</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T123411Z" creationid="piav" creationdate="20190913T110130Z">
+        <seg>Ryhmäasetukset</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Team synchronization...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T110741Z" creationid="piav" creationdate="20190913T110741Z">
-        <seg>Tiimisynkronointi…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T123500Z" creationid="piav" creationdate="20190913T110741Z">
+        <seg>Ryhmäsynkronointi…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Team synchronization: Waiting for you to finish this segment...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T110821Z" creationid="piav" creationdate="20190913T110821Z">
-        <seg>Tiimisynkronointi: Odotetaan, että saat tämän segmentin valmiiksi…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T123508Z" creationid="piav" creationdate="20190913T110821Z">
+        <seg>Ryhmäsynkronointi: Odotetaan, että saat tämän segmentin valmiiksi…</seg>
       </tuv>
     </tu>
     <tu>
@@ -14002,8 +14010,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The project will be loaded as a local project without team functionality.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T123150Z" creationid="piav" creationdate="20190920T123136Z">
-        <seg>Projekti ladataan paikallisena projektina, jossa ei ole tiimiominaisuutta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T123456Z" creationid="piav" creationdate="20190920T123136Z">
+        <seg>Projekti ladataan paikallisena projektina, jossa ei ole ryhmäominaisuutta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14058,8 +14066,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The specified project is an OmegaT 3.6-style team project.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T123016Z" creationid="piav" creationdate="20190920T123016Z">
-        <seg>Kyseinen projekti on OmegaT 3.6 -tyylinen tiimiprojekti.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T123443Z" creationid="piav" creationdate="20190920T123016Z">
+        <seg>Kyseinen projekti on OmegaT 3.6 -tyylinen ryhmäprojekti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14424,6 +14432,14 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="FI" changeid="piav" changedate="20190920T121611Z" creationid="piav" creationdate="20190920T121611Z">
         <seg>Näin varmistat, että käännökset eivät katoa:
 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T123620Z" creationid="piav" creationdate="20190920T123554Z">
+        <seg>Avaa projekti OmegaT-käyttöliittymässä, niin saat sen muunnettua uudenlaiseksi ryhmäprojektiksi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17460,9 +17476,9 @@ create its configuration folder.</seg>
         <seg>init &lt;source language&gt; &lt;target language&gt;
 		Initialize a minimal team project with the specified languages.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T123235Z" creationid="PiaVee" creationdate="20171015T092850Z">
+      <tuv lang="FI" changeid="piav" changedate="20190920T123319Z" creationid="PiaVee" creationdate="20171015T092850Z">
         <seg>pinit &lt;lähdekieli&gt; &lt;kohdekieli&gt;
-		Käynnistää yksinkertaisen tiimiprojektin, jossa käytetään kyseisiä kieliä.</seg>
+		Käynnistää yksinkertaisen ryhmäprojektin, jossa käytetään kyseisiä kieliä.</seg>
       </tuv>
     </tu>
     <tu>
