@@ -3359,6 +3359,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cancel Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132252Z" creationid="piav" creationdate="20190920T132252Z">
+        <seg>Peruuta osoittava kohdistus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190919T132811Z" creationid="piav" creationdate="20190919T132811Z">
@@ -5410,6 +5418,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T173709Z" creationid="piav" creationdate="20190523T173709Z">
         <seg>Virheellinen \u-sarja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132243Z" creationid="piav" creationdate="20190920T132243Z">
+        <seg>Lopeta osoittava kohdistus</seg>
       </tuv>
     </tu>
     <tu>
@@ -13641,6 +13657,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T122141Z" creationid="piav" creationdate="20190920T122141Z">
         <seg>Käynnistä OmegaT ja jatka käännöstyötä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132230Z" creationid="piav" creationdate="20190920T132230Z">
+        <seg>Käynnistä osoittava kohdistus</seg>
       </tuv>
     </tu>
     <tu>
