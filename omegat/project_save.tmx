@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Also allow per-project external commands</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131231Z" creationid="piav" creationdate="20190920T131231Z">
+        <seg>Salli myös projektikohtaiset ulkoiset komennot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Always</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T081423Z" creationid="piav" creationdate="20190913T081423Z">
@@ -4773,6 +4781,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131337Z" creationid="piav" creationdate="20190920T131337Z">
+        <seg>Näyttää merkinnät muodossa &lt;lähde&gt; → &lt;kohde&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T070639Z" creationid="piav" creationdate="20190522T070639Z">
@@ -5618,6 +5634,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T141903Z" creationid="piav" creationdate="20190916T141903Z">
         <seg>Virhe {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error: {0}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131136Z" creationid="piav" creationdate="20190920T131136Z">
+        <seg>VIRHE: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9702,6 +9726,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has "{0}"</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131350Z" creationid="piav" creationdate="20190920T131350Z">
+        <seg>Näytä ilmoitus, kun segmentissä on {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notify Me When a Segment Has Comments</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T133039Z" creationid="piav" creationdate="20190916T133039Z">
@@ -12203,8 +12235,8 @@ projektin ilman ryhmäominaisuutta.</seg>
       <tuv lang="EN">
         <seg>Saving and Output Options</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T063122Z" creationid="piav" creationdate="20190522T061358Z">
-        <seg>Tallentaminen ja tuotos -asetukset</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131209Z" creationid="piav" creationdate="20190522T061358Z">
+        <seg>Tallentamisen ja tuotoksen asetukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -12999,6 +13031,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T171444Z" creationid="piav" creationdate="20190523T171444Z">
         <seg>Ohitetaan aiemmin ladattu liitännäinen luokasta '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skipping.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131130Z" creationid="piav" creationdate="20190920T131130Z">
+        <seg>Ohitetaan.</seg>
       </tuv>
     </tu>
     <tu>
