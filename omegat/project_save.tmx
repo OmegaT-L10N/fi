@@ -2419,6 +2419,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align Files</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131701Z" creationid="piav" creationdate="20190920T131701Z">
+        <seg>Kohdista tiedostoja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T120505Z" creationid="piav" creationdate="20190920T120505Z">
@@ -2559,6 +2567,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190919T132908Z" creationid="piav" creationdate="20190919T132908Z">
         <seg>Komentosarjan lataamisessa tapahtui virhe: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred when loading the source files.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131731Z" creationid="piav" creationdate="20190920T131731Z">
+        <seg>Lähdetiedostojen lataamisessa tapahtui virhe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3671,6 +3687,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose Source File</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131735Z" creationid="piav" creationdate="20190920T131735Z">
+        <seg>Valitse lähdetiedosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose Target File</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131742Z" creationid="piav" creationdate="20190920T131742Z">
+        <seg>Valitse kohdetiedosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chuvash</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173910Z" creationid="PiaVee" creationdate="20171014T173910Z">
@@ -3683,6 +3715,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T083920Z" creationid="PiaVee" creationdate="20170910T083920Z">
         <seg>Siistitty!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear Mark</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131905Z" creationid="piav" creationdate="20190920T131905Z">
+        <seg>Tyhjennä merkinnät</seg>
       </tuv>
     </tu>
     <tu>
@@ -3715,6 +3755,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173618Z" creationid="PiaVee" creationdate="20171218T072609Z">
         <seg>&amp;Sulje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131800Z" creationid="piav" creationdate="20190920T131800Z">
+        <seg>Sulje</seg>
       </tuv>
     </tu>
     <tu>
@@ -8010,10 +8058,26 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep All</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131923Z" creationid="piav" creationdate="20190920T131923Z">
+        <seg>Pidä kaikki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keep Mine</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T094559Z" creationid="piav" creationdate="20190522T094559Z">
         <seg>Pidä om</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep None</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131928Z" creationid="piav" creationdate="20190920T131928Z">
+        <seg>Hylkää kaikki</seg>
       </tuv>
     </tu>
     <tu>
@@ -8914,10 +8978,26 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Accepted</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131830Z" creationid="piav" creationdate="20190920T131830Z">
+        <seg>Merkitse hyväksytyt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Glossary Matches</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T141425Z" creationid="piav" creationdate="20190916T141425Z">
         <seg>Merkitse termilistaosumat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Needs Review</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131843Z" creationid="piav" creationdate="20190920T131843Z">
+        <seg>Merkitse tarkistusta vaativat</seg>
       </tuv>
     </tu>
     <tu>
@@ -8982,6 +9062,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T122446Z" creationid="piav" creationdate="20190916T122446Z">
         <seg>Osumanäytön malli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match type</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131657Z" creationid="piav" creationdate="20190920T131657Z">
+        <seg>Osumatyyppi</seg>
       </tuv>
     </tu>
     <tu>
@@ -9314,9 +9402,25 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move Down</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131808Z" creationid="piav" creationdate="20190920T131808Z">
+        <seg>Siirrä alas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move U&amp;p</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T105903Z" creationid="piav" creationdate="20190913T105903Z">
+        <seg>Siirrä ylös</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move Up</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131805Z" creationid="piav" creationdate="20190920T131805Z">
         <seg>Siirrä ylös</seg>
       </tuv>
     </tu>
@@ -11455,6 +11559,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Realign Pending</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131920Z" creationid="piav" creationdate="20190920T131920Z">
+        <seg>Odottaa uudellenkohdistusta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T141335Z" creationid="piav" creationdate="20190523T102520Z">
@@ -11523,6 +11635,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T175117Z" creationid="piav" creationdate="20190521T140454Z">
         <seg>Haku säännöllisillä lausekkeilla etsii Javasta säännöllisiä lausekkeita käsikirjassa kuvatulla tavalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reload</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131757Z" creationid="piav" creationdate="20190920T131757Z">
+        <seg>Lataa uudelleen</seg>
       </tuv>
     </tu>
     <tu>
@@ -11925,6 +12045,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180112Z" creationid="piav" creationdate="20190521T180112Z">
         <seg>ResX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131750Z" creationid="piav" creationdate="20190920T131750Z">
+        <seg>Nollaa</seg>
       </tuv>
     </tu>
     <tu>
@@ -13475,6 +13603,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Split</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131813Z" creationid="piav" creationdate="20190920T131813Z">
+        <seg>Jaa kahtia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sponsorship</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T093846Z" creationid="PiaVee" creationdate="20171219T093846Z">
@@ -13617,6 +13753,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T185430Z" creationid="piav" creationdate="20190527T185430Z">
         <seg>SuperTMXMerge (lisenssi: Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Supported Files</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131747Z" creationid="piav" creationdate="20190920T131747Z">
+        <seg>Tuetut tiedostot</seg>
       </tuv>
     </tu>
     <tu>
@@ -14292,6 +14436,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The file "{0}" is not supported.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131709Z" creationid="piav" creationdate="20190920T131709Z">
+        <seg>Tiedostoa {0} ei tueta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T105400Z" creationid="PiaVee" creationdate="20171219T105400Z">
@@ -14450,6 +14602,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T135619Z" creationid="piav" creationdate="20190916T135619Z">
         <seg>Annettua sanakirjakansiota ei ole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified files are not supported.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131717Z" creationid="piav" creationdate="20190920T131717Z">
+        <seg>Annettuja tiedostoja ei tueta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14922,6 +15082,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T155947Z" creationid="PiaVee" creationdate="20171014T155947Z">
         <seg>Tiedosto käännetään OmegaT:ssä seuraavalla tavalla:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toggle Selected</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T132137Z" creationid="piav" creationdate="20190920T132137Z">
+        <seg>Kierrä valittuja</seg>
       </tuv>
     </tu>
     <tu>
