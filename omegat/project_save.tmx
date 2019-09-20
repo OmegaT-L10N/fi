@@ -3737,8 +3737,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T110032Z" creationid="PiaVee" creationdate="20171219T110032Z">
-        <seg>Tarkasta, että sanakirjatiedostosi ovat oikeassa kansiossa (tai sen alakansiossa).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133229Z" creationid="PiaVee" creationdate="20171219T110032Z">
+        <seg>Tarkista, että sanakirjatiedostosi ovat oikeassa kansiossa (tai sen alakansiossa).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7459,8 +7459,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If only one file is present, check its extension.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T110237Z" creationid="PiaVee" creationdate="20171219T110237Z">
-        <seg>Jos kansiossa on vain yksi tiedosto, tarkasta sen tiedostotunniste.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133233Z" creationid="PiaVee" creationdate="20171219T110237Z">
+        <seg>Jos kansiossa on vain yksi tiedosto, tarkista sen tiedostotunniste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11081,8 +11081,8 @@ everything.</seg>
 return the information below to the software manufacturer with
 a description of how this error was produced.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T102910Z" creationid="PiaVee" creationdate="20171218T083841Z">
-        <seg>Tarkasta dokumentaatiosta, millaisia palautusvaihtoehtoja on käytössä. Lähetä ohjelmiston valmistajalle alla olevat tiedot ja kuvaus siitä, kuinka virhe tapahtui.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133218Z" creationid="PiaVee" creationdate="20171218T083841Z">
+        <seg>Tarkista dokumentaatiosta, millaisia palautusvaihtoehtoja on käytössä. Lähetä ohjelmiston valmistajalle alla olevat tiedot ja kuvaus siitä, kuinka virhe tapahtui.</seg>
       </tuv>
     </tu>
     <tu>
