@@ -10515,6 +10515,16 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125301Z" creationid="piav" creationdate="20190920T125301Z">
+        <seg>Ota yhteyttä projektin ylläpitoon ja tarkista,
+onko sinun tehtävä vielä muuta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124213Z" creationid="PiaVee" creationdate="20171015T124213Z">
@@ -14040,6 +14050,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T120525Z" creationid="piav" creationdate="20190920T120525Z">
         <seg>Projektin varmistus ei onnistu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The project was converted successfully.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125117Z" creationid="piav" creationdate="20190920T125117Z">
+        <seg>Projekti muunnettiin onnistuneesti.</seg>
       </tuv>
     </tu>
     <tu>
