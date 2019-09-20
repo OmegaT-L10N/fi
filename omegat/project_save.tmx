@@ -3495,6 +3495,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changed by</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131510Z" creationid="piav" creationdate="20190920T131510Z">
+        <seg>Muuttanut:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changed on</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131517Z" creationid="piav" creationdate="20190920T131517Z">
+        <seg>Muutospäivämäärä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changer</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081540Z" creationid="piav" creationdate="20190522T081540Z">
@@ -4173,10 +4189,26 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Created by</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131524Z" creationid="piav" creationdate="20190920T131524Z">
+        <seg>Laatija:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Created by: {0}</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T174908Z" creationid="piav" creationdate="20190521T174908Z">
         <seg>Laatija: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Created on</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131540Z" creationid="piav" creationdate="20190920T131540Z">
+        <seg>Laatimispäivämäärä:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6806,6 +6838,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Has note</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131630Z" creationid="piav" creationdate="20190920T131624Z">
+        <seg>Mukana muistiinpano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hausa</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174226Z" creationid="PiaVee" creationdate="20171014T174226Z">
@@ -7002,6 +7042,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T142129Z" creationid="piav" creationdate="20190916T142129Z">
         <seg>IBM Watson ei saatavilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ID</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131444Z" creationid="piav" creationdate="20190920T131403Z">
+        <seg>Tunniste</seg>
       </tuv>
     </tu>
     <tu>
@@ -7657,10 +7705,26 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Is alternative</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131633Z" creationid="piav" creationdate="20190920T131633Z">
+        <seg>Vaihtoehtoinen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Is default translation</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081602Z" creationid="piav" creationdate="20190522T081602Z">
         <seg>Oletuskäännös</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Is duplicate</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131613Z" creationid="piav" creationdate="20190920T131613Z">
+        <seg>Kaksoiskappale</seg>
       </tuv>
     </tu>
     <tu>
@@ -10514,6 +10578,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Path</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131459Z" creationid="piav" creationdate="20190920T131459Z">
+        <seg>Polku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Path:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T133022Z" creationid="piav" creationdate="20190916T133022Z">
@@ -11869,6 +11941,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T094432Z" creationid="piav" creationdate="20190522T094432Z">
         <seg>Ratkaise ristiriidat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resource name</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131546Z" creationid="piav" creationdate="20190920T131546Z">
+        <seg>Resurssin nimi</seg>
       </tuv>
     </tu>
     <tu>
@@ -15119,6 +15199,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation is fuzzy</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131454Z" creationid="piav" creationdate="20190920T131454Z">
+        <seg>Käännös on sumea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation last modified by {0} on {1} at {2}</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T125315Z" creationid="PiaVee" creationdate="20171015T125229Z">
@@ -15833,6 +15921,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T120320Z" creationid="piav" creationdate="20190920T120320Z">
         <seg>Tägejä tarkistetaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T131351Z" creationid="piav" creationdate="20190920T131351Z">
+        <seg>Arvo</seg>
       </tuv>
     </tu>
     <tu>
