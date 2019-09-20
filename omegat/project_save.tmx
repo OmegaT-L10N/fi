@@ -1006,6 +1006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset Master Password</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135234Z" creationid="piav" creationdate="20190920T135234Z">
+        <seg>Nollaa pääsalasana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reset Options</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T174654Z" creationid="piav" creationdate="20190521T143053Z">
@@ -2603,6 +2611,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All preferences protected by the master password will be reset.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135345Z" creationid="piav" creationdate="20190920T135345Z">
+        <seg>Kaikki pääsalasanalla suojatut asetukset nollataan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All segmentation rule sets for a matching language pattern are active and are applied in the given order of priority, so rules for specific language should be higher than default ones.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T104717Z" creationid="piav" creationdate="20190913T104717Z">
@@ -2869,6 +2885,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135101Z" creationid="piav" creationdate="20190920T135101Z">
+        <seg>Ulkonäkö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apply &amp;Fix</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T133520Z" creationid="piav" creationdate="20190920T133520Z">
@@ -2905,6 +2929,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T125655Z" creationid="piav" creationdate="20190522T093835Z">
         <seg>Haluatko varmasti palauttaa kaikki mukautetut värit oletuksiksi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to reset the master password?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135327Z" creationid="piav" creationdate="20190920T135327Z">
+        <seg>Haluatko varmasti nollata pääsalasanan?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3899,6 +3931,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T083920Z" creationid="PiaVee" creationdate="20170910T083920Z">
         <seg>Siistitty!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135352Z" creationid="piav" creationdate="20190920T135352Z">
+        <seg>Tyhjennä</seg>
       </tuv>
     </tu>
     <tu>
@@ -6886,6 +6926,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135056Z" creationid="piav" creationdate="20190920T135056Z">
+        <seg>Yleistä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Generalities</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T101906Z" creationid="PiaVee" creationdate="20171014T101906Z">
@@ -9450,6 +9498,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Master Password:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135221Z" creationid="piav" creationdate="20190920T135221Z">
+        <seg>Pääsalasana:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090419Z" creationid="PiaVee" creationdate="20171218T090419Z">
@@ -10214,6 +10270,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not Set</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135302Z" creationid="piav" creationdate="20190920T135255Z">
+        <seg>Ei asetettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not a local repository</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T083949Z" creationid="PiaVee" creationdate="20170910T083949Z">
@@ -10586,6 +10650,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T134211Z" creationid="piav" creationdate="20190521T134211Z">
         <seg>OmegaT:llä ei ole luku- ja kirjoitusoikeuksia tähän kansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135218Z" creationid="piav" creationdate="20190920T135218Z">
+        <seg>OmegaT salaa arat salasanat ja API-avaimet pääsalasanalla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11935,6 +12007,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Provider</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135052Z" creationid="piav" creationdate="20190920T135052Z">
+        <seg>Tarjoaja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proxy Login</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T124745Z" creationid="piav" creationdate="20190916T124625Z">
@@ -12581,6 +12661,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T093819Z" creationid="piav" creationdate="20190522T093813Z">
         <seg>Palauta &amp;kaikki värit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reset Master Password</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135307Z" creationid="piav" creationdate="20190920T135307Z">
+        <seg>Nollaa pääsalasana</seg>
       </tuv>
     </tu>
     <tu>
@@ -13243,6 +13331,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Secure Store</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135118Z" creationid="piav" creationdate="20190920T135118Z">
+        <seg>Suojattu säilö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See "Chapter 3.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T175048Z" creationid="PiaVee" creationdate="20171015T095632Z">
@@ -13631,6 +13727,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T140645Z" creationid="piav" creationdate="20190916T140645Z">
         <seg>Palvelutyyppi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135258Z" creationid="piav" creationdate="20190920T135254Z">
+        <seg>Asetettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set &amp; Stored</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T135246Z" creationid="piav" creationdate="20190920T135246Z">
+        <seg>Asetettu &amp; laitettu talteen</seg>
       </tuv>
     </tu>
     <tu>
