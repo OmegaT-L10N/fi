@@ -3713,8 +3713,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Check &amp;Issues...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T171721Z" creationid="PiaVee" creationdate="20171015T111247Z">
-        <seg>&amp;Tarkista…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133607Z" creationid="PiaVee" creationdate="20171015T111247Z">
+        <seg>&amp;Tarkista ongelmakohdat…</seg>
       </tuv>
     </tu>
     <tu>
@@ -3737,8 +3737,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T171727Z" creationid="PiaVee" creationdate="20171015T111303Z">
-        <seg>Tarkista &amp;nykyinen asiakirja…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133618Z" creationid="PiaVee" creationdate="20171015T111303Z">
+        <seg>Tarkista &amp;nykyisen asiakirjan ongelmakohdat</seg>
       </tuv>
     </tu>
     <tu>
@@ -5241,6 +5241,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T133432Z" creationid="piav" creationdate="20190920T133432Z">
         <seg>Älä kysy, mitä tarkistetaan ensin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't ask before checking issues</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133811Z" creationid="piav" creationdate="20190920T133811Z">
+        <seg>Älä kysy ennen ongelmakohtien tarkistusta</seg>
       </tuv>
     </tu>
     <tu>
@@ -8035,40 +8043,40 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Issues</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T133020Z" creationid="piav" creationdate="20190920T133020Z">
-        <seg>Ongelmat</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133627Z" creationid="piav" creationdate="20190920T133020Z">
+        <seg>Ongelmakohdat</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Issues ({0} of {1})</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T133105Z" creationid="piav" creationdate="20190920T133105Z">
-        <seg>Ongelmat ({0}/{1})</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133721Z" creationid="piav" creationdate="20190920T133105Z">
+        <seg>Ongelmakohdat ({0}/{1})</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Issues ({0})</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T133036Z" creationid="piav" creationdate="20190920T133036Z">
-        <seg>Ongelmat ({0})</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133640Z" creationid="piav" creationdate="20190920T133036Z">
+        <seg>Ongelmakohdat ({0})</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Issues for {0} ({1} of {2})</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T133129Z" creationid="piav" creationdate="20190920T133129Z">
-        <seg>{0}-ongelmat ({1}/{2})</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133732Z" creationid="piav" creationdate="20190920T133129Z">
+        <seg>Tiedoston {0} ongelmakohdat ({1}/{2})</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Issues for {0} ({1})</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T133056Z" creationid="piav" creationdate="20190920T133056Z">
-        <seg>{0}-ongelmat ({1})</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133718Z" creationid="piav" creationdate="20190920T133056Z">
+        <seg>Tiedoston {0} ongelmakohdat ({1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -9916,8 +9924,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>No Issues Found</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T133141Z" creationid="piav" creationdate="20190920T133141Z">
-        <seg>Ongelmia ei kohdattu</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133743Z" creationid="piav" creationdate="20190920T133141Z">
+        <seg>Ongelmallisia kohtia ei löytynyt</seg>
       </tuv>
     </tu>
     <tu>
@@ -14575,8 +14583,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Terminology Issues</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T133556Z" creationid="piav" creationdate="20190920T133556Z">
-        <seg>Terminologiapulmat</seg>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133755Z" creationid="piav" creationdate="20190920T133556Z">
+        <seg>Terminologiaongelmat</seg>
       </tuv>
     </tu>
     <tu>
@@ -17335,6 +17343,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T103722Z" creationid="piav" creationdate="20190916T103722Z">
         <seg>[sumea]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T133940Z" creationid="piav" creationdate="20190920T133940Z">
+        <seg>[{0}] Lähde käyttää termiä {1}, kohteesta oletetaan löytyvän termi {2}</seg>
       </tuv>
     </tu>
     <tu>
