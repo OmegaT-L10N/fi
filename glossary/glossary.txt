@@ -707,3 +707,6 @@ encoding declaration	maininta merkistökoodauksesta
 Error saving	_ tallentamisessa tapahtui virhe
 Pattern	rakenne	mallikuvio
 segmentation rules	segmentointisäännöt
+printf-variable	printf-muuttuja
+Fuzzy Matches	Sumeat osumat
+fuzzy Match	sumea osuma
