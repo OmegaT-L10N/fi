@@ -710,3 +710,4 @@ segmentation rules	segmentointisäännöt
 printf-variable	printf-muuttuja
 Fuzzy Matches	Sumeat osumat
 fuzzy Match	sumea osuma
+Git	Git
