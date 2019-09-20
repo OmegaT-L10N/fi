@@ -5526,6 +5526,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error retrieve {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T130803Z" creationid="piav" creationdate="20190920T130803Z">
+        <seg>{0} etäprojektitiedostona: hakuvirhe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error saving project file!</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T083211Z" creationid="PiaVee" creationdate="20171218T083211Z">
