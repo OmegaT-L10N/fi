@@ -1779,6 +1779,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T134147Z" creationid="piav" creationdate="20190920T134147Z">
+        <seg>&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt;is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T134722Z" creationid="PiaVee" creationdate="20171014T134616Z">
@@ -4095,6 +4103,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Confirm:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T134441Z" creationid="piav" creationdate="20190920T134441Z">
+        <seg>Vahvista:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conflict resolution</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081317Z" creationid="piav" creationdate="20190522T081317Z">
@@ -5722,6 +5738,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124309Z" creationid="PiaVee" creationdate="20171015T124309Z">
         <seg>Kirjoita segmentin numero:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter your master password.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T134415Z" creationid="piav" creationdate="20190920T134415Z">
+        <seg>Kirjoita pääsalasanasi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7483,6 +7507,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T093821Z" creationid="PiaVee" creationdate="20171015T093821Z">
         <seg>Jos komento annetaan versionhallintapuun tai SVN-checkoutin yhteydessä, tulokset valmistellaan tai lisätään tähän.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T134319Z" creationid="piav" creationdate="20190920T134319Z">
+        <seg>Jos ongelmakohtien tarkistus sujuu hitaasti, yritä ottaa jotkin valinnaiset tarkistukset pois käytöstä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9358,6 +9390,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T082851Z" creationid="piav" creationdate="20190522T082851Z">
         <seg>Maski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Master Password</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T134325Z" creationid="piav" creationdate="20190920T134325Z">
+        <seg>Pääsalasana</seg>
       </tuv>
     </tu>
     <tu>
@@ -13323,6 +13363,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Issue Types</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T134155Z" creationid="piav" creationdate="20190920T134155Z">
+        <seg>Valitse ongelmakohtien tyypit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T171209Z" creationid="PiaVee" creationdate="20171015T103925Z">
@@ -13403,6 +13451,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select issue types to check.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T134208Z" creationid="piav" creationdate="20190920T134208Z">
+        <seg>Valitse, millaisia ongelmakohtia tarkistetaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select languagetool-server.jar</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T140456Z" creationid="piav" creationdate="20190916T140456Z">
@@ -13471,6 +13527,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T110556Z" creationid="piav" creationdate="20190913T110556Z">
         <seg>Aseta komentosarjakansio…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set a master password to protect your private data.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T134347Z" creationid="piav" creationdate="20190920T134347Z">
+        <seg>Aseta pääsalasana, joka suojaa henkilökohtaisia tietojasi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14994,6 +15058,22 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T093844Z" creationid="piav" creationdate="20190522T093844Z">
         <seg>Uudet värit on tallennettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password cannot be empty.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T134508Z" creationid="piav" creationdate="20190920T134508Z">
+        <seg>Salasanassa on oltava merkkejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password you entered did not match.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T134435Z" creationid="piav" creationdate="20190920T134435Z">
+        <seg>Kirjoittamasi salasana ei ollut oikeanlainen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17278,6 +17358,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T132041Z" creationid="piav" creationdate="20190521T132041Z">
         <seg>Osoita niiden uusi sijainti tai luo ne uudestaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T134405Z" creationid="piav" creationdate="20190920T134405Z">
+        <seg>Joka kerta, kun käynnistät OmegaT-ohjelman, sinulta kysytään tätä salasanaa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20861,6 +20949,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0}.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T134144Z" creationid="piav" creationdate="20190920T134144Z">
+        <seg>{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0}/{1}</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081501Z" creationid="piav" creationdate="20190522T081501Z">
@@ -20897,6 +20993,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T133918Z" creationid="piav" creationdate="20190916T133918Z">
         <seg>{1}, suoritussijainti '{2}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T134145Z" creationid="piav" creationdate="20190920T134145Z">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
       </tuv>
     </tu>
     <tu>
