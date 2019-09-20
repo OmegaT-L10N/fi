@@ -1346,6 +1346,16 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(You will still able to use OmegaT
+3.6 to edit this project as a team project.)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T125106Z" creationid="piav" creationdate="20190920T125106Z">
+        <seg>(Voit silti käyttää OmegaT-versiota 3.6
+projektin muokkaamiseen ryhmäprojektina.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(close tag)</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T174711Z" creationid="piav" creationdate="20190521T174711Z">
@@ -10737,6 +10747,24 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press 'Cancel' to leave the project unmodified and load it as a local
+project without team functionality.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T124936Z" creationid="piav" creationdate="20190920T124936Z">
+        <seg>Napsauta Peruuta, niin projektia ei muokata ja saat ladattua paikallisen
+projektin ilman ryhmäominaisuutta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press 'OK' to convert the project into a 4.x-style team project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T124713Z" creationid="piav" creationdate="20190920T124713Z">
+        <seg>Napsauta OK, niin projekti muunnetaan 4.x-tyyliseksi ryhmäprojektiksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T064735Z" creationid="piav" creationdate="20190522T064312Z">
@@ -14229,6 +14257,18 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T151815Z" creationid="PiaVee" creationdate="20171014T151815Z">
         <seg>Tämän lisäksi saneistimet parantavat sanasto-osumia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This
+will delete your local data and re-download the project contents from
+the server.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20190920T124819Z" creationid="piav" creationdate="20190920T124819Z">
+        <seg>Tämä
+poistaa projektisi paikalliset tiedot ja lataa projektisisällön uudelleen
+palvelimelta.</seg>
       </tuv>
     </tu>
     <tu>
