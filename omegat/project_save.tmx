@@ -1450,6 +1450,14 @@ Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projekti
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(XY)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T155416Z" creationid="piav" creationdate="20191022T155416Z">
+        <seg>(XY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(You will still able to use OmegaT
 3.6 to edit this project as a team project.)</seg>
       </tuv>
@@ -2327,6 +2335,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T132519Z" creationid="piav" creationdate="20190916T132519Z">
         <seg>Muistiinpano on pieni kommentti, joka koskee kyseistä lähdeteksti- ja käännöskohtaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T155533Z" creationid="piav" creationdate="20191022T155533Z">
+        <seg>Säännöllisten lausekkeiden kehittämiseen ja testaamiseen on olemassa monia interaktiivisia työkaluja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6110,6 +6126,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Either X or Y</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T155415Z" creationid="piav" creationdate="20191022T155415Z">
+        <seg>Joko X tai Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Email:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T141857Z" creationid="piav" creationdate="20190916T141857Z">
@@ -7264,8 +7288,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>For example, &lt;e0&gt;a+?&lt;/e0&gt; will match the first &lt;e1&gt;a&lt;/e1&gt; in &lt;e2&gt;aaabbb&lt;/e2&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T155223Z" creationid="piav" creationdate="20191022T155223Z">
-        <seg>Esimerkiksi &lt;e0&gt;a+?&lt;/e0&gt; löytää ilmauksesta &lt;e2&gt;aaabbb&lt;/e2&gt; ensimmäisen &lt;e1&gt;a&lt;/e1&gt;-merkin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T155353Z" creationid="piav" creationdate="20191022T155223Z">
+        <seg>Esimerkiksi &lt;e0&gt;a+?&lt;/e0&gt; löytää ilmauksesta &lt;e1&gt;aaabbb&lt;/e1&gt; ensimmäisen &lt;e2&gt;a&lt;/e2&gt;-merkin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13063,6 +13087,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Logical operators</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T155402Z" creationid="piav" creationdate="20191022T155331Z">
+        <seg>Regex – Loogiset operaattorit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex - Predefined character classes</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T154350Z" creationid="piav" creationdate="20191022T154350Z">
@@ -13083,6 +13115,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T155101Z" creationid="piav" creationdate="20191022T155101Z">
         <seg>Regex – Vastahakoiset (ei-ahneet) rajoittimet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex tools and examples of use</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T155438Z" creationid="piav" creationdate="20191022T155438Z">
+        <seg>Regex-työkalut ja esimerkkejä niiden käytöstä</seg>
       </tuv>
     </tu>
     <tu>
@@ -16943,6 +16983,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T155657Z" creationid="piav" creationdate="20191022T155657Z">
+        <seg>Yleensä ne seuraavat samankaltaista rakennetta (alla on Regular Expression Tester -esimerkki): säännöllinen lauseke (ylin </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This
 will delete your local data and re-download the project contents from
 the server.</seg>
@@ -18857,6 +18905,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>X followed by Y</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T155410Z" creationid="piav" creationdate="20191022T155410Z">
+        <seg>X ja sen jälkeen Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>X*?</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T155106Z" creationid="piav" creationdate="20191022T155106Z">
@@ -18969,10 +19025,34 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>XY</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T155404Z" creationid="piav" creationdate="20191022T155404Z">
+        <seg>XY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XY as a single group</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T155422Z" creationid="piav" creationdate="20191022T155422Z">
+        <seg>XY yhtenä ryhmänä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Xhosa</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082316Z" creationid="PiaVee" creationdate="20171015T082316Z">
         <seg>xhosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X|Y</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T155411Z" creationid="piav" creationdate="20191022T155411Z">
+        <seg>X|Y</seg>
       </tuv>
     </tu>
     <tu>
