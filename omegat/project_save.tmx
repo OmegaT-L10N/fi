@@ -15181,6 +15181,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TBX - Term Base eXchange - is the open, XML-based standard for exchanging structured terminological data, TBX has been approved as an international standard by LISA and ISO.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T082226Z" creationid="piav" creationdate="20191022T082226Z">
+        <seg>TBX - Term Base eXchange - on avoin XML:ään perustuva tiedostostandardi, jonka avulla voidaan siirtää jäsenneltyjä terminologiatietoja. Lokalisointiteollisuuden järjestö LISA ja kansainvälinen standardisoimisjärjestö ISO ovat hyväksyneet TBX-muodon kansainväliseksi standardiksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TM Matches</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T122636Z" creationid="piav" creationdate="20190916T122636Z">
@@ -19623,6 +19631,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T144855Z" creationid="PiaVee" creationdate="20171014T144855Z">
         <seg>http://www.languagetool.org/languages/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.microsoft.com/Language/en-US/Terminology.aspx</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T081658Z" creationid="piav" creationdate="20191022T081658Z">
+        <seg>http://www.microsoft.com/Language/en-US/Terminology.aspx</seg>
       </tuv>
     </tu>
     <tu>
