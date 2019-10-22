@@ -12849,8 +12849,8 @@ projektin ilman ryhmäominaisuutta.</seg>
       <tuv lang="EN">
         <seg>Regular expressions</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T084026Z" creationid="piav" creationdate="20191022T084026Z">
-        <seg>FZZ &amp;Säännölliset lausekkeet</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T145227Z" creationid="piav" creationdate="20191022T084026Z">
+        <seg>Säännölliset lausekkeet</seg>
       </tuv>
     </tu>
     <tu>
@@ -16234,6 +16234,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T083357Z" creationid="piav" creationdate="20191022T083357Z">
         <seg>Tuetut tiedostomuodot ovat &lt;f1&gt;TXT&lt;/f1&gt; ja &lt;f2&gt;UTF8&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T145459Z" creationid="piav" creationdate="20191022T145459Z">
+        <seg>Hakutoiminnoissa ja segmentointisäännöissä käytetään Java-ohjelmointikielen tukemia säännöllisiä lausekkeita (lyhyesti: regex).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19839,6 +19847,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174223Z" creationid="PiaVee" creationdate="20171014T174223Z">
         <seg>ht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T145232Z" creationid="piav" creationdate="20191022T145232Z">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html</seg>
       </tuv>
     </tu>
     <tu>
