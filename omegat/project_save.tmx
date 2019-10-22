@@ -10958,6 +10958,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Of course, the encoding must be compatible with both the languages contained, so Unicode is recommended.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T081035Z" creationid="piav" creationdate="20191022T081002Z">
+        <seg>Merkistökoodauksen täytyy tietysti sopia molemmille tiedoston kielille, joten on suositeltavaa käyttää Unicode-merkistökoodausta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ojibwe, Ojibwa</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T080736Z" creationid="PiaVee" creationdate="20171015T080736Z">
@@ -15796,6 +15804,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The encoding of glossaries is determined automatically.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T080931Z" creationid="piav" creationdate="20191022T080900Z">
+        <seg>Sanastojen merkistökoodaus määritetään automaattisesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T072138Z" creationid="piav" creationdate="20191022T072138Z">
@@ -18270,6 +18286,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T125029Z" creationid="PiaVee" creationdate="20170908T124927Z">
         <seg>Voit palata &lt;a0&gt;kotisivulle&lt;/a0&gt;, toivottavasti löydät tarvitsemasi tiedon sieltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can have entries with the target column missing, i.e. just containing the source term and the comment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T080835Z" creationid="piav" creationdate="20191022T080835Z">
+        <seg>Kohdekielinen sarake voi olla tyhjä. Sanaston termi voi siis koostua pelkästään lähtökielisestä termistä ja kommentista.</seg>
       </tuv>
     </tu>
     <tu>
