@@ -6846,6 +6846,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File format</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T080444Z" creationid="piav" creationdate="20191022T080444Z">
+        <seg>Tiedostomuoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File locations</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T091111Z" creationid="PiaVee" creationdate="20171218T091111Z">
@@ -7362,6 +7370,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T074625Z" creationid="piav" creationdate="20190522T071003Z">
         <seg>Sanastotiedosto: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T080643Z" creationid="piav" creationdate="20191022T080516Z">
+        <seg>Sanastotiedostot ovat yksinkertaisia pelkkiä tekstitiedostoja. Niissä on kolme saraketta, jotka on erotettu toisistaan sarkaimilla. Ensimmäisessä sarakkeessa on lähtökielinen ja toisessa kohdekielinen termi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16058,6 +16074,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190919T131933Z" creationid="piav" creationdate="20190919T131933Z">
         <seg>Tekstin koko ylittää suurimman sallitun koon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The third column can be used for additional information.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T080733Z" creationid="piav" creationdate="20191022T080733Z">
+        <seg>Kolmas sarake on lisätietoja varten.</seg>
       </tuv>
     </tu>
     <tu>
