@@ -560,8 +560,8 @@
       <tuv lang="EN">
         <seg>&amp;Glossary</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T070803Z" creationid="PiaVee" creationdate="20171015T111629Z">
-        <seg>&amp;Termilista</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074416Z" creationid="PiaVee" creationdate="20171015T111629Z">
+        <seg>&amp;Sanasto</seg>
       </tuv>
     </tu>
     <tu>
@@ -1360,8 +1360,8 @@
       <tuv lang="EN">
         <seg>&amp;Writeable Glossary</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T070744Z" creationid="PiaVee" creationdate="20171015T102853Z">
-        <seg>K&amp;irjoituskelpoinen termilista</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074403Z" creationid="PiaVee" creationdate="20171015T102853Z">
+        <seg>K&amp;irjoituskelpoinen sanasto</seg>
       </tuv>
     </tu>
     <tu>
@@ -3657,8 +3657,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T070843Z" creationid="PiaVee" creationdate="20171218T084843Z">
-        <seg>Termilistakansioon ei pääse käsiksi!</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074451Z" creationid="PiaVee" creationdate="20171218T084843Z">
+        <seg>Sanastokansioon ei pääse käsiksi!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4615,8 +4615,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T070759Z" creationid="PiaVee" creationdate="20171015T103857Z">
-        <seg>Luo &amp;termilistan termi…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074409Z" creationid="PiaVee" creationdate="20171015T103857Z">
+        <seg>Luo &amp;sanaston termi…</seg>
       </tuv>
     </tu>
     <tu>
@@ -4647,8 +4647,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Create Glossary Entry</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T070947Z" creationid="piav" creationdate="20190522T070947Z">
-        <seg>Luo termilistan termi</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074614Z" creationid="piav" creationdate="20190522T070947Z">
+        <seg>Luo sanaston termi</seg>
       </tuv>
     </tu>
     <tu>
@@ -7312,24 +7312,24 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Glossary</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T070838Z" creationid="PiaVee" creationdate="20171015T122202Z">
-        <seg>Termilista</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074441Z" creationid="PiaVee" creationdate="20171015T122202Z">
+        <seg>Sanasto</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Glossary Files Folder</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T070858Z" creationid="piav" creationdate="20190521T131827Z">
-        <seg>Termilistojen kansio</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074521Z" creationid="piav" creationdate="20190521T131827Z">
+        <seg>Sanastotiedostojen kansio</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Glossary Folder:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T070847Z" creationid="PiaVee" creationdate="20171218T091257Z">
-        <seg>Termilistakansio:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074455Z" creationid="PiaVee" creationdate="20171218T091257Z">
+        <seg>Sanastokansio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7368,8 +7368,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T070911Z" creationid="piav" creationdate="20190521T133812Z">
-        <seg>Annettua termilistojen kansiota ei ole!</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074538Z" creationid="piav" creationdate="20190521T133812Z">
+        <seg>Annettua sanastotiedostojen kansiota ei ole!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9476,16 +9476,16 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Loading glossaries</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T094449Z" creationid="PiaVee" creationdate="20171218T083050Z">
-        <seg>Ladataan termilistoja…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074447Z" creationid="PiaVee" creationdate="20171218T083050Z">
+        <seg>Ladataan sanastoja…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Loading glossary {0}</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T094525Z" creationid="piav" creationdate="20190521T175526Z">
-        <seg>Ladataan termilistaa {0}</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074608Z" creationid="piav" creationdate="20190521T175526Z">
+        <seg>Ladataan sanastoa {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12929,8 +12929,8 @@ projektin ilman ryhmäominaisuutta.</seg>
       <tuv lang="EN">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T070836Z" creationid="PiaVee" creationdate="20171015T122139Z">
-        <seg>&amp;Korvaa termilistaosumat lähtötekstiä lisättäessä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074436Z" creationid="PiaVee" creationdate="20171015T122139Z">
+        <seg>&amp;Korvaa sanasto-osumat lähtötekstiä lisättäessä</seg>
       </tuv>
     </tu>
     <tu>
@@ -16048,8 +16048,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The writeable glossary file must be inside the glossary folder</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T070923Z" creationid="piav" creationdate="20190521T133853Z">
-        <seg>Kirjoituskelpoisen termilistatiedoston on oltava termilistakansiossa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074558Z" creationid="piav" creationdate="20190521T133853Z">
+        <seg>Kirjoituskelpoisen sanastotiedoston on oltava sanastokansiossa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17383,8 +17383,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>Use &amp;stemming for glossary entries</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T070827Z" creationid="PiaVee" creationdate="20171015T122036Z">
-        <seg>Käytä termilistan termeissä &amp;vartaloita</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074430Z" creationid="PiaVee" creationdate="20171015T122036Z">
+        <seg>Käytä sanaston termeissä &amp;vartaloita</seg>
       </tuv>
     </tu>
     <tu>
@@ -17971,24 +17971,24 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       <tuv lang="EN">
         <seg>Writeable Glossary File</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T070904Z" creationid="piav" creationdate="20190521T131923Z">
-        <seg>Kirjoituskelpoinen termilistatiedosto</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074526Z" creationid="piav" creationdate="20190521T131923Z">
+        <seg>Kirjoituskelpoinen sanastotiedosto</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Writeable Glossary File:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T070853Z" creationid="PiaVee" creationdate="20171218T091308Z">
-        <seg>Kirjoituskelpoinen termilistatiedosto:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074501Z" creationid="PiaVee" creationdate="20171218T091308Z">
+        <seg>Kirjoituskelpoinen sanastotiedosto:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Writeable glossary file folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T070915Z" creationid="piav" creationdate="20190521T133828Z">
-        <seg>Annettua kirjoituskelpoisen termilistan kansiota ei ole!</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074547Z" creationid="piav" creationdate="20190521T133828Z">
+        <seg>Annettua kirjoituskelpoisen sanastotiedoston kansiota ei ole!</seg>
       </tuv>
     </tu>
     <tu>
