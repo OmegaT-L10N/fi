@@ -2245,8 +2245,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T153600Z" creationid="piav" creationdate="20191022T153523Z">
-        <seg>Kreikan blokissa oleva merkki (yksinkertaisesti &lt;u0&gt; blokki&lt;/u0&gt;)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154019Z" creationid="piav" creationdate="20191022T153523Z">
+        <seg>Kreikan blokissa oleva merkki (yksinkertainen &lt;u0&gt; blokki&lt;/u0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2967,8 +2967,8 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       <tuv lang="EN">
         <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T153611Z" creationid="piav" creationdate="20191022T153551Z">
-        <seg>Iso kirjain (yksinkertaisesti &lt;u0&gt;kategoria&lt;/u0&gt;)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154025Z" creationid="piav" creationdate="20191022T153551Z">
+        <seg>Iso kirjain (yksinkertainen &lt;u0&gt;kategoria&lt;/u0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2989,10 +2989,18 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any character except a, b, or c (negation)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154050Z" creationid="piav" creationdate="20191022T154050Z">
+        <seg>Mikä tahansa muu merkki ku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Any character except one in the Greek block (negation)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T153726Z" creationid="piav" creationdate="20191022T153726Z">
-        <seg>Mikä tahansa muu merkki kuin kreikan blokissa oleva (negaatio)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154110Z" creationid="piav" creationdate="20191022T153726Z">
+        <seg>Mikä tahansa merkki paitsi ei kreikan blokissa oleva (negaatio)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12911,6 +12919,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Character classes</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T153945Z" creationid="piav" creationdate="20191022T153945Z">
+        <seg>Regex – Merkkiluokat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex - Classes for Unicode blocks and categories</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T153059Z" creationid="piav" creationdate="20191022T153059Z">
@@ -19011,6 +19027,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[^abc]</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154031Z" creationid="piav" creationdate="20191022T154031Z">
+        <seg>[^abc]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[abc]</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T153947Z" creationid="piav" creationdate="20191022T153947Z">
+        <seg>[abc]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>[fuzzy]</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T103722Z" creationid="piav" creationdate="20190916T103722Z">
@@ -19191,6 +19223,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T152425Z" creationid="piav" creationdate="20191022T152425Z">
         <seg>\xhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a, b, or c (simple class)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154001Z" creationid="piav" creationdate="20191022T154001Z">
+        <seg>a, b tai c (yksinkertainen luokka)</seg>
       </tuv>
     </tu>
     <tu>
