@@ -2477,7 +2477,7 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T074831Z" creationid="piav" creationdate="20190522T074831Z">
+      <tuv lang="FI" changeid="piav" changedate="20191022T075810Z" creationid="piav" creationdate="20190522T074831Z">
         <seg>Kaksoisnapsauttamalla haluamaasi merkkiä saat sen lisättyä mukautettuun taulukkoon. Voit myös maalata merkin ja painaa Ins-näppäintä. </seg>
       </tuv>
     </tu>
@@ -2621,16 +2621,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Aligner Highlight</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T093723Z" creationid="piav" creationdate="20190522T093647Z">
-        <seg>Kohdistin: korostus</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T075815Z" creationid="piav" creationdate="20190522T093647Z">
+        <seg>Kohdistin: maalaus</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Aligner Table Row Highlight</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T093733Z" creationid="piav" creationdate="20190522T093733Z">
-        <seg>Kohdistin: taulukon rivin korostus</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T075821Z" creationid="piav" creationdate="20190522T093733Z">
+        <seg>Kohdistin: taulukon rivin maalaus</seg>
       </tuv>
     </tu>
     <tu>
@@ -7642,6 +7642,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T110449Z" creationid="piav" creationdate="20190913T102135Z">
         <seg>Korosta lausekekuvio…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T075805Z" creationid="piav" creationdate="20191022T075721Z">
+        <seg>Maalaa termi sanastoruudussa ja </seg>
       </tuv>
     </tu>
     <tu>
@@ -16042,6 +16050,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T063851Z" creationid="piav" creationdate="20190522T063851Z">
         <seg>Käännös on muuttunut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The underlined item "pop-up menu" can be found in the glossary pane as "pojavni menu".</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T075643Z" creationid="piav" creationdate="20191022T075643Z">
+        <seg>Alleviivattu termi "pop-up menu" on sanastoruudussa "pojavni menu".</seg>
       </tuv>
     </tu>
     <tu>
