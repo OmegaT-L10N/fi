@@ -1671,8 +1671,8 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
       <tuv lang="EN">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T073932Z" creationid="piav" creationdate="20190913T111215Z">
-        <seg>…mutta samat merkit näkyvät oikein Muokkaus-ruudussa: tiedostopääte ja tiedostokoodaus eroavat toisistaan.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T084017Z" creationid="piav" creationdate="20190913T111215Z">
+        <seg>…mutta samat merkit näkyvät oikein muokkausruudussa: tiedostopääte ja tiedostokoodaus eroavat toisistaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7448,8 +7448,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Glossary pane</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T074033Z" creationid="piav" creationdate="20191022T074017Z">
-        <seg>Sanasto-ruutu</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T083941Z" creationid="piav" creationdate="20191022T074017Z">
+        <seg>Sanastoruutu</seg>
       </tuv>
     </tu>
     <tu>
@@ -12799,6 +12799,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regular expressions</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T084026Z" creationid="piav" creationdate="20191022T084026Z">
+        <seg>FZZ &amp;Säännölliset lausekkeet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reload</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T131757Z" creationid="piav" creationdate="20190920T131757Z">
@@ -15567,8 +15575,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T073921Z" creationid="piav" creationdate="20191022T073811Z">
-        <seg>Jos aktiivisessa segmentissä on termejä, joita &lt;a2&gt;OmegaT&lt;/a2&gt; löytää myös sanastotiedosto(i)sta, termit näkyvät Sanasto-ruudussa:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T083939Z" creationid="piav" creationdate="20191022T073811Z">
+        <seg>Jos aktiivisessa segmentissä on termejä, joita &lt;a2&gt;OmegaT&lt;/a2&gt; löytää myös sanastotiedosto(i)sta, termit näkyvät sanastoruudussa:</seg>
       </tuv>
     </tu>
     <tu>
