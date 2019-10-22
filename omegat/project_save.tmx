@@ -7256,8 +7256,16 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T155046Z" creationid="piav" creationdate="20191022T155046Z">
-        <seg>Esimerkiksi &lt;e0&gt;a+&lt;/e0&gt; löytää ilmaisusta &lt;e1&gt;aaabbb&lt;/e1&gt; joukon aaa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T155234Z" creationid="piav" creationdate="20191022T155046Z">
+        <seg>Esimerkiksi &lt;e0&gt;a+&lt;/e0&gt; löytää ilmauksesta &lt;e1&gt;aaabbb&lt;/e1&gt; joukon aaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, &lt;e0&gt;a+?&lt;/e0&gt; will match the first &lt;e1&gt;a&lt;/e1&gt; in &lt;e2&gt;aaabbb&lt;/e2&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T155223Z" creationid="piav" creationdate="20191022T155223Z">
+        <seg>Esimerkiksi &lt;e0&gt;a+?&lt;/e0&gt; löytää ilmauksesta &lt;e2&gt;aaabbb&lt;/e2&gt; ensimmäisen &lt;e1&gt;a&lt;/e1&gt;-merkin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13071,6 +13079,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Reluctant (non-greedy) quantifiers</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T155101Z" creationid="piav" creationdate="20191022T155101Z">
+        <seg>Regex – Vastahakoiset (ei-ahneet) rajoittimet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103903Z" creationid="PiaVee" creationdate="20171015T103831Z">
@@ -18841,6 +18857,22 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>X*?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T155106Z" creationid="piav" creationdate="20191022T155106Z">
+        <seg>X*?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X+?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T155108Z" creationid="piav" creationdate="20191022T155108Z">
+        <seg>X+?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>X, once or not at all</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T154836Z" creationid="piav" creationdate="20191022T154836Z">
@@ -18885,6 +18917,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T154813Z" creationid="piav" creationdate="20191022T154813Z">
         <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X??</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T155103Z" creationid="piav" creationdate="20191022T155103Z">
+        <seg>X??</seg>
       </tuv>
     </tu>
     <tu>
@@ -21697,6 +21737,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T175017Z" creationid="PiaVee" creationdate="20171014T175017Z">
         <seg>nob</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>non-greedy quantifiers will match as little as they can.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T155128Z" creationid="piav" creationdate="20191022T155128Z">
+        <seg>Ei-ahneet rajoittimet löytävät mahdollisimman vähän osumia.</seg>
       </tuv>
     </tu>
     <tu>
