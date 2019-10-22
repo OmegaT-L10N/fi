@@ -11378,6 +11378,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One or more of the above problems may have been fixed, but the project has not been reloaded.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T084818Z" creationid="piav" creationdate="20191022T084818Z">
+        <seg>Yksi tai useampi yllä mainituista ongelmista on korjattu, mutta projektia ei ole ladattu uudelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only if (X)HTML file has a &amp;header</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T081835Z" creationid="piav" creationdate="20190913T081835Z">
@@ -12347,6 +12355,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T084755Z" creationid="PiaVee" creationdate="20171218T084755Z">
         <seg>Ongelma projektitiedoston lataamisessa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Problem: In the glossary pane, some characters are not displayed properly</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T084841Z" creationid="piav" creationdate="20191022T084841Z">
+        <seg>Ongelma: Jotkin merkit näkyvät väärin sanastoruudussa </seg>
       </tuv>
     </tu>
     <tu>
