@@ -3903,6 +3903,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T070411Z" creationid="piav" creationdate="20191022T070411Z">
+        <seg>Tarkista kohdassa &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;Projekti&lt;/g6&gt; &lt;g7&gt;Ominaisuudet&lt;/g7&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check simple &amp;java MessageFormat patterns (e.g. {0})</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T125613Z" creationid="piav" creationdate="20190916T125613Z">
@@ -6688,8 +6696,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Failed to fetch latest version info: {0}</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T141002Z" creationid="piav" creationdate="20190920T140954Z">
-        <seg>Viimeisimmän versiotiedon nouto ei onnistunut: {0}</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T070206Z" creationid="piav" creationdate="20190920T140954Z">
+        <seg>Uusimman version tietojen nouto ei onnistunut: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -13647,6 +13655,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T101449Z" creationid="PiaVee" creationdate="20171219T101449Z">
         <seg>Etsi tarvittua kieliyhdistelmää esimerkiksi &lt;u0&gt;&lt;i1/&gt;OmegaT-wikin sanakirjalinkkien&lt;/u0&gt; avulla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T070300Z" creationid="piav" creationdate="20191022T070300Z">
+        <seg>Etsi haluttua kieliyhdistelmää esimerkiksi &lt;u0&gt;&lt;i1/&gt;OmegaT-wikin sanakirjalinkeistä&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
