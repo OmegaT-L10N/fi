@@ -10742,6 +10742,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that in the above case, this is just half (or even less) of the story, as the target language (Slovenian) uses declension.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T080239Z" creationid="piav" creationdate="20191022T080239Z">
+        <seg>Huomaa, että tässä on vain puolet (tai sitäkin vähemmän) totuudesta, sillä kohdekieli (sloveeni) käyttää taivutettuja sanamuotoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T105350Z" creationid="piav" creationdate="20190522T083417Z">
@@ -14471,6 +14479,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081525Z" creationid="PiaVee" creationdate="20171015T081525Z">
         <seg>sloveeni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So it is probably faster to type the term correctly right away without bothering with the glossary and its shortcuts.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T080441Z" creationid="piav" creationdate="20191022T080441Z">
+        <seg>Siksi voi olla nopeampaa näpyttää termi heti oikein välittämättä sanastosta ja sen näppäinyhdistelmistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So the inserted "pojavni meni" in the nominative form - has to be changed to "pojavnem meniju" , i.e. to the locative.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T080324Z" creationid="piav" creationdate="20191022T080324Z">
+        <seg>Lisätty termi "pojavni menu" on nominatiivissa mutta se on muutettava lokatiivimuotoon "pojavnem meniju".</seg>
       </tuv>
     </tu>
     <tu>
