@@ -17140,6 +17140,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is much the same as the above example.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T160234Z" creationid="piav" creationdate="20191022T160234Z">
+        <seg>Ohjelma on paljolti samanlainen kuin yllä oleva esimerkki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is no problem for files encoded in Unicode using a 16 bit character encoding set.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190515T072646Z" creationid="PiaVee" creationdate="20171220T093909Z">
