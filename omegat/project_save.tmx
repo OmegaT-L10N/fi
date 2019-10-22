@@ -14483,6 +14483,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Should you need more specific information, consult the &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T145555Z" creationid="piav" creationdate="20191022T145555Z">
+        <seg>Jos haluat tarkempaa tietoa säännöllisistä lausekkeista, tutustu &lt;u0&gt;Javan regex-dokumentaatioon&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T065925Z" creationid="piav" creationdate="20190522T065925Z">
