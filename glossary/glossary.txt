@@ -713,3 +713,4 @@ fuzzy Match	sumea osuma
 Git	Git
 team project	ryhmäprojekti
 Master Password	pääsalasana
+Glossary viewer	Sanaston esikatselu
