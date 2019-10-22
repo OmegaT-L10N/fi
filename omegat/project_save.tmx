@@ -2227,6 +2227,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T082850Z" creationid="piav" creationdate="20191022T082850Z">
+        <seg>Dialogi-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T132519Z" creationid="piav" creationdate="20190916T132519Z">
@@ -7762,6 +7770,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T123619Z" creationid="PiaVee" creationdate="20171218T123428Z">
         <seg>Home*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to create glossaries</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T082659Z" creationid="piav" creationdate="20191022T082659Z">
+        <seg>Sanastojen luominen</seg>
       </tuv>
     </tu>
     <tu>
@@ -13329,6 +13345,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T082831Z" creationid="piav" creationdate="20191022T082831Z">
+        <seg>Lisää uusi termi napsauttamalla sanastoruudussa hiiren kakkospainikkeella tai painamalla &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T121247Z" creationid="PiaVee" creationdate="20171015T110311Z">
@@ -16050,6 +16074,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T125701Z" creationid="piav" creationdate="20190920T125701Z">
         <seg>Projektikansio {0} puuttuu, eikä sitä voitu luoda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The project setting allows one to enter a name for a writable glossary file (see beginning of this chapter).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T082736Z" creationid="piav" creationdate="20191022T082736Z">
+        <seg>Projektin asetuksissa voi nimetä kirjoituskelpoisen sanastotiedoston (ks. tämän luvun alkuosa).</seg>
       </tuv>
     </tu>
     <tu>
