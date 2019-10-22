@@ -12831,10 +12831,18 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Character</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T150306Z" creationid="piav" creationdate="20191022T150252Z">
+        <seg>Regex – Merkki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex - Flags</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T145754Z" creationid="piav" creationdate="20191022T145754Z">
-        <seg>Regex-merkinnät</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T150300Z" creationid="piav" creationdate="20191022T145754Z">
+        <seg>Regex – Merkinnät</seg>
       </tuv>
     </tu>
     <tu>
@@ -15930,10 +15938,18 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The character with hexadecimal value 0xhhhh</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T150333Z" creationid="piav" creationdate="20191022T150333Z">
+        <seg>Merkki, jonka heksadesimaaliarvo on 0xhhhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The character x, except the following...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T111249Z" creationid="piav" creationdate="20190913T111249Z">
-        <seg>Merkki x, paitsi seuraava…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T150318Z" creationid="piav" creationdate="20190913T111249Z">
+        <seg>Merkki x, paitsi seuraavat…</seg>
       </tuv>
     </tu>
     <tu>
@@ -16198,6 +16214,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The newline (line feed) character ('\u000A')</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T150521Z" creationid="piav" creationdate="20191022T150521Z">
+        <seg>Rivinvaihtomerkki (\u000A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The password cannot be empty.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T134508Z" creationid="piav" creationdate="20190920T134508Z">
@@ -16386,6 +16410,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T105806Z" creationid="piav" creationdate="20190913T105806Z">
         <seg>Kielikuvion merkkijonossa käytetään säännöllisten lausekkeiden syntaksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The tab character ('\u0009')</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T150349Z" creationid="piav" creationdate="20191022T150349Z">
+        <seg>Sarkainmerkki (\u0009)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18823,6 +18855,30 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T133940Z" creationid="piav" creationdate="20190920T133940Z">
         <seg>[{0}] Lähde käyttää termiä {1}, kohteesta oletetaan löytyvän termi {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\n</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T150350Z" creationid="piav" creationdate="20191022T150350Z">
+        <seg>\n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\t</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T150334Z" creationid="piav" creationdate="20191022T150334Z">
+        <seg>\t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\uhhhh</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T150319Z" creationid="piav" creationdate="20191022T150319Z">
+        <seg>\uhhhh</seg>
       </tuv>
     </tu>
     <tu>
@@ -22137,6 +22193,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082300Z" creationid="PiaVee" creationdate="20171015T082300Z">
         <seg>wol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>x</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T150310Z" creationid="piav" creationdate="20191022T150310Z">
+        <seg>x</seg>
       </tuv>
     </tu>
     <tu>
