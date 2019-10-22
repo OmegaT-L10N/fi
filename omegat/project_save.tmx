@@ -7382,6 +7382,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary pane</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074033Z" creationid="piav" creationdate="20191022T074017Z">
+        <seg>Sanasto-ruutu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124316Z" creationid="PiaVee" creationdate="20171015T124316Z">
@@ -16010,6 +16018,22 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T135229Z" creationid="PiaVee" creationdate="20171014T135229Z">
         <seg>Käyttäjäryhmä on samalla pääasiallinen yhteistyökanava käyttäjien ja projektitiimin välillä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The vocabulary entry can have a comment added.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074222Z" creationid="piav" creationdate="20191022T074222Z">
+        <seg>Termi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The word before the = sign is the source term, and its translation is (or are) the words after =.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074208Z" creationid="piav" creationdate="20191022T074208Z">
+        <seg>Ensin on lähtökielinen termi, sitten yhtäläisyysmerkki, jo lopuksi termin käännös/käännökset.</seg>
       </tuv>
     </tu>
     <tu>
