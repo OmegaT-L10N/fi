@@ -2245,8 +2245,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T153523Z" creationid="piav" creationdate="20191022T153523Z">
-        <seg>Kreikan blokissa oleva merkki (yksinkartainen &lt;u0&gt; blokki&lt;/u0&gt;)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T153600Z" creationid="piav" creationdate="20191022T153523Z">
+        <seg>Kreikan blokissa oleva merkki (yksinkertaisesti &lt;u0&gt; blokki&lt;/u0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A currency symbol</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T153621Z" creationid="piav" creationdate="20191022T153621Z">
+        <seg>Rahayksikön tunnus</seg>
       </tuv>
     </tu>
     <tu>
@@ -2957,6 +2965,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T153611Z" creationid="piav" creationdate="20191022T153551Z">
+        <seg>Iso kirjain (yksinkertaisesti &lt;u0&gt;kategoria&lt;/u0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Analyzing strings - {0} of {1} completed</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T082754Z" creationid="PiaVee" creationdate="20171218T082754Z">
@@ -2969,6 +2985,22 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180246Z" creationid="piav" creationdate="20190521T180246Z">
         <seg>Android Resources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any character except one in the Greek block (negation)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T153726Z" creationid="piav" creationdate="20191022T153726Z">
+        <seg>Mikä tahansa muu merkki kuin kreikan blokissa oleva (negaatio)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any letter except an uppercase letter (subtraction)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T153934Z" creationid="piav" creationdate="20191022T153934Z">
+        <seg>Mikä tahansa muu merkki kuin iso kirjain (vähennys)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18971,6 +19003,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T153728Z" creationid="piav" creationdate="20191022T153728Z">
+        <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>[fuzzy]</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T103722Z" creationid="piav" creationdate="20190916T103722Z">
@@ -19035,6 +19075,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>\P{InGreek}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T153623Z" creationid="piav" creationdate="20191022T153623Z">
+        <seg>\P{InGreek}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>\Q</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T152920Z" creationid="piav" creationdate="20191022T152920Z">
@@ -19095,6 +19143,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T153110Z" creationid="piav" creationdate="20191022T153110Z">
         <seg>\p{InGreek}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\p{Lu}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T153524Z" creationid="piav" creationdate="20191022T153524Z">
+        <seg>\p{Lu}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\p{Sc}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T153612Z" creationid="piav" creationdate="20191022T153612Z">
+        <seg>\p{Sc}</seg>
       </tuv>
     </tu>
     <tu>
