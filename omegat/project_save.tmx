@@ -3055,6 +3055,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T084254Z" creationid="piav" creationdate="20191022T084254Z">
+        <seg>Koska ensisijaisen sanaston ja muiden sanastojen termit voivat mennä sekaisin, ensisijaisen sanaston termit on lihavoitu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As the existing content will not be touched, damage to an existing file would be limited.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T073246Z" creationid="piav" creationdate="20191022T073043Z">
@@ -4339,6 +4347,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094158Z" creationid="PiaVee" creationdate="20171219T094158Z">
         <seg>Commodity12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Common glossary problems</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T084301Z" creationid="piav" creationdate="20191022T084301Z">
+        <seg>Tavallisia sanasto-ongelmia</seg>
       </tuv>
     </tu>
     <tu>
@@ -10586,6 +10602,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No glossary file found in the "glossary" folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T084342Z" creationid="piav" creationdate="20191022T084342Z">
+        <seg>Sanastotiedostojen kansiossa ei ole sanastotiedostoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No match:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090817Z" creationid="PiaVee" creationdate="20171218T090802Z">
@@ -12323,6 +12347,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T084755Z" creationid="PiaVee" creationdate="20171218T084755Z">
         <seg>Ongelma projektitiedoston lataamisessa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Problem: No glossary terms are displayed - possible causes:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T084319Z" creationid="piav" creationdate="20191022T084319Z">
+        <seg>Ongelma: Sanastotermejä ei näy. – Mahdollisia syitä:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15996,6 +16028,22 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The glossary file does not have the correct extension (.tab, .utf8 or .txt).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T084454Z" creationid="piav" creationdate="20191022T084454Z">
+        <seg>Sanastotiedoston tiedostopääte ei ole oikea (muu kuin .tab, .utf8 tai .txt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The glossary file is empty.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T084351Z" creationid="piav" creationdate="20191022T084351Z">
+        <seg>Sanastokansio on tyhjä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T075232Z" creationid="piav" creationdate="20191022T075146Z">
@@ -16008,6 +16056,14 @@ instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T093947Z" creationid="PiaVee" creationdate="20171219T093947Z">
         <seg>Ylivoimaisesti suurin osa OmegaT-projektin parissa tehdystä työstä on tehty vapaaehtoisvoimin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The items are not separated with a TAB character.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T084418Z" creationid="piav" creationdate="20191022T084418Z">
+        <seg>Termejä ei ole erotettu sarkaimella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16160,8 +16216,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The results from the priority glossary (by default, glossary/glossary.txt) appear in first places in the Glossary pane and in TransTips.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T083930Z" creationid="piav" creationdate="20191022T083930Z">
-        <seg>Ensisijaisen sanaston oletus on /glossary/glossary.txt. Ensisijaisesta sanastosta löydetyt tulokset näkyvät ensimmäisinä sanastoruudussa ja TransTips-</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T084151Z" creationid="piav" creationdate="20191022T083930Z">
+        <seg>Ensisijaisen sanaston oletus on /glossary/glossary.txt. Ensisijaisesta sanastosta löydetyt tulokset näkyvät ensimmäisinä sanastoruudussa ja TransTips-ikkunassa.</seg>
       </tuv>
     </tu>
     <tu>
