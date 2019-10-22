@@ -16028,6 +16028,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The glossary file does not have the correct encoding.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T084734Z" creationid="piav" creationdate="20191022T084734Z">
+        <seg>Sanastotiedoston merkistökoodaus on väärä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The glossary file does not have the correct extension (.tab, .utf8 or .txt).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T084454Z" creationid="piav" creationdate="20191022T084454Z">
@@ -16434,6 +16442,22 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T060407Z" creationid="PiaVee" creationdate="20170930T060407Z">
         <seg>{0} ei sisällä paikallisia työkopioita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are no terms in the current segment which match any terms in the glossary.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T084753Z" creationid="piav" creationdate="20191022T084753Z">
+        <seg>Aktiivisessa segmentissä ei ole termejä, jotka vastaavat sanaston termejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T084703Z" creationid="piav" creationdate="20191022T084703Z">
+        <seg>Sanaston termi ja käännettävän asiakirjan lähdekielinen termi eivät ole TÄYSIN samanlaisia (sana esim. taivutettu monikkoon).</seg>
       </tuv>
     </tu>
     <tu>
