@@ -10402,6 +10402,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New terms can be added manually to the glossary file(s) during translation, for example in a text editor.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T075338Z" creationid="piav" creationdate="20191022T075338Z">
+        <seg>Käännöksen aikana voit lisätä sanastotiedostoon/-tiedostoihin uusia termejä esimerkiksi tekstieditorilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T075416Z" creationid="piav" creationdate="20191022T075416Z">
+        <seg>Ohjelma ei havaitse uusimpia lisättyjä termejä heti, kun tekstitiedoston muutokset on tallennettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081616Z" creationid="piav" creationdate="20190522T081616Z">
@@ -14685,8 +14701,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Source term:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190916T124556Z" creationid="piav" creationdate="20190916T124532Z">
-        <seg>Termi lähdekielellä:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T075443Z" creationid="piav" creationdate="20190916T124532Z">
+        <seg>Lähdekielinen termi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15938,6 +15954,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T133247Z" creationid="piav" creationdate="20190521T133247Z">
         <seg>Annettu lähtökieli ei kelpaa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The source term does not have to be a single-word item, as the next example shows:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T075511Z" creationid="piav" creationdate="20191022T075426Z">
+        <seg>Lähdekielinen termi voi koostua useista sanoista. Tässä esimerkki siitä:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20353,6 +20377,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174916Z" creationid="PiaVee" creationdate="20171014T174916Z">
         <seg>mt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>multiple words entries in glossaries - example</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T075535Z" creationid="piav" creationdate="20191022T075535Z">
+        <seg>Esimerkki sanaston monisanaisista termeistä</seg>
       </tuv>
     </tu>
     <tu>
