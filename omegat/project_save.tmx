@@ -448,8 +448,8 @@
       <tuv lang="EN">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T071035Z" creationid="piav" creationdate="20190522T070732Z">
-        <seg>Ota termilistaehdotukset käyttöön</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074932Z" creationid="piav" creationdate="20190522T070732Z">
+        <seg>Ota sanastoehdotukset käyttöön</seg>
       </tuv>
     </tu>
     <tu>
@@ -2005,8 +2005,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T134143Z" creationid="piav" creationdate="20190920T134143Z">
-        <seg>&lt;html&gt;Termi: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Termilistat:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T075021Z" creationid="piav" creationdate="20190920T134143Z">
+        <seg>&lt;html&gt;Termi: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Sanastot:&lt;br&gt;{1}&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5671,8 +5671,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Drop glossary files here to add them to the project.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T071118Z" creationid="piav" creationdate="20190522T071118Z">
-        <seg>Lisää projektiin termilistatiedostoja pudottamalla ne tähän.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074958Z" creationid="piav" creationdate="20190522T071118Z">
+        <seg>Lisää projektiin sanastotiedostoja pudottamalla ne tähän.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6256,8 +6256,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Error updating glossary file</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T071047Z" creationid="piav" creationdate="20190522T071047Z">
-        <seg>Termilistatiedoston päivityksessä tapahtui virhe</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074945Z" creationid="piav" creationdate="20190522T071047Z">
+        <seg>Sanastotiedoston päivityksessä tapahtui virhe</seg>
       </tuv>
     </tu>
     <tu>
@@ -7336,8 +7336,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Glossary Matches</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T071058Z" creationid="piav" creationdate="20190522T071058Z">
-        <seg>Termilistaosumat</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074951Z" creationid="piav" creationdate="20190522T071058Z">
+        <seg>Sanasto-osumat</seg>
       </tuv>
     </tu>
     <tu>
@@ -15772,6 +15772,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T075232Z" creationid="piav" creationdate="20191022T075146Z">
+        <seg>Sanastotoiminto löytää sanastosta ainoastaan tarkkoja osumia. Se ei siis löydä taivutettuja muotoja tms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The great majority of work on the OmegaT project has been completed on a voluntary basis.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T093947Z" creationid="PiaVee" creationdate="20171219T093947Z">
@@ -16024,8 +16032,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The vocabulary entry can have a comment added.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T074222Z" creationid="piav" creationdate="20191022T074222Z">
-        <seg>Termi</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T075125Z" creationid="piav" creationdate="20191022T074222Z">
+        <seg>Sanaston termiin voi liittyä kommentti.</seg>
       </tuv>
     </tu>
     <tu>
