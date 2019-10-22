@@ -2243,6 +2243,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T153523Z" creationid="piav" creationdate="20191022T153523Z">
+        <seg>Kreikan blokissa oleva merkki (yksinkartainen &lt;u0&gt; blokki&lt;/u0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T082941Z" creationid="piav" creationdate="20191022T082850Z">
@@ -20213,8 +20221,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T153353Z" creationid="piav" creationdate="20191022T153353Z">
-        <seg>FZZ http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T153433Z" creationid="piav" creationdate="20191022T153353Z">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
       </tuv>
     </tu>
     <tu>
