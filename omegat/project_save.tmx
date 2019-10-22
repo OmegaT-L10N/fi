@@ -19611,6 +19611,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>\bis\b</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T161127Z" creationid="piav" creationdate="20191022T161127Z">
+        <seg>\bis\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>\cx</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T152141Z" creationid="piav" creationdate="20191022T152141Z">
@@ -22457,6 +22465,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081326Z" creationid="PiaVee" creationdate="20171015T081326Z">
         <seg>se</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>search for “is”, not “this” or “isn't” etc.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T161145Z" creationid="piav" creationdate="20191022T161145Z">
+        <seg>Etsii sanaa "is", ei "this" tai "isn't" jne.</seg>
       </tuv>
     </tu>
     <tu>
