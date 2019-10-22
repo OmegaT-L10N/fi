@@ -7854,6 +7854,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T071334Z" creationid="piav" creationdate="20191022T071334Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;-projektissa voi käyttää yhtä tai useampaa sanastotiedostoa. Tällöin kaikki senhetkisen , kaikki sanaston termit,  yksi tai useampi sanastom </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T070515Z" creationid="piav" creationdate="20190522T070515Z">
