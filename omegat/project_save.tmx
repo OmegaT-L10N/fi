@@ -2203,6 +2203,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T082528Z" creationid="piav" creationdate="20191022T082528Z">
+        <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; on ladattavissa lähes 100 eri kielellä. Sitä voi käyttää tietotekniikkasanaston peruskivenä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A "translated" External View file is produced by entering the translation in the target column.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T161229Z" creationid="PiaVee" creationdate="20171014T155925Z">
@@ -8033,6 +8041,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have an existing terminology handling system it is quite possible it offers the export of terminology data via TBX format.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T082338Z" creationid="piav" creationdate="20191022T082338Z">
+        <seg>Jos käytössäsi on terminologiajärjestelmä, on hyvin mahdollista, että se voi jakaa terminologiatietoja TBX-muodossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T061112Z" creationid="PiaVee" creationdate="20170910T082715Z">
@@ -10834,6 +10850,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T190602Z" creationid="piav" creationdate="20190527T190602Z">
         <seg>Huomioi, että kaikki suodattimet eivät anna valita merkistökoodausta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: the &lt;f0&gt;.tbx&lt;/f0&gt; output of MultiTerm seems to not be reliable (November 2013), it is better to use the &lt;f1&gt;.tab&lt;/f1&gt; output of MultiTerm instead.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T082649Z" creationid="piav" creationdate="20191022T082649Z">
+        <seg>Huom.: MultiTermin &lt;f0&gt;.tbx&lt;/f0&gt;-tuotos ei vaikuta luotettavalta (marraskuu 2013). On parempi käyttää MultiTermin &lt;f1&gt;tab&lt;/f1&gt;-tuotosta.</seg>
       </tuv>
     </tu>
     <tu>
