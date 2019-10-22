@@ -7118,6 +7118,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, this is the backslash character</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T152918Z" creationid="piav" creationdate="20191022T152918Z">
+        <seg>Esimerkiksi tämä on kenoviiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the application</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T134332Z" creationid="PiaVee" creationdate="20171014T134332Z">
@@ -18983,6 +18991,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T152303Z" creationid="piav" creationdate="20191022T152303Z">
         <seg>\0nn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\\</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T152840Z" creationid="piav" creationdate="20191022T152840Z">
+        <seg>\\</seg>
       </tuv>
     </tu>
     <tu>
