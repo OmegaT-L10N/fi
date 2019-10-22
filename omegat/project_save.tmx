@@ -15708,6 +15708,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The file does not need to exist when setting it, it will be created (if necessary) when adding a glossary entry.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T072604Z" creationid="piav" creationdate="20191022T072604Z">
+        <seg>Kun asetat sanastotiedostokansiota, erillistä sanastotiedostoa ei vielä tarvita. Tiedosto luodaan (tarvittaessa) automaattisesti, kun lisäät sanastoon uuden termin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T105400Z" creationid="PiaVee" creationdate="20171219T105400Z">
