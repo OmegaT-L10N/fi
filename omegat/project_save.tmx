@@ -2299,6 +2299,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T160411Z" creationid="piav" creationdate="20191022T160346Z">
+        <seg>Jo &lt;a0&gt;OmegaT&lt;/a0&gt;:ssä itsessään on hyvä kokoelma käytännöllisiä regex-tapauksia (ks. kohta Asetukset &gt; Segmentointi).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A non-digit: [^0-9]</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T154455Z" creationid="piav" creationdate="20191022T154429Z">
@@ -13071,6 +13079,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Examples of regular expressions in translations</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T160525Z" creationid="piav" creationdate="20191022T160525Z">
+        <seg>Regex – Käännöksissä käytettyjen säännöllisten lausekkeiden esimerkkejä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex - Flags</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T150300Z" creationid="piav" creationdate="20191022T145754Z">
@@ -16472,6 +16488,14 @@ instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T105400Z" creationid="PiaVee" creationdate="20171219T105400Z">
         <seg>Seuraava esimerkki näyttää Merriam Websterin 10. sanakirjan "täydessä vauhdissa":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following list includes expressions you may find useful when searching through the translation memory:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T160503Z" creationid="piav" creationdate="20191022T160503Z">
+        <seg>Seuraavalla listalla on lausekkeita, joista voi olla sinulle apua etsiessäsi osumia käännösmuistista.</seg>
       </tuv>
     </tu>
     <tu>
