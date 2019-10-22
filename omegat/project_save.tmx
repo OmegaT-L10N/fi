@@ -15930,6 +15930,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The alert (bell) character ('\u0007')</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T151920Z" creationid="piav" creationdate="20191022T151920Z">
+        <seg>Hälytyksen (kello) merkki (\u0007)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The author of the Chapter &lt;e1&gt;Learn to use OmegaT in 5 minutes!&lt;/e1&gt; is Samuel Murray, Copyright ©2005-2012.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T132632Z" creationid="PiaVee" creationdate="20171014T132533Z">
@@ -16072,6 +16080,14 @@ instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T080931Z" creationid="piav" creationdate="20191022T080900Z">
         <seg>Sanastojen merkistökoodaus määritetään automaattisesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The escape character ('\u001B')</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T152139Z" creationid="piav" creationdate="20191022T152139Z">
+        <seg>Koodinvaihtomerkki (\u001b)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18871,6 +18887,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T133940Z" creationid="piav" creationdate="20190920T133940Z">
         <seg>[{0}] Lähde käyttää termiä {1}, kohteesta oletetaan löytyvän termi {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\a</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T151850Z" creationid="piav" creationdate="20191022T151850Z">
+        <seg>\a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\e</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T151921Z" creationid="piav" creationdate="20191022T151921Z">
+        <seg>\e</seg>
       </tuv>
     </tu>
     <tu>
