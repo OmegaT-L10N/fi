@@ -10942,6 +10942,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nothing, but quotes the following character.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T152551Z" creationid="piav" creationdate="20191022T152551Z">
+        <seg>Tyhjä, mutta lainaa seraavaa merkkiä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notification (flash)</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T093558Z" creationid="piav" creationdate="20190522T093558Z">
@@ -12843,6 +12851,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T150300Z" creationid="piav" creationdate="20191022T145754Z">
         <seg>Regex – Merkinnät</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Quotation</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T152530Z" creationid="piav" creationdate="20191022T152530Z">
+        <seg>Regex – Lainausmerkit</seg>
       </tuv>
     </tu>
     <tu>
@@ -15954,6 +15970,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The character with hexadecimal value 0xhh</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T152502Z" creationid="piav" creationdate="20191022T152430Z">
+        <seg>Merkki, jonka heksadesimaaliarvo on 0xhhhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The character with hexadecimal value 0xhhhh</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T150333Z" creationid="piav" creationdate="20191022T150333Z">
@@ -15962,10 +15986,26 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The character with octal value 0mnn (0 &lt;= m &lt;= 3, 0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T152455Z" creationid="piav" creationdate="20191022T152424Z">
+        <seg>Merkki, jonka oktaaliarvo on 0mnn (0 &lt;= m &lt;= 3, 0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The character with octal value 0n (0 &lt;= n &lt;= 7)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T152302Z" creationid="piav" creationdate="20191022T152302Z">
-        <seg>Merkki oktaaliarvona 0n (0 &lt;= n &lt;= 7)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T152444Z" creationid="piav" creationdate="20191022T152302Z">
+        <seg>Merkki, jonka oktaaliarvo on 0n (0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The character with octal value 0nn (0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T152448Z" creationid="piav" creationdate="20191022T152315Z">
+        <seg>Merkki, jonka oktaaliarvo on 0nn (0 &lt;= n &lt;= 7)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16800,6 +16840,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190515T072646Z" creationid="PiaVee" creationdate="20171220T093909Z">
         <seg>Tämä ei ole ongelma, jos tiedostossa on käytössä 16-bittinen Unicode-merkistökoodaus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T152839Z" creationid="piav" creationdate="20191022T152839Z">
+        <seg>Tätä tarvitaan silloin, kun haluat etsiä osumia jollekin metamerkille ( !$()*+.&lt;&gt;?[\]^{|} ).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18907,6 +18955,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>\</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T152532Z" creationid="piav" creationdate="20191022T152532Z">
+        <seg>\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\0mnn</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T152342Z" creationid="piav" creationdate="20191022T152342Z">
+        <seg>\0mnn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>\0n</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T152212Z" creationid="piav" creationdate="20191022T152212Z">
@@ -18983,6 +19047,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T150319Z" creationid="piav" creationdate="20191022T150319Z">
         <seg>\uhhhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\xhh</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T152425Z" creationid="piav" creationdate="20191022T152425Z">
+        <seg>\xhh</seg>
       </tuv>
     </tu>
     <tu>
