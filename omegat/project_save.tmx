@@ -15940,8 +15940,8 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
       <tuv lang="EN">
         <seg>The carriage-return character ('\u000D')</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T150814Z" creationid="piav" creationdate="20191022T150814Z">
-        <seg>Palautus rivin alkuun (\u000D)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T151055Z" creationid="piav" creationdate="20191022T150814Z">
+        <seg>Vaununpalautusmerkki (\u000D)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16112,6 +16112,14 @@ instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T170020Z" creationid="piav" creationdate="20190527T170020Z">
         <seg>Seuraavat valinnat eivät ole käytössä, kun Yhteensopivuus OmegaT 2.6:n kanssa on valittuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The form-feed character ('\u000C')</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T151848Z" creationid="piav" creationdate="20191022T150921Z">
+        <seg>Sivunvaihdon merkki (\u000C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18863,6 +18871,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T133940Z" creationid="piav" creationdate="20190920T133940Z">
         <seg>[{0}] Lähde käyttää termiä {1}, kohteesta oletetaan löytyvän termi {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\f</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T150816Z" creationid="piav" creationdate="20191022T150816Z">
+        <seg>\f</seg>
       </tuv>
     </tu>
     <tu>
