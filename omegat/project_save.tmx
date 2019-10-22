@@ -1669,6 +1669,14 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154352Z" creationid="piav" creationdate="20191022T154352Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>... matches the following</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T111239Z" creationid="piav" creationdate="20190913T111239Z">
@@ -2989,26 +2997,34 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any character (except for line terminators)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154406Z" creationid="piav" creationdate="20191022T154406Z">
+        <seg>Mikä tahansa merkki (paitsi rivin päättävät merkit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Any character except a, b, or c (negation)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T154050Z" creationid="piav" creationdate="20191022T154050Z">
-        <seg>Mikä tahansa muu merkki ku</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154209Z" creationid="piav" creationdate="20191022T154050Z">
+        <seg>Mikä tahansa merkki paitsi a, b, tai c (negaatio)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Any character except one in the Greek block (negation)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T154110Z" creationid="piav" creationdate="20191022T153726Z">
-        <seg>Mikä tahansa merkki paitsi ei kreikan blokissa oleva (negaatio)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154138Z" creationid="piav" creationdate="20191022T153726Z">
+        <seg>Mikä tahansa merkki paitsi kreikan blokissa oleva (negaatio)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Any letter except an uppercase letter (subtraction)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T153934Z" creationid="piav" creationdate="20191022T153934Z">
-        <seg>Mikä tahansa muu merkki kuin iso kirjain (vähennys)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154153Z" creationid="piav" creationdate="20191022T153934Z">
+        <seg>Mikä tahansa merkki paitsi iso kirjain (vähennys)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12943,6 +12959,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Predefined character classes</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154350Z" creationid="piav" creationdate="20191022T154350Z">
+        <seg>Regex – Ennalta määritellyt merkkiluokat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex - Quotation</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T152530Z" creationid="piav" creationdate="20191022T152530Z">
@@ -19035,6 +19059,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[a-zA-Z]</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154210Z" creationid="piav" creationdate="20191022T154210Z">
+        <seg>[a-zA-Z]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>[abc]</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T153947Z" creationid="piav" creationdate="20191022T153947Z">
@@ -19147,6 +19179,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>\d</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154411Z" creationid="piav" creationdate="20191022T154411Z">
+        <seg>\d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>\e</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T151921Z" creationid="piav" creationdate="20191022T151921Z">
@@ -19223,6 +19263,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T152425Z" creationid="piav" creationdate="20191022T152425Z">
         <seg>\xhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a through z or A through Z, inclusive (range)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154338Z" creationid="piav" creationdate="20191022T154338Z">
+        <seg>Merkki väliltä a-z tai A-Z nämä päätymerkit mukaan lukien (alue)</seg>
       </tuv>
     </tu>
     <tu>
