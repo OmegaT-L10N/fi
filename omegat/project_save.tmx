@@ -3007,6 +3007,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As the existing content will not be touched, damage to an existing file would be limited.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T073246Z" creationid="piav" creationdate="20191022T073043Z">
+        <seg>Tiedoston jo olemassa olevaa sisältöä ei käsitellä tai muuteta, joten mahdollisten tiedostovahinkojen määrä pysyy rajallisena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Assamese</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173523Z" creationid="PiaVee" creationdate="20171014T173518Z">
