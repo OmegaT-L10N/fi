@@ -6288,16 +6288,16 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>English: the same check as above, but concerning consonants ("a", not "an")</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T160825Z" creationid="piav" creationdate="20191022T160825Z">
-        <seg>Englanti: </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T160954Z" creationid="piav" creationdate="20191022T160825Z">
+        <seg>Koskee englantia: Sama tarkastus kuin edellä, mutta koskee konsonantteja (artikkelina "a", ei "an")</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>English: words, beginning with vowels, should generally be preceded by "an", not "a"</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T160817Z" creationid="piav" creationdate="20191022T160817Z">
-        <seg>Englanti: vokaalilla alkavien sanojen edellä olevan artikkelin on yleensä oltava "an", ei "a"</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T160949Z" creationid="piav" creationdate="20191022T160817Z">
+        <seg>Koskee englantia: Vokaalilla alkavien sanojen edellä olevan artikkelin on yleensä oltava "an", ei "a"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12102,6 +12102,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T121818Z" creationid="piav" creationdate="20190920T120917Z">
         <seg>Ehkä se on jo avoinna, mutta toisessa OmegaT-istunnossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Period, followed by an upper-case letter - possibly a space is missing between the period and the start of a new sentence?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T161126Z" creationid="piav" creationdate="20191022T161126Z">
+        <seg>Piste, jota seuraa iso kirjain – onkohan pisteen ja uuden lauseen alun välistä jäänyt välilyönti puuttumaan?</seg>
       </tuv>
     </tu>
     <tu>
@@ -19491,6 +19499,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>\.[A-Z]</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T160927Z" creationid="piav" creationdate="20191022T160927Z">
+        <seg>\.[A-Z]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>\0mnn</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T152342Z" creationid="piav" creationdate="20191022T152342Z">
@@ -19695,6 +19711,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T160818Z" creationid="piav" creationdate="20191022T160818Z">
         <seg>\s+an\s+[^aeiou]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\s{2,}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T160907Z" creationid="piav" creationdate="20191022T160907Z">
+        <seg>\s{2,}</seg>
       </tuv>
     </tu>
     <tu>
@@ -20221,8 +20245,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>comma or a period, followed by spaces and yet another comma or period</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T160626Z" creationid="piav" creationdate="20191022T160626Z">
-        <seg>piste tai pilkku, jota seuraa välilyönti ja vielä yksi piste tai pilkku</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T160939Z" creationid="piav" creationdate="20191022T160626Z">
+        <seg>Piste tai pilkku, jota seuraa välilyönti ja vielä yksi piste tai pilkku</seg>
       </tuv>
     </tu>
     <tu>
@@ -20349,8 +20373,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>double words</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T160638Z" creationid="piav" creationdate="20191022T160557Z">
-        <seg>kahteen kertaan kirjoitetut sanat</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T160937Z" creationid="piav" creationdate="20191022T160557Z">
+        <seg>Kahteen kertaan kirjoitetut sanat</seg>
       </tuv>
     </tu>
     <tu>
@@ -20509,8 +20533,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>extra spaces after the period at the end of the line</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T160718Z" creationid="piav" creationdate="20191022T160718Z">
-        <seg>pisteen jälkeen tulevat ylimääräiset välilyönnit rivin lopussa</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T160941Z" creationid="piav" creationdate="20191022T160718Z">
+        <seg>Pisteen jälkeen tulevat ylimääräiset välilyönnit rivin lopussa</seg>
       </tuv>
     </tu>
     <tu>
@@ -21721,6 +21745,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174951Z" creationid="PiaVee" creationdate="20171014T174951Z">
         <seg>mon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>more than one space</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T160956Z" creationid="piav" creationdate="20191022T160927Z">
+        <seg>Useampia välilyöntejä peräkkäin</seg>
       </tuv>
     </tu>
     <tu>
