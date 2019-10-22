@@ -1408,6 +1408,14 @@ Kysymysmerkki ? vastaa yhtä merkkiä: hakulauseke 'run?' vastaa sanoja 'runs' t
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(?i)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T145810Z" creationid="piav" creationdate="20191022T145810Z">
+        <seg>(?i)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
@@ -6018,6 +6026,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T175534Z" creationid="piav" creationdate="20190521T175534Z">
         <seg>Käytössä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T150242Z" creationid="piav" creationdate="20191022T145831Z">
+        <seg>Ottaa käyttöön kirjainkoosta riippumattomat osumat (oletusarvona on, että osumat huomioivat kirjainkoon).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12815,6 +12831,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Flags</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T145754Z" creationid="piav" creationdate="20191022T145754Z">
+        <seg>Regex-merkinnät</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103903Z" creationid="PiaVee" creationdate="20171015T103831Z">
@@ -14039,6 +14063,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T084247Z" creationid="PiaVee" creationdate="20171015T084200Z">
         <seg>Käytettäväksi sopivat arvot löytyvät tiedostosta OmegaT.jar/META-INF/MANIFEST.MF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See additional references and examples below.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T145631Z" creationid="piav" creationdate="20191022T145631Z">
+        <seg>Lisää esimerkkejä on alla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15939,6 +15971,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The construct</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T145806Z" creationid="piav" creationdate="20191022T145806Z">
+        <seg>Muotoilu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The contents of glossary files are kept in memory and are loaded when the project is opened or reloaded.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T083028Z" creationid="piav" creationdate="20191022T083028Z">
@@ -16607,6 +16647,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T154823Z" creationid="PiaVee" creationdate="20171014T154823Z">
         <seg>Tämä onnistuu Déjà Vu DVX:n "External View" -tiedostomuodon avulla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T145743Z" creationid="piav" creationdate="20191022T145743Z">
+        <seg>Tämä kappale on tarkoitettu edistyneille käyttäjille, jotka haluavat määritellä omia segmentointisääntöjä tai laatia monimutkaisia ja tehokkaita hakuavaimia.</seg>
       </tuv>
     </tu>
     <tu>
