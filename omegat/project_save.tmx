@@ -12295,6 +12295,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Priority glossary</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T083758Z" creationid="piav" creationdate="20191022T083758Z">
+        <seg>Ensisijainen sanasto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Private collections are displayed in bold.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T114358Z" creationid="PiaVee" creationdate="20171014T114358Z">
@@ -16138,6 +16146,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T083357Z" creationid="piav" creationdate="20191022T083357Z">
         <seg>Tuetut tiedostomuodot ovat &lt;f1&gt;TXT&lt;/f1&gt; ja &lt;f2&gt;UTF8&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The results from the priority glossary (by default, glossary/glossary.txt) appear in first places in the Glossary pane and in TransTips.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T083930Z" creationid="piav" creationdate="20191022T083930Z">
+        <seg>Ensisijaisen sanaston oletus on /glossary/glossary.txt. Ensisijaisesta sanastosta löydetyt tulokset näkyvät ensimmäisinä sanastoruudussa ja TransTips-</seg>
       </tuv>
     </tu>
     <tu>
