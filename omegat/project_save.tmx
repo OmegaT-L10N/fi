@@ -15938,6 +15938,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The carriage-return character ('\u000D')</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T150814Z" creationid="piav" creationdate="20191022T150814Z">
+        <seg>Palautus rivin alkuun (\u000D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The character with hexadecimal value 0xhhhh</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T150333Z" creationid="piav" creationdate="20191022T150333Z">
@@ -18863,6 +18871,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T150350Z" creationid="piav" creationdate="20191022T150350Z">
         <seg>\n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\r</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T150522Z" creationid="piav" creationdate="20191022T150522Z">
+        <seg>\r</seg>
       </tuv>
     </tu>
     <tu>
