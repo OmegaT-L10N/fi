@@ -2477,8 +2477,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T075810Z" creationid="piav" creationdate="20190522T074831Z">
-        <seg>Kaksoisnapsauttamalla haluamaasi merkkiä saat sen lisättyä mukautettuun taulukkoon. Voit myös maalata merkin ja painaa Ins-näppäintä. </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T080031Z" creationid="piav" creationdate="20190522T074831Z">
+        <seg>Kaksoisnapsauta haluamaasi merkkiä, niin saat sen lisättyä mukautettuun taulukkoon. Voit myös maalata merkin ja painaa Ins-näppäintä. </seg>
       </tuv>
     </tu>
     <tu>
@@ -5840,8 +5840,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Edit Highlight Pattern</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T102301Z" creationid="piav" creationdate="20190913T102301Z">
-        <seg>Muokkaa kohtaa Korosta lausekekuvio</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T075834Z" creationid="piav" creationdate="20190913T102301Z">
+        <seg>Muokkaa kohtaa Maalaa lausekekuvio</seg>
       </tuv>
     </tu>
     <tu>
@@ -7632,24 +7632,24 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Highlight</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T083551Z" creationid="piav" creationdate="20190522T083551Z">
-        <seg>Korosta</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T075824Z" creationid="piav" creationdate="20190522T083551Z">
+        <seg>Maalaa</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Highlight Pattern...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T110449Z" creationid="piav" creationdate="20190913T102135Z">
-        <seg>Korosta lausekekuvio…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T075827Z" creationid="piav" creationdate="20190913T102135Z">
+        <seg>Maalaa lausekekuvio…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T075805Z" creationid="piav" creationdate="20191022T075721Z">
-        <seg>Maalaa termi sanastoruudussa ja </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T080138Z" creationid="piav" creationdate="20191022T075721Z">
+        <seg>Maalaa termi sanastoruudussa ja napsauta hiiren kakkospainikkeella, niin termi siirtyy kursorin kohdalle kohdesegmenttiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8123,8 +8123,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In order to create an empty set of rules for a new language pattern click &lt;e0&gt;Add &lt;/e0&gt;in the upper half of the dialog.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T104958Z" creationid="piav" creationdate="20190913T104958Z">
-        <seg>Jos haluat luoda uuden segmentointisäännöstön uudelle kielitunnukselle, klikkaa &lt;e0&gt;Lisää&lt;/e0&gt;-painiketta valintaikkunan yläosassa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T075923Z" creationid="piav" creationdate="20190913T104958Z">
+        <seg>Jos haluat luoda uuden segmentointisäännöstön uudelle kielitunnukselle, napsauta &lt;e0&gt;Lisää&lt;/e0&gt;-painiketta valintaikkunan yläosassa.</seg>
       </tuv>
     </tu>
     <tu>
