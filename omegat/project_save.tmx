@@ -15859,6 +15859,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The contents of the glossary pane will be updated accordingly.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T083224Z" creationid="piav" creationdate="20191022T083224Z">
+        <seg>Sanasto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
