@@ -15692,6 +15692,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T072138Z" creationid="piav" creationdate="20191022T072138Z">
+        <seg>Sanaston tiedostotunnisteen on oltava &lt;f0&gt;.txt&lt;/f0&gt; tai &lt;f1&gt;.utf8&lt;/f1&gt;. Puuttuva tunniste lisätään automaattisesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The file "{0}" is not supported.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T131709Z" creationid="piav" creationdate="20190920T131709Z">
@@ -15738,6 +15746,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="FI" changeid="piav" changedate="20190521T133658Z" creationid="piav" creationdate="20190521T133658Z">
         <seg>Kielikoodin tulisi olla muotoa xx-YY, xxx-YY, xx_YY tai xxx_YY, jossa
 xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T072255Z" creationid="piav" creationdate="20191022T072255Z">
+        <seg>Tiedoston on oltava &lt;f2&gt;/glossary&lt;/f2&gt;-kansiossa, mutta voit käyttää myös alikansiota (esim. &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18094,6 +18110,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T140915Z" creationid="piav" creationdate="20190920T140915Z">
         <seg>Tällä hetkellä käyttämäsi versio on {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You define its location and name in the project properties dialog.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T072026Z" creationid="piav" creationdate="20191022T071927Z">
+        <seg>Voit määritellä sanaston sijainnin ja nimen Projektin ominaisuudet -valinnassa.</seg>
       </tuv>
     </tu>
     <tu>
