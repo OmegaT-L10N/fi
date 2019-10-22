@@ -7254,6 +7254,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T155046Z" creationid="piav" creationdate="20191022T155046Z">
+        <seg>Esimerkiksi &lt;e0&gt;a+&lt;/e0&gt; löytää ilmaisusta &lt;e1&gt;aaabbb&lt;/e1&gt; joukon aaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, this is the backslash character</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T152918Z" creationid="piav" creationdate="20191022T152918Z">
@@ -13001,8 +13009,8 @@ projektin ilman ryhmäominaisuutta.</seg>
       <tuv lang="EN">
         <seg>Regex - Boundary matchers</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T154645Z" creationid="piav" creationdate="20191022T154645Z">
-        <seg>Regex – Rajatun alueen osumat</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154808Z" creationid="piav" creationdate="20191022T154645Z">
+        <seg>Regex – Alueen rajaaminen</seg>
       </tuv>
     </tu>
     <tu>
@@ -13035,6 +13043,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T150300Z" creationid="piav" creationdate="20191022T145754Z">
         <seg>Regex – Merkinnät</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Greedy quantifiers</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154754Z" creationid="piav" creationdate="20191022T154754Z">
+        <seg>Regex – Ahneet rajoittimet</seg>
       </tuv>
     </tu>
     <tu>
@@ -18825,6 +18841,54 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>X, once or not at all</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154836Z" creationid="piav" creationdate="20191022T154836Z">
+        <seg>X, kerran tai ei kertaakaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X, one or more times</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154919Z" creationid="piav" creationdate="20191022T154919Z">
+        <seg>X, yhden tai useamman kerran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X, zero or more times</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154900Z" creationid="piav" creationdate="20191022T154900Z">
+        <seg>X, nolla kertaa tai useammin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X&lt;e0&gt;*&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154837Z" creationid="piav" creationdate="20191022T154837Z">
+        <seg>X&lt;e0&gt;*&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X&lt;e0&gt;+&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154901Z" creationid="piav" creationdate="20191022T154901Z">
+        <seg>X&lt;e0&gt;+&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154813Z" creationid="piav" creationdate="20191022T154813Z">
+        <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>XHTML</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T100957Z" creationid="piav" creationdate="20190913T100957Z">
@@ -20367,6 +20431,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174208Z" creationid="PiaVee" creationdate="20171014T174208Z">
         <seg>gn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>greedy quantifiers will match as much as they can.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T154959Z" creationid="piav" creationdate="20191022T154959Z">
+        <seg>Ahneet rajoittimet löytävät niin monta osumaa kuin vain mahdollista.</seg>
       </tuv>
     </tu>
     <tu>
