@@ -2437,8 +2437,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Add Glossary Entry</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190916T131033Z" creationid="piav" creationdate="20190916T131033Z">
-        <seg>Lisää termilistan termi</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074724Z" creationid="piav" creationdate="20190916T131033Z">
+        <seg>Lisää sanaston termi</seg>
       </tuv>
     </tu>
     <tu>
@@ -5351,16 +5351,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T070639Z" creationid="piav" creationdate="20190522T070639Z">
-        <seg>Termien järjestys: &lt;kohde&gt; → &lt;lähde&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074926Z" creationid="piav" creationdate="20190522T070639Z">
+        <seg>Näyttää termit näin: &lt;kohde&gt; → &lt;lähde&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190916T130859Z" creationid="piav" creationdate="20190916T130727Z">
-        <seg>Näyttää /glossary/-kansiossa olevista termilistatiedostoista löytyneet termit, joita on kohdesegmentissä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074633Z" creationid="piav" creationdate="20190916T130727Z">
+        <seg>Näyttää /glossary/-kansiossa olevista sanastotiedostoista löytyneet termit, joita on kohdesegmentissä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6080,8 +6080,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190916T131023Z" creationid="piav" creationdate="20190916T131023Z">
-        <seg>Kirjoituskelpoisen termilistan termit on lihavoitu.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074719Z" creationid="piav" creationdate="20190916T131023Z">
+        <seg>Kirjoituskelpoisen sanaston termit on lihavoitu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7344,24 +7344,24 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Glossary auto-completer options</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T074246Z" creationid="piav" creationdate="20190522T070526Z">
-        <seg>Termistön automaattisen täydennyksen asetukset</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074859Z" creationid="piav" creationdate="20190522T070526Z">
+        <seg>Sanaston automaattisen täydennyksen asetukset</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Glossary entries</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T071008Z" creationid="piav" creationdate="20190522T064744Z">
-        <seg>Termilistatietueet</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074834Z" creationid="piav" creationdate="20190522T064744Z">
+        <seg>Sanaston termit</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Glossary file: {0}</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T071003Z" creationid="piav" creationdate="20190522T071003Z">
-        <seg>Termilistatiedosto: {0}</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074625Z" creationid="piav" creationdate="20190522T071003Z">
+        <seg>Sanastotiedosto: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7376,8 +7376,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Glossary folder {0} does not exist.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T120731Z" creationid="piav" creationdate="20190920T120731Z">
-        <seg>Termilistakansiota {0} ei ole.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074748Z" creationid="piav" creationdate="20190920T120731Z">
+        <seg>Sanastokansiota {0} ei ole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9804,8 +9804,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mark Glossary Matches</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190916T141425Z" creationid="piav" creationdate="20190916T141425Z">
-        <seg>Merkitse termilistaosumat</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074743Z" creationid="piav" creationdate="20190916T141425Z">
+        <seg>Merkitse sanasto-osumat</seg>
       </tuv>
     </tu>
     <tu>
@@ -10816,8 +10816,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Glossary Hits</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190916T131102Z" creationid="piav" creationdate="20190916T131102Z">
-        <seg>Näytä ilmoitus, kun segmentille on termilistaosumia</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074729Z" creationid="piav" creationdate="20190916T131102Z">
+        <seg>Näytä ilmoitus, kun segmentille on sanasto-osumia</seg>
       </tuv>
     </tu>
     <tu>
@@ -11284,8 +11284,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Open Writable Glossary File</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190916T131135Z" creationid="piav" creationdate="20190916T131112Z">
-        <seg>Avaa kirjoituskelpoinen termilistatiedosto</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074736Z" creationid="piav" creationdate="20190916T131112Z">
+        <seg>Avaa kirjoituskelpoinen sanastotiedosto</seg>
       </tuv>
     </tu>
     <tu>
@@ -16040,8 +16040,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T120818Z" creationid="piav" creationdate="20190920T120818Z">
-        <seg>Kirjoituskelpoinen termilistatiedosto ei ole termilistakansiossa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074800Z" creationid="piav" creationdate="20190920T120818Z">
+        <seg>Kirjoituskelpoinen sanastotiedosto ei ole sanastokansiossa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17817,8 +17817,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T074234Z" creationid="piav" creationdate="20190522T065842Z">
-        <seg>Kun tämä on valittuna, termistön automaattisen täydennyksen valintaikkunassa näkyy myös lähdekielinen teksti.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074844Z" creationid="piav" creationdate="20190522T065842Z">
+        <seg>Kun tämä on valittuna, sanaston automaattisen täydennyksen valintaikkunassa näkyy myös lähdekielinen teksti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18155,8 +18155,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       <tuv lang="EN">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190916T130959Z" creationid="piav" creationdate="20190916T130920Z">
-        <seg>Voit luoda termilistan termejä valitsemalla Muokkaa &gt; Luo termilistan termi.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T074713Z" creationid="piav" creationdate="20190916T130920Z">
+        <seg>Luo termejä sanastoon valitsemalla Muokkaa &gt; Luo sanaston termi.</seg>
       </tuv>
     </tu>
     <tu>
