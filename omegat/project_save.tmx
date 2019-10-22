@@ -2229,8 +2229,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T082850Z" creationid="piav" creationdate="20191022T082850Z">
-        <seg>Dialogi-</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T082941Z" creationid="piav" creationdate="20191022T082850Z">
+        <seg>Tämä avaa valintaikkunan, johon voit kirjoittaa lähde- ja kohdekielisen termin sekä mahdolliset kommentit:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15851,6 +15851,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The contents of glossary files are kept in memory and are loaded when the project is opened or reloaded.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T083028Z" creationid="piav" creationdate="20191022T083028Z">
+        <seg>Sanastotiedostojen sisältö pysyy ohjelman muistissa. Tiedostot ladataan uudelleen, kun projekti avataan tai ladataan uudestaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
@@ -17521,6 +17529,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T141008Z" creationid="piav" creationdate="20190920T140958Z">
         <seg>Päivitykset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updating a glossary file is thus rather simple: press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; and enter the new term, its translation and any comments you may have (ensuring you press tab between the fields) and save the file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T083213Z" creationid="piav" creationdate="20191022T083213Z">
+        <seg>Sanastotiedoston päivittäminen on siis melko helppoa: Paina &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, kirjoita uusi termi, sen käännös ja mahdolliset kommentit (siirry kentästä toiseen painamalla sarkainnäppäintä) ja lopuksi tallenna tiedosto.</seg>
       </tuv>
     </tu>
     <tu>
