@@ -16422,6 +16422,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T073440Z" creationid="piav" creationdate="20191022T073440Z">
+        <seg>Jos sinulla on jo sanastotiedosto, jota haluat käyttää käännösprojektissa, luo OmegaT-käännösprojekti ja vie sanastotiedosto projektin &lt;f0&gt;/glossary&lt;/f0&gt;-kansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T132137Z" creationid="piav" creationdate="20190920T132137Z">
@@ -17265,6 +17273,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082219Z" creationid="PiaVee" creationdate="20171015T082219Z">
         <seg>urdu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T073249Z" creationid="piav" creationdate="20191022T073249Z">
+        <seg>Käyttö</seg>
       </tuv>
     </tu>
     <tu>
