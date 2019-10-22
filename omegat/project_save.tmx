@@ -1923,6 +1923,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Note: &lt;/e0&gt;Of course there are other ways and means to create a simple file with tab delimited entries.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T083459Z" creationid="piav" creationdate="20191022T083459Z">
+        <seg>&lt;e0&gt;Huom.: &lt;/e0&gt;On tietysti muitakin tapoja laatia yksinkertaisia tiedostoja, joiden sisältämät tiedot on erotettu toisistaan sarkaimilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;OmegaT &lt;/e0&gt; is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (if you prefer) any later version.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T134514Z" creationid="PiaVee" creationdate="20171014T134514Z">
@@ -10886,6 +10894,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nothing speaks against using Notepad++ on Windows, GEdit on Linux for instance or some spreadsheet program for this purpose: any application, that can handle UTF-8 (or UTF-16 LE) and that can show white space (so that you do not miss the required &lt;k1&gt;TAB&lt;/k1&gt; characters) can be used.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T083748Z" creationid="piav" creationdate="20191022T083748Z">
+        <seg>Kaikki ohjelmat, jotka tukevat UTF-8- tai UTF-16-merkistökoodausta ja jotka voivat näyttää välilyöntimerkit (jotta et unohda vaadittua &lt;k1&gt;TAB&lt;/k1&gt;-merkkiä) sopivat tähän: Voit käyttää Windowsin Notepad++-ohjelmaa, Linuxin GEdit-ohjelmaa tai vaikkapa taulukkolaskentaohjelmaa. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notification (flash)</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T093558Z" creationid="piav" creationdate="20190522T093558Z">
@@ -15861,8 +15877,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The contents of the glossary pane will be updated accordingly.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T083224Z" creationid="piav" creationdate="20191022T083224Z">
-        <seg>Sanasto</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T083309Z" creationid="piav" creationdate="20191022T083224Z">
+        <seg>Sanastoruudun sisältö päivittyy tämän mukaisesti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16114,6 +16130,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T123456Z" creationid="piav" creationdate="20190920T123136Z">
         <seg>Projekti ladataan paikallisena projektina, jossa ei ole ryhmäominaisuutta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The recognized extensions are &lt;f1&gt;TXT&lt;/f1&gt; and &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T083357Z" creationid="piav" creationdate="20191022T083357Z">
+        <seg>Tuetut tiedostomuodot ovat &lt;f1&gt;TXT&lt;/f1&gt; ja &lt;f2&gt;UTF8&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
