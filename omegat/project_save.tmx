@@ -1819,6 +1819,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T073559Z" creationid="piav" creationdate="20191022T073445Z">
+        <seg>Kun projekti avataan, &lt;a1&gt;OmegaT&lt;/a1&gt; tunnistaa automaattisesti tässä kansiossa olevat sanastotiedostot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T100433Z" creationid="PiaVee" creationdate="20171015T100433Z">
@@ -15357,6 +15365,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T073811Z" creationid="piav" creationdate="20191022T073811Z">
+        <seg>Jos aktiivisessa segmentissä on termejä, joita &lt;a2&gt;OmegaT&lt;/a2&gt; löytää myös sanastotiedosto(i)sta, termit näkyvät Sanasto </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Terms with multiple targets</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T073413Z" creationid="piav" creationdate="20190522T073413Z">
@@ -16424,8 +16440,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T073440Z" creationid="piav" creationdate="20191022T073440Z">
-        <seg>Jos sinulla on jo sanastotiedosto, jota haluat käyttää käännösprojektissa, luo OmegaT-käännösprojekti ja vie sanastotiedosto projektin &lt;f0&gt;/glossary&lt;/f0&gt;-kansioon.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191022T073543Z" creationid="piav" creationdate="20191022T073440Z">
+        <seg>Jos sinulla on jo sanastotiedosto, jota haluat käyttää, luo OmegaT-käännösprojekti ja vie sanastotiedosto projektin &lt;f0&gt;/glossary&lt;/f0&gt;-kansioon.</seg>
       </tuv>
     </tu>
     <tu>
