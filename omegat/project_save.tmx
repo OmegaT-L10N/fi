@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"This is a source term, which contains a comma","c'est un terme, qui contient une virgule"</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T081338Z" creationid="piav" creationdate="20191022T081338Z">
+        <seg>"tämä on lähdekielinen termi, jossa käytetään pilkkua","c'est un terme, qui contient une virgule"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Unable to enumerate Java directory contents.";</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T091238Z" creationid="PiaVee" creationdate="20170910T091238Z">
@@ -2723,6 +2731,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also supported is the CSV format.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T081051Z" creationid="piav" creationdate="20191022T081051Z">
+        <seg>Toinen tuettu tiedostomuoto on CSV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternative Language</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T141743Z" creationid="piav" creationdate="20190916T141743Z">
@@ -4227,6 +4243,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T074103Z" creationid="piav" creationdate="20190522T074103Z">
         <seg>Kommentti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comment fields are separated by a comma ','.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T081204Z" creationid="piav" creationdate="20191022T081204Z">
+        <seg>Myös kommentit erotetaan pilkulla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14989,6 +15013,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Strings can be enclosed by quotes ", which allows having a comma inside a string:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T081307Z" creationid="piav" creationdate="20191022T081307Z">
+        <seg>Merkkijonoissa voidaan käyttää lainausmerkkejä (" "), jolloin merkkijonossa voi olla pilkku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Strip BiDi Marks</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T082344Z" creationid="PiaVee" creationdate="20170908T125244Z">
@@ -16336,6 +16368,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T174943Z" creationid="PiaVee" creationdate="20170910T084447Z">
         <seg>OmegaT on vapaa työkalu tietokoneavusteista kääntämistä varten. Tämä tiedosto on virallinen OmegaT-käsikirja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This format is the same as the tab separated one: source term, target term.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T081153Z" creationid="piav" creationdate="20191022T081153Z">
+        <seg>Tässä tiedostomuodossa erotinmerkkinä käytetään pilkkua: lähdekielinen termi, kohdekielinen termi.</seg>
       </tuv>
     </tu>
     <tu>
