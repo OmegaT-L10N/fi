@@ -8113,6 +8113,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to the plain text format, TBX format is also supported as a read-only glossary format.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T081533Z" creationid="piav" creationdate="20191022T081533Z">
+        <seg>Vain lukukelpoisen sanastotiedoston muodoksi sopii termitiedostomuoto TBX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In an as-yet untranslated "External View" file, the target column is empty.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T161202Z" creationid="PiaVee" creationdate="20171014T155819Z">
@@ -15914,6 +15922,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="FI" changeid="piav" changedate="20190521T133658Z" creationid="piav" creationdate="20190521T133658Z">
         <seg>Kielikoodin tulisi olla muotoa xx-YY, xxx-YY, xx_YY tai xxx_YY, jossa
 xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The location of the &lt;f0&gt;.tbx&lt;/f0&gt; file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191022T081652Z" creationid="piav" creationdate="20191022T081652Z">
+        <seg>&lt;f0&gt;.tbx&lt;/f0&gt;-tiedoston on oltava &lt;f1&gt;/glossary&lt;/f1&gt;-kansiossa, mutta voit käyttää myös alikansiota (esim. &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
