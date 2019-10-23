@@ -1526,8 +1526,8 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
       <tuv lang="EN">
         <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T060316Z" creationid="piav" creationdate="20191023T060201Z">
-        <seg>, &lt;e0&gt;Alt&lt;/e0&gt; tai &lt;e1&gt;AltGr&lt;/e1&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T060423Z" creationid="piav" creationdate="20191023T060201Z">
+        <seg>, &lt;e0&gt;alt&lt;/e0&gt; tai &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1901,8 +1901,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T060358Z" creationid="piav" creationdate="20191023T060358Z">
-        <seg>&lt;c0&gt;&lt;tapahtuma&gt;&lt;/c0&gt; voi olla &lt;e1&gt;kirjoitettu&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T060512Z" creationid="piav" creationdate="20191023T060358Z">
+        <seg>&lt;c0&gt;&lt;tapahtuma&gt;&lt;/c0&gt; voi olla &lt;e1&gt;typed&lt;/e1&gt; (kirjoitettu), &lt;e2&gt;pressed&lt;/e2&gt; (näppäintä painettu), &lt;e3&gt;released&lt;/e3&gt; (näppäin vapautettu)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16798,6 +16798,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T060752Z" creationid="piav" creationdate="20191023T060752Z">
+        <seg>Mahdolliset avaintoiminnot (avaimet) on listattu seuraavassa Oraclen Java 1.6 -dokumentaatiossa: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The principal members of the project are:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T084444Z" creationid="PiaVee" creationdate="20171219T084027Z">
@@ -20003,6 +20011,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; can be any key available on your keyboard</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T060657Z" creationid="piav" creationdate="20191023T060657Z">
+        <seg>ja &lt;c0&gt;&lt;näppäin&gt;&lt;/c0&gt; voi olla mikä tahansa näppäimistön käytettävissä oleva näppäin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ar</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173504Z" creationid="PiaVee" creationdate="20171014T173504Z">
@@ -21007,6 +21023,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174223Z" creationid="PiaVee" creationdate="20171014T174223Z">
         <seg>ht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T060658Z" creationid="piav" creationdate="20191023T060658Z">
+        <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
       </tuv>
     </tu>
     <tu>
