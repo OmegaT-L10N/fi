@@ -13141,6 +13141,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Place the dictionary files you wish to use in this folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T110831Z" creationid="piav" creationdate="20191023T110831Z">
+        <seg>Tuo tähän kansioon sanakirjatiedostot, joita haluat käyttää.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Plain text files - in most cases files with a txt extension - contain just textual information and offer no clearly defined way to inform the computer which language they contain.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190515T111935Z" creationid="PiaVee" creationdate="20171219T133409Z">
@@ -18302,6 +18310,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are essentially two ways in which you can do this.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T110841Z" creationid="piav" creationdate="20191023T110841Z">
+        <seg>Voit tehdä tämän kahdella tavalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are many plugins available for OmegaT online.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T134940Z" creationid="piav" creationdate="20190920T134940Z">
@@ -20661,6 +20677,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T074713Z" creationid="piav" creationdate="20190916T130920Z">
         <seg>Luo termejä sanastoon valitsemalla Muokkaa &gt; Luo sanaston termi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T111144Z" creationid="piav" creationdate="20191023T111144Z">
+        <seg>Voit käyttää tiedostonhallintaohjelmaa ja kopioida muualla olevat tiedostot uuteen kansioon, tai käyttää OmegaT:n &lt;e0&gt;Asenna uusi sanakirja&lt;/e0&gt;-toimintoa. Toiminto laatii listan käytettävistä sanakirjoista, ja voit valita niistä haluamasi.</seg>
       </tuv>
     </tu>
     <tu>
