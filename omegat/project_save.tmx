@@ -17990,6 +17990,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T112257Z" creationid="piav" creationdate="20191023T112150Z">
+        <seg>Tiedostojen nimien ja kohdekielen kielikoodin on oltava yhtäläiset. (Kielikoodi on asetettu kohdassa &lt;g0&gt;Projekti &gt; Ominaisuudet&lt;/g0&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The new colours have been saved.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T093844Z" creationid="piav" creationdate="20190522T093844Z">
