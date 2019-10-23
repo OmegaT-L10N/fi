@@ -719,3 +719,5 @@ shortcut definition file	pikanäppäinten kuvaustiedosto
 modifier	muuntonäppäin	vaihto- ctrl- tai alt-näppäin
 modifier key	muuntonäppäin	vaihto- ctrl- tai alt-näppäin
 Non-Unique Segments	toistuvat segmentit
+spelling dictionaries	oikeinkirjoitussanastoja
+spelling dictionaries	oikeinkirjoitussanasto
