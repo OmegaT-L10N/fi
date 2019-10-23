@@ -6870,6 +6870,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ensure the URL is correct.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T105821Z" creationid="piav" creationdate="20191023T105821Z">
+        <seg>Varmista, että URL-osoite on oikein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ensure the server URL is correct.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T105723Z" creationid="piav" creationdate="20191023T105723Z">
@@ -9641,6 +9649,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T110115Z" creationid="piav" creationdate="20191023T110115Z">
+        <seg>Näin ollen se voi käyttää näiden sovellusten monia vapaita oikeinkirjoitussanakirjoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is possible to select another tokenizer (Language Tokenizer) or a different version of the tokenizer (Tokenizer Behavior) from the Project Properties window.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T153741Z" creationid="PiaVee" creationdate="20171014T153741Z">
@@ -12362,6 +12378,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T135218Z" creationid="piav" creationdate="20190920T135218Z">
         <seg>OmegaT salaa arat salasanat ja API-avaimet pääsalasanalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T110018Z" creationid="piav" creationdate="20191023T105926Z">
+        <seg>OmegaT:n oletuskielentarkistin perustuu Apache OpenOfficessa, LibreOfficessa, Firefoxissa ja Thunderbirdissä käytettyyn kielentarkistimeen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16503,6 +16527,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171220T115041Z" creationid="PiaVee" creationdate="20171220T112922Z">
         <seg>Määritä merkistökoodaus, jota OmegaT käyttää tekstitiedostoissa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spell checker</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T105832Z" creationid="piav" creationdate="20191023T105832Z">
+        <seg>Kielentarkastin</seg>
       </tuv>
     </tu>
     <tu>
@@ -21835,6 +21867,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>editMultipleAlternate</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T105825Z" creationid="piav" creationdate="20191023T105825Z">
+        <seg>editMultipleAlternate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>editMultipleDefault</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T063007Z" creationid="piav" creationdate="20191023T063007Z">
@@ -21887,6 +21927,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T063045Z" creationid="piav" creationdate="20191023T063045Z">
         <seg>editRegisterIdenticalMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editRegisterUntranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T105826Z" creationid="piav" creationdate="20191023T105826Z">
+        <seg>editRegisterUntranslatedMenuItem</seg>
       </tuv>
     </tu>
     <tu>
