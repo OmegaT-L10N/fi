@@ -716,3 +716,5 @@ Master Password	pääsalasana
 Glossary viewer	Sanaston esikatselu
 form-feed character	sivunvaihdon merkki
 shortcut definition file	pikanäppäinten kuvaustiedosto
+modifier	muuntonäppäin	vaihto- ctrl- tai alt-näppäin
+modifier key	muuntonäppäin	vaihto- ctrl- tai alt-näppäin
