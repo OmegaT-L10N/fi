@@ -14883,6 +14883,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shortcuts customization</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T052452Z" creationid="piav" creationdate="20191023T052452Z">
+        <seg>Pikanäppäimien mukauttaminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Should you need more specific information, consult the &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T145555Z" creationid="piav" creationdate="20191022T145555Z">
