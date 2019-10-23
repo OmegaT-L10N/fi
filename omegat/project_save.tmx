@@ -5117,6 +5117,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+O</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061852Z" creationid="piav" creationdate="20191023T061852Z">
+        <seg>Ctrl+O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+PgDn</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T125119Z" creationid="PiaVee" creationdate="20171218T123737Z">
@@ -5137,6 +5145,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T125103Z" creationid="PiaVee" creationdate="20171218T123211Z">
         <seg>Ctrl + nuolinäppäin oikealle:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+N</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061842Z" creationid="piav" creationdate="20191023T061842Z">
+        <seg>Ctrl+Shift+N</seg>
       </tuv>
     </tu>
     <tu>
@@ -5289,6 +5305,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T110644Z" creationid="PiaVee" creationdate="20171219T110644Z">
         <seg>Merkistön oletuskoodaus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default shortcut</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061830Z" creationid="piav" creationdate="20191023T061830Z">
+        <seg>Oletusmuotoinen pikanäppäin</seg>
       </tuv>
     </tu>
     <tu>
@@ -8385,6 +8409,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061807Z" creationid="piav" creationdate="20191023T061807Z">
+        <seg>Jos ne eivät ole ristiriidassa järjestelmän omien pikanäppäinten kanssa, voit käyttää niitä OmegaT:ssä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061509Z" creationid="piav" creationdate="20191023T061432Z">
@@ -10434,6 +10466,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Menu Item</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061820Z" creationid="piav" creationdate="20191023T061820Z">
+        <seg>Valikon vaihtoehto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Menu Item Code</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061836Z" creationid="piav" creationdate="20191023T061836Z">
+        <seg>Valikon vaihtoehdon koodi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Merge</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T080843Z" creationid="piav" creationdate="20190522T080843Z">
@@ -10822,6 +10870,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T142351Z" creationid="piav" creationdate="20190916T142351Z">
         <seg>Neuroverkkokonekäännös</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061840Z" creationid="piav" creationdate="20191023T061840Z">
+        <seg>Uusi</seg>
       </tuv>
     </tu>
     <tu>
@@ -11778,6 +11834,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061851Z" creationid="piav" creationdate="20191023T061851Z">
+        <seg>Avaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open MED Project...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T093403Z" creationid="PiaVee" creationdate="20171015T102525Z">
@@ -11798,6 +11862,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T170314Z" creationid="PiaVee" creationdate="20171015T101350Z">
         <seg>Avaa &amp;viimeisin projekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Recent Project</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061916Z" creationid="piav" creationdate="20191023T061916Z">
+        <seg>Avaa viime projekti</seg>
       </tuv>
     </tu>
     <tu>
@@ -12811,6 +12883,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T111343Z" creationid="piav" creationdate="20190913T111343Z">
         <seg>Projektin tiedostot…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Menu</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061813Z" creationid="piav" creationdate="20191023T061813Z">
+        <seg>Projektivalikko</seg>
       </tuv>
     </tu>
     <tu>
@@ -16984,8 +17064,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T053640Z" creationid="piav" creationdate="20191023T053640Z">
-        <seg>Määrittele pikanäppäimet seuraavalla tavalla: &lt;c0&gt;&lt;valikon kohdan koodi&gt;=&lt;pikanäppäin&lt;/c0&gt;. Löydät &lt;e1&gt;&lt;valikon kohdan koodin&gt;&lt;/e1&gt; alla olevista taulukoista. &lt;e2&gt;&lt;Pikanäppäin&gt;&lt;/e2&gt; on näppäinyhdistelmä, jota haluat käyttää.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061728Z" creationid="piav" creationdate="20191023T053640Z">
+        <seg>Määrittele pikanäppäimet seuraavalla tavalla: &lt;c0&gt;&lt;valikon kohdan koodi&gt;=&lt;pikanäppäin&lt;/c0&gt;. Löydät &lt;e1&gt;&lt;valikon vaihtoehdon koodin&gt;&lt;/e1&gt; alla olevista taulukoista. &lt;e2&gt;&lt;Pikanäppäin&gt;&lt;/e2&gt; on näppäinyhdistelmä, jota haluat käyttää.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19564,8 +19644,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       <tuv lang="EN">
         <seg>Your new shortcuts should now appear next to the menu items you have modified.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T061635Z" creationid="piav" creationdate="20191023T061635Z">
-        <seg>Uudet pikanäppäimet näkyvät nyt niihin liittyvien valikon kohtien vierellä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061736Z" creationid="piav" creationdate="20191023T061635Z">
+        <seg>Uudet pikanäppäimet näkyvät nyt niihin liittyvien valikon vaihtoehtojen vierellä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22525,10 +22605,34 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>projectNewMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061845Z" creationid="piav" creationdate="20191023T061845Z">
+        <seg>projectNewMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectOpenMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061854Z" creationid="piav" creationdate="20191023T061854Z">
+        <seg>projectOpenMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>projectOpenMenuItem=ctrl O</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061145Z" creationid="piav" creationdate="20191023T061145Z">
         <seg>projectOpenMenuItem=ctrl O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectTeamNewMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061847Z" creationid="piav" creationdate="20191023T061847Z">
+        <seg>projectTeamNewMenuItem</seg>
       </tuv>
     </tu>
     <tu>
