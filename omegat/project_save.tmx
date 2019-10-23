@@ -4487,6 +4487,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking on &lt;g0&gt;Install new dictionary&lt;/g0&gt; button will open the Dictionary installer window, where you can select the dictionaries you want to install.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T111944Z" creationid="piav" creationdate="20191023T111944Z">
+        <seg>Napsauta kenttää &lt;g0&gt;Asenna uusi sanakirja&lt;/g0&gt;, niin sanakirjan asennusikkuna avautuu. Ikkunassa voit valita ne sanakirjat, jotka haluat asentaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clo&amp;se</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T065310Z" creationid="PiaVee" creationdate="20171218T072609Z">
@@ -16651,6 +16659,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spellchecker setup</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T111713Z" creationid="piav" creationdate="20191023T111713Z">
+        <seg>Oikeinkirjoituksen tarkistuksen asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spelling</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T133444Z" creationid="piav" creationdate="20190920T133444Z">
@@ -19307,8 +19323,8 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       <tuv lang="EN">
         <seg>URL of online dictionaries:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190916T135426Z" creationid="piav" creationdate="20190916T135426Z">
-        <seg>Nettisanakirjojen URL:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T111704Z" creationid="piav" creationdate="20190916T135426Z">
+        <seg>Online-sanakirjojen URL:</seg>
       </tuv>
     </tu>
     <tu>
