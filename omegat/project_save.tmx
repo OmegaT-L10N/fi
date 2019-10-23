@@ -9073,6 +9073,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T114718Z" creationid="piav" creationdate="20191023T114718Z">
+        <seg>Jos olet kääntänyt suuren määrän tekstiä ja huomaat vasta sen jälkeen, että projektin kohdekielen kielikoodi ei vastaa oikeinkirjoituksen tarkistuksen kielikoodia (olet esimerkiksi valinnut kohdekieleksi pt_BR, mutta pt_BR-sanakirjoja ei ole), sinun kannattaa yksinkertaisesti kopioida kaksi sopivaa tiedostoa ja nimetä ne uudelleen (esim. tiedostot &lt;e0&gt;pt_PT.aff&lt;/e0&gt; ja &lt;e1&gt;pt_PT.dic&lt;/e1&gt; muotoon &lt;e2&gt;pt_BR.aff&lt;/e2&gt; ja &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have an existing terminology handling system it is quite possible it offers the export of terminology data via TBX format.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T082338Z" creationid="piav" creationdate="20191022T082338Z">
@@ -18306,6 +18314,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190919T132011Z" creationid="piav" creationdate="20190919T132011Z">
         <seg>Tätä käännössuntaa ei tueta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T114316Z" creationid="piav" creationdate="20191023T114316Z">
+        <seg>Oikeinkirjoituksen tarkistus tunnistaa käytettävän sanakirjan kohdekielen kielikoodin perusteella. Jos kohdekielenä on brasilianportugali (PT_BR), sanakirjojen alikansiossa on oltava kaksi samannimistä sanakirjatiedostoa, &lt;e0&gt;pt_br.aff&lt;/e0&gt; ja &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
