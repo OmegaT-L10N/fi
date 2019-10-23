@@ -9049,6 +9049,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If they are used by some other application on your system, they will disappear from that application, too.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T115144Z" creationid="piav" creationdate="20191023T115144Z">
+        <seg>Jos jokin toinen sovellus käyttää samoja tiedostoja, ne katoavat myös tästä sovelluksesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061807Z" creationid="piav" creationdate="20191023T061807Z">
@@ -9109,6 +9117,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T061112Z" creationid="PiaVee" creationdate="20170910T082715Z">
         <seg>Laita rasti alla olevaan ruutuun, jos haluat käyttää OmegaT:tä samalla kielellä, jota käytettiin ohjelman asennuksen aikana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If, for whatever reason, you need to do this from time to time, it may make sense to copy the files involved to a different folder, reserved just for use by OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T115316Z" creationid="piav" creationdate="20191023T115316Z">
+        <seg>Jos sinun on syystä tai toisesta poistettava tai uudelleennimettävä sanakirjoja usein, kannattaa kopioida kyseiset tiedostot toiseen kansioon, jota vain OmegaT käyttää.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12106,6 +12122,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081606Z" creationid="piav" creationdate="20190522T081606Z">
         <seg>Muistiinpano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that &lt;f0&gt;Remove&lt;/f0&gt; physically removes the selected vocabularies.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T115110Z" creationid="piav" creationdate="20191023T115110Z">
+        <seg>Huomaa, että &lt;f0&gt;Poista&lt;/f0&gt; poistaa fyysisesti kaikki valitut sanakirjat.</seg>
       </tuv>
     </tu>
     <tu>
