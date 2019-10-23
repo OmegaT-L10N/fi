@@ -1923,6 +1923,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;c0&gt;projectOpenMenuItem=shift ctrl O&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061349Z" creationid="piav" creationdate="20191023T061349Z">
+        <seg>&lt;c0&gt;projectOpenMenuItem=shift ctrl O&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt;is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T134722Z" creationid="PiaVee" creationdate="20171014T134616Z">
@@ -8377,6 +8385,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061509Z" creationid="piav" creationdate="20191023T061432Z">
+        <seg>Jos käytä Mac-konetta ja haluat lisätä pikanäppäimen &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; avaamaan kohdan &lt;m4&gt; &lt;g5&gt;Työkalut&lt;/g5&gt; &lt;g6&gt;Tilastot&lt;/g6&gt; &lt;/m4&gt;, lisää &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;-tiedostoon seuraava rivi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T124957Z" creationid="piav" creationdate="20190916T124725Z">
@@ -14209,6 +14225,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061527Z" creationid="piav" creationdate="20191023T061527Z">
+        <seg>Tallenna tiedosto ja käynnistä &lt;a0&gt;OmegaT&lt;/a0&gt; uudelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving and Output</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T063131Z" creationid="piav" creationdate="20190522T063131Z">
@@ -19538,6 +19562,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Your new shortcuts should now appear next to the menu items you have modified.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061635Z" creationid="piav" creationdate="20191023T061635Z">
+        <seg>Uudet pikanäppäimet näkyvät nyt niihin liittyvien valikon kohtien vierellä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Your operating system refused to let OmegaT
 create its configuration folder.</seg>
       </tuv>
@@ -23121,6 +23153,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082125Z" creationid="PiaVee" creationdate="20171015T082125Z">
         <seg>ton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061512Z" creationid="piav" creationdate="20191023T061512Z">
+        <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
       </tuv>
     </tu>
     <tu>
