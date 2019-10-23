@@ -16181,8 +16181,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Sets the segment validation key to Tab instead of the default Enter.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T115943Z" creationid="piav" creationdate="20191023T115943Z">
-        <seg>oletusnäppäimenä on Enter)Valitse tämä, niin segmentin validointi tapahtuu sar</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T120001Z" creationid="piav" creationdate="20191023T115943Z">
+        <seg>Valitse tämä, niin segmentin validointi tapahtuu sarkainnäppäimellä (oletusnäppäimenä on Enter).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18198,6 +18198,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The program will seek confirmation before closing down.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T120243Z" creationid="piav" creationdate="20191023T120243Z">
+        <seg>Ohjelma pyytää vahvistusta ennen kuin se sulkeutuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project cannot be verified</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T120525Z" creationid="piav" creationdate="20190920T120525Z">
@@ -18816,6 +18824,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T063704Z" creationid="PiaVee" creationdate="20170930T063430Z">
         <seg>Tätä käyttöohjekirjaa ei kuitenkaan olisi olemassa ilman monen ihmisen apua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option is useful for some Chinese, Japanese or Korean character input systems.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T120222Z" creationid="piav" creationdate="20191023T120222Z">
+        <seg>Tämä kannattaa valita, kun käytössä on kiinan, japanin tai korean merkkien syöttöjärjestelmä.</seg>
       </tuv>
     </tu>
     <tu>
