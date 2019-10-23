@@ -352,8 +352,8 @@
       <tuv lang="EN">
         <seg>&amp;Current Source Document</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T170642Z" creationid="PiaVee" creationdate="20171015T102804Z">
-        <seg>&amp;Nykyinen lähdetiedosto</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T062300Z" creationid="PiaVee" creationdate="20171015T102804Z">
+        <seg>&amp;Nykyinen lähdeasiakirja</seg>
       </tuv>
     </tu>
     <tu>
@@ -2579,6 +2579,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Access Project Contents/Current Target Document</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T062407Z" creationid="piav" creationdate="20191023T062407Z">
+        <seg>Avaa projektin sisältö/nykyinen lähdeasiakirja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access Project Contents/Dictionaries</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T062053Z" creationid="piav" creationdate="20191023T062053Z">
@@ -2615,6 +2623,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T062143Z" creationid="piav" creationdate="20191023T062143Z">
         <seg>Avaa projektin sisältö/kohdetiedostot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Writeable Glossary</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T062421Z" creationid="piav" creationdate="20191023T062421Z">
+        <seg>Avaa projektin sisältö/kirjoituskelpoinen sanasto</seg>
       </tuv>
     </tu>
     <tu>
@@ -5229,6 +5245,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Q</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T062427Z" creationid="piav" creationdate="20191023T062427Z">
+        <seg>Ctrl+Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Right:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T125103Z" creationid="PiaVee" creationdate="20171218T123211Z">
@@ -5281,6 +5305,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T125156Z" creationid="PiaVee" creationdate="20171218T124915Z">
         <seg>Ctrl + välilyönti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Y</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T062503Z" creationid="piav" creationdate="20191023T062503Z">
+        <seg>Ctrl+Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Z</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T062458Z" creationid="piav" creationdate="20191023T062458Z">
+        <seg>Ctrl+Z</seg>
       </tuv>
     </tu>
     <tu>
@@ -6274,6 +6314,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T075834Z" creationid="piav" creationdate="20190913T102301Z">
         <seg>Muokkaa kohtaa Maalaa lausekekuvio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Menu</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T062442Z" creationid="piav" creationdate="20191023T062442Z">
+        <seg>Muokkaa-valikko</seg>
       </tuv>
     </tu>
     <tu>
@@ -12060,8 +12108,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Open {0} Source Files' Locations</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072808Z" creationid="PiaVee" creationdate="20171218T072808Z">
-        <seg>Avaa {0} lähdetiedoston sijainnit</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T062312Z" creationid="PiaVee" creationdate="20171218T072808Z">
+        <seg>Avaa {0} lähdetiedostojen sijainnit</seg>
       </tuv>
     </tu>
     <tu>
@@ -12671,8 +12719,8 @@ onko sinun tehtävä vielä muuta.</seg>
       <tuv lang="EN">
         <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T132113Z" creationid="piav" creationdate="20190521T132113Z">
-        <seg>Valitse lähdetiedostoissa käytetty kieli ja kohdekieli, jolle olet kääntämässä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T062331Z" creationid="piav" creationdate="20190521T132113Z">
+        <seg>Valitse lähdetiedostojen kieli ja kohdekieli, jolle olet kääntämässä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13271,6 +13319,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Quit</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T062426Z" creationid="piav" creationdate="20191023T062426Z">
+        <seg>Lopeta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>R&amp;emove</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T165835Z" creationid="PiaVee" creationdate="20171015T094601Z">
@@ -13371,6 +13427,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T174622Z" creationid="piav" creationdate="20190521T135735Z">
         <seg>&amp;Rekursiivinen haku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Redo Last Action</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T062502Z" creationid="piav" creationdate="20191023T062502Z">
+        <seg>Toista viime toiminto</seg>
       </tuv>
     </tu>
     <tu>
@@ -13861,6 +13925,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190919T132502Z" creationid="piav" creationdate="20190919T132502Z">
         <seg>Korvaa käännös tekstillä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace With Match or Selection</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T062514Z" creationid="piav" creationdate="20191023T062514Z">
+        <seg>Korvaa osumalla tai valinnalla</seg>
       </tuv>
     </tu>
     <tu>
@@ -18441,6 +18513,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Undo Last Action</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T062457Z" creationid="piav" creationdate="20191023T062457Z">
+        <seg>Kumoa viime toiminto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Undock</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T133125Z" creationid="piav" creationdate="20190916T133125Z">
@@ -20843,6 +20923,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>editRedoMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T062504Z" creationid="piav" creationdate="20191023T062504Z">
+        <seg>editRedoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editUndoMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T062459Z" creationid="piav" creationdate="20191023T062459Z">
+        <seg>editUndoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ee</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174049Z" creationid="PiaVee" creationdate="20171014T174049Z">
@@ -22733,6 +22829,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T062400Z" creationid="piav" creationdate="20191023T062400Z">
+        <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessCurrentTargetDocumentMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T062408Z" creationid="piav" creationdate="20191023T062408Z">
+        <seg>projectAccessCurrentTargetDocumentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>projectAccessDictionaryMenuItem</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T062100Z" creationid="piav" creationdate="20191023T062100Z">
@@ -22773,6 +22885,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>projectAccessWriteableGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T062423Z" creationid="piav" creationdate="20191023T062423Z">
+        <seg>projectAccessWriteableGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>projectCloseMenuItem</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061926Z" creationid="piav" creationdate="20191023T061926Z">
@@ -22793,6 +22913,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061952Z" creationid="piav" creationdate="20191023T061952Z">
         <seg>projectEditMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectExitMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T062429Z" creationid="piav" creationdate="20191023T062429Z">
+        <seg>projectExitMenuItem</seg>
       </tuv>
     </tu>
     <tu>
