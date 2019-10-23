@@ -2981,8 +2981,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T135345Z" creationid="piav" creationdate="20190920T135345Z">
-        <seg>Kaikki pääsalasanalla suojatut asetukset nollataan.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T115637Z" creationid="piav" creationdate="20190920T135345Z">
+        <seg>Kaikki pääsalasanalla suojatut valinnat nollataan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8192,8 +8192,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>General Preferences</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T115337Z" creationid="piav" creationdate="20191023T115337Z">
-        <seg>Yleiset asetukset</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T115657Z" creationid="piav" creationdate="20191023T115337Z">
+        <seg>Yleiset valinnat</seg>
       </tuv>
     </tu>
     <tu>
@@ -8432,8 +8432,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Go to Preferences &gt; External Search to enable.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T135501Z" creationid="piav" creationdate="20190920T135501Z">
-        <seg>Ota ne käyttöön kohdassa Asetukset &gt; Ulkoinen haku.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T115640Z" creationid="piav" creationdate="20190920T135501Z">
+        <seg>Ota ne käyttöön kohdassa Valinnat &gt; Ulkoinen haku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9749,6 +9749,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T103350Z" creationid="PiaVee" creationdate="20171014T103350Z">
         <seg>TaaS-palvelu hakee sekä julkisesta datasta että palveluun yhdistetyistä yksityisistä sanastoista. Yksityisiä sanastokokoelmia luodaan automaattisesti poimimalla lähdekielisiä termejä asiakirjoista ja hakemalla kohdekielisiä termejä erilaisista lähteistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It allows parameters to be set for all translation projects.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T115835Z" creationid="piav" creationdate="20191023T115835Z">
+        <seg>jossa voit tehdä kaikkia käännösprojekteja koskevia valintoja ja asetuksia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13631,16 +13639,16 @@ onko sinun tehtävä vielä muuta.</seg>
       <tuv lang="EN">
         <seg>Preferences</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T134730Z" creationid="piav" creationdate="20190920T134730Z">
-        <seg>Asetukset</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T115629Z" creationid="piav" creationdate="20190920T134730Z">
+        <seg>Valinnat</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Preferences - {0}</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T134741Z" creationid="piav" creationdate="20190920T134741Z">
-        <seg>Asetukset – {0}</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T115632Z" creationid="piav" creationdate="20190920T134741Z">
+        <seg>Valinnat – {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -16171,6 +16179,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sets the segment validation key to Tab instead of the default Enter.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T115943Z" creationid="piav" creationdate="20191023T115943Z">
+        <seg>oletusnäppäimenä on Enter)Valitse tämä, niin segmentin validointi tapahtuu sar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+F3</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T062909Z" creationid="piav" creationdate="20191023T062909Z">
@@ -18685,8 +18701,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T115531Z" creationid="piav" creationdate="20191023T115414Z">
-        <seg>Pääset tähän kohtaan valitsemalla &lt;m0&gt; &lt;g1&gt;Asetukset&lt;/g1&gt; &lt;g2&gt;Valinnat</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T115803Z" creationid="piav" creationdate="20191023T115414Z">
+        <seg>Valitsemalla &lt;m0&gt; &lt;g1&gt;Asetukset&lt;/g1&gt; &lt;g2&gt;Valinnat…&lt;/g2&gt; &lt;/m0&gt; pääset kohtaan,</seg>
       </tuv>
     </tu>
     <tu>
@@ -19949,6 +19965,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use TAB to Advance</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T115839Z" creationid="piav" creationdate="20191023T115839Z">
+        <seg>Siirry eteenpäin sarkainnäppäimellä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use Terms Appearing Separately in the Source Text</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T063932Z" creationid="piav" creationdate="20191023T063932Z">
@@ -20899,8 +20923,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       <tuv lang="EN">
         <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T052835Z" creationid="piav" creationdate="20191023T052609Z">
-        <seg>Voit muuttaa jo olemassa olevia pikanäppäimiä sekä lisätä uusia. Sijoita pikänäppäinten kuvaustiedosto &lt;a0&gt;OmegaT&lt;/a0&gt;-asetuskansioon (pääset sinne valitsemalla &lt;m1&gt; &lt;g2&gt;Asetukset&lt;/g2&gt; &lt;g3&gt;Mene määrityskansioon&lt;/g3&gt; &lt;/m1&gt;).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T115654Z" creationid="piav" creationdate="20191023T052609Z">
+        <seg>Voit muuttaa jo olemassa olevia pikanäppäimiä sekä lisätä uusia. Sijoita pikänäppäinten kuvaustiedosto &lt;a0&gt;OmegaT&lt;/a0&gt;-valintakansioon (pääset sinne valitsemalla &lt;m1&gt; &lt;g2&gt;Asetukset&lt;/g2&gt; &lt;g3&gt;Mene määrityskansioon&lt;/g3&gt; &lt;/m1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
