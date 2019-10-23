@@ -16606,8 +16606,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T053936Z" creationid="piav" creationdate="20191023T053936Z">
-        <seg>Näppäinyhdistelmissä (pikanäppäimissä) käytetään Oraclen Java 1.6 -lta  The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (sivun alaosassa): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T054357Z" creationid="piav" creationdate="20191023T053936Z">
+        <seg>Pikanäppäinten koko syntaksi merkitään Oraclen Java 1.6 -dokumentaation (sivun alaosassa) mukaisesti: &lt;u0&gt;Java 1.6:n pikanäppäimet&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
