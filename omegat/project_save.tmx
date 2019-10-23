@@ -3043,6 +3043,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also check that the target language code of your project against the available vocabularies in the setup window.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T114054Z" creationid="piav" creationdate="20191023T114054Z">
+        <seg>Tarkista myös, että projektin kohdekielen kielikoodi on sama kuin käytettävän sanakirjan kielikoodi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also supported is the CSV format.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T081051Z" creationid="piav" creationdate="20191022T081051Z">
@@ -8686,6 +8694,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hints</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T113746Z" creationid="piav" creationdate="20191023T113746Z">
+        <seg>Vihjeitä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hiri Motu</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174250Z" creationid="PiaVee" creationdate="20171014T174250Z">
@@ -9013,6 +9029,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T191221Z" creationid="piav" creationdate="20190527T191221Z">
         <seg>Pääset vaihtamaan mahdollisia suodatinasetuksia napsauttamalla Asetukset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T113927Z" creationid="piav" creationdate="20191023T113910Z">
+        <seg>Jos oikeinkirjoituksen tarkistus ei toimi, tarkista, että olet rastittanut &lt;g0&gt;Tarkista oikeinkirjoitus automaattisesti&lt;/g0&gt; -valintaruudun (kohdassa &lt;g1&gt;Asetukset &gt; Oikeinkirjoituksen tarkistus…&lt;/g1&gt;)</seg>
       </tuv>
     </tu>
     <tu>
