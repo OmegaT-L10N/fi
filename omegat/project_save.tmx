@@ -2115,6 +2115,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; or &lt;k1&gt;Enter&lt;/k1&gt; or &lt;k2&gt;Tab&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063207Z" creationid="piav" creationdate="20191023T063207Z">
+        <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; tai &lt;k1&gt;Enter&lt;/k1&gt; tai &lt;k2&gt;sarkain&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt; or &lt;k1&gt;Ctrl+Enter&lt;/k1&gt; or &lt;k2&gt;Ctrl+Tab&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063222Z" creationid="piav" creationdate="20191023T063222Z">
+        <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt; tai &lt;k1&gt;Ctrl+Enter&lt;/k1&gt; tai &lt;k2&gt;Ctrl+sarkain&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;none&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T114618Z" creationid="piav" creationdate="20190920T114618Z">
@@ -5261,6 +5277,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+J</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063250Z" creationid="piav" creationdate="20191023T063250Z">
+        <seg>Ctrl+J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+K</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T062725Z" creationid="piav" creationdate="20191023T062725Z">
@@ -5389,6 +5413,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+M</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063343Z" creationid="piav" creationdate="20191023T063343Z">
+        <seg>Ctrl+Shift+M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+N</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061842Z" creationid="piav" creationdate="20191023T061842Z">
@@ -5405,6 +5437,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+Q</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063323Z" creationid="piav" creationdate="20191023T063323Z">
+        <seg>Ctrl+Shift+Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+R</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T062538Z" creationid="piav" creationdate="20191023T062538Z">
@@ -5413,10 +5453,26 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+S</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063044Z" creationid="piav" creationdate="20191023T063044Z">
+        <seg>Ctrl+Shift+S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+T</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T062648Z" creationid="piav" creationdate="20191023T062648Z">
         <seg>Ctrl+Shift+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+U</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063133Z" creationid="piav" creationdate="20191023T063133Z">
+        <seg>Ctrl+Shift+U</seg>
       </tuv>
     </tu>
     <tu>
@@ -5441,6 +5497,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T062655Z" creationid="piav" creationdate="20191023T062655Z">
         <seg>Ctrl+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+U</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063125Z" creationid="piav" creationdate="20191023T063125Z">
+        <seg>Ctrl+U</seg>
       </tuv>
     </tu>
     <tu>
@@ -8154,6 +8218,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T135501Z" creationid="piav" creationdate="20190920T135501Z">
         <seg>Ota ne käyttöön kohdassa Asetukset &gt; Ulkoinen haku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GoTo Menu</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063117Z" creationid="piav" creationdate="20191023T063054Z">
+        <seg>Mene-valikko</seg>
       </tuv>
     </tu>
     <tu>
@@ -11306,10 +11378,50 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next Note</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063306Z" creationid="piav" creationdate="20191023T063306Z">
+        <seg>Seuraavaan muistiinpanoon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063139Z" creationid="piav" creationdate="20191023T063139Z">
+        <seg>Seuraavaan segmenttiin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Translated Segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063132Z" creationid="piav" creationdate="20191023T063132Z">
+        <seg>Seuraavaan käännettyyn segmenttiin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next Uni&amp;que Segment</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T171651Z" creationid="PiaVee" creationdate="20171015T110831Z">
         <seg>Seuraava &amp;uniikki segmentti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Unique Segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063322Z" creationid="piav" creationdate="20191023T063322Z">
+        <seg>Seuraavaan uniikkiin segmenttiin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063124Z" creationid="piav" creationdate="20191023T063104Z">
+        <seg>Seuraavaan kääntämättömään segmenttiin</seg>
       </tuv>
     </tu>
     <tu>
@@ -13123,6 +13235,22 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T171435Z" creationid="PiaVee" creationdate="20171015T110546Z">
         <seg>E&amp;delliseen muistiinpanoon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous Note</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063316Z" creationid="piav" creationdate="20191023T063316Z">
+        <seg>Edelliseen muistiinpanoon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous Segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063211Z" creationid="piav" creationdate="20191023T063211Z">
+        <seg>Edelliseen segmenttiin</seg>
       </tuv>
     </tu>
     <tu>
@@ -15109,8 +15237,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Segment number...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T111416Z" creationid="piav" creationdate="20190913T111347Z">
-        <seg>Segmentin nro…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063237Z" creationid="piav" creationdate="20190913T111347Z">
+        <seg>Segmenttiin nro…</seg>
       </tuv>
     </tu>
     <tu>
@@ -15967,6 +16095,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T171647Z" creationid="PiaVee" creationdate="20171015T110823Z">
         <seg>&amp;Valitun osuman lähde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source of Selected Match</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063339Z" creationid="piav" creationdate="20191023T063339Z">
+        <seg>Valitun osuman lähteeseen</seg>
       </tuv>
     </tu>
     <tu>
@@ -21315,6 +21451,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>editRegisterEmptyMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063042Z" creationid="piav" creationdate="20191023T063042Z">
+        <seg>editRegisterEmptyMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editRegisterIdenticalMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063045Z" creationid="piav" creationdate="20191023T063045Z">
+        <seg>editRegisterIdenticalMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>editReplaceInProjectMenuItem</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T062726Z" creationid="piav" creationdate="20191023T062726Z">
@@ -21727,6 +21879,70 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174208Z" creationid="PiaVee" creationdate="20171014T174208Z">
         <seg>gn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoNextNoteMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063311Z" creationid="piav" creationdate="20191023T063311Z">
+        <seg>gotoNextNoteMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoNextSegmentMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063208Z" creationid="piav" creationdate="20191023T063208Z">
+        <seg>gotoNextSegmentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoNextTranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063134Z" creationid="piav" creationdate="20191023T063134Z">
+        <seg>gotoNextTranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoNextUniqueMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063324Z" creationid="piav" creationdate="20191023T063324Z">
+        <seg>gotoNextUniqueMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoNextUntranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063126Z" creationid="piav" creationdate="20191023T063126Z">
+        <seg>gotoNextUntranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoPreviousNoteMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063317Z" creationid="piav" creationdate="20191023T063317Z">
+        <seg>gotoPreviousNoteMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoPreviousSegmentMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063223Z" creationid="piav" creationdate="20191023T063223Z">
+        <seg>gotoPreviousSegmentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoSegmentMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063251Z" creationid="piav" creationdate="20191023T063251Z">
+        <seg>gotoSegmentMenuItem</seg>
       </tuv>
     </tu>
     <tu>
