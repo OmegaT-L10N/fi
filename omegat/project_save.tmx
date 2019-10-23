@@ -10546,6 +10546,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T052523Z" creationid="piav" creationdate="20191023T052523Z">
+        <seg>Voit asettaa uuden pikanäppäimen lähes kaikkiin päävalikon kohtiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move &amp;Down</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T173605Z" creationid="PiaVee" creationdate="20171218T072534Z">
@@ -19237,6 +19245,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T135510Z" creationid="piav" creationdate="20190916T135510Z">
         <seg>Olet poistamassa projektissasi käytössä olevaa oikeinkirjoituksen tarkistussanakirjaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T052730Z" creationid="piav" creationdate="20191023T052609Z">
+        <seg>Voit muuttaa jo olemassa olevia pikanäppäimiä sekä lisätä uusia. Sijoita pikänäppäinten kuvaustiedosto &lt;a0&gt;OmegaT&lt;/a0&gt;-asetuskansioon (pääset sinne kohdasta &lt;m1&gt; &lt;g2&gt;Asetukset&lt;/g2&gt; &lt;g3&gt; </seg>
       </tuv>
     </tu>
     <tu>
