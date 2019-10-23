@@ -16604,6 +16604,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T053936Z" creationid="piav" creationdate="20191023T053936Z">
+        <seg>Näppäinyhdistelmissä (pikanäppäimissä) käytetään Oraclen Java 1.6 -lta  The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (sivun alaosassa): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The glossary file does not have the correct encoding.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T084734Z" creationid="piav" creationdate="20191022T084734Z">
@@ -16850,6 +16858,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T053154Z" creationid="piav" creationdate="20191023T052925Z">
         <seg>Anna pikanäppäinten kuvaustiedostolle nimeksi &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;. Kirjoita jokainen pikanäppäinmääritelmä omalle rivilleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T053640Z" creationid="piav" creationdate="20191023T053640Z">
+        <seg>Määrittele pikanäppäimet seuraavalla tavalla: &lt;c0&gt;&lt;valikon kohdan koodi&gt;=&lt;pikanäppäin&lt;/c0&gt;. Löydät &lt;e1&gt;&lt;valikon kohdan koodin&gt;&lt;/e1&gt; alla olevista taulukoista. &lt;e2&gt;&lt;Pikanäppäin&gt;&lt;/e2&gt; on näppäinyhdistelmä, jota haluat käyttää.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20951,6 +20967,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174223Z" creationid="PiaVee" creationdate="20171014T174223Z">
         <seg>ht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T053643Z" creationid="piav" creationdate="20191023T053643Z">
+        <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
       </tuv>
     </tu>
     <tu>
