@@ -2053,8 +2053,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T094107Z" creationid="piav" creationdate="20190522T094107Z">
-        <seg>&lt;html&gt;&lt;i&gt;Asetukset&lt;/i&gt; &amp;gt; &lt;i&gt;Yleistä&lt;/i&gt; &amp;gt; &lt;i&gt;Siirry eteenpäin TAB-näppäimellä&lt;/i&gt; on valittu&lt;/html&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063905Z" creationid="piav" creationdate="20190522T094107Z">
+        <seg>&lt;html&gt;&lt;i&gt;Asetukset&lt;/i&gt; &amp;gt; &lt;i&gt;Yleistä&lt;/i&gt; &amp;gt; &lt;i&gt;Siirry eteenpäin sarkainnäppäimellä&lt;/i&gt; on valittu&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3035,6 +3035,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Always Confirm Quit</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063914Z" creationid="piav" creationdate="20191023T063914Z">
+        <seg>Pyydä aina lopetusvahvistusta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Amharic</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173459Z" creationid="PiaVee" creationdate="20171014T173459Z">
@@ -3451,6 +3459,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T111524Z" creationid="piav" creationdate="20190913T111524Z">
         <seg>Automaattinen täydennys / sanasto…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064036Z" creationid="piav" creationdate="20191023T064027Z">
+        <seg>Automaattinen täydennys / näytä sopivia ehdotuksia automaattisesti</seg>
       </tuv>
     </tu>
     <tu>
@@ -5481,6 +5497,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T063133Z" creationid="piav" creationdate="20191023T063133Z">
         <seg>Ctrl+Shift+U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+V</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063747Z" creationid="piav" creationdate="20191023T063747Z">
+        <seg>Ctrl+Shift+V</seg>
       </tuv>
     </tu>
     <tu>
@@ -8210,6 +8234,22 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T083941Z" creationid="piav" creationdate="20191022T074017Z">
         <seg>Sanastoruutu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary/Display Context Description for TBX Glossaries</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063921Z" creationid="piav" creationdate="20191023T063921Z">
+        <seg>Näytä TBX-sanastojen kontekstitiedot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary/Use Stemming for Glossary Entries</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063946Z" creationid="piav" creationdate="20191023T063940Z">
+        <seg>Sanasto / käytä sanaston termeissä vartaloita</seg>
       </tuv>
     </tu>
     <tu>
@@ -11082,10 +11122,26 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modification Info/Display All</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063709Z" creationid="piav" creationdate="20191023T063709Z">
+        <seg>Muokkaustiedot / näytä kaikki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modification Info/Display None</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T063652Z" creationid="piav" creationdate="20191023T063652Z">
         <seg>Muokkaustiedot / älä näytä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification Info/Display Selected</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063701Z" creationid="piav" creationdate="20191023T063701Z">
+        <seg>Muokkaustiedot / näytä valitut</seg>
       </tuv>
     </tu>
     <tu>
@@ -12542,6 +12598,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T102545Z" creationid="PiaVee" creationdate="20171015T102545Z">
         <seg>Asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options Menu</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063833Z" creationid="piav" creationdate="20191023T063824Z">
+        <seg>Asetukset-valikko</seg>
       </tuv>
     </tu>
     <tu>
@@ -18478,6 +18542,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tools Menu</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063718Z" creationid="piav" creationdate="20191023T063718Z">
+        <seg>Työkalut-valikko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Total Characters (including spaces)</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090306Z" creationid="PiaVee" creationdate="20171218T090306Z">
@@ -18546,6 +18618,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T122144Z" creationid="PiaVee" creationdate="20171015T122144Z">
         <seg>TransTips</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TransTips/Enable Transtips</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063959Z" creationid="piav" creationdate="20191023T063959Z">
+        <seg>TransTips / ota TransTips käyttöön</seg>
       </tuv>
     </tu>
     <tu>
@@ -19365,6 +19445,22 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use TAB To Advance</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063856Z" creationid="piav" creationdate="20191023T063856Z">
+        <seg>Siirry eteenpäin sarkainnäppäimellä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use Terms Appearing Separately in the Source Text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063932Z" creationid="piav" creationdate="20191023T063932Z">
+        <seg>Käytä lähtötekstin yksittäisiä termejä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use all mine</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081232Z" creationid="piav" creationdate="20190522T081132Z">
@@ -19505,6 +19601,22 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T184937Z" creationid="piav" creationdate="20190527T184937Z">
         <seg>VLDocking Framework (lisenssi: LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate Tags</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063731Z" creationid="piav" creationdate="20191023T063731Z">
+        <seg>Tarkista tägit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate Tags for Current Document</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063757Z" creationid="piav" creationdate="20191023T063757Z">
+        <seg>Tarkista nykyisen segmentin tägit</seg>
       </tuv>
     </tu>
     <tu>
@@ -23533,6 +23645,62 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063915Z" creationid="piav" creationdate="20191023T063915Z">
+        <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064037Z" creationid="piav" creationdate="20191023T064037Z">
+        <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063933Z" creationid="piav" creationdate="20191023T063933Z">
+        <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063948Z" creationid="piav" creationdate="20191023T063948Z">
+        <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063922Z" creationid="piav" creationdate="20191023T063922Z">
+        <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063909Z" creationid="piav" creationdate="20191023T063909Z">
+        <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsTransTipsEnableMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064000Z" creationid="piav" creationdate="20191023T064000Z">
+        <seg>optionsTransTipsEnableMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>or</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T080948Z" creationid="PiaVee" creationdate="20171015T080948Z">
@@ -24461,10 +24629,50 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>toolsShowStatisticsMatchesMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063803Z" creationid="piav" creationdate="20191023T063803Z">
+        <seg>toolsShowStatisticsMatchesMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>toolsShowStatisticsMatchesPerFileMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063805Z" creationid="piav" creationdate="20191023T063805Z">
+        <seg>toolsShowStatisticsMatchesPerFileMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>toolsShowStatisticsStandardMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063801Z" creationid="piav" creationdate="20191023T063801Z">
+        <seg>toolsShowStatisticsStandardMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061512Z" creationid="piav" creationdate="20191023T061512Z">
         <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>toolsSingleValidateTagsMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063800Z" creationid="piav" creationdate="20191023T063800Z">
+        <seg>toolsSingleValidateTagsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>toolsValidateTagsMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063748Z" creationid="piav" creationdate="20191023T063748Z">
+        <seg>toolsValidateTagsMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -24681,6 +24889,30 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082240Z" creationid="PiaVee" creationdate="20171015T082240Z">
         <seg>vie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewDisplayModificationInfoAllRadioButtonMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063710Z" creationid="piav" creationdate="20191023T063710Z">
+        <seg>viewDisplayModificationInfoAllRadioButtonMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewDisplayModificationInfoNoneRadioButtonMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063654Z" creationid="piav" creationdate="20191023T063654Z">
+        <seg>viewDisplayModificationInfoNoneRadioButtonMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewDisplayModificationInfoSelectedRadioButtonMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063703Z" creationid="piav" creationdate="20191023T063703Z">
+        <seg>viewDisplayModificationInfoSelectedRadioButtonMenuItem</seg>
       </tuv>
     </tu>
     <tu>
