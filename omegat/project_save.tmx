@@ -9131,8 +9131,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T120533Z" creationid="piav" creationdate="20191023T120424Z">
-        <seg>Jos jätät tämän valinnan tekemättä, ohjelma hakee konekäännöksiä vain, kun painat näppäinyhdistelmää &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T120755Z" creationid="piav" creationdate="20191023T120424Z">
+        <seg>Jos jätät tämän valinnan tekemättä, ohjelma hakee konekäännöksiä vain, kun painat atiivisen segmentin kohdalla näppäinyhdistelmää &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Komento (cmd) ⌘&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; OS X -käyttöjärjestelmässä).</seg>
       </tuv>
     </tu>
     <tu>
