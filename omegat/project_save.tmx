@@ -12038,6 +12038,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that the "Install" function requires an Internet connection.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T111251Z" creationid="piav" creationdate="20191023T111251Z">
+        <seg>Huomioi, että tarvitset internetyhteyden käyttääksesi asennustoimintoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T105350Z" creationid="piav" creationdate="20190522T083417Z">
@@ -18098,6 +18106,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T060643Z" creationid="PiaVee" creationdate="20170930T060643Z">
         <seg>Komentosarja päättyy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The selected languages will then be installed and will eventually appear in your spell checker setup window (this may take a while).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T111333Z" creationid="piav" creationdate="20191023T111333Z">
+        <seg>Valittujen kielten asentaminen voi kestää jonkin aikaa, mutta näet ne lopulta kielentarkistinikkunassa.</seg>
       </tuv>
     </tu>
     <tu>
