@@ -9043,8 +9043,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T112648Z" creationid="piav" creationdate="20191023T112648Z">
-        <seg>Jos käytössäsi on vain perusmuotoinen espanjan sanakirja, voit kopioida sen tiedostot es_es.dic ja es_es.aff tiedostoihin es_MX.dic ja es_MX.aff, jolloin voit käyttää sitä oikeinkirjoitussanastona.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T112732Z" creationid="piav" creationdate="20191023T112648Z">
+        <seg>Jos käytössäsi on vain perusmuotoinen espanjan sanakirja, voit kopioida sen tiedostot es_es.dic ja es_es.aff tiedostoihin es_MX.dic ja es_MX.aff ja voit käyttää sitä oikeinkirjoitussanastona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12082,6 +12082,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T111251Z" creationid="piav" creationdate="20191023T111251Z">
         <seg>Huomioi, että tarvitset internetyhteyden käyttääksesi asennustoimintoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that this will of course check for the standard (Castillian) rather than for Mexican Spanish.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T113032Z" creationid="piav" creationdate="20191023T112728Z">
+        <seg>Tällöin oikeinkirjoitus tietysti tarkistetaan Espanjan espanjan (kastilian), ei Meksikon espanjan mukaisesti.</seg>
       </tuv>
     </tu>
     <tu>
