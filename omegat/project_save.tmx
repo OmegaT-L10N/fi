@@ -3735,6 +3735,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T110333Z" creationid="piav" creationdate="20191023T110211Z">
+        <seg>Ennen kuin kielentarkistustoimintoa voi käyttää, on asennettava yksi tai useampia kohdekielen sanastoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Belarusian</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173702Z" creationid="PiaVee" creationdate="20171014T173702Z">
@@ -9185,6 +9193,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In your file manager, create a new folder in a suitable location in which to store spelling dictionaries (D:\Translations\spellcheckers in the example below).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T110529Z" creationid="piav" creationdate="20191023T110529Z">
+        <seg>Avaa tiedostonhallinnassa sopiva sijainti ja luo sinne uusi kansio, jonne tallennat oikeinkirjoitussanastoja. Alla olevassa esimerkissä käytetään sijaintia D:/Translations/spellchekers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Include Pattern</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T101728Z" creationid="piav" creationdate="20190521T133123Z">
@@ -9397,6 +9413,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T081900Z" creationid="PiaVee" creationdate="20171015T095724Z">
         <seg>"OmegaT:n asennus ja käyttö".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T110314Z" creationid="piav" creationdate="20191023T110127Z">
+        <seg>Oikeinkirjoitussanastojen asentaminen</seg>
       </tuv>
     </tu>
     <tu>
@@ -9651,8 +9675,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T110115Z" creationid="piav" creationdate="20191023T110115Z">
-        <seg>Näin ollen se voi käyttää näiden sovellusten monia vapaita oikeinkirjoitussanakirjoja.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T110304Z" creationid="piav" creationdate="20191023T110115Z">
+        <seg>Näin ollen se voi käyttää näiden sovellusten monia vapaita oikeinkirjoitussanastoja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18666,6 +18690,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T190831Z" creationid="piav" creationdate="20190527T190831Z">
         <seg>Valitse suodatin listalta ja napsauta Muokkaa, niin pääset valitsemaan suodattimen käsittelemät tiedostot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install spelling dictionaries, follow this procedure:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T110354Z" creationid="piav" creationdate="20191023T110257Z">
+        <seg>Näin asennat oikeinkirjoitussanastoja:</seg>
       </tuv>
     </tu>
     <tu>
