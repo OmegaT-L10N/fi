@@ -3543,6 +3543,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T120250Z" creationid="piav" creationdate="20191023T120250Z">
+        <seg>Hakee käännöksiä automaattisesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Autotext</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T074106Z" creationid="piav" creationdate="20190522T074106Z">
@@ -7982,6 +7990,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation engine.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T120427Z" creationid="piav" creationdate="20191023T120421Z">
+        <seg>Tietoturvasyistä kaikkia segmenttejä ei ole syytä lähettää konekääntimeen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T155234Z" creationid="piav" creationdate="20191022T155046Z">
@@ -9109,6 +9125,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T114802Z" creationid="piav" creationdate="20191023T112648Z">
         <seg>Jos käytössäsi on vain perusmuotoinen espanjan sanakirja, voit tehdä kopiot sen tiedostoista es_es.dic ja es_es.aff ja nimetä ne uudelleen tiedostoiksi es_MX.dic ja es_MX.aff. Näin saat käyttöön espanjan oikeinkirjoitussanaston.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T120533Z" creationid="piav" creationdate="20191023T120424Z">
+        <seg>Jos jätät tämän valinnan tekemättä, ohjelma hakee konekäännöksiä vain, kun painat näppäinyhdistelmää &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M</seg>
       </tuv>
     </tu>
     <tu>
