@@ -715,3 +715,4 @@ team project	ryhmäprojekti
 Master Password	pääsalasana
 Glossary viewer	Sanaston esikatselu
 form-feed character	sivunvaihdon merkki
+shortcut definition file	pikanäppäinten kuvaustiedosto
