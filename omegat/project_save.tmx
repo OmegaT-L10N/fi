@@ -4327,6 +4327,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T113246Z" creationid="piav" creationdate="20191023T113246Z">
+        <seg>Tarkista silti, että kielikoodit ovat täsmälleen samanlaiset. Esimerkiksi sanakirja, jonka tunnus on FR-FR, ei toimi, kun kohdekieleksi on asetettu FR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;Project&lt;/g6&gt; &lt;g7&gt;Properties&lt;/g7&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T110104Z" creationid="PiaVee" creationdate="20171219T110104Z">
@@ -8965,6 +8973,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T133811Z" creationid="piav" creationdate="20190916T133811Z">
         <seg>Jos ohjelma pääsee myöhemmin haluttuun sijaintiin, se otetaan käyttöön. Sijaintimuutoksen seurauksena kaikki asetukset palaavat oletusarvoihinsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If necessary, edit the file names of the dictionary or change your project's language settings.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T113343Z" creationid="piav" creationdate="20191023T113343Z">
+        <seg>Nimeä sanakirjatiedostot uudelleen tai muuta projektin kieliasetuksia tarvittaessa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18810,6 +18826,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T190831Z" creationid="piav" creationdate="20190527T190831Z">
         <seg>Valitse suodatin listalta ja napsauta Muokkaa, niin pääset valitsemaan suodattimen käsittelemät tiedostot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To enable the spell checker, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt; and tick the &lt;g1&gt;Automatically check the spelling of text&lt;/g1&gt; check box (see above).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T113447Z" creationid="piav" creationdate="20191023T113447Z">
+        <seg>Ota oikeinkirjoituksen tarkistuksen käyttöön kohdassa &lt;g0&gt;Asetukset &gt; Oikeinkirjoituksen tarkistus &lt;/g0&gt; valitsemalla &lt;g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
