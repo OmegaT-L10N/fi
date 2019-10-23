@@ -18430,6 +18430,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T113155Z" creationid="piav" creationdate="20191023T113155Z">
+        <seg>Sinun ei tarvitse erikseen määritellä OmegaT:tä käyttämään tiettyä oikeinkirjoitussanastoa. OmegaT käyttää automaattisesti projektin kielikoodin mukaista sanakirjaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T102338Z" creationid="PiaVee" creationdate="20171219T102338Z">
@@ -19969,6 +19977,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T101859Z" creationid="PiaVee" creationdate="20171014T101859Z">
         <seg>TaaS-palvelun käyttäminen OmegaT:ssä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T113041Z" creationid="piav" creationdate="20191023T113041Z">
+        <seg>Oikeinkirjoitussanastojen käyttö</seg>
       </tuv>
     </tu>
     <tu>
