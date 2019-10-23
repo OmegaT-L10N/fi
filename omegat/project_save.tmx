@@ -3133,6 +3133,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Anything after the "//" will be ignored.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T053337Z" creationid="piav" creationdate="20191023T053337Z">
+        <seg>Rivin muu sisältö // -merkinnän jälkeen ohitetaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apache Commons (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T185407Z" creationid="piav" creationdate="20190527T185407Z">
@@ -6154,6 +6162,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T141857Z" creationid="piav" creationdate="20190916T141857Z">
         <seg>Sähköposti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Empty lines are accepted and comment lines should start with "//".</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T053237Z" creationid="piav" creationdate="20191023T053237Z">
+        <seg>Tiedostossa voi olla tyhjiä rivejä. Aloita kommenttirivit merkinnällä //.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11638,6 +11654,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T125739Z" creationid="PiaVee" creationdate="20171218T125739Z">
         <seg>Kun automaattisen korvauksen valintaikkuna on avoinna, paina &lt;e1&gt;Ctrl + välilyönti&lt;/e1&gt; vaihtaaksesi kohtiin &lt;e2&gt;Sanasto&lt;/e2&gt;, &lt;e3&gt;Autom. tekstikohdat&lt;/e3&gt;, &lt;e4&gt;Puuttuvat tägit&lt;/e4&gt; ja &lt;e5&gt;Näppäintaulukko&lt;/e5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, &lt;a1&gt;OmegaT&lt;/a1&gt; must be relaunched to take the new shortcuts into account.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T053429Z" creationid="piav" creationdate="20191023T053429Z">
+        <seg>Kun olet muokannut &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;-tiedostoa, käynnistä &lt;a1&gt;OmegaT&lt;/a1&gt; uudelleen, niin uudet pikanäppäimet otetaan käyttöön.</seg>
       </tuv>
     </tu>
     <tu>
