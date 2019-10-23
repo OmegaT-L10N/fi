@@ -15093,8 +15093,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>So it is probably faster to type the term correctly right away without bothering with the glossary and its shortcuts.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T080441Z" creationid="piav" creationdate="20191022T080441Z">
-        <seg>Siksi voi olla nopeampaa näpyttää termi heti oikein välittämättä sanastosta ja sen näppäinyhdistelmistä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T053003Z" creationid="piav" creationdate="20191022T080441Z">
+        <seg>Siksi voi olla nopeampaa näpyttää termi heti oikein välittämättä sanastosta ja sen pikanäppäimistä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16818,6 +16818,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T060643Z" creationid="PiaVee" creationdate="20170930T060643Z">
         <seg>Komentosarja päättyy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T053154Z" creationid="piav" creationdate="20191023T052925Z">
+        <seg>Anna pikanäppäinten kuvaustiedostolle nimeksi &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;. Kirjoita jokainen pikanäppäinmääritelmä omalle rivilleen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19251,8 +19259,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       <tuv lang="EN">
         <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T052730Z" creationid="piav" creationdate="20191023T052609Z">
-        <seg>Voit muuttaa jo olemassa olevia pikanäppäimiä sekä lisätä uusia. Sijoita pikänäppäinten kuvaustiedosto &lt;a0&gt;OmegaT&lt;/a0&gt;-asetuskansioon (pääset sinne kohdasta &lt;m1&gt; &lt;g2&gt;Asetukset&lt;/g2&gt; &lt;g3&gt; </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T052835Z" creationid="piav" creationdate="20191023T052609Z">
+        <seg>Voit muuttaa jo olemassa olevia pikanäppäimiä sekä lisätä uusia. Sijoita pikänäppäinten kuvaustiedosto &lt;a0&gt;OmegaT&lt;/a0&gt;-asetuskansioon (pääset sinne valitsemalla &lt;m1&gt; &lt;g2&gt;Asetukset&lt;/g2&gt; &lt;g3&gt;Mene määrityskansioon&lt;/g3&gt; &lt;/m1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
