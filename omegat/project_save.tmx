@@ -4965,6 +4965,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T111536Z" creationid="piav" creationdate="20191023T111536Z">
+        <seg>Jos sinulla jo on sopivia sanakirjatiedostoja (esim. Apache OpenOfficen, LibreOfficen, Firefoxin tai Thunderbirdin osana), ne kannattaa kopioida ne käsin sanakirjakansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T132056Z" creationid="PiaVee" creationdate="20171014T132056Z">
@@ -9693,6 +9701,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T153741Z" creationid="PiaVee" creationdate="20171014T153741Z">
         <seg>Projektin ominaisuudet -ikkunassa voi valita käytettävän saneistimen (Saneistin) tai sen version (Saneistimen toiminta).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is simpler, however, to look for dictionaries online, using the &lt;e0&gt;URL of online dictionaries&lt;/e0&gt; field:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T111635Z" creationid="piav" creationdate="20191023T111635Z">
+        <seg>Sanakirjojen haku netistä on kuitenkin helpompaa. Käytä tällöin kenttää &lt;e0&gt;Online-sanakirjojen URL-osoite&lt;/e0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
