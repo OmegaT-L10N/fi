@@ -9097,6 +9097,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T110658Z" creationid="piav" creationdate="20191023T110554Z">
+        <seg>Avaa OmegaT. Valitse &lt;g0&gt;Asetukset &gt; Oikeinkirjoituksen tarkistus&lt;/g0&gt; ja napsauta Sanakirjojen kansio -kentän kohtaa &lt;g1&gt;Valitse&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In PCW.GR (in Greek).</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T095035Z" creationid="PiaVee" creationdate="20171219T094836Z">
@@ -11574,6 +11582,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T181530Z" creationid="PiaVee" creationdate="20171014T175005Z">
         <seg>navajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navigate to and select the folder you created for dictionaries.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T110755Z" creationid="piav" creationdate="20191023T110755Z">
+        <seg>Etsi juuri luomasi sanakirjojen kansio ja valitse se.</seg>
       </tuv>
     </tu>
     <tu>
