@@ -1893,8 +1893,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; can be: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T055141Z" creationid="piav" creationdate="20191023T054953Z">
-        <seg>&lt;c0&gt;&lt;muokkausnäppäin&gt;&lt;/c0&gt; voi olla &lt;e1&gt;Vaihto&lt;/e1&gt;, &lt;e2&gt;Control&lt;/e2&gt;, &lt;e3&gt;Ctrl&lt;/e3&gt; tai &lt;e4&gt;Meta&lt;/e4&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T055327Z" creationid="piav" creationdate="20191023T054953Z">
+        <seg>&lt;c0&gt;&lt;muokkausnäppäin&gt;&lt;/c0&gt; voi olla &lt;e1&gt;vaihto&lt;/e1&gt;, &lt;e2&gt;Control&lt;/e2&gt;, &lt;e3&gt;Ctrl&lt;/e3&gt; tai &lt;e4&gt;Meta&lt;/e4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11668,8 +11668,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T055312Z" creationid="piav" creationdate="20191023T055312Z">
-        <seg>vMac-koneissa on käytettävä &lt;e0&gt;Meta&lt;/e0&gt;-muokkausnäppäintä </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T055951Z" creationid="piav" creationdate="20191023T055312Z">
+        <seg>Mac-koneissa on painettava &lt;e0&gt;Komento (cmd) ⌘&lt;/e0&gt; -näppäintä&lt;e1&gt; toimintonäppäimen&lt;/e1&gt; kanssa.</seg>
       </tuv>
     </tu>
     <tu>
