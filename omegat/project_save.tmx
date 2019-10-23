@@ -4799,6 +4799,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Connect to custom server instead of apertium.org</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T105638Z" creationid="piav" creationdate="20191023T105255Z">
+        <seg>Yhteys mukautettuun palvelimeen apertium.orgin sijaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T123433Z" creationid="piav" creationdate="20190920T122921Z">
