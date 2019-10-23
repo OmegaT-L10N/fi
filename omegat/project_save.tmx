@@ -2229,8 +2229,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T054558Z" creationid="piav" creationdate="20191023T054558Z">
-        <seg>&lt;Pikanäppäimen&gt; muodon on oltava yksi seuraavista: 0 tai useampi &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T054944Z" creationid="piav" creationdate="20191023T054558Z">
+        <seg>&lt;Pikanäppäin&gt; määritellään seuraavasti: 0 tai useampi &lt;c0&gt;&lt;muokkaaja&gt;&lt;/c0&gt;, sen jälkeen 0 tai 1 &lt;c1&gt;&lt;tapahtuma&gt;&lt;/c1&gt; ja sen jälkeen 1 &lt;c2&gt;&lt;näppäin&gt;&lt;/c2&gt;. Määritelmässä</seg>
       </tuv>
     </tu>
     <tu>
@@ -16614,8 +16614,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T054357Z" creationid="piav" creationdate="20191023T053936Z">
-        <seg>Pikanäppäinten koko syntaksi merkitään Oraclen Java 1.6 -dokumentaation (sivun alaosassa) mukaisesti: &lt;u0&gt;Java 1.6:n pikanäppäimet&lt;/u0&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T054643Z" creationid="piav" creationdate="20191023T053936Z">
+        <seg>Pikanäppäinten koko syntaksi merkitään kuten Oraclen Java 1.6 -dokumentaatiossa (sivun alaosassa): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
