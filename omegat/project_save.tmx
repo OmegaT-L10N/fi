@@ -14961,6 +14961,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-clicking on an underlined word (Artund in the figure above) opens a drop-down menu listing suggestions for the correction (Art und).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T113703Z" creationid="piav" creationdate="20191023T113703Z">
+        <seg>Napsauta alleviivattua sanaa hiiren kakkospainikkeella (yllä olevassa kuvassa sana Artund) ja valitse oikea korjaus pudotusvalikosta (esimerkissä Art und).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T121247Z" creationid="PiaVee" creationdate="20171015T110311Z">
@@ -18832,8 +18840,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>To enable the spell checker, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt; and tick the &lt;g1&gt;Automatically check the spelling of text&lt;/g1&gt; check box (see above).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T113447Z" creationid="piav" creationdate="20191023T113447Z">
-        <seg>Ota oikeinkirjoituksen tarkistuksen käyttöön kohdassa &lt;g0&gt;Asetukset &gt; Oikeinkirjoituksen tarkistus &lt;/g0&gt; valitsemalla &lt;g1&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T113539Z" creationid="piav" creationdate="20191023T113447Z">
+        <seg>Ota oikeinkirjoituksen tarkistuksen käyttöön kohdassa &lt;g0&gt;Asetukset &gt; Oikeinkirjoituksen tarkistus &lt;/g0&gt; ja laita &lt;g1&gt;Tarkista oikeinkirjoitus automaattisesti&lt;/g1&gt; -valintaruutuun rasti (ks. yllä).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20005,6 +20013,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using spellchecker</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T113548Z" creationid="piav" creationdate="20191023T113548Z">
+        <seg>Oikeinkirjoituksen tarkistuksen käyttö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using spelling dictionaries</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T113041Z" creationid="piav" creationdate="20191023T113041Z">
@@ -20781,6 +20797,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T135510Z" creationid="piav" creationdate="20190916T135510Z">
         <seg>Olet poistamassa projektissasi käytössä olevaa oikeinkirjoituksen tarkistussanakirjaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also instruct the spell checker to ignore all the occurrences of the mis-spelled word, or add it to the dictionary.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T113742Z" creationid="piav" creationdate="20191023T113742Z">
+        <seg>Voit myös ohjastaa oikeinkirjoituksen tarkistuksen ohittamaan kaikki väärin kirjoitetun sanan esiintymät tai lisäämään sen sanakirjaan.</seg>
       </tuv>
     </tu>
     <tu>
