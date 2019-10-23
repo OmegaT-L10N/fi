@@ -1532,6 +1532,14 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>, one can find:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061138Z" creationid="piav" creationdate="20191023T061120Z">
+        <seg>löytyy esimerkiksi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T153019Z" creationid="PiaVee" creationdate="20171014T153019Z">
@@ -7384,8 +7392,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T060853Z" creationid="piav" creationdate="20191023T060822Z">
-        <seg>Esimerkiksi oletusmuotoisissa OmegaT-pikanäppäimissä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061132Z" creationid="piav" creationdate="20191023T060822Z">
+        <seg>Oletusmuotoisista OmegaT-pikanäppäimistä</seg>
       </tuv>
     </tu>
     <tu>
@@ -8381,6 +8389,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T082338Z" creationid="piav" creationdate="20191022T082338Z">
         <seg>Jos käytössäsi on terminologiajärjestelmä, on hyvin mahdollista, että se voi jakaa terminologiatietoja TBX-muodossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061346Z" creationid="piav" creationdate="20191023T061346Z">
+        <seg>Jos haluat avata projektin näppäinyhdstelmällä &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt;, muokkaa &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt;-tiedostoa seuraavasti:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16636,6 +16652,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061259Z" creationid="piav" creationdate="20191023T061259Z">
+        <seg>Ensimmäinen on komennon &lt;g0&gt;Avaa projekti&lt;/g0&gt; pikanäppäin, toinen komennon &lt;g1&gt;Luo sanaston termi&lt;/g1&gt; pikanäppäin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T105400Z" creationid="PiaVee" creationdate="20171219T105400Z">
@@ -20571,6 +20595,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061146Z" creationid="piav" creationdate="20191023T061146Z">
+        <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ee</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174049Z" creationid="PiaVee" creationdate="20171014T174049Z">
@@ -22457,6 +22489,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081118Z" creationid="PiaVee" creationdate="20171015T081118Z">
         <seg>por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectOpenMenuItem=ctrl O</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T061145Z" creationid="piav" creationdate="20191023T061145Z">
+        <seg>projectOpenMenuItem=ctrl O</seg>
       </tuv>
     </tu>
     <tu>
