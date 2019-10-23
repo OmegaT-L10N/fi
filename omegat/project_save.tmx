@@ -2589,64 +2589,64 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Access Project Contents/Current Source Document</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T062213Z" creationid="piav" creationdate="20191023T062213Z">
-        <seg>Avaa projektin sisältö/nykyinen lähdeasiakirja</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064308Z" creationid="piav" creationdate="20191023T062213Z">
+        <seg>Avaa projektin sisältö / Nykyinen lähdeasiakirja</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Access Project Contents/Current Target Document</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T062407Z" creationid="piav" creationdate="20191023T062407Z">
-        <seg>Avaa projektin sisältö/nykyinen lähdeasiakirja</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064312Z" creationid="piav" creationdate="20191023T062407Z">
+        <seg>Avaa projektin sisältö / Nykyinen lähdeasiakirja</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Access Project Contents/Dictionaries</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T062053Z" creationid="piav" creationdate="20191023T062053Z">
-        <seg>Avaa projektin sisältö/sanakirjat</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064250Z" creationid="piav" creationdate="20191023T062053Z">
+        <seg>Avaa projektin sisältö / Sanakirjat</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Access Project Contents/Glossaries</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T062113Z" creationid="piav" creationdate="20191023T062113Z">
-        <seg>Avaa projektin sisältö/sanastot</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064254Z" creationid="piav" creationdate="20191023T062113Z">
+        <seg>Avaa projektin sisältö / Sanastot</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Access Project Contents/Root</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T062037Z" creationid="piav" creationdate="20191023T062021Z">
-        <seg>Avaa projektin sisältö/juuri</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064244Z" creationid="piav" creationdate="20191023T062021Z">
+        <seg>Avaa projektin sisältö / Juuri</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Access Project Contents/Source Files</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T062124Z" creationid="piav" creationdate="20191023T062124Z">
-        <seg>Avaa projektin sisältö/lähdetiedostot</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064258Z" creationid="piav" creationdate="20191023T062124Z">
+        <seg>Avaa projektin sisältö / Lähdetiedostot</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Access Project Contents/Target Files</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T062143Z" creationid="piav" creationdate="20191023T062143Z">
-        <seg>Avaa projektin sisältö/kohdetiedostot</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064303Z" creationid="piav" creationdate="20191023T062143Z">
+        <seg>Avaa projektin sisältö / Kohdetiedostot</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Access Project Contents/Writeable Glossary</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T062421Z" creationid="piav" creationdate="20191023T062421Z">
-        <seg>Avaa projektin sisältö/kirjoituskelpoinen sanasto</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064318Z" creationid="piav" creationdate="20191023T062421Z">
+        <seg>Avaa projektin sisältö / Kirjoituskelpoinen sanasto</seg>
       </tuv>
     </tu>
     <tu>
@@ -3449,24 +3449,32 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto-completion/Auto-text...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T111542Z" creationid="piav" creationdate="20190913T111538Z">
-        <seg>Automaattinen täydennys / automaattinen teksti…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064432Z" creationid="piav" creationdate="20190913T111538Z">
+        <seg>Automaattinen täydennys / Automaattinen teksti…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Character Table...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064512Z" creationid="piav" creationdate="20191023T064512Z">
+        <seg>Automaattinen täydennys / </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Auto-completion/Glossary...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T111524Z" creationid="piav" creationdate="20190913T111524Z">
-        <seg>Automaattinen täydennys / sanasto…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064420Z" creationid="piav" creationdate="20190913T111524Z">
+        <seg>Automaattinen täydennys / Sanasto…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Auto-completion/Show Relevant Suggestions Automatically</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T064036Z" creationid="piav" creationdate="20191023T064027Z">
-        <seg>Automaattinen täydennys / näytä sopivia ehdotuksia automaattisesti</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064417Z" creationid="piav" creationdate="20191023T064027Z">
+        <seg>Automaattinen täydennys / Näytä sopivia ehdotuksia automaattisesti</seg>
       </tuv>
     </tu>
     <tu>
@@ -8248,8 +8256,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Glossary/Use Stemming for Glossary Entries</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T063946Z" creationid="piav" creationdate="20191023T063940Z">
-        <seg>Sanasto / käytä sanaston termeissä vartaloita</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064409Z" creationid="piav" creationdate="20191023T063940Z">
+        <seg>Sanasto / Käytä sanaston termien vartaloita</seg>
       </tuv>
     </tu>
     <tu>
@@ -11124,24 +11132,24 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Modification Info/Display All</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T063709Z" creationid="piav" creationdate="20191023T063709Z">
-        <seg>Muokkaustiedot / näytä kaikki</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064346Z" creationid="piav" creationdate="20191023T063709Z">
+        <seg>Muokkaustiedot / Näytä kaikki</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Modification Info/Display None</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T063652Z" creationid="piav" creationdate="20191023T063652Z">
-        <seg>Muokkaustiedot / älä näytä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064340Z" creationid="piav" creationdate="20191023T063652Z">
+        <seg>Muokkaustiedot / Älä näytä</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Modification Info/Display Selected</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T063701Z" creationid="piav" creationdate="20191023T063701Z">
-        <seg>Muokkaustiedot / näytä valitut</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064343Z" creationid="piav" creationdate="20191023T063701Z">
+        <seg>Muokkaustiedot / Näytä valitut</seg>
       </tuv>
     </tu>
     <tu>
@@ -16647,32 +16655,32 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Switch Case To/Lower Case</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T062807Z" creationid="piav" creationdate="20191023T062807Z">
-        <seg>Vaihda kirjainkokoa / pienet kirjaimet</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064322Z" creationid="piav" creationdate="20191023T062807Z">
+        <seg>Vaihda kirjainkokoa / Pienet kirjaimet</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Switch Case To/Sentence Case</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T062842Z" creationid="piav" creationdate="20191023T062842Z">
-        <seg>Vaihda kirjainkokoa / lauseen kirjaimet</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064333Z" creationid="piav" creationdate="20191023T062842Z">
+        <seg>Vaihda kirjainkokoa / Lauseen kirjaimet</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Switch Case To/Title Case</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T062830Z" creationid="piav" creationdate="20191023T062830Z">
-        <seg>Vaihda kirjainkokoa / otsikon kirjaimet</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064330Z" creationid="piav" creationdate="20191023T062830Z">
+        <seg>Vaihda kirjainkokoa / Otsikon kirjaimet</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Switch Case To/Upper Case</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T062816Z" creationid="piav" creationdate="20191023T062816Z">
-        <seg>Vaihda kirjainkokoa / isot kirjaimet</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064326Z" creationid="piav" creationdate="20191023T062816Z">
+        <seg>Vaihda kirjainkokoa / Isot kirjaimet</seg>
       </tuv>
     </tu>
     <tu>
@@ -18624,8 +18632,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>TransTips/Enable Transtips</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T063959Z" creationid="piav" creationdate="20191023T063959Z">
-        <seg>TransTips / ota TransTips käyttöön</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064413Z" creationid="piav" creationdate="20191023T063959Z">
+        <seg>TransTips / Ota TransTips käyttöön</seg>
       </tuv>
     </tu>
     <tu>
@@ -19505,6 +19513,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092651Z" creationid="PiaVee" creationdate="20171014T092651Z">
         <seg>Käytä sanastoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064452Z" creationid="piav" creationdate="20191023T064452Z">
+        <seg>Käytä sanaston termien vartaloita</seg>
       </tuv>
     </tu>
     <tu>
@@ -23649,6 +23665,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T063915Z" creationid="piav" creationdate="20191023T063915Z">
         <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsAutoCompleteAutoTextMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T064457Z" creationid="piav" creationdate="20191023T064457Z">
+        <seg>optionsAutoCompleteAutoTextMenuItem</seg>
       </tuv>
     </tu>
     <tu>
