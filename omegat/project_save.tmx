@@ -7982,6 +7982,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T112402Z" creationid="piav" creationdate="20191023T112402Z">
+        <seg>Jos kohdekielenäsi on esimerkiksi ES-MX (Meksikon espanja), sanakirjatiedostojen nimien on oltava ex_MX.dic ja es_MX.aff.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061132Z" creationid="piav" creationdate="20191023T060822Z">
@@ -9029,6 +9037,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T082338Z" creationid="piav" creationdate="20191022T082338Z">
         <seg>Jos käytössäsi on terminologiajärjestelmä, on hyvin mahdollista, että se voi jakaa terminologiatietoja TBX-muodossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T112648Z" creationid="piav" creationdate="20191023T112648Z">
+        <seg>Jos käytössäsi on vain perusmuotoinen espanjan sanakirja, voit kopioida sen tiedostot es_es.dic ja es_es.aff tiedostoihin es_MX.dic ja es_MX.aff, jolloin voit käyttää sitä oikeinkirjoitussanastona.</seg>
       </tuv>
     </tu>
     <tu>
