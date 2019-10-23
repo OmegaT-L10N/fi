@@ -1891,6 +1891,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; can be: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T055141Z" creationid="piav" creationdate="20191023T054953Z">
+        <seg>&lt;c0&gt;&lt;muokkausnäppäin&gt;&lt;/c0&gt; voi olla &lt;e1&gt;Vaihto&lt;/e1&gt;, &lt;e2&gt;Control&lt;/e2&gt;, &lt;e3&gt;Ctrl&lt;/e3&gt; tai &lt;e4&gt;Meta&lt;/e4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt;is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T134722Z" creationid="PiaVee" creationdate="20171014T134616Z">
@@ -2229,8 +2237,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T054944Z" creationid="piav" creationdate="20191023T054558Z">
-        <seg>&lt;Pikanäppäin&gt; määritellään seuraavasti: 0 tai useampi &lt;c0&gt;&lt;muokkaaja&gt;&lt;/c0&gt;, sen jälkeen 0 tai 1 &lt;c1&gt;&lt;tapahtuma&gt;&lt;/c1&gt; ja sen jälkeen 1 &lt;c2&gt;&lt;näppäin&gt;&lt;/c2&gt;. Määritelmässä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T055001Z" creationid="piav" creationdate="20191023T054558Z">
+        <seg>&lt;Pikanäppäin&gt; määritellään seuraavasti: 0 tai useampi &lt;c0&gt;&lt;muokkausnäppäin&gt;&lt;/c0&gt;, sen jälkeen 0 tai 1 &lt;c1&gt;&lt;tapahtuma&gt;&lt;/c1&gt; ja sen jälkeen 1 &lt;c2&gt;&lt;näppäin&gt;&lt;/c2&gt;. Määritelmässä</seg>
       </tuv>
     </tu>
     <tu>
@@ -11654,6 +11662,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T140849Z" creationid="piav" creationdate="20190920T140849Z">
         <seg>OmegaT {0} on nyt saatavilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T055312Z" creationid="piav" creationdate="20191023T055312Z">
+        <seg>vMac-koneissa on käytettävä &lt;e0&gt;Meta&lt;/e0&gt;-muokkausnäppäintä </seg>
       </tuv>
     </tu>
     <tu>
