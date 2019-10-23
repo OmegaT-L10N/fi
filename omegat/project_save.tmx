@@ -4337,8 +4337,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T113246Z" creationid="piav" creationdate="20191023T113246Z">
-        <seg>Tarkista silti, että kielikoodit ovat täsmälleen samanlaiset. Esimerkiksi sanakirja, jonka tunnus on FR-FR, ei toimi, kun kohdekieleksi on asetettu FR.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T114829Z" creationid="piav" creationdate="20191023T113246Z">
+        <seg>Tarkista silti, että kielikoodit ovat täsmälleen samanlaiset. Esimerkiksi sanakirja, jonka tunnus on FR-FR, ei toimi, kun kohdekieleksi on asetettu pelkkä FR.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9091,8 +9091,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T112732Z" creationid="piav" creationdate="20191023T112648Z">
-        <seg>Jos käytössäsi on vain perusmuotoinen espanjan sanakirja, voit kopioida sen tiedostot es_es.dic ja es_es.aff tiedostoihin es_MX.dic ja es_MX.aff ja voit käyttää sitä oikeinkirjoitussanastona.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T114802Z" creationid="piav" creationdate="20191023T112648Z">
+        <seg>Jos käytössäsi on vain perusmuotoinen espanjan sanakirja, voit tehdä kopiot sen tiedostoista es_es.dic ja es_es.aff ja nimetä ne uudelleen tiedostoiksi es_MX.dic ja es_MX.aff. Näin saat käyttöön espanjan oikeinkirjoitussanaston.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12136,8 +12136,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Note that this will of course check for the standard (Castillian) rather than for Mexican Spanish.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T113032Z" creationid="piav" creationdate="20191023T112728Z">
-        <seg>Tällöin oikeinkirjoitus tietysti tarkistetaan Espanjan espanjan (kastilian), ei Meksikon espanjan mukaisesti.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T114821Z" creationid="piav" creationdate="20191023T112728Z">
+        <seg>Tällöin oikeinkirjoitus toki tarkistetaan Espanjan espanjan (kastilian), ei Meksikon espanjan mukaisesti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12370,6 +12370,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T080723Z" creationid="PiaVee" creationdate="20171015T080723Z">
         <seg>oksitaani</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Of course it is much wiser, to take a short break and download the correct versions of the spell checker.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T115000Z" creationid="piav" creationdate="20191023T115000Z">
+        <seg>Järkevämpää on kuitenkin pitää pieni tauko ja ladata oikeinkirjoituksen tarkistuksen vaatimat oikeat sanakirjaversiot.</seg>
       </tuv>
     </tu>
     <tu>
