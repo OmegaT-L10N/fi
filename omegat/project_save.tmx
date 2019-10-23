@@ -4681,8 +4681,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T170524Z" creationid="piav" creationdate="20190522T085333Z">
-        <seg>Tiivistä tyhjät merkit käännetyssä dokumentissa</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063628Z" creationid="piav" creationdate="20190522T085333Z">
+        <seg>Tiivistä tyhjätila käännetyssä dokumentissa</seg>
       </tuv>
     </tu>
     <tu>
@@ -5437,6 +5437,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+P</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063350Z" creationid="piav" creationdate="20191023T063350Z">
+        <seg>Ctrl+Shift+P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+Q</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T063323Z" creationid="piav" creationdate="20191023T063323Z">
@@ -5961,6 +5969,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T125354Z" creationid="PiaVee" creationdate="20171015T125354Z">
         <seg>Näytön fontti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display Source Segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063426Z" creationid="piav" creationdate="20191023T063426Z">
+        <seg>Näytä lähdesegmentit</seg>
       </tuv>
     </tu>
     <tu>
@@ -10612,8 +10628,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mar&amp;k Whitespace</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T085346Z" creationid="piav" creationdate="20190522T085346Z">
-        <seg>Merkitse tyhjätila</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063559Z" creationid="piav" creationdate="20190522T085346Z">
+        <seg>Merkitse tyhjätilamerkit</seg>
       </tuv>
     </tu>
     <tu>
@@ -10698,6 +10714,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063641Z" creationid="piav" creationdate="20191023T063641Z">
+        <seg>Merkitse automaattisen täydennyksen segmentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Bidirectional Algorithm Control Characters</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063638Z" creationid="piav" creationdate="20191023T063638Z">
+        <seg>Merkitse kaksisuuntaisen algoritmin kontrollimerkit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Glossary Matches</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T074743Z" creationid="piav" creationdate="20190916T141425Z">
@@ -10722,10 +10754,58 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Non-Unique Segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063458Z" creationid="piav" creationdate="20191023T063438Z">
+        <seg>Merkitse toistuvat segmentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Non-breakable Spaces</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063507Z" creationid="piav" creationdate="20191023T063507Z">
+        <seg>Merkitse pehmeät välilyönnit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Segments &amp;with Notes</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T141044Z" creationid="piav" creationdate="20190916T141044Z">
         <seg>Merkitse segmentit, joissa on muistiinpanoja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Segments with Notes</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063503Z" creationid="piav" creationdate="20191023T063503Z">
+        <seg>Merkitse segmentit, joissa on muistiinpanoja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Translated Segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063416Z" creationid="piav" creationdate="20191023T063416Z">
+        <seg>Merkitse käännetyt segmentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063423Z" creationid="piav" creationdate="20191023T063423Z">
+        <seg>Merkitse kääntämättömät segmentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Whitespace</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063521Z" creationid="piav" creationdate="20191023T063521Z">
+        <seg>Merkitse tyhjätilamerkit</seg>
       </tuv>
     </tu>
     <tu>
@@ -10998,6 +11078,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T142113Z" creationid="piav" creationdate="20190916T142113Z">
         <seg>Mallitunnus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification Info/Display None</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063652Z" creationid="piav" creationdate="20191023T063652Z">
+        <seg>Muokkaustiedot / älä näytä</seg>
       </tuv>
     </tu>
     <tu>
@@ -14105,8 +14193,8 @@ projektin ilman ryhmäominaisuutta.</seg>
       <tuv lang="EN">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190527T191247Z" creationid="piav" creationdate="20190522T085234Z">
-        <seg>Poista alussa ja lopussa olevat &amp;tyhjät merkit projekteista, joita ei ole jaettu segmentteihin</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063620Z" creationid="piav" creationdate="20190522T085234Z">
+        <seg>Poista alussa ja lopussa olevat &amp;tyhjätilamerkit projekteista, joita ei ole jaettu segmentteihin</seg>
       </tuv>
     </tu>
     <tu>
@@ -19493,6 +19581,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>View Menu</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063410Z" creationid="piav" creationdate="20191023T063410Z">
+        <seg>Näkymä-valikko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>View Options</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T122647Z" creationid="piav" creationdate="20190916T122647Z">
@@ -21879,6 +21975,30 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174208Z" creationid="PiaVee" creationdate="20171014T174208Z">
         <seg>gn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoHistoryBackMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063352Z" creationid="piav" creationdate="20191023T063352Z">
+        <seg>gotoHistoryBackMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoHistoryForwardMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063349Z" creationid="piav" creationdate="20191023T063349Z">
+        <seg>gotoHistoryForwardMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoMatchSourceSegment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063344Z" creationid="piav" creationdate="20191023T063344Z">
+        <seg>gotoMatchSourceSegment</seg>
       </tuv>
     </tu>
     <tu>
@@ -24565,10 +24685,82 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>viewDisplaySegmentSourceCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063428Z" creationid="piav" creationdate="20191023T063428Z">
+        <seg>viewDisplaySegmentSourceCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>viewFileListMenuItem</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061954Z" creationid="piav" creationdate="20191023T061954Z">
         <seg>viewFileListMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewMarkAutoPopulatedCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063642Z" creationid="piav" creationdate="20191023T063642Z">
+        <seg>viewMarkAutoPopulatedCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewMarkBidiCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063639Z" creationid="piav" creationdate="20191023T063639Z">
+        <seg>viewMarkBidiCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewMarkNBSPCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063508Z" creationid="piav" creationdate="20191023T063508Z">
+        <seg>viewMarkNBSPCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewMarkNonUniqueSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063459Z" creationid="piav" creationdate="20191023T063459Z">
+        <seg>viewMarkNonUniqueSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewMarkNotedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063504Z" creationid="piav" creationdate="20191023T063504Z">
+        <seg>viewMarkNotedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewMarkTranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063418Z" creationid="piav" creationdate="20191023T063418Z">
+        <seg>viewMarkTranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewMarkUntranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063424Z" creationid="piav" creationdate="20191023T063424Z">
+        <seg>viewMarkUntranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewMarkWhitespaceCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191023T063634Z" creationid="piav" creationdate="20191023T063634Z">
+        <seg>viewMarkWhitespaceCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
