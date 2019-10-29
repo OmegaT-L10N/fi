@@ -3551,6 +3551,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T180358Z" creationid="piav" creationdate="20191029T180358Z">
+        <seg>Segmentin tekstin automaattinen sanakirjahaku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Autotext</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T074106Z" creationid="piav" creationdate="20190522T074106Z">
@@ -4499,6 +4507,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T131905Z" creationid="piav" creationdate="20190920T131905Z">
         <seg>Tyhjennä merkinnät</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T181318Z" creationid="piav" creationdate="20191029T181318Z">
+        <seg>Älä valinta rastittamatta</seg>
       </tuv>
     </tu>
     <tu>
@@ -9061,6 +9077,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T113343Z" creationid="piav" creationdate="20191023T113343Z">
         <seg>Nimeä sanakirjatiedostot uudelleen tai muuta projektin kieliasetuksia tarvittaessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If necessary, you can select a specific domain to limit the volume of data sent and received.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T180352Z" creationid="piav" creationdate="20191029T180352Z">
+        <seg>Voit tarvittaessa rajoittaa lähtevän ja vastaanotetun datan määrää valitsemalla käytettävän domainin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16115,6 +16139,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select TaaS Terminology Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T180122Z" creationid="piav" creationdate="20191029T180122Z">
+        <seg>Valitse TaaS-terminologiahaun aihepiiri…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select TaaS domain</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T082016Z" creationid="piav" creationdate="20190522T082016Z">
@@ -17922,6 +17954,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The collections are downloaded as TBX glossaries and stored in the current glossary folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T180119Z" creationid="piav" creationdate="20191029T180119Z">
+        <seg>Kokoelmat ladataan TBX-muotoisina termikantoina kyseisen projektin sanastokansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The collections are downloaded as TBX glossaries in the current glossary folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T114447Z" creationid="PiaVee" creationdate="20171014T114447Z">
@@ -18797,8 +18837,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This button enables you to browse and download the collections that exist for the project's source and target languages.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191029T103513Z" creationid="piav" creationdate="20191029T103359Z">
-        <seg>Paina tätä painiketta, niin pääset selaamaan ja lataamaan kokoelmia, joita on projektin lähde- ja kohdekielillä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191029T180104Z" creationid="piav" creationdate="20191029T103359Z">
+        <seg>Paina tätä painiketta, niin pääset selaamaan ja lataamaan projektin lähde- ja kohdekielillä olevia kokoelmia.</seg>
       </tuv>
     </tu>
     <tu>
