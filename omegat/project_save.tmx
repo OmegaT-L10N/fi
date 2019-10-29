@@ -624,8 +624,8 @@
       <tuv lang="EN">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T065224Z" creationid="PiaVee" creationdate="20171218T072118Z">
-        <seg>Ohita osumat, jos isoja kirjaimia käytetään eri tavoin (esim. FOO ja foo)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191029T102059Z" creationid="PiaVee" creationdate="20171218T072118Z">
+        <seg>Ohita osumat, joissa isoja kirjaimia käytetään eri tavoin (esim. FOO ja foo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3895,6 +3895,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Browse TaaS Collections...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T103351Z" creationid="piav" creationdate="20191029T103351Z">
+        <seg>Selaa TaaS-kokoelmia…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Browse...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T110835Z" creationid="piav" creationdate="20190913T110835Z">
@@ -4383,6 +4391,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T100623Z" creationid="piav" creationdate="20191029T100623Z">
+        <seg>Jos haluat lähettää ainoastaan kääntämättömät segmentit konekäännöspalveluun, laita tähän ruutuun rasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check whole project</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092646Z" creationid="PiaVee" creationdate="20171014T092646Z">
@@ -4507,6 +4523,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T115039Z" creationid="PiaVee" creationdate="20171014T111113Z">
         <seg>Napsauta &lt;e0&gt;Valinnat &gt; Sanasto&lt;/e0&gt;, jolloin näet ja voit ottaa käyttöön seuraavia toimintoja:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T102319Z" creationid="piav" creationdate="20191029T102319Z">
+        <seg>Napsauta tätä painiketta, niin pääset &lt;u0&gt;TaaS&lt;/u0&gt;-projektin verkkosivulle luomaan itsellesi käyttäjätilin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6120,6 +6144,14 @@ may experience unexpected, but correct behaviour.</seg>
         <seg>Display context description for TBX &amp;glossaries</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T065214Z" creationid="PiaVee" creationdate="20171015T111741Z">
+        <seg>Näytä TBX-sanastojen kontekstitiedot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display context description for TBX glossaries</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T101024Z" creationid="piav" creationdate="20191029T101024Z">
         <seg>Näytä TBX-sanastojen kontekstitiedot</seg>
       </tuv>
     </tu>
@@ -8966,6 +8998,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T102042Z" creationid="piav" creationdate="20191029T102035Z">
+        <seg>Kun sekä tämä valinta että &lt;l0&gt;&lt;g1&gt;Lisää lähtöteksti&lt;/g1&gt;&lt;/l0&gt; on rastitettu, kaikki lähdetekstin sanat, joille sanastossa on käännös, käännetään automaattisesti, kun lähdeteksti lisätään käännökseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T070515Z" creationid="piav" creationdate="20190522T070515Z">
@@ -9089,6 +9129,22 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T102238Z" creationid="piav" creationdate="20191029T102238Z">
+        <seg>Jos tämä valinta on rastitettu, sanastossa näkyy vain yksi osuma, vaikka samasta sanasta olisi useita muotoja, joissa isoja ja pieniä kirjaimia käytetään eri tavoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this option is selected, OmegaT will not remember the access key between sessions.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T103348Z" creationid="piav" creationdate="20191029T103348Z">
+        <seg>Jos tämä valinta on rastitettu, OmegaT ei talleta salasanaa seuraavaa istuntoa varten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061509Z" creationid="piav" creationdate="20191023T061432Z">
@@ -9131,8 +9187,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T120817Z" creationid="piav" creationdate="20191023T120424Z">
-        <seg>Jos jätät tämän valinnan tekemättä, ohjelma hakee konekäännöksiä vain, kun painat atiivisen segmentin kohdalla näppäinyhdistelmää &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Komento (cmd) ⌘&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; OS X -käyttöjärjestelmässä).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191029T100429Z" creationid="piav" creationdate="20191023T120424Z">
+        <seg>Jos jätät tämän valinnan tekemättä, ohjelma hakee konekäännöksiä vain, kun painat atiivisen segmentin kohdalla näppäinyhdistelmää &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Komento (cmd) ⌘&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; macOS-käyttöjärjestelmässä).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9189,6 +9245,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T093024Z" creationid="PiaVee" creationdate="20171014T092738Z">
         <seg>Älä huomioi sanaston mukaista alkukirjaimen kokoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T102105Z" creationid="piav" creationdate="20191029T102037Z">
+        <seg>Ohita osumat, joissa isoja kirjaimia käytetään eri tavoin (esim. FOO ja foo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14801,6 +14865,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T101822Z" creationid="piav" creationdate="20191029T101822Z">
+        <seg>Korvaa sanasto-osumat lähtötekstiä lisättäessä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190515T191307Z" creationid="PiaVee" creationdate="20170908T124309Z">
@@ -16067,6 +16139,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T100824Z" creationid="piav" creationdate="20191029T100649Z">
+        <seg>Valitse palveluntarjoaja listalta ja tarvittaessa napsauta &lt;g0&gt;Määritä&lt;/g0&gt;-painiketta, jolloin pääset syöttämään palveluntarjoajan tunnistetiedot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select issue types to check.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T134208Z" creationid="piav" creationdate="20190920T134208Z">
@@ -16079,6 +16159,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T140456Z" creationid="piav" creationdate="20190916T140456Z">
         <seg>Valitse languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select this option if you want the glossary to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T101819Z" creationid="piav" creationdate="20191029T101655Z">
+        <seg>Rastita tämä valinta, jos haluat, että sanastoruudussa näkyy vartaloltaan samoja sanoja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16953,6 +17041,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T132456Z" creationid="piav" creationdate="20190920T132456Z">
         <seg>2. vaihe: Tee manuaalisia korjauksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Store for this session only</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T103315Z" creationid="piav" creationdate="20191029T102700Z">
+        <seg>Tallenna vain tämän istunnon ajaksi</seg>
       </tuv>
     </tu>
     <tu>
@@ -18222,6 +18318,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The procedures for configuring access to the Microsoft Translator and Google Translate services are described &lt;u0&gt;here&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T101020Z" creationid="piav" creationdate="20191029T101020Z">
+        <seg>&lt;u0&gt;Täällä&lt;/u0&gt; kuvataan, miten Microsoft Translator- tai Google Translate -palvelun asetukset määritellään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The program will seek confirmation before closing down.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T120243Z" creationid="piav" creationdate="20191023T120243Z">
@@ -18687,6 +18791,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T125926Z" creationid="piav" creationdate="20190920T125926Z">
         <seg>Tämä URL vaikuttaa virheelliseltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This button enables you to browse and download the collections that exist for the project's source and target languages.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T103513Z" creationid="piav" creationdate="20191029T103359Z">
+        <seg>Paina tätä painiketta, niin pääset selaamaan ja lataamaan kokoelmia, joita on projektin lähde- ja kohdekielillä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19673,6 +19785,22 @@ Täsmähaut etsivät koko hakustringiä.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T101143Z" creationid="piav" creationdate="20191029T101120Z">
+        <seg>Älä rastita tätä vaihtoehtoa, jos et tarvitse jokaisen sanaston tietueen kontekstitietoja tai jos kontekstitiedot ovat liian pitkät.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uncheck this option if the glossary displays too many false positives.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T101641Z" creationid="piav" creationdate="20191029T101623Z">
+        <seg>Jätä tämä valinta rastittamatta, jos sanastossa näkyy liikaa virheellisiä esiintymiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Undo Last Action</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T062457Z" creationid="piav" creationdate="20191023T062457Z">
@@ -19869,6 +19997,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Untranslated segments only</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T100548Z" creationid="piav" creationdate="20191029T100538Z">
+        <seg>Vain kääntämättömät segmentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Untranslated segments text</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T084311Z" creationid="piav" creationdate="20190522T084311Z">
@@ -20015,8 +20151,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>Use Terms Appearing Separately in the Source Text</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T063932Z" creationid="piav" creationdate="20191023T063932Z">
-        <seg>Käytä lähtötekstin yksittäisiä termejä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191029T101516Z" creationid="piav" creationdate="20191023T063932Z">
+        <seg>Käytä lähtötekstissä olevia yksittäisiä termejä</seg>
       </tuv>
     </tu>
     <tu>
@@ -20081,6 +20217,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T065217Z" creationid="PiaVee" creationdate="20171015T111851Z">
         <seg>Käytä lähtötekstin yksittäisiä termejä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use terms appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T101555Z" creationid="piav" creationdate="20191029T101145Z">
+        <seg>Käytä lähtötekstissä olevia yksittäisiä termejä</seg>
       </tuv>
     </tu>
     <tu>
@@ -20523,6 +20667,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T150538Z" creationid="PiaVee" creationdate="20171014T150538Z">
         <seg>Vie osoitin alleviivatun lausekkeen yläpuolelle, niin saat näkyviin selityksen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T101402Z" creationid="piav" creationdate="20191029T101248Z">
+        <seg>Kun tämän valinnan kohdalla on rasti, sanasto näyttää sanaryhmiä tai lausekkeita, vaikka niiden sanat esiintyvät yksittäin lähtötekstissä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21010,6 +21162,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can then create an access key on the page &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T103313Z" creationid="piav" creationdate="20191029T102658Z">
+        <seg>Tämän jälkeen voit luoda salasanan osoitteessa &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can think of LanguageTool as a software to detect errors that a simple spell checker cannot detect, e.g. mixing up there/their, no/now etc.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T145336Z" creationid="PiaVee" creationdate="20171014T145336Z">
@@ -21070,6 +21230,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124620Z" creationid="PiaVee" creationdate="20171015T124620Z">
         <seg>Numeron on oltava 1 ja {0} väliltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must then press &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T100546Z" creationid="piav" creationdate="20191029T100534Z">
+        <seg>Lisää ehdotus painamalla uudelleen näppäinyhdistelmää &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23099,10 +23267,34 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T100841Z" creationid="piav" creationdate="20191029T100841Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T095808Z" creationid="PiaVee" creationdate="20171219T095808Z">
         <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T102322Z" creationid="piav" creationdate="20191029T102322Z">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://term.tilde.com/taas</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191029T102241Z" creationid="piav" creationdate="20191029T102241Z">
+        <seg>https://term.tilde.com/taas</seg>
       </tuv>
     </tu>
     <tu>
