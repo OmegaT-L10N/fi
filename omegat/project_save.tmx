@@ -8318,6 +8318,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Files containing formatting (ODF documents, HTML documents, etc.) are segmented on the block-level (paragraph) tags.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T125529Z" creationid="piav" creationdate="20191030T125529Z">
+        <seg>Muotoiluja sisältävät tiedostot (ODF-asiakirjat, HTML-tiedostot jne.) segmentoidaan lohkon (kappaleen) tägien perusteella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072326Z" creationid="PiaVee" creationdate="20171218T072326Z">
@@ -20370,6 +20378,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T064413Z" creationid="piav" creationdate="20191023T063959Z">
         <seg>TransTips / Ota TransTips käyttöön</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translatable object attributes in XHTML or HTML files can be extracted as separate segments.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T125639Z" creationid="piav" creationdate="20191030T125639Z">
+        <seg>XHTML- tai HTML-tiedostojen käännettävät objektimääritteet voidaan erottaa omiksi segmenteikseen.</seg>
       </tuv>
     </tu>
     <tu>
