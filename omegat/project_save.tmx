@@ -8590,6 +8590,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, rules for Canadian French (FR-CA) should be set higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T132211Z" creationid="piav" creationdate="20191030T132211Z">
+        <seg>FZZ Näin esimerkiksi Kanadan ranskaa (FR-CA) koskevat segmentointisäännöt tulisi olla listalla ennen ranskaa (FR.*) koskevia sääntöjä, ja näiden molempien tulisi olla ennen oletussääntöjä (.*).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, text files may be segmented on line breaks, empty lines, or not be segmented at all.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T125321Z" creationid="piav" creationdate="20191030T125321Z">
@@ -19398,6 +19406,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The predefined break rules should be sufficient for most European languages and Japanese.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T132418Z" creationid="piav" creationdate="20191030T132418Z">
+        <seg>Valmiita poikkeussäntöjä on olemassa useimmille Euroopan kielille ja japanille. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The principal members of the project are:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T084444Z" creationid="PiaVee" creationdate="20171219T084027Z">
@@ -20274,6 +20290,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T130708Z" creationid="piav" creationdate="20191030T130708Z">
         <seg>Merkitse sääntö katkaisusäännöksi laittamalla Katkaisu/poikkeus-ruutuun rasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To define a rule as an exception rule, leave the Break/Exception check box unticked.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T132250Z" creationid="piav" creationdate="20191030T132250Z">
+        <seg>Merkitse sääntö poikkeussäännöksi jättämällä rasti pois Katkaisu/poikkeus-ruudusta.</seg>
       </tuv>
     </tu>
     <tu>
