@@ -3441,8 +3441,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>As this is the standard behaviour for PO files, it is selected by default.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T083132Z" creationid="piav" creationdate="20191030T082841Z">
-        <seg>Tämä on oletuksena PO-tiedostoissa, joten valinta on oletusarvoisesti rastitettu.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T083152Z" creationid="piav" creationdate="20191030T082841Z">
+        <seg>Tämä on oletuksena PO-tiedostoissa, joten valinta on oletusarvoisesti käytössä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9173,6 +9173,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T081914Z" creationid="piav" creationdate="20191030T081914Z">
         <seg>Jos tätä valintaa ei ole rastitettu, lähdetiedoston nimeä ei käytetä, ja vaihtoehtoiset käännökset vaikuttavat kaikkiin tiedostoihin aina, kun muu konteksti (tiedostomuodosta riippuen joko edellinen/seuraava segmentti tai jokin segmentin tunniste) on sama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the option is off, the source text will be copied to the target segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T083216Z" creationid="piav" creationdate="20191030T083145Z">
+        <seg>Jos valinta on pois käytöstä, lähdeteksti kopioidaan kohdesegmenttiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16679,6 +16687,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T134547Z" creationid="piav" creationdate="20190920T134547Z">
         <seg>Ohita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skip PO header</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T083219Z" creationid="piav" creationdate="20191030T083219Z">
+        <seg>Ohita PO-otsake</seg>
       </tuv>
     </tu>
     <tu>
