@@ -10081,6 +10081,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order to edit or expand an existing set of rules, simply click on it in the top table.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T133534Z" creationid="piav" creationdate="20191030T133534Z">
+        <seg>Voit muokata tai laajentaa sääntölistaa napsauttamalla sen ylemmässä taulukossa olevaa nimeä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Properties...&lt;/g3&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T123509Z" creationid="piav" creationdate="20191030T123416Z">
