@@ -10113,6 +10113,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In view of the flexibility, you may consider defining more exception rules for your source language in order to provide more meaningful and coherent segments.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T132850Z" creationid="piav" creationdate="20191030T132444Z">
+        <seg>Voit hyvin laatia lisää poikkeussääntöjä lähdekielellesi, jolloin saat johdonmukaisempia segmenttejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In your file manager, create a new folder in a suitable location in which to store spelling dictionaries (D:\Translations\spellcheckers in the example below).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T110529Z" creationid="piav" creationdate="20191023T110529Z">
@@ -19408,8 +19416,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The predefined break rules should be sufficient for most European languages and Japanese.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T132418Z" creationid="piav" creationdate="20191030T132418Z">
-        <seg>Valmiita poikkeussäntöjä on olemassa useimmille Euroopan kielille ja japanille. </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T132450Z" creationid="piav" creationdate="20191030T132418Z">
+        <seg>Valmiita poikkeussäntöjä on olemassa useimmille Euroopan kielille ja japanille. Ne riittävät hyvin alkuun.</seg>
       </tuv>
     </tu>
     <tu>
