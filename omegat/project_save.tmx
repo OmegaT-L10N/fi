@@ -7926,6 +7926,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filter options</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T081928Z" creationid="piav" creationdate="20191030T081928Z">
+        <seg>Suodati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072548Z" creationid="PiaVee" creationdate="20171218T072548Z">
@@ -9133,6 +9141,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T191221Z" creationid="piav" creationdate="20190527T191221Z">
         <seg>Pääset vaihtamaan mahdollisia suodatinasetuksia napsauttamalla Asetukset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T081914Z" creationid="piav" creationdate="20191030T081914Z">
+        <seg>Jos tätä valintaa ei ole rastitettu, lähdetiedoston nimeä ei käytetä, ja vaihtoehtoiset käännökset vaikuttavat kaikkiin tiedostoihin aina, kun muu konteksti (tiedostomuodosta riippuen joko edellinen/seuraava segmentti tai jokin segmentin tunniste) on sama.</seg>
       </tuv>
     </tu>
     <tu>
