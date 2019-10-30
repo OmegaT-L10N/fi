@@ -17035,6 +17035,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;u0&gt;Using the OmegaT text export function&lt;/u0&gt; for specifics, examples and suggestions.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T151942Z" creationid="piav" creationdate="20191030T151942Z">
+        <seg>Yksityiskohtaista tietoa, esimerkkjä ja ehdotuksia löytyy kohdasta &lt;u0&gt;OmegaT:n tekstinvientitoiminnon käyttö&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T175011Z" creationid="PiaVee" creationdate="20171015T092448Z">
@@ -19660,6 +19668,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The files are unformatted plain text files.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T151609Z" creationid="piav" creationdate="20191030T151609Z">
+        <seg>Tiedostot ovat muotoilemattomia vain teksti -tiedostoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The filters used by the current project are displayed in bold.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T075700Z" creationid="piav" creationdate="20191030T075700Z">
@@ -20258,6 +20274,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T075125Z" creationid="piav" creationdate="20191022T074222Z">
         <seg>Sanaston termiin voi liittyä kommentti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The whole process can be steered and controlled via Tck/Tcl-based scripting.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T151658Z" creationid="piav" creationdate="20191030T151658Z">
+        <seg>Prosessia voidaan ohjata ja tarkkailla Tck/Tcl-pohjaisella komentosarjakielellä.</seg>
       </tuv>
     </tu>
     <tu>
