@@ -2275,10 +2275,34 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;${file-source-encoding}&lt;/l0&gt; - source file encoding</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T122415Z" creationid="piav" creationdate="20191030T122415Z">
+        <seg>&lt;l0&gt;${file-source-encoding}&lt;/l0&gt; – lähdetiedoston merkistökoodaus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; - target file encoding</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T122433Z" creationid="piav" creationdate="20191030T122433Z">
+        <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; – kohdetiedoston merkistökoodaus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– allows you to insert only the name of the source file without the extension.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T122016Z" creationid="piav" creationdate="20191030T121337Z">
         <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt; – ainoastaan lähdetiedoston nimi, ilman tiedostopäätettä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${system-host-name}&lt;/l0&gt; - system host name</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T122352Z" creationid="piav" creationdate="20191030T122352Z">
+        <seg>&lt;l0&gt;${system-host-name}&lt;/l0&gt; – järjestelmät isäntänimi</seg>
       </tuv>
     </tu>
     <tu>
@@ -2319,6 +2343,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T122035Z" creationid="piav" creationdate="20191030T121609Z">
         <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt; – kohdekielen ja maan koodi yhdessä (muotoa "XX-YY").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt; - Microsoft target locale</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T122524Z" creationid="piav" creationdate="20191030T122524Z">
+        <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt; – Microsoftin kohdekielialuetunnus</seg>
       </tuv>
     </tu>
     <tu>
@@ -3039,6 +3071,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081650Z" creationid="piav" creationdate="20190522T081650Z">
         <seg>Lisättyjä: {1}, poistettuja: {2}, muokattuja: {3} (ristiriitoja: {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Additional variants are available for variables ${nameOnly} and ${Extension}.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T122608Z" creationid="piav" creationdate="20191030T122608Z">
+        <seg>Muuttujille ${nameOnly} ja ${Extension} on olemassa lisää .</seg>
       </tuv>
     </tu>
     <tu>
