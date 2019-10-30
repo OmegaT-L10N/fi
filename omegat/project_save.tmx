@@ -9697,6 +9697,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T130330Z" creationid="piav" creationdate="20191030T130330Z">
+        <seg>Jos sääntö vastaa tekstiä, joko kursori siirtyy edelleen eikä segmenttiä vaihdeta (poikkeussääntö) tai kursorin kohdalla segmentti vaihtuu uuteen (katkaisusääntö).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T105053Z" creationid="piav" creationdate="20191023T113910Z">
