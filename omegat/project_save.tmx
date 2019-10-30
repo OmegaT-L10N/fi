@@ -2179,6 +2179,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Warning: &lt;/e0&gt;because the text will segment differently after filter options have been changed, so you may have to start translating from scratch.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T124602Z" creationid="piav" creationdate="20191030T124602Z">
+        <seg>&lt;e0&gt;Varoitus!&lt;/e0&gt; Kun suodatinsääntöjä on muutettu, teksti segmentoituu uudella tavalla ja voit joutua aloittamaan käännöstyön uudelleen alusta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Word:&lt;/e0&gt; non-visible instruction text, comments, footnotes, endnotes, footers</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T100309Z" creationid="piav" creationdate="20191030T100309Z">
@@ -3755,6 +3763,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173523Z" creationid="PiaVee" creationdate="20171014T173518Z">
         <seg>assami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the same time the previous valid segments in the project translation memory will turn into orphan segments.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T124804Z" creationid="piav" creationdate="20191030T124804Z">
+        <seg>Samanaikaisesti aiemmista kelpo käännössegmenteistä tulee käännösmuistin orposegmenttejä.</seg>
       </tuv>
     </tu>
     <tu>
