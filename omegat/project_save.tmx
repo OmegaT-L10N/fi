@@ -13086,6 +13086,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT identifies the source file encoding by using its encoding declaration, if present (HTML files, XML based files).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T120147Z" creationid="piav" creationdate="20191030T120147Z">
+        <seg>OmegaT tunnistaa lähdetiedoston merkistökoodauksen mahdollisen koodausmaininnan perusteella (HTML-tiedostoissa ja XML-pohjaisissa tiedostoissa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T184225Z" creationid="piav" creationdate="20190521T181303Z">
