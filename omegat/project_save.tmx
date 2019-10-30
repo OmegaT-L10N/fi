@@ -10505,6 +10505,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert the best fuzzy match</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T142845Z" creationid="piav" creationdate="20191030T142845Z">
+        <seg>Lisää paras sumea osuma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert the source text</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T141859Z" creationid="piav" creationdate="20191030T141859Z">
@@ -13722,6 +13730,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T120147Z" creationid="piav" creationdate="20191030T120147Z">
         <seg>OmegaT tunnistaa lähdetiedoston merkistökoodauksen mahdollisen koodausmaininnan perusteella (HTML-tiedostoissa ja XML-pohjaisissa tiedostoissa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT inserts the translation of the string most similar to the current source, if it is above the similarity threshold that you have selected in this dialog.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T142914Z" creationid="piav" creationdate="20191030T142914Z">
+        <seg>OmegaT lisää lähinnä lähdetekstiä olevan käännöksen</seg>
       </tuv>
     </tu>
     <tu>
@@ -19476,6 +19492,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The entry &lt;e3&gt;Remove translation&lt;/e3&gt; in the same pop up menu also allows to delete the existing translation of the current segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T142740Z" creationid="piav" creationdate="20191030T142614Z">
+        <seg>Samassa ponnahdusvalikossa on vaihtoehto &lt;e3&gt;Poista käännös&lt;/e3&gt;, jonka avulla poistat segmentissä olevan käännöksen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The escape character ('\u001B')</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T152139Z" creationid="piav" creationdate="20191022T152139Z">
@@ -22781,6 +22805,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082338Z" creationid="PiaVee" creationdate="20171015T082338Z">
         <seg>joruba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You achieve the same by clearing the target segment and pressing &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T142816Z" creationid="piav" creationdate="20191030T142816Z">
+        <seg>Saat saman lopputuloksen, kun tyhjennät kohdesegmentin ja painat &lt;g4&gt;Enter&lt;/g4&gt;-näppäintä.</seg>
       </tuv>
     </tu>
     <tu>
