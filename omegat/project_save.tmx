@@ -1949,8 +1949,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T100927Z" creationid="piav" creationdate="20191030T100927Z">
-        <seg>&lt;e0&gt;Yhdistä tägit&lt;/e0&gt;: Jos tämä on valittu, </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101118Z" creationid="piav" creationdate="20191030T100927Z">
+        <seg>&lt;e0&gt;Yhdistä tägit&lt;/e0&gt;: Jos tämä on valittu, erilliset tägit, joiden välissä ei ole käännettävää tekstiä, yhdistetään yhdeksi tägiksi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2071,6 +2071,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T100427Z" creationid="piav" creationdate="20191030T100427Z">
         <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: dian commentit, dian perustyylit, dian asettelut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101209Z" creationid="piav" creationdate="20191030T101209Z">
+        <seg>&lt;e0&gt;Jätä kaikkien tägien välilyönnit&lt;/e0&gt;: Jos tämä on valittu, tyhjätilamerkit (eli välilyönnit ja uudet rivit)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9323,8 +9331,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191029T102238Z" creationid="piav" creationdate="20191029T102238Z">
-        <seg>Jos tämä valinta on rastitettu, sanastossa näkyy vain yksi osuma, vaikka samasta sanasta olisi useita muotoja, joissa isoja ja pieniä kirjaimia käytetään eri tavoin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101017Z" creationid="piav" creationdate="20191029T102238Z">
+        <seg>Kun tämä valinta on rastitettu, sanastossa näkyy vain yksi osuma, vaikka samasta sanasta olisi useita muotoja, joissa isoja ja pieniä kirjaimia käytetään eri tavoin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18186,8 +18194,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The PO header will be skipped and left unchanged if this option is checked.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T094406Z" creationid="piav" creationdate="20191030T094406Z">
-        <seg>Jos tämä valinta on rastitettu, PO-otsaketta ei muuteta vaan se ohitetaan.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101030Z" creationid="piav" creationdate="20191030T094406Z">
+        <seg>Kun tämä valinta on rastitettu, PO-otsaketta ei muuteta vaan se ohitetaan.</seg>
       </tuv>
     </tu>
     <tu>
