@@ -2691,6 +2691,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A good starting point will always be the existing rules.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T134313Z" creationid="piav" creationdate="20191030T134313Z">
+        <seg>Olemassa olevat säännöt ovat aina hyvä </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T105016Z" creationid="piav" creationdate="20191022T160346Z">
@@ -16695,6 +16703,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T184723Z" creationid="piav" creationdate="20190527T184723Z">
         <seg>Lisätietoja: /docs/contributors.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;l2&gt;Regular expressions&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T134247Z" creationid="piav" creationdate="20191030T134237Z">
+        <seg>Ks. &lt;l2&gt;Säännölliset lausekkeet&lt;/l2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
