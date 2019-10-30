@@ -880,8 +880,8 @@
       <tuv lang="EN">
         <seg>&amp;Options</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T065156Z" creationid="PiaVee" creationdate="20171015T111221Z">
-        <seg>Asetukset</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104910Z" creationid="PiaVee" creationdate="20171015T111221Z">
+        <seg>Valinnat</seg>
       </tuv>
     </tu>
     <tu>
@@ -1040,8 +1040,8 @@
       <tuv lang="EN">
         <seg>&amp;Reset Options</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T065358Z" creationid="piav" creationdate="20190521T143053Z">
-        <seg>Nollaa asetukset</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104920Z" creationid="piav" creationdate="20190521T143053Z">
+        <seg>Nollaa valinnat</seg>
       </tuv>
     </tu>
     <tu>
@@ -2165,8 +2165,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T110941Z" creationid="piav" creationdate="20190913T110941Z">
-        <seg>&lt;html&gt;&lt;center&gt;Ladataan…&lt;br&gt;&lt;br&gt;Vihje: Voit milloin tahansa ottaa tarkistukset käyttöön tai poistaa ne käytöstä Asetukset-valikosta.&lt;/center&gt;&lt;/html&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105012Z" creationid="piav" creationdate="20190913T110941Z">
+        <seg>&lt;html&gt;&lt;center&gt;Ladataan…&lt;br&gt;&lt;br&gt;Vihje: Voit milloin tahansa ottaa tarkistukset käyttöön tai poistaa ne käytöstä Valinnat-valikosta.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2493,8 +2493,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T160411Z" creationid="piav" creationdate="20191022T160346Z">
-        <seg>Jo &lt;a0&gt;OmegaT&lt;/a0&gt;:ssä itsessään on hyvä kokoelma käytännöllisiä regex-tapauksia (ks. kohta Asetukset &gt; Segmentointi).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105016Z" creationid="piav" creationdate="20191022T160346Z">
+        <seg>Jo &lt;a0&gt;OmegaT&lt;/a0&gt;:ssä itsessään on hyvä kokoelma käytännöllisiä regex-tapauksia (ks. kohta Valinnat &gt; Segmentointi).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7584,8 +7584,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Exception while editing options:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T100058Z" creationid="piav" creationdate="20190913T100058Z">
-        <seg>Poikkeus asetuksien muokkaamisessa:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104953Z" creationid="piav" creationdate="20190913T100058Z">
+        <seg>Poikkeus valintojen muokkaamisessa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9323,8 +9323,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If the filter has any options, you may change them by clicking Options.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190527T191221Z" creationid="piav" creationdate="20190527T191221Z">
-        <seg>Pääset vaihtamaan mahdollisia suodatinasetuksia napsauttamalla Asetukset.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104939Z" creationid="piav" creationdate="20190527T191221Z">
+        <seg>Pääset vaihtamaan mahdollisia suodatinasetuksia napsauttamalla Valinnat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9347,8 +9347,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T113927Z" creationid="piav" creationdate="20191023T113910Z">
-        <seg>Jos oikeinkirjoituksen tarkistus ei toimi, tarkista, että olet rastittanut &lt;g0&gt;Tarkista oikeinkirjoitus automaattisesti&lt;/g0&gt; -valintaruudun (kohdassa &lt;g1&gt;Asetukset &gt; Oikeinkirjoituksen tarkistus…&lt;/g1&gt;)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105053Z" creationid="piav" creationdate="20191023T113910Z">
+        <seg>Jos oikeinkirjoituksen tarkistus ei toimi, tarkista, että olet rastittanut &lt;g0&gt;Tarkista oikeinkirjoitus automaattisesti&lt;/g0&gt; -valintaruudun (kohdassa &lt;g1&gt;Valinnat &gt; Oikeinkirjoituksen tarkistus…&lt;/g1&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9555,8 +9555,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T110658Z" creationid="piav" creationdate="20191023T110554Z">
-        <seg>Avaa OmegaT. Valitse &lt;g0&gt;Asetukset &gt; Oikeinkirjoituksen tarkistus&lt;/g0&gt; ja napsauta Sanakirjojen kansio -kentän kohtaa &lt;g1&gt;Valitse&lt;/g1&gt;.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105043Z" creationid="piav" creationdate="20191023T110554Z">
+        <seg>Avaa OmegaT. Valitse &lt;g0&gt;Valinnat &gt; Oikeinkirjoituksen tarkistus&lt;/g0&gt; ja napsauta Sanakirjojen kansio -kentän kohtaa &lt;g1&gt;Valitse&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12374,8 +12374,8 @@ inside the configuration folder.</seg>
 	--quiet
 		Reduce output to command line stdout.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T075813Z" creationid="PiaVee" creationdate="20171015T084702Z">
-        <seg>Asetukset muuta kuin GUI-tilaa varten:
+      <tuv lang="FI" changeid="piav" changedate="20191030T104855Z" creationid="PiaVee" creationdate="20171015T084702Z">
+        <seg>Valinnat muuta kuin GUI-tilaa varten:
 	--quiet
 		Tuottaa ainoastaan komentorivin standarditulosteen (stdout).</seg>
       </tuv>
@@ -13340,16 +13340,16 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Options</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T102545Z" creationid="PiaVee" creationdate="20171015T102545Z">
-        <seg>Asetukset</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104903Z" creationid="PiaVee" creationdate="20171015T102545Z">
+        <seg>Valinnat</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Options Menu</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T063833Z" creationid="piav" creationdate="20191023T063824Z">
-        <seg>Asetukset-valikko</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105028Z" creationid="piav" creationdate="20191023T063824Z">
+        <seg>Valinnat-valikko</seg>
       </tuv>
     </tu>
     <tu>
@@ -19357,8 +19357,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T101815Z" creationid="piav" creationdate="20191023T115414Z">
-        <seg>Valitsemalla &lt;m0&gt; &lt;g1&gt;Asetukset&lt;/g1&gt; pääset kohtaan &lt;g2&gt;Valinnat…&lt;/g2&gt; &lt;/m0&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104809Z" creationid="piav" creationdate="20191023T115414Z">
+        <seg>Valitsemalla &lt;m0&gt; &lt;g1&gt;Valinnat&lt;/g1&gt; pääset kohtaan &lt;g2&gt;Asetukset…&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19648,8 +19648,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>To enable the spell checker, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt; and tick the &lt;g1&gt;Automatically check the spelling of text&lt;/g1&gt; check box (see above).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T113539Z" creationid="piav" creationdate="20191023T113447Z">
-        <seg>Ota oikeinkirjoituksen tarkistuksen käyttöön kohdassa &lt;g0&gt;Asetukset &gt; Oikeinkirjoituksen tarkistus &lt;/g0&gt; ja laita &lt;g1&gt;Tarkista oikeinkirjoitus automaattisesti&lt;/g1&gt; -valintaruutuun rasti (ks. yllä).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105049Z" creationid="piav" creationdate="20191023T113447Z">
+        <seg>Ota oikeinkirjoituksen tarkistuksen käyttöön kohdassa &lt;g0&gt;Valinnat &gt; Oikeinkirjoituksen tarkistus &lt;/g0&gt; ja laita &lt;g1&gt;Tarkista oikeinkirjoitus automaattisesti&lt;/g1&gt; -valintaruutuun rasti (ks. yllä).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20647,8 +20647,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar team &lt;command&gt; [&lt;options&gt;]]</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T092613Z" creationid="PiaVee" creationdate="20171015T092456Z">
-        <seg>Käyttö: java -jar OmegaT.jar team &lt;komento&gt; [&lt;asetukset&gt;]]</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104901Z" creationid="PiaVee" creationdate="20171015T092456Z">
+        <seg>Käyttö: java -jar OmegaT.jar team &lt;komento&gt; [&lt;valinnat&gt;]]</seg>
       </tuv>
     </tu>
     <tu>
