@@ -5015,10 +5015,26 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on &lt;g0&gt;Auto-text...&lt;/g0&gt; to configure Auto-text options and to add or remove entries.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T135741Z" creationid="piav" creationdate="20191030T135616Z">
+        <seg>Napsauta kohtaa &lt;g0&gt;Automaattinen teksti…&lt;/g0&gt;, niin pääset määrittämään automaattisen töydennyksen asetuksia sekä lisäämään tai poistamaan tietueita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;g0&gt;Character Table...&lt;/g0&gt; to set the Character table auto-completer options.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T135837Z" creationid="piav" creationdate="20191030T135751Z">
+        <seg>Napsauta kohtaa &lt;g0&gt;Merkkitaulukko…&lt;/g0&gt;, niin pääset valitsemaan Merkkitaulukon automaattisen täydennyksen asetukset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on &lt;g0&gt;Glossary...&lt;/g0&gt; to configure the Auto-completer Glossary View.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T135530Z" creationid="piav" creationdate="20191030T135412Z">
-        <seg>Napsauta kohtaa &lt;g0&gt;Sanasto…&lt;/g0&gt;, niin pääset määrittelemään Sanaston esikatselu </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T135604Z" creationid="piav" creationdate="20191030T135412Z">
+        <seg>Napsauta kohtaa &lt;g0&gt;Sanasto…&lt;/g0&gt;, niin pääset määrittelemään automaattista täydennystä Sanaston esikatselussa.</seg>
       </tuv>
     </tu>
     <tu>
