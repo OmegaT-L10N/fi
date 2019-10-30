@@ -19461,8 +19461,16 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The content of the segment source text (&lt;f0&gt;source.txt&lt;/f0&gt;).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T150843Z" creationid="piav" creationdate="20191030T150843Z">
-        <seg>jjjj</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T151140Z" creationid="piav" creationdate="20191030T150843Z">
+        <seg>segmentin lähdetekstin sisältö (&lt;f0&gt;source.txt&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The content of the segment target text (&lt;f0&gt;target.txt&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T151209Z" creationid="piav" creationdate="20191030T151209Z">
+        <seg>segmentin kohdetekstin sisältö (&lt;f0&gt;target.txt&lt;/f0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19638,8 +19646,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T150842Z" creationid="piav" creationdate="20191030T145045Z">
-        <seg>hhhTiedostot ovat OmegaT:n käyttä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T151137Z" creationid="piav" creationdate="20191030T145045Z">
+        <seg>Tiedostot päätyvät OmegaT:n käyttäjän tiedostojen kansion /script-alakansioon. Tiedostoissa on:</seg>
       </tuv>
     </tu>
     <tu>
