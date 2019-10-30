@@ -9736,8 +9736,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>If &lt;e0&gt;Show Relevant Suggestions Automatically&lt;/e0&gt; option is checked, Auto-completer is launched automatically by typing the first letter of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T140151Z" creationid="piav" creationdate="20191030T135943Z">
-        <seg>Jos &lt;e0&gt;Näytä sopivia ehdotuksia automaattisesti&lt;/e0&gt; on valittu, automaattinen täydennys tulee automaattisesti käyttöön, kun käännetyn sanaston termin ensimmäinen kirjain tai (tägin tapauksessa) "&lt;" kirjoitetaan.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T143530Z" creationid="piav" creationdate="20191030T135943Z">
+        <seg>Jos &lt;e0&gt;Näytä sopivia ehdotuksia automaattisesti&lt;/e0&gt; on rastitettu, automaattinen täydennys tulee automaattisesti käyttöön, kun käännetyn sanaston termin ensimmäinen kirjain tai (tägin tapauksessa) "&lt;" kirjoitetaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9963,16 +9963,16 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T101859Z" creationid="piav" creationdate="20191029T102238Z">
-        <seg>Kun tämä kohta on rastitettu, sanastossa näkyy vain yksi osuma, vaikka samasta sanasta olisi useita muotoja, joissa isoja ja pieniä kirjaimia käytetään eri tavoin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T143514Z" creationid="piav" creationdate="20191029T102238Z">
+        <seg>Kun tässä kohdassa on rasti, sanastossa näkyy vain yksi osuma, vaikka samasta sanasta olisi useita muotoja, joissa isoja ja pieniä kirjaimia käytetään eri tavoin.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T143452Z" creationid="piav" creationdate="20191030T143438Z">
-        <seg>Jos tässä valittu</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T143628Z" creationid="piav" creationdate="20191030T143438Z">
+        <seg>Kun tässä kohdassa on rasti, OmegaT yrittää muuttaa manuaalisesti tai automaattisesti lisätyssä sumeassa osumassa olevat numerot lähtötekstin mukaisiksi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19210,8 +19210,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The PO header will be skipped and left unchanged if this option is checked.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T101942Z" creationid="piav" creationdate="20191030T094406Z">
-        <seg>Kun tämä kohta on rastitettu, PO-otsaketta ei muuteta vaan se ohitetaan.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T143522Z" creationid="piav" creationdate="20191030T094406Z">
+        <seg>Kun tässä kohdassa on rasti, PO-otsaketta ei muuteta vaan se ohitetaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19982,6 +19982,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The source segment and the fuzzy matches must contain the same list of numbers</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T143743Z" creationid="piav" creationdate="20191030T143743Z">
+        <seg>Lähdesegmentissä ja sumeassa osumassa on oltavat samat numerolistat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source term does not have to be a single-word item, as the next example shows:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T075511Z" creationid="piav" creationdate="20191022T075426Z">
@@ -20170,6 +20178,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T105858Z" creationid="piav" creationdate="20190913T103639Z">
         <seg>Kun sitten käännät kanadanranskankielistä tekstiä, projektissa käytetään kaikkien kielten segmentointisääntöjä annetussa järjestyksessä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are a number of restrictions:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T143636Z" creationid="piav" creationdate="20191030T143636Z">
+        <seg>Rajoituksia on koko joukko:</seg>
       </tuv>
     </tu>
     <tu>
