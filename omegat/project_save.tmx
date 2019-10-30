@@ -13790,6 +13790,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is able to recognize that you have done this.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T144643Z" creationid="piav" creationdate="20191030T144643Z">
+        <seg>OmegaT tunnistaa, että olet tehnyt näin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T120332Z" creationid="piav" creationdate="20191030T120207Z">
@@ -13910,6 +13918,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T080023Z" creationid="piav" creationdate="20191030T075941Z">
         <seg>Tällöin OmegaT hyppää vastaavien tiedostojen yli projektia ladattaessa ja kopioi ne muuttumattomina kohdekansioon, kun kohdetiedostoja luodaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will then report these segments as not translated.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T144559Z" creationid="piav" creationdate="20191030T144559Z">
+        <seg>OmegaT ilmoittaa nämä segmentit ei-käännettyinä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19290,6 +19306,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The alternative is to enter a translation that is identical to the source text.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T144632Z" creationid="piav" creationdate="20191030T144632Z">
+        <seg>Vaihtoehtoisesti voit kirjoittaa käännöksen, joka on sama kuin lähdeteksti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The author of the Chapter &lt;e1&gt;Learn to use OmegaT in 5 minutes!&lt;/e1&gt; is Samuel Murray, Copyright ©2005-2012.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T132632Z" creationid="PiaVee" creationdate="20171014T132533Z">
@@ -20262,6 +20286,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are two strategies for segments that contain only such invariable text.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T144528Z" creationid="piav" creationdate="20191030T144528Z">
+        <seg>Tällaista muuttumatonta tekstiä sisältäviä segmenttejä käsitellään kahdella tavalla:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T084703Z" creationid="piav" creationdate="20191022T084703Z">
@@ -20552,6 +20584,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T152839Z" creationid="piav" creationdate="20191022T152839Z">
         <seg>Tätä tarvitaan silloin, kun haluat etsiä osumia jollekin metamerkille ( !$()*+.&lt;&gt;?[\]^{|} ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the default.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T144612Z" creationid="piav" creationdate="20191030T144612Z">
+        <seg>Tämä on oletusasetus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20850,6 +20890,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T101530Z" creationid="PiaVee" creationdate="20171014T101256Z">
         <seg>Etsi ja korvaa -toiminto hakee tekstiä ainoastaan jo muodostuneesta käännösmuistista, joten OmegaT kopioi lähdesegmentin kohdesegmenttiin ennen tekstin korvaamista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To make this possible, select this option.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T144726Z" creationid="piav" creationdate="20191030T144726Z">
+        <seg>Ota tämä käyttöön rastittamalla tämä valinta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22989,6 +23037,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T074713Z" creationid="piav" creationdate="20190916T130920Z">
         <seg>Luo termejä sanastoon valitsemalla Muokkaa &gt; Luo sanaston termi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can decide not to translate such segments at all.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T144543Z" creationid="piav" creationdate="20191030T144543Z">
+        <seg>Voit olla kääntämättä tällaisia segmenttejä.</seg>
       </tuv>
     </tu>
     <tu>
