@@ -7896,8 +7896,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T083504Z" creationid="PiaVee" creationdate="20171218T083504Z">
-        <seg>Tapahtui vakava virhe – projektitiedostosta tehdään varmuuskopio (tiedostotunniste: .recover).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T110247Z" creationid="PiaVee" creationdate="20171218T083504Z">
+        <seg>Tapahtui vakava virhe – projektitiedostosta tehdään varmuuskopio (tiedostopääte: .recover).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8250,6 +8250,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061132Z" creationid="piav" creationdate="20191023T060822Z">
         <seg>Oletusmuotoisista OmegaT-pikanäppäimistä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, the pattern &lt;l0&gt;*.xhtml &lt;/l0&gt;matches any file with the &lt;l1&gt;.xhtml&lt;/l1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T110156Z" creationid="piav" creationdate="20191030T110156Z">
+        <seg>Esimerkiksi kuvio &lt;l0&gt;*.xhtml&lt;/l0&gt; vastaa kaikkia tiedostoja, joiden</seg>
       </tuv>
     </tu>
     <tu>
@@ -11914,6 +11922,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More precisely, OmegaT attempts to match each filter's source filename patterns against the filename.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T110127Z" creationid="piav" creationdate="20191030T110127Z">
+        <seg>Tarkemmin sanottuna OmegaT yrittää yhdistää kunkin suodattimen lähdetiedoston nimen kuvioita tiedostonimeen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moses</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T141800Z" creationid="piav" creationdate="20190916T141800Z">
@@ -12584,8 +12600,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T110430Z" creationid="piav" creationdate="20190527T110236Z">
-        <seg>Huom. DocBook-tiedostoilla on oma tunnisteensa, mutta niissä on myös oltava DOCTYPE-määritys &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML… (DocBook 4) tai nimitila xmlns="http://docbook.org/ns/docbook" (DocBook 5).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T110306Z" creationid="piav" creationdate="20190527T110236Z">
+        <seg>Huom. DocBook-tiedostoilla on oma tiedostopäätteensä, mutta niissä on myös oltava DOCTYPE-määritys &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML… (DocBook 4) tai nimitila xmlns="http://docbook.org/ns/docbook" (DocBook 5).</seg>
       </tuv>
     </tu>
     <tu>
