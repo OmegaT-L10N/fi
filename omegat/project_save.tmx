@@ -13994,6 +13994,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only integers and simple floats (using the period as a decimal character, e.g. 5.4, but not 5,4 or 54E-01) are considered.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T144343Z" creationid="piav" creationdate="20191030T144343Z">
+        <seg>Ainoastaan kokonaisluvut ja yksinkertaiset liukuluvut (desimaalierottimena piste, esim. 5.4 mutta ei 5,4 tai 54E-01) hyväksytään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061851Z" creationid="piav" creationdate="20191023T061851Z">
@@ -19738,6 +19746,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T150521Z" creationid="piav" creationdate="20191022T150521Z">
         <seg>Rivinvaihtomerkki (\u000A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The numbers must be exactly the same between the source and the target matches.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T143931Z" creationid="piav" creationdate="20191030T143931Z">
+        <seg>Lähdesegmentin ja kohdeosumien numeroiden tulee olla täsmälleen samat.</seg>
       </tuv>
     </tu>
     <tu>
