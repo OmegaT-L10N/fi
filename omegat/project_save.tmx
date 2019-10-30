@@ -1891,6 +1891,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; first parses the text for structure-level segmentation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T125151Z" creationid="piav" creationdate="20191030T125151Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; jäsentää tekstin ensin rakennetason segmentointia varten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T123954Z" creationid="piav" creationdate="20191030T123344Z">
@@ -6982,6 +6990,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During this process it is only the structure of the source file that is used to produce segments.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T125234Z" creationid="piav" creationdate="20191030T125234Z">
+        <seg>Tässä prosessissa segmenttejä tuotetaan ainoastaan lähdetiedoston rakenteen perusteella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dutch</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174019Z" creationid="PiaVee" creationdate="20171014T174019Z">
@@ -8522,6 +8538,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061132Z" creationid="piav" creationdate="20191023T060822Z">
         <seg>Oletusmuotoisista OmegaT-pikanäppäimistä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, text files may be segmented on line breaks, empty lines, or not be segmented at all.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T125321Z" creationid="piav" creationdate="20191030T125321Z">
+        <seg>Esimerkiksi tekstitiedostot voidaan segmentoida rivinvaihtojen tai tyhjien riven mukaan, tai ne voivat jäädä kokonaan segmentoimatta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17945,6 +17969,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T082310Z" creationid="PiaVee" creationdate="20170910T082245Z">
         <seg>Poista tägit nykyisestä segmentistä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Structure level segmentation</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T125058Z" creationid="piav" creationdate="20191030T125058Z">
+        <seg>Rakennetason segmentointi</seg>
       </tuv>
     </tu>
     <tu>
