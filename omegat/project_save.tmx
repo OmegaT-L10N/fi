@@ -5669,6 +5669,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a new rule</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T133101Z" creationid="piav" creationdate="20191030T133101Z">
+        <seg>Uuden säännön luominen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating translated documents: {0}</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T084612Z" creationid="PiaVee" creationdate="20171218T084612Z">
@@ -8592,8 +8600,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>For example, rules for Canadian French (FR-CA) should be set higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T132211Z" creationid="piav" creationdate="20191030T132211Z">
-        <seg>FZZ Näin esimerkiksi Kanadan ranskaa (FR-CA) koskevat segmentointisäännöt tulisi olla listalla ennen ranskaa (FR.*) koskevia sääntöjä, ja näiden molempien tulisi olla ennen oletussääntöjä (.*).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T132952Z" creationid="piav" creationdate="20191030T132211Z">
+        <seg>Näin esimerkiksi Kanadan ranskaa (FR-CA) koskevien segmentointisääntöjen tulisi olla listalla ennen ranskaa (FR.*) koskevia sääntöjä, ja näiden molempien tulisi olla ennen oletussääntöjä (.*).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11726,6 +11734,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T135242Z" creationid="PiaVee" creationdate="20171014T135242Z">
         <seg>Postituslistat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Major changes to the segmentation rules should be generally avoided, especially after completion of the first draft, but minor changes, such as the addition of a recognized abbreviation, can be advantageous.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T133331Z" creationid="piav" creationdate="20191030T133331Z">
+        <seg>Segmentointisääntöihin ei tulisi tehdä suuria muutoksia varsinkaan sen jälkeen, kun ensimmäinen käännösluonnos on valmis. Pienemmistä muutoksista, esimerkiksi hyväksytyn lyhenteen lisäyksestä, voi kuitenkin olla suurta hyötyä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20240,6 +20256,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T103438Z" creationid="piav" creationdate="20190913T102804Z">
         <seg>Näin esimerkiksi Kanadan ranskaa (FR-CA) koskevat segmentointisäännöt tulisi olla listalla ennen ranskaa (FR.*) koskevia sääntöjä, ja näiden molempien tulisi olla ennen oletussääntöjä (.*).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thus, when translating from Canadian French the rules for Canadian French - if any - will be applied first, followed by the rules for French and lastly, by the Default rules.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T133055Z" creationid="piav" creationdate="20191030T133055Z">
+        <seg>Näin Kanadan ranskaa käännettäessä Kanadan ranskan sääntöjä – jos niitä on – noudatetaan ensin, sitten ranskan sääntöjä ja lopuksi oletussääntöjä.</seg>
       </tuv>
     </tu>
     <tu>
