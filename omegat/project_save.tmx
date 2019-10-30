@@ -7616,8 +7616,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Exclude Pattern</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T101724Z" creationid="piav" creationdate="20190521T133103Z">
-        <seg>Älä sisällytä lausekekuviota</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105411Z" creationid="piav" creationdate="20190521T133103Z">
+        <seg>Älä sisällytä muotoa</seg>
       </tuv>
     </tu>
     <tu>
@@ -17139,6 +17139,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source file type, filename pattern</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105331Z" creationid="piav" creationdate="20191030T105331Z">
+        <seg>Lähdetieoston tyyppi, tiedostonimen lausekekuvio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source files committed</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124251Z" creationid="PiaVee" creationdate="20171015T124251Z">
@@ -18500,6 +18508,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The dialog includes a special target filename pattern editor, which you can use to customize the names of output files.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105258Z" creationid="piav" creationdate="20191030T105258Z">
+        <seg>Kohdassa on erityinen kohdetiedoston nimen lausekekuvion muokkain, jolla voit mukauttaa tuotettujen tiedostojen nimiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; includes the User Manual and the readme.txt document.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140430Z" creationid="PiaVee" creationdate="20171014T132259Z">
@@ -19696,8 +19712,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>To modify the options, select the filter in the list and click &lt;e0&gt;Options&lt;/e0&gt;.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T082232Z" creationid="piav" creationdate="20191030T082232Z">
-        <seg>Valitse listalla oleva suodatin ja napsauta &lt;e0&gt;Asetukset&lt;/e0&gt;-painiketta, niin pääset muokkaamaan asetuksia.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105120Z" creationid="piav" creationdate="20191030T082232Z">
+        <seg>Valitse listalla oleva suodatin ja napsauta &lt;e0&gt;Valinnat&lt;/e0&gt;-painiketta, niin pääset muokkaamaan asetuksia.</seg>
       </tuv>
     </tu>
     <tu>
