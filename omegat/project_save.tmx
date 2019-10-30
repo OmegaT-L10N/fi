@@ -9385,6 +9385,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T081309Z" creationid="piav" creationdate="20191030T081309Z">
+        <seg>Kun tämä valinta jätetään rastittamatta, tyhjätilamerkkejä ei poisteta projekteista, joita ei ole jaettu segmentteihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In notes</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T134518Z" creationid="piav" creationdate="20190521T134518Z">
@@ -14779,6 +14787,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T080743Z" creationid="piav" creationdate="20191030T080614Z">
         <seg>Poista alussa ja lopussa olevat tägit: Jätä tämä valinta rastittamatta, niin kaikki, myös segmentin alussa ja lopussa olevat tägit, ovat näkyvissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing whitespace in non-segmented projects: by default, OmegaT removes leading and trailing whitespace.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T081155Z" creationid="piav" creationdate="20191030T081155Z">
+        <seg>Poista alussa ja lopussa olevat tyhjätilamerkit projekteista, joita ei ole jaettu segmentteihin: OmegaT:n oletusarvona on, että alussa ja lopussa olevat tyhjätilamerkit poistetaan.</seg>
       </tuv>
     </tu>
     <tu>
