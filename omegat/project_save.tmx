@@ -6789,10 +6789,18 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not segment after M. Mr. Mrs. and Ms.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T135209Z" creationid="piav" creationdate="20191030T135004Z">
+        <seg>Älä aloita segmenttiä pisteellisten lyhenteiden maist., maj. ja maks. jälkeen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not segment after Mr.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T134751Z" creationid="piav" creationdate="20191030T134751Z">
-        <seg>Älä aloita segmenttiä lyhenteen maist. jälkeen</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T135011Z" creationid="piav" creationdate="20191030T134751Z">
+        <seg>Älä aloita segmenttiä pisteellisen lyhenteen maist. jälkeen</seg>
       </tuv>
     </tu>
     <tu>
@@ -12598,6 +12606,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T175947Z" creationid="piav" creationdate="20190521T175947Z">
         <seg>Mozilla Lang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mr??s??\.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T135245Z" creationid="piav" creationdate="20191030T135245Z">
+        <seg>Ma??s??\.</seg>
       </tuv>
     </tu>
     <tu>
