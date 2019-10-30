@@ -13736,8 +13736,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT inserts the translation of the string most similar to the current source, if it is above the similarity threshold that you have selected in this dialog.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T142914Z" creationid="piav" creationdate="20191030T142914Z">
-        <seg>OmegaT lisää lähinnä lähdetekstiä olevan käännöksen</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T143133Z" creationid="piav" creationdate="20191030T142914Z">
+        <seg>OmegaT lisää lähinnä lähdetekstiä olevan stringin käännöksen, jos lähdetekstin ja jo käännetyn stringin samankaltaisuus ylittää valitsemasi samankaltaisuuskynnyksen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19754,6 +19754,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T132450Z" creationid="piav" creationdate="20191030T132418Z">
         <seg>Valmiita poikkeussäntöjä on olemassa useimmille Euroopan kielille ja japanille. Ne riittävät hyvin alkuun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The prefix (per default empty) can be used to tag translations, done via fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T143312Z" creationid="piav" creationdate="20191030T143312Z">
+        <seg>Etuliitteitä (oletuksena tyhjä) voi käyttää merkitsemään sumeilla käännösosumilla täytettyjä kohdesegmenttejä.</seg>
       </tuv>
     </tu>
     <tu>
