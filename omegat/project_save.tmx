@@ -1947,6 +1947,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T100927Z" creationid="piav" creationdate="20191030T100927Z">
+        <seg>&lt;e0&gt;Yhdistä tägit&lt;/e0&gt;: Jos tämä on valittu, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Allow blank translations in the target file&lt;/e0&gt;:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T082557Z" creationid="piav" creationdate="20191030T082557Z">
