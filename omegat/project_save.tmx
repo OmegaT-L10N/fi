@@ -2005,8 +2005,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T102353Z" creationid="piav" creationdate="20191030T102353Z">
-        <seg>&lt;e0&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T102524Z" creationid="piav" creationdate="20191030T102353Z">
+        <seg>&lt;e0&gt;Tiivistä käännetyn asiakirjan tyhjätila&lt;/e0&gt;: Useat peräkkäiset tyhjätilamerkit muutetaan käännetyssä asiakirjassa yhdeksi tyhjätilamerkiksi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2095,6 +2095,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T101258Z" creationid="piav" creationdate="20191030T101209Z">
         <seg>&lt;e0&gt;Jätä kaikkien tägien välilyönnit&lt;/e0&gt;: Jos tämä on valittu, tyhjätilamerkit (eli välilyönnit ja rivinvaihdot) säilytetään, vaikka sitä ei määriteltäisi asiakirjassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T102705Z" creationid="piav" creationdate="20191030T102533Z">
+        <seg>&lt;e0&gt;Poista käännetyn asiakirjan HTML-kommentit&lt;/e0&gt;: Kommenttiosia (merkin &lt;!-- ja merkin --&gt; välillä) ei kopioida käännettyyn asiakirjaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4953,8 +4961,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T101314Z" creationid="piav" creationdate="20190522T085333Z">
-        <seg>Tiivistä tyhjätila käännetyssä asiakirjassa</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T102413Z" creationid="piav" creationdate="20190522T085333Z">
+        <seg>Tiivistä käännetyn asiakirjan tyhjätila</seg>
       </tuv>
     </tu>
     <tu>
