@@ -8014,6 +8014,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File formats that do not specify their encoding will use the encoding you set up for the extension that matches their name.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T111527Z" creationid="piav" creationdate="20191030T111527Z">
+        <seg>Tiedostomuodot, joiden merkistökoodausta ei ole määritelty, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File locations</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T091111Z" creationid="PiaVee" creationdate="20171218T091111Z">
@@ -13220,8 +13228,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Only a limited number of file formats specify a mandatory encoding.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T111354Z" creationid="piav" creationdate="20191030T111354Z">
-        <seg>Vain tietyt tiedostomuodot vaativat merkistökoodaustietoa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T111459Z" creationid="piav" creationdate="20191030T111354Z">
+        <seg>Vain tiettyjen tiedostomuotojen pakolliseksi osaksi kuuluu tieto merkistökoodauksesta.</seg>
       </tuv>
     </tu>
     <tu>
