@@ -1867,6 +1867,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/e2&gt;The '*' character matches zero or more characters.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T110844Z" creationid="piav" creationdate="20191030T110844Z">
+        <seg>&lt;/e2&gt;Asteriski * vastaa nollaa tai useampaa merkkiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190919T132530Z" creationid="piav" creationdate="20190919T132530Z">
@@ -3103,6 +3111,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081933Z" creationid="piav" creationdate="20190522T081933Z">
         <seg>Kaikki aihepiirit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All other characters represent themselves.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T110929Z" creationid="piav" creationdate="20191030T110929Z">
+        <seg>Kaikki muut merkit tarkoittavat itseään.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17179,6 +17195,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source filename patterns use wild card characters similar to those used in &lt;e2&gt;Searches.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T110820Z" creationid="piav" creationdate="20191030T110743Z">
+        <seg>Lähdetiedoston nimen muodoissa käytetään samoja jokerimerkkejä kuin &lt;e2&gt;hakutoiminnoissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source files committed</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124251Z" creationid="PiaVee" creationdate="20171015T124251Z">
@@ -18180,6 +18204,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T133513Z" creationid="piav" creationdate="20190916T133513Z">
         <seg>Määrätyn asetuskansion sijaan käytössä on nykyinen kansio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The '?' character matches exactly one character.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T110901Z" creationid="piav" creationdate="20191030T110901Z">
+        <seg>Kysymysmerkki ? vastaa tarkalleen yhtä kirjainta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21789,6 +21821,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T113742Z" creationid="piav" creationdate="20191023T113742Z">
         <seg>Voit myös ohjastaa oikeinkirjoituksen tarkistuksen ohittamaan kaikki väärin kirjoitetun sanan esiintymät tai lisäämään sen sanakirjaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change or add filename patterns for files to be handled by each file filter.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T110709Z" creationid="piav" creationdate="20191030T110709Z">
+        <seg>Voit muuttaa kunkin tiedostosuodattimen käsittelemien tiedostonimien muotoja tai lisätä niitä.</seg>
       </tuv>
     </tu>
     <tu>
