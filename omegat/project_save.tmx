@@ -4353,8 +4353,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Change the name of the rule set and the language pattern to the language concerned and its code.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T105253Z" creationid="piav" creationdate="20190913T105253Z">
-        <seg>Nimeä säännöstö kielivariantin mukaan ja  kielitunnus</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105838Z" creationid="piav" creationdate="20190913T105253Z">
+        <seg>Nimeä säännöstö ja kielikuvio kielivariantin ja sen kielitunnuksen mukaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17141,8 +17141,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Source file type, filename pattern</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T105331Z" creationid="piav" creationdate="20191030T105331Z">
-        <seg>Lähdetieoston tyyppi, tiedostonimen lausekekuvio</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105850Z" creationid="piav" creationdate="20191030T105331Z">
+        <seg>Lähdetiedoston tyyppi, tiedostonimen muoto</seg>
       </tuv>
     </tu>
     <tu>
@@ -18510,8 +18510,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The dialog includes a special target filename pattern editor, which you can use to customize the names of output files.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T105258Z" creationid="piav" creationdate="20191030T105258Z">
-        <seg>Kohdassa on erityinen kohdetiedoston nimen lausekekuvion muokkain, jolla voit mukauttaa tuotettujen tiedostojen nimiä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105723Z" creationid="piav" creationdate="20191030T105258Z">
+        <seg>Kohdassa on erityinen kohdetiedoston nimen muodon muokkain, jolla voit mukauttaa tuotettujen tiedostojen nimiä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18912,8 +18912,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The same dialog is used to add a pattern or to edit a particular pattern.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T104220Z" creationid="piav" creationdate="20191030T103826Z">
-        <seg>Voit myös lisätä lausekekuvion tai muokata tiettyä lausekekuviota.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105717Z" creationid="piav" creationdate="20191030T103826Z">
+        <seg>Voit myös lisätä muodon tai muokata tiettyä lausekekuviota.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19704,8 +19704,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit&lt;/e0&gt;.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T103729Z" creationid="piav" creationdate="20191030T103729Z">
-        <seg>Muokkaa tiedostonimen lausekekuviota joko kirjoittamalla suoraan eri kenttiin tai napsauttamalla &lt;e0&gt;Muokkaa&lt;/e0&gt;-painiketta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105709Z" creationid="piav" creationdate="20191030T103729Z">
+        <seg>Muokkaa tiedostonimen muotoa joko kirjoittamalla suoraan eri kenttiin tai napsauttamalla &lt;e0&gt;Muokkaa&lt;/e0&gt;-painiketta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21259,6 +21259,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T063231Z" creationid="PiaVee" creationdate="20170930T063231Z">
         <seg>Kaikki epäjohdonmukaisuudet, puutteet ja suoranaiset virheet, joita tästä versiosta voi löytyä, ovat omaa tuotostani.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file's extension.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T110026Z" creationid="piav" creationdate="20191030T105936Z">
+        <seg>OmegaT yrittää valita suodattimen lähdekansiosta löytämänsä tiedoston tiedostotunnisteen perusteella.</seg>
       </tuv>
     </tu>
     <tu>
