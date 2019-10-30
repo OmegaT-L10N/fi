@@ -8262,6 +8262,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T111929Z" creationid="piav" creationdate="20191030T111929Z">
+        <seg>Esimerkiksi oletusasetuksena on, että &lt;l0&gt;.txt&lt;/l0&gt;-tiedostoissa käytetään käyttöjärjestelmän oletuksena olevaa merkistökoodausta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, by default, the XHTML filter is used to process files with the .xhtml extension.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T110611Z" creationid="piav" creationdate="20191030T110611Z">
@@ -17973,6 +17981,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target files can also be written in any encoding.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T112127Z" creationid="piav" creationdate="20191030T112127Z">
+        <seg>Myös kohdetiedostoissa voidaan käyttää mitä tahansa merkistökoodausta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target files committed</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072159Z" creationid="PiaVee" creationdate="20171218T072159Z">
@@ -21869,6 +21885,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T104755Z" creationid="piav" creationdate="20191023T052609Z">
         <seg>Voit muuttaa jo olemassa olevia pikanäppäimiä sekä lisätä uusia. Sijoita pikänäppäinten kuvaustiedosto &lt;a0&gt;OmegaT&lt;/a0&gt;-valintakansioon (pääset sinne valitsemalla &lt;m1&gt; &lt;g2&gt;Valinnat&lt;/g2&gt; &lt;g3&gt;Mene määrityskansioon&lt;/g3&gt; &lt;/m1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the source encoding for each different source filename pattern.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T112058Z" creationid="piav" creationdate="20191030T112058Z">
+        <seg>Voit asettaa jokaiselle erilaiselle lähdetiedoston nimen kuviolle oman merkistökoodauksensa.</seg>
       </tuv>
     </tu>
     <tu>
