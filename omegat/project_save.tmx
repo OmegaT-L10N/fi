@@ -13178,6 +13178,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Document Format (ODF) files</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T102715Z" creationid="piav" creationdate="20191030T102715Z">
+        <seg>Open Document Format (ODF) -tiedostot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open MED Project...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T093403Z" creationid="PiaVee" creationdate="20171015T102525Z">
@@ -21748,8 +21756,16 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       <tuv lang="EN">
         <seg>You can select which elements are to be translated.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T100151Z" creationid="piav" creationdate="20191030T100151Z">
-        <seg>Voit valita, mitkä tiedoston elementit käännetään.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T102746Z" creationid="piav" creationdate="20191030T100151Z">
+        <seg>Voit valita, mitkä elementit käännetään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select which of the following items are to be translated:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T102756Z" creationid="piav" creationdate="20191030T102739Z">
+        <seg>Voit valita, mitkä seuraavista elementeistä käännetään:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24039,6 +24055,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174320Z" creationid="PiaVee" creationdate="20171014T174320Z">
         <seg>ind</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), sheet names</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T103011Z" creationid="piav" creationdate="20191030T102905Z">
+        <seg>hakemiston hakusanat, kirjanmerkit, kirjanmerkkiviitteet, muistiinpanot, kommentit, esitysmuistiinpanot, linkit (URL), arkkien nimet</seg>
       </tuv>
     </tu>
     <tu>
