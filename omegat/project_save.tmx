@@ -2267,10 +2267,58 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T121429Z" creationid="piav" creationdate="20191030T121429Z">
+        <seg>&lt;l0&gt;${extension} &lt;/l0&gt;– alkuperäinen tiedostopääte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– allows you to insert only the name of the source file without the extension.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T121412Z" creationid="piav" creationdate="20191030T121337Z">
-        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– ainoastaan lähdetiedoston nimi, ilman tiedostopäätettä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T121432Z" creationid="piav" creationdate="20191030T121337Z">
+        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– ainoastaan lähdetiedoston nimi, ilman tiedostopäätettä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– the target country - only "YY"</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T121645Z" creationid="piav" creationdate="20191030T121645Z">
+        <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– kohdemaa, muotona pelkkä "YY"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; – the target language - only "XX"</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T121631Z" creationid="piav" creationdate="20191030T121631Z">
+        <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; – kohdekieli, muotona pelkkä "XX"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;– the target language and country code together (of a form "XX-YY").</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T121609Z" creationid="piav" creationdate="20191030T121609Z">
+        <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;– kohdekielen ja maan koodi yhdessä (muotoa "XX-YY").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– target locale code (of a form "xx_YY").</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T121537Z" creationid="piav" creationdate="20191030T121456Z">
+        <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– kohdekielen kielialueen koodi (muotoa "xx_YY").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – system date time at generation time in various patterns</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T121724Z" creationid="piav" creationdate="20191030T121724Z">
+        <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – järjestelmän aikaleima luontihetkellä, erilaisia kuvioita</seg>
       </tuv>
     </tu>
     <tu>
