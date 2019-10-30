@@ -1893,8 +1893,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T123344Z" creationid="piav" creationdate="20191030T123344Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; segmentoi tekstin joko kappaleittain tai lause lauseelta (tunnetaan myös nimellä "sääntöihin perustuva segmentointi").</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T123954Z" creationid="piav" creationdate="20191030T123344Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; segmentoi tekstin joko kappaleittain tai lauseittain (tunnetaan myös nimellä "sääntöihin perustuva segmentointi").</seg>
       </tuv>
     </tu>
     <tu>
@@ -9565,6 +9565,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T082727Z" creationid="piav" creationdate="20191030T082727Z">
         <seg>Jos tämä valinta on rastittu, PO-tiedoston segmentin (joka voi olla kokonainen kappale) käännöksen voi jättää tyhjäksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Segmentation...&lt;/g6&gt; &lt;/m4&gt;from the main menu.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T124057Z" creationid="piav" creationdate="20191030T123927Z">
+        <seg>Voit muokata lauseittaisen segmentoinnin sääntöjä valitsemalla pääalikosta kohdan &lt;m4&gt; &lt;g5&gt; on valittu, otta</seg>
       </tuv>
     </tu>
     <tu>
