@@ -3919,6 +3919,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-completer is launched within the target segment via &lt;e0&gt;Ctrl+Space&lt;/e0&gt; shortcut.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T135933Z" creationid="piav" creationdate="20191030T135933Z">
+        <seg>Automaattinen täydennys otetaan käyttöön kohdesegmentissä painamalla näppäinyhdistelmää &lt;e0&gt;Ctrl+välilyönti&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-completion/Auto-text...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T064432Z" creationid="piav" creationdate="20190913T111538Z">
@@ -9682,6 +9690,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174348Z" creationid="PiaVee" creationdate="20171014T174348Z">
         <seg>ido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If &lt;e0&gt;Show Relevant Suggestions Automatically&lt;/e0&gt; option is checked, Auto-completer is launched automatically by typing the first letter of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T140151Z" creationid="piav" creationdate="20191030T135943Z">
+        <seg>Jos &lt;e0&gt;Näytä sopivia ehdotuksia automaattisesti&lt;/e0&gt; on valittu, automaattinen täydennys tulee automaattisesti käyttöön, kun käännetyn sanaston termin ensimmäinen kirjain tai (tägin tapauksessa) "&lt;" kirjoitetaan.</seg>
       </tuv>
     </tu>
     <tu>
