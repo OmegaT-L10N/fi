@@ -11642,6 +11642,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Leave the segment empty</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T142035Z" creationid="piav" creationdate="20191030T142035Z">
+        <seg>Jätä segmentti tyhjäksi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T121239Z" creationid="PiaVee" creationdate="20171015T104225Z">
@@ -13740,6 +13748,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T183041Z" creationid="piav" creationdate="20190521T181314Z">
         <seg>OmegaT:n alkuperäinen kehittäjä on Keith Godfrey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT leaves the editing field blank.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T142049Z" creationid="piav" creationdate="20191030T142049Z">
+        <seg>OmegaT jättää muokkauskentän tyhjäksi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20428,6 +20444,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is useful for texts containing many trade marks or other proper nouns you which must be left unchanged.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T142031Z" creationid="piav" creationdate="20191030T142031Z">
+        <seg>Tästä on hyötyä teksteissä, joissa on paljon tuotemerkkejä tai muita nimiä, joita ei saa muuttaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This list is for more technical discussion of features and development, and is intended for OmegaT developers and other interested parties.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T135626Z" creationid="PiaVee" creationdate="20171014T135626Z">
@@ -20456,6 +20480,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T094620Z" creationid="piav" creationdate="20191030T094620Z">
         <seg>Tämä valinta antaa OmegaT:n ohittaa PO-otsakkeessa olevan määrityksen ja käyttää valitun kohdekielen oletusasetusta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option allows you to enter the translation without the need to remove the source text, thus saving you two keystrokes (&lt;e0&gt;Ctrl+A &lt;/e0&gt;and &lt;e1&gt;Del).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T142238Z" creationid="piav" creationdate="20191030T142112Z">
+        <seg>Tämän avulla voit lisätä käännöksen ilman, että sinun täytyy ensin poista lähdeteksti – säästät siis kaksi näppäinpainallusta (&lt;e0&gt;Ctrl+A&lt;/e0&gt; ja </seg>
       </tuv>
     </tu>
     <tu>
