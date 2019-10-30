@@ -3435,6 +3435,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An empty line will appear at the bottom of the upper table (you may have to scroll down to see it).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T133735Z" creationid="piav" creationdate="20191030T133705Z">
+        <seg>Ylemmän taulukon loppuun ilmestyy tyhjä rivi (voit joutua vierittämään listaa alaspäin nähdäksesi sen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190919T132851Z" creationid="piav" creationdate="20190919T132851Z">
@@ -9897,6 +9905,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T133922Z" creationid="piav" creationdate="20191030T133749Z">
+        <seg>Jos segmentointisäännöstösi koskee kieli–maa-paria, se kannattaa siirtää säännöstölistalla ylöspäin. Käytä tähän &lt;e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If, for whatever reason, you need to do this from time to time, it may make sense to copy the files involved to a different folder, reserved just for use by OmegaT.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T115316Z" creationid="piav" creationdate="20191023T115316Z">
@@ -10083,8 +10099,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In order to edit or expand an existing set of rules, simply click on it in the top table.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T133534Z" creationid="piav" creationdate="20191030T133534Z">
-        <seg>Voit muokata tai laajentaa sääntölistaa napsauttamalla sen ylemmässä taulukossa olevaa nimeä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T133815Z" creationid="piav" creationdate="20191030T133534Z">
+        <seg>Voit muokata tai laajentaa segmentointisäännöstöä napsauttamalla ikkunan yläosan taulukossa olevaa nimeä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19554,6 +19570,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T145843Z" creationid="PiaVee" creationdate="20171014T145843Z">
         <seg>Mahdolliset käytetyt säännöt riippuvat projektin lähtö- ja kohdekielistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The rules for that set will appear in the bottom half of the window.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T133638Z" creationid="piav" creationdate="20191030T133602Z">
+        <seg>Sääntölistan säännöt ilmestyvät ikkunan alaosaan.</seg>
       </tuv>
     </tu>
     <tu>
