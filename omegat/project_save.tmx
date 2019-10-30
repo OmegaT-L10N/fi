@@ -2267,6 +2267,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– allows you to insert only the name of the source file without the extension.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T121412Z" creationid="piav" creationdate="20191030T121337Z">
+        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– ainoastaan lähdetiedoston nimi, ilman tiedostopäätettä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;none&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T114618Z" creationid="piav" creationdate="20190920T114618Z">
@@ -6037,6 +6045,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Default is &lt;l0&gt;${filename}&lt;/l0&gt;– full filename of the source file with extension: in this case the name of the translated file is the same as that of the source file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T121324Z" creationid="piav" creationdate="20191030T121324Z">
+        <seg>Oletusasetuksena on &lt;l0&gt;${filename}&lt;/l0&gt;– lähdetiedoston koko tiedostonimi tiedostopäätteineen. Tällöin käännetyn tiedoston nimi on sama kuin lähdetiedostossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default shortcut</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061830Z" creationid="piav" creationdate="20191023T061830Z">
@@ -9531,8 +9547,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T121019Z" creationid="piav" creationdate="20191030T120907Z">
-        <seg>Jos haluat palata suodattimen oletusasetuksiin, napsauta painiketta &lt;e1&gt;Oletukset&lt;/e1&gt;. Voit myös muokata kohdetiedoston nimen muotoa vastaavassa kentässä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T121130Z" creationid="piav" creationdate="20191030T120907Z">
+        <seg>Jos haluat palata suodattimen oletusasetuksiin, napsauta painiketta &lt;e1&gt;Oletukset&lt;/e1&gt;. Voit myös muokata kohdetiedoston nimen muotoa vastaavassa tiedostosuodattimien kentässä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18340,6 +18356,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T161150Z" creationid="PiaVee" creationdate="20171014T154920Z">
         <seg>External View -tiedostomuoto on Déjà Vu DVX:n ominaisuus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Edit Pattern Dialog offers among others the following options:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T121204Z" creationid="piav" creationdate="20191030T121204Z">
+        <seg>Muokkaa muotoa -kohdassa valittavanasi on muun muassa seuraavat vaihtoehdot:</seg>
       </tuv>
     </tu>
     <tu>
