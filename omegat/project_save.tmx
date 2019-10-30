@@ -2181,8 +2181,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T101927Z" creationid="piav" creationdate="20190522T083030Z">
-        <seg>&lt;html&gt;Lisää lausekekuvioita käyttämällä jokerimerkkejä (Apache Ant -tyyliin): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Esimerkki: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105609Z" creationid="piav" creationdate="20190522T083030Z">
+        <seg>&lt;html&gt;Lisää muotoja käyttämällä jokerimerkkejä (Apache Ant -tyyliin): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Esimerkki: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2893,8 +2893,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Add Pattern</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T101820Z" creationid="piav" creationdate="20190522T083305Z">
-        <seg>Lisää lausekekuvio</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105502Z" creationid="piav" creationdate="20190522T083305Z">
+        <seg>Lisää muoto</seg>
       </tuv>
     </tu>
     <tu>
@@ -4289,8 +4289,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Cannot reset the filter to default patterns.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T101757Z" creationid="piav" creationdate="20190522T083251Z">
-        <seg>Suodattimen nollaaminen oletuskuviohin ei onnistu. </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105447Z" creationid="piav" creationdate="20190522T083251Z">
+        <seg>Suodattimen nollaaminen oletusmuotoihin ei onnistu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4529,8 +4529,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Check simple &amp;java MessageFormat patterns (e.g. {0})</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190916T125613Z" creationid="piav" creationdate="20190916T125613Z">
-        <seg>Tarkista yksinkertaiset Java-kielen MessageFormat-kuviot (esim. {0})</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105557Z" creationid="piav" creationdate="20190916T125613Z">
+        <seg>Tarkista yksinkertaiset Java-kielen MessageFormat-muodot (esim. {0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -4993,8 +4993,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Confirm removal of pattern {0}</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T101741Z" creationid="piav" creationdate="20190522T083201Z">
-        <seg>Vahvista lausekekuvion {0} poisto</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105423Z" creationid="piav" creationdate="20190522T083201Z">
+        <seg>Vahvista muodon {0} poisto</seg>
       </tuv>
     </tu>
     <tu>
@@ -6864,16 +6864,16 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Edit Filter Patterns</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T101814Z" creationid="piav" creationdate="20190522T083301Z">
-        <seg>Muokkaa suodatuskuvioita</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105500Z" creationid="piav" creationdate="20190522T083301Z">
+        <seg>Muokkaa suodatusmuotoja</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Edit Highlight Pattern</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T075834Z" creationid="piav" creationdate="20190913T102301Z">
-        <seg>Muokkaa kohtaa Maalaa lausekekuvio</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105624Z" creationid="piav" creationdate="20190913T102301Z">
+        <seg>Muokkaa kohtaa Maalaa muoto</seg>
       </tuv>
     </tu>
     <tu>
@@ -6888,8 +6888,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Edit Pattern</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T101827Z" creationid="piav" creationdate="20190522T083121Z">
-        <seg>Muokkaa lausekekuviota</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105505Z" creationid="piav" creationdate="20190522T083121Z">
+        <seg>Muokkaa muotoa</seg>
       </tuv>
     </tu>
     <tu>
@@ -7632,8 +7632,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Exclusion Patterns</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T101921Z" creationid="piav" creationdate="20190522T082849Z">
-        <seg>Älä sisällytä lausekekuvioita</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105603Z" creationid="piav" creationdate="20190522T082849Z">
+        <seg>Älä sisällytä muotoja</seg>
       </tuv>
     </tu>
     <tu>
@@ -8904,8 +8904,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T101804Z" creationid="piav" creationdate="20190527T190525Z">
-        <seg>Tässä kohdassa voit määritellä lähdetiedostonimen lausekekuviot, joita käytetään suodattimen käsittelemissä tiedostoissa. Voit myös mukauttaa käännettyjen tiedostojen tiedostonimiä ja valita merkistökoodaukset, joita suodatin käyttää ladatessaan lähdetiedostoja ja tallentaessaan käännöksiä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105456Z" creationid="piav" creationdate="20190527T190525Z">
+        <seg>Tässä kohdassa voit määritellä lähdetiedostonimen muodot, joita käytetään suodattimen käsittelemissä tiedostoissa. Voit myös mukauttaa käännettyjen tiedostojen tiedostonimiä ja valita merkistökoodaukset, joita suodatin käyttää ladatessaan lähdetiedostoja ja tallentaessaan käännöksiä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8944,8 +8944,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Highlight Pattern...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T075827Z" creationid="piav" creationdate="20190913T102135Z">
-        <seg>Maalaa lausekekuvio…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105612Z" creationid="piav" creationdate="20190913T102135Z">
+        <seg>Maalaa muoto…</seg>
       </tuv>
     </tu>
     <tu>
@@ -9675,8 +9675,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Include Pattern</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T101728Z" creationid="piav" creationdate="20190521T133123Z">
-        <seg>Sisällytä lausekekuvio</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105434Z" creationid="piav" creationdate="20190521T133123Z">
+        <seg>Sisällytä muoto</seg>
       </tuv>
     </tu>
     <tu>
@@ -13620,24 +13620,24 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Pattern After</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T101906Z" creationid="piav" creationdate="20190522T083333Z">
-        <seg>Lausekekuvio jälkeen</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105545Z" creationid="piav" creationdate="20190522T083333Z">
+        <seg>Muoto jälkeen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Pattern Before</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T101902Z" creationid="piav" creationdate="20190522T083321Z">
-        <seg>Lausekekuvio ennen</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105540Z" creationid="piav" creationdate="20190522T083321Z">
+        <seg>Muoto ennen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Pattern...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T102141Z" creationid="piav" creationdate="20190522T083555Z">
-        <seg>Lausekekuvio…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105619Z" creationid="piav" creationdate="20190522T083555Z">
+        <seg>Muoto…</seg>
       </tuv>
     </tu>
     <tu>
@@ -15081,8 +15081,8 @@ projektin ilman ryhmäominaisuutta.</seg>
       <tuv lang="EN">
         <seg>Remove pattern?</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T101749Z" creationid="piav" creationdate="20190522T083210Z">
-        <seg>Poistetaanko lausekekuvio?</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105431Z" creationid="piav" creationdate="20190522T083210Z">
+        <seg>Poistetaanko muoto?</seg>
       </tuv>
     </tu>
     <tu>
@@ -17093,16 +17093,16 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Source Filename Pattern</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T101732Z" creationid="piav" creationdate="20190521T175553Z">
-        <seg>Lähdetiedoston nimen lausekekuvio</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105436Z" creationid="piav" creationdate="20190521T175553Z">
+        <seg>Lähdetiedoston nimen muoto</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Source Filename Pattern:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T101847Z" creationid="piav" creationdate="20190522T083106Z">
-        <seg>Lähdetiedoston nimen lausekekuvio:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105507Z" creationid="piav" creationdate="20190522T083106Z">
+        <seg>Lähdetiedoston nimen muoto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19365,8 +19365,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T104010Z" creationid="piav" creationdate="20191030T103110Z">
-        <seg>Tässä kohdassa voit määritellä tiedostonimen lausekekuviot sellaisille lähdetiedostoille, joita suodattimen on käsiteltävä. Voit myös mukauttaa käännettyjen tiedostojen tiedostonimiä ja valita lähdetiedoston lataamisessa ja käännöksen tallentamisessa käytettävät merkistökoodaukset.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105705Z" creationid="piav" creationdate="20191030T103110Z">
+        <seg>Tässä kohdassa voit määritellä tiedostonimen muodot, joita sisältäviä lähdetiedostoja suodattimen on käsiteltävä. Voit myös mukauttaa käännettyjen tiedostojen tiedostonimiä ja valita lähdetiedoston lataamisessa ja käännöksen tallentamisessa käytettävät merkistökoodaukset.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19912,8 +19912,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>Translated Filename Pattern</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T101736Z" creationid="piav" creationdate="20190521T175753Z">
-        <seg>Käännetyn tiedoston nimen lausekekuvio</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T105437Z" creationid="piav" creationdate="20190521T175753Z">
+        <seg>Käännetyn tiedoston nimen muoto</seg>
       </tuv>
     </tu>
     <tu>
