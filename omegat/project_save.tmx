@@ -2091,6 +2091,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Word:&lt;/e0&gt; non-visible instruction text, comments, footnotes, endnotes, footers</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T100309Z" creationid="piav" creationdate="20191030T100309Z">
+        <seg>&lt;e0&gt;Word:&lt;/e0&gt; näkymättömät ohjetekstit, kommentit, alaviitteet, loppuviitteet, alatunnisteet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T110941Z" creationid="piav" creationdate="20190913T110941Z">
@@ -8150,6 +8158,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T100048Z" creationid="piav" creationdate="20191030T100048Z">
+        <seg>Esimerkiksi &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T112402Z" creationid="piav" creationdate="20191023T112402Z">
@@ -8186,6 +8202,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T120328Z" creationid="PiaVee" creationdate="20171014T120328Z">
         <seg>Dokumentaatiosta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the example above, the field would contain: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T100131Z" creationid="piav" creationdate="20191030T100131Z">
+        <seg>Yllä olevassa esimerkissä kentässä lukisi &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11598,6 +11622,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T070437Z" creationid="PiaVee" creationdate="20171219T105754Z">
         <seg>Merriam Webster dictionaryn käyttö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Office Open XML files</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T100136Z" creationid="piav" creationdate="20191030T100136Z">
+        <seg>Microsoft Office Open XML -tiedostot</seg>
       </tuv>
     </tu>
     <tu>
@@ -19111,6 +19143,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They will appear as separate segments in the translation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T100219Z" creationid="piav" creationdate="20191030T100219Z">
+        <seg>Nämä näkyvät käännöksen erillisinä segmentteinä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This
 will delete your local data and re-download the project contents from
 the server.</seg>
@@ -21577,6 +21617,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can define key-value pairs for tags to be left untranslated.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T100111Z" creationid="piav" creationdate="20191030T100111Z">
+        <seg>Voit määritellä kääntämättä jätettävien tägien avain-arvo-parit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T111144Z" creationid="piav" creationdate="20191023T111144Z">
@@ -21606,6 +21654,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T080835Z" creationid="piav" creationdate="20191022T080835Z">
         <seg>Kohdekielinen sarake voi olla tyhjä. Sanaston termi voi siis koostua pelkästään lähtökielisestä termistä ja kommentista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select which elements are to be translated.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T100151Z" creationid="piav" creationdate="20191030T100151Z">
+        <seg>Voit valita, mitkä tiedoston elementit käännetään.</seg>
       </tuv>
     </tu>
     <tu>
