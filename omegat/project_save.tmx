@@ -14775,6 +14775,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove leading and trailing tags: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T080743Z" creationid="piav" creationdate="20191030T080614Z">
+        <seg>Poista alussa ja lopussa olevat tägit: Jätä tämä valinta rastittamatta, niin kaikki, myös segmentin alussa ja lopussa olevat tägit, ovat näkyvissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove mnemonics</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T093307Z" creationid="PiaVee" creationdate="20171014T093307Z">
@@ -18136,6 +18144,14 @@ instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061059Z" creationid="piav" creationdate="20191023T061059Z">
         <seg>Oletusmuotoiset OmegaT-pikanäppäimet Macille löytyvät myös Sourceforgesta. Niissä kaikissa käytetään Komento (cmd) ⌘ -näppäintä Ctrl-näppäimen sijasta. &lt;u0&gt;Default OmegaT Shortcuts for the Mac&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dialog allows you to enable or disable the following options:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T080556Z" creationid="piav" creationdate="20191030T080556Z">
+        <seg>Voit ottaa käyttöön tai poistaa käytöstä seuraavat valinnat:</seg>
       </tuv>
     </tu>
     <tu>
