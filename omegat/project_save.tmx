@@ -4641,8 +4641,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T074733Z" creationid="piav" creationdate="20191029T181318Z">
-        <seg>Jätä tämä valinta rastittamatta, niin haku ei tapahdu automaattisesti – hyödyllistä esim. silloin, kun sanakirjat ovat liian suuria.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101903Z" creationid="piav" creationdate="20191029T181318Z">
+        <seg>Jätä tämä kohta rastittamatta, niin haku ei tapahdu automaattisesti – hyödyllistä esim. silloin, kun sanakirjat ovat liian suuria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9184,8 +9184,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191029T102042Z" creationid="piav" creationdate="20191029T102035Z">
-        <seg>Kun sekä tämä valinta että &lt;l0&gt;&lt;g1&gt;Lisää lähtöteksti&lt;/g1&gt;&lt;/l0&gt; on rastitettu, kaikki lähdetekstin sanat, joille sanastossa on käännös, käännetään automaattisesti, kun lähdeteksti lisätään käännökseen.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101856Z" creationid="piav" creationdate="20191029T102035Z">
+        <seg>Kun sekä tämä kohta että &lt;l0&gt;&lt;g1&gt;Lisää lähtöteksti&lt;/g1&gt;&lt;/l0&gt; on rastitettu, kaikki lähdetekstin sanat, joille sanastossa on käännös, käännetään automaattisesti, kun lähdeteksti lisätään käännökseen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9299,16 +9299,16 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T081914Z" creationid="piav" creationdate="20191030T081914Z">
-        <seg>Jos tätä valintaa ei ole rastitettu, lähdetiedoston nimeä ei käytetä, ja vaihtoehtoiset käännökset vaikuttavat kaikkiin tiedostoihin aina, kun muu konteksti (tiedostomuodosta riippuen joko edellinen/seuraava segmentti tai jokin segmentin tunniste) on sama.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101927Z" creationid="piav" creationdate="20191030T081914Z">
+        <seg>Jos tätä kohtaa ei ole rastitettu, lähdetiedoston nimeä ei käytetä, ja vaihtoehtoiset käännökset vaikuttavat kaikkiin tiedostoihin aina, kun muu konteksti (tiedostomuodosta riippuen joko edellinen/seuraava segmentti tai jokin segmentin tunniste) on sama.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If the option is off, the source text will be copied to the target segment.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T083216Z" creationid="piav" creationdate="20191030T083145Z">
-        <seg>Jos valinta on pois käytöstä, lähdeteksti kopioidaan kohdesegmenttiin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101953Z" creationid="piav" creationdate="20191030T083145Z">
+        <seg>Jos tätä ei ole valittu, lähdeteksti kopioidaan kohdesegmenttiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9347,16 +9347,16 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T101017Z" creationid="piav" creationdate="20191029T102238Z">
-        <seg>Kun tämä valinta on rastitettu, sanastossa näkyy vain yksi osuma, vaikka samasta sanasta olisi useita muotoja, joissa isoja ja pieniä kirjaimia käytetään eri tavoin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101859Z" creationid="piav" creationdate="20191029T102238Z">
+        <seg>Kun tämä kohta on rastitettu, sanastossa näkyy vain yksi osuma, vaikka samasta sanasta olisi useita muotoja, joissa isoja ja pieniä kirjaimia käytetään eri tavoin.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If this option is selected, OmegaT will not remember the access key between sessions.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191029T103348Z" creationid="piav" creationdate="20191029T103348Z">
-        <seg>Jos tämä valinta on rastitettu, OmegaT ei talleta salasanaa seuraavaa istuntoa varten.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101901Z" creationid="piav" creationdate="20191029T103348Z">
+        <seg>Jos tämä kohta on rastitettu, OmegaT ei talleta salasanaa seuraavaa istuntoa varten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9571,8 +9571,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T081309Z" creationid="piav" creationdate="20191030T081309Z">
-        <seg>Kun tämä valinta jätetään rastittamatta, tyhjätilamerkkejä ei poisteta projekteista, joita ei ole jaettu segmentteihin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101920Z" creationid="piav" creationdate="20191030T081309Z">
+        <seg>Kun tämä kohta jätetään rastittamatta, tyhjätilamerkkejä ei poisteta projekteista, joita ei ole jaettu segmentteihin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14071,8 +14071,8 @@ onko sinun tehtävä vielä muuta.</seg>
       <tuv lang="EN">
         <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T081441Z" creationid="piav" creationdate="20191030T081441Z">
-        <seg>Jätä kaikkien tägien välilyönnit: Rastita tämä valinta, jos lähdetiedostoissa käytetään välilyöntejä, jotka ovat tärkeitä tiedoston ulkonäölle ja jotka on huomioitava.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101923Z" creationid="piav" creationdate="20191030T081441Z">
+        <seg>Jätä kaikkien tägien välilyönnit: Rastita tämä kohta, jos lähdetiedostoissa käytetään välilyöntejä, jotka ovat tärkeitä tiedoston ulkonäölle ja jotka on huomioitava.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15017,8 +15017,8 @@ projektin ilman ryhmäominaisuutta.</seg>
       <tuv lang="EN">
         <seg>Remove leading and trailing tags: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T080743Z" creationid="piav" creationdate="20191030T080614Z">
-        <seg>Poista alussa ja lopussa olevat tägit: Jätä tämä valinta rastittamatta, niin kaikki, myös segmentin alussa ja lopussa olevat tägit, ovat näkyvissä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101913Z" creationid="piav" creationdate="20191030T080614Z">
+        <seg>Poista alussa ja lopussa olevat tägit: Jätä tämä kohta rastittamatta, niin kaikki, myös segmentin alussa ja lopussa olevat tägit, ovat näkyvissä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16517,16 +16517,16 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Select this option if you want dictionaries to display words that have the same root.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T074756Z" creationid="piav" creationdate="20191030T074756Z">
-        <seg>Rastita tämä valinta, jos haluat, että sanakirjoissa näkyy vartaloltaan samoja sanoja.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101906Z" creationid="piav" creationdate="20191030T074756Z">
+        <seg>Rastita tämä kohta, jos haluat, että sanakirjoissa näkyy vartaloltaan samoja sanoja.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select this option if you want the glossary to display words that have the same root.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191029T101819Z" creationid="piav" creationdate="20191029T101655Z">
-        <seg>Rastita tämä valinta, jos haluat, että sanastoruudussa näkyy vartaloltaan samoja sanoja.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101852Z" creationid="piav" creationdate="20191029T101655Z">
+        <seg>Rastita tämä kohta, jos haluat, että sanastoruudussa näkyy vartaloltaan samoja sanoja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18210,8 +18210,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The PO header will be skipped and left unchanged if this option is checked.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T101030Z" creationid="piav" creationdate="20191030T094406Z">
-        <seg>Kun tämä valinta on rastitettu, PO-otsaketta ei muuteta vaan se ohitetaan.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101942Z" creationid="piav" creationdate="20191030T094406Z">
+        <seg>Kun tämä kohta on rastitettu, PO-otsaketta ei muuteta vaan se ohitetaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20283,16 +20283,16 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       <tuv lang="EN">
         <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191029T101143Z" creationid="piav" creationdate="20191029T101120Z">
-        <seg>Älä rastita tätä vaihtoehtoa, jos et tarvitse jokaisen sanaston tietueen kontekstitietoja tai jos kontekstitiedot ovat liian pitkät.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101838Z" creationid="piav" creationdate="20191029T101120Z">
+        <seg>Älä rastita tätä kohtaa, jos et tarvitse jokaisen sanaston tietueen kontekstitietoja tai jos kontekstitiedot ovat liian pitkät.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Uncheck this option if the glossary displays too many false positives.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191029T101641Z" creationid="piav" creationdate="20191029T101623Z">
-        <seg>Jätä tämä valinta rastittamatta, jos sanastossa näkyy liikaa virheellisiä esiintymiä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101849Z" creationid="piav" creationdate="20191029T101623Z">
+        <seg>Jätä tämä kohta rastittamatta, jos sanastossa näkyy liikaa virheellisiä esiintymiä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20847,8 +20847,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>Using this option, the translator can specify whether the target files should have the encoding declaration included.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T101639Z" creationid="piav" creationdate="20191030T101639Z">
-        <seg>Tämän asetuksen avulla voit määritellä </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T102138Z" creationid="piav" creationdate="20191030T101639Z">
+        <seg>Tämän asetuksen avulla voit määritellä, pitäisikö merkistökoodaustiedon olla osa kohdetiedostoja vai ei.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21209,8 +21209,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191029T101402Z" creationid="piav" creationdate="20191029T101248Z">
-        <seg>Kun tämän valinnan kohdalla on rasti, sanasto näyttää sanaryhmiä tai lausekkeita, vaikka niiden sanat esiintyvät yksittäin lähtötekstissä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101846Z" creationid="piav" creationdate="20191029T101248Z">
+        <seg>Kun tässä kohdassa on rasti, sanasto näyttää sanaryhmiä tai lausekkeita, vaikka niiden sanat esiintyvät yksittäin lähtötekstissä.</seg>
       </tuv>
     </tu>
     <tu>
