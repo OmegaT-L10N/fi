@@ -6910,6 +6910,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit filter dialog</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T103047Z" creationid="piav" creationdate="20191030T103036Z">
+        <seg>Suodattimien muokkaus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit project properties here.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T091100Z" creationid="PiaVee" creationdate="20171218T091100Z">
@@ -19327,6 +19335,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T101351Z" creationid="piav" creationdate="20190522T063255Z">
         <seg>Tämä komento suoritetaan sen jälkeen kun käännettävät asiakirjat on luotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T103332Z" creationid="piav" creationdate="20191030T103110Z">
+        <seg>Tässä valinnassa voit määritellä lähdetiedoston nimeen sisältyvät lausekekuviot, jonka sisältäviä lähdetiedostoja sudatti </seg>
       </tuv>
     </tu>
     <tu>
