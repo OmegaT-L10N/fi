@@ -9230,6 +9230,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T151952Z" creationid="piav" creationdate="20191030T151952Z">
+        <seg>"Mene seuraavaan kääntämättömään segmenttiin" -valinta pysähtyy kohtaan, jossa on vähintään yksi vaihtoehtoinen käännös</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124316Z" creationid="PiaVee" creationdate="20171015T124316Z">
