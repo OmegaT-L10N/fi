@@ -7862,6 +7862,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exception rule</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T130712Z" creationid="piav" creationdate="20191030T130712Z">
+        <seg>Poikkeussääntö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception while editing options:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T104953Z" creationid="piav" creationdate="20190913T100058Z">
@@ -8634,6 +8642,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T100131Z" creationid="piav" creationdate="20191030T100131Z">
         <seg>Yllä olevassa esimerkissä kentässä lukisi &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this to happen, there should be a break rule for "?", when followed by spaces and a capitalized word.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T130623Z" creationid="piav" creationdate="20191030T130623Z">
+        <seg>Jotta näin tapahtuu, tarvitaan katkaisusääntöä, jossa ?-merkin jälkeen tulee välilyönti ja isolla kirjaimella alkava sana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10061,6 +10077,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T065345Z" creationid="piav" creationdate="20190521T135103Z">
         <seg>Lähtötekstissä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In spite of the period, &lt;e0&gt;"Mrs. Dalloway "&lt;/e0&gt; should not be split in two segments, so an exception rule should be established for Mrs (and for Mr, for Dr, for prof etc), followed by a period.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T132157Z" creationid="piav" creationdate="20191030T132157Z">
+        <seg>Vaikka nimityksessä &lt;e0&gt;"maist. May Steri"&lt;/e0&gt; on piste, sitä ei pitäisi jakaa kahdeksi segmentiksi. Siksi dipl. ins (sekä dipl. ins, toht, prof jne.) ja sitä seuraava piste tulisi kirjoittaa poikkeussäännöksi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17077,8 +17101,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Separates the source text into segments.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T130423Z" creationid="piav" creationdate="20191030T130423Z">
-        <seg>Jakaa lähdetekstin segmenteiksi.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T130719Z" creationid="piav" creationdate="20191030T130423Z">
+        <seg>jakaa lähdetekstin segmenteiksi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20242,6 +20266,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094153Z" creationid="PiaVee" creationdate="20171219T094153Z">
         <seg>Tähän päivään mennessä sposoreina ovat toimineet:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To define a rule as a break rule, tick the Break/Exception check box.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T130708Z" creationid="piav" creationdate="20191030T130708Z">
+        <seg>Merkitse sääntö katkaisusäännöksi laittamalla Katkaisu/poikkeus-ruutuun rasti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26681,6 +26713,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081556Z" creationid="PiaVee" creationdate="20171015T081556Z">
         <seg>spa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>specify what parts of text should NOT be separated.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T130752Z" creationid="piav" creationdate="20191030T130752Z">
+        <seg>määrittelee, mitä tekstinosia EI pitäisi erottaa.</seg>
       </tuv>
     </tu>
     <tu>
