@@ -1883,6 +1883,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/e1&gt; Empty translations are now allowed.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T142319Z" creationid="piav" creationdate="20191030T142319Z">
+        <seg>&lt;/e1&gt; Tyhjät käännökset ovat nyt sallittuja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/e2&gt;The '*' character matches zero or more characters.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T110844Z" creationid="piav" creationdate="20191030T110844Z">
@@ -2205,8 +2213,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Translate the following attributes&lt;/e0&gt;: the selected attributes will appear as segments in the Editor window.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T094706Z" creationid="piav" creationdate="20191030T094706Z">
-        <seg>&lt;e0&gt;Käännä seuraavat attribuutit&lt;/e0&gt;: Valitut attribuutit näkyvät segmentteinä muokkausruudussa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T142451Z" creationid="piav" creationdate="20191030T094706Z">
+        <seg>&lt;e0&gt;Käännä seuraavat attribuutit&lt;/e0&gt;: Valitut attribuutit näkyvät segmentteinä Editori-ikkunassa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20207,6 +20215,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They are displayed as &lt;EMPTY&gt; in the Editor.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T142459Z" creationid="piav" creationdate="20191030T142409Z">
+        <seg>Ne näkyvät Editorissa &lt;EMPTY&gt;-merkinnällä varustettuina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T155859Z" creationid="piav" creationdate="20191022T155657Z">
@@ -20486,8 +20502,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This option allows you to enter the translation without the need to remove the source text, thus saving you two keystrokes (&lt;e0&gt;Ctrl+A &lt;/e0&gt;and &lt;e1&gt;Del).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T142238Z" creationid="piav" creationdate="20191030T142112Z">
-        <seg>Tämän avulla voit lisätä käännöksen ilman, että sinun täytyy ensin poista lähdeteksti – säästät siis kaksi näppäinpainallusta (&lt;e0&gt;Ctrl+A&lt;/e0&gt; ja </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T142247Z" creationid="piav" creationdate="20191030T142112Z">
+        <seg>Tämän avulla voit lisätä käännöksen ilman, että sinun täytyy ensin poista lähdeteksti – säästät siis kaksi näppäinpainallusta (&lt;e0&gt;Ctrl+A&lt;/e0&gt; ja &lt;e1&gt;Del).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20634,6 +20650,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T123620Z" creationid="piav" creationdate="20190920T123554Z">
         <seg>Avaa projekti OmegaT-käyttöliittymässä, niin saat sen muunnettua uudenlaiseksi ryhmäprojektiksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create one, right-click in a segment, and select "&lt;e2&gt;Set empty translation&lt;/e2&gt;".</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T142610Z" creationid="piav" creationdate="20191030T142610Z">
+        <seg>Luo tyhjä käännös klikkaamalla segmenttiä hiiren kakkospainikkeella, valitse sitten "&lt;e2&gt;Aseta tyhjä käännös&lt;/e2&gt;".</seg>
       </tuv>
     </tu>
     <tu>
