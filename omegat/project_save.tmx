@@ -17133,8 +17133,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Sometimes you may wish to rename the files you translate automatically, for example adding a language code after the file name.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T120525Z" creationid="piav" creationdate="20191030T120525Z">
-        <seg>Kääntämäsi tiedostot nimetään automaattisesti, mutta toisinaan esimerksiksi lisäämällä kieli</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T120646Z" creationid="piav" creationdate="20191030T120525Z">
+        <seg>Kääntämäsi tiedostot nimetään automaattisesti, mutta haluat kenties muokata tiedostonimeä esimerksiksi lisäämällä siihen kielikoodin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19210,6 +19210,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T150349Z" creationid="piav" creationdate="20191022T150349Z">
         <seg>Sarkainmerkki (\u0009)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The target filename pattern uses a special syntax, so if you want to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the Edit Pattern Dialog.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T120755Z" creationid="piav" creationdate="20191030T120704Z">
+        <seg>Kohdetiedoston nimessä käytetään erityistä syktaksia, joten jos haluat muuttaa tätä kenttää, napsauta &lt;e0&gt;Muokkaa…&lt;/e0&gt;-painiketta ja siirry </seg>
       </tuv>
     </tu>
     <tu>
