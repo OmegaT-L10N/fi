@@ -2269,32 +2269,40 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T121429Z" creationid="piav" creationdate="20191030T121429Z">
-        <seg>&lt;l0&gt;${extension} &lt;/l0&gt;– alkuperäinen tiedostopääte</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T122028Z" creationid="piav" creationdate="20191030T121429Z">
+        <seg>&lt;l0&gt;${extension}&lt;/l0&gt; – alkuperäinen tiedostopääte</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– allows you to insert only the name of the source file without the extension.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T121432Z" creationid="piav" creationdate="20191030T121337Z">
-        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– ainoastaan lähdetiedoston nimi, ilman tiedostopäätettä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T122016Z" creationid="piav" creationdate="20191030T121337Z">
+        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt; – ainoastaan lähdetiedoston nimi, ilman tiedostopäätettä</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; - operating system of the computer used</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T122010Z" creationid="piav" creationdate="20191030T122010Z">
-        <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; - operating system of the computer used</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T122122Z" creationid="piav" creationdate="20191030T122010Z">
+        <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; – käytetyn tietokoneen käyttöjärjestelmä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${system-user-name}&lt;/l0&gt; - system user name</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T122326Z" creationid="piav" creationdate="20191030T122326Z">
+        <seg>&lt;l0&gt;${system-user-name}&lt;/l0&gt; – järjestelmän käyttäjän nimi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– the target country - only "YY"</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T121645Z" creationid="piav" creationdate="20191030T121645Z">
-        <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– kohdemaa, muotona pelkkä "YY"</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T122041Z" creationid="piav" creationdate="20191030T121645Z">
+        <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt; – kohdemaa, muotona pelkkä "YY"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2309,16 +2317,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;– the target language and country code together (of a form "XX-YY").</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T121609Z" creationid="piav" creationdate="20191030T121609Z">
-        <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;– kohdekielen ja maan koodi yhdessä (muotoa "XX-YY").</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T122035Z" creationid="piav" creationdate="20191030T121609Z">
+        <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt; – kohdekielen ja maan koodi yhdessä (muotoa "XX-YY").</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– target locale code (of a form "xx_YY").</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T121537Z" creationid="piav" creationdate="20191030T121456Z">
-        <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– kohdekielen kielialueen koodi (muotoa "xx_YY").</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T122033Z" creationid="piav" creationdate="20191030T121456Z">
+        <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt; – kohdekielen kielialueen koodi (muotoa "xx_YY").</seg>
       </tuv>
     </tu>
     <tu>
@@ -6103,8 +6111,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Default is &lt;l0&gt;${filename}&lt;/l0&gt;– full filename of the source file with extension: in this case the name of the translated file is the same as that of the source file.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T121324Z" creationid="piav" creationdate="20191030T121324Z">
-        <seg>Oletusasetuksena on &lt;l0&gt;${filename}&lt;/l0&gt;– lähdetiedoston koko tiedostonimi tiedostopäätteineen. Tällöin käännetyn tiedoston nimi on sama kuin lähdetiedostossa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T122013Z" creationid="piav" creationdate="20191030T121324Z">
+        <seg>Oletusasetuksena on &lt;l0&gt;${filename}&lt;/l0&gt; – lähdetiedoston koko tiedostonimi tiedostopäätteineen. Tällöin käännetyn tiedoston nimi on sama kuin lähdetiedostossa.</seg>
       </tuv>
     </tu>
     <tu>
