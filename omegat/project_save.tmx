@@ -4527,6 +4527,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T080335Z" creationid="piav" creationdate="20191030T080246Z">
+        <seg>Kun napsautat &lt;e0&gt;Oletukset&lt;/e0&gt;-painiketta, tiedostosuodatinasetukset palautuvat oletusarvoihinsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;e2&gt;Replace Next&lt;/e2&gt; or &lt;e3&gt;Skip&lt;/e3&gt;, then end the replacement session with &lt;e4&gt;Finish&lt;/e4&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T100611Z" creationid="PiaVee" creationdate="20171014T100345Z">
@@ -19222,6 +19230,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T080522Z" creationid="piav" creationdate="20191030T080522Z">
+        <seg>Voit muokata käytettäviä tiedostoja ja tiedotosuodattimien koodauksia valitsemalla kyseisen suodattimen ja napsauttamalla &lt;e1&gt;Muokkaa&lt;/e1&gt;-painiketta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T190831Z" creationid="piav" creationdate="20190527T190831Z">
@@ -20851,6 +20867,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T142032Z" creationid="piav" creationdate="20190521T142032Z">
         <seg>Tekstin korvaamisessa voi käyttää säännöllisiä lausekkeita, jolloin korvattavassa tekstissä voi viitata hakulausekkeessa määriteltyihin ryhmiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you wish to use the filter again, just tick the check box.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T080236Z" creationid="piav" creationdate="20191030T080236Z">
+        <seg>Kun haluat ottaa suodattimen uudelleen käyttöön, laita rasti ruutuun.</seg>
       </tuv>
     </tu>
     <tu>
