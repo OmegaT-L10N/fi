@@ -3443,6 +3443,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T144348Z" creationid="piav" creationdate="20191030T144348Z">
+        <seg>Käännös saa olla sama kuin lähtöteksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T132221Z" creationid="piav" creationdate="20190916T132221Z">
@@ -6961,6 +6969,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140557Z" creationid="PiaVee" creationdate="20171014T140224Z">
         <seg>Dokumentaation seurantajäjestelmä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documents for translation may contain trade marks, names or other proper nouns that will be the same in translated documents.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T144441Z" creationid="piav" creationdate="20191030T144441Z">
+        <seg>Käännettävissä dokumenteissa voi olle tuotemerkkejä, nimiä tai muita erisnimiä, joiden on pysyttävä samoina myös käännetyssä asiakirjassa.</seg>
       </tuv>
     </tu>
     <tu>
