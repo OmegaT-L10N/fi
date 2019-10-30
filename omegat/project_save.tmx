@@ -9192,16 +9192,16 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T100947Z" creationid="piav" creationdate="20190913T075948Z">
-        <seg>Jos merkistökoodaus on mainittu HTML-tiedostossa, ohjelma käyttää sitä riippumatta tässä valinnassa olevasta arvosta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104107Z" creationid="piav" creationdate="20190913T075948Z">
+        <seg>Jos merkistökoodaus on mainittu HTML-tiedostossa, ohjelma käyttää sitä riippumatta tässä kohdassa olevasta arvosta.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T100942Z" creationid="piav" creationdate="20190913T100942Z">
-        <seg>Jos merkistökoodaus on mainittu HHC- tai HHK-tiedostossa, ohjelma käyttää sitä riippumatta tämän valinnan arvosta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104112Z" creationid="piav" creationdate="20190913T100942Z">
+        <seg>Jos merkistökoodaus on mainittu HHC- tai HHK-tiedostossa, ohjelma käyttää sitä riippumatta tämän kohdan arvosta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16821,8 +16821,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Shows the dialog to modify the text display font.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T075150Z" creationid="piav" creationdate="20191030T075128Z">
-        <seg>Näyttää valinnan, jossa voit muokata näytön tekstin fonttia.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T103955Z" creationid="piav" creationdate="20191030T075128Z">
+        <seg>Näyttää kohdan, jossa voit muokata näytön tekstin fonttia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18720,8 +18720,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The location of the writable glossary file can be set in the &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;dialog.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T111050Z" creationid="piav" creationdate="20190913T111050Z">
-        <seg>Voi asettaa kirjoituskelpoisen sanastotiedoston sijainnin valinnassa &lt;g0&gt;Projekti &gt; Ominaisuudet…&lt;/g0&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T103933Z" creationid="piav" creationdate="20190913T111050Z">
+        <seg>Voit asettaa kirjoituskelpoisen sanastotiedoston sijainnin kohdassa &lt;g0&gt;Projekti &gt; Ominaisuudet…&lt;/g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18896,8 +18896,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The same dialog is used to add a pattern or to edit a particular pattern.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T103826Z" creationid="piav" creationdate="20191030T103826Z">
-        <seg>Samassa valintaruudussa voit lisätä lausekekuvion tai muokata tiettyä lausekekuviota.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104220Z" creationid="piav" creationdate="20191030T103826Z">
+        <seg>Voit myös lisätä lausekekuvion tai muokata tiettyä lausekekuviota.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19349,8 +19349,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T103622Z" creationid="piav" creationdate="20191030T103110Z">
-        <seg>Tässä valinnassa voit määritellä tiedostonimen lausekekuviot sellaisille lähdetiedostoille, joita suodattimen on käsiteltävä. Voit myös mukauttaa käännettyjen tiedostojen tiedostonimiä ja valita lähdetiedoston lataamisessa ja käännöksen tallentamisessa käytettävät merkistökoodaukset.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104010Z" creationid="piav" creationdate="20191030T103110Z">
+        <seg>Tässä kohdassa voit määritellä tiedostonimen lausekekuviot sellaisille lähdetiedostoille, joita suodattimen on käsiteltävä. Voit myös mukauttaa käännettyjen tiedostojen tiedostonimiä ja valita lähdetiedoston lataamisessa ja käännöksen tallentamisessa käytettävät merkistökoodaukset.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19365,8 +19365,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This dialog lists the file filters available.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T075640Z" creationid="piav" creationdate="20191030T075634Z">
-        <seg>Tässä valinnassa on lueteltu käytössä olevat tiedostosuodattimet.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104142Z" creationid="piav" creationdate="20191030T075634Z">
+        <seg>Tässä kohdassa näkyvät käytössä olevat tiedostosuodattimet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21836,8 +21836,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       <tuv lang="EN">
         <seg>You define its location and name in the project properties dialog.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T103901Z" creationid="piav" creationdate="20191022T071927Z">
-        <seg>Voit määritellä sanaston sijainnin ja nimen Projektin ominaisuudet -valintaikkunassa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T103925Z" creationid="piav" creationdate="20191022T071927Z">
+        <seg>Voit määritellä sanaston sijainnin ja nimen kohdassa Projektin ominaisuudet.</seg>
       </tuv>
     </tu>
     <tu>
