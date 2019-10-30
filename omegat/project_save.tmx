@@ -7928,8 +7928,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Filter options</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T081928Z" creationid="piav" creationdate="20191030T081928Z">
-        <seg>Suodati</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T081937Z" creationid="piav" creationdate="20191030T081928Z">
+        <seg>Suodattimen asetukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -16459,6 +16459,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Several filters (text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T082133Z" creationid="piav" creationdate="20191030T082133Z">
+        <seg>Useissa suodattimissa (tekstitiedostoja, XHTML-tiedostoja, HTML- ja XHTML-tiedostoja, OpenDocument-tiedostoja ja Microsoft Open XML -tiedostoja varten) on yksi tai useampi erityinen asetus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+F3</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T062909Z" creationid="piav" creationdate="20191023T062909Z">
@@ -19346,6 +19354,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T101530Z" creationid="PiaVee" creationdate="20171014T101256Z">
         <seg>Etsi ja korvaa -toiminto hakee tekstiä ainoastaan jo muodostuneesta käännösmuistista, joten OmegaT kopioi lähdesegmentin kohdesegmenttiin ennen tekstin korvaamista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To modify the options, select the filter in the list and click &lt;e0&gt;Options&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T082232Z" creationid="piav" creationdate="20191030T082232Z">
+        <seg>Valitse listalla oleva suodatin ja napsauta &lt;e0&gt;Asetukset&lt;/e0&gt;-painiketta, niin pääset muokkaamaan asetuksia.</seg>
       </tuv>
     </tu>
     <tu>
