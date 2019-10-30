@@ -6543,8 +6543,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Does the folder contain three files of the same name, with extensions?</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T110139Z" creationid="PiaVee" creationdate="20171219T110139Z">
-        <seg>Onko kansiossa kolme samannimistä tiedostoa, joiden tiedostotunnisteet ovat erilaiset?</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T110328Z" creationid="PiaVee" creationdate="20171219T110139Z">
+        <seg>Onko kansiossa kolme samannimistä tiedostoa, joiden tiedostopäätteet ovat erilaiset?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6655,8 +6655,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T102021Z" creationid="PiaVee" creationdate="20171219T101808Z">
-        <seg>Lataa &lt;f0&gt;tarball&lt;/f0&gt;-muotoinen tiedostoarkisto (tiedostotunniste &lt;e1&gt;tar.bz&lt;/e1&gt; tai &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T110315Z" creationid="PiaVee" creationdate="20171219T101808Z">
+        <seg>Lataa &lt;f0&gt;tarball&lt;/f0&gt;-muotoinen tiedostoarkisto (tiedostopääte &lt;e1&gt;tar.bz&lt;/e1&gt; tai &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8238,6 +8238,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, by default, the XHTML filter is used to process files with the .xhtml extension.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T110611Z" creationid="piav" creationdate="20191030T110611Z">
+        <seg>Esimerkiksi XHTML-suodattimen oletusasetuksena on, että sitä käytetään .xhtml-päätteisten tiedostojen käsittelyyn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T112402Z" creationid="piav" creationdate="20191023T112402Z">
@@ -8256,8 +8264,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>For example, the pattern &lt;l0&gt;*.xhtml &lt;/l0&gt;matches any file with the &lt;l1&gt;.xhtml&lt;/l1&gt; extension.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T110156Z" creationid="piav" creationdate="20191030T110156Z">
-        <seg>Esimerkiksi kuvio &lt;l0&gt;*.xhtml&lt;/l0&gt; vastaa kaikkia tiedostoja, joiden</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T110415Z" creationid="piav" creationdate="20191030T110156Z">
+        <seg>Esimerkiksi kuvio &lt;l0&gt;*.xhtml&lt;/l0&gt; vastaa kaikkia tiedostoja, joiden pääte on &lt;l1&gt;.xhtml&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9307,8 +9315,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If only one file is present, check its extension.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T133233Z" creationid="PiaVee" creationdate="20171219T110237Z">
-        <seg>Jos kansiossa on vain yksi tiedosto, tarkista sen tiedostotunniste.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T110332Z" creationid="PiaVee" creationdate="20171219T110237Z">
+        <seg>Jos kansiossa on vain yksi tiedosto, tarkista sen tiedostopääte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9317,6 +9325,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T082727Z" creationid="piav" creationdate="20191030T082727Z">
         <seg>Jos tämä valinta on rastittu, PO-tiedoston segmentin (joka voi olla kokonainen kappale) käännöksen voi jättää tyhjäksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T110500Z" creationid="piav" creationdate="20191030T110500Z">
+        <seg>Jos sopiva suodatin löytyy, tiedostoa käsitellään sen mukaisesti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18590,8 +18606,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T072138Z" creationid="piav" creationdate="20191022T072138Z">
-        <seg>Sanaston tiedostotunnisteen on oltava &lt;f0&gt;.txt&lt;/f0&gt; tai &lt;f1&gt;.utf8&lt;/f1&gt;. Puuttuva tunniste lisätään automaattisesti.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T110346Z" creationid="piav" creationdate="20191022T072138Z">
+        <seg>Sanaston tiedostopäätteen on oltava &lt;f0&gt;.txt&lt;/f0&gt; tai &lt;f1&gt;.utf8&lt;/f1&gt;. Puuttuva pääte lisätään automaattisesti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19224,8 +19240,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T102338Z" creationid="PiaVee" creationdate="20171219T102338Z">
-        <seg>Kansiossa pitäisi olle kolme tiedostoa, joiden tiedostotunnisteet ovat &lt;e1&gt;dz, idx&lt;/e1&gt; ja &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T110321Z" creationid="PiaVee" creationdate="20171219T102338Z">
+        <seg>Kansiossa pitäisi olle kolme tiedostoa, joiden tiedostopäätteet ovat &lt;e1&gt;dz, idx&lt;/e1&gt; ja &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21281,8 +21297,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file's extension.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T110026Z" creationid="piav" creationdate="20191030T105936Z">
-        <seg>OmegaT yrittää valita suodattimen lähdekansiosta löytämänsä tiedoston tiedostotunnisteen perusteella.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T110359Z" creationid="piav" creationdate="20191030T105936Z">
+        <seg>OmegaT yrittää valita suodattimen lähdekansiosta löytämänsä tiedoston tiedostopäätteen perusteella.</seg>
       </tuv>
     </tu>
     <tu>
