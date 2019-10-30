@@ -9529,6 +9529,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T121019Z" creationid="piav" creationdate="20191030T120907Z">
+        <seg>Jos haluat palata suodattimen oletusasetuksiin, napsauta painiketta &lt;e1&gt;Oletukset&lt;/e1&gt;. Voit myös muokata kohdetiedoston nimen muotoa vastaavassa kentässä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061346Z" creationid="piav" creationdate="20191023T061346Z">
@@ -19216,8 +19224,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The target filename pattern uses a special syntax, so if you want to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the Edit Pattern Dialog.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T120755Z" creationid="piav" creationdate="20191030T120704Z">
-        <seg>Kohdetiedoston nimessä käytetään erityistä syktaksia, joten jos haluat muuttaa tätä kenttää, napsauta &lt;e0&gt;Muokkaa…&lt;/e0&gt;-painiketta ja siirry </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T120828Z" creationid="piav" creationdate="20191030T120704Z">
+        <seg>Kohdetiedoston nimessä käytetään erityistä syktaksia, joten jos haluat muuttaa tätä kenttää, napsauta &lt;e0&gt;Muokkaa…&lt;/e0&gt;-painiketta ja siirry kohtaan Muokkaa muotoa.</seg>
       </tuv>
     </tu>
     <tu>
