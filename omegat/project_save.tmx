@@ -1899,6 +1899,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; uses the following sequence of steps:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T125017Z" creationid="piav" creationdate="20191030T125017Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; toimii seuraavassa järjestyksessä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T073559Z" creationid="piav" creationdate="20191022T073445Z">
@@ -9701,6 +9709,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T124957Z" creationid="piav" creationdate="20190916T124725Z">
         <seg>Jos käytät todennettua välityspalvelinta, kirjoita tähän käyttäjänimesi ja salasanasi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you change segmentation options when a project is open, you must reload the project in order for the changes to take effect.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T124901Z" creationid="piav" creationdate="20191030T124854Z">
+        <seg>Jos muutat avoimen projektin segmentointisääntöjä, projekti on ladattava uudelleen, jotta muutokset astuvat voimaan.</seg>
       </tuv>
     </tu>
     <tu>
