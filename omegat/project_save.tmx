@@ -20751,6 +20751,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T081016Z" creationid="piav" creationdate="20191030T081016Z">
+        <seg>Varoitus: Jos kaikki Microsoft Open XML -muotoisten tiedostojen (docx, xlsx jne.) tägit ovat näkyvissä, ÄLÄ LISÄÄ tekstiä ennen segmentin ensimmäistä tägiä. Se on tekninen tägi, jonka on aina oltava segmentin alussa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Warranty</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T133459Z" creationid="PiaVee" creationdate="20171014T133459Z">
