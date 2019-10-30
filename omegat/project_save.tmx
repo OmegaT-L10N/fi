@@ -1995,6 +1995,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ...:&lt;/e0&gt; The meta-tags in the box will not be translated.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T095307Z" creationid="piav" creationdate="20191030T095236Z">
+        <seg>&lt;e0&gt;Älä käännä meta-tägien content-attribuutteja…&lt;/e0&gt;: Laatikon meta-tägejä ei käännetä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T095353Z" creationid="piav" creationdate="20191030T095353Z">
+        <seg>&lt;e0&gt;Älä käännä sellaisten meta-tägien sisältöattribuuttia, joissa attribuutilla on seuraavat avain–arvo-parit (erota pilkuilla)&lt;/e0&gt;: Jos tägi vastaa listan avain–arvo-pareja, sen sisältöä ei huomioida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;End: &lt;/e0&gt; cursor to the end of the active segment</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T130040Z" creationid="PiaVee" creationdate="20171218T130013Z">
@@ -17947,6 +17963,14 @@ Tekstin korvaus tapahtuu projektin lähtökielisissä segmenteissäriippumatta s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T102320Z" creationid="piav" creationdate="20190913T102320Z">
         <seg>Tekstitiedostojen segmentointi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text in source segments that matches is shown in italics.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T095209Z" creationid="piav" creationdate="20191030T095209Z">
+        <seg>Lauseketta vastaava kohdesegmentin teksti on kursivoitu.</seg>
       </tuv>
     </tu>
     <tu>
