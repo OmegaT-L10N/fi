@@ -3441,8 +3441,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>As this is the standard behaviour for PO files, it is selected by default.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T083152Z" creationid="piav" creationdate="20191030T082841Z">
-        <seg>Tämä on oletuksena PO-tiedostoissa, joten valinta on oletusarvoisesti käytössä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T083250Z" creationid="piav" creationdate="20191030T082841Z">
+        <seg>Tämä on oletuksena PO-tiedostoissa, joten oletusarvoisesti valinta on rastitettu.</seg>
       </tuv>
     </tu>
     <tu>
