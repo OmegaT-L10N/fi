@@ -2283,6 +2283,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; - operating system of the computer used</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T122010Z" creationid="piav" creationdate="20191030T122010Z">
+        <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; - operating system of the computer used</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– the target country - only "YY"</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T121645Z" creationid="piav" creationdate="20191030T121645Z">
@@ -16323,6 +16331,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T121820Z" creationid="piav" creationdate="20191030T121820Z">
+        <seg>Esimerkkejä SimpleDateFormat-muodoista löydät &lt;u0&gt;Oraclen dokumentaatiosta&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;u0&gt;The Regex Coach&lt;/u0&gt; for Windows,Linux, FreeBSD versions of a stand-alone tool.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T160204Z" creationid="piav" creationdate="20191022T160204Z">
@@ -24127,6 +24143,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174223Z" creationid="PiaVee" creationdate="20171014T174223Z">
         <seg>ht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T121726Z" creationid="piav" creationdate="20191030T121726Z">
+        <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
       </tuv>
     </tu>
     <tu>
