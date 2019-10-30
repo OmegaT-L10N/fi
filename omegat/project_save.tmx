@@ -1947,6 +1947,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101455Z" creationid="piav" creationdate="20191030T101455Z">
+        <seg>&lt;e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T101118Z" creationid="piav" creationdate="20191030T100927Z">
@@ -2077,8 +2085,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T101209Z" creationid="piav" creationdate="20191030T101209Z">
-        <seg>&lt;e0&gt;Jätä kaikkien tägien välilyönnit&lt;/e0&gt;: Jos tämä on valittu, tyhjätilamerkit (eli välilyönnit ja uudet rivit)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101258Z" creationid="piav" creationdate="20191030T101209Z">
+        <seg>&lt;e0&gt;Jätä kaikkien tägien välilyönnit&lt;/e0&gt;: Jos tämä on valittu, tyhjätilamerkit (eli välilyönnit ja rivinvaihdot) säilytetään, vaikka sitä ei määriteltäisi asiakirjassa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4937,8 +4945,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T063628Z" creationid="piav" creationdate="20190522T085333Z">
-        <seg>Tiivistä tyhjätila käännetyssä dokumentissa</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101314Z" creationid="piav" creationdate="20190522T085333Z">
+        <seg>Tiivistä tyhjätila käännetyssä asiakirjassa</seg>
       </tuv>
     </tu>
     <tu>
@@ -6415,8 +6423,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Do not allow creating translated documents with tag &amp;issues</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190916T130227Z" creationid="piav" creationdate="20190916T130227Z">
-        <seg>Käännettyjä dokumentteja, joissa on tägiongelmia, ei voida luoda</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101347Z" creationid="piav" creationdate="20190916T130227Z">
+        <seg>Käännettyjä asiakirjoja, joissa on tägiongelmia, ei voida luoda</seg>
       </tuv>
     </tu>
     <tu>
@@ -6503,7 +6511,7 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Documentation manager</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083954Z" creationid="PiaVee" creationdate="20171219T083838Z">
+      <tuv lang="FI" changeid="piav" changedate="20191030T101417Z" creationid="PiaVee" creationdate="20171219T083838Z">
         <seg>Dokumentaatiopäällikkö</seg>
       </tuv>
     </tu>
@@ -8754,6 +8762,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T075759Z" creationid="piav" creationdate="20190913T075759Z">
         <seg>HTML ja XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML and XHTML files</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101444Z" creationid="piav" creationdate="20191030T101444Z">
+        <seg>HTML- ja XHTML-tiedostot</seg>
       </tuv>
     </tu>
     <tu>
@@ -14921,8 +14937,8 @@ projektin ilman ryhmäominaisuutta.</seg>
       <tuv lang="EN">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T095947Z" creationid="piav" creationdate="20190913T095947Z">
-        <seg>Poista HTML-kommentit käännetystä dokumentista</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101337Z" creationid="piav" creationdate="20190913T095947Z">
+        <seg>Poista käännetyn asiakirjan HTML-kommentit</seg>
       </tuv>
     </tu>
     <tu>
@@ -19277,8 +19293,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This command will be executed after Creating Translated Documents.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T063255Z" creationid="piav" creationdate="20190522T063255Z">
-        <seg>Tämä komento suoritetaan sen jälkeen kun käännettävät dokumentit on luotu.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101351Z" creationid="piav" creationdate="20190522T063255Z">
+        <seg>Tämä komento suoritetaan sen jälkeen kun käännettävät asiakirjat on luotu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21057,8 +21073,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>Warning: Changing tag order may break the translated document!</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190916T130116Z" creationid="piav" creationdate="20190916T130116Z">
-        <seg>Varoitus: Tägijärjestyksen muuttaminen voi rikkoa käännetyn dokumentin!</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101341Z" creationid="piav" creationdate="20190916T130116Z">
+        <seg>Varoitus: Tägijärjestyksen muuttaminen voi rikkoa käännetyn asiakirjan!</seg>
       </tuv>
     </tu>
     <tu>
