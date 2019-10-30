@@ -13314,6 +13314,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Paragraph segmentation on line breaks, empty lines or never:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T082407Z" creationid="piav" creationdate="20191030T082336Z">
+        <seg>Kappalejako rivinvaihdon tai tyhjän rivin perusteella tai ei koskaan:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T115553Z" creationid="piav" creationdate="20190523T101200Z">
@@ -17831,6 +17839,14 @@ Tekstin korvaus tapahtuu projektin lähtökielisissä segmenteissäriippumatta s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text files</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T082300Z" creationid="piav" creationdate="20191030T082300Z">
+        <seg>Tekstitiedostot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text files segmentation</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T102320Z" creationid="piav" creationdate="20190913T102320Z">
@@ -18030,6 +18046,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T132632Z" creationid="PiaVee" creationdate="20171014T132533Z">
         <seg>Kappaleen &lt;e1&gt;Opi käyttämään OmegaT:tä viidessä minuutissa&lt;/e1&gt; tekijä on Samuel Murray, copyright © 2005–2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The available options are:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T082257Z" creationid="piav" creationdate="20191030T082257Z">
+        <seg>Käytettävissä ovat seuraavat asetukset:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23647,6 +23671,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174327Z" creationid="PiaVee" creationdate="20171014T174327Z">
         <seg>ie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if sentence segmentation rules are active, the text will be segmented further according to the option selected here.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T082541Z" creationid="piav" creationdate="20191030T082448Z">
+        <seg>Jos segmentointi lauseen mukaan on käytössä, teksti segmentoidaan edelleen myös tässä valitun asetuksen mukaisesti.</seg>
       </tuv>
     </tu>
     <tu>
