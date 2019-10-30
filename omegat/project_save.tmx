@@ -4465,8 +4465,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine's security.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T141333Z" creationid="piav" creationdate="20191030T141333Z">
-        <seg>OmegaT ei oletusarvoisesti suorita projektikohtaisissa asetuksissa määritettyjä komentoja (&lt;f1&gt;omegat&lt;/f1&gt;-kansiossa oleva &lt;f0&gt;finder.xml&lt;/f0&gt;-tiedosto), koske ne voivat vaarantaa koneen tietoturvan.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T141421Z" creationid="piav" creationdate="20191030T141333Z">
+        <seg>OmegaT ei oletusarvoisesti suorita projektikohtaisissa asetuksissa määritettyjä komentoja (&lt;f0&gt;finder.xml&lt;/f0&gt;-tiedosto &lt;f1&gt;omegat&lt;/f1&gt;-kansiossa), koske ne voivat vaarantaa koneen suojauksen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7450,6 +7450,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T081536Z" creationid="piav" creationdate="20191022T145831Z">
         <seg>Ottaa käyttöön kirjainkoosta riippumattomat osumat (oletusasetuksena on, että osumat huomioivat kirjainkoon).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enables you to change the order of the commands in the context menu (the right-click menu).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T141652Z" creationid="piav" creationdate="20191030T141533Z">
+        <seg>Tässä kohdassa voit vaihtaa pikavalikon (kakkospainikkeen napsautuksen valikko) komentojen järjestystä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13886,6 +13894,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T111634Z" creationid="piav" creationdate="20191030T111354Z">
         <seg>Merkistökoodaus on pakollinen määre vain tietyissä tiedostomuodoissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only activate this option if you know what you are doing, and only for projects from trusted sources.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T141505Z" creationid="piav" creationdate="20191030T141505Z">
+        <seg>Aktivoi tämä valinta vain, jos tiedät, mitä olet tekemässä ja vain projekteissa, jotka tulevat luotetuista lähteistä.</seg>
       </tuv>
     </tu>
     <tu>
