@@ -13874,6 +13874,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Paragraph segmentation is advantageous in certain cases, such as highly creative or stylistic translations in which the translator may wish to change the order of entire sentences; for the majority of projects, however, sentence segmentation is a choice to be preferred, since it delivers better matches from previous translations.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T123917Z" creationid="piav" creationdate="20191030T123917Z">
+        <seg>Kappaleittainen segmentointi sopii parhaiten erittäin luoviin tai tyylillisiin käännöksiin, joissa kääntäjä haluaa vaihtaa kokonaisten lauseiden järjestystä. Suurimpaan osaan projekteista sopii kuitenkin lause lauseelta tapahtuva segmentointi, sillä se tuottaa parempia osumia aiemmista käännöksistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paragraph segmentation on line breaks, empty lines or never:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T082407Z" creationid="piav" creationdate="20191030T082336Z">
