@@ -3879,6 +3879,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Attempt to convert numbers when inserting a fuzzy match</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T143427Z" creationid="piav" creationdate="20191030T143427Z">
+        <seg>Yritä muuntaa sumean osuman numeroita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Attribute:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T120035Z" creationid="piav" creationdate="20190920T120035Z">
@@ -9961,10 +9969,26 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T143452Z" creationid="piav" creationdate="20191030T143438Z">
+        <seg>Jos tässä valittu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this option is selected, OmegaT will not remember the access key between sessions.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T101901Z" creationid="piav" creationdate="20191029T103348Z">
         <seg>Jos tämä kohta on rastitettu, OmegaT ei talleta salasanaa seuraavaa istuntoa varten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you add a prefix (for instance [fuzzy]), you can trace those translations later to see they are correct.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T143352Z" creationid="piav" creationdate="20191030T143347Z">
+        <seg>Jos lisäät etuliitteen (esimerkiksi [fuzzy]), voit myöhemmin palata näihin kohtiin tarkistamaan, onko käännös oikein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19318,6 +19342,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T150318Z" creationid="piav" creationdate="20190913T111249Z">
         <seg>Merkki x, paitsi seuraavat…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The check boxes in the lower half of the dialog window serve the following purpose:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T143423Z" creationid="piav" creationdate="20191030T143423Z">
+        <seg>Valintaikkunan alaosassa olevat valintaruudut tarkoittavat seuraavaa:</seg>
       </tuv>
     </tu>
     <tu>
