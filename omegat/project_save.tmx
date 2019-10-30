@@ -3441,8 +3441,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>As this is the standard behaviour for PO files, it is selected by default.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T082841Z" creationid="piav" creationdate="20191030T082841Z">
-        <seg>Tämä on PO-tiedostojen oletus</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T083132Z" creationid="piav" creationdate="20191030T082841Z">
+        <seg>Tämä on oletuksena PO-tiedostoissa, joten valinta on oletusarvoisesti rastitettu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17061,8 +17061,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T180511Z" creationid="piav" creationdate="20190521T180511Z">
-        <seg>Määrittele tägien käsittelyn käyttäytyminen</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T082913Z" creationid="piav" creationdate="20190521T180511Z">
+        <seg>Määrittele, miten tägejä käsitellään</seg>
       </tuv>
     </tu>
     <tu>
