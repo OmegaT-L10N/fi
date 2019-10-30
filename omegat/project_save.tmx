@@ -2435,6 +2435,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A script bundled with OmegaT called Switch Colour Themes provides a default "Dark" theme.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T075622Z" creationid="piav" creationdate="20191030T075622Z">
+        <seg>OmegaT:n yhteydessä oleva komentosarja Switch Colour Themes tuottaa oletusarvoisen tumman teeman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T152044Z" creationid="PiaVee" creationdate="20171014T152044Z">
@@ -9205,6 +9213,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T114802Z" creationid="piav" creationdate="20191023T112648Z">
         <seg>Jos käytössäsi on vain perusmuotoinen espanjan sanakirja, voit tehdä kopiot sen tiedostoista es_es.dic ja es_es.aff ja nimetä ne uudelleen tiedostoiksi es_MX.dic ja es_MX.aff. Näin saat käyttöön espanjan oikeinkirjoitussanaston.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T075843Z" creationid="piav" creationdate="20191030T075843Z">
+        <seg>Jos et halua käyttää OmegaT:tä tiettyjen tiedostotyypien kääntämiseen, voit ottaa kyseisen tiedostosuodattimen pois käytöstä poistamalla rastin sen vieressä olevasta ruudusta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18188,6 +18204,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The filters used by the current project are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T075700Z" creationid="piav" creationdate="20191030T075700Z">
+        <seg>Nykyisen projektin käyttämät suodattimet on lihavoitu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061259Z" creationid="piav" creationdate="20191023T061259Z">
@@ -18935,6 +18959,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T115803Z" creationid="piav" creationdate="20191023T115414Z">
         <seg>Valitsemalla &lt;m0&gt; &lt;g1&gt;Asetukset&lt;/g1&gt; &lt;g2&gt;Valinnat…&lt;/g2&gt; &lt;/m0&gt; pääset kohtaan,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog lists the file filters available.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T075640Z" creationid="piav" creationdate="20191030T075634Z">
+        <seg>Tässä valinnassa on lueteltu käytössä olevat tiedostosuodattimet.</seg>
       </tuv>
     </tu>
     <tu>
