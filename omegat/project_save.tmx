@@ -5015,6 +5015,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on &lt;g0&gt;Glossary...&lt;/g0&gt; to configure the Auto-completer Glossary View.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T135530Z" creationid="piav" creationdate="20191030T135412Z">
+        <seg>Napsauta kohtaa &lt;g0&gt;Sanasto…&lt;/g0&gt;, niin pääset määrittelemään Sanaston esikatselu </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191029T102319Z" creationid="piav" creationdate="20191029T102319Z">
@@ -6791,8 +6799,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Do not segment after M. Mr. Mrs. and Ms.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T135209Z" creationid="piav" creationdate="20191030T135004Z">
-        <seg>Älä aloita segmenttiä pisteellisten lyhenteiden maist., maj. ja maks. jälkeen</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T135313Z" creationid="piav" creationdate="20191030T135004Z">
+        <seg>Älä aloita segmenttiä pisteellisten lyhenteiden M., Mr., Mrs. ja Ms. jälkeen</seg>
       </tuv>
     </tu>
     <tu>
@@ -7954,6 +7962,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T130712Z" creationid="piav" creationdate="20191030T130712Z">
         <seg>Poikkeussääntö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exception rule - see the use of ?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T135341Z" creationid="piav" creationdate="20191030T135341Z">
+        <seg>Poikkeussääntö – ks. kuinka merkkiä ? käytetään</seg>
       </tuv>
     </tu>
     <tu>
@@ -12612,8 +12628,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mr??s??\.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T135245Z" creationid="piav" creationdate="20191030T135245Z">
-        <seg>Ma??s??\.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T135315Z" creationid="piav" creationdate="20191030T135245Z">
+        <seg>Mr??s??\.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25023,6 +25039,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174328Z" creationid="PiaVee" creationdate="20171014T174328Z">
         <seg>ile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>in regular expressions</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T135351Z" creationid="piav" creationdate="20191030T135351Z">
+        <seg>säännöllisissä lausekkeissa</seg>
       </tuv>
     </tu>
     <tu>
