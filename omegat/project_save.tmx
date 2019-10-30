@@ -19459,6 +19459,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The content of the files is overwritten either when a new segment is opened (source.txt and target.txt) or when a new selection is exported (selection.txt).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T151540Z" creationid="piav" creationdate="20191030T151540Z">
+        <seg>Tiedostojen sisältö korvataan joko silloin, kun uusi segmentti avataan (uusi teksti tiedostoihin source.txt ja target.txt) tai silloin, kun uusi valinta viedään (uusi teksti tiedostoon selection.txt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The content of the segment source text (&lt;f0&gt;source.txt&lt;/f0&gt;).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T151140Z" creationid="piav" creationdate="20191030T150843Z">
@@ -20178,6 +20186,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T144935Z" creationid="piav" creationdate="20191030T144810Z">
         <seg>Tekstinvientitoiminto vie nykyisen &lt;a0&gt;OmegaT&lt;/a0&gt;-projektin datan vain teksti -tiedostoihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The text highlighted by the user, when &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; is pressed or &lt;g1&gt;Edit &gt; Export Selection&lt;/g1&gt; is selected (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T151345Z" creationid="piav" creationdate="20191030T151328Z">
+        <seg>käyttäjän maalaama teksti, jonka jälkeen on painettu &lt;k0&gt;Ctrl+Vaihto+C&lt;/k0&gt; tai valittu &lt;g1&gt;Muokkaa &gt; Vie valinta&lt;/g1&gt; (&lt;f2&gt;selection.txt&lt;/f2&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25247,6 +25263,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T081658Z" creationid="piav" creationdate="20191022T081658Z">
         <seg>http://www.microsoft.com/Language/en-US/Terminology.aspx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T151347Z" creationid="piav" creationdate="20191030T151347Z">
+        <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
       </tuv>
     </tu>
     <tu>
