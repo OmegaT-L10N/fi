@@ -11394,6 +11394,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool plug-in</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T140219Z" creationid="piav" creationdate="20191030T140219Z">
+        <seg>LanguageTool-laajennus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool plugin</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140940Z" creationid="PiaVee" creationdate="20171014T140940Z">
@@ -13618,6 +13626,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T135218Z" creationid="piav" creationdate="20190920T135218Z">
         <seg>OmegaT salaa arat salasanat ja API-avaimet pääsalasanalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has a built-in spell checker based on the &lt;l0&gt;spelling checker&lt;/l0&gt; used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T140206Z" creationid="piav" creationdate="20191030T140206Z">
+        <seg>OmegaT:n oletuskielentarkistin perustuu Apache OpenOfficessa, LibreOfficessa, Firefoxissa ja Thunderbirdissä käytettyyn &lt;l0&gt;kielentarkistimeen&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17287,6 +17303,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T140456Z" creationid="piav" creationdate="20190916T140456Z">
         <seg>Valitse languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the location of the language checker.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T140229Z" creationid="piav" creationdate="20191030T140229Z">
+        <seg>Valitse kielentarkistimen sijainti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21857,6 +21881,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T101859Z" creationid="PiaVee" creationdate="20171014T101859Z">
         <seg>TaaS-palvelun käyttäminen OmegaT:ssä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using a different language checker on your local machine than the one supplied with OmegaT gives you the option of personalising the verification rules.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T140441Z" creationid="piav" creationdate="20191030T140441Z">
+        <seg>Jos käytät koneellasi muuta kuin OmegaT:n mukana tulevaa kielentarkistinta, voit mukauttaa varmennussääntöjä itsellesi sopiviksi.</seg>
       </tuv>
     </tu>
     <tu>
