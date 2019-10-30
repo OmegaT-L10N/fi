@@ -888,8 +888,8 @@
       <tuv lang="EN">
         <seg>&amp;Preferences...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T115539Z" creationid="PiaVee" creationdate="20171015T123011Z">
-        <seg>Valinnat…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104636Z" creationid="PiaVee" creationdate="20171015T123011Z">
+        <seg>Asetukset…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2173,8 +2173,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T115624Z" creationid="piav" creationdate="20190522T094107Z">
-        <seg>&lt;html&gt;&lt;i&gt;Valinnat&lt;/i&gt; &amp;gt; &lt;i&gt;Yleistä&lt;/i&gt; &amp;gt; &lt;i&gt;Siirry eteenpäin sarkainnäppäimellä&lt;/i&gt; on valittu&lt;/html&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104734Z" creationid="piav" creationdate="20190522T094107Z">
+        <seg>&lt;html&gt;&lt;i&gt;Asetukset&lt;/i&gt; &amp;gt; &lt;i&gt;Yleistä&lt;/i&gt; &amp;gt; &lt;i&gt;Siirry eteenpäin sarkainnäppäimellä&lt;/i&gt; on valittu&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3109,8 +3109,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T115637Z" creationid="piav" creationdate="20190920T135345Z">
-        <seg>Kaikki pääsalasanalla suojatut valinnat nollataan.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104744Z" creationid="piav" creationdate="20190920T135345Z">
+        <seg>Kaikki pääsalasanalla suojatut asetukset nollataan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3801,8 +3801,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Backed up preferences to {0}</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T115557Z" creationid="piav" creationdate="20190523T101354Z">
-        <seg>Valinnat varmuuskopioitu, polku: {0}</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104657Z" creationid="piav" creationdate="20190523T101354Z">
+        <seg>Asetukset varmuuskopioitu, polku: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6407,8 +6407,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T115608Z" creationid="piav" creationdate="20190916T131543Z">
-        <seg>Näyttää lähdesegmentin käännöksen, jonka valitsemasi konekäännöspalvelu on tuottanut. Kohdassa Valinnat &gt; Konekäännös voit valita saatavilla olevista palveluista ne, joita haluat käyttää.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104729Z" creationid="piav" creationdate="20190916T131543Z">
+        <seg>Näyttää lähdesegmentin käännöksen, jonka valitsemasi konekäännöspalvelu on tuottanut. Kohdassa Asetukset &gt; Konekäännös voit valita saatavilla olevista palveluista ne, joita haluat käyttää.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7016,8 +7016,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T115543Z" creationid="PiaVee" creationdate="20171218T092146Z">
-        <seg>Ota ne käyttöön kohdassa &lt;b&gt;Valinnat &gt; Tallentaminen ja tuotos…&lt;/b&gt;.&lt;/html&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104639Z" creationid="PiaVee" creationdate="20171218T092146Z">
+        <seg>Ota ne käyttöön kohdassa &lt;b&gt;Asetukset &gt; Tallentaminen ja tuotos…&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7808,8 +7808,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T115601Z" creationid="piav" creationdate="20190523T101419Z">
-        <seg>Valintatiedoston varmuuskopiointi epäonnistui.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104724Z" creationid="piav" creationdate="20190523T101419Z">
+        <seg>Asetustiedoston varmuuskopiointi epäonnistui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8200,8 +8200,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>For best results, please install the appropriate dictionaries via Preferences &gt; Spell Checking.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T115612Z" creationid="piav" creationdate="20190522T080021Z">
-        <seg>Parhaan lopputuloksen saat asentamalla sopivat sanakirjat kohdassa Valinnat &gt; Oikeinkirjoituksen tarkistus.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104731Z" creationid="piav" creationdate="20190522T080021Z">
+        <seg>Parhaan lopputuloksen saat asentamalla sopivat sanakirjat kohdassa Asetukset &gt; Oikeinkirjoituksen tarkistus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8448,8 +8448,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>General Preferences</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T115657Z" creationid="piav" creationdate="20191023T115337Z">
-        <seg>Yleiset valinnat</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104800Z" creationid="piav" creationdate="20191023T115337Z">
+        <seg>Yleiset asetukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -8688,8 +8688,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Go to Preferences &gt; External Search to enable.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T115640Z" creationid="piav" creationdate="20190920T135501Z">
-        <seg>Ota ne käyttöön kohdassa Valinnat &gt; Ulkoinen haku.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104747Z" creationid="piav" creationdate="20190920T135501Z">
+        <seg>Ota ne käyttöön kohdassa ‹ &gt; Ulkoinen haku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9411,8 +9411,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T114718Z" creationid="piav" creationdate="20191023T114718Z">
-        <seg>Jos olet kääntänyt suuren määrän tekstiä ja huomaat vasta sen jälkeen, että projektin kohdekielen kielikoodi ei vastaa oikeinkirjoituksen tarkistuksen kielikoodia (olet esimerkiksi valinnut kohdekieleksi pt_BR, mutta pt_BR-sanakirjoja ei ole), sinun kannattaa yksinkertaisesti kopioida kaksi sopivaa tiedostoa ja nimetä ne uudelleen (esim. tiedostot &lt;e0&gt;pt_PT.aff&lt;/e0&gt; ja &lt;e1&gt;pt_PT.dic&lt;/e1&gt; muotoon &lt;e2&gt;pt_BR.aff&lt;/e2&gt; ja &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104540Z" creationid="piav" creationdate="20191023T114718Z">
+        <seg>Jos olet jo kääntänyt suuren määrän tekstiä, kun huomaat että projektin kohdekielen kielikoodi ei vastaa oikeinkirjoituksen tarkistuksen kielikoodia (olet esimerkiksi valinnut kohdekieleksi pt_BR, mutta pt_BR-sanakirjoja ei ole), sinun kannattaa yksinkertaisesti kopioida kaksi sopivaa tiedostoa ja nimetä ne uudelleen (esim. tiedostot &lt;e0&gt;pt_PT.aff&lt;/e0&gt; ja &lt;e1&gt;pt_PT.dic&lt;/e1&gt; muotoon &lt;e2&gt;pt_BR.aff&lt;/e2&gt; ja &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13556,8 +13556,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T115553Z" creationid="piav" creationdate="20190523T101200Z">
-        <seg>Virhe valintatiedoston lukemisessa!</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104653Z" creationid="piav" creationdate="20190523T101200Z">
+        <seg>Virhe asetustiedoston lukemisessa!</seg>
       </tuv>
     </tu>
     <tu>
@@ -14071,24 +14071,24 @@ onko sinun tehtävä vielä muuta.</seg>
       <tuv lang="EN">
         <seg>Preferences</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T115629Z" creationid="piav" creationdate="20190920T134730Z">
-        <seg>Valinnat</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104736Z" creationid="piav" creationdate="20190920T134730Z">
+        <seg>Asetukset</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Preferences - {0}</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T115632Z" creationid="piav" creationdate="20190920T134741Z">
-        <seg>Valinnat – {0}</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104738Z" creationid="piav" creationdate="20190920T134741Z">
+        <seg>Asetukset – {0}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T115547Z" creationid="piav" creationdate="20190523T101054Z">
-        <seg>Valintajärjestelmän tallennus epäonnistui!</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104646Z" creationid="piav" creationdate="20190523T101054Z">
+        <seg>Asetusjärjestelmän tallennus epäonnistui!</seg>
       </tuv>
     </tu>
     <tu>
@@ -21739,8 +21739,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       <tuv lang="EN">
         <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T115654Z" creationid="piav" creationdate="20191023T052609Z">
-        <seg>Voit muuttaa jo olemassa olevia pikanäppäimiä sekä lisätä uusia. Sijoita pikänäppäinten kuvaustiedosto &lt;a0&gt;OmegaT&lt;/a0&gt;-valintakansioon (pääset sinne valitsemalla &lt;m1&gt; &lt;g2&gt;Asetukset&lt;/g2&gt; &lt;g3&gt;Mene määrityskansioon&lt;/g3&gt; &lt;/m1&gt;).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104755Z" creationid="piav" creationdate="20191023T052609Z">
+        <seg>Voit muuttaa jo olemassa olevia pikanäppäimiä sekä lisätä uusia. Sijoita pikänäppäinten kuvaustiedosto &lt;a0&gt;OmegaT&lt;/a0&gt;-valintakansioon (pääset sinne valitsemalla &lt;m1&gt; &lt;g2&gt;Valinnat&lt;/g2&gt; &lt;g3&gt;Mene määrityskansioon&lt;/g3&gt; &lt;/m1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
