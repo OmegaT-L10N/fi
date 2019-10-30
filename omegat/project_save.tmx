@@ -8270,6 +8270,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you wish the text filter to handle readme files (&lt;l3&gt;readme, read.me&lt;/l3&gt;, and &lt;l4&gt;readme.txt&lt;/l4&gt;) you should use the pattern &lt;l5&gt;read*&lt;/l5&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T111051Z" creationid="piav" creationdate="20191030T111019Z">
+        <seg>Jos esimerkiksi haluat, että tekstisuodatin käsittelee readme-tiedostoja (&lt;l3&gt;readme, read.me&lt;/l3&gt; sekä &lt;l4&gt;readme.txt&lt;/l4&gt;), käytä muotoa &lt;l5&gt;read*&lt;/l5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061132Z" creationid="piav" creationdate="20191023T060822Z">
@@ -13210,6 +13218,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only a limited number of file formats specify a mandatory encoding.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T111354Z" creationid="piav" creationdate="20191030T111354Z">
+        <seg>Vain tietyt tiedostomuodot vaativat merkistökoodaustietoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only if (X)HTML file has a &amp;header</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T081835Z" creationid="piav" creationdate="20190913T081835Z">
@@ -17167,6 +17183,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T131759Z" creationid="PiaVee" creationdate="20171218T091225Z">
         <seg>Lähdetiedostojen kansio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source and Translated file encoding</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T111123Z" creationid="piav" creationdate="20191030T111104Z">
+        <seg>Lähdetiedoston ja käännetyn tiedoston merkistökoodaukset</seg>
       </tuv>
     </tu>
     <tu>
