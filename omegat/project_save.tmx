@@ -12842,6 +12842,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T080023Z" creationid="piav" creationdate="20191030T075941Z">
+        <seg>Tällöin OmegaT hyppää vastaavien tiedostojen yli projektia ladattaessa ja kopioi ne muuttumattomina kohdekansioon, kun kohdetiedostoja luodaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will try to resegment the TMX file...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T175508Z" creationid="piav" creationdate="20190521T175508Z">
@@ -13084,8 +13092,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Options to set the line length in target documents (0 = no limit)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T173403Z" creationid="piav" creationdate="20190523T173403Z">
-        <seg>Kohdedokumenttien rivipituuden määritys (0 = rajaton)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T080119Z" creationid="piav" creationdate="20190523T173403Z">
+        <seg>Kohdetiedostojen rivipituuden määritys (0 = rajaton)</seg>
       </tuv>
     </tu>
     <tu>
