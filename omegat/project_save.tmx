@@ -19341,8 +19341,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T103332Z" creationid="piav" creationdate="20191030T103110Z">
-        <seg>Tässä valinnassa voit määritellä lähdetiedoston nimeen sisältyvät lausekekuviot, jonka sisältäviä lähdetiedostoja sudatti </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T103622Z" creationid="piav" creationdate="20191030T103110Z">
+        <seg>Tässä valinnassa voit määritellä tiedostonimen lausekekuviot sellaisille lähdetiedostoille, joita suodattimen on käsiteltävä. Voit myös mukauttaa käännettyjen tiedostojen tiedostonimiä ja valita lähdetiedoston lataamisessa ja käännöksen tallentamisessa käytettävät merkistökoodaukset.</seg>
       </tuv>
     </tu>
     <tu>
