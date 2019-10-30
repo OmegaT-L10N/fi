@@ -1891,6 +1891,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T123344Z" creationid="piav" creationdate="20191030T123344Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; segmentoi tekstin joko kappaleittain tai lause lauseelta (tunnetaan myös nimellä "sääntöihin perustuva segmentointi").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T073559Z" creationid="piav" creationdate="20191022T073445Z">
@@ -2267,6 +2275,30 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt; docx</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T123040Z" creationid="piav" creationdate="20191030T123040Z">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt; docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T123042Z" creationid="piav" creationdate="20191030T123042Z">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T123043Z" creationid="piav" creationdate="20191030T123043Z">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T122028Z" creationid="piav" creationdate="20191030T121429Z">
@@ -2287,6 +2319,30 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T122433Z" creationid="piav" creationdate="20191030T122433Z">
         <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; – kohdetiedoston merkistökoodaus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T123037Z" creationid="piav" creationdate="20191030T123037Z">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T123038Z" creationid="piav" creationdate="20191030T123038Z">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T123039Z" creationid="piav" creationdate="20191030T123039Z">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
       </tuv>
     </tu>
     <tu>
@@ -9426,6 +9482,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T070034Z" creationid="piav" creationdate="20190522T070034Z">
         <seg>Kun tämä on valittuna, termit näytetään pisimmästä lyhimpään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If for example the original file is named Document.xx.docx, the following variables will give the following results:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T123033Z" creationid="piav" creationdate="20191030T123033Z">
+        <seg>Jos esimerkiksi alkuperäisen tiedoston nimi on Document.xx.docx, seuraavilla muuttujilla saadaan seuraavanlaiset lopputulokset:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20403,6 +20467,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T120738Z" creationid="piav" creationdate="20190920T120738Z">
         <seg>Käännösmuistikansiota {0} ei ole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memory tools work with textual units called segments.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T123147Z" creationid="piav" creationdate="20191030T123147Z">
+        <seg>Käännösmuistityökaluissa työstettäviä tekstiyksikköjä kutsutaan segmenteiksi.</seg>
       </tuv>
     </tu>
     <tu>
