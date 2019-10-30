@@ -4513,8 +4513,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191029T181318Z" creationid="piav" creationdate="20191029T181318Z">
-        <seg>Älä valinta rastittamatta</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T074733Z" creationid="piav" creationdate="20191029T181318Z">
+        <seg>Jätä tämä valinta rastittamatta, niin haku ei tapahdu automaattisesti – hyödyllistä esim. silloin, kun sanakirjat ovat liian suuria.</seg>
       </tuv>
     </tu>
     <tu>
