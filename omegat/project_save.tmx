@@ -2043,10 +2043,18 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: any text matching the regular expression is skipped.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T095025Z" creationid="piav" creationdate="20191030T094941Z">
+        <seg>&lt;e0&gt;Ohita teksti, joka vastaa säännöllistä lauseketta&lt;/e0&gt;: Kaikki tekstit, jotka vastaavat säännöllistä lauseketta, ohitetaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Start a new paragraph on&lt;/e0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T094742Z" creationid="piav" creationdate="20191030T094720Z">
-        <seg>&lt;e0&gt;Merkki, joka aloittaa uuden kappaleen:&lt;/e0&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T094929Z" creationid="piav" creationdate="20191030T094720Z">
+        <seg>&lt;e0&gt;Merkki, joka aloittaa uuden kappaleen&lt;/e0&gt;: Segmentoinnissa HTML-tägiä &lt;br&gt; käytetään kappaleen vaihdon merkkinä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10041,6 +10049,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is shown in red in the tag validator.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T095121Z" creationid="piav" creationdate="20191030T095121Z">
+        <seg>Tägien tarkistuksessa se on kirjoitettu punaisella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is simpler, however, to look for dictionaries online, using the &lt;e0&gt;URL of online dictionaries&lt;/e0&gt; field:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T111635Z" creationid="piav" creationdate="20191023T111635Z">
@@ -16733,8 +16749,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Skip text matching regular expression:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T081851Z" creationid="piav" creationdate="20190913T081851Z">
-        <seg>Ohita teksti, jokas vastaa säännöllistä lauseketta:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T094948Z" creationid="piav" creationdate="20190913T081851Z">
+        <seg>Ohita teksti, joka vastaa säännöllistä lauseketta:</seg>
       </tuv>
     </tu>
     <tu>
