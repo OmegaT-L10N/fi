@@ -2003,6 +2003,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T102353Z" creationid="piav" creationdate="20191030T102353Z">
+        <seg>&lt;e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Delete: &lt;/e0&gt;nothing</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T130057Z" creationid="PiaVee" creationdate="20171218T130057Z">
@@ -8234,6 +8242,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T152918Z" creationid="piav" creationdate="20191022T152918Z">
         <seg>Esimerkiksi tämä on kenoviiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will ensure that this information is included in the translated files.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T102340Z" creationid="piav" creationdate="20191030T102340Z">
+        <seg>Esimerkiksi kun tiedostosuodatin määrittelee, että kohdetiedostojen merkistökoodaus on UTF8, ja valitset vaihtoehdon "Aina", tieto merkistökoodauksesta on mukana käännetyissä tiedostoissa.</seg>
       </tuv>
     </tu>
     <tu>
