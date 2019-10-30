@@ -3195,6 +3195,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After segmenting the source file into structural units, &lt;a0&gt;OmegaT&lt;/a0&gt; will segment these blocks further into sentences.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T125730Z" creationid="piav" creationdate="20191030T125730Z">
+        <seg>Kun lähdetiedosto on segmentoitu rakenteellisiksi yksiköiksi, &lt;a0&gt;OmegaT&lt;/a0&gt; segmentoi ne edelleen lauseiksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T141415Z" creationid="piav" creationdate="20190916T141415Z">
@@ -3779,6 +3787,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173523Z" creationid="PiaVee" creationdate="20171014T173518Z">
         <seg>assami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T130118Z" creationid="piav" creationdate="20191030T130118Z">
+        <seg>Jokaisessa kursorin kohdassa käytetään sääntöjä, jotka koostuvat &lt;e0&gt;Ennen-&lt;/e0&gt; ja &lt;e1&gt;Jälkeen&lt;/e1&gt;-muodoista. Sääntöjä käytetään niiden esiintymisjärjestyksessä: ohjelma tarkistaa, vastaavatko &lt;e2&gt;Ennen&lt;/e2&gt;-muodot kursorin vasemmalla puolella olevaa tekstiä ja vastaavatko &lt;e3&gt;Jälkeen&lt;/e3&gt;-muodot kursorin oikealla puolella olevaa tekstiä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16731,6 +16747,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segmentation rules</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T125735Z" creationid="piav" creationdate="20191030T125735Z">
+        <seg>Segmentointisäännöt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segmentation rules are applied in the following order:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T110050Z" creationid="piav" creationdate="20190913T110050Z">
@@ -17007,6 +17031,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T114259Z" creationid="piav" creationdate="20190920T114259Z">
         <seg>Valittu engine: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sentence level segmentation</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T125651Z" creationid="piav" creationdate="20191030T125651Z">
+        <seg>Lausetason segmentointi</seg>
       </tuv>
     </tu>
     <tu>
@@ -19314,6 +19346,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191029T101020Z" creationid="piav" creationdate="20191029T101020Z">
         <seg>&lt;u0&gt;Täällä&lt;/u0&gt; kuvataan, miten Microsoft Translator- tai Google Translate -palvelun asetukset määritellään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T125825Z" creationid="piav" creationdate="20191030T125825Z">
+        <seg>Segmentointiprosessissa kursorin voi ajatella liikkuvan pitkin tekstiä, yksi merkki kerrallaan.</seg>
       </tuv>
     </tu>
     <tu>
