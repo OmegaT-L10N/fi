@@ -2043,10 +2043,26 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Start a new paragraph on&lt;/e0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T094742Z" creationid="piav" creationdate="20191030T094720Z">
+        <seg>&lt;e0&gt;Merkki, joka aloittaa uuden kappaleen:&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;TaaS Terminology Lookup&lt;/e0&gt;: when checked, will allow querying TaaS data on a segment by segment basis.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T115327Z" creationid="PiaVee" creationdate="20171014T114649Z">
         <seg>&lt;e0&gt;TaaS-terminologiahaku&lt;/e0&gt; hakee termejä TaaS-datasta segmentti segmentiltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Translate the following attributes&lt;/e0&gt;: the selected attributes will appear as segments in the Editor window.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T094706Z" creationid="piav" creationdate="20191030T094706Z">
+        <seg>&lt;e0&gt;Käännä seuraavat attribuutit&lt;/e0&gt;: Valitut attribuutit näkyvät segmentteinä muokkausruudussa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19268,6 +19284,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T094620Z" creationid="piav" creationdate="20191030T094620Z">
+        <seg>Tämä valinta antaa OmegaT:n ohittaa PO-otsakkeessa olevan määrityksen ja käyttää valitun kohdekielen oletusasetusta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This option is useful for some Chinese, Japanese or Korean character input systems.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T120222Z" creationid="piav" creationdate="20191023T120222Z">
@@ -21325,6 +21349,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T100957Z" creationid="piav" creationdate="20190913T100957Z">
         <seg>XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML Files</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T094627Z" creationid="piav" creationdate="20191030T094627Z">
+        <seg>XHTML-tiedostot</seg>
       </tuv>
     </tu>
     <tu>
