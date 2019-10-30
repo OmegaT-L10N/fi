@@ -10081,6 +10081,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is sometimes useful to be able make certain tags untranslatable based on the values of their attributes.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T100037Z" creationid="piav" creationdate="20191030T100037Z">
+        <seg>Joskus tekstissä on tägejä, joita ei saa kääntää. On hyödyllistä pystyä merkitsemään tällaiset tägit niiden attribuuttien perusteella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is used to mark your translations.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T110158Z" creationid="piav" creationdate="20190913T110158Z">
