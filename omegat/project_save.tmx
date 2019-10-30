@@ -8280,8 +8280,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T111929Z" creationid="piav" creationdate="20191030T111929Z">
-        <seg>Esimerkiksi oletusasetuksena on, että &lt;l0&gt;.txt&lt;/l0&gt;-tiedostoissa käytetään käyttöjärjestelmän oletuksena olevaa merkistökoodausta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T120418Z" creationid="piav" creationdate="20191030T111929Z">
+        <seg>Esimerkiksi oletusasetuksena on, että &lt;l0&gt;.txt&lt;/l0&gt;-tiedostoissa käytetään käyttöjärjestelmän oletuskoodausta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13102,6 +13102,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T120332Z" creationid="piav" creationdate="20191030T120207Z">
+        <seg>Tietyt tiedostomuodot käyttävät pakollista merkistökoodausta, ja OmegaT käyttää tätä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is refused access to the system property containing
 the name of your OS and/or the system property containing
 your home folder.</seg>
@@ -13148,6 +13156,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T081040Z" creationid="PiaVee" creationdate="20171015T095118Z">
         <seg>OmegaT:n käytettävissä oleva muisti on täysi. Paina OK, niin ohjelma sulkeutuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses the default encoding of the operating system for text files.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T120428Z" creationid="piav" creationdate="20191030T120406Z">
+        <seg>Tekstitiedostojen merkistökoodauksena OmegaT käyttää käyttöjärjestelmän oletuskoodausta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17115,6 +17131,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sometimes you may wish to rename the files you translate automatically, for example adding a language code after the file name.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T120525Z" creationid="piav" creationdate="20191030T120525Z">
+        <seg>Kääntämäsi tiedostot nimetään automaattisesti, mutta toisinaan esimerksiksi lisäämällä kieli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sorry</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124842Z" creationid="PiaVee" creationdate="20170908T124842Z">
@@ -20107,6 +20131,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T171619Z" creationid="piav" creationdate="20190523T171619Z">
         <seg>Käännetyn tiedoston polku ei voi olla sama kuin lähdetiedoston polku: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated filename</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T120433Z" creationid="piav" creationdate="20191030T120433Z">
+        <seg>Käännetty tiedoston nimi</seg>
       </tuv>
     </tu>
     <tu>
