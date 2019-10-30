@@ -4231,6 +4231,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Break rule</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T130406Z" creationid="piav" creationdate="20191030T130406Z">
+        <seg>Katkaisusääntö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Break/Exception</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T101150Z" creationid="piav" creationdate="20190913T101150Z">
@@ -8502,6 +8510,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, "&lt;e0&gt;Did it make sense?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T130442Z" creationid="piav" creationdate="20191030T130442Z">
+        <seg>Esimerkiksi "&lt;e0&gt;Oliko siinä järjeä?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T155234Z" creationid="piav" creationdate="20191022T155046Z">
@@ -9394,6 +9410,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T134724Z" creationid="piav" creationdate="20190920T134724Z">
         <seg>Ymmärrän, tee se silti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I was not sure&lt;/e0&gt;." should be split into two segments.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T130515Z" creationid="piav" creationdate="20191030T130515Z">
+        <seg>En ollut varma&lt;/e0&gt;." pitäisi jakaa kahdeksi segmentiksi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17051,6 +17075,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Separates the source text into segments.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T130423Z" creationid="piav" creationdate="20191030T130423Z">
+        <seg>Jakaa lähdetekstin segmenteiksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sequence Library (Sequence Library License)</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T185031Z" creationid="piav" creationdate="20190527T185031Z">
@@ -19634,6 +19666,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T063851Z" creationid="piav" creationdate="20190522T063851Z">
         <seg>Käännös on muuttunut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The two types of rules behave as follows:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T130350Z" creationid="piav" creationdate="20191030T130350Z">
+        <seg>Nämä kaksi sääntöä toimivat seuraavasti:</seg>
       </tuv>
     </tu>
     <tu>
