@@ -18894,6 +18894,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The same dialog is used to add a pattern or to edit a particular pattern.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T103826Z" creationid="piav" creationdate="20191030T103826Z">
+        <seg>Samassa valintaruudussa voit lisätä lausekekuvion tai muokata tiettyä lausekekuviota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The script "{0}" is running...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T110547Z" creationid="piav" creationdate="20190913T110547Z">
@@ -19588,6 +19596,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T103747Z" creationid="piav" creationdate="20191030T103747Z">
+        <seg>Lisää uusi tiedostonimen muoto napsauttamalla &lt;e1&gt;Lisää&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To be sure that no translation will be lost, you need to:
 1.</seg>
       </tuv>
@@ -19666,6 +19682,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T101530Z" creationid="PiaVee" creationdate="20171014T101256Z">
         <seg>Etsi ja korvaa -toiminto hakee tekstiä ainoastaan jo muodostuneesta käännösmuistista, joten OmegaT kopioi lähdesegmentin kohdesegmenttiin ennen tekstin korvaamista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T103729Z" creationid="piav" creationdate="20191030T103729Z">
+        <seg>Muokkaa tiedostonimen lausekekuviota joko kirjoittamalla suoraan eri kenttiin tai napsauttamalla &lt;e0&gt;Muokkaa&lt;/e0&gt;-painiketta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21812,8 +21836,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       <tuv lang="EN">
         <seg>You define its location and name in the project properties dialog.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T072026Z" creationid="piav" creationdate="20191022T071927Z">
-        <seg>Voit määritellä sanaston sijainnin ja nimen Projektin ominaisuudet -valinnassa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T103901Z" creationid="piav" creationdate="20191022T071927Z">
+        <seg>Voit määritellä sanaston sijainnin ja nimen Projektin ominaisuudet -valintaikkunassa.</seg>
       </tuv>
     </tu>
     <tu>
