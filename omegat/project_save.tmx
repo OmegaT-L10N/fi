@@ -1949,8 +1949,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T101455Z" creationid="piav" creationdate="20191030T101455Z">
-        <seg>&lt;e0&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101536Z" creationid="piav" creationdate="20191030T101455Z">
+        <seg>&lt;e0&gt;Lisää tai kirjoita HTML- ja XHTML-tiedostoihin maininta merkistökoodauksesta&lt;/e0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2917,8 +2917,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190913T085132Z" creationid="piav" creationdate="20190913T081418Z">
-        <seg>Lisää tai kirjoita HTML- ja XHTML maininta merkistökoodauksesta:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101549Z" creationid="piav" creationdate="20190913T081418Z">
+        <seg>Lisää tai kirjoita HTML- ja XHTML-tiedostoihin maininta merkistökoodauksesta:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19301,8 +19301,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T115803Z" creationid="piav" creationdate="20191023T115414Z">
-        <seg>Valitsemalla &lt;m0&gt; &lt;g1&gt;Asetukset&lt;/g1&gt; &lt;g2&gt;Valinnat…&lt;/g2&gt; &lt;/m0&gt; pääset kohtaan,</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101815Z" creationid="piav" creationdate="20191023T115414Z">
+        <seg>Valitsemalla &lt;m0&gt; &lt;g1&gt;Asetukset&lt;/g1&gt; pääset kohtaan &lt;g2&gt;Valinnat…&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20841,6 +20841,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T113041Z" creationid="piav" creationdate="20191023T113041Z">
         <seg>Oikeinkirjoitussanastojen käyttö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using this option, the translator can specify whether the target files should have the encoding declaration included.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T101639Z" creationid="piav" creationdate="20191030T101639Z">
+        <seg>Tämän asetuksen avulla voit määritellä </seg>
       </tuv>
     </tu>
     <tu>
