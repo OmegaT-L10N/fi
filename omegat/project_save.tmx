@@ -3489,8 +3489,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T065402Z" creationid="piav" creationdate="20190523T172019Z">
-        <seg>Korvaa otsakkeen 'nplurals=INTEGER; plural=EXPRESSION;' automaattisesti</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T094426Z" creationid="piav" creationdate="20190523T172019Z">
+        <seg>Korvaa otsakkeen kohta 'nplurals=INTEGER; plural=EXPRESSION;' automaattisesti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto replace 'nplurals=INTEGER; plural=EXPRESSION;' in header</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T094439Z" creationid="piav" creationdate="20191030T094417Z">
+        <seg>Korvaa otsakkeen kohta 'nplurals=INTEGER; plural=EXPRESSION;' automaattisesti</seg>
       </tuv>
     </tu>
     <tu>
@@ -18044,6 +18052,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T172451Z" creationid="piav" creationdate="20190521T175848Z">
         <seg>PO-suodatin aiheutti poikkeuksen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The PO header will be skipped and left unchanged if this option is checked.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T094406Z" creationid="piav" creationdate="20191030T094406Z">
+        <seg>Jos tämä valinta on rastitettu, PO-otsaketta ei muuteta vaan se ohitetaan.</seg>
       </tuv>
     </tu>
     <tu>
