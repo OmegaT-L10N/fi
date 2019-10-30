@@ -16341,8 +16341,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Select</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T101718Z" creationid="PiaVee" creationdate="20171015T094344Z">
-        <seg>Valinnat</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T104303Z" creationid="PiaVee" creationdate="20171015T094344Z">
+        <seg>Valitse</seg>
       </tuv>
     </tu>
     <tu>
