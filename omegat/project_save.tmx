@@ -8158,6 +8158,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Export the segment to text files</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T144736Z" creationid="piav" creationdate="20191030T144736Z">
+        <seg>Vie segmentti tekstitiedostoihin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Lin&amp;ks</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T171640Z" creationid="piav" creationdate="20190527T171640Z">
@@ -9176,8 +9184,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T080643Z" creationid="piav" creationdate="20191022T080516Z">
-        <seg>Sanastotiedostot ovat yksinkertaisia pelkkiä tekstitiedostoja. Niissä on kolme saraketta, jotka on erotettu toisistaan sarkaimilla. Ensimmäisessä sarakkeessa on lähtökielinen ja toisessa kohdekielinen termi.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T144901Z" creationid="piav" creationdate="20191022T080516Z">
+        <seg>Sanastotiedostot ovat yksinkertaisia vain teksti -tiedostoja. Niissä on kolme saraketta, jotka on erotettu toisistaan sarkaimilla. Ensimmäisessä sarakkeessa on lähtökielinen ja toisessa kohdekielinen termi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10211,8 +10219,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In addition to the plain text format, TBX format is also supported as a read-only glossary format.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T081533Z" creationid="piav" creationdate="20191022T081533Z">
-        <seg>Vain lukukelpoisen sanastotiedoston muodoksi sopii termitiedostomuoto TBX.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T144921Z" creationid="piav" creationdate="20191022T081533Z">
+        <seg>Vain lukukelpoisen sanastotiedoston muodoksi sopii vain teksti -muoto sekä termitiedostomuoto TBX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19492,6 +19500,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The data are exported when the segment is opened.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T144947Z" creationid="piav" creationdate="20191030T144947Z">
+        <seg>Data viedään, kun segmentti avataan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The default OmegaT shortcuts are available from Sourceforge: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T060932Z" creationid="piav" creationdate="20191023T060824Z">
@@ -19608,6 +19624,14 @@ instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T072604Z" creationid="piav" creationdate="20191022T072604Z">
         <seg>Kun asetat sanastotiedostokansiota, erillistä sanastotiedostoa ei vielä tarvita. Tiedosto luodaan (tarvittaessa) automaattisesti, kun lisäät sanastoon uuden termin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T145045Z" creationid="piav" creationdate="20191030T145045Z">
+        <seg>Tiedostot ovat OmegaT:n käyttä</seg>
       </tuv>
     </tu>
     <tu>
@@ -20130,6 +20154,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190919T131953Z" creationid="piav" creationdate="20190919T131953Z">
         <seg>Tekstin kääntäminen ei onnistunut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The text export function exports data from within the current &lt;a0&gt;OmegaT&lt;/a0&gt; project to plain text files.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T144935Z" creationid="piav" creationdate="20191030T144810Z">
+        <seg>Tekstinvientitoiminto vie nykyisen &lt;a0&gt;OmegaT&lt;/a0&gt;-projektin datan vain teksti -tiedostoihin.</seg>
       </tuv>
     </tu>
     <tu>
