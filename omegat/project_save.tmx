@@ -1907,6 +1907,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;auto&gt; leaves the choice of encoding to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T112507Z" creationid="piav" creationdate="20191030T112507Z">
+        <seg>Valinta &lt;auto&gt; jättää merkistökoodauksen valinnan &lt;a1&gt;OmegaT&lt;/a1&gt;:n tehtäväksi.&lt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;br&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T134147Z" creationid="piav" creationdate="20190920T134147Z">
@@ -19560,6 +19568,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T152611Z" creationid="PiaVee" creationdate="20171014T152611Z">
         <seg>Tästä on erityisen paljon hyötyä sellaisissa kielissä, joissa sanavartaloon liitetään etu- ja jälkiliitteitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is how it works:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T112515Z" creationid="piav" creationdate="20191030T112515Z">
+        <seg>Se toimii näin:</seg>
       </tuv>
     </tu>
     <tu>
