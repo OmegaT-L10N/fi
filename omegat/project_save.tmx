@@ -6888,8 +6888,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T150242Z" creationid="piav" creationdate="20191022T145831Z">
-        <seg>Ottaa käyttöön kirjainkoosta riippumattomat osumat (oletusarvona on, että osumat huomioivat kirjainkoon).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T081536Z" creationid="piav" creationdate="20191022T145831Z">
+        <seg>Ottaa käyttöön kirjainkoosta riippumattomat osumat (oletusasetuksena on, että osumat huomioivat kirjainkoon).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9285,6 +9285,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T135316Z" creationid="piav" creationdate="20190916T135316Z">
         <seg>Jätä kaikki huomiotta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T081708Z" creationid="piav" creationdate="20191030T081511Z">
+        <seg>Älä huomioi tiedostokontekstia, kun tunnistetaan vaihtoehtoisten käännösten segmenttejä: OmegaT:n oletusasetuksena on, että lähdetiedoston nimi on osa vaihtoehtoisen käännöksen tunnistamista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13845,6 +13853,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T081441Z" creationid="piav" creationdate="20191030T081441Z">
+        <seg>Jätä kaikkien tägien välilyönnit: Rastita tämä valinta, jos lähdetiedostoissa käytetään välilyöntejä, jotka ovat tärkeitä tiedoston ulkonäölle ja jotka on huomioitava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
       </tuv>
@@ -14793,8 +14809,8 @@ projektin ilman ryhmäominaisuutta.</seg>
       <tuv lang="EN">
         <seg>Remove leading and trailing whitespace in non-segmented projects: by default, OmegaT removes leading and trailing whitespace.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T081155Z" creationid="piav" creationdate="20191030T081155Z">
-        <seg>Poista alussa ja lopussa olevat tyhjätilamerkit projekteista, joita ei ole jaettu segmentteihin: OmegaT:n oletusarvona on, että alussa ja lopussa olevat tyhjätilamerkit poistetaan.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T081551Z" creationid="piav" creationdate="20191030T081155Z">
+        <seg>Poista alussa ja lopussa olevat tyhjätilamerkit projekteista, joita ei ole jaettu segmentteihin: OmegaT:n oletusasetuksena on, että alussa ja lopussa olevat tyhjätilamerkit poistetaan.</seg>
       </tuv>
     </tu>
     <tu>
