@@ -6789,6 +6789,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not segment after Mr.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T134751Z" creationid="piav" creationdate="20191030T134751Z">
+        <seg>Älä aloita segmenttiä lyhenteen maist. jälkeen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T082721Z" creationid="piav" creationdate="20190913T082516Z">
@@ -12594,6 +12602,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mr\.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T134756Z" creationid="piav" creationdate="20191030T134756Z">
+        <seg>maist\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Multiple Translations</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190919T132255Z" creationid="piav" creationdate="20190919T132255Z">
@@ -13106,6 +13122,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T115333Z" creationid="piav" creationdate="20191023T115110Z">
         <seg>Huomaa, että &lt;f0&gt;Poista&lt;/f0&gt; poistaa kaikki valitut sanakirjat fyysisesti koneelta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that &lt;l0&gt;after&lt;/l0&gt; is empty</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T134944Z" creationid="piav" creationdate="20191030T134944Z">
+        <seg>Huomaa, että pisteen &lt;l0&gt;jälkeen&lt;/l0&gt; on tyhjää.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17331,6 +17355,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set a segment after "。" (Japanese period)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T134903Z" creationid="piav" creationdate="20191030T134903Z">
+        <seg>Aloita segmentti merkkien"。" (japanin kielen piste) jälkeen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set empty translation</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103807Z" creationid="PiaVee" creationdate="20171015T103807Z">
@@ -20087,6 +20119,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T125926Z" creationid="piav" creationdate="20190920T125926Z">
         <seg>Tämä URL vaikuttaa virheelliseltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This an exception rule, so the rule check box must not be ticked</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T134818Z" creationid="piav" creationdate="20191030T134818Z">
+        <seg>Tämä on poikkeussääntö, joten säännön valintaruutuun ei saa laittaa rastia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27913,6 +27953,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T132405Z" creationid="piav" creationdate="20190920T132405Z">
         <seg>▼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>。</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T134905Z" creationid="piav" creationdate="20191030T134905Z">
+        <seg>。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
