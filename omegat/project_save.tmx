@@ -6261,6 +6261,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T124311Z" creationid="piav" creationdate="20191030T124311Z">
+        <seg>Luotettavia segmentointisääntöjä on monilla kielillä, joten et todennäköisesti joudu kirjoittamaan omia segmentointisääntöjä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Description</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081804Z" creationid="piav" creationdate="20190522T081804Z">
@@ -9571,8 +9579,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Segmentation...&lt;/g6&gt; &lt;/m4&gt;from the main menu.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T124057Z" creationid="piav" creationdate="20191030T123927Z">
-        <seg>Voit muokata lauseittaisen segmentoinnin sääntöjä valitsemalla pääalikosta kohdan &lt;m4&gt; &lt;g5&gt; on valittu, otta</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T124146Z" creationid="piav" creationdate="20191030T123927Z">
+        <seg>Voit muokata lauseittaisen segmentoinnin sääntöjä valitsemalla päävalikosta kohdan &lt;m4&gt; &lt;g5&gt;Valinnat&lt;/g5&gt; &lt;g6&gt;Segmentointi…&lt;/g6&gt; &lt;/m4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13454,6 +13462,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T055951Z" creationid="piav" creationdate="20191023T055312Z">
         <seg>Mac-koneissa on painettava &lt;e0&gt;Komento (cmd) ⌘&lt;/e0&gt; -näppäintä&lt;e1&gt; toimintonäppäimen&lt;/e1&gt; kanssa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the other hand this functionality can be very useful in special cases, where you can increase your productivity by tuning the segmentation rules to the text to be translated.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T124503Z" creationid="piav" creationdate="20191030T124503Z">
+        <seg>Tietyissä tapauksissa taas tämä toiminto on erittäin hyödyllinen, ja voit parantaa tuottavuuttasi tuunaamalla segmentointisääntöjä käännettävään tekstiin sopiviksi.</seg>
       </tuv>
     </tu>
     <tu>
