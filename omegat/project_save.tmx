@@ -10497,6 +10497,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert the source text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T141859Z" creationid="piav" creationdate="20191030T141859Z">
+        <seg>Lisää lähtöteksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Install</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T140912Z" creationid="piav" creationdate="20190916T140912Z">
@@ -21997,6 +22005,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Values around 100 display commands at the top, and values around 900 display them at the bottom.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T141834Z" creationid="piav" creationdate="20191030T141834Z">
+        <seg>Komennot, joiden arvo on noin 100, näkyvät yläosassa, ja komennot, joiden arvo noin 900, näkyvät alaosassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Variant skipped.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T140706Z" creationid="piav" creationdate="20190523T140551Z">
@@ -22842,6 +22858,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can have the source text inserted automatically into the editing field.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T141935Z" creationid="piav" creationdate="20191030T141935Z">
+        <seg>Voit saada lähdekielisen tekstin automaattisesti muokkauskenttään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can select which elements are to be translated.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T102746Z" creationid="piav" creationdate="20191030T100151Z">
@@ -22958,6 +22982,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T134405Z" creationid="piav" creationdate="20190920T134405Z">
         <seg>Joka kerta, kun käynnistät OmegaT-ohjelman, sinulta kysytään tätä salasanaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will need to restart OmegaT for this change to take effect.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T141850Z" creationid="piav" creationdate="20191030T141850Z">
+        <seg>OmegaT on käynnistettävä uudelleen, jotta muutos tulee voimaan.</seg>
       </tuv>
     </tu>
     <tu>
