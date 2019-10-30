@@ -15073,6 +15073,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Restores the components of the main OmegaT window to their default state.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T074837Z" creationid="piav" creationdate="20191030T074837Z">
+        <seg>Palauttaa OmegaT-pääikkunan oletusmuotoonsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Result:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190919T132813Z" creationid="piav" creationdate="20190919T132813Z">
@@ -16191,6 +16199,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T140456Z" creationid="piav" creationdate="20190916T140456Z">
         <seg>Valitse languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select this option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T074756Z" creationid="piav" creationdate="20191030T074756Z">
+        <seg>Rastita tämä valinta, jos haluat, että sanakirjoissa näkyy vartaloltaan samoja sanoja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20237,6 +20253,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T074737Z" creationid="piav" creationdate="20191030T074737Z">
+        <seg>Käytä sanakirjatietueiden sumeita osumia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use glossary</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092651Z" creationid="PiaVee" creationdate="20171014T092651Z">
@@ -20273,6 +20297,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T082822Z" creationid="PiaVee" creationdate="20170910T082822Z">
         <seg>Käytä OmegaT-asennuksen kieltä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use this feature when you have undocked, moved or hidden one or more components and you are unable to restore the desired arrangement.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T074946Z" creationid="piav" creationdate="20191030T074843Z">
+        <seg>Käytä tätä toimintoa, kun olet irrottanut, siirtänyt tai piilottanut yhden tai useampia osia, etkä pysty palauttamaan toivottua asettelua.</seg>
       </tuv>
     </tu>
     <tu>
