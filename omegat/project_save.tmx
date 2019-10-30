@@ -70,6 +70,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"\." stands for the period character.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T134543Z" creationid="piav" creationdate="20191030T134543Z">
+        <seg>"\." tarkoittaa pisteen merkkiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"\s" means any white space character (space, tab, new page etc.)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T134723Z" creationid="piav" creationdate="20191030T134603Z">
+        <seg>"\s" tarkoittaa mitä tahansa tyhjätilamerkkiä (välilyönti, sarkainmerkki, sivunvaihto jne.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>#Files</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090042Z" creationid="PiaVee" creationdate="20171218T090042Z">
@@ -2691,10 +2707,18 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A few simple examples</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T134410Z" creationid="piav" creationdate="20191030T134410Z">
+        <seg>Pari yksinkertaista esimerkkiä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A good starting point will always be the existing rules.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T134313Z" creationid="piav" creationdate="20191030T134313Z">
-        <seg>Olemassa olevat säännöt ovat aina hyvä </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191030T134359Z" creationid="piav" creationdate="20191030T134313Z">
+        <seg>Kannattaa aina aloittaa jo olemassa olevista säännöistä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3199,6 +3223,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T162212Z" creationid="PiaVee" creationdate="20171014T162212Z">
         <seg>afrikaans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T134415Z" creationid="piav" creationdate="20191030T134415Z">
+        <seg>Jälkeen</seg>
       </tuv>
     </tu>
     <tu>
@@ -4163,6 +4195,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T160839Z" creationid="PiaVee" creationdate="20171014T160839Z">
         <seg>Käsittele näitä samoin kuin OmegaT:n omia tägejä (vaikkakaan OmegaT:n täginkäsittelytoiminnot, esimerkiksi tägien validointi, eivät tässä tapauksessa ole käytössä).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T134413Z" creationid="piav" creationdate="20191030T134413Z">
+        <seg>Ennen</seg>
       </tuv>
     </tu>
     <tu>
@@ -10429,6 +10469,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T083945Z" creationid="PiaVee" creationdate="20171219T083919Z">
         <seg>Integrointipäällikkö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Intention</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T134412Z" creationid="piav" creationdate="20191030T134412Z">
+        <seg>Tarkoitus</seg>
       </tuv>
     </tu>
     <tu>
@@ -17287,6 +17335,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T103807Z" creationid="PiaVee" creationdate="20171015T103807Z">
         <seg>Aseta tyhjä käännös</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set the segment start after a period ('.') followed by a space, tab ...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T134527Z" creationid="piav" creationdate="20191030T134521Z">
+        <seg>Uusi segmentti alkaa, kun pisteen ('.') jälkeen tulee välilyönti, sarkainmerkki,…</seg>
       </tuv>
     </tu>
     <tu>
