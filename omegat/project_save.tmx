@@ -4463,6 +4463,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine's security.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191030T141333Z" creationid="piav" creationdate="20191030T141333Z">
+        <seg>OmegaT ei oletusarvoisesti suorita projektikohtaisissa asetuksissa määritettyjä komentoja (&lt;f1&gt;omegat&lt;/f1&gt;-kansiossa oleva &lt;f0&gt;finder.xml&lt;/f0&gt;-tiedosto), koske ne voivat vaarantaa koneen tietoturvan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T112306Z" creationid="piav" creationdate="20191030T112152Z">
