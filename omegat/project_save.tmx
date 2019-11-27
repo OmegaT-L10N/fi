@@ -11297,6 +11297,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can also be used in all the input fields found in &lt;a7&gt;OmegaT&lt;/a7&gt; - in the search window, for segmentation rules etc.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T124640Z" creationid="piav" creationdate="20191127T124640Z">
+        <seg>Näppäinyhdistelmää voidaan käyttää kaikissa &lt;a7&gt;OmegaT&lt;/a7&gt;-ikkunoissa, joissa voi syöttää tekstiä: hakuikkunassa, segmentointisääntöjen ikkunassa jne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T075121Z" creationid="piav" creationdate="20191030T075006Z">
@@ -12438,6 +12446,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T181312Z" creationid="PiaVee" creationdate="20171014T174652Z">
         <seg>luxemburg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac OS X users, note: use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; shortcut and &lt;e4&gt;not &lt;/e4&gt;cmd+Ctrl+O.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T124801Z" creationid="piav" creationdate="20191127T124706Z">
+        <seg>Käytä Mac-koneessa näppäinyhdistelmää</seg>
       </tuv>
     </tu>
     <tu>
