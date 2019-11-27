@@ -721,3 +721,6 @@ modifier key	muuntonäppäin	vaihto- ctrl- tai alt-näppäin
 Non-Unique Segments	toistuvat segmentit
 spelling dictionaries	oikeinkirjoitussanastoja
 spelling dictionaries	oikeinkirjoitussanasto
+auto-populated	automaattisesti täytetty	EI: automaattinen täydennys (=autocomplete)
+Note:	Huom.:
+authenticated proxy server	todennettu välityspalvelin
