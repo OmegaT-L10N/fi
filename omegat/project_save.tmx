@@ -19842,8 +19842,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T123438Z" creationid="piav" creationdate="20191127T123345Z">
-        <seg>Yhdistelmässä &lt;k4&gt; &lt;k5&gt;vaihto&lt;/k5&gt; &lt;k6&gt;Ctrl &lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; on kolme asentoa:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T124104Z" creationid="piav" creationdate="20191127T123345Z">
+        <seg>Näppäinyhdistelmä &lt;k4&gt; &lt;k5&gt;vaihto&lt;/k5&gt; &lt;k6&gt;Ctrl &lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; vaihtaa kolmen tilan välillä:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20262,8 +20262,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T123941Z" creationid="piav" creationdate="20191127T123941Z">
-        <seg>Käännettyjen asiakirjojen ulkonäköä pitää muokata siinä sovelluksessa, jolla asiakirjaa tavallisesti katsellaan tai jolla sitä muokataan ((esim. Microsoft Word). Katso tarkempia ohjeita </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T124022Z" creationid="piav" creationdate="20191127T123941Z">
+        <seg>Käännettyjen asiakirjojen ulkonäköä pitää muokata siinä sovelluksessa, jolla asiakirjaa tavallisesti katsellaan tai jolla sitä muokataan (esim. Microsoft Word). Tarkempia ohjeita saat kyseisen sovelluksen dokumentaatiosta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23049,6 +23049,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T075240Z" creationid="piav" creationdate="20191030T075240Z">
         <seg>Jos käytät vanhaa tietokonetta ja ikkunoiden koon muuttaminen tapahtuu mielestäsi hitaasti, voit kokeilla fontin vaihtamista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; causes both text input and display in &lt;a6&gt;OmegaT&lt;/a6&gt; to change.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T124206Z" creationid="piav" creationdate="20191127T124036Z">
+        <seg>Näppäinyhdistelmä &lt;k2&gt; &lt;k3&gt;vaihto&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; muuttaa &lt;a6&gt;OmegaT&lt;/a6&gt;:ssä sekä tekstinsyöttöä että  </seg>
       </tuv>
     </tu>
     <tu>
