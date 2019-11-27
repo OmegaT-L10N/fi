@@ -280,8 +280,8 @@
       <tuv lang="EN">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T065325Z" creationid="PiaVee" creationdate="20171218T091614Z">
-        <seg>Automaattinen käännösehdotusten käyttö</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T112035Z" creationid="PiaVee" creationdate="20171218T091614Z">
+        <seg>Käytä käännösehdotuksia automaattisesti</seg>
       </tuv>
     </tu>
     <tu>
@@ -4089,8 +4089,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto-propagation of Translations</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T111601Z" creationid="piav" creationdate="20191127T111601Z">
-        <seg>Automaattinen käännösehdotusten käyttö</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T112016Z" creationid="piav" creationdate="20191127T111601Z">
+        <seg>Käännösehdotusten automaattinen käyttö</seg>
       </tuv>
     </tu>
     <tu>
@@ -10557,6 +10557,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T122952Z" creationid="piav" creationdate="20191030T122952Z">
         <seg>Ambivalentin tiedoston nimen yhteydessä voi käyttää muuttujia &lt;l0&gt;${name only&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} sekä &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In case there are non-unique segments in source documents, the Auto-propagation check box offers the user the following two possibilities as regards automatic translation: if checked, the first translated segment will be assumed as the default translation and its target text will be automatically used for later hits during the translation process.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T111932Z" creationid="piav" creationdate="20191127T111932Z">
+        <seg>Mikäli lähdeasiakirjoissa on toistuvia segmenttejä, tämä valintaruutu tarjoaa käyttäjälle kaksi mahdollisuutta käännösehdotusten automaattiseen käyttöön </seg>
       </tuv>
     </tu>
     <tu>
