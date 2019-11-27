@@ -11433,6 +11433,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It should be noted that when &lt;a0&gt;OmegaT&lt;/a0&gt; is in RTL mode, both source and target are displayed in RTL mode.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T130154Z" creationid="piav" creationdate="20191127T130154Z">
+        <seg>Kun &lt;a0&gt;OmegaT&lt;/a0&gt; on RTL-tilassa, on huomioitava, että sekä lähde- että kohdeteksti näkyy RTL-muotoisena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
@@ -21552,6 +21560,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T063704Z" creationid="PiaVee" creationdate="20170930T063430Z">
         <seg>Tätä käyttöohjekirjaa ei kuitenkaan olisi olemassa ilman monen ihmisen apua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This means that if the source language is LTR and the target language is RTL, or vice versa, it may be necessary to toggle back and forth between RTL and LTR modes to view the source and enter the target easily in their respective modes.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T130526Z" creationid="piav" creationdate="20191127T130526Z">
+        <seg>Jos siis lähdeteksti on kirjoitettu LTR-kielellä ja kohdeteksti on kirjoitettu RTL-kielellä (tai päin vastoin), on tarpeen pystyä vaihtamaan helposti RTL- ja LTR-tilojen välillä, jotta lähdeteksti näkyy omassa tilassaan oikein ja että kohdetekstin saa omassa tilassaan kirjoitettua oikein.</seg>
       </tuv>
     </tu>
     <tu>
