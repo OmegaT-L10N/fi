@@ -21534,6 +21534,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To create a project-specific set of file filters, click on the &lt;g0&gt;File filter ... &lt;/g0&gt;button, then activate &lt;g1&gt;Enable project specific filters&lt;/g1&gt; check box in the window that opens.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T120131Z" creationid="piav" creationdate="20191127T115732Z">
+        <seg>Luo projektikohtainen tiedostosuodatinsetti napsauttamalla &lt;g0&gt;Tiedostosuodattimet…&lt;/g0&gt;-painiketta, jolloin avautuu uusi ikkuna. Laita rasti &lt;g1&gt;Ota käyttöön projektikohtaiset suodattimet&lt;/g1&gt; -valintaruutuun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To create one, right-click in a segment, and select "&lt;e2&gt;Set empty translation&lt;/e2&gt;".</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T142610Z" creationid="piav" creationdate="20191030T142610Z">
