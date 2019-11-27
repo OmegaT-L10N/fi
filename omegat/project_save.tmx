@@ -10032,8 +10032,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T133947Z" creationid="piav" creationdate="20191127T133947Z">
-        <seg>Silti &lt;a1&gt;OmegaT&lt;/a1&gt;:n ja myös minkä tahansa muun sovelluksen käytössä tulisi kuitenkin huolehtia varotoimista, joilla estetään tietojen menettämien.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T134141Z" creationid="piav" creationdate="20191127T133947Z">
+        <seg>Käyttäessäsi &lt;a1&gt;OmegaT&lt;/a1&gt;:tä tai mitä tahansa muuta sovellusta sinun tulisi kuitenkin huolehtia varotoimista, joilla estät tietoja katoamasta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23771,6 +23771,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T125543Z" creationid="piav" creationdate="20191127T125206Z">
         <seg>Kun kirjoitat pelkkää RTL-kielistä tekstiä, voit käyttää oletusnäyttötilaa (vasemmalta oikealle, LTR).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T134252Z" creationid="piav" creationdate="20191127T134252Z">
+        <seg>Kun käännät tiedostoja, &lt;a2&gt;OmegaT&lt;/a2&gt; tallentaa työn edistymisen käännösmuistitiedostoon &lt;l3&gt;project_save.tmx&lt;/l3&gt;. Tiedosto löytyy projektin alakansiosta &lt;l4&gt;/omegat&lt;/l4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
