@@ -2835,6 +2835,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A hint: translating a plain text version of the text and adding the necessary style in the relevant application at a later stage may turn out to be less hassle.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T132112Z" creationid="piav" creationdate="20191127T132112Z">
+        <seg>Vihje: Voi olla helpointa kääntää teksti aivattomin tapa kääntää oi olla vaivattamointa aivattomin tapa voi olla kääntää tekstin k´´oi olla  voi olla vaivattominta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T105016Z" creationid="piav" creationdate="20191022T160346Z">
@@ -9240,8 +9248,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Frequently validate tags (see Tag validation) and produce translated documents (see below and Menu) at regular intervals to make it easier to catch any problems that arise.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T131832Z" creationid="piav" creationdate="20191127T131756Z">
-        <seg>Tarkista tägit usein (ks. Tägien tarkistaminen) ja luo käännettyjä dokumentteja usein (ks. alla sekä </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T131935Z" creationid="piav" creationdate="20191127T131756Z">
+        <seg>Tarkista tägit usein (ks. Tägien tarkistaminen) ja luo käännettyjä dokumentteja usein (ks. alla sekä kohta Valikko) tasaisin väliajoin, jotta huomaat mahdolliset ongelmat aikaisessa vaiheessa.</seg>
       </tuv>
     </tu>
     <tu>
