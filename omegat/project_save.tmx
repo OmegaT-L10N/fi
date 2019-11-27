@@ -8982,6 +8982,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Follow the indications given in Hints for tags management.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T131740Z" creationid="piav" creationdate="20191127T131740Z">
+        <seg>Seuraa kohdassa Vihjeitä tägien hallintaan annettuja neuvoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T125358Z" creationid="PiaVee" creationdate="20171015T125358Z">
@@ -9226,6 +9234,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174108Z" creationid="PiaVee" creationdate="20171014T174108Z">
         <seg>ranska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Frequently validate tags (see Tag validation) and produce translated documents (see below and Menu) at regular intervals to make it easier to catch any problems that arise.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T131832Z" creationid="piav" creationdate="20191127T131756Z">
+        <seg>Tarkista tägit usein (ks. Tägien tarkistaminen) ja luo käännettyjä dokumentteja usein (ks. alla sekä </seg>
       </tuv>
     </tu>
     <tu>
