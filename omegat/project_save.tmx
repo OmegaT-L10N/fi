@@ -2195,6 +2195,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of segmentation rules for a given project is stored as &lt;f1&gt;project/omegat/segmentation.conf.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T115500Z" creationid="piav" creationdate="20191127T115407Z">
+        <seg>&lt;e0&gt;Vihje:&lt;/e0&gt; Tietyn projektin segmentointisäännöstö tallentuu tiedostoon &lt;f1&gt;project/omegat/segmentation.conf.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Home: &lt;/e0&gt; cursor to the beginning of the active segment</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T130024Z" creationid="PiaVee" creationdate="20171218T125941Z">
@@ -10537,6 +10545,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In a similar fashion as above the user can create project-specific File filters, which will be stored together with the project and will be valid for the current project only.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T115640Z" creationid="piav" creationdate="20191127T115610Z">
+        <seg>Käyttäjä voi luoda projektikohtaisia tiedostosuodattimia samaan tapaan kuin edellä. Tiedostosuodattimia säilytetään yhdessä projektin kanssa, ja ne ovat voimassa vain kyseisessä projektissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to the plain text format, TBX format is also supported as a read-only glossary format.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T144921Z" creationid="piav" creationdate="20191022T081533Z">
@@ -17501,8 +17517,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>See &lt;l1&gt;Segmentation Setup preferences&lt;/l1&gt; for more information on segmentation rules.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T115344Z" creationid="piav" creationdate="20191127T115302Z">
-        <seg>Lisää tietoa segmentointisäännöistä löydät kohdasta &lt;l1&gt;Segmentointiasetukset</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T115359Z" creationid="piav" creationdate="20191127T115302Z">
+        <seg>Lisää tietoa segmentointisäännöistä löydät kohdasta &lt;l1&gt;Segmentoinnin asetukset&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
