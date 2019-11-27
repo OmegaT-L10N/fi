@@ -9086,6 +9086,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, in OmegaT tags, product names that must be left in the LTR source language, place holders in localization files, and numbers in text.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T125918Z" creationid="piav" creationdate="20191127T125918Z">
+        <seg>Esimerkiksi OmegaT-tägit, tuotemerkit, lokalisointitiedostojen paikanmerkit ja tekstissä olevat numerot on jätettävä LTR-lähdekielisiksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061132Z" creationid="piav" creationdate="20191023T060822Z">
@@ -10669,6 +10677,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T134521Z" creationid="piav" creationdate="20190521T134521Z">
         <seg>Kommenteissa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In many cases, however, it is necessary to embed LTR text in RTL text.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T125619Z" creationid="piav" creationdate="20191127T125603Z">
+        <seg>Monissa tapauksissa RTL-tekstiin täytyy kuitenkin upottaa LTR-tekstiä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12556,8 +12572,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Manage Right-To-Left languages</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T122915Z" creationid="piav" creationdate="20191127T122915Z">
-        <seg>Oikealta vasemmale luettavien kielien hallinta</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T125429Z" creationid="piav" creationdate="20191127T122915Z">
+        <seg>Oikealta vasemmalle luettavien kielien hallinta</seg>
       </tuv>
     </tu>
     <tu>
@@ -19874,8 +19890,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T125300Z" creationid="piav" creationdate="20191127T123345Z">
-        <seg>Näppäinyhdistelmä &lt;k4&gt; &lt;k5&gt;vaihto&lt;/k5&gt; &lt;k6&gt;Ctrl &lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; vaihtaa kolmen näyttötavan välillä:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T125505Z" creationid="piav" creationdate="20191127T123345Z">
+        <seg>Näppäinyhdistelmä &lt;k4&gt; &lt;k5&gt;vaihto&lt;/k5&gt; &lt;k6&gt;Ctrl &lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; vaihtaa kolmen tilan välillä:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20294,8 +20310,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T124211Z" creationid="piav" creationdate="20191127T123941Z">
-        <seg>Käännettyjen asiakirjojen näyttötapaa pitää muokata siinä sovelluksessa, jolla asiakirjaa tavallisesti katsellaan tai jolla sitä muokataan (esim. Microsoft Word). Tarkempia ohjeita saat kyseisen sovelluksen dokumentaatiosta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T125517Z" creationid="piav" creationdate="20191127T123941Z">
+        <seg>Käännettyjen asiakirjojen näyttötilaa pitää muokata siinä sovelluksessa, jolla asiakirjaa tavallisesti katsellaan tai jolla sitä muokataan (esim. Microsoft Word). Tarkempia ohjeita saat kyseisen sovelluksen dokumentaatiosta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23087,8 +23103,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>Using &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; causes both text input and display in &lt;a6&gt;OmegaT&lt;/a6&gt; to change.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T124235Z" creationid="piav" creationdate="20191127T124036Z">
-        <seg>Näppäinyhdistelmä &lt;k2&gt; &lt;k3&gt;vaihto&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; muuttaa &lt;a6&gt;OmegaT&lt;/a6&gt;:ssä sekä tekstin syöttöä että sen näyttötapaa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T125421Z" creationid="piav" creationdate="20191127T124036Z">
+        <seg>Näppäinyhdistelmä &lt;k2&gt; &lt;k3&gt;vaihto&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; muuttaa &lt;a6&gt;OmegaT&lt;/a6&gt;:ssä sekä tekstin syöttöä että sen tasausta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23577,8 +23593,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>When writing purely RTL text, the default (LTR) view may be used.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T125352Z" creationid="piav" creationdate="20191127T125206Z">
-        <seg>Kun kirjoitat pelkkää RTL-kielistä tekstiä, voit käyttää oletusnäyttötilaa (LTR)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T125543Z" creationid="piav" creationdate="20191127T125206Z">
+        <seg>Kun kirjoitat pelkkää RTL-kielistä tekstiä, voit käyttää oletusnäyttötilaa (vasemmalta oikealle, LTR).</seg>
       </tuv>
     </tu>
     <tu>
@@ -24164,8 +24180,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       <tuv lang="EN">
         <seg>You can toggle between different display modes by pressing &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (this is the letter O and not the numeral 0).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T125307Z" creationid="piav" creationdate="20191127T123311Z">
-        <seg>Voit vaihtaa erilaisten näyttötapojen välillä painamalla &lt;k0&gt; &lt;k1&gt;vaihto&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (O-kirjain, ei numero 0)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T125459Z" creationid="piav" creationdate="20191127T123311Z">
+        <seg>Voit vaihtaa erilaisten näyttötilojen välillä painamalla &lt;k0&gt; &lt;k1&gt;vaihto&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (O-kirjain, ei numero 0)</seg>
       </tuv>
     </tu>
     <tu>
