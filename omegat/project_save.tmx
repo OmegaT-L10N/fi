@@ -20374,6 +20374,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The predominant way of segmenting the sources is the sentence-level segmenting, so this check box should in a normal case be left checked.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T110701Z" creationid="piav" creationdate="20191127T110701Z">
+        <seg>Lausetason segmentointi on tavallisin lähdetiedostojen segmentointitapa, joten tähän valintaruutuun on tavallisesti syytä jättää rasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The prefix (per default empty) can be used to tag translations, done via fuzzy matches.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T143312Z" creationid="piav" creationdate="20191030T143312Z">
@@ -20520,8 +20528,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The segmentation settings only address the way the source files are handled by &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T110227Z" creationid="piav" creationdate="20191127T110227Z">
-        <seg>Segmentointisäännöstöt</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T110458Z" creationid="piav" creationdate="20191127T110227Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; käsittelee lähdetiedostoja segmentointisääntöjen mukaisesti.</seg>
       </tuv>
     </tu>
     <tu>
