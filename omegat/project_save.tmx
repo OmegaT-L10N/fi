@@ -4911,6 +4911,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing this flag does not modify the segmentation of already existing translation memories.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T110830Z" creationid="piav" creationdate="20191127T110830Z">
+        <seg>Tämän merkinnän muuttaminen ei vaikuta jo olemassa olevien käännösmuistien segmentointiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Character</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T133001Z" creationid="piav" creationdate="20190920T133001Z">
@@ -10597,6 +10605,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T065345Z" creationid="piav" creationdate="20190521T135103Z">
         <seg>Lähtötekstissä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In some seldom cases the alternative, i.e. segmenting by paragraphs, may be preferred.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T110743Z" creationid="piav" creationdate="20191127T110743Z">
+        <seg>Joissakin harvinaisissa tapauksissa suositaan kappaletason segmentointia.</seg>
       </tuv>
     </tu>
     <tu>
