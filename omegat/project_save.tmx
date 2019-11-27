@@ -2837,8 +2837,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>A hint: translating a plain text version of the text and adding the necessary style in the relevant application at a later stage may turn out to be less hassle.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T132112Z" creationid="piav" creationdate="20191127T132112Z">
-        <seg>Vihje: Voi olla helpointa kääntää teksti aivattomin tapa kääntää oi olla vaivattamointa aivattomin tapa voi olla kääntää tekstin k´´oi olla  voi olla vaivattominta</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T132222Z" creationid="piav" creationdate="20191127T132112Z">
+        <seg>Vihje: Voi olla helpointa kääntää OmegaT:ssä vain teksti -muotoinen asiakirja ja lisätä tarvittavat muotoilut myöhemmin toisessa sovelluksessa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6089,6 +6089,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T133101Z" creationid="piav" creationdate="20191030T133101Z">
         <seg>Uuden säännön luominen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating translated RTL documents</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T132233Z" creationid="piav" creationdate="20191127T132233Z">
+        <seg>Käännettyjen RTL-asiakirjojen luonti</seg>
       </tuv>
     </tu>
     <tu>
@@ -23619,6 +23627,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T090429Z" creationid="piav" creationdate="20191127T090050Z">
         <seg>Kun tässä kohdassa ei ole rastia, kaikki muut toistot paitsi toistuvan segmentin ensimmäinen esiintymä näytetään harmaina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the translated document is created, its display direction will be the same as that of the original document.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T132405Z" creationid="piav" creationdate="20191127T132405Z">
+        <seg>Käännetyn asiakirjan kirjoitussuunta on sama kuin alkuperäisessä asiaity asiakirja on luotu, sen suunta on </seg>
       </tuv>
     </tu>
     <tu>
