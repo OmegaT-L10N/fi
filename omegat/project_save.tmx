@@ -10673,6 +10673,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In cases like these it becomes necessary to switch to RTL mode, so that the RTL (in fact bidirectional) text is displayed correctly.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T130101Z" creationid="piav" creationdate="20191127T130101Z">
+        <seg>Tällöin täytyy vaihtaa RTL-tilaan, jotta RTL-kielinen (tai itse asiassa kaksisuuntaisella kielellä) kirjoitettu teksti näkyy oikein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In comments</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T134521Z" creationid="piav" creationdate="20190521T134521Z">
