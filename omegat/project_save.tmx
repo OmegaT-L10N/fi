@@ -21077,8 +21077,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This area allows entering an external post-processing command (for instance, a script to rename files) that will be applied each time Create Translated Documents is used.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T113843Z" creationid="piav" creationdate="20191127T113843Z">
-        <seg>Tälle alueella voi lisätä ulkoisen jälkikäsittelykomennon </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T114036Z" creationid="piav" creationdate="20191127T113843Z">
+        <seg>Tälle alueelle voi lisätä ulkoisen jälkikäsittelykomennon (esim. tiedostot uudelleen nimeävän komentosarjan), joka suoritetaan joka kerta, kun Luo käännetyt tiedostot -komento suoritetaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21168,6 +21168,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T174943Z" creationid="PiaVee" creationdate="20170910T084447Z">
         <seg>OmegaT on vapaa työkalu tietokoneavusteista kääntämistä varten. Tämä tiedosto on virallinen OmegaT-käsikirja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This external command cannot include "pipes", etc., which is why calling a script is recommended.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T114236Z" creationid="piav" creationdate="20191127T114236Z">
+        <seg>Tässä ulkoisessa komennossa ei voi käyttää jne., minkä vuoksi  </seg>
       </tuv>
     </tu>
     <tu>
