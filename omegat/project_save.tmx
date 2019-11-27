@@ -4911,6 +4911,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing segmentation settings may cause some already translated segments to be split or merged.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T111355Z" creationid="piav" creationdate="20191127T111355Z">
+        <seg>Segmentointisääntöjen muuttaminen saattaa jakaa tai yhdistää joitakin jo käännettyjä segmenttejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing this flag does not modify the segmentation of already existing translation memories.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T110830Z" creationid="piav" creationdate="20191127T110830Z">
@@ -21328,6 +21336,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T132616Z" creationid="piav" creationdate="20190920T132616Z">
         <seg>Tämä hylkää kaikki tähän asti tekemäsi muutokset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will effectively return them to the "untranslated" status, as they will no longer match segments recorded in the project memory, even though their original translation is still there.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T111421Z" creationid="piav" creationdate="20191127T111421Z">
+        <seg>Tämä muuttaa käännösten tilaa, niistä "kääntämättä"</seg>
       </tuv>
     </tu>
     <tu>
