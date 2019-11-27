@@ -13574,6 +13574,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-visible formatting (i.e., which doesn't appear as tags in the OmegaT editor) is retained in target documents.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T113823Z" creationid="piav" creationdate="20191127T113823Z">
+        <seg>Näkymätön muotoilu (mikä ei siis näy tägeinä OmegaT-editorissa) säilyy ennallaan kohdeasiakirjoissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>None</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T135402Z" creationid="piav" creationdate="20190920T135402Z">
@@ -21067,6 +21075,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This area allows entering an external post-processing command (for instance, a script to rename files) that will be applied each time Create Translated Documents is used.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T113843Z" creationid="piav" creationdate="20191127T113843Z">
+        <seg>Tälle alueella voi lisätä ulkoisen jälkikäsittelykomennon </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This button enables you to browse and download the collections that exist for the project's source and target languages.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191029T180104Z" creationid="piav" creationdate="20191029T103359Z">
@@ -21198,8 +21214,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This is especially useful when dealing with texts where inline formatting is not really useful (e.g., OCRed PDF, bad converted .odt or .docx, etc.) In a normal case it should always be possible to open the target documents, as only inline tags are removed.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T113646Z" creationid="piav" creationdate="20191127T113646Z">
-        <seg>Toiminto on erityisen kätevä silloin, kun käsitellään tekstejä, joissa tekstiin sidottujen muotoilujen käyttö ei ole kovin järkevää (esim. OCR-luetut PDF-tiedostot, huonosti muunnetut .odt- tai .docx-tiedostot jne.). Tavallisesti kohdeasiakirjat on aina mahdollista avata, sillä vain </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T113732Z" creationid="piav" creationdate="20191127T113646Z">
+        <seg>Toiminto on erityisen kätevä silloin, kun käsitellään tekstejä, joissa tekstiin sidottujen muotoilujen käyttö ei ole kovin järkevää (esim. OCR-luetut PDF-tiedostot, huonosti muunnetut .odt- tai .docx-tiedostot jne.). Tavallisesti kohdeasiakirjat on aina mahdollista avata, sillä vain tekstimuotoilutägit poistetaan.</seg>
       </tuv>
     </tu>
     <tu>
