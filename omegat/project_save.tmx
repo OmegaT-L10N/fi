@@ -7672,8 +7672,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Enables automatic notification of &lt;a0&gt;OmegaT&lt;/a0&gt; updates.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T092317Z" creationid="piav" creationdate="20191127T092250Z">
-        <seg>Ottaa käyttöön automaattiset ilmoitukset &lt;a0&gt;OmegaT&lt;/a0&gt;-päivityksistä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T105427Z" creationid="piav" creationdate="20191127T092250Z">
+        <seg>Ottaa käyttöön automaattiset ilmoitukset &lt;a0&gt;OmegaT&lt;/a0&gt;-päivityksistä</seg>
       </tuv>
     </tu>
     <tu>
