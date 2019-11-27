@@ -11313,6 +11313,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can be used separately for all three panes (Editor, Fuzzy Matches and Glossary) by clicking on the pane and toggling the display mode.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T124528Z" creationid="piav" creationdate="20191127T124255Z">
+        <seg>Voit valita jokaisen kolmen ruudun (editori, sumeat osumat ja sanasto) näyttötavan erikseen napsauttamalla ruutua ja valitsemalla sopiva näyttötila näppäinyhdistelmällä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It does not include spell checking.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T145441Z" creationid="PiaVee" creationdate="20171014T145441Z">
@@ -20262,8 +20270,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T124022Z" creationid="piav" creationdate="20191127T123941Z">
-        <seg>Käännettyjen asiakirjojen ulkonäköä pitää muokata siinä sovelluksessa, jolla asiakirjaa tavallisesti katsellaan tai jolla sitä muokataan (esim. Microsoft Word). Tarkempia ohjeita saat kyseisen sovelluksen dokumentaatiosta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T124211Z" creationid="piav" creationdate="20191127T123941Z">
+        <seg>Käännettyjen asiakirjojen näyttötapaa pitää muokata siinä sovelluksessa, jolla asiakirjaa tavallisesti katsellaan tai jolla sitä muokataan (esim. Microsoft Word). Tarkempia ohjeita saat kyseisen sovelluksen dokumentaatiosta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23055,8 +23063,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>Using &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; causes both text input and display in &lt;a6&gt;OmegaT&lt;/a6&gt; to change.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T124206Z" creationid="piav" creationdate="20191127T124036Z">
-        <seg>Näppäinyhdistelmä &lt;k2&gt; &lt;k3&gt;vaihto&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; muuttaa &lt;a6&gt;OmegaT&lt;/a6&gt;:ssä sekä tekstinsyöttöä että  </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T124235Z" creationid="piav" creationdate="20191127T124036Z">
+        <seg>Näppäinyhdistelmä &lt;k2&gt; &lt;k3&gt;vaihto&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; muuttaa &lt;a6&gt;OmegaT&lt;/a6&gt;:ssä sekä tekstin syöttöä että sen näyttötapaa.</seg>
       </tuv>
     </tu>
     <tu>
