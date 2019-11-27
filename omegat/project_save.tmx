@@ -10321,6 +10321,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by gluing together existing sentence translations.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T111324Z" creationid="piav" creationdate="20191127T110935Z">
+        <seg>Jos kesken käännöstyötä päätät vaihtaa segmentoinnin lausetasolta kappaleittaiseksi, projektin sisäinen käännösmuisti ei muutu (OmegaT saattaa päivittää vanhat käännösmuistit, joissa lausetason segmentointia ei ole käytetty, mutta ei päin vastoin), mutta OmegaT yrittää luoda kappaleittaisia sumeita osumia yhdistämällä olemassa olevia lausekohtaisia käännöksiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have a powerful machine, and/or if you don't like how the scrollbar behaves during progressive loading, you can increase this number.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T081437Z" creationid="piav" creationdate="20191127T081326Z">
@@ -14772,8 +14780,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Paragraph segmentation on line breaks, empty lines or never:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T082407Z" creationid="piav" creationdate="20191030T082336Z">
-        <seg>Kappalejako rivinvaihdon tai tyhjän rivin perusteella tai ei koskaan:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T111041Z" creationid="piav" creationdate="20191030T082336Z">
+        <seg>Kappaleittainen segmentointi rivinvaihdon tai tyhjän rivin perusteella tai ei koskaan:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20544,8 +20552,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The segmentation settings only address the way the source files are handled by &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T110458Z" creationid="piav" creationdate="20191127T110227Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; käsittelee lähdetiedostoja segmentointisääntöjen mukaisesti.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T110848Z" creationid="piav" creationdate="20191127T110227Z">
+        <seg>Segmentointisäännöt vaikuttavat vain tapaan, jolla &lt;a0&gt;OmegaT&lt;/a0&gt; käsittelee lähdetiedostoja.</seg>
       </tuv>
     </tu>
     <tu>
