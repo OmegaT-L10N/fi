@@ -11323,8 +11323,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>It can be used separately for all three panes (Editor, Fuzzy Matches and Glossary) by clicking on the pane and toggling the display mode.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T124528Z" creationid="piav" creationdate="20191127T124255Z">
-        <seg>Voit valita jokaisen kolmen ruudun (editori, sumeat osumat ja sanasto) näyttötavan erikseen napsauttamalla ruutua ja valitsemalla sopiva näyttötila näppäinyhdistelmällä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T125403Z" creationid="piav" creationdate="20191127T124255Z">
+        <seg>Voit valita jokaisen kolmen ruudun (editori, sumeat osumat ja sanasto) näyttötilan erikseen napsauttamalla ruutua ja valitsemalla sopiva näyttötila näppäinyhdistelmällä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19874,8 +19874,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T124104Z" creationid="piav" creationdate="20191127T123345Z">
-        <seg>Näppäinyhdistelmä &lt;k4&gt; &lt;k5&gt;vaihto&lt;/k5&gt; &lt;k6&gt;Ctrl &lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; vaihtaa kolmen tilan välillä:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T125300Z" creationid="piav" creationdate="20191127T123345Z">
+        <seg>Näppäinyhdistelmä &lt;k4&gt; &lt;k5&gt;vaihto&lt;/k5&gt; &lt;k6&gt;Ctrl &lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; vaihtaa kolmen näyttötavan välillä:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23577,8 +23577,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>When writing purely RTL text, the default (LTR) view may be used.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T125206Z" creationid="piav" creationdate="20191127T125206Z">
-        <seg>Kun kirjoitat pelkkää RTL-kielistä tekstiä, voit käyttää oletus (LTR)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T125352Z" creationid="piav" creationdate="20191127T125206Z">
+        <seg>Kun kirjoitat pelkkää RTL-kielistä tekstiä, voit käyttää oletusnäyttötilaa (LTR)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24164,7 +24164,7 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       <tuv lang="EN">
         <seg>You can toggle between different display modes by pressing &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (this is the letter O and not the numeral 0).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T124853Z" creationid="piav" creationdate="20191127T123311Z">
+      <tuv lang="FI" changeid="piav" changedate="20191127T125307Z" creationid="piav" creationdate="20191127T123311Z">
         <seg>Voit vaihtaa erilaisten näyttötapojen välillä painamalla &lt;k0&gt; &lt;k1&gt;vaihto&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (O-kirjain, ei numero 0)</seg>
       </tuv>
     </tu>
