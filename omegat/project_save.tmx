@@ -9040,8 +9040,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>For .docx files, a number of changes are however done automatically:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T133027Z" creationid="piav" creationdate="20191127T133027Z">
-        <seg>Joitakin muutoksia tapahtuu automaattisesti .docx-tiedostoja luotaessa: </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T133032Z" creationid="piav" creationdate="20191127T133027Z">
+        <seg>Joitakin muutoksia tapahtuu automaattisesti .docx-tiedostoja luotaessa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15106,6 +15106,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Paragraphs, sections and tables are set to bidi</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T133105Z" creationid="piav" creationdate="20191127T133029Z">
+        <seg>Kappaleet, osat ja taulukot asetetaan kaksisuuntaisiksi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T104653Z" creationid="piav" creationdate="20190523T101200Z">
@@ -17221,6 +17229,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T100212Z" creationid="PiaVee" creationdate="20171015T100212Z">
         <seg>Java {0} -käyttö ({1}-bit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Runs (text elements) are set to RTL</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T133225Z" creationid="piav" creationdate="20191127T133225Z">
+        <seg>Tekstiekstielementit juoksevat oikealta vasemmalle</seg>
       </tuv>
     </tu>
     <tu>
@@ -21792,6 +21808,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T103747Z" creationid="piav" creationdate="20191030T103747Z">
         <seg>Lisää uusi tiedostonimen muoto napsauttamalla &lt;e1&gt;Lisää&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To avoid changing the target files display parameters each time the files are opened, it may be possible to change the source file display parameters such that such parameters are inherited by the target files.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T133528Z" creationid="piav" creationdate="20191127T133528Z">
+        <seg>Jotta kohdetiedostojen näyttösuunnan asetuksia ei tarvitse muuttaa joka kerta, kun niitä avataan, voi olla mahdollista vaihtaa lähdetiedoston näyttösuunnan asetuksia niin, että kohdeasiakirja perii oikeat asetukset lähdeasiakirjasta.</seg>
       </tuv>
     </tu>
     <tu>
