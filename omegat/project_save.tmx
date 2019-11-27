@@ -4337,8 +4337,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Bear in mind that changing the languages may render the currently used translation memories useless since their language pair may not longer match the new languages.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T105913Z" creationid="piav" creationdate="20191127T105913Z">
-        <seg>Pidäthän mielessä, että projektikielien vaihtaminen voi tehdä senhetkisistä käännösmuisteista käyttökelvottomia – käännösmuistissa käytettyjen kielten on oltava samat kuin </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T110101Z" creationid="piav" creationdate="20191127T105913Z">
+        <seg>Pidäthän mielessä, että projektikielien vaihtaminen voi tehdä senhetkisistä käännösmuisteista käyttökelvottomia. Käännösmuistin kieliparin on oltava juuri sama kuin projektissakin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7642,6 +7642,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T122150Z" creationid="PiaVee" creationdate="20171015T122150Z">
         <seg>Ota TransTips käyttöön</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable Sentence-level segmentation</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T110209Z" creationid="piav" creationdate="20191127T110209Z">
+        <seg>Lausetason segmentointi</seg>
       </tuv>
     </tu>
     <tu>
@@ -20510,6 +20518,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The segmentation settings only address the way the source files are handled by &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T110227Z" creationid="piav" creationdate="20191127T110227Z">
+        <seg>Segmentointisäännöstöt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The selected languages will then be installed and will eventually appear in your spell checker setup window (this may take a while).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T111333Z" creationid="piav" creationdate="20191023T111333Z">
@@ -21522,6 +21538,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T153337Z" creationid="PiaVee" creationdate="20171014T153337Z">
         <seg>OmegaT:n perusasetuksena on, että saneistin on aktiivinen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenizers corresponding to the selected languages are displayed.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T110153Z" creationid="piav" creationdate="20191127T110140Z">
+        <seg>Valittujen kielten saneistimet tulevat näkyville.</seg>
       </tuv>
     </tu>
     <tu>
