@@ -3781,6 +3781,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An ignored file or folder:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T121736Z" creationid="piav" creationdate="20191127T121736Z">
+        <seg>Tiedosto tai kansio, jotai ei huomioida:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T094316Z" creationid="piav" creationdate="20190522T094316Z">
@@ -5251,6 +5259,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T101903Z" creationid="piav" creationdate="20191029T181318Z">
         <seg>Jätä tämä kohta rastittamatta, niin haku ei tapahdu automaattisesti – hyödyllistä esim. silloin, kun sanakirjat ovat liian suuria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clic on &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T121708Z" creationid="piav" creationdate="20191127T121600Z">
+        <seg>Napsauta &lt;g0&gt;Poikkeukset…&lt;/g0&gt;-painiketta, niin pääset määrittelemään tiedostot tai kansiot, jotka &lt;a1&gt;OmegaT&lt;/a1&gt; jättää huomioimatta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10629,6 +10645,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T112431Z" creationid="piav" creationdate="20191127T111932Z">
         <seg>Mikäli lähdeasiakirjoissa on toistuvia segmenttejä, tämä valintaruutu tarjoaa käyttäjälle kaksi tapaa käyttää käännösehdotuksia automaattisesti. Jos valintaruudussa on rasti, ensimmäisestä käännetystä segmentistä tulee oletuskäännös, ja käännöstä käytetään myöhempien toistojen käännöksenä automaattisesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In case you decide to modify project folders, keep in mind that this will not move existing files from old folders to the new location.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T121552Z" creationid="piav" creationdate="20191127T121552Z">
+        <seg>Mikäli päätät muokata projektikansioita, muistathan, että tämä ei muuta olemassa olevia tiedostoja vanhoista kansioista uuten sijaintiin.</seg>
       </tuv>
     </tu>
     <tu>
