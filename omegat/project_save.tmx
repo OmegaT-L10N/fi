@@ -12468,8 +12468,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T132754Z" creationid="piav" creationdate="20190521T132754Z">
-        <seg>Paikallisten kansioiden yhdistäminen pakettivarastojen etäkansioihin </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T121016Z" creationid="piav" creationdate="20190521T132754Z">
+        <seg>Paikallisten kansioiden yhdistäminen pakettivarastojen etäkansioihin</seg>
       </tuv>
     </tu>
     <tu>
@@ -16667,16 +16667,16 @@ projektin ilman ryhmäominaisuutta.</seg>
       <tuv lang="EN">
         <seg>Repository Mapping</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T132836Z" creationid="piav" creationdate="20190521T132505Z">
-        <seg>Pakettivarastojen yhdistäminen</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T120951Z" creationid="piav" creationdate="20190521T132505Z">
+        <seg>Pakettivarastojen määritys</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Repository Mapping...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T132841Z" creationid="piav" creationdate="20190521T131935Z">
-        <seg>Pakettivarastojen yhdistäminen…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T120938Z" creationid="piav" creationdate="20190521T131935Z">
+        <seg>Pakettivarastojen määritys…</seg>
       </tuv>
     </tu>
     <tu>
@@ -23411,6 +23411,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T142032Z" creationid="piav" creationdate="20190521T142032Z">
         <seg>Tekstin korvaamisessa voi käyttää säännöllisiä lausekkeita, jolloin korvattavassa tekstissä voi viitata hakulausekkeessa määriteltyihin ryhmiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When working on a team project, this window allows you to define the mapping between remote folders and local folders (see examples &lt;l0&gt;here&lt;/l0&gt;).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T121219Z" creationid="piav" creationdate="20191127T121219Z">
+        <seg>Kun työskentelet ryhmäprojektin parissa, voit tässä ikkunassa määritellä yhteyksiä et(ks. esimerkkejä &lt;l0&gt;täällä&lt;/l0&gt;.)</seg>
       </tuv>
     </tu>
     <tu>
