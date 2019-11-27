@@ -12452,8 +12452,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mac OS X users, note: use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; shortcut and &lt;e4&gt;not &lt;/e4&gt;cmd+Ctrl+O.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T124801Z" creationid="piav" creationdate="20191127T124706Z">
-        <seg>Käytä Mac-koneessa näppäinyhdistelmää</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T124930Z" creationid="piav" creationdate="20191127T124706Z">
+        <seg>Huom.: Käytä myös Mac-koneessa näppäinyhdistelmää &lt;k0&gt; &lt;k1&gt;vaihto&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt;, &lt;/k0&gt;älä&lt;e4&gt; yhdistelmää cmd+Ctrl+O.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13054,6 +13054,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T112701Z" creationid="piav" creationdate="20191127T112619Z">
         <seg>Väärin käännetyt segmentit voidaan tietysti korjata myöhemmin käyttämällä valintaa &lt;g0&gt;Luo vaihtoehtoinen käännös&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mixing RTL and LTR strings in segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T125024Z" creationid="piav" creationdate="20191127T125024Z">
+        <seg>RTL- ja LTR-merkkijonojen yhdistäminen yhdessä ja samassa segmentissä</seg>
       </tuv>
     </tu>
     <tu>
@@ -23567,6 +23575,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When writing purely RTL text, the default (LTR) view may be used.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T125206Z" creationid="piav" creationdate="20191127T125206Z">
+        <seg>Kun kirjoitat pelkkää RTL-kielistä tekstiä, voit käyttää oletus (LTR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you wish to use the filter again, just tick the check box.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T074148Z" creationid="piav" creationdate="20191030T080236Z">
@@ -24148,8 +24164,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       <tuv lang="EN">
         <seg>You can toggle between different display modes by pressing &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (this is the letter O and not the numeral 0).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T123409Z" creationid="piav" creationdate="20191127T123311Z">
-        <seg>Voit vaihtaa erilaisten näyttötapojen välillä painamalla &lt;k0&gt; &lt;k1&gt;vaihto&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (iso O-kirjain, ei numero 0)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T124853Z" creationid="piav" creationdate="20191127T123311Z">
+        <seg>Voit vaihtaa erilaisten näyttötapojen välillä painamalla &lt;k0&gt; &lt;k1&gt;vaihto&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (O-kirjain, ei numero 0)</seg>
       </tuv>
     </tu>
     <tu>
