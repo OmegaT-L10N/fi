@@ -10193,6 +10193,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T112532Z" creationid="piav" creationdate="20191127T112532Z">
+        <seg>Jos automaattisen käytön valintaruudussa ei ole rastia, vaihtoehtoisia käännöksiä sisältävät segmentit pysyvät kääntämättä, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T110500Z" creationid="piav" creationdate="20191030T110500Z">
@@ -12894,6 +12902,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T064752Z" creationid="piav" creationdate="20190522T064752Z">
         <seg>Puuttuvat tägit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mistranslated segments can of course be corrected later manually using &lt;g0&gt;Create Alternative Translation&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T112636Z" creationid="piav" creationdate="20191127T112619Z">
+        <seg>Väärin käännetyt segmentit voidaan tietysti korjata myöhemmin käyttämällä &lt;g0&gt;Luo vaihtoehtoinen käännös&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
