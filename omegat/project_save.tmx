@@ -21174,8 +21174,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This external command cannot include "pipes", etc., which is why calling a script is recommended.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T114236Z" creationid="piav" creationdate="20191127T114236Z">
-        <seg>Tässä ulkoisessa komennossa ei voi käyttää jne., minkä vuoksi  </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T114650Z" creationid="piav" creationdate="20191127T114236Z">
+        <seg>Tässä ulkoisessa komennossa ei voi käyttää putkimerkkejä tms., minkä vuoksi komentosarjan käyttö on suositeltavaa.</seg>
       </tuv>
     </tu>
     <tu>
