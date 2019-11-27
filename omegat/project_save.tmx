@@ -19733,6 +19733,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Take particular care when making changes to the files in &lt;l0&gt;/source&lt;/l0&gt; while in the middle of a project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T135442Z" creationid="piav" creationdate="20191127T135442Z">
+        <seg>Ole erityisen huolellinen, kun muutat &lt;l0&gt;/source&lt;/l0&gt;-kansion tiedostoja kesken käännösprojektin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tamil</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081635Z" creationid="PiaVee" creationdate="20171015T081635Z">
@@ -22937,6 +22945,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T101436Z" creationid="piav" creationdate="20190523T101436Z">
         <seg>Projektiviedoston versiota {0} ei tueta!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Until you are familiar with &lt;a0&gt;OmegaT&lt;/a0&gt;, create translated files at regular intervals and check that the translated file contains the latest version of your translation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T135340Z" creationid="piav" creationdate="20191127T135340Z">
+        <seg>Kun opettelet käyttämään &lt;a0&gt;OmegaT&lt;/a0&gt;:tä, luo käännettyjä tiedostoja säännöllisin väliajoin ja tarkista, että tiedostossa on käännöksen uusin versio.</seg>
       </tuv>
     </tu>
     <tu>
