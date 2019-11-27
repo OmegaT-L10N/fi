@@ -10505,6 +10505,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you believe that you have lost translation data, you can use the following procedure to restore the project to its most recently saved state, usually not older than approximately 10 minutes or so:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T134802Z" creationid="piav" creationdate="20191127T134802Z">
+        <seg>Jos luulet, että olet kadottanut käännösdatasi, voit käyttää seuraavaa tapaa palauttaaksesi projektin viimeisimpään, yleensä alle 10 minuuttia vanhaan, tallennettuun muotoon:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you change segmentation options when a project is open, you must reload the project in order for the changes to take effect.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T124901Z" creationid="piav" creationdate="20191030T124854Z">
@@ -14376,8 +14384,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT also backs up the translation memory to project_save.tmx.YEARMMDDHHNN.bak in the same subfolder each time a project is opened or reloaded.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T134512Z" creationid="piav" creationdate="20191127T134438Z">
-        <seg>Joka kerta kun projekti avataan tai ladataan uudestaan, OmegaT varmuuskopioi käännösmuistin tiedostoon project_save.tmx.VVVVMMPPTTMM.bak, joka löytyy samasta kansiosta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T134537Z" creationid="piav" creationdate="20191127T134438Z">
+        <seg>Joka kerta kun projekti avataan tai ladataan uudestaan, OmegaT varmuuskopioi käännösmuistin tiedostoon project_save.tmx.VVVVKKPPTTMM.bak, joka löytyy samasta kansiosta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24139,8 +24147,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       <tuv lang="EN">
         <seg>YEAR is the 4-digit year, MM is the month, DD the day of the month, and HH and NN are the hours and minutes when the previous translation memory was saved.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T134533Z" creationid="piav" creationdate="20191127T134447Z">
-        <seg>VVVV on nelinumeroinen vuosiluku, </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T134621Z" creationid="piav" creationdate="20191127T134447Z">
+        <seg>VVVV on nelinumeroinen vuosiluku, KK on kuukausi, PP kuukauden päivä, ja TT ja MM ilmaisevat tunteja ja minuutteja, jolloin edellinen käännösmuisti tallennettiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25383,6 +25391,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173915Z" creationid="PiaVee" creationdate="20171014T173915Z">
         <seg>chv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>close the project</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T134806Z" creationid="piav" creationdate="20191127T134806Z">
+        <seg>sulje projekti</seg>
       </tuv>
     </tu>
     <tu>
@@ -28361,6 +28377,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T124233Z" creationid="PiaVee" creationdate="20171218T124213Z">
         <seg>poistaa sanasta kohdistinta edeltävät merkit (Mac: &lt;e0&gt;Alt + Backspace&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rename the current &lt;f0&gt;project_save.tmx &lt;/f0&gt;file (e.g. to &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T134837Z" creationid="piav" creationdate="20191127T134837Z">
+        <seg>nimeä nykyiunen &lt;f0&gt;project_save.tmx&lt;/f0&gt;-tiedosto uudelleen (esim. &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
       </tuv>
     </tu>
     <tu>
