@@ -21196,6 +21196,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is especially useful when dealing with texts where inline formatting is not really useful (e.g., OCRed PDF, bad converted .odt or .docx, etc.) In a normal case it should always be possible to open the target documents, as only inline tags are removed.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T113646Z" creationid="piav" creationdate="20191127T113646Z">
+        <seg>Toiminto on erityisen kätevä silloin, kun käsitellään tekstejä, joissa tekstiin sidottujen muotoilujen käyttö ei ole kovin järkevää (esim. OCR-luetut PDF-tiedostot, huonosti muunnetut .odt- tai .docx-tiedostot jne.). Tavallisesti kohdeasiakirjat on aina mahdollista avata, sillä vain </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is how it works:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T112515Z" creationid="piav" creationdate="20191030T112515Z">
@@ -23217,8 +23225,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>When enabled, all the formatting tags are removed from source segments.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T113102Z" creationid="piav" creationdate="20191127T112740Z">
-        <seg>Kun valitset tämän, Käyttämällä tätä Kun tämä valinta on käyTäm</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T113211Z" creationid="piav" creationdate="20191127T112740Z">
+        <seg>Kun tässä ruudussa on rasti, ohjelma poistaa lähdesegmenteistä kaikki muotoilutägit.</seg>
       </tuv>
     </tu>
     <tu>
