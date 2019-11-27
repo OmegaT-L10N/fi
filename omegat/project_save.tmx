@@ -12658,6 +12658,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make regular copies of the file /omegat/project_save.tmx to backup media, such as CD or DVD.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T135137Z" creationid="piav" creationdate="20191127T135137Z">
+        <seg>Varmuuskopioi tiedosto /omegat/project_save.tmx säännöllisesti toiseen tietovälineeseen, esim. CD- tai DVD-levylle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Malagasy</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T181437Z" creationid="PiaVee" creationdate="20171014T174854Z">
@@ -21868,6 +21876,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To avoid losing important data:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T135014Z" creationid="piav" creationdate="20191127T135010Z">
+        <seg>Näin estät tärkeää dataa katoamasta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To be sure that no translation will be lost, you need to:
 1.</seg>
       </tuv>
@@ -27821,6 +27837,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>open the project</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T134933Z" creationid="piav" creationdate="20191127T134933Z">
+        <seg>avaa projekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>open your source file in a text editor that correctly interprets its encoding and save the file in &lt;e0&gt;"UTF-8"&lt;/e0&gt; encoding.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171220T112428Z" creationid="PiaVee" creationdate="20171220T112345Z">
@@ -28381,6 +28405,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>rename it &lt;l0&gt;project_save.tmx&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T134930Z" creationid="piav" creationdate="20191127T134930Z">
+        <seg>nimeä se uudelleen tiedostoksi &lt;l0&gt;project_save.tmx&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>rename the current &lt;f0&gt;project_save.tmx &lt;/f0&gt;file (e.g. to &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T134837Z" creationid="piav" creationdate="20191127T134837Z">
@@ -28537,6 +28569,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T124528Z" creationid="PiaVee" creationdate="20171218T124528Z">
         <seg>valitsee koko segmentin (Mac: &lt;e0&gt;Cmd + A&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>select the backup translation memory that is the most likely to contain the data you are looking for</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T134908Z" creationid="piav" creationdate="20191127T134908Z">
+        <seg>valitse se käännösmuistin varmuuskopio, jossa etsimäsi data todennäköisimmin on</seg>
       </tuv>
     </tu>
     <tu>
