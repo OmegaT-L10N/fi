@@ -14374,6 +14374,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT also backs up the translation memory to project_save.tmx.YEARMMDDHHNN.bak in the same subfolder each time a project is opened or reloaded.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T134512Z" creationid="piav" creationdate="20191127T134438Z">
+        <seg>Joka kerta kun projekti avataan tai ladataan uudestaan, OmegaT varmuuskopioi käännösmuistin tiedostoon project_save.tmx.VVVVMMPPTTMM.bak, joka löytyy samasta kansiosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T135740Z" creationid="PiaVee" creationdate="20171014T135411Z">
@@ -24125,6 +24133,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T155411Z" creationid="piav" creationdate="20191022T155411Z">
         <seg>X|Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>YEAR is the 4-digit year, MM is the month, DD the day of the month, and HH and NN are the hours and minutes when the previous translation memory was saved.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T134533Z" creationid="piav" creationdate="20191127T134447Z">
+        <seg>VVVV on nelinumeroinen vuosiluku, </seg>
       </tuv>
     </tu>
     <tu>
