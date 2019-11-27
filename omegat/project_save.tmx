@@ -4089,8 +4089,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto-propagation of Translations</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T112016Z" creationid="piav" creationdate="20191127T111601Z">
-        <seg>Käännösehdotusten automaattinen käyttö</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T112043Z" creationid="piav" creationdate="20191127T111601Z">
+        <seg>Käytä käännösehdotuksia automaattisesti</seg>
       </tuv>
     </tu>
     <tu>
@@ -10563,8 +10563,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In case there are non-unique segments in source documents, the Auto-propagation check box offers the user the following two possibilities as regards automatic translation: if checked, the first translated segment will be assumed as the default translation and its target text will be automatically used for later hits during the translation process.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T111932Z" creationid="piav" creationdate="20191127T111932Z">
-        <seg>Mikäli lähdeasiakirjoissa on toistuvia segmenttejä, tämä valintaruutu tarjoaa käyttäjälle kaksi mahdollisuutta käännösehdotusten automaattiseen käyttöön </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T112431Z" creationid="piav" creationdate="20191127T111932Z">
+        <seg>Mikäli lähdeasiakirjoissa on toistuvia segmenttejä, tämä valintaruutu tarjoaa käyttäjälle kaksi tapaa käyttää käännösehdotuksia automaattisesti. Jos valintaruudussa on rasti, ensimmäisestä käännetystä segmentistä tulee oletuskäännös, ja käännöstä käytetään myöhempien toistojen käännöksenä automaattisesti.</seg>
       </tuv>
     </tu>
     <tu>
