@@ -4335,6 +4335,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bear in mind that changing the languages may render the currently used translation memories useless since their language pair may not longer match the new languages.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T105913Z" creationid="piav" creationdate="20191127T105913Z">
+        <seg>Pidäthän mielessä, että projektikielien vaihtaminen voi tehdä senhetkisistä käännösmuisteista käyttökelvottomia – käännösmuistissa käytettyjen kielten on oltava samat kuin </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Before</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T134413Z" creationid="piav" creationdate="20191030T134413Z">
@@ -15535,6 +15543,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Properties</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T105434Z" creationid="piav" creationdate="20191127T105434Z">
+        <seg>Projektin ominaisuudet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Specific External Search</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T140238Z" creationid="piav" creationdate="20190920T140238Z">
@@ -21027,6 +21043,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T105535Z" creationid="piav" creationdate="20191127T105527Z">
+        <seg>Pääset tähän valikkoon valitsemalla &lt;m0&gt;&lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;Ominaisuudet…&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This dialog lists the file filters available.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T104142Z" creationid="piav" creationdate="20191030T075634Z">
@@ -23637,6 +23661,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T111144Z" creationid="piav" creationdate="20191023T111144Z">
         <seg>Voit käyttää tiedostonhallintaohjelmaa ja kopioida muualla olevat tiedostot uuteen kansioon, tai käyttää OmegaT:n &lt;e0&gt;Asenna uusi sanakirja&lt;/e0&gt;-toimintoa. Toiminto laatii listan käytettävistä sanakirjoista, ja voit valita niistä haluamasi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can either enter the source and target languages by hand or use the drop down menus.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T105609Z" creationid="piav" creationdate="20191127T105609Z">
+        <seg>Voit joko lisätä lähde- ja kohdekielet käsin tai valita ne pudotusvalikosta.</seg>
       </tuv>
     </tu>
     <tu>
