@@ -6661,6 +6661,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Defines the project-specific external search resources.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T121328Z" creationid="piav" creationdate="20191127T121328Z">
+        <seg>Määrittelee projektikohtaiset ulkoiset hakuresurssit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Degree thesis by Sébastien Guillardeau, 2010 (in German).</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T095122Z" creationid="PiaVee" creationdate="20171219T095122Z">
@@ -9758,6 +9766,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you can select different subfolders, for instance the subfolder with source files, subfolder for target files etc.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T121403Z" creationid="piav" creationdate="20191127T121403Z">
+        <seg>Tässä kohdassa voit valita eri alikansioita, esim. lähdetiedostojen alikansion, kohdetiedostojen alikansin jne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you may also specify custom location of project folders.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T132404Z" creationid="piav" creationdate="20190521T132157Z">
@@ -10373,6 +10389,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T111324Z" creationid="piav" creationdate="20191127T110935Z">
         <seg>Jos kesken käännöstyötä päätät vaihtaa segmentoinnin lausetasolta kappaleittaiseksi, projektin sisäinen käännösmuisti ei muutu (OmegaT saattaa päivittää vanhat käännösmuistit, joissa lausetason segmentointia ei ole käytetty, mutta ei päin vastoin), mutta OmegaT yrittää luoda kappaleittaisia sumeita osumia yhdistämällä olemassa olevia lausekohtaisia käännöksiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you enter names of folders that do not exist yet, &lt;a0&gt;OmegaT&lt;/a0&gt; creates them for you.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T121502Z" creationid="piav" creationdate="20191127T121502Z">
+        <seg>Jos valitset käyttöön kansioita, joita ei vielä ole, &lt;a0&gt;OmegaT&lt;/a0&gt; luo ne sinulle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23417,8 +23441,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>When working on a team project, this window allows you to define the mapping between remote folders and local folders (see examples &lt;l0&gt;here&lt;/l0&gt;).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T121219Z" creationid="piav" creationdate="20191127T121219Z">
-        <seg>Kun työskentelet ryhmäprojektin parissa, voit tässä ikkunassa määritellä yhteyksiä et(ks. esimerkkejä &lt;l0&gt;täällä&lt;/l0&gt;.)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T121239Z" creationid="piav" creationdate="20191127T121219Z">
+        <seg>Kun työskentelet ryhmäprojektin parissa, voit tässä ikkunassa määritellä yhteyksiä etäkansioiden ja paikallisten kansioiden välillä (ks. esimerkkejä &lt;l0&gt;täällä&lt;/l0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
