@@ -7574,6 +7574,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each output format has specific ways of dealing with RTL display; check the relevant application manuals for details.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T132831Z" creationid="piav" creationdate="20191127T132831Z">
+        <seg>Eri tiedostomuodoissa on omat tapansa käsitellä RTL-tilaa. Tarkista lisätiedot sovellusten omista dokumentaatioista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ed&amp;it</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T140513Z" creationid="piav" creationdate="20190920T140513Z">
@@ -10365,6 +10373,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T101953Z" creationid="piav" creationdate="20191030T083145Z">
         <seg>Jos tätä ei ole valittu, lähdeteksti kopioidaan kohdesegmenttiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the original document was LTR, the display direction of the target document must be changed manually to RTL in its viewing application.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T132643Z" creationid="piav" creationdate="20191127T132512Z">
+        <seg>Jos alkuperäinen asiakirja on kirjoitettu vasemmalta oikealle, kohdeasiakirjan kirjoitussuunta on vaihdettava manuaalisesti oikealta vasemmalle. Käytä tähän sovellusta, jolla asiakirjaa katsellaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21622,8 +21638,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This means that if the source language is LTR and the target language is RTL, or vice versa, it may be necessary to toggle back and forth between RTL and LTR modes to view the source and enter the target easily in their respective modes.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T130526Z" creationid="piav" creationdate="20191127T130526Z">
-        <seg>Jos siis lähdeteksti on kirjoitettu LTR-kielellä ja kohdeteksti on kirjoitettu RTL-kielellä (tai päin vastoin), on tarpeen pystyä vaihtamaan helposti RTL- ja LTR-tilojen välillä, jotta lähdeteksti näkyy omassa tilassaan oikein ja että kohdetekstin saa omassa tilassaan kirjoitettua oikein.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T132543Z" creationid="piav" creationdate="20191127T130526Z">
+        <seg>Jos siis lähdekieltä kirjoitetaan vasemmalta oikealle ja kohdekieltä oikealta vasemmalle (tai päin vastoin), on tarpeen pystyä vaihtamaan helposti RTL- ja LTR-tilojen välillä, jotta lähdeteksti näkyy omassa tilassaan oikein ja että kohdetekstin saa omassa tilassaan kirjoitettua oikein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23633,8 +23649,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>When the translated document is created, its display direction will be the same as that of the original document.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T132405Z" creationid="piav" creationdate="20191127T132405Z">
-        <seg>Käännetyn asiakirjan kirjoitussuunta on sama kuin alkuperäisessä asiaity asiakirja on luotu, sen suunta on </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T132441Z" creationid="piav" creationdate="20191127T132405Z">
+        <seg>Käännetyn asiakirjan kirjoitussuunta on sama kuin alkuperäisessä asiakirjassa.</seg>
       </tuv>
     </tu>
     <tu>
