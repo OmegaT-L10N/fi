@@ -7181,6 +7181,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not hesitate to post in the language you feel the most familiar with.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T135758Z" creationid="piav" creationdate="20191127T135758Z">
+        <seg>Älä epäröi, vaan kirjoita rohkeasti sillä kielellä, jonka tunnet omimmaksesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not segment after M. Mr. Mrs. and Ms.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T135313Z" creationid="piav" creationdate="20191030T135004Z">
@@ -10413,6 +10421,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T130330Z" creationid="piav" creationdate="20191030T130330Z">
         <seg>Jos sääntö vastaa tekstiä, joko kursori siirtyy edelleen eikä segmenttiä vaihdeta (poikkeussääntö) tai kursorin kohdalla segmentti vaihtuu uuteen (katkaisusääntö).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the source file is modified after you have begun translating, &lt;a1&gt;OmegaT&lt;/a1&gt; may be unable to find a segment that you have already translated.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T135515Z" creationid="piav" creationdate="20191127T135515Z">
+        <seg>Jos lähdetiedosto on muuttunut sen jälkeen, kun olet alkanut kääntää, &lt;a1&gt;OmegaT&lt;/a1&gt; ei välttämättä löydä segmenttiä, jonka olet jo kääntänyt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18547,6 +18563,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Should you run into problems, post a message in the &lt;u0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; user group&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T135619Z" creationid="piav" creationdate="20191127T135619Z">
+        <seg>Jos törmäät ongelmiin, kirjoita &lt;u0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;-käyttäjäryhmälle&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T065925Z" creationid="piav" creationdate="20190522T065925Z">
@@ -23221,6 +23245,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use these Help texts to get started.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T135548Z" creationid="piav" creationdate="20191127T135548Z">
+        <seg>Käytä näitä ohjetekstejä päästäksesi alkuun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use this button to open a dialog, activate the check box &lt;g0&gt;Project specific segmentation rules&lt;/g0&gt;, then proceed to adjust the segmentation rules as desired.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T115054Z" creationid="piav" creationdate="20191127T114846Z">
@@ -26535,6 +26567,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T121932Z" creationid="piav" creationdate="20191127T121932Z">
         <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T135516Z" creationid="piav" creationdate="20191127T135516Z">
+        <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
       </tuv>
     </tu>
     <tu>
