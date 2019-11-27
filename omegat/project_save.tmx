@@ -4663,6 +4663,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T122953Z" creationid="piav" creationdate="20191127T122953Z">
+        <seg>Oletus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the closest matches displayed in the &lt;g0&gt;Fuzzy Matches&lt;/g0&gt; pane are determined using stemming.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T083631Z" creationid="piav" creationdate="20191127T083228Z">
@@ -11586,6 +11594,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Justification of source and target segments depends upon the project languages.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T122944Z" creationid="piav" creationdate="20191127T122944Z">
+        <seg>Lähde- ja kohdesegmenttien tasaus riippuu projektin kielistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Kalaallisut, Greenlandic</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T181146Z" creationid="PiaVee" creationdate="20171014T174447Z">
@@ -12510,6 +12526,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174915Z" creationid="PiaVee" creationdate="20171014T174910Z">
         <seg>malta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manage Right-To-Left languages</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T122915Z" creationid="piav" creationdate="20191127T122915Z">
+        <seg>Oikealta vasemmale luettavien kielien hallinta</seg>
       </tuv>
     </tu>
     <tu>
