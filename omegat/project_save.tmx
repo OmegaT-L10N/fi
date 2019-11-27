@@ -20598,6 +20598,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The segmentation rules are generally valid across all the projects.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T114719Z" creationid="piav" creationdate="20191127T114719Z">
+        <seg>Segmentointisääntöjä käytetään kaikissa projekteissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The segmentation settings only address the way the source files are handled by &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T110848Z" creationid="piav" creationdate="20191127T110227Z">
@@ -20818,6 +20826,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T135229Z" creationid="PiaVee" creationdate="20171014T135229Z">
         <seg>Käyttäjäryhmä on samalla pääasiallinen yhteistyökanava käyttäjien ja projektitiimin välillä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user, however, may need to generate a set of rules, specific to the project in question.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T114826Z" creationid="piav" creationdate="20191127T114826Z">
+        <seg>Käyttäjä voi kuitenkin joutua luomaan erityisen säännöstön, joka koskee kyseistä projektia.</seg>
       </tuv>
     </tu>
     <tu>
