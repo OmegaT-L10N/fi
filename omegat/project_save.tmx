@@ -10030,6 +10030,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T133947Z" creationid="piav" creationdate="20191127T133947Z">
+        <seg>Silti &lt;a1&gt;OmegaT&lt;/a1&gt;:n ja myös minkä tahansa muun sovelluksen käytössä tulisi kuitenkin huolehtia varotoimista, joilla estetään tietojen menettämien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hungarian</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174256Z" creationid="PiaVee" creationdate="20171014T174256Z">
