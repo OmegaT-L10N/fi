@@ -10195,8 +10195,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T112532Z" creationid="piav" creationdate="20191127T112532Z">
-        <seg>Jos automaattisen käytön valintaruudussa ei ole rastia, vaihtoehtoisia käännöksiä sisältävät segmentit pysyvät kääntämättä, </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T112725Z" creationid="piav" creationdate="20191127T112532Z">
+        <seg>Jos automaattisen käytön valintaruudussa ei ole rastia, vaihtoehtoisia käännöksiä sisältävät segmentit pysyvät kääntämättä niin kauan, kunnes käyttäjä on valinnut sopivan käännöksen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12908,8 +12908,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mistranslated segments can of course be corrected later manually using &lt;g0&gt;Create Alternative Translation&lt;/g0&gt;.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T112636Z" creationid="piav" creationdate="20191127T112619Z">
-        <seg>Väärin käännetyt segmentit voidaan tietysti korjata myöhemmin käyttämällä &lt;g0&gt;Luo vaihtoehtoinen käännös&lt;/g0&gt;.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T112701Z" creationid="piav" creationdate="20191127T112619Z">
+        <seg>Väärin käännetyt segmentit voidaan tietysti korjata myöhemmin käyttämällä valintaa &lt;g0&gt;Luo vaihtoehtoinen käännös&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23211,6 +23211,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T074844Z" creationid="piav" creationdate="20190522T065842Z">
         <seg>Kun tämä on valittuna, sanaston automaattisen täydennyksen valintaikkunassa näkyy myös lähdekielinen teksti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When enabled, all the formatting tags are removed from source segments.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T113102Z" creationid="piav" creationdate="20191127T112740Z">
+        <seg>Kun valitset tämän, Käyttämällä tätä Kun tämä valinta on käyTäm</seg>
       </tuv>
     </tu>
     <tu>
