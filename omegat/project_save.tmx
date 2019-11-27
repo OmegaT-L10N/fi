@@ -22773,6 +22773,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use this button to open a dialog, activate the check box &lt;g0&gt;Project specific segmentation rules&lt;/g0&gt;, then proceed to adjust the segmentation rules as desired.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T115054Z" creationid="piav" creationdate="20191127T114846Z">
+        <seg>Avaa valintaikkuna napsauttamalla tätä painiketta, laita rasti &lt;g0&gt;Projektikohtaiset segmentointisäännöt&lt;/g0&gt; -ruutuun ja muokkaa segmentointisääntöjä toivotun laisiksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use this feature when you have undocked, moved or hidden one or more components and you are unable to restore the desired arrangement.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T074946Z" creationid="piav" creationdate="20191030T074843Z">
