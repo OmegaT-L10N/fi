@@ -4087,6 +4087,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-propagation of Translations</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T111601Z" creationid="piav" creationdate="20191127T111601Z">
+        <seg>Automaattinen käännösehdotusten käyttö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-sync with Editor</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T142229Z" creationid="piav" creationdate="20190521T142229Z">
@@ -21342,8 +21350,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This will effectively return them to the "untranslated" status, as they will no longer match segments recorded in the project memory, even though their original translation is still there.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T111421Z" creationid="piav" creationdate="20191127T111421Z">
-        <seg>Tämä muuttaa käännösten tilaa, niistä "kääntämättä"</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T111550Z" creationid="piav" creationdate="20191127T111421Z">
+        <seg>Tällöin käännösten tila muuttuu ja niistä tulee "kääntämättömiä", sillä segmentit eivät enää vastaa projektin muistissa olevia segmenttejä, vaikka alkuperäinen käännös onkin siellä tallessa.</seg>
       </tuv>
     </tu>
     <tu>
