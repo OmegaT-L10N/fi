@@ -9038,6 +9038,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For .docx files, a number of changes are however done automatically:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T133027Z" creationid="piav" creationdate="20191127T133027Z">
+        <seg>Joitakin muutoksia tapahtuu automaattisesti .docx-tiedostoja luotaessa: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For all files:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090838Z" creationid="PiaVee" creationdate="20171218T090838Z">
@@ -20398,8 +20406,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T125517Z" creationid="piav" creationdate="20191127T123941Z">
-        <seg>Käännettyjen asiakirjojen näyttötilaa pitää muokata siinä sovelluksessa, jolla asiakirjaa tavallisesti katsellaan tai jolla sitä muokataan (esim. Microsoft Word). Tarkempia ohjeita saat kyseisen sovelluksen dokumentaatiosta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T132909Z" creationid="piav" creationdate="20191127T123941Z">
+        <seg>Käännettyjen asiakirjojen näyttötilaa pitää muokata siinä sovelluksessa, jolla asiakirjaa tavallisesti katsellaan tai jolla sitä muokataan (esim. Microsoft Word). Tarkempia ohjeita saat sovelluksen omasta dokumentaatiosta.</seg>
       </tuv>
     </tu>
     <tu>
