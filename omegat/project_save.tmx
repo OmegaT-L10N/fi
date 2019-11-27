@@ -2003,6 +2003,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; tags in RTL segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T130551Z" creationid="piav" creationdate="20191127T130551Z">
+        <seg>RTL-segmenteissä olevat &lt;a0&gt;OmegaT&lt;/a0&gt;-tägit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; uses the following sequence of steps:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T125017Z" creationid="piav" creationdate="20191030T125017Z">
@@ -3971,6 +3979,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T084254Z" creationid="piav" creationdate="20191022T084254Z">
         <seg>Koska ensisijaisen sanaston ja muiden sanastojen termit voivat mennä sekaisin, ensisijaisen sanaston termit on lihavoitu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As stated above, OmegaT tags are LTR strings.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T130605Z" creationid="piav" creationdate="20191127T130605Z">
+        <seg>Kuten edellä kerrottiin, OmegaT-tägit ovat LTR-merkkijonoja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23579,6 +23595,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T101846Z" creationid="piav" creationdate="20191029T101248Z">
         <seg>Kun tässä kohdassa on rasti, sanasto näyttää sanaryhmiä tai lausekkeita, vaikka niiden sanat esiintyvät yksittäin lähtötekstissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When translating between RTL and LTR languages, correctly reading the tags from the source and entering them properly in the target may require the translator to toggle between LTR and RTL modes numerous times.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T130833Z" creationid="piav" creationdate="20191127T130833Z">
+        <seg>RTL- ja LTR-kielten välillä toimiva kääntäjä voi joutua vaihtamaan LTR- ja RTL-tilan välillä tämän tästä, jotta hän pystyy lukemaan lähdekielisen tägin ja kirjoittamaan sen oikein kohdesegmenttiin.</seg>
       </tuv>
     </tu>
     <tu>
