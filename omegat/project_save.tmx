@@ -2773,8 +2773,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>A copy of the changed filters configuration will be stored with the project.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T120232Z" creationid="piav" creationdate="20191127T120145Z">
-        <seg>Kopio muutetuista tiedostoasetuksista tallennetaan projektiin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T120344Z" creationid="piav" creationdate="20191127T120145Z">
+        <seg>Muutettujen tiedostoasetusten kopio tallennetaan osaksi projektia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10555,8 +10555,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In a similar fashion as above the user can create project-specific File filters, which will be stored together with the project and will be valid for the current project only.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T115640Z" creationid="piav" creationdate="20191127T115610Z">
-        <seg>Käyttäjä voi luoda projektikohtaisia tiedostosuodattimia samaan tapaan kuin edellä. Tiedostosuodattimia säilytetään yhdessä projektin kanssa, ja ne ovat voimassa vain kyseisessä projektissa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T120318Z" creationid="piav" creationdate="20191127T115610Z">
+        <seg>Käyttäjä voi luoda projektikohtaisia tiedostosuodattimia samaan tapaan kuin edellä. Tiedostosuodattimet tallennetaan osaksi projektia, ja ne ovat voimassa vain kyseisessä projektissa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13738,6 +13738,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T080239Z" creationid="piav" creationdate="20191022T080239Z">
         <seg>Huomaa, että tässä on vain puolet (tai sitäkin vähemmän) totuudesta, sillä kohdekieli (sloveeni) käyttää taivutettuja sanamuotoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that in the menu &lt;g2&gt;Options-&gt;File Filters&lt;/g2&gt;, the global user filters are changed, not the project filters.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T120522Z" creationid="piav" creationdate="20191127T120522Z">
+        <seg>Huomaa, että valikossa &lt;g2&gt;Asetukset -&gt; Tiedostosuodattimet&lt;/g2&gt; muutetaan yleisiä käyttäjäsuodattimia, ei projektikohtaisia suodattimia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21582,10 +21590,18 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To delete project specific file filters, uncheck the check box.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T120419Z" creationid="piav" creationdate="20191127T120419Z">
+        <seg>Poista projektikohtaiset tiedostosuodattimet poistamalla rasti valintaruudusta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To delete project specific segmentation rules, uncheck the check box.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T115232Z" creationid="piav" creationdate="20191127T115232Z">
-        <seg>Poista projektikohtaiset segmentointisäännöt poistamalla rasti ruudusta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191127T120426Z" creationid="piav" creationdate="20191127T115232Z">
+        <seg>Poista projektikohtaiset segmentointisäännöt poistamalla rasti valintaruudusta.</seg>
       </tuv>
     </tu>
     <tu>
