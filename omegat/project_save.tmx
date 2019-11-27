@@ -2003,6 +2003,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a robust application.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T133627Z" creationid="piav" creationdate="20191127T133627Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; on kestävä sovellus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; tags in RTL segments</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T130551Z" creationid="piav" creationdate="20191127T130551Z">
@@ -15751,6 +15759,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Prevent data loss</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T133606Z" creationid="piav" creationdate="20191127T133606Z">
+        <seg>Tietojen menetyksen estäminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T094548Z" creationid="piav" creationdate="20190522T081626Z">
@@ -19353,6 +19369,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T133226Z" creationid="piav" creationdate="20190521T133226Z">
         <seg>Aliversio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such modifications are possible in ODF files for example.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191127T133558Z" creationid="piav" creationdate="20191127T133558Z">
+        <seg>Esimerkiksi ODF-tiedostoihin voidaan tehdä tällaisia muutoksia.</seg>
       </tuv>
     </tu>
     <tu>
