@@ -24151,6 +24151,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you exit the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T083129Z" creationid="piav" creationdate="20191128T083129Z">
+        <seg>Kun poistut projektista,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T134252Z" creationid="piav" creationdate="20191127T134252Z">
@@ -29337,6 +29345,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081914Z" creationid="PiaVee" creationdate="20171015T081914Z">
         <seg>tha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the TMX files in the main project folder (see above) now contain the translations in the selected language pair, for the files, you have copied into the source folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T083302Z" creationid="piav" creationdate="20191128T083302Z">
+        <seg>projektin pääkansiosta (ks. yllä) löytyy kolme TMX-tiedostoa, joissa on lähdetiedostoon kopioitujen asiakirjojen käännökset valitulla kieliparilla.</seg>
       </tuv>
     </tu>
     <tu>
