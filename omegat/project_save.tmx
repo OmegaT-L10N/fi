@@ -10230,6 +10230,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a given sentence has already been translated once, and translated correctly, there is no need for it to be retranslated.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T071833Z" creationid="piav" creationdate="20191128T071833Z">
+        <seg>Jos käännettävänä on lause, joka on käännetty jo aiemmin ja on käännetty oikein, sitä ei tarvitse kääntää uudelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T071900Z" creationid="piav" creationdate="20191022T071334Z">
@@ -11051,8 +11059,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Initially, that is when the project is created, the main TM of the project, &lt;f0&gt;project_save.tmx&lt;/f0&gt; is empty.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T071403Z" creationid="piav" creationdate="20191128T071403Z">
-        <seg>Kun projekti luodaan, projektin pääkäännösmuisti &lt;f0&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T071443Z" creationid="piav" creationdate="20191128T071403Z">
+        <seg>Projektin pääkäännösmuisti on &lt;f0&gt;project_save.tmx&lt;/f0&gt;. Aluksi, eli kun projekti luodaan, käännösmuisti on tyhjä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21507,6 +21515,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This TM gradually becomes filled during the translation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T071554Z" creationid="piav" creationdate="20191128T071554Z">
+        <seg>Käännösmuistiin kertyy sisältöä käännöstyön aikana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This URL appears to be invalid.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T125926Z" creationid="piav" creationdate="20190920T125926Z">
@@ -22098,6 +22114,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T083853Z" creationid="piav" creationdate="20191127T083646Z">
         <seg>Laita &lt;g0&gt;Koko teksti tägeineen ja numeroineen&lt;/g0&gt; -valintaruutuun rasti, niin saat kirjaimellisempia ja lähempänä 100 % olevia osumia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To speed up this process, existing translations can be reused.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T071615Z" creationid="piav" creationdate="20191128T071615Z">
+        <seg>Tätä prosessia voidaan nopeuttaa käyttämällä olemassa olevia käännöksiä uudelleen.</seg>
       </tuv>
     </tu>
     <tu>
