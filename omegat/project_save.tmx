@@ -4065,6 +4065,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As above.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T121629Z" creationid="piav" creationdate="20191128T121629Z">
+        <seg>Kuten yllä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T084254Z" creationid="piav" creationdate="20191022T084254Z">
@@ -8556,6 +8564,22 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T084123Z" creationid="PiaVee" creationdate="20170910T084123Z">
         <seg>Esimerkki – Etsi ja korvaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T121700Z" creationid="piav" creationdate="20191128T121700Z">
+        <seg>Esimerkki: &lt;u0&gt;**/*.docx&lt;/u0&gt; lisää kaikki .docx-tiedosto, missä päin projektia ne sitten sijaitsevatkaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example: &lt;u0&gt;**/.ini/**&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T121624Z" creationid="piav" creationdate="20191128T121624Z">
+        <seg>Esimerkki: &lt;u0&gt;**/.ini/**&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21302,6 +21326,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The inclusion rules take priority over the exclusion rules.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T121953Z" creationid="piav" creationdate="20191128T121734Z">
+        <seg>Mukaan lukien -säännöt ovat korkeammalle priorisoituja kuin pois lukien -säännöt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The items are not separated with a TAB character.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T084418Z" creationid="piav" creationdate="20191022T084418Z">
@@ -27633,6 +27665,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174310Z" creationid="PiaVee" creationdate="20171014T174310Z">
         <seg>ina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>includes</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T121626Z" creationid="piav" creationdate="20191128T121626Z">
+        <seg>includes</seg>
       </tuv>
     </tu>
     <tu>
