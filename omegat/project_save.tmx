@@ -15068,8 +15068,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Once the project is set up on the server, the project manager can invite the translator to work on it in either of two different ways:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T115343Z" creationid="piav" creationdate="20191128T115343Z">
-        <seg>Kun projekti on saatu määritettyä palvelimelle, projektipäällikkö voi kutsua kääntäjät työskentelemään sen parissa jommalla kummalla tavalla:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T115743Z" creationid="piav" creationdate="20191128T115343Z">
+        <seg>Kun projekti on saatu määritettyä palvelimelle, projektipäällikkö voi kutsua kääntäjät työskentelemään sen parissa. Projektipäällikkö voi joko</seg>
       </tuv>
     </tu>
     <tu>
@@ -29349,10 +29349,20 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>sending an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing a reference to the URL and asking the translator to copy it into a dedicated folder and open it with OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T115725Z" creationid="piav" creationdate="20191128T115542Z">
+        <seg>lähettämällä kääntäjälle &lt;f0&gt;omegat.project&lt;/f0&gt;-tiedoston, jossa on viitteenä toimiva URL-osoite, ja pyytämällä kääntäjää kopioimaan tiedosto omaan kansioonsa ja avamaan se OmegaT:llä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>sending the URL of the project and asking the translator to create a local copy with &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Download Team Project&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T115439Z" creationid="piav" creationdate="20191128T115439Z">
-        <seg>lähettämällä projektin URL-osoitteen kääntäjälle ja pyytämällä tätä luomaan projektista paikallinen versio kohdassa &lt;m0&gt; &lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;Lataa </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T115625Z" creationid="piav" creationdate="20191128T115439Z">
+        <seg>lähettämällä projektin URL-osoitteen kääntäjälle ja pyytämällä tätä luomaan projektista paikallinen versio kohdassa &lt;m0&gt; &lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;Lataa ryhmäprojekti&lt;/g2&gt; &lt;/m0&gt;
+
+tai</seg>
       </tuv>
     </tu>
     <tu>
