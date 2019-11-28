@@ -14718,6 +14718,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT interfaces to SVN and Git, two common team software versioning and revision control systems (RCS), available under an open source license.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T085936Z" creationid="piav" creationdate="20191128T085936Z">
+        <seg>OmegaT:n ryhmäprojektitoiminto käyttää SVN:n ja Gitin versionhallintaa. Ne ovat kaksi tavallista avoimen lähdekoodin lisenssillä julkaistua joukkuohjelmiston versionhallintajärjestelmää (RCS,).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T184225Z" creationid="piav" creationdate="20190521T181303Z">
