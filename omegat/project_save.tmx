@@ -2347,6 +2347,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T113610Z" creationid="piav" creationdate="20191128T113610Z">
+        <seg>&lt;g0&gt;Projekti&lt;/g0&gt; &lt;g1&gt;Uusi…&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T105012Z" creationid="piav" creationdate="20190913T110941Z">
@@ -6109,6 +6117,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T113524Z" creationid="piav" creationdate="20191128T113524Z">
+        <seg>Luo tietovarastosta paikallinen kopio (SVN:ssä &lt;c0&gt;check out&lt;/c0&gt;, Gitissä &lt;c1&gt;clone&lt;/c1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a new, empty OmegaT project in the local repository.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T113539Z" creationid="piav" creationdate="20191128T113539Z">
+        <seg>Luo paikalliseet tietovarastoon uusi, tyhjä OmegaT-projekti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create a project, separate for other projects, in the desired language pair, with an appropriate name - note that the TMXs created will include this name.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T082536Z" creationid="piav" creationdate="20191128T082348Z">
@@ -6119,8 +6143,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Create an SVN or Git repository on a server that will be accessible by the translators.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T113252Z" creationid="piav" creationdate="20191128T113252Z">
-        <seg>Luo SVN- tai Git-</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T113409Z" creationid="piav" creationdate="20191128T113252Z">
+        <seg>Luo SVN- tai Git-tietovarasto sellaiselle palvelimelle, jonne kääntäjillä on pääsy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21947,6 +21971,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can be done in two ways:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T113545Z" creationid="piav" creationdate="20191128T113545Z">
+        <seg>Tämän voi tehdä kahdella tapaa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T145743Z" creationid="piav" creationdate="20191022T145743Z">
@@ -28353,6 +28385,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T080855Z" creationid="PiaVee" creationdate="20171015T080855Z">
         <seg>om</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T113635Z" creationid="piav" creationdate="20191128T113635Z">
+        <seg>komentorivillä: &lt;c0&gt;java -jar OmegaT.jar team init [kieli1] [kieli2]&lt;/c0&gt;</seg>
       </tuv>
     </tu>
     <tu>
