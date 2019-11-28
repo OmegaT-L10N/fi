@@ -10923,6 +10923,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T122628Z" creationid="piav" creationdate="20191128T122628Z">
+        <seg>Jos käännöksessä tarvitaan samat tekstimuotoilut (sekä muut elmentit kuten kuvat) kun alkuperäisessä asiakirjassa, voit yrittää kolmea tapaa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T114802Z" creationid="piav" creationdate="20191023T112648Z">
