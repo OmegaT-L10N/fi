@@ -5119,6 +5119,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check for possible Tag errors with &lt;k0&gt;Ctrl+T &lt;/k0&gt;and untranslated segments with &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T082830Z" creationid="piav" creationdate="20191128T082830Z">
+        <seg>Tarkista mahdolliset tägivirheet näppäinyhdistelmällä &lt;k0&gt;Ctrl+T&lt;/k0&gt; ja kääntämättömät segmentit näppäinyhdistelmällä &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T114829Z" creationid="piav" creationdate="20191023T113246Z">
@@ -5881,6 +5889,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T082611Z" creationid="piav" creationdate="20191128T082611Z">
         <seg>Kopioi projektin lähdekansioon ne asiakirjat, jotka haluat mukaan käännösmuistiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T082651Z" creationid="piav" creationdate="20191128T082651Z">
+        <seg>Kopioi näiden asiakirjojen käännökset sisältävät käännösmuistit uuden projektin &lt;f0&gt;tm/auto&lt;/f0&gt;-alikansioon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19501,6 +19517,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T082656Z" creationid="piav" creationdate="20191128T082656Z">
+        <seg>Aloita projekti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090416Z" creationid="PiaVee" creationdate="20171218T090416Z">
@@ -22154,6 +22178,14 @@ palvelimelta.</seg>
       <tuv lang="FI" changeid="piav" changedate="20190920T121611Z" creationid="piav" creationdate="20190920T121611Z">
         <seg>Näin varmistat, että käännökset eivät katoa:
 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To check everything is as expected, you may press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to create the target documents and check their contents.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T083111Z" creationid="piav" creationdate="20191128T083111Z">
+        <seg>Luo kohdeasiakirjat painamalla &lt;k2&gt;Ctrl+D&lt;/k2&gt;, niin voit tarkistaa, että niiden sisällössä kaikki on kunnossa.</seg>
       </tuv>
     </tu>
     <tu>
