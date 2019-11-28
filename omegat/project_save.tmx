@@ -6117,6 +6117,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create an SVN or Git repository on a server that will be accessible by the translators.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T113252Z" creationid="piav" creationdate="20191128T113252Z">
+        <seg>Luo SVN- tai Git-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T120422Z" creationid="piav" creationdate="20190920T120422Z">
@@ -6177,6 +6185,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T081901Z" creationid="piav" creationdate="20191128T081901Z">
         <seg>Valittujen asiakirjojen käännösmuistin luominen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating an empty project on a server</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T113228Z" creationid="piav" creationdate="20191128T113228Z">
+        <seg>Tyhjän projektin luominen palvelimelle</seg>
       </tuv>
     </tu>
     <tu>
@@ -19641,6 +19657,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T132442Z" creationid="piav" creationdate="20190920T132442Z">
         <seg>1. vaihe: Muokkaa kohdistusparametrejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 1: Create an empty project on a server</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T113210Z" creationid="piav" creationdate="20191128T113210Z">
+        <seg>1. vaihe: Luo palvelimelle tyhjä projekti</seg>
       </tuv>
     </tu>
     <tu>
