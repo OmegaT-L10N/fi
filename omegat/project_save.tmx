@@ -10929,6 +10929,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case, place the translation memories you wish to use in the &lt;e0&gt;/tm&lt;/e0&gt; or &lt;e1&gt;/tm&lt;/e1&gt;/auto folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T072914Z" creationid="piav" creationdate="20191128T072914Z">
+        <seg>Vie haluamasi käännösmuistit uuden projektin &lt;e0&gt;/tm&lt;/e0&gt;-kansioon. Tämän kansion käännösmuistit su &lt;e1&gt;/tm&lt;/e1&gt;/auto-kansioon. Käyttämällä /tm-kansiota  folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In view of the flexibility, you may consider defining more exception rules for your source language in order to provide more meaningful and coherent segments.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T132850Z" creationid="piav" creationdate="20191030T132444Z">
