@@ -8792,16 +8792,16 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T101725Z" creationid="PiaVee" creationdate="20171218T072129Z">
-        <seg>Lähdetiedostojen vahvistus ei onnistunut!</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T114631Z" creationid="PiaVee" creationdate="20171218T072129Z">
+        <seg>Lähdetiedostojen lähetys ei onnistunut!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Failed to commit target files!</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072137Z" creationid="PiaVee" creationdate="20171218T072137Z">
-        <seg>Kohdetiedostojen vahvistus ei onnistunut!</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T114634Z" creationid="PiaVee" creationdate="20171218T072137Z">
+        <seg>Kohdetiedostojen lähetys ei onnistunut!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15670,8 +15670,8 @@ your home folder.</seg>
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T101715Z" creationid="PiaVee" creationdate="20171015T094257Z">
-        <seg>Lisää lähdetiedostot kansioon ./source, apumateriaali kansioihin ./tm, ./glossary ja ./dictionary ja vahvista kaikki.
+      <tuv lang="FI" changeid="piav" changedate="20191128T114627Z" creationid="PiaVee" creationdate="20171015T094257Z">
+        <seg>Lisää lähdetiedostot kansioon ./source, apumateriaali kansioihin ./tm, ./glossary ja ./dictionary ja lähetä kaikki.
 </seg>
       </tuv>
     </tu>
@@ -19373,8 +19373,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Source files committed</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124251Z" creationid="PiaVee" creationdate="20171015T124251Z">
-        <seg>Lähdetiedostot vahvistettu</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T114639Z" creationid="PiaVee" creationdate="20171015T124251Z">
+        <seg>Lähdetiedostot lähetetty</seg>
       </tuv>
     </tu>
     <tu>
@@ -20207,8 +20207,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Target files committed</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072159Z" creationid="PiaVee" creationdate="20171218T072159Z">
-        <seg>Kohdetiedostot vahvistettu</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T114641Z" creationid="PiaVee" creationdate="20171218T072159Z">
+        <seg>Kohdetiedostot lähetetty</seg>
       </tuv>
     </tu>
     <tu>
@@ -22013,8 +22013,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This can also be done within OmegaT:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T114440Z" creationid="piav" creationdate="20191128T114440Z">
-        <seg>Tämän voi tehdä myös OmegaT-ohjelmassa:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T114814Z" creationid="piav" creationdate="20191128T114440Z">
+        <seg>Tämän voi tehdä myös OmegaT:ssä:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22400,6 +22400,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T103747Z" creationid="piav" creationdate="20191030T103747Z">
         <seg>Lisää uusi tiedostonimen muoto napsauttamalla &lt;e1&gt;Lisää&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add other resources (dictionaries, TMXs or glossaries), use an SVN or Git client.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T114846Z" creationid="piav" creationdate="20191128T114738Z">
+        <seg>Lisää muita resursseja (sanakirjoja, TMX-tiedostoja tai sanastoja) SVN- tai Git-asiakasohjelmassa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23719,8 +23727,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>Use an SVN or Git client to add the files to translate.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T114430Z" creationid="piav" creationdate="20191128T114430Z">
-        <seg>Käytä SVN- tai Git-asiakasta käännettävien tiedostojen lisäämiseen.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T114802Z" creationid="piav" creationdate="20191128T114430Z">
+        <seg>Lisää käännettävät tiedostot SVN- tai Git-asiakasohjelmassa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29927,8 +29935,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>use &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Commit Source Files&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T114533Z" creationid="piav" creationdate="20191128T114533Z">
-        <seg>valitse &lt;m0&gt; &lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;Commit Source Files&lt;/g2&gt; &lt;/m0&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T114658Z" creationid="piav" creationdate="20191128T114533Z">
+        <seg>valitse &lt;m0&gt; &lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;Lähetä lähdetiedostot&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
