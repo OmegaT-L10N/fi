@@ -10931,8 +10931,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In this case, place the translation memories you wish to use in the &lt;e0&gt;/tm&lt;/e0&gt; or &lt;e1&gt;/tm&lt;/e1&gt;/auto folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T072914Z" creationid="piav" creationdate="20191128T072914Z">
-        <seg>Vie haluamasi käännösmuistit uuden projektin &lt;e0&gt;/tm&lt;/e0&gt;-kansioon. Tämän kansion käännösmuistit su &lt;e1&gt;/tm&lt;/e1&gt;/auto-kansioon. Käyttämällä /tm-kansiota  folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T073109Z" creationid="piav" creationdate="20191128T072914Z">
+        <seg>Vie haluamasi käännösmuistit uuden projektin &lt;e0&gt;/tm&lt;/e0&gt;-kansioon. Tämän kansion käännösmuisteista löytyvät osumat näkyvät sumeiden osumien ruudussa. Voit myös viedä käännösmuisteja &lt;e1&gt;/tm&lt;/e1&gt;/auto-kansioon. Tässä kansiossa olevia käännösmuisteja käytetään lähdetekstin  Käyttämällä /tm-kansiota  folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16873,8 +16873,8 @@ projektin ilman ryhmäominaisuutta.</seg>
       <tuv lang="EN">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T065223Z" creationid="PiaVee" creationdate="20171015T122139Z">
-        <seg>Korvaa sanasto-osumat lähtötekstiä lisättäessä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T073130Z" creationid="PiaVee" creationdate="20171015T122139Z">
+        <seg>Korvaa sanasto-osumat lähdetekstiä lisättäessä</seg>
       </tuv>
     </tu>
     <tu>
@@ -21112,8 +21112,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T133247Z" creationid="piav" creationdate="20190521T133247Z">
-        <seg>Annettu lähtökieli ei kelpaa!</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T073146Z" creationid="piav" creationdate="20190521T133247Z">
+        <seg>Annettu lähdetiedoston kieli ei kelpaa!</seg>
       </tuv>
     </tu>
     <tu>
@@ -23287,8 +23287,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T065217Z" creationid="PiaVee" creationdate="20171015T111851Z">
-        <seg>Käytä lähtötekstin yksittäisiä termejä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T073127Z" creationid="PiaVee" creationdate="20171015T111851Z">
+        <seg>Käytä lähdetekstin yksittäisiä termejä</seg>
       </tuv>
     </tu>
     <tu>
