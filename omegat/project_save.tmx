@@ -1971,6 +1971,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T122126Z" creationid="piav" creationdate="20191128T122126Z">
+        <seg>&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/repository&gt;
 &lt;/repositories&gt;</seg>
       </tuv>
@@ -2613,6 +2621,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T122049Z" creationid="piav" creationdate="20191128T122049Z">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T122125Z" creationid="piav" creationdate="20191128T122125Z">
+        <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;none&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T114618Z" creationid="piav" creationdate="20190920T114618Z">
@@ -2777,6 +2801,30 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T120003Z" creationid="piav" creationdate="20191128T120003Z">
         <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T122124Z" creationid="piav" creationdate="20191128T122124Z">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T122048Z" creationid="piav" creationdate="20191128T122048Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T122014Z" creationid="piav" creationdate="20191128T122014Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3593,6 +3641,22 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T104717Z" creationid="piav" creationdate="20190913T104717Z">
         <seg>Kaikki kielitunnuksen mukaiset segmentointisäännöt ovat voimassa, ja niitä käytetään tärkeysjärjestyksessä. Siksi tietyn kielitunnuksen mukaisten sääntöjen pitäisi olla listalla korkeammalla kuin oletussäännöt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T122123Z" creationid="piav" creationdate="20191128T122123Z">
+        <seg>Kaikki sijainnin &lt;f0&gt;&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; sisällöt yhdistetään paikalliseen OmegaT-projektiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T122046Z" creationid="piav" creationdate="20191128T122046Z">
+        <seg>Kaikki sijainnin &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; sisällöt yhdistetään paikalliseen OmegaT-projektiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8564,6 +8628,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T084123Z" creationid="PiaVee" creationdate="20170910T084123Z">
         <seg>Esimerkki – Etsi ja korvaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example mappings</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T122011Z" creationid="piav" creationdate="20191128T122011Z">
+        <seg>Yhdistämisesimerkkejä</seg>
       </tuv>
     </tu>
     <tu>
@@ -21612,6 +21684,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T145459Z" creationid="piav" creationdate="20191022T145459Z">
         <seg>Hakutoiminnoissa ja segmentointisäännöissä käytetään Java-ohjelmointikielen tukemia säännöllisiä lausekkeita (lyhyesti: regex).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T122154Z" creationid="piav" creationdate="20191128T122154Z">
+        <seg>Etätiedosto&lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; yhdistetään paikalliseen &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;-tiedostoon.</seg>
       </tuv>
     </tu>
     <tu>
