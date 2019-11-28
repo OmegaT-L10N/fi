@@ -22479,6 +22479,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation memories may also contain reference translations: multinational legislation, such as that of the European Community, is a typical example.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T072021Z" creationid="piav" creationdate="20191128T071851Z">
+        <seg>Käännösmuisteissa voi olla myös viitteinä toimivia käännöksiä. Tyypillinen esimerkki tästä on Euroopan unionin monikielinen lainsäädäntö.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation memory files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T133917Z" creationid="piav" creationdate="20190521T133917Z">
