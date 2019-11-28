@@ -2383,8 +2383,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T105609Z" creationid="piav" creationdate="20190522T083030Z">
-        <seg>&lt;html&gt;Lisää muotoja käyttämällä jokerimerkkejä (Apache Ant -tyyliin): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Esimerkki: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T121505Z" creationid="piav" creationdate="20190522T083030Z">
+        <seg>&lt;html&gt;Lisää muotoja käyttämällä yleismerkkejä (Apache Ant -tyyliin): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Esimerkki: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3345,6 +3345,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T101549Z" creationid="piav" creationdate="20190913T081418Z">
         <seg>Lisää tai kirjoita HTML- ja XHTML-tiedostoihin maininta merkistökoodauksesta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add patterns using wildcards (Apache Ant style): *, ?, **</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T121619Z" creationid="piav" creationdate="20191128T121432Z">
+        <seg>Lisää kuvioita yleismerkkien avulla (Apache Ant -tyyliin): *, ?, **</seg>
       </tuv>
     </tu>
     <tu>
@@ -11837,8 +11845,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>It is possible to use wildcards, using the &lt;u0&gt;ant syntax&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T122826Z" creationid="piav" creationdate="20191127T122148Z">
-        <seg>Voit käyttää &lt;u0&gt;ant-syntaksin&lt;/u0&gt; mukaisia jokerimerkkejä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T121516Z" creationid="piav" creationdate="20191127T122148Z">
+        <seg>Voit käyttää &lt;u0&gt;Apache Ant-syntaksin&lt;/u0&gt; mukaisia yleismerkkejä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13878,8 +13886,16 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Name of the local folder or file, relative to the root of the OmegaT project.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T121258Z" creationid="piav" creationdate="20191128T121226Z">
-        <seg>Paikallisen kansion tai tiedoston nimi suhteessa OmegaT-projektin juurikansioon</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T121313Z" creationid="piav" creationdate="20191128T121226Z">
+        <seg>Paikallisen kansion tai tiedoston nimi suhteessa OmegaT-projektin pääkansioon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name of the remote folder or file, relative to the repository url.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T121422Z" creationid="piav" creationdate="20191128T121422Z">
+        <seg>Etäkansion tai -tiedoston nimi suhteessa tietovaraston URL-osoitteeseen</seg>
       </tuv>
     </tu>
     <tu>
@@ -17067,8 +17083,8 @@ projektin ilman ryhmäominaisuutta.</seg>
       <tuv lang="EN">
         <seg>Remote location of the files to translate.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T121153Z" creationid="piav" creationdate="20191128T121153Z">
-        <seg>Käännettävien tiedostojen etäsijainti.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T121316Z" creationid="piav" creationdate="20191128T121153Z">
+        <seg>Käännettävien tiedostojen etäsijainti</seg>
       </tuv>
     </tu>
     <tu>
@@ -19495,8 +19511,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Source filename patterns use wild card characters similar to those used in &lt;e2&gt;Searches.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T110820Z" creationid="piav" creationdate="20191030T110743Z">
-        <seg>Lähdetiedoston nimen muodoissa käytetään samoja jokerimerkkejä kuin &lt;e2&gt;hakutoiminnoissa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T121534Z" creationid="piav" creationdate="20191030T110743Z">
+        <seg>Lähdetiedoston nimen muodoissa käytetään samoja yleismerkkejä kuin &lt;e2&gt;hakutoiminnoissa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24692,9 +24708,9 @@ rivillä {1}, sarakkeessa {2}.</seg>
         <seg>Wildcards:
 Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T140527Z" creationid="piav" creationdate="20190521T140527Z">
-        <seg>Jokerimerkit:
-Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * ja ?.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T121529Z" creationid="piav" creationdate="20190521T140527Z">
+        <seg>Yleismerkit:
+Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja ?.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26797,6 +26813,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>excludes</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T121423Z" creationid="piav" creationdate="20191128T121423Z">
+        <seg>excludes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>extensions:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T114622Z" creationid="piav" creationdate="20190920T114622Z">
@@ -28235,6 +28259,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T121155Z" creationid="piav" creationdate="20191128T121155Z">
         <seg>mapping local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mapping repository</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T121319Z" creationid="piav" creationdate="20191128T121319Z">
+        <seg>mapping repository</seg>
       </tuv>
     </tu>
     <tu>
