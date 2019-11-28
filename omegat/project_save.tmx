@@ -20894,6 +20894,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T081806Z" creationid="piav" creationdate="20191128T081806Z">
+        <seg>Kakkostason TMX-tiedoston vienti ei aivan ole kakkostason standardin mukainen, mutta kuitenkin niin lähellä sitä, että siitä löytyy oikeanlaisia osumia muissa kakkostason käännösmuistitiedostoja tukevissa ohjelmissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location of the &lt;f0&gt;.tbx&lt;/f0&gt; file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T081652Z" creationid="piav" creationdate="20191022T081652Z">
