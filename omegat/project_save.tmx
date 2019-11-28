@@ -10625,6 +10625,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the translator attempts to modify them, they will go back to their original state whenever the project is opened, closed, saved or reloaded.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T115238Z" creationid="piav" creationdate="20191128T115153Z">
+        <seg>Jos kääntäjä yrittää muokata niitä, tiedostot palautuvat alkuperäiseen asuunsa aina, kun projekti avataan, suljetaan, tallennetaan tai ladataan uudestaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If they are used by some other application on your system, they will disappear from that application, too.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T115144Z" creationid="piav" creationdate="20191023T115144Z">
@@ -15054,6 +15062,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T053429Z" creationid="piav" creationdate="20191023T053429Z">
         <seg>Kun olet muokannut &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;-tiedostoa, käynnistä &lt;a1&gt;OmegaT&lt;/a1&gt; uudelleen, niin uudet pikanäppäimet otetaan käyttöön.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the project is set up on the server, the project manager can invite the translator to work on it in either of two different ways:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T115343Z" creationid="piav" creationdate="20191128T115343Z">
+        <seg>Kun projekti on saatu määritettyä palvelimelle, projektipäällikkö voi kutsua kääntäjät työskentelemään sen parissa jommalla kummalla tavalla:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19761,6 +19777,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T132456Z" creationid="piav" creationdate="20190920T132456Z">
         <seg>2. vaihe: Tee manuaalisia korjauksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 3: Send an invitation to the translator</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T115256Z" creationid="piav" creationdate="20191128T115256Z">
+        <seg>3. vaihe: Kutsu kääntäjä mukaan projektiin</seg>
       </tuv>
     </tu>
     <tu>
@@ -29321,6 +29345,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T134908Z" creationid="piav" creationdate="20191127T134908Z">
         <seg>valitse se käännösmuistin varmuuskopio, jossa etsimäsi data todennäköisimmin on</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sending the URL of the project and asking the translator to create a local copy with &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Download Team Project&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T115439Z" creationid="piav" creationdate="20191128T115439Z">
+        <seg>lähettämällä projektin URL-osoitteen kääntäjälle ja pyytämällä tätä luomaan projektista paikallinen versio kohdassa &lt;m0&gt; &lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;Lataa </seg>
       </tuv>
     </tu>
     <tu>
