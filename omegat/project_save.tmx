@@ -5901,6 +5901,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy them to a safe place for future referrals.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T083332Z" creationid="piav" creationdate="20191128T083332Z">
+        <seg>Kopioi nämä varmaan paikkaan, niin voit käyttää niitä tulevaisuudessa viitekäännöksinä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T111536Z" creationid="piav" creationdate="20191023T111536Z">
@@ -10917,6 +10925,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T130101Z" creationid="piav" creationdate="20191127T130101Z">
         <seg>Tällöin täytyy vaihtaa RTL-tilaan, jotta RTL-kielinen (tai itse asiassa kaksisuuntaisella kielellä) kirjoitettu teksti näkyy oikein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In cases where a team of translators is involved, translators will prefer to share common translation memories rather than distribute their local versions.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T083651Z" creationid="piav" creationdate="20191128T083651Z">
+        <seg>Kun samaa käännöstyötä on tekemässä useita kääntäjiä, he voivat mieluummin haluta käyttää yhteisiä käännösmuisteja kuin jakaa omia versioitaan muille.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18707,6 +18723,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sharing translation memories</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T083459Z" creationid="piav" creationdate="20191128T083459Z">
+        <seg>Käännösmuistien jakaminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+F3</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T075707Z" creationid="piav" creationdate="20191023T062909Z">
@@ -22168,6 +22192,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T135014Z" creationid="piav" creationdate="20191127T135010Z">
         <seg>Näin estät tärkeää dataa katoamasta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To avoid reusing the project and thus possibly polluting future cases, delete the project folder or archive it away from your workplace.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T083450Z" creationid="piav" creationdate="20191128T083450Z">
+        <seg>Poista projektikansio tai arkistoi se kauas työtilastasi, niin et vahingossa käytä sitä uudelleen ja mahdollisesti sotke sillä tulevia käännösprojekteja.</seg>
       </tuv>
     </tu>
     <tu>
