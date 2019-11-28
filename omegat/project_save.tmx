@@ -6053,6 +6053,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T074312Z" creationid="piav" creationdate="20191128T074312Z">
+        <seg>Luo sopivaan sijaintiin tietokoneellesi "varastokansio" tiettyä asiakasta tai tiettyä aihepiiriä varten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T120422Z" creationid="piav" creationdate="20190920T120422Z">
@@ -23963,6 +23971,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T074148Z" creationid="piav" creationdate="20191030T080236Z">
         <seg>Kun haluat ottaa suodattimen uudelleen käyttöön, laita valintaruutuun rasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whenever you finish a project, copy one of the three "export" translation memory files from the root folder of the project to the repository folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T074415Z" creationid="piav" creationdate="20191128T074415Z">
+        <seg>Aina kun saat käännösprojektin valmiiksi, kopioi yksi projektin pääkansiossa olevista "vientikäännösmuisteista" tähän varastokansioon.</seg>
       </tuv>
     </tu>
     <tu>
