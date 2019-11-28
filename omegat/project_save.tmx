@@ -11049,6 +11049,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initially, that is when the project is created, the main TM of the project, &lt;f0&gt;project_save.tmx&lt;/f0&gt; is empty.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T071403Z" creationid="piav" creationdate="20191128T071403Z">
+        <seg>Kun projekti luodaan, projektin pääkäännösmuisti &lt;f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inline tags within segments take the form of serial numbers within curly brackets, i.e. {1}, {2}, etc.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T160624Z" creationid="PiaVee" creationdate="20171014T160624Z">
@@ -17125,6 +17133,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T082038Z" creationid="piav" creationdate="20190522T082038Z">
         <seg>Hanki kokoelmaluettelo…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reuse Translation Memories</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T071219Z" creationid="piav" creationdate="20191128T071219Z">
+        <seg>Kuinka käyttää käännösmuisteja uudelleen</seg>
       </tuv>
     </tu>
     <tu>
