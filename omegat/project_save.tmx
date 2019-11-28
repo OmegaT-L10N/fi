@@ -14062,6 +14062,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T075605Z" creationid="piav" creationdate="20191128T074807Z">
+        <seg>Kun projekti avataan, OmegaT käy läpi kaikki /tm-kansiossa olevat TMX-tiedostot. Jos siis kaikki eri käännösmuistisi ovat tässä yhdessä kansiossa, ohjelma voi hidastua aivan suotta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T102614Z" creationid="PiaVee" creationdate="20171219T102614Z">
@@ -23953,8 +23961,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>When you begin a new project on the same subject or for the same customer, navigate to the repository folder in the &lt;g0&gt;Project &gt; Properties &gt; Edit Project dialog&lt;/g0&gt; and select it as the translation memory folder.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T074647Z" creationid="piav" creationdate="20191128T074526Z">
-        <seg>Kun aloitat uuden projektin, joka käsittelee samaa aihepiiriä tai menee samalle asiakkaalle, etsi &lt;g0&gt;Projekti &gt; Ominaisuudet &gt; Muokkaa projektia -valintaruutu&lt;/g0&gt; varastokansio </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T074743Z" creationid="piav" creationdate="20191128T074526Z">
+        <seg>Kun aloitat uuden projektin, joka käsittelee samaa aihepiiriä tai menee samalle asiakkaalle, etsi kohta &lt;g0&gt;Projekti &gt; Ominaisuudet &gt; Muokkaa projektia&lt;/g0&gt; ja valitse varastokansio uudessa projektissa käytettäväksi käännösmuistikansioksi.</seg>
       </tuv>
     </tu>
     <tu>
