@@ -10867,8 +10867,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In case translators need to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T082136Z" creationid="piav" creationdate="20191128T082136Z">
-        <seg>Jos kääntäjät haluavat jakaa TMX-tietokantojaan, mutta jättää jotkut osat pois tai ottaa mukaan vain tiettyjen asiakirjojen käännökset, koko &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt;-tiedoston jakaminen </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T082216Z" creationid="piav" creationdate="20191128T082136Z">
+        <seg>Jos kääntäjät haluavat jakaa TMX-tietokantojaan, mutta jättää jotkut osat pois tai ottaa mukaan vain tiettyjen asiakirjojen käännökset, koko &lt;f0&gt;ProjektinNimi-omegat.tmx&lt;/f0&gt;-tiedoston jakaminen ei tule kuulonkaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20832,6 +20832,14 @@ instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T170020Z" creationid="piav" creationdate="20190527T170020Z">
         <seg>Seuraavat valinnat eivät ole käytössä, kun Yhteensopivuus OmegaT 2.6:n kanssa on valittuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following recipe is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T082317Z" creationid="piav" creationdate="20191128T082317Z">
+        <seg>Seuraava ohje on vain yksi monista, mutta sitä on helppo seurata eikä se vaaranna resursseja.</seg>
       </tuv>
     </tu>
     <tu>
