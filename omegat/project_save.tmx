@@ -6055,8 +6055,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T074312Z" creationid="piav" creationdate="20191128T074312Z">
-        <seg>Luo sopivaan sijaintiin tietokoneellesi "varastokansio" tiettyä asiakasta tai tiettyä aihepiiriä varten.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T074425Z" creationid="piav" creationdate="20191128T074312Z">
+        <seg>Luo sopivaan sijaintiin tietokoneellesi kansio ("varastokansio") tiettyä asiakasta tai tiettyä aihepiiriä varten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23947,6 +23947,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T125543Z" creationid="piav" creationdate="20191127T125206Z">
         <seg>Kun kirjoitat pelkkää RTL-kielistä tekstiä, voit käyttää oletusnäyttötilaa (vasemmalta oikealle, LTR).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you begin a new project on the same subject or for the same customer, navigate to the repository folder in the &lt;g0&gt;Project &gt; Properties &gt; Edit Project dialog&lt;/g0&gt; and select it as the translation memory folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T074647Z" creationid="piav" creationdate="20191128T074526Z">
+        <seg>Kun aloitat uuden projektin, joka käsittelee samaa aihepiiriä tai menee samalle asiakkaalle, etsi &lt;g0&gt;Projekti &gt; Ominaisuudet &gt; Muokkaa projektia -valintaruutu&lt;/g0&gt; varastokansio </seg>
       </tuv>
     </tu>
     <tu>
