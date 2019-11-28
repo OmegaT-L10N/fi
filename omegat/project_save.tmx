@@ -23903,6 +23903,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you create the target documents in an &lt;a0&gt;OmegaT&lt;/a0&gt; project, the translation memory of the project is output in the form of three files in the root folder of your &lt;a1&gt;OmegaT&lt;/a1&gt; project (see the above description).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T072208Z" creationid="piav" creationdate="20191128T072208Z">
+        <seg>Kun luot &lt;a0&gt;OmegaT&lt;/a0&gt;-projektin kohdeasiakirjoja, projektin käännösmuisti siirtyy kolmeksi tiedostoksi &lt;a1&gt;OmegaT&lt;/a1&gt;-projektin pääkansioon (ks. yllä oleva kuvaus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T134252Z" creationid="piav" creationdate="20191127T134252Z">
@@ -24462,6 +24470,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T141935Z" creationid="piav" creationdate="20191030T141935Z">
         <seg>Voit saada lähdekielisen tekstin automaattisesti muokkauskenttään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T072417Z" creationid="piav" creationdate="20191128T072417Z">
+        <seg>Näitä kolmea TMX-tiedostoa (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; ja &lt;f4&gt;-level2.tmx&lt;/f4&gt;) voi pitää "vientikäännösmuisteina", joihin senhetkisen projektin sisältö on viety kaksikieliseen muotoon.</seg>
       </tuv>
     </tu>
     <tu>
