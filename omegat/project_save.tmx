@@ -4007,6 +4007,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As plenty of information about SVN and Git is easily available, we won't describe how they work here, but only how OmegaT works with them.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T113140Z" creationid="piav" creationdate="20191128T113140Z">
+        <seg>Tietoja SVN:stä ja Gitistä löytyy helposti ja paljon, joten tässä ei kuvata sitä, kuinka ne toimivat, vaan kuinka OmegaT toimii niiden kanssa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As stated above, OmegaT tags are LTR strings.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T130605Z" creationid="piav" creationdate="20191127T130605Z">
@@ -11745,6 +11753,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It should thus be carried out by a project manager, a project leader or a localisation engineer.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T112849Z" creationid="piav" creationdate="20191128T112849Z">
+        <seg>Siksi ainoastaan projektin johtaja, projektipäällikkö tai lokalisointi-insinööri saisi tehdä tämän.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
@@ -18765,8 +18781,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Setting up a team project requires some knowledge of servers and the SVN or Git versioning systems.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T112611Z" creationid="piav" creationdate="20191128T112611Z">
-        <seg>Ryhmäprojektin määrittäminen vaatii tietoa palvelimista ja SVN- tai Git-versiong </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T112756Z" creationid="piav" creationdate="20191128T112611Z">
+        <seg>Ryhmäprojektin määrittäminen vaatii palvelinten ja SVN- tai Git-versionhallintajärjestelmien tuntemusta.</seg>
       </tuv>
     </tu>
     <tu>
