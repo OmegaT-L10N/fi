@@ -6117,6 +6117,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a translation memory for selected documents</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T081901Z" creationid="piav" creationdate="20191128T081901Z">
+        <seg>Valittujen asiakirjojen käännösmuistin luominen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating translated RTL documents</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T132233Z" creationid="piav" creationdate="20191127T132233Z">
@@ -10633,6 +10641,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you only need textual information (and not formatting information), use the level 1 file that OmegaT has created.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T081845Z" creationid="piav" creationdate="20191128T081845Z">
+        <seg>Jos tarvitset käännösmuistissa vain tekstuaalista tietoa (etkä siis muotoilutietoja), käytä OmegaT:n luomaa ykköstason tiedostoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T074136Z" creationid="piav" creationdate="20191030T075843Z">
@@ -10845,6 +10861,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T112431Z" creationid="piav" creationdate="20191127T111932Z">
         <seg>Mikäli lähdeasiakirjoissa on toistuvia segmenttejä, tämä valintaruutu tarjoaa käyttäjälle kaksi tapaa käyttää käännösehdotuksia automaattisesti. Jos valintaruudussa on rasti, ensimmäisestä käännetystä segmentistä tulee oletuskäännös, ja käännöstä käytetään myöhempien toistojen käännöksenä automaattisesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In case translators need to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T082136Z" creationid="piav" creationdate="20191128T082136Z">
+        <seg>Jos kääntäjät haluavat jakaa TMX-tietokantojaan, mutta jättää jotkut osat pois tai ottaa mukaan vain tiettyjen asiakirjojen käännökset, koko &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt;-tiedoston jakaminen </seg>
       </tuv>
     </tu>
     <tu>
