@@ -2235,6 +2235,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Important: &lt;/e0&gt;the supporting TMX must be renamed XX_YY.tmx, where XX_YY is the target language of the tmx, for instance to ZH_CN.tmx in the example above.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T112128Z" creationid="piav" creationdate="20191128T112128Z">
+        <seg>&lt;e0&gt;Tärkeää:&lt;/e0&gt; Käännösapuna käytettävä TMX on nimettävä uudelleen muotoon XX_YY.tmx, jossa XX_YY ilmoittaa käännösmuistin kielen. Yllä olevassa tapauksessa oikea tiedostonimi on siis ZH_CN.tmx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Note: &lt;/e0&gt;Of course there are other ways and means to create a simple file with tab delimited entries.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T083459Z" creationid="piav" creationdate="20191022T083459Z">
@@ -3621,8 +3629,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Alternative Language</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190916T141743Z" creationid="piav" creationdate="20190916T141743Z">
-        <seg>Vaihtehtoinen kieli</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T110759Z" creationid="piav" creationdate="20190916T141743Z">
+        <seg>Vaihtoehtoinen kieli</seg>
       </tuv>
     </tu>
     <tu>
@@ -5257,8 +5265,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Choose SVN repository to perform cleanup</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170910T083903Z" creationid="PiaVee" creationdate="20170910T083806Z">
-        <seg>Valitse siistittävä SVN-pakettivarasto</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T110423Z" creationid="PiaVee" creationdate="20170910T083806Z">
+        <seg>Valitse siistittävä SVN-tietovarasto</seg>
       </tuv>
     </tu>
     <tu>
@@ -6087,8 +6095,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T074425Z" creationid="piav" creationdate="20191128T074312Z">
-        <seg>Luo sopivaan sijaintiin tietokoneellesi kansio ("varastokansio") tiettyä asiakasta tai tiettyä aihepiiriä varten.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T110316Z" creationid="piav" creationdate="20191128T074312Z">
+        <seg>Luo sopivaan sijaintiin tietokoneellesi kansio ("tietovarastokansio") tiettyä asiakasta tai tiettyä aihepiiriä varten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7832,8 +7840,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Empty repository URL in the mapping</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T132934Z" creationid="piav" creationdate="20190521T132934Z">
-        <seg>Yhdistäminen: tyhjä varasto-URL</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T110232Z" creationid="piav" creationdate="20190521T132934Z">
+        <seg>Yhdistäminen: tietovaraston URL on tyhjä</seg>
       </tuv>
     </tu>
     <tu>
@@ -8256,8 +8264,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Error updating repository.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T131111Z" creationid="piav" creationdate="20190920T131111Z">
-        <seg>Pakettivaraston päivityksessä tapahtui virhe.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T110309Z" creationid="piav" creationdate="20190920T131111Z">
+        <seg>Tietovaraston päivityksessä tapahtui virhe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10889,6 +10897,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In case of OmegaT complete project folders - in other words the translation memories involved as well as source folders, project settings etc - are managed by the selected RCS.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T110717Z" creationid="piav" creationdate="20191128T110717Z">
+        <seg>OmegaT:n ryhmäprojektissa käytettävä RSC huolehtii kokonaisista projektikansioista, eli käännösmuisteista, lähdekansioista, projektin asetuksista jne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;${name only&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T122952Z" creationid="piav" creationdate="20191030T122952Z">
@@ -11069,6 +11085,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T073545Z" creationid="piav" creationdate="20191128T072914Z">
         <seg>Vie haluamasi käännösmuistit uuden projektin &lt;e0&gt;/tm&lt;/e0&gt;-kansioon. Tämän kansion käännösmuisteista löytyvät osumat näkyvät sumeiden osumien ruudussa. Voit myös viedä käännösmuisteja &lt;e1&gt;/tm&lt;/e1&gt;/auto-kansioon. Tässä kansiossa olevia käännösmuisteja käytetään lähdetekstin esikääntämiseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, the NL-EN translation memory can serve as a go-between to help generate NL to ZH translation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T111449Z" creationid="piav" creationdate="20191128T111355Z">
+        <seg>Tässä tapauksessa NL–EN-käännösmuistia voidaan käyttää NL–ZH-käännöksen välikappaleena.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11475,8 +11499,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Invalid repository type: {0}</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T133150Z" creationid="piav" creationdate="20190521T133150Z">
-        <seg>Kelpaamaton pakettivaraston tyyppi: {0}</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T110216Z" creationid="piav" creationdate="20190521T133150Z">
+        <seg>Kelpaamaton tietovaraston tyyppi: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12908,8 +12932,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T121016Z" creationid="piav" creationdate="20190521T132754Z">
-        <seg>Paikallisten kansioiden yhdistäminen pakettivarastojen etäkansioihin</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T110448Z" creationid="piav" creationdate="20190521T132754Z">
+        <seg>Paikallisten kansioiden yhdistäminen tietovarastojen etäkansioihin</seg>
       </tuv>
     </tu>
     <tu>
@@ -14214,6 +14238,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that only one TMX for a given language pair is possible, so if several translation memories should be involved, you will need to merge them all into the XX_YY.tmx.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T112420Z" creationid="piav" creationdate="20191128T112420Z">
+        <seg>Huomaa, että käytössä voi olla vain yksi TMX-tiedosto kieliparia kohti, joten jos haluat käyttää useita käännösmuisteja, sinun on yhdistettävä ne yhdeksi XX_YYY.tmx-tiedostoksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that the "Install" function requires an Internet connection.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T111251Z" creationid="piav" creationdate="20191023T111251Z">
@@ -14720,8 +14752,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT interfaces to SVN and Git, two common team software versioning and revision control systems (RCS), available under an open source license.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T090550Z" creationid="piav" creationdate="20191128T085936Z">
-        <seg>OmegaT:n ryhmäprojektitoiminto käyttää SVN:n ja Gitin versionhallintaa. Ne ovat kaksi tavallista avoimen lähdekoodin lisenssillä julkaistua joukkuohjelmiston  ---  versionhallintajärjestelmää (RCS,).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T110514Z" creationid="piav" creationdate="20191128T085936Z">
+        <seg>OmegaT:n ryhmäprojektitoiminto käyttää SVN:n ja Gitin versionhallintaa. Ne ovat kaksi paljon tavallista avoimen lähdekoodin lisenssillä julkaistua ryhmätyöohjelmiston versionhallintajärjestelmää (RCS).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15500,8 +15532,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170910T083640Z" creationid="PiaVee" creationdate="20170910T083640Z">
-        <seg>Siistii joko nykyisen projektin tai minkä tahansa paikallisen SVN-pakettivaraston versiot.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T110419Z" creationid="PiaVee" creationdate="20170910T083640Z">
+        <seg>Siistii joko nykyisen projektin tai minkä tahansa paikallisen SVN-tietovaraston versiot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16817,16 +16849,16 @@ projektin ilman ryhmäominaisuutta.</seg>
       <tuv lang="EN">
         <seg>Remote Repositories</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T132520Z" creationid="piav" creationdate="20190521T132520Z">
-        <seg>Etäpakettivarastot</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T110438Z" creationid="piav" creationdate="20190521T132520Z">
+        <seg>Etävarastot</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T131037Z" creationid="piav" creationdate="20190920T131037Z">
-        <seg>Virhe etäpakettivarastojen verkoston kommunikaatiossa: {0}</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T110305Z" creationid="piav" creationdate="20190920T131037Z">
+        <seg>Virhe etävarastojen verkoston kommunikaatiossa: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -18699,6 +18731,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set up a Team Project</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T112518Z" creationid="piav" creationdate="20191128T112441Z">
+        <seg>Ryhmäprojektin asetusten määrittäminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sets</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T115836Z" creationid="piav" creationdate="20190920T115829Z">
@@ -18719,6 +18759,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T120001Z" creationid="piav" creationdate="20191023T115943Z">
         <seg>Valitse tämä, niin segmentin validointi tapahtuu sarkainnäppäimellä (oletusnäppäimenä on Enter).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting up a team project requires some knowledge of servers and the SVN or Git versioning systems.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T112611Z" creationid="piav" creationdate="20191128T112611Z">
+        <seg>Ryhmäprojektin määrittäminen vaatii tietoa palvelimista ja SVN- tai Git-versiong </seg>
       </tuv>
     </tu>
     <tu>
@@ -21174,6 +21222,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project and TMX source languages should of course be identical - NL in our example.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T112225Z" creationid="piav" creationdate="20191128T112225Z">
+        <seg>Projektissa ja TMX-tiedostossa on tietysti käytettävä samaa lähdekieltä – esimerkkitapauksessa NL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project cannot be verified</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T120525Z" creationid="piav" creationdate="20190920T120525Z">
@@ -21322,6 +21378,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061728Z" creationid="piav" creationdate="20191023T053640Z">
         <seg>Määrittele pikanäppäimet seuraavalla tavalla: &lt;c0&gt;&lt;valikon kohdan koodi&gt;=&lt;pikanäppäin&lt;/c0&gt;. Löydät &lt;e1&gt;&lt;valikon vaihtoehdon koodin&gt;&lt;/e1&gt; alla olevista taulukoista. &lt;e2&gt;&lt;Pikanäppäin&gt;&lt;/e2&gt; on näppäinyhdistelmä, jota haluat käyttää.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The solution in our example is to copy the existing translation memory into the tm/tmx2source/ subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T111740Z" creationid="piav" creationdate="20191128T111740Z">
+        <seg>Esimerkkitapaus ratkaistaan kopioimalla olemassa oleva NL–EN-käännösmuistitiedosto tm/tmx2source/-alikansioon, ja tiedostolle annetaan uudeksi nimeksi ZH_CN.tmx osoittamaan käännösmuistin kohdekieltä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21486,6 +21550,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The translator will be shown English translations for source segments in Dutch and use them to create the Chinese translation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T111919Z" creationid="piav" creationdate="20191128T111919Z">
+        <seg>Kääntäjä näkee hollanninkielisten lähdesegmenttien englanninkieliset käännökset ja voi käyttää niitä apuna kiinankielisen käännöksen luomisessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The two types of rules behave as follows:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T130350Z" creationid="piav" creationdate="20191030T130350Z">
@@ -21574,6 +21646,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then you need a translation in e.g. Chinese, but your translator does not understand Dutch; she, however, understands perfectly English.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T111430Z" creationid="piav" creationdate="20191128T111016Z">
+        <seg>Sitten tarvitaan käännös kiinaksi. Kääntäjäsi ei kuitenkaan ymmärrä hollantia, mutta hallitsee englannin erinomaisesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are a number of restrictions:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T143636Z" creationid="piav" creationdate="20191030T143636Z">
@@ -21642,6 +21722,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T113155Z" creationid="piav" creationdate="20191023T113155Z">
         <seg>Sinun ei tarvitse erikseen määritellä OmegaT:tä käyttämään tiettyä oikeinkirjoitussanastoa. OmegaT käyttää automaattisesti projektin kielikoodin mukaista sanakirjaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T111018Z" creationid="piav" creationdate="20191128T110914Z">
+        <seg>Joskus voi käydä niin, että olet kääntänyt projektin, jossa lähdekielenä on ollut vaikkapa hollanti ja kohdekielenä englanti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21902,16 +21990,16 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This is a Git repository.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T125841Z" creationid="piav" creationdate="20190920T125841Z">
-        <seg>Tämä on Git-pakettivarasto.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T110252Z" creationid="piav" creationdate="20190920T125841Z">
+        <seg>Tämä on Git-tietovarasto.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>This is a Subversion repository.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T125905Z" creationid="piav" creationdate="20190920T125853Z">
-        <seg>Tämä on aliversioiden pakettivarasto.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T110259Z" creationid="piav" creationdate="20190920T125853Z">
+        <seg>Tämä on aliversioiden tietovarasto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23367,8 +23455,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>Upload disabled because repository in read-only mode</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T122725Z" creationid="piav" creationdate="20190920T121205Z">
-        <seg>Lataus ei ole käytössä, sillä pakettivarasto on vain luku -muodossa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T110238Z" creationid="piav" creationdate="20190920T121205Z">
+        <seg>Lataus ei ole käytössä, sillä tietovarasto on vain luku -muodossa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23665,6 +23753,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T125421Z" creationid="piav" creationdate="20191127T124036Z">
         <seg>Näppäinyhdistelmä &lt;k2&gt; &lt;k3&gt;vaihto&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; muuttaa &lt;a6&gt;OmegaT&lt;/a6&gt;:ssä sekä tekstin syöttöä että sen tasausta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using TMX with alternative language</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T110817Z" creationid="piav" creationdate="20191128T110817Z">
+        <seg>Käännösmuistin käyttäminen vaihtoehtoisella kielellä</seg>
       </tuv>
     </tu>
     <tu>
@@ -24177,8 +24273,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>When you begin a new project on the same subject or for the same customer, navigate to the repository folder in the &lt;g0&gt;Project &gt; Properties &gt; Edit Project dialog&lt;/g0&gt; and select it as the translation memory folder.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T074743Z" creationid="piav" creationdate="20191128T074526Z">
-        <seg>Kun aloitat uuden projektin, joka käsittelee samaa aihepiiriä tai menee samalle asiakkaalle, etsi kohta &lt;g0&gt;Projekti &gt; Ominaisuudet &gt; Muokkaa projektia&lt;/g0&gt; ja valitse varastokansio uudessa projektissa käytettäväksi käännösmuistikansioksi.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T110402Z" creationid="piav" creationdate="20191128T074526Z">
+        <seg>Kun aloitat uuden projektin, joka käsittelee samaa aihepiiriä tai menee samalle asiakkaalle, etsi kohta &lt;g0&gt;Projekti &gt; Ominaisuudet &gt; Muokkaa projektia&lt;/g0&gt; ja valitse äsken luomasi tietovarastokansio uuden projektin käännösmuistikansioksi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24217,8 +24313,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>Whenever you finish a project, copy one of the three "export" translation memory files from the root folder of the project to the repository folder.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T074415Z" creationid="piav" creationdate="20191128T074415Z">
-        <seg>Aina kun saat käännösprojektin valmiiksi, kopioi yksi projektin pääkansiossa olevista "vientikäännösmuisteista" tähän varastokansioon.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T110325Z" creationid="piav" creationdate="20191128T074415Z">
+        <seg>Aina kun saat käännösprojektin valmiiksi, kopioi yksi projektin pääkansiossa olevista "vientikäännösmuisteista" tähän tietovarastokansioon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28985,6 +29081,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T161145Z" creationid="piav" creationdate="20191022T161145Z">
         <seg>Etsii sanaa "is", ei "this" tai "isn't" jne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>see more in Chapter</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T110740Z" creationid="piav" creationdate="20191128T110740Z">
+        <seg>Lisää tietoa löydät luvusta</seg>
       </tuv>
     </tu>
     <tu>
