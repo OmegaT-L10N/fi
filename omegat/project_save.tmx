@@ -19733,6 +19733,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 2: Add files to translate and other resources</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T114300Z" creationid="piav" creationdate="20191128T114247Z">
+        <seg>2. vaihe: Lisää käännettävät tiedostot ja muut resurssit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 2: Make manual corrections</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T132456Z" creationid="piav" creationdate="20190920T132456Z">
@@ -22003,6 +22011,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can also be done within OmegaT:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T114440Z" creationid="piav" creationdate="20191128T114440Z">
+        <seg>Tämän voi tehdä myös OmegaT-ohjelmassa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can be achieved (for Déjà Vu DVX) by use of Déjà Vu's "External View" file format.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T154823Z" creationid="PiaVee" creationdate="20171014T154823Z">
@@ -23697,6 +23713,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081302Z" creationid="piav" creationdate="20190522T081302Z">
         <seg>Käytä päivitettyjä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use an SVN or Git client to add the files to translate.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T114430Z" creationid="piav" creationdate="20191128T114430Z">
+        <seg>Käytä SVN- tai Git-asiakasta käännettävien tiedostojen lisäämiseen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26063,6 +26087,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T160939Z" creationid="piav" creationdate="20191022T160626Z">
         <seg>Piste tai pilkku, jota seuraa välilyönti ja vielä yksi piste tai pilkku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>copy the files to the &lt;f0&gt;/source&lt;/f0&gt; folder</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T114511Z" creationid="piav" creationdate="20191128T114511Z">
+        <seg>kopioi tiedostot &lt;f0&gt;/source&lt;/f0&gt;-kansioon</seg>
       </tuv>
     </tu>
     <tu>
@@ -29889,6 +29921,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082222Z" creationid="PiaVee" creationdate="20171015T082222Z">
         <seg>urd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>use &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Commit Source Files&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T114533Z" creationid="piav" creationdate="20191128T114533Z">
+        <seg>valitse &lt;m0&gt; &lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;Commit Source Files&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
