@@ -14672,6 +14672,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T080133Z" creationid="piav" creationdate="20191128T080133Z">
+        <seg>OmegaT tukee tuotuja käännösmuisteja, joiden versionumerot ovat 1.1–1.4b (sekä tasolla 1 että tasolla 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT uses the default encoding of the operating system for text files.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T120428Z" creationid="piav" creationdate="20191030T120406Z">
@@ -21688,6 +21696,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T174943Z" creationid="PiaVee" creationdate="20170910T084447Z">
         <seg>OmegaT on vapaa työkalu tietokoneavusteista kääntämistä varten. Tämä tiedosto on virallinen OmegaT-käsikirja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This enables the translation memories produced by other tools to be read by OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T080208Z" creationid="piav" creationdate="20191128T080208Z">
+        <seg>Näin OmegaT voi lukea toisissa työkaluissa luotuja käännösmuisteja.</seg>
       </tuv>
     </tu>
     <tu>
