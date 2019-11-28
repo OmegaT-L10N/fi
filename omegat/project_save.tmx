@@ -1971,6 +1971,16 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T120005Z" creationid="piav" creationdate="20191128T120005Z">
+        <seg>&lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190919T132530Z" creationid="piav" creationdate="20190919T132530Z">
@@ -2595,6 +2605,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;mapping local="" repository=""/&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T120004Z" creationid="piav" creationdate="20191128T120004Z">
+        <seg>&lt;mapping local="" repository=""/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;none&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T114618Z" creationid="piav" creationdate="20190920T114618Z">
@@ -2743,6 +2761,22 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T151411Z" creationid="PiaVee" creationdate="20171014T151053Z">
         <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;repositories&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T120001Z" creationid="piav" creationdate="20191128T120001Z">
+        <seg>&lt;repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T120003Z" creationid="piav" creationdate="20191128T120003Z">
+        <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10965,6 +10999,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T161202Z" creationid="PiaVee" creationdate="20171014T155819Z">
         <seg>Kääntämättömässä External View -tiedostossa kohdesarake on tyhjä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In both cases, the project manager must send the translator their ID and password to access the repository.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T120056Z" creationid="piav" creationdate="20191128T120056Z">
+        <seg>Molemmissa tavoissa projektipäällikön on lähetettävä kääntäjälle käyttäjätunnus ja salasana, joiden avulla hän pääsee käyttämään tietovarastoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21430,6 +21472,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The reference to the URL is specified as below (here to a Git repository):</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T115956Z" creationid="piav" creationdate="20191128T115852Z">
+        <seg>Viite URL-osoitteseen (tässä esimerkissä Git-tietovarastoon) määritetään alla olevalla tavalla:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T145459Z" creationid="piav" creationdate="20191022T145459Z">
@@ -29351,16 +29401,16 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>sending an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing a reference to the URL and asking the translator to copy it into a dedicated folder and open it with OmegaT.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T115725Z" creationid="piav" creationdate="20191128T115542Z">
-        <seg>lähettämällä kääntäjälle &lt;f0&gt;omegat.project&lt;/f0&gt;-tiedoston, jossa on viitteenä toimiva URL-osoite, ja pyytämällä kääntäjää kopioimaan tiedosto omaan kansioonsa ja avamaan se OmegaT:llä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T115905Z" creationid="piav" creationdate="20191128T115542Z">
+        <seg>lähettää kääntäjälle &lt;f0&gt;omegat.project&lt;/f0&gt;-tiedoston, jossa on viite URL-osoitteeseen, ja pyytää kääntäjää kopioimaan tiedosto omaan kansioonsa ja avamaan se OmegaT:llä.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>sending the URL of the project and asking the translator to create a local copy with &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Download Team Project&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T115625Z" creationid="piav" creationdate="20191128T115439Z">
-        <seg>lähettämällä projektin URL-osoitteen kääntäjälle ja pyytämällä tätä luomaan projektista paikallinen versio kohdassa &lt;m0&gt; &lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;Lataa ryhmäprojekti&lt;/g2&gt; &lt;/m0&gt;
+      <tuv lang="FI" changeid="piav" changedate="20191128T115752Z" creationid="piav" creationdate="20191128T115439Z">
+        <seg>lähettämää projektin URL-osoitteen kääntäjälle ja pyytää tätä luomaan projektista paikallinen versio kohdassa &lt;m0&gt; &lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;Lataa ryhmäprojekti&lt;/g2&gt; &lt;/m0&gt;
 
 tai</seg>
       </tuv>
