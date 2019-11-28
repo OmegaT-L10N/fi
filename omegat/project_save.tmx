@@ -3325,8 +3325,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Add the new OmegaT project to the versioning system (&lt;c0&gt;add&lt;/c0&gt; with SVN and Git)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T113737Z" creationid="piav" creationdate="20191128T113703Z">
-        <seg>Lisää uusi OmegaT-projekti versionhallintajärjestelmään (SVN:ssä ja Gitissä &lt;c0&gt;add&lt;/c0&gt;)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T114028Z" creationid="piav" creationdate="20191128T113703Z">
+        <seg>Lisää uusi OmegaT-projekti versionhallintajärjestelmään (SVN:ssä ja Gitissä komento &lt;c0&gt;add&lt;/c0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6127,8 +6127,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T113524Z" creationid="piav" creationdate="20191128T113524Z">
-        <seg>Luo tietovarastosta paikallinen kopio (SVN:ssä &lt;c0&gt;check out&lt;/c0&gt;, Gitissä &lt;c1&gt;clone&lt;/c1&gt;).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T114008Z" creationid="piav" creationdate="20191128T113524Z">
+        <seg>Luo tietovarastosta paikallinen kopio (SVN:ssä komento &lt;c0&gt;check out&lt;/c0&gt;, Gitissä &lt;c1&gt;clone&lt;/c1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10573,6 +10573,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T132643Z" creationid="piav" creationdate="20191127T132512Z">
         <seg>Jos alkuperäinen asiakirja on kirjoitettu vasemmalta oikealle, kohdeasiakirjan kirjoitussuunta on vaihdettava manuaalisesti oikealta vasemmalle. Käytä tähän sovellusta, jolla asiakirjaa katsellaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the project uses specific filters and segmentation parameters, both the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files must be added to the versioning system and published on the server.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T114231Z" creationid="piav" creationdate="20191128T114231Z">
+        <seg>Jos projekti käyttää erityisiä suodattimia ja erityisiä segmentointisääntöjä, sekä &lt;f0&gt;filters.xml&lt;/f0&gt;- että &lt;f1&gt;segmentation.conf&lt;/f1&gt;-tiedostot on lisättävä versionhallintajärjestelmään ja julkaistava palvelimella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16513,8 +16521,8 @@ projektin ilman ryhmäominaisuutta.</seg>
       <tuv lang="EN">
         <seg>Publish the new OmegaT project on the server (&lt;c0&gt;commit&lt;/c0&gt; with SVN, &lt;c1&gt;commit&lt;/c1&gt; followed by &lt;c2&gt;push&lt;/c2&gt; with Git).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T113931Z" creationid="piav" creationdate="20191128T113931Z">
-        <seg>Julkaise uusi OmegaT-projekti palvelimella (SVN:ssä &lt;c0&gt;commit&lt;/c0&gt;, Gitissä &lt;c1&gt;commit&lt;/c1&gt; ja sen jälkeen &lt;c2&gt;push&lt;/c2&gt;).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T114039Z" creationid="piav" creationdate="20191128T113931Z">
+        <seg>Julkaise uusi OmegaT-projekti palvelimella (SVN:ssä komento &lt;c0&gt;commit&lt;/c0&gt;, Gitissä ensin &lt;c1&gt;commit&lt;/c1&gt; ja sen jälkeen &lt;c2&gt;push&lt;/c2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19487,6 +19495,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081554Z" creationid="PiaVee" creationdate="20171015T081554Z">
         <seg>espanja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specific parameters</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T114059Z" creationid="piav" creationdate="20191128T114047Z">
+        <seg>Erityiset asetukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -28415,8 +28431,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T113635Z" creationid="piav" creationdate="20191128T113635Z">
-        <seg>komentorivillä: &lt;c0&gt;java -jar OmegaT.jar team init [kieli1] [kieli2]&lt;/c0&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T114020Z" creationid="piav" creationdate="20191128T113635Z">
+        <seg>komentorivillä komennolla &lt;c0&gt;java -jar OmegaT.jar team init [kieli1] [kieli2]&lt;/c0&gt;</seg>
       </tuv>
     </tu>
     <tu>
