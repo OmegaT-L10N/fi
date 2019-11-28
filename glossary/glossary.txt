@@ -5,7 +5,6 @@ BiDi	kaksu	Lyhennelmä sanasta "kaksisuuntainen" :-)
 operating system	käyttöjärjestelmä
 SVN	versionhallinta	eng. "subversion"
 cleanup	siistiminen
-repository	pakettivarasto
 script	komentosarja
 manual	käyttöopas	kun viitataan OmegaT-manuaaliin
 Acknowledgements	Kiitokset	aaa
@@ -724,3 +723,4 @@ spelling dictionaries	oikeinkirjoitussanasto
 auto-populated	automaattisesti täytetty	EI: automaattinen täydennys (=autocomplete)
 Note:	Huom.:
 authenticated proxy server	todennettu välityspalvelin
+repository	tietovarasto
