@@ -10270,6 +10270,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If an error is found in such a file, OmegaT will indicate the position within the defective file at which the error is located.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T080743Z" creationid="piav" creationdate="20191128T080743Z">
+        <seg>Jos tiedostossa on virhe, OmegaT osoittaa virheen sijainnin tiedostossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T073311Z" creationid="piav" creationdate="20191029T102035Z">
@@ -14546,6 +14554,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T135218Z" creationid="piav" creationdate="20190920T135218Z">
         <seg>OmegaT salaa arat salasanat ja API-avaimet pääsalasanalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT follows very strict procedures when loading translation memory (tmx) files.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T080658Z" creationid="piav" creationdate="20191128T080658Z">
+        <seg>OmegaT käyttää erittäin tiukkoja menettelytapoja käännösmuistien (TMX-tiedostojen) lataamiseen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18927,6 +18943,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T132008Z" creationid="piav" creationdate="20190521T132008Z">
         <seg>Näyttää siltä, että jotkut projektikansiot on siirretty muualle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some tools are known to produce invalid tmx files under certain conditions.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T080920Z" creationid="piav" creationdate="20191128T080920Z">
+        <seg>Joidenkin työkalujen tiedetään tietyissä olosuhteissa tuottavan virheellisiä TMX-tiedostoja.</seg>
       </tuv>
     </tu>
     <tu>
