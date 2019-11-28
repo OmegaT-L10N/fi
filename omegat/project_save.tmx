@@ -2637,6 +2637,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T122157Z" creationid="piav" creationdate="20191128T122157Z">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;none&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T114618Z" creationid="piav" creationdate="20190920T114618Z">
@@ -15644,6 +15652,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PDF files are a special case.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T122306Z" creationid="piav" creationdate="20191128T122306Z">
+        <seg>PDF-tiedostot ovat erikoisia tapauksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PDFBox (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T185425Z" creationid="piav" creationdate="20190527T185425Z">
@@ -21688,6 +21704,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T122226Z" creationid="piav" creationdate="20191128T122226Z">
+        <seg>Etätiedosto &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; yhdistetään paikalliseen &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;-tiedostoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T122154Z" creationid="piav" creationdate="20191128T122154Z">
@@ -22209,6 +22233,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They contain text formatting information, but such information cannot be reused by &lt;a0&gt;OmegaT&lt;/a0&gt; in order to create target files.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T122355Z" creationid="piav" creationdate="20191128T122355Z">
+        <seg>Niissä on tekstin muotoilutietoja, mutta &lt;a0&gt;OmegaT&lt;/a0&gt; ei voi käyttää niitä kohdetiedostojen luomiseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T155859Z" creationid="piav" creationdate="20191022T155657Z">
@@ -22558,6 +22590,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This makes it possible to rename the file to be translated.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T122244Z" creationid="piav" creationdate="20191128T122244Z">
+        <seg>Tällöin on mahdollista nimetä käännettävä tiedosto uudelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T063704Z" creationid="PiaVee" creationdate="20170930T063430Z">
@@ -22666,6 +22706,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T111550Z" creationid="piav" creationdate="20191127T111421Z">
         <seg>Tällöin käännösten tila muuttuu ja niistä tulee "kääntämättömiä", sillä segmentit eivät enää vastaa projektin muistissa olevia segmenttejä, vaikka alkuperäinen käännös onkin siellä tallessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thus, PDF files are handled as plain text files, and output files are plain text files.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T122517Z" creationid="piav" creationdate="20191128T122517Z">
+        <seg>Siksi ohjelma käsittelee PDF-tiedostoja vain teksti -muotoisina tiedostoina, ja kohdetiedostot ovat vain teksti -tiedostoja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23108,6 +23156,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T125639Z" creationid="piav" creationdate="20191030T125639Z">
         <seg>XHTML- tai HTML-tiedostojen käännettävät objektimääritteet voidaan erottaa omiksi segmenteikseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translate a PDF file</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T122255Z" creationid="piav" creationdate="20191128T122255Z">
+        <seg>PDF-tiedoston kääntäminen</seg>
       </tuv>
     </tu>
     <tu>
