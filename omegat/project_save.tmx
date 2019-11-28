@@ -232,8 +232,8 @@
       <tuv lang="EN">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190916T103746Z" creationid="piav" creationdate="20190916T103746Z">
-        <seg>Käännös saa olla sama kuin lähtöteksti</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T073212Z" creationid="piav" creationdate="20190916T103746Z">
+        <seg>Käännös saa olla sama kuin lähdeteksti</seg>
       </tuv>
     </tu>
     <tu>
@@ -3557,8 +3557,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Allow translated tags to be in a di&amp;fferent order</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190916T130040Z" creationid="piav" creationdate="20190916T130040Z">
-        <seg>Käännöksen tägit voivat olla eri järjestyksessä kuin lähtösegmentissä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T073216Z" creationid="piav" creationdate="20190916T130040Z">
+        <seg>Käännöksen tägit voivat olla eri järjestyksessä kuin lähdesegmentissä</seg>
       </tuv>
     </tu>
     <tu>
@@ -3573,8 +3573,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Allow translation to be equal to source</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T144348Z" creationid="piav" creationdate="20191030T144348Z">
-        <seg>Käännös saa olla sama kuin lähtöteksti</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T073323Z" creationid="piav" creationdate="20191030T144348Z">
+        <seg>Käännös saa olla sama kuin lähdeteksti</seg>
       </tuv>
     </tu>
     <tu>
@@ -9592,8 +9592,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T144901Z" creationid="piav" creationdate="20191022T080516Z">
-        <seg>Sanastotiedostot ovat yksinkertaisia vain teksti -tiedostoja. Niissä on kolme saraketta, jotka on erotettu toisistaan sarkaimilla. Ensimmäisessä sarakkeessa on lähtökielinen ja toisessa kohdekielinen termi.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T073225Z" creationid="piav" creationdate="20191022T080516Z">
+        <seg>Sanastotiedostot ovat yksinkertaisia vain teksti -tiedostoja. Niissä on kolme saraketta, jotka on erotettu toisistaan sarkaimilla. Ensimmäisessä sarakkeessa on lähdekielinen ja toisessa kohdekielinen termi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10248,8 +10248,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T101856Z" creationid="piav" creationdate="20191029T102035Z">
-        <seg>Kun sekä tämä kohta että &lt;l0&gt;&lt;g1&gt;Lisää lähtöteksti&lt;/g1&gt;&lt;/l0&gt; on rastitettu, kaikki lähdetekstin sanat, joille sanastossa on käännös, käännetään automaattisesti, kun lähdeteksti lisätään käännökseen.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T073311Z" creationid="piav" creationdate="20191029T102035Z">
+        <seg>Kun sekä tämä kohta että &lt;l0&gt;&lt;g1&gt;Lisää lähdeteksti&lt;/g1&gt;&lt;/l0&gt; on rastitettu, kaikki lähdetekstin sanat, joille sanastossa on käännös, käännetään automaattisesti, kun lähdeteksti lisätään käännökseen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10483,8 +10483,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T143628Z" creationid="piav" creationdate="20191030T143438Z">
-        <seg>Kun tässä kohdassa on rasti, OmegaT yrittää muuttaa manuaalisesti tai automaattisesti lisätyssä sumeassa osumassa olevat numerot lähtötekstin mukaisiksi.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T073318Z" creationid="piav" creationdate="20191030T143438Z">
+        <seg>Kun tässä kohdassa on rasti, OmegaT yrittää muuttaa manuaalisesti tai automaattisesti lisätyssä sumeassa osumassa olevat numerot lähdetekstin mukaisiksi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10883,8 +10883,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In so&amp;urce</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T065345Z" creationid="piav" creationdate="20190521T135103Z">
-        <seg>Lähtötekstissä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T073154Z" creationid="piav" creationdate="20190521T135103Z">
+        <seg>Lähdetekstissä</seg>
       </tuv>
     </tu>
     <tu>
@@ -10931,8 +10931,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In this case, place the translation memories you wish to use in the &lt;e0&gt;/tm&lt;/e0&gt; or &lt;e1&gt;/tm&lt;/e1&gt;/auto folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T073109Z" creationid="piav" creationdate="20191128T072914Z">
-        <seg>Vie haluamasi käännösmuistit uuden projektin &lt;e0&gt;/tm&lt;/e0&gt;-kansioon. Tämän kansion käännösmuisteista löytyvät osumat näkyvät sumeiden osumien ruudussa. Voit myös viedä käännösmuisteja &lt;e1&gt;/tm&lt;/e1&gt;/auto-kansioon. Tässä kansiossa olevia käännösmuisteja käytetään lähdetekstin  Käyttämällä /tm-kansiota  folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T073545Z" creationid="piav" creationdate="20191128T072914Z">
+        <seg>Vie haluamasi käännösmuistit uuden projektin &lt;e0&gt;/tm&lt;/e0&gt;-kansioon. Tämän kansion käännösmuisteista löytyvät osumat näkyvät sumeiden osumien ruudussa. Voit myös viedä käännösmuisteja &lt;e1&gt;/tm&lt;/e1&gt;/auto-kansioon. Tässä kansiossa olevia käännösmuisteja käytetään lähdetekstin esikääntämiseen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11171,8 +11171,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Insert the &amp;source text</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190916T103646Z" creationid="piav" creationdate="20190916T103646Z">
-        <seg>Lisää lähtöteksti</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T073207Z" creationid="piav" creationdate="20190916T103646Z">
+        <seg>Lisää lähdeteksti</seg>
       </tuv>
     </tu>
     <tu>
@@ -11187,8 +11187,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Insert the source text</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T141859Z" creationid="piav" creationdate="20191030T141859Z">
-        <seg>Lisää lähtöteksti</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T073313Z" creationid="piav" creationdate="20191030T141859Z">
+        <seg>Lisää lähdeteksti</seg>
       </tuv>
     </tu>
     <tu>
@@ -16939,8 +16939,8 @@ projektin ilman ryhmäominaisuutta.</seg>
       <tuv lang="EN">
         <seg>Replace glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191029T101822Z" creationid="piav" creationdate="20191029T101822Z">
-        <seg>Korvaa sanasto-osumat lähtötekstiä lisättäessä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T073303Z" creationid="piav" creationdate="20191029T101822Z">
+        <seg>Korvaa sanasto-osumat lähdetekstiä lisättäessä</seg>
       </tuv>
     </tu>
     <tu>
@@ -20040,9 +20040,9 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
         <seg>Text Replace:
 The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T082238Z" creationid="piav" creationdate="20190521T141620Z">
+      <tuv lang="FI" changeid="piav" changedate="20191128T073203Z" creationid="piav" creationdate="20190521T141620Z">
         <seg>Tekstin korvaus:
-Tekstin korvaus tapahtuu projektin lähtökielisissä segmenteissä riippumatta siitä, onko niissä jo sisältöä vai ovatko ne tyhjiä.</seg>
+Tekstin korvaus tapahtuu projektin lähdekielisissä segmenteissä riippumatta siitä, onko niissä jo sisältöä vai ovatko ne tyhjiä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21312,8 +21312,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The word before the = sign is the source term, and its translation is (or are) the words after =.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T074208Z" creationid="piav" creationdate="20191022T074208Z">
-        <seg>Ensin on lähtökielinen termi, sitten yhtäläisyysmerkki, jo lopuksi termin käännös/käännökset.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T073220Z" creationid="piav" creationdate="20191022T074208Z">
+        <seg>Ensin on lähdekielinen termi, sitten yhtäläisyysmerkki, jo lopuksi termin käännös/käännökset.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23215,8 +23215,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>Use Terms Appearing Separately in the Source Text</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191029T101516Z" creationid="piav" creationdate="20191023T063932Z">
-        <seg>Käytä lähtötekstissä olevia yksittäisiä termejä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T073234Z" creationid="piav" creationdate="20191023T063932Z">
+        <seg>Käytä lähdetekstissä olevia yksittäisiä termejä</seg>
       </tuv>
     </tu>
     <tu>
@@ -23295,8 +23295,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>Use terms appearing separately in the source text</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191029T101555Z" creationid="piav" creationdate="20191029T101145Z">
-        <seg>Käytä lähtötekstissä olevia yksittäisiä termejä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T073237Z" creationid="piav" creationdate="20191029T101145Z">
+        <seg>Käytä lähdetekstissä olevia yksittäisiä termejä</seg>
       </tuv>
     </tu>
     <tu>
@@ -23865,8 +23865,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T101846Z" creationid="piav" creationdate="20191029T101248Z">
-        <seg>Kun tässä kohdassa on rasti, sanasto näyttää sanaryhmiä tai lausekkeita, vaikka niiden sanat esiintyvät yksittäin lähtötekstissä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T073259Z" creationid="piav" creationdate="20191029T101248Z">
+        <seg>Kun tässä kohdassa on rasti, sanasto näyttää sanaryhmiä tai lausekkeita, vaikka niiden sanat esiintyvät yksittäin lähdetekstissä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24476,8 +24476,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       <tuv lang="EN">
         <seg>You can have entries with the target column missing, i.e. just containing the source term and the comment.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T080835Z" creationid="piav" creationdate="20191022T080835Z">
-        <seg>Kohdekielinen sarake voi olla tyhjä. Sanaston termi voi siis koostua pelkästään lähtökielisestä termistä ja kommentista.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T073231Z" creationid="piav" creationdate="20191022T080835Z">
+        <seg>Kohdekielinen sarake voi olla tyhjä. Sanaston termi voi siis koostua pelkästään lähdekielisestä termistä ja kommentista.</seg>
       </tuv>
     </tu>
     <tu>
