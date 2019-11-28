@@ -8990,6 +8990,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fixes are trivial operations and OmegaT assists troubleshooting with the related error message.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T081225Z" creationid="piav" creationdate="20191128T081225Z">
+        <seg>Vaaditut korjaukset ovat pikkutoimia, ja OmegaT avustaa vianmääritystä  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Flash XML Export</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T105906Z" creationid="piav" creationdate="20190527T105903Z">
@@ -10661,6 +10669,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T061112Z" creationid="PiaVee" creationdate="20170910T082715Z">
         <seg>Laita rasti alla olevaan ruutuun, jos haluat käyttää OmegaT:tä samalla kielellä, jota käytettiin ohjelman asennuksen aikana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you wish to use such files as reference translations in OmegaT, they must be repaired, or OmegaT will report an error and fail to load them.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T081049Z" creationid="piav" creationdate="20191128T080959Z">
+        <seg>Jos haluat käyttää tällaisia tiedostoja viitekäännöksinä, ne on korjattava. Muutoin OmegaT ilmoittaa virheestä, eikä käännösmuistien lataaminen onnistu.</seg>
       </tuv>
     </tu>
     <tu>
