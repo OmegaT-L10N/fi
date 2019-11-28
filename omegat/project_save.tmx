@@ -18595,6 +18595,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Should you wish to reuse a translation memory from a previous project (for example because the new project is similar to the previous project, or uses terminology which might have been used before), you can use these translation memories as "input translation memories", i.e. for import into your new project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T072642Z" creationid="piav" creationdate="20191128T072642Z">
+        <seg>Jos haluat käyttää käännösapuna edellisen projektin käännösmuistia (esim. kun uusi projekti on edellisen projektin kaltainen tai kun projektissa käytetään terminologiaa, jota on käytetty aiemminkin), voit käyttää näitä käännösmuisteja "tuontikäännösmuisteina", eli tuoda ne mukaan uuteen projektiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T065925Z" creationid="piav" creationdate="20190522T065925Z">
