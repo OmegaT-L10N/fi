@@ -10737,6 +10737,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Importing and exporting translation memories</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T075820Z" creationid="piav" creationdate="20191128T075820Z">
+        <seg>Käännösmuistien tuonti ja vienti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Editor</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T140254Z" creationid="piav" creationdate="20190920T140254Z">
@@ -17187,8 +17195,8 @@ projektin ilman ryhmäominaisuutta.</seg>
       <tuv lang="EN">
         <seg>Reuse Translation Memories</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T071219Z" creationid="piav" creationdate="20191128T071219Z">
-        <seg>Kuinka käyttää käännösmuisteja uudelleen</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T075848Z" creationid="piav" creationdate="20191128T071219Z">
+        <seg>Vanhojen käännösmuistien hyödyntäminen</seg>
       </tuv>
     </tu>
     <tu>
@@ -24630,6 +24638,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T090201Z" creationid="PiaVee" creationdate="20171015T101217Z">
         <seg>Voit kopioida tiedostoja projektin lähdetekstikansioon (/source) myös tiedostonhallintaohjelmassa. Lataa tämän jälkeen projekti uudelleen (Projekti-valikko &gt; Lataa uudelleen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may even consider removing those that are not required any more, once you have used their contents to fill up the &lt;f0&gt;project-save.tmx&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T075807Z" creationid="piav" creationdate="20191128T075807Z">
+        <seg>Voit myös poistaa kaikki ne käännösmuistit, joita et enää tarvitse project-save.tmx&lt;/f0&gt;-tiedoston täyttämiseen.</seg>
       </tuv>
     </tu>
     <tu>
