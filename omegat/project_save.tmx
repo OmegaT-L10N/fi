@@ -4705,8 +4705,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T073801Z" creationid="piav" creationdate="20191128T073550Z">
-        <seg>Oletusarvoisesti /tm-kansio on projektin pääkansiossa (esim. …&lt;e0&gt;/OmaProjekti/tm&lt;/e0&gt;), mutta voit halutessasi valita sille toisen kansion but you can choose a different folder in the project properties dialog if you wish.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T073848Z" creationid="piav" creationdate="20191128T073550Z">
+        <seg>Oletusarvoisesti /tm-kansio on projektin pääkansiossa (esim. …&lt;e0&gt;/OmaProjekti/tm&lt;/e0&gt;), mutta voit halutessasi valita sille toisen kansion projektin ominaisuuksien valintaikkunassa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10933,6 +10933,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T155409Z" creationid="PiaVee" creationdate="20171014T155409Z">
         <seg>Näin OmegaT:n ja muiden CAT-ohjelmien käyttäjät voivat kääntää Déjà Vu -ohjelmalla tehtyjä tiedostoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, a useful procedure would be:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T074143Z" creationid="piav" creationdate="20191128T074143Z">
+        <seg>Tällöin voi olla hyödyllistä menetellä näin:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21776,6 +21784,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T142031Z" creationid="piav" creationdate="20191030T142031Z">
         <seg>Tästä on hyötyä teksteissä, joissa on paljon tuotemerkkejä tai muita nimiä, joita ei saa muuttaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is useful if you frequently use translation memories produced in the past, for example because they are on the same subject or for the same customer.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T074030Z" creationid="piav" creationdate="20191128T074030Z">
+        <seg>Tämä on käytännöllistä, jos käytät usein vanhoja käännösmuisteja uudelleen vaikkapa siksi, koska käännösten aihepiiri on sama tai käännät samalle asiakkaalle.</seg>
       </tuv>
     </tu>
     <tu>
