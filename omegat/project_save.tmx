@@ -11235,6 +11235,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case, the procedure is the same, but the project manager does not add files to the /source folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T121012Z" creationid="piav" creationdate="20191128T121012Z">
+        <seg>Tässä tapauksessa projekti luodaan samaan tapaan, mutta projektipäällikkö ei lisää tiedostoja /source-kansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In view of the flexibility, you may consider defining more exception rules for your source language in order to provide more meaningful and coherent segments.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T132850Z" creationid="piav" creationdate="20191030T132444Z">
@@ -15006,6 +15014,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T080316Z" creationid="piav" creationdate="20191128T080133Z">
         <seg>OmegaT tukee tuotuja TMX-tiedostoja, joiden versionumerot ovat 1.1–1.4b (sekä ykkös- että kakkostasolla).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT team projects can also be set up in a different way, where several translators share the project_save.tmx file but not the source files.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T120930Z" creationid="piav" creationdate="20191128T120930Z">
+        <seg>OmegaT-ryhmäprojektit voidaan määrittää myös toisin, jolloin kaikki kääntäjät jakavat yhteisen project_save.tmx-tiedoston, mutta eivät yhteisiä lähdetiedostoja.</seg>
       </tuv>
     </tu>
     <tu>
