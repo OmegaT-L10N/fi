@@ -5877,6 +5877,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy the documents, you need the translation memory for, into the source folder of the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T082611Z" creationid="piav" creationdate="20191128T082611Z">
+        <seg>Kopioi projektin lähdekansioon ne asiakirjat, jotka haluat mukaan käännösmuistiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T111536Z" creationid="piav" creationdate="20191023T111536Z">
@@ -6057,6 +6065,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T074425Z" creationid="piav" creationdate="20191128T074312Z">
         <seg>Luo sopivaan sijaintiin tietokoneellesi kansio ("varastokansio") tiettyä asiakasta tai tiettyä aihepiiriä varten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a project, separate for other projects, in the desired language pair, with an appropriate name - note that the TMXs created will include this name.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T082536Z" creationid="piav" creationdate="20191128T082348Z">
+        <seg>Luo uusi, erillinen projekti halutulla kieliparilla ja nimeä se sopivasti – projektissa luodut TMX-tiedostot nimetään tämän mukaan.</seg>
       </tuv>
     </tu>
     <tu>
