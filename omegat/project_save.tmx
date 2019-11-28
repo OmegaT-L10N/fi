@@ -8992,8 +8992,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Fixes are trivial operations and OmegaT assists troubleshooting with the related error message.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T081225Z" creationid="piav" creationdate="20191128T081225Z">
-        <seg>Vaaditut korjaukset ovat pikkutoimia, ja OmegaT avustaa vianmääritystä  </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T081321Z" creationid="piav" creationdate="20191128T081225Z">
+        <seg>Vaaditut korjaukset ovat pikkutoimia, ja OmegaT:n antama virheilmoitus on apuna vianmäärityksessä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14570,6 +14570,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T135218Z" creationid="piav" creationdate="20190920T135218Z">
         <seg>OmegaT salaa arat salasanat ja API-avaimet pääsalasanalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT exports version 1.4 TMX files (both level 1 and level 2).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T081442Z" creationid="piav" creationdate="20191128T081442Z">
+        <seg>OmegaT:stä vietävien (sekä ykkös- että kakkostason) TMX-tiedostojen versionumero on 1.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24525,6 +24533,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää jokerimerkkejä * j
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T113742Z" creationid="piav" creationdate="20191023T113742Z">
         <seg>Voit myös ohjastaa oikeinkirjoituksen tarkistuksen ohittamaan kaikki väärin kirjoitetun sanan esiintymät tai lisäämään sen sanakirjaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can ask the user group for advice if you have problems.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T081334Z" creationid="piav" creationdate="20191128T081334Z">
+        <seg>JOs kohtaat ongelmia, voit kysyä neuvoa käyttäjäryhmältä.</seg>
       </tuv>
     </tu>
     <tu>
