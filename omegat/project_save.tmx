@@ -13092,6 +13092,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mapping parameters</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T121105Z" creationid="piav" creationdate="20191128T121105Z">
+        <seg>Yhdistämisparametrit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mar&amp;k Whitespace</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T063559Z" creationid="piav" creationdate="20190522T085346Z">
@@ -13864,6 +13872,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081801Z" creationid="piav" creationdate="20190522T081801Z">
         <seg>Nimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name of the local folder or file, relative to the root of the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T121258Z" creationid="piav" creationdate="20191128T121226Z">
+        <seg>Paikallisen kansion tai tiedoston nimi suhteessa OmegaT-projektin juurikansioon</seg>
       </tuv>
     </tu>
     <tu>
@@ -17045,6 +17061,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T110438Z" creationid="piav" creationdate="20190521T132520Z">
         <seg>Etävarastot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remote location of the files to translate.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T121153Z" creationid="piav" creationdate="20191128T121153Z">
+        <seg>Käännettävien tiedostojen etäsijainti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22185,6 +22209,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T113545Z" creationid="piav" creationdate="20191128T113545Z">
         <seg>Tämän voi tehdä kahdella tapaa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be either http (which includes https), svn or git.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T121140Z" creationid="piav" creationdate="20191128T121140Z">
+        <seg>Tämä voi olla joko http (https), svn tai git.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28199,6 +28231,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>mapping local</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T121155Z" creationid="piav" creationdate="20191128T121155Z">
+        <seg>mapping local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>mar</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174941Z" creationid="PiaVee" creationdate="20171014T174941Z">
@@ -29283,6 +29323,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T134837Z" creationid="piav" creationdate="20191127T134837Z">
         <seg>nimeä nykyiunen &lt;f0&gt;project_save.tmx&lt;/f0&gt;-tiedosto uudelleen (esim. &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>repository type</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T121116Z" creationid="piav" creationdate="20191128T121116Z">
+        <seg>repository type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>repository url</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T121143Z" creationid="piav" creationdate="20191128T121143Z">
+        <seg>repository url</seg>
       </tuv>
     </tu>
     <tu>
