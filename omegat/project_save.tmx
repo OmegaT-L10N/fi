@@ -3531,6 +3531,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All other files are read-only.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T115141Z" creationid="piav" creationdate="20191128T115141Z">
+        <seg>Kaikki muut tiedostot ovat vain luku -muotoisia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T104744Z" creationid="piav" creationdate="20190920T135345Z">
@@ -14318,6 +14326,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that only two files are modified by OmegaT during translation:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T115111Z" creationid="piav" creationdate="20191128T115111Z">
+        <seg>Huomaa, että käännöstyön aikana OmegaT muokkaa vain näiden kahden tiedoston sisältöä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that the "Install" function requires an Internet connection.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T111251Z" creationid="piav" creationdate="20191023T111251Z">
@@ -21871,6 +21887,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These files won't be deleted automatically on the translator's side: you must ask them to delete the files manually.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T115029Z" creationid="piav" creationdate="20191128T115004Z">
+        <seg>Nämä tiedostot eivät poistu automaattisesti myös kääntäjältä, vaan sinun on pyydettävä häntä poistamaan tiedostot käsin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These units have been skipped.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T175008Z" creationid="piav" creationdate="20190521T175008Z">
@@ -22013,8 +22037,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This can also be done within OmegaT:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T114814Z" creationid="piav" creationdate="20191128T114440Z">
-        <seg>Tämän voi tehdä myös OmegaT:ssä:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T115019Z" creationid="piav" creationdate="20191128T114440Z">
+        <seg>Voit tehdä tämän myös OmegaT:ssä:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22384,6 +22408,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081916Z" creationid="PiaVee" creationdate="20171015T081916Z">
         <seg>tigrinja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To &lt;e0&gt;delete files&lt;/e0&gt;, use an SVN or Git client.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T114909Z" creationid="piav" creationdate="20191128T114909Z">
+        <seg>&lt;e0&gt;Poista tiedostot&lt;/e0&gt; SVN- tai Git-asiakasohjelmassa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26803,6 +26835,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>glossary/glossary.txt</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T115113Z" creationid="piav" creationdate="20191128T115113Z">
+        <seg>glossary/glossary.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>glv</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174849Z" creationid="PiaVee" creationdate="20171014T174849Z">
@@ -28465,6 +28505,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T080855Z" creationid="PiaVee" creationdate="20171015T080855Z">
         <seg>om</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat/project_save.tmx</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T115112Z" creationid="piav" creationdate="20191128T115112Z">
+        <seg>omegat/project_save.tmx</seg>
       </tuv>
     </tu>
     <tu>
