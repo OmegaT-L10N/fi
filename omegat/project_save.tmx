@@ -10054,6 +10054,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T080437Z" creationid="piav" creationdate="20191128T080231Z">
+        <seg>OmegaT ei kuitenkaan tue täysin kakkostason TMX-tiedostoja (näissä säilytetään käännösten lisäksi myös muotoilut).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T134141Z" creationid="piav" creationdate="20191127T133947Z">
@@ -12442,6 +12450,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T080537Z" creationid="piav" creationdate="20191128T080537Z">
+        <seg>Kakkostason TMX-tiedostot tuodaan kyllä OmegaT:hen, ja niiden tekstisisältö näkyy ohjelmassa, mutta sumeiden osumien laatu on hieman heikompi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Limburgish, Limburgan, Limburger</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T181402Z" creationid="PiaVee" creationdate="20171014T174811Z">
@@ -14674,8 +14690,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T080133Z" creationid="piav" creationdate="20191128T080133Z">
-        <seg>OmegaT tukee tuotuja käännösmuisteja, joiden versionumerot ovat 1.1–1.4b (sekä tasolla 1 että tasolla 2).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T080316Z" creationid="piav" creationdate="20191128T080133Z">
+        <seg>OmegaT tukee tuotuja TMX-tiedostoja, joiden versionumerot ovat 1.1–1.4b (sekä ykkös- että kakkostasolla).</seg>
       </tuv>
     </tu>
     <tu>
