@@ -14720,8 +14720,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT interfaces to SVN and Git, two common team software versioning and revision control systems (RCS), available under an open source license.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T085936Z" creationid="piav" creationdate="20191128T085936Z">
-        <seg>OmegaT:n ryhmäprojektitoiminto käyttää SVN:n ja Gitin versionhallintaa. Ne ovat kaksi tavallista avoimen lähdekoodin lisenssillä julkaistua joukkuohjelmiston versionhallintajärjestelmää (RCS,).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T090550Z" creationid="piav" creationdate="20191128T085936Z">
+        <seg>OmegaT:n ryhmäprojektitoiminto käyttää SVN:n ja Gitin versionhallintaa. Ne ovat kaksi tavallista avoimen lähdekoodin lisenssillä julkaistua joukkuohjelmiston  ---  versionhallintajärjestelmää (RCS,).</seg>
       </tuv>
     </tu>
     <tu>
