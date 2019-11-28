@@ -19589,6 +19589,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Special case: minimal sharing</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T120442Z" creationid="piav" creationdate="20191128T120442Z">
+        <seg>Erityistapaus: Minimimääräinen jako</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specific parameters</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T114059Z" creationid="piav" creationdate="20191128T114047Z">
@@ -20716,8 +20724,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Project Manager should check with the translator that the statistics are identical on both sides (server side and translator side).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T120331Z" creationid="piav" creationdate="20191128T120331Z">
-        <seg>Projektipäällikön olisi hyvä tarkistaa kääntäjältä, että sekä palvelimen puolella että kääntän puolella näkyvät ilastotiedot ovat samanlaisia.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191128T120640Z" creationid="piav" creationdate="20191128T120331Z">
+        <seg>Projektipäällikön olisi hyvä tarkistaa kääntäjältä, että sekä palvelimen puolella että kääntäjän puolella näkyvät tilastotiedot ovat samanlaisia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21420,6 +21428,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191029T101020Z" creationid="piav" creationdate="20191029T101020Z">
         <seg>&lt;u0&gt;Täällä&lt;/u0&gt; kuvataan, miten Microsoft Translator- tai Google Translate -palvelun asetukset määritellään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The process above describes the usual case, where the project manager wants to have full control of the project and where the files (and the statistics) are identical on both sides (server side and translator side).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191128T120655Z" creationid="piav" creationdate="20191128T120629Z">
+        <seg>Yllä kuvataan tavallinen ryhmäprojekti, jossa projekti on täysin projektipäällikön valvonnassa ja jossa tiedostot (ja tilastot) ovat identtiset molemmissa päissä (sekä palvelimen että kääntäjän puolella).</seg>
       </tuv>
     </tu>
     <tu>
