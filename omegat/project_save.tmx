@@ -2171,6 +2171,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normally, i.e. when &lt;a3&gt;OmegaT&lt;/a3&gt; is launched without any arguments, the program first detects the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T115930Z" creationid="piav" creationdate="20191201T115930Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Tavallisesti, eli kun &lt;a3&gt;OmegaT&lt;/a3&gt; käynnistetään ilman argumentteja, ohjelma tunnistaa ensiksi käyttäjän käyttöjärjestelmän kielen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T101536Z" creationid="piav" creationdate="20191030T101455Z">
@@ -3115,6 +3123,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A list of possible arguments is given below.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T115737Z" creationid="piav" creationdate="20191201T115737Z">
+        <seg>Alla on luettelo käytössä olevista argumenteista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T105016Z" creationid="piav" creationdate="20191022T160346Z">
@@ -3647,6 +3663,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140628Z" creationid="PiaVee" creationdate="20171014T140628Z">
         <seg>Ylläpito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Advanced users can obtain more information on the arguments by typing &lt;e0&gt;man java&lt;/e0&gt; in the terminal window.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T115842Z" creationid="piav" creationdate="20191201T115842Z">
+        <seg>Pääteikkunan komento &lt;e0&gt;man java&lt;/e0&gt; antaa kokeneille käyttäjille lisätietoa argumenteista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11110,6 +11134,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a user interface in this language is available, &lt;a4&gt;OmegaT&lt;/a4&gt; uses it.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T120008Z" creationid="piav" creationdate="20191201T120008Z">
+        <seg>Jos käyttöliittymä tällä kielellä on olemassa, &lt;a4&gt;OmegaT&lt;/a4&gt; käyttää sitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T071900Z" creationid="piav" creationdate="20191022T071334Z">
@@ -11923,8 +11955,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In other platforms, you can modify &lt;f3&gt;Configuration.properties&lt;/f3&gt; file on the Mac, or &lt;f4&gt;OmegaT&lt;/f4&gt; launcher under Linux to do the same.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T115703Z" creationid="piav" creationdate="20191201T115703Z">
-        <seg>Saman voit tehdä muokkaamalla macOS-käyttöjärjestelmässä &lt;f3&gt;Configuration.properties&lt;/f3&gt;-tiedostoa tai Linux-käyttöjärjestelmässä &lt;f4&gt;OmegaT&lt;/f4&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T115720Z" creationid="piav" creationdate="20191201T115703Z">
+        <seg>Saman voit tehdä muokkaamalla macOS-käyttöjärjestelmässä &lt;f3&gt;Configuration.properties&lt;/f3&gt;-tiedostoa tai Linux-käyttöjärjestelmässä &lt;f4&gt;OmegaT&lt;/f4&gt;-käynnistysohjelmaa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25673,6 +25705,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T135003Z" creationid="PiaVee" creationdate="20171014T134746Z">
         <seg>Käyttäjäryhmä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User interface language</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T115847Z" creationid="piav" creationdate="20191201T115847Z">
+        <seg>Käyttöliittymän kieli</seg>
       </tuv>
     </tu>
     <tu>
