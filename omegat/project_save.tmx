@@ -1711,6 +1711,14 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--alignDir=&lt;p0&gt;&lt;location of translated files&gt;&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T130955Z" creationid="piav" creationdate="20191201T130955Z">
+        <seg>--alignDir=&lt;p0&gt;&lt;käännettyjen tiedostojen sijainti&gt;&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt; \</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T125223Z" creationid="piav" creationdate="20191201T124834Z">
@@ -1859,6 +1867,14 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
       <tuv lang="FI" changeid="piav" changedate="20190521T075950Z" creationid="PiaVee" creationdate="20171015T084748Z">
         <seg>--script=&lt;polku&gt;
 		Projektitapahtumissa suoritettava komentosarjatiedosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--source-pattern=&lt;p0&gt;regexp&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T131241Z" creationid="piav" creationdate="20191201T131241Z">
+        <seg>--source-pattern=&lt;p0&gt;regexp&lt;/p0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2655,6 +2671,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T103134Z" creationid="piav" creationdate="20191201T103134Z">
         <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; voi käyttää macOS-palveluita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;alignDir&lt;/f0&gt; must contain a translation in the target language of the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T131028Z" creationid="piav" creationdate="20191201T131028Z">
+        <seg>Komennossa &lt;f0&gt;alignDir&lt;/f0&gt; on oltava projektin kohdekielellä oleva käännös.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3831,6 +3855,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T112459Z" creationid="piav" creationdate="20191129T112452Z">
         <seg>Uusien lähdetiedostojen lisääminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Additional parameter is required in this case, specifying the location of the target data:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T130942Z" creationid="piav" creationdate="20191201T130942Z">
+        <seg>Tässä tapauksessa tarvitaan yksi lisäparametri, joka määrittelee kohdedatan sijainnin:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10258,6 +10290,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T102340Z" creationid="piav" creationdate="20191030T102340Z">
         <seg>Esimerkiksi kun tiedostosuodatin määrittelee, että kohdetiedostojen merkistökoodaus on UTF8, ja valitset vaihtoehdon "Aina", tieto merkistökoodauksesta on mukana käännetyissä tiedostoissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For instance, if the project is EN-to-FR, &lt;f1&gt;alignDir&lt;/f1&gt; must contain a bundle ending with &lt;l2&gt;_fr&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T131150Z" creationid="piav" creationdate="20191201T131112Z">
+        <seg>Jos projekti on esimerkiksi englannista ranskaan, &lt;f1&gt;alignDir&lt;/f1&gt;-komennossa on oltava &lt;l2&gt;_fr&lt;/l2&gt;-päätteinen nippu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23402,6 +23442,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T130901Z" creationid="piav" creationdate="20191201T130901Z">
         <seg>Tästä saatava TMX-tiedosto tallentuu &lt;f1&gt;/omegat/&lt;/f1&gt;-kansioon nimellä &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The resulting TMX is stored in the &lt;f3&gt;omegat&lt;/f3&gt; folder under the name &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T131208Z" creationid="piav" creationdate="20191201T131208Z">
+        <seg>Tästä saatava TMX-tiedosto tallentuu &lt;f3&gt;/omegat/&lt;/f3&gt;-kansioon nimellä &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
