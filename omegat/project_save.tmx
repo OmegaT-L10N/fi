@@ -2165,8 +2165,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; Besides the language, you can also specify the country, for example &lt;l2&gt;CN&lt;/l2&gt; or &lt;l3&gt;TW&lt;/l3&gt; in case of the Chinese language.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T120545Z" creationid="piav" creationdate="20191201T120545Z">
-        <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; Kielen lisäksi voit määritellä myös maan, esimerkikis&lt;l2&gt;CN&lt;/l2&gt; tai &lt;l3&gt;TW&lt;/l3&gt; in case of the Chinese language.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T120701Z" creationid="piav" creationdate="20191201T120545Z">
+        <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; Kielen lisäksi voit määritellä myös maan, esimerkiksi &lt;l2&gt;CN&lt;/l2&gt; tai &lt;l3&gt;TW&lt;/l3&gt; kiinan kielelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23852,6 +23852,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is necessary even if there's only one combination available, like &lt;l4&gt;pt_BR&lt;/l4&gt; in case of Brazilian Portuguese.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T120855Z" creationid="piav" creationdate="20191201T120855Z">
+        <seg>Tämä on pakollista, vaikka kielen ja maan yhdistelmiä olisi vain yksi, kuten esimerkiksi &lt;l4&gt;pt_BR&lt;/l4&gt;, Brasilian portugali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is no problem for files encoded in Unicode using a 16 bit character encoding set.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190515T072646Z" creationid="PiaVee" creationdate="20171220T093909Z">
@@ -24298,6 +24306,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T120426Z" creationid="piav" creationdate="20191127T115232Z">
         <seg>Poista projektikohtaiset segmentointisäännöt poistamalla rasti valintaruudusta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To display the instant start guide in the desired language, you need to specify both the language and the country.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T120753Z" creationid="piav" creationdate="20191201T120753Z">
+        <seg>Jotta pika-aloitusopas näkyisi halutulla kielellä, sinun on määriteltävä sekä kieli että maa.</seg>
       </tuv>
     </tu>
     <tu>
