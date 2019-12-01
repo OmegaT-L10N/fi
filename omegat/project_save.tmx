@@ -2957,8 +2957,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; allows, under Windows, to open the same project with several instances of OmegaT.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T132803Z" creationid="piav" creationdate="20191201T132803Z">
-        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; sallii Windows-käyttöjärjestelmässä sen, että sama projekti avataan useissa OmegaT-.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T132814Z" creationid="piav" creationdate="20191201T132803Z">
+        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; sallii Windows-käyttöjärjestelmässä sen, että sama projekti avataan useissa OmegaT-istunnoissa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5443,6 +5443,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T112306Z" creationid="piav" creationdate="20191030T112152Z">
         <seg>Oletusasetuksena on, että käännettyjen tiedostojen merkistökoodaus on sama kuin lähdetiedostoissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, under Windows, &lt;f1&gt;omegat.project&lt;/f1&gt; is locked, and an error message is received when trying to open a project already opened in another instance of OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T133033Z" creationid="piav" creationdate="20191201T133033Z">
+        <seg>Windowsissa tiedosto &lt;f1&gt;omegat.project&lt;/f1&gt; on oletusarvoisesti lukittu, jolloin käyttäjä saa virheilmoituksen, jos hän yrittää avata projektia, joka on jo avoinna toisessa OmegaT-istunnossa.</seg>
       </tuv>
     </tu>
     <tu>
