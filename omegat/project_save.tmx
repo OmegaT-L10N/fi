@@ -8045,6 +8045,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drag and drop</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T110839Z" creationid="piav" creationdate="20191201T110839Z">
+        <seg>Vedä ja pudota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drag and drop &lt;f0&gt;OmegaT.app&lt;/f0&gt; onto the Dock.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T101032Z" creationid="piav" creationdate="20191201T100402Z">
@@ -11761,6 +11769,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In most systems, it is possible to open a project by dropping an &lt;f0&gt;omegat.project&lt;/f0&gt; file onto the OmegaT icon on the desktop.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T110939Z" creationid="piav" creationdate="20191201T110939Z">
+        <seg>Useimmissa järjestelmissä OmegaT-projektin voi avata vetämällä ja pudottamalla &lt;f0&gt;omegat.project&lt;/f0&gt;-tiedoston työpöydällä olevaan OmegaT-ikoniin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T101920Z" creationid="piav" creationdate="20191030T081309Z">
@@ -12593,6 +12609,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It might also be possible to open an OmegaT project by double-clicking on an &lt;f1&gt;omegat.project&lt;/f1&gt; file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T111022Z" creationid="piav" creationdate="20191201T111022Z">
+        <seg>Projekti voi olla mahdollista avata myös kaksoisnapsauttamalla &lt;f1&gt;omegat.project&lt;/f1&gt;-tiedostoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T123607Z" creationid="piav" creationdate="20190920T123058Z">
@@ -12750,6 +12774,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T174121Z" creationid="piav" creationdate="20190523T174121Z">
         <seg>Java-resurssinippujen suodattimen asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java Web Start technology (part of Java 8 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T111417Z" creationid="piav" creationdate="20191201T111417Z">
+        <seg>Java Web Start -teknologia (osa Java 8:aa ja seuraavia) mahdollistaa sen, että erilliset Java-sovellukset voidaan ottaa käyttöön yhdellä napsautuksella missä tahansa päin tietokoneverkkoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25393,6 +25425,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T125421Z" creationid="piav" creationdate="20191127T124036Z">
         <seg>Näppäinyhdistelmä &lt;k2&gt; &lt;k3&gt;vaihto&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; muuttaa &lt;a6&gt;OmegaT&lt;/a6&gt;:ssä sekä tekstin syöttöä että sen tasausta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using Java Web Start</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T111042Z" creationid="piav" creationdate="20191201T111042Z">
+        <seg>Java Web Startin käyttö</seg>
       </tuv>
     </tu>
     <tu>
