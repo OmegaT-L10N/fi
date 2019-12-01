@@ -26348,8 +26348,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       <tuv lang="EN">
         <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;f1&gt;Configuration.properties&lt;/f1&gt; file in the package.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T100736Z" creationid="piav" creationdate="20191201T100736Z">
-        <seg>Voit muokata OmegaT:n käyttäytymistä sekä ohjelman xx§ </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T100826Z" creationid="piav" creationdate="20191201T100736Z">
+        <seg>Voit muokata OmegaT:n käyttäytymistä sekä &lt;e0&gt;Asetukset&lt;/e0&gt;-kohdassa että muokkaamalla paketin &lt;f1&gt;Configuration.properties&lt;/f1&gt;-tietoa. </seg>
       </tuv>
     </tu>
     <tu>
