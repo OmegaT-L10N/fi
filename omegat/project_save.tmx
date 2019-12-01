@@ -23574,8 +23574,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>To access &lt;f0&gt;Configuration.properties&lt;/f0&gt;, right-click on &lt;f1&gt;OmegaT.app&lt;/f1&gt; and select "Show Package Contents", then open the file in &lt;f2&gt;Contents/Resources&lt;/f2&gt; by right-clicking on it and selecting your text editor of choice.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T101020Z" creationid="piav" creationdate="20191201T101020Z">
-        <seg>Pääset käsiksi &lt;f0&gt;Configuration.properties&lt;/f0&gt;-tiedostoon napsauttamalla &lt;f1&gt;OmegaT.app&lt;/f1&gt;-kuvaketta hiiren kakkospainikkeella ja valitsemalla "Näytä pakkauksen sisältö" (Show Package Contents).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T101330Z" creationid="piav" creationdate="20191201T101020Z">
+        <seg>Pääset käsiksi &lt;f0&gt;Configuration.properties&lt;/f0&gt;-tiedostoon napsauttamalla &lt;f1&gt;OmegaT.app&lt;/f1&gt;-kuvaketta hiiren kakkospainikkeella ja valitsemalla "Näytä pakkauksen sisältö" (Show Package Contents). Tiedosto on kansiossa &lt;f2&gt;Contents/Resources&lt;/f2&gt;. Napsauta sitä hiiren kakkospainikkeella ja avaa se haluamassasi tekstieditorissa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23642,6 +23642,14 @@ palvelimelta.</seg>
       <tuv lang="FI" changeid="piav" changedate="20190920T121611Z" creationid="piav" creationdate="20190920T121611Z">
         <seg>Näin varmistat, että käännökset eivät katoa:
 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the amount of memory available, edit &lt;f0&gt;OmegaT.app/Contents/MacOS/OmegaT&lt;/f0&gt; file and remove the &lt;l1&gt;#&lt;/l1&gt; before the &lt;l2&gt;MEMORY=-Xmx&lt;p3&gt;?&lt;/p3&gt;g&lt;/l2&gt; entry.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T101454Z" creationid="piav" creationdate="20191201T101454Z">
+        <seg>Voit muuttaa käytettävissä olevan muistin määrää muokkaamalla &lt;f0&gt;OmegaT.app/Contents/MacOS/OmegaT&lt;/f0&gt;-tiedostoa: poista ennen kohtaa &lt;l2&gt;MEMORY=-Xmx&lt;p3&gt;?&lt;/p3&gt;g&lt;/l2&gt; oleva &lt;l1&gt;#&lt;/l1&gt;-merkki.</seg>
       </tuv>
     </tu>
     <tu>
