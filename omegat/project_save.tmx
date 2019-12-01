@@ -5319,6 +5319,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Building &lt;a0&gt;OmegaT&lt;/a0&gt; From Source</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T133353Z" creationid="piav" creationdate="20191201T133353Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;:n rakentaminen lähdekoodista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bulgarian</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173736Z" creationid="PiaVee" creationdate="20171014T173736Z">
@@ -16706,6 +16714,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once the code is downloaded, open a command in the source folder and type:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T133638Z" creationid="piav" creationdate="20191201T133638Z">
+        <seg>Kun olet ladannut lähdekoodin, avaa lähdekansio komentorivillä ja kirjoita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once the project has been opened, translation proceeds in the same way as for a non-team project, except the following points.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T111826Z" creationid="piav" creationdate="20191129T111826Z">
@@ -23750,6 +23766,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The sources of the current version can be retrieved with a SVN client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T133540Z" creationid="piav" creationdate="20191201T133454Z">
+        <seg>Voit noutaa nykyisen version lähteet SVN-asiakasohjelmalla pakettivarastosta &lt;u0/&gt; tai suoraan &lt;u1&gt;Sourceforgesta&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The specified dictionary folder cannot be used.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T135605Z" creationid="piav" creationdate="20190916T135605Z">
@@ -30147,6 +30171,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tarball?path=/trunk</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T133355Z" creationid="piav" creationdate="20191201T133355Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tarball?path=/trunk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T060828Z" creationid="piav" creationdate="20191023T060828Z">
@@ -32643,6 +32675,14 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081632Z" creationid="PiaVee" creationdate="20171015T081632Z">
         <seg>sv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>svn://svn.code.sf.net/p/omegat/svn/trunk</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T133354Z" creationid="piav" creationdate="20191201T133354Z">
+        <seg>svn://svn.code.sf.net/p/omegat/svn/trunk</seg>
       </tuv>
     </tu>
     <tu>
