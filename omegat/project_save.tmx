@@ -1775,6 +1775,14 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--mode=console-createpseudotranslatetmx</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T130423Z" creationid="piav" creationdate="20191201T130423Z">
+        <seg>--mode=console-createpseudotranslatetmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--mode=console-translate</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T130011Z" creationid="piav" creationdate="20191201T130011Z">
@@ -1789,6 +1797,14 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
       <tuv lang="FI" changeid="piav" changedate="20190920T123311Z" creationid="PiaVee" creationdate="20171015T084018Z">
         <seg>--no-team
 		Ryhmäprojektiominaisuus pois käytöstä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--pseudotranslatetmx=&lt;p0&gt;allsegments.tmx&lt;/p0&gt; --pseudotranslatetype=&lt;p1&gt;equal|empty&lt;/p1&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T130538Z" creationid="piav" creationdate="20191201T130538Z">
+        <seg>--pseudotranslatetmx=&lt;p0&gt;kaikkisegmentit.tmx&lt;/p0&gt; --pseudotranslatetype=&lt;p1&gt;equal|empty&lt;/p1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12321,6 +12337,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this mode OmegaT will create a TMX for the whole project, based on the source files only.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T130459Z" creationid="piav" creationdate="20191201T130459Z">
+        <seg>Tässä tilassa OmegaT luo koko projektille ainoastaan lähdetiedostoihin perustuvan käännösmuistin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T130117Z" creationid="piav" creationdate="20191201T130047Z">
@@ -22458,6 +22482,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The argument &lt;e0&gt;pseudotranslatetype&lt;/e0&gt; specifies, whether the target segments are to be equal to the source, or left empty.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T130641Z" creationid="piav" creationdate="20191201T130557Z">
+        <seg>Argumentti &lt;e0&gt;pseudotranslatetype&lt;/e0&gt; määrittelee, ovatko kohdesegmentit samoja kuin lähdesegmentit, vai jätetäänkö kohdesegmentit tyhjiksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The author of the Chapter &lt;e1&gt;Learn to use OmegaT in 5 minutes!&lt;/e1&gt; is Samuel Murray, Copyright ©2005-2012.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T132632Z" creationid="PiaVee" creationdate="20171014T132533Z">
@@ -27638,6 +27670,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T112310Z" creationid="piav" creationdate="20190521T132041Z">
         <seg>Osoita niiden uusi sijainti tai luo ne uudelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You specify the TMX file to be created with</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T130600Z" creationid="piav" creationdate="20191201T130519Z">
+        <seg>Määrittele luotava TMX-tiedosto komennolla</seg>
       </tuv>
     </tu>
     <tu>
