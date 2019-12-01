@@ -2075,6 +2075,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is available bundled with a Oracle Java JRE for Linux (Intel x86) and Windows platforms.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T105508Z" creationid="piav" creationdate="20191201T105353Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;-paketti on saatavilla Oracle Java JRE:n kanssa sekä Linux (Intel x86)- että Windows-käyttöjärjestelmiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; tags in RTL segments</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T130551Z" creationid="piav" creationdate="20191127T130551Z">
@@ -25257,6 +25265,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T075240Z" creationid="piav" creationdate="20191030T075240Z">
         <seg>Jos käytät vanhaa tietokonetta ja ikkunoiden koon muuttaminen tapahtuu mielestäsi hitaasti, voit kokeilla fontin vaihtamista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users of other platforms (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) must have a running compatible Java JRE on their system to be able to use &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T105622Z" creationid="piav" creationdate="20191201T105622Z">
+        <seg>Muissa käyttöjärjestelmissä (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 jne.) on oltava yhteensopiva Java JRE-</seg>
       </tuv>
     </tu>
     <tu>
