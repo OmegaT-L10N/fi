@@ -11673,6 +11673,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need altered settings, the configuration files must be available.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T123913Z" creationid="piav" creationdate="20191201T123913Z">
+        <seg>Määritystiedostojen on oltava saatavilla, mikäli tarvitset muutettuja asetuksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T105318Z" creationid="piav" creationdate="20191128T122628Z">
@@ -17485,6 +17493,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Prerequisites</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T123635Z" creationid="piav" creationdate="20191201T123635Z">
+        <seg>Edellytykset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preserve spaces &amp;for all tags</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T191252Z" creationid="piav" creationdate="20190527T191252Z">
@@ -22830,6 +22846,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The location does not matter, since you have to add it to the command line at the start-up anyway.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T123833Z" creationid="piav" creationdate="20191201T123833Z">
+        <seg>Projektin sijainnilla ei ole väliä, sillä sinun on joka tapauksessa aluksi lisättävä se komentoriville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location of the &lt;f0&gt;.tbx&lt;/f0&gt; file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T081652Z" creationid="piav" creationdate="20191022T081652Z">
@@ -24626,6 +24650,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T083853Z" creationid="piav" creationdate="20191127T083646Z">
         <seg>Laita &lt;g0&gt;Koko teksti tägeineen ja numeroineen&lt;/g0&gt; -valintaruutuun rasti, niin saat kirjaimellisempia ja lähempänä 100 % olevia osumia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To run &lt;a0&gt;OmegaT&lt;/a0&gt; in the command line mode, a valid &lt;a1&gt;OmegaT&lt;/a1&gt; project must be present.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T123737Z" creationid="piav" creationdate="20191201T123737Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;:tä voi ajaa komentorivitilassa vain, kun on olemassa kelvollinen &lt;a1&gt;OmegaT&lt;/a1&gt;-projekti.</seg>
       </tuv>
     </tu>
     <tu>
