@@ -22300,6 +22300,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first of these is:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T114314Z" creationid="piav" creationdate="20191201T114314Z">
+        <seg>Ensimmäinen komento on</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The folder contains 2 files: &lt;f2&gt;index.html&lt;/f2&gt; and &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T100115Z" creationid="piav" creationdate="20191201T100115Z">
@@ -24122,6 +24130,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T095805Z" creationid="PiaVee" creationdate="20171219T095712Z">
         <seg>Asenna StarDict-muodon vaatimat tiedostot seuraavalla tavalla:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To launch &lt;a0&gt;OmegaT&lt;/a0&gt;, you must normally type two commands.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T114308Z" creationid="piav" creationdate="20191201T114308Z">
+        <seg>Sinun on tavallisesti kirjoitettava kaksi komentoa käynnistääksesi &lt;a0&gt;OmegaT&lt;/a0&gt;:n</seg>
       </tuv>
     </tu>
     <tu>
@@ -27791,6 +27807,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T102239Z" creationid="piav" creationdate="20191201T102239Z">
         <seg>cd &lt;p0&gt;&lt;OmegaT.app-sijainti&gt;&lt;/p0&gt;/OmegaT.app/Contents/Resources/Java/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd &lt;p0&gt;folder&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T114325Z" creationid="piav" creationdate="20191201T114315Z">
+        <seg>cd &lt;p0&gt;kansio&lt;/p0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32107,6 +32131,14 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094218Z" creationid="PiaVee" creationdate="20171219T094218Z">
         <seg>weLocalize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>where &lt;p0&gt;folder&lt;/p0&gt; is the name of the folder, with complete path, in which your &lt;a1&gt;OmegaT&lt;/a1&gt; program - specifically, the file &lt;f2&gt;OmegaT.jar&lt;/f2&gt; - is located.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T114457Z" creationid="piav" creationdate="20191201T114457Z">
+        <seg>jossa &lt;p0&gt;kansio&lt;/p0&gt; on sen kansion koko polku, jonne olet tallentanut &lt;a1&gt;OmegaT&lt;/a1&gt; ohjelman, eli tarkemmin sanottuna &lt;f2&gt;OmegaT.jar&lt;/f2&gt;-tiedoston sijainti.</seg>
       </tuv>
     </tu>
     <tu>
