@@ -8013,6 +8013,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download the file &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; and then click on it.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T111607Z" creationid="piav" creationdate="20191201T111607Z">
+        <seg>Lataa tiedosto &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; ja napsauta sitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Downloading project...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T094423Z" creationid="PiaVee" creationdate="20171218T082803Z">
@@ -8122,6 +8130,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T121541Z" creationid="piav" creationdate="20190920T121541Z">
         <seg>SVN-virheen({0}) aikana tiedostoa project_save.tmx ei latautunut, ja SVN vaihtui epävakaaksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During the installation, depending on your operating system, you may receive several security warnings.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T111644Z" creationid="piav" creationdate="20191201T111644Z">
+        <seg>Asennuksen aikana saatat saada useita turvallisuusvaroituksia, käyttöjärjestelmäsi riippuen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12778,10 +12794,18 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java Web Start ensures that the latest version of the application will be deployed, as well as the correct version of the Java Runtime Environment (JRE) used.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T111521Z" creationid="piav" creationdate="20191201T111521Z">
+        <seg>Java Web Start varmistaa, että käyttöön otetaan sekä sovelluksen uusin versio että oikea Java Runtime Environment (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Java Web Start technology (part of Java 8 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T111417Z" creationid="piav" creationdate="20191201T111417Z">
-        <seg>Java Web Start -teknologia (osa Java 8:aa ja seuraavia) mahdollistaa sen, että erilliset Java-sovellukset voidaan ottaa käyttöön yhdellä napsautuksella missä tahansa päin tietokoneverkkoa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T111731Z" creationid="piav" creationdate="20191201T111417Z">
+        <seg>Java Web Start -teknologia (osa Java 8:aa ja seuraavia) mahdollistaa sen, että erilliset Java-sovellukset voidaan ottaa käyttöön yhdellä napsautuksella tietoverkon kautta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24054,6 +24078,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To start OmegaT for the first time with Java Web Start, load the following URL in your browser:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T111549Z" creationid="piav" creationdate="20191201T111549Z">
+        <seg>Kun käynnistät OmegaT:n ensimmäistä kertaa Java Web Startin avulla, kirjoita seuraava URL selaimesi osoiteriville:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To translate the file in OmegaT, proceed as follows:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T155947Z" creationid="PiaVee" creationdate="20171014T155947Z">
@@ -28871,6 +28903,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T105451Z" creationid="piav" creationdate="20191129T105451Z">
         <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T111551Z" creationid="piav" creationdate="20191201T111551Z">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
