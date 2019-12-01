@@ -9782,6 +9782,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch &lt;a4&gt;OmegaT&lt;/a4&gt; with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T102846Z" creationid="piav" creationdate="20191201T102846Z">
+        <seg>Esimerkiksi parametri &lt;l2&gt;user.language=ja&lt;/l2&gt; (ilman &lt;l3&gt;#&lt;/l3&gt;-merkkiä) käynnistää &lt;a4&gt;OmegaT&lt;/a4&gt;:n japaninkielisen käyttöliittymän.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T120418Z" creationid="piav" creationdate="20191030T111929Z">
@@ -9874,6 +9882,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T152918Z" creationid="piav" creationdate="20191022T152918Z">
         <seg>Esimerkiksi tämä on kenoviiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For instance, &lt;l4&gt;MEMORY=-Xmx6g&lt;/l4&gt; will launch OmegaT with 6 GB of memory.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T102935Z" creationid="piav" creationdate="20191201T102935Z">
+        <seg>Esimerkiksi &lt;l4&gt;MEMORY=-Xmx6g&lt;/l4&gt; määrittelee OmegaT:n käyttöön 6 GB muistia.</seg>
       </tuv>
     </tu>
     <tu>
