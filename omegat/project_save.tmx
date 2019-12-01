@@ -24772,6 +24772,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will create a full distribution of OmegaT in the &lt;f0&gt;./build/distributions&lt;/f0&gt; folder, where you will find a zip containing everything needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T133931Z" creationid="piav" creationdate="20191201T133931Z">
+        <seg>Komento luo täyden OmegaT-jakelun &lt;f0&gt;./jakelu/versiot&lt;/f0&gt;-kansioon. Löydät sieltä zip-kansion, jossa on kaikki, mitä tarvitset &lt;a1&gt;OmegaT&lt;/a1&gt;:n käyttöön.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will create an &lt;f0&gt;omegat/&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T110501Z" creationid="piav" creationdate="20191201T092806Z">
@@ -29791,6 +29799,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T063251Z" creationid="piav" creationdate="20191023T063251Z">
         <seg>gotoSegmentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gradlew assembleDist</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T133639Z" creationid="piav" creationdate="20191201T133639Z">
+        <seg>gradlew assembleDist</seg>
       </tuv>
     </tu>
     <tu>
