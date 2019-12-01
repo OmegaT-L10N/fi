@@ -15526,6 +15526,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that up to 2M characters per month are free of charge.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T122214Z" creationid="piav" creationdate="20191201T122214Z">
+        <seg>Huomaa, että voit hakea kuukaudessa 2 000 merkin verran ilmaiseksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T082539Z" creationid="piav" creationdate="20190522T083417Z">
@@ -23354,6 +23362,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T111919Z" creationid="piav" creationdate="20191128T111919Z">
         <seg>Kääntäjä näkee hollanninkielisten lähdesegmenttien englanninkieliset käännökset ja voi käyttää niitä apuna kiinankielisen käännöksen luomisessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The two entries required are available in your &lt;u1&gt;account page&lt;/u1&gt; under Primary account key and Customer-ID:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T122458Z" creationid="piav" creationdate="20191201T122458Z">
+        <seg>Löydät kaksi tarvittavaa merkintää &lt;u1&gt;tilisivullasi&lt;/u1&gt; kohdista Ensisijainen tiliavain (Primary account key) sekä Asiakas-ID (Customer-ID)</seg>
       </tuv>
     </tu>
     <tu>
