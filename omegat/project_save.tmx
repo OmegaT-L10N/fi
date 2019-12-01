@@ -11313,6 +11313,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the language of the user's system is not available, &lt;a7&gt;OmegaT&lt;/a7&gt; defaults to English.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T120156Z" creationid="piav" creationdate="20191201T120156Z">
+        <seg>Jos käyttöjärjestelmän kieltä ei ole saatavilla, &lt;a7&gt;OmegaT&lt;/a7&gt; käyttää oletusarvoisesti englantia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T101927Z" creationid="piav" creationdate="20191030T081914Z">
@@ -20483,6 +20491,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So, if the user's operating system is Russian and &lt;a5&gt;OmegaT&lt;/a5&gt; has been localized in Russian, &lt;a6&gt;OmegaT&lt;/a6&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T120121Z" creationid="piav" creationdate="20191201T120121Z">
+        <seg>Jos siis käyttäjän käyttöliittymä on venäjäksi ja &lt;a5&gt;OmegaT&lt;/a5&gt; on lokalisoitu venäjäksi, &lt;a6&gt;OmegaT&lt;/a6&gt;-käyttöliittymä valikkoineen kaikkineen on venäjäksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Somali</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081530Z" creationid="PiaVee" creationdate="20171015T081530Z">
@@ -21868,6 +21884,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T125505Z" creationid="piav" creationdate="20191127T123345Z">
         <seg>Näppäinyhdistelmä &lt;k4&gt; &lt;k5&gt;vaihto&lt;/k5&gt; &lt;k6&gt;Ctrl &lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; vaihtaa kolmen tilan välillä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; argument causes &lt;a2&gt;OmegaT&lt;/a2&gt; to use the language specified rather than the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T120320Z" creationid="piav" creationdate="20191201T120320Z">
+        <seg>Argumentti &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; saa &lt;a2&gt;OmegaT&lt;/a2&gt;:n käyttämään käyttöjärjestelmän kielen sijasta määriteltyä kieltä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23840,6 +23864,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171220T112845Z" creationid="PiaVee" creationdate="20171220T112845Z">
         <seg>Tämä on yksinkertaisin tapa, ja sen avulla vältyt jatkossa monilta hankaluuksilta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the standard behavior.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T120216Z" creationid="piav" creationdate="20191201T120216Z">
+        <seg>Tämä on vakiokäytäntö.</seg>
       </tuv>
     </tu>
     <tu>
