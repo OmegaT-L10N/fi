@@ -1775,6 +1775,14 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--mode=console-align</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T130642Z" creationid="piav" creationdate="20191201T130642Z">
+        <seg>--mode=console-align</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--mode=console-createpseudotranslatetmx</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T130423Z" creationid="piav" creationdate="20191201T130423Z">
@@ -12341,6 +12349,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T130459Z" creationid="piav" creationdate="20191201T130459Z">
         <seg>Tässä tilassa OmegaT luo koko projektille ainoastaan lähdetiedostoihin perustuvan käännösmuistin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this mode, OmegaT will align the Java properties files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project to the contents found at the specified location.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T130800Z" creationid="piav" creationdate="20191201T130800Z">
+        <seg>Tässä tilassa OmegaT kohdistaa projektin &lt;f0&gt;/source/&lt;/f0&gt;-kansiossa olevat Java-ominaisuuksien tiedostot määritetyssä sijainnissa olevaan sisältöön.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23378,6 +23394,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T122154Z" creationid="piav" creationdate="20191128T122154Z">
         <seg>Etätiedosto&lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; yhdistetään paikalliseen &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;-tiedostoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The resulting TMX is stored in the &lt;f1&gt;/omegat/&lt;/f1&gt; folder under the name &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T130901Z" creationid="piav" creationdate="20191201T130901Z">
+        <seg>Tästä saatava TMX-tiedosto tallentuu &lt;f1&gt;/omegat/&lt;/f1&gt;-kansioon nimellä &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
