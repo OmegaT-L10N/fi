@@ -2955,6 +2955,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T132131Z" creationid="piav" creationdate="20191201T132131Z">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;tuotetunTiedostonNimi&lt;/p2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; where to find the project to translate.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T125314Z" creationid="piav" creationdate="20191201T125314Z">
@@ -3951,6 +3959,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T112336Z" creationid="piav" creationdate="20191201T112336Z">
         <seg>Ensimmäisen asennuksen jälkeen voit tietysti käyttää &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt;-ohjelmaa myös offline-tilassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Again note that the backslash is escaped as well.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T132058Z" creationid="piav" creationdate="20191201T132058Z">
+        <seg>Huomaathan, että myös kenoviivamerkki täytyy ilmoittaa pakomerkin avulla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11713,6 +11729,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If there are other files named test.html in other folders, they will be ignored.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T131936Z" creationid="piav" creationdate="20191201T131936Z">
+        <seg>Muissa kansioissa olevat test.html-tiedostot jätetään huomiotta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If they are used by some other application on your system, they will disappear from that application, too.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T115144Z" creationid="piav" creationdate="20191023T115144Z">
@@ -16702,6 +16726,22 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T144343Z" creationid="piav" creationdate="20191030T144343Z">
         <seg>Ainoastaan kokonaisluvut ja yksinkertaiset liukuluvut (desimaalierottimena piste, esim. 5.4 mutta ei 5,4 tai 54E-01) hyväksytään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T132033Z" creationid="piav" creationdate="20191201T132025Z">
+        <seg>Ainoastaan &lt;f1&gt;dir-10&lt;/f1&gt;kansiossa oleva &lt;f0&gt;test.html&lt;/f0&gt; -tiedosto käsitellään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only the file test.html at the root of the source folder will be translated.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T131917Z" creationid="piav" creationdate="20191201T131917Z">
+        <seg>Ainoastaan lähdekansion juuressa oleva test.html-tiedosto käännetään.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28923,6 +28963,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>dir-10\\test\.html</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T131937Z" creationid="piav" creationdate="20191201T131937Z">
+        <seg>dir-10\\test\.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>div</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174015Z" creationid="PiaVee" creationdate="20171014T174015Z">
@@ -32563,6 +32611,14 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081857Z" creationid="PiaVee" creationdate="20171015T081857Z">
         <seg>tel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>test\.html</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T131849Z" creationid="piav" creationdate="20191201T131849Z">
+        <seg>test\.html</seg>
       </tuv>
     </tu>
     <tu>
