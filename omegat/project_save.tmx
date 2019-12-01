@@ -26489,8 +26489,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>When started in console mode, no GUI is loaded (so it will work on any console) and the given project is automatically processed as requested.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T123150Z" creationid="piav" creationdate="20191201T123017Z">
-        <seg>Kun ohjelma käynnistetään konsolimuodossa, graafista käyttöliittymää ei avata (eli ohjelma toimii missä tahansa </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T123631Z" creationid="piav" creationdate="20191201T123017Z">
+        <seg>Kun ohjelma käynnistetään konsolimuodossa, graafista käyttöliittymää ei avata (eli ohjelma toimii missä tahansa konsolissa), ja käännösprojektia käsitellään automaattisesti annettujen komentojen mukaan.</seg>
       </tuv>
     </tu>
     <tu>
