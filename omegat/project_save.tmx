@@ -10846,6 +10846,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, the command-line alternative allows the user to control and modify the program's behavior.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T112916Z" creationid="piav" creationdate="20191201T112854Z">
+        <seg>Komentorivivaihtoehto antaa kuitenkin käyttäjän ohjata ja muokata ohjelman käyttäytymistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T134141Z" creationid="piav" creationdate="20191127T133947Z">
@@ -15118,6 +15126,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Normally, it is not necessary to start &lt;a0&gt;OmegaT&lt;/a0&gt; from the command line.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T112823Z" creationid="piav" creationdate="20191201T112823Z">
+        <seg>Tavallisesti &lt;a0&gt;OmegaT&lt;/a0&gt;:tä ei tarvitse käynnistää komentoriviltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>North Ndebele</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T181551Z" creationid="PiaVee" creationdate="20171014T175019Z">
@@ -15232,8 +15248,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Note that if you need or wish to use any of the launch command arguments (see above), you must use the normal installation.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T112715Z" creationid="piav" creationdate="20191201T112715Z">
-        <seg>Mikäli haluat tai sinun on pakko käyttää käynnistyskomennon argumentteja </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T112753Z" creationid="piav" creationdate="20191201T112715Z">
+        <seg>Mikäli haluat tai sinun on pakko käyttää käynnistyskomennon argumentteja (ks. yllä), huomaa, että sinun on käytettävä tavallista asennustapaa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20853,6 +20869,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Starting OmegaT from the command line</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T112805Z" creationid="piav" creationdate="20191201T112800Z">
+        <seg>OmegaT:n käynnistäminen komentoriviltä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090416Z" creationid="PiaVee" creationdate="20171218T090416Z">
@@ -23146,6 +23170,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T144528Z" creationid="piav" creationdate="20191030T144528Z">
         <seg>Tällaista muuttumatonta tekstiä sisältäviä segmenttejä käsitellään kahdella tavalla:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are two ways of launching &lt;a1&gt;OmegaT&lt;/a1&gt; using the command line.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T112933Z" creationid="piav" creationdate="20191201T112933Z">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt;:n voi käynnistää komentoriviltä kahdella tavalla:</seg>
       </tuv>
     </tu>
     <tu>
