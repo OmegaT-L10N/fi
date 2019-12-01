@@ -3051,6 +3051,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A command line window is also referred to as a "terminal window".</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T113016Z" creationid="piav" creationdate="20191201T113016Z">
+        <seg>Komentoikkunaa kutsutaan myös pääteikkunaksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A copy of the changed filters configuration will be stored with the project.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T120344Z" creationid="piav" creationdate="20191127T120145Z">
@@ -16002,6 +16010,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T113511Z" creationid="piav" creationdate="20191201T113115Z">
+        <seg>Windowsissa sen nimi on MS-DOS-ikkuna. Löydät sen Käynnistys-valikosta.ä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T055951Z" creationid="piav" creationdate="20191023T055312Z">
@@ -16278,6 +16294,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180305Z" creationid="piav" creationdate="20190521T180305Z">
         <seg>OpenDocument-suodattimen asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opening a command line window</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T112942Z" creationid="piav" creationdate="20191201T112942Z">
+        <seg>Komentoikkunan avaaminen</seg>
       </tuv>
     </tu>
     <tu>
