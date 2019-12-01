@@ -2355,6 +2355,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;No:&lt;/e0&gt; obtain a Java JRE for your system (see below) and download &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T110013Z" creationid="piav" creationdate="20191201T110013Z">
+        <seg>&lt;e0&gt;Ei:&lt;/e0&gt; Hanki järjestelmääsi sopiva Java JRE -ympärist (ks. alla) ja lataa tiedosto &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Note: &lt;/e0&gt;Of course there are other ways and means to create a simple file with tab delimited entries.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T083459Z" creationid="piav" creationdate="20191022T083459Z">
@@ -10846,6 +10854,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IBM provides JREs for Linux PowerPC at &lt;u0/&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T110233Z" creationid="piav" creationdate="20191201T110233Z">
+        <seg>IBM tarjoaa JRE-ympäristöjä </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ID</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T131444Z" creationid="piav" creationdate="20190920T131403Z">
@@ -16182,6 +16198,14 @@ your home folder.</seg>
 	Ainoastaan projektipolku: Käynnistä GUI, lataa kyseinen projekti 
 	team
 		Ryhmäprojektin työkalu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Oracle provides JREs for Solaris SPARC/x86 (Java 8) and for Linux x64, Solaris x64, Windows x64 (Java 8) at &lt;u0/&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T110211Z" creationid="piav" creationdate="20191201T110211Z">
+        <seg>Oracle tarjoaa JRE-ympäristöjä Solaris SPARC/x86 (Java 8)-, Linux x64-, Solaris x64- sekä Windows x64 (Java 8)- käyttöjärjestelmiin osoitteessa &lt;u0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28667,6 +28691,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T110212Z" creationid="piav" creationdate="20191201T110212Z">
+        <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.languagetool.org</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T141639Z" creationid="PiaVee" creationdate="20171014T141639Z">
@@ -28703,6 +28735,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T151347Z" creationid="piav" creationdate="20191030T151347Z">
         <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.oracle.com/technetwork/java/archive-139210.html</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T110015Z" creationid="piav" creationdate="20191201T110015Z">
+        <seg>http://www.oracle.com/technetwork/java/archive-139210.html</seg>
       </tuv>
     </tu>
     <tu>
