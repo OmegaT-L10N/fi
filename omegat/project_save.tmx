@@ -5407,6 +5407,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check "Command line launching" below for more information.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T095655Z" creationid="piav" creationdate="20191201T095655Z">
+        <seg>Lisää tietoa löydät alhaalta kohdasta "Käynnistäminen komentoriviltä".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;Issues...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T065146Z" creationid="PiaVee" creationdate="20171015T111247Z">
@@ -15740,8 +15748,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly or you can launch it directly from the command line.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191129T115556Z" creationid="piav" creationdate="20191129T115556Z">
-        <seg>Kun &lt;a0&gt;OmegaT&lt;/a0&gt; on asennettu koneelle, voit avata ohjelman joko napsauttamalla tiedostoa &lt;f1&gt;OmegaT.jar&lt;/f1&gt; tai käyttämällä komentoriviä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T095808Z" creationid="piav" creationdate="20191129T115556Z">
+        <seg>Kun &lt;a0&gt;OmegaT&lt;/a0&gt; on asennettu koneelle, voit käynnistää ohjelman joko napsauttamalla tiedostoa &lt;f1&gt;OmegaT.jar&lt;/f1&gt; tai käyttämällä komentoriviä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22464,8 +22472,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The simplest way to launch OmegaT, however, is to execute the &lt;f0&gt;OmegaT.exe&lt;/f0&gt; program.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191129T115627Z" creationid="piav" creationdate="20191129T115627Z">
-        <seg>Yksinkertaisin tapa avata ohjelma on kuitenkin suorittaa &lt;f0&gt;OmegaT.exe&lt;/f0&gt;.ohjelma.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T095822Z" creationid="piav" creationdate="20191129T115627Z">
+        <seg>Yksinkertaisin tapa käynnistää ohjelma on kuitenkin suorittaa &lt;f0&gt;OmegaT.exe&lt;/f0&gt;-ohjelma.</seg>
       </tuv>
     </tu>
     <tu>
