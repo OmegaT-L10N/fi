@@ -124,6 +124,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>$ tar xf downloaded_file.tar.gz</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T092832Z" creationid="piav" creationdate="20191201T092832Z">
+        <seg>$ tar xf downloaded_file.tar.gz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>${adjustedScore}</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T084934Z" creationid="piav" creationdate="20191127T084934Z">
@@ -3535,6 +3543,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081650Z" creationid="piav" creationdate="20190522T081650Z">
         <seg>Lisättyjä: {1}, poistettuja: {2}, muokattuja: {3} (ristiriitoja: {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus (KDE) or panels (Gnome)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T092907Z" creationid="piav" creationdate="20191201T092907Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;:n lisääminen valikkoihin (KDE) tai paneeleihin (Gnome)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23228,6 +23244,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will create an &lt;f0&gt;omegat/&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T092806Z" creationid="piav" creationdate="20191201T092806Z">
+        <seg>Tällöin työkansioon muodostuu &lt;f0&gt;omegat&lt;/f0&gt;-kansio, josta löydät kaikki &lt;a1&gt;OmegaT&lt;/a1&gt;-ohjelman ajamiseen tarvittavat tiedostot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will discard all changes you have made so far.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T132616Z" creationid="piav" creationdate="20190920T132616Z">
@@ -23546,6 +23570,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T155947Z" creationid="PiaVee" creationdate="20171014T155947Z">
         <seg>Tiedosto käännetään OmegaT:ssä seuraavalla tavalla:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To untar the &lt;f2&gt;.tar.gz&lt;/f2&gt; file:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T092842Z" creationid="piav" creationdate="20191201T092827Z">
+        <seg>Pura &lt;f2&gt;.tar.gz&lt;/f2&gt;-tiedosto tällä komennolla:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24411,8 +24443,8 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       <tuv lang="EN">
         <seg>Unpack/untar the downloaded file.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T092651Z" creationid="piav" creationdate="20191201T092651Z">
-        <seg>Pura lataamasi (tar-)tiedosto.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T092714Z" creationid="piav" creationdate="20191201T092651Z">
+        <seg>Pura tar-paketti / lataamasi tiedosto.</seg>
       </tuv>
     </tu>
     <tu>
