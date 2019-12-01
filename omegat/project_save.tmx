@@ -26257,6 +26257,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also &lt;c3&gt;cd&lt;/c3&gt; there directly from the command line and open &lt;f4&gt;Configuration.properties&lt;/f4&gt; in a command line editor like emacs or vi.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T102526Z" creationid="piav" creationdate="20191201T102526Z">
+        <seg>Voit myös käyttää komentorivillä komentoa &lt;c3&gt;cd&lt;/c3&gt; suoraan kansioon ja avata &lt;f4&gt;Configuration.properties&lt;/f4&gt;-tiedoston komentorivipohjaisessa editorissa kuten emacs tai vi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also define various options relating to tag validation and define custom tags.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T081714Z" creationid="piav" creationdate="20191127T081654Z">
@@ -27391,6 +27399,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173754Z" creationid="PiaVee" creationdate="20171014T173754Z">
         <seg>cat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd &lt;p0&gt;&lt;OmegaT.app location&gt;&lt;/p0&gt;/OmegaT.app/Contents/Resources/Java/</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T102239Z" creationid="piav" creationdate="20191201T102239Z">
+        <seg>cd &lt;p0&gt;&lt;OmegaT.app-sijainti&gt;&lt;/p0&gt;/OmegaT.app/Contents/Resources/Java/</seg>
       </tuv>
     </tu>
     <tu>
