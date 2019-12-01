@@ -2187,6 +2187,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;This command assigns more memory to &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T120953Z" creationid="piav" creationdate="20191201T120953Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;Tämä komento antaa &lt;a3&gt;OmegaT&lt;/a3&gt;:n käyttöön lisää muistia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T101536Z" creationid="piav" creationdate="20191030T101455Z">
@@ -2967,6 +2975,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T120412Z" creationid="piav" creationdate="20191201T120402Z">
         <seg>Kommennon &lt;p3&gt;XX&lt;/p3&gt; tarkoittaa halutun kielen kaksimerkkistä kielikoodia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p4&gt;??&lt;/p4&gt; stands for the amount of memory assigned, in megabytes.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T121151Z" creationid="piav" creationdate="20191201T121151Z">
+        <seg>&lt;p4&gt;??&lt;/p4&gt; tarkoittaa määritellyn muistin määrää megatavuina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5131,6 +5147,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T081342Z" creationid="piav" creationdate="20191127T081136Z">
         <seg>Editori-ruudussa näkyy oletusarvoisesti 2    000 ensimmäistä segmenttiä. Lisää segmenttejä ladataan progressiivisesti sitä mukaa kun vierität ruutua ylös tai alas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, 1024 MB are assigned, so there is no advantage in assigning less than this figure.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T121047Z" creationid="piav" creationdate="20191201T121013Z">
+        <seg>Oletusarvoisesti muistia on käytettävissä 1024 MB, joten tätä vähemmän muistia ei ohjelmalle kannata määrittää.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14414,6 +14438,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T174439Z" creationid="piav" creationdate="20190521T135036Z">
         <seg>Muisti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Memory assignment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T121018Z" creationid="piav" creationdate="20191201T120903Z">
+        <seg>Käytettävissä olevan muistin määritys</seg>
       </tuv>
     </tu>
     <tu>
