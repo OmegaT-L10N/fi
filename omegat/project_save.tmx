@@ -22486,6 +22486,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The macOS equivalent is the application Terminal located in &lt;f0&gt;Applications/Utilities&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T113641Z" creationid="piav" creationdate="20191201T113641Z">
+        <seg>Vastaava sovellus macOS-käyttöjärjestelmässä on Pääte, jonka löydät kohdasta &lt;f0&gt;Ohjelmat &gt; Lisäohjelmat&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The most that OmegaT can do in such a case, is to assume that the text is written in the same language the computer itself uses.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190515T072544Z" creationid="PiaVee" creationdate="20171220T093524Z">
