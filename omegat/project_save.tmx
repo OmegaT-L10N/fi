@@ -26476,8 +26476,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       <tuv lang="EN">
         <seg>You can thus select a word anywhere in &lt;a1&gt;OmegaT&lt;/a1&gt; and use Services to check this word, for instance in Spotlight or in Google.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T104251Z" creationid="piav" creationdate="20191201T104251Z">
-        <seg>Näin voit valita sanan missä päin &lt;a1&gt;OmegaT&lt;/a1&gt;-ohjelmaa tahansa ja käyttää palveluita </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T105022Z" creationid="piav" creationdate="20191201T104251Z">
+        <seg>Näin voit valita sanan missä päin &lt;a1&gt;OmegaT&lt;/a1&gt;-ohjelmaa tahansa ja käyttää macOS-palveluita tarkistamaan tämän sanan esim. Spotlightin tai Googlen avulla.</seg>
       </tuv>
     </tu>
     <tu>
