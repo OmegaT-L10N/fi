@@ -13594,6 +13594,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure that your &lt;v1&gt;PATH&lt;/v1&gt; settings are correct and that &lt;f2&gt;.jar&lt;/f2&gt; files are properly associated with a Java launcher.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T095557Z" creationid="piav" creationdate="20191201T095557Z">
+        <seg>Varmista, että &lt;v1&gt;PATH&lt;/v1&gt;-asetuksesi ovat oikein ja että &lt;f2&gt;.jar&lt;/f2&gt;-tiedostot on liitety oikein Java Launcher -käynnistysohjelmaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Malagasy</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T181437Z" creationid="PiaVee" creationdate="20171014T174854Z">
@@ -14046,6 +14054,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T070437Z" creationid="PiaVee" creationdate="20171219T105754Z">
         <seg>Merriam Webster dictionaryn käyttö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Methods differ depending on the distribution.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T095351Z" creationid="piav" creationdate="20191201T095351Z">
+        <seg>Käynnistystavat vaihtelevat jakelusta riippuen.</seg>
       </tuv>
     </tu>
     <tu>
