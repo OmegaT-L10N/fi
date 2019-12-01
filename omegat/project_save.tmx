@@ -11809,6 +11809,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In its most basic form, this command is:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T114703Z" creationid="piav" creationdate="20191201T114703Z">
+        <seg>Perusmuotoisimmillaan tämä komento on</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In many cases, however, it is necessary to embed LTR text in RTL text.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T125619Z" creationid="piav" creationdate="20191127T125603Z">
@@ -11877,6 +11885,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T123509Z" creationid="piav" creationdate="20191030T123416Z">
         <seg>Valitse segmentointitapa päävalikon kohdassa &lt;m1&gt; &lt;g2&gt;Projekti&lt;/g2&gt; &lt;g3&gt;Ominaisuudet…&lt;/g3&gt; &lt;/m1&gt; ja rastita valintaruutu tai poista rasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In practice, this command will therefore be something like this:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T114511Z" creationid="piav" creationdate="20191201T114511Z">
+        <seg>Käytännössä tämä komento näyttää kuta kuinkin tältä:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16010,10 +16026,34 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On Linux</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T114541Z" creationid="piav" creationdate="20191201T114541Z">
+        <seg>Linux-koneissa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On Windows</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T114531Z" creationid="piav" creationdate="20191201T114515Z">
+        <seg>Windows-koneissa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T113511Z" creationid="piav" creationdate="20191201T113115Z">
         <seg>Windowsissa sen nimi on MS-DOS-ikkuna. Löydät sen Käynnistys-valikosta.ä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On macOS</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T114536Z" creationid="piav" creationdate="20191201T114527Z">
+        <seg>macOS-koneissa</seg>
       </tuv>
     </tu>
     <tu>
@@ -16686,6 +16726,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T105619Z" creationid="piav" creationdate="20190522T083555Z">
         <seg>Muoto…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pay attention to the capitalization - in OS other than Windows, the program will not start, if you enter &lt;l0&gt;omegat&lt;/l0&gt; instead of &lt;l1&gt;OmegaT&lt;/l1&gt;!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T114750Z" creationid="piav" creationdate="20191201T114750Z">
+        <seg>Huomaa isot ja pienet kirjaimet: Muissa kuin Windows-käyttöjärjestelmissä ohjelma ei käynnisty, jos kirjoitat &lt;l0&gt;omegat&lt;/l0&gt; etkä &lt;l1&gt;OmegaT&lt;/l1&gt;!</seg>
       </tuv>
     </tu>
     <tu>
@@ -22814,6 +22862,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The second command is the command which actually launches &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T114648Z" creationid="piav" creationdate="20191201T114622Z">
+        <seg>Toinen komento käynnistää &lt;a1&gt;OmegaT&lt;/a1&gt;:n.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The segmentation rules are generally valid across all the projects.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T114719Z" creationid="piav" creationdate="20191127T114719Z">
@@ -23471,6 +23527,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T145743Z" creationid="piav" creationdate="20191022T145743Z">
         <seg>Tämä kappale on tarkoitettu edistyneille käyttäjille, jotka haluavat määritellä omia segmentointisääntöjä tai laatia monimutkaisia ja tehokkaita hakuavaimia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This command changes the folder to the folder containing the executable &lt;a0&gt;OmegaT&lt;/a0&gt; file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T114618Z" creationid="piav" creationdate="20191201T114618Z">
+        <seg>Tämä komento vaihtaa kansioksi suoritettavan &lt;a0&gt;OmegaT&lt;/a0&gt;-tiedoston sisältävän kansion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27803,6 +27867,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cd /usr/local/omegat</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T114542Z" creationid="piav" creationdate="20191201T114542Z">
+        <seg>cd /usr/local/omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cd &lt;p0&gt;&lt;OmegaT.app location&gt;&lt;/p0&gt;/OmegaT.app/Contents/Resources/Java/</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T102239Z" creationid="piav" creationdate="20191201T102239Z">
@@ -27815,6 +27887,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T114325Z" creationid="piav" creationdate="20191201T114315Z">
         <seg>cd &lt;p0&gt;kansio&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd C:\Program Files\OmegaT</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T114517Z" creationid="piav" creationdate="20191201T114517Z">
+        <seg>cd C:\Program Files\OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -29409,6 +29489,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174436Z" creationid="PiaVee" creationdate="20171014T174436Z">
         <seg>jav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T114704Z" creationid="piav" creationdate="20191201T114704Z">
+        <seg>java -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
