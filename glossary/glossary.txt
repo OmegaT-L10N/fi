@@ -724,3 +724,4 @@ auto-populated	automaattisesti täytetty	EI: automaattinen täydennys (=autocomp
 Note:	Huom.:
 authenticated proxy server	todennettu välityspalvelin
 repository	tietovarasto
+Java Web Start	Java Web Start
