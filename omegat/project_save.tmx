@@ -26226,6 +26226,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can launch OmegaT from the command line with a script that includes start-up options or you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T095331Z" creationid="piav" creationdate="20191201T095217Z">
+        <seg>Voit käynnistää OmegaT-ohjelman joko komentoriviltä käyttämällä komentosarjaa määritteineen tai napsauttamalla &lt;f0&gt;OmegaT.jar&lt;/f0&gt;-tiedostoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T072417Z" creationid="piav" creationdate="20191128T072417Z">
