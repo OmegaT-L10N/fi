@@ -11398,6 +11398,22 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If &lt;l0&gt;abort&lt;/l0&gt; is selected, the tag validator will stop on the first invalid segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T132333Z" creationid="piav" creationdate="20191201T132232Z">
+        <seg>Jos valintana on &lt;l0&gt;abort&lt;/l0&gt;, tägien tarkistus pysähtyy ensimmäisen epäkelpoisen segmentin kohdalle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T132407Z" creationid="piav" creationdate="20191201T132407Z">
+        <seg>Jos valintana on &lt;l1&gt;warn&lt;/l1&gt;, tägien tarkistus  is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T104107Z" creationid="piav" creationdate="20190913T075948Z">
@@ -24576,6 +24592,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T094620Z" creationid="piav" creationdate="20191030T094620Z">
         <seg>Tämä valinta antaa OmegaT:n ohittaa PO-otsakkeessa olevan määrityksen ja käyttää valitun kohdekielen oletusasetusta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option allows the tag validation in a batch mode.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T132418Z" creationid="piav" creationdate="20191201T132214Z">
+        <seg>Tämä valinta mahdollistaa erätilassa tapahtuvan tägien tarkistuksen.</seg>
       </tuv>
     </tu>
     <tu>
