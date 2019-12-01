@@ -2179,6 +2179,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The IP address of your proxy server, if your system uses a proxy.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T121453Z" creationid="piav" creationdate="20191201T121453Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Järjestelmäsi mahdollisesti käyttämän välityspalvelimen IP-osoite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normally, i.e. when &lt;a3&gt;OmegaT&lt;/a3&gt; is launched without any arguments, the program first detects the language of the user's operating system.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T115930Z" creationid="piav" creationdate="20191201T115930Z">
@@ -17839,6 +17847,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Proxy host IP address</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T121350Z" creationid="piav" creationdate="20191201T121350Z">
+        <seg>Välityspalvelimen IP-osoite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Publish the new OmegaT project on the server (&lt;c0&gt;commit&lt;/c0&gt; with SVN, &lt;c1&gt;commit&lt;/c1&gt; followed by &lt;c2&gt;push&lt;/c2&gt; with Git).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T114039Z" creationid="piav" creationdate="20191128T113931Z">
@@ -22266,6 +22282,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The command to launch &lt;a5&gt;OmegaT&lt;/a5&gt; with assignment of 2048 MB (2 GB) of memory is therefore:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T121320Z" creationid="piav" creationdate="20191201T121320Z">
+        <seg>Komento, joka käynnistää &lt;a5&gt;OmegaT&lt;/a5&gt;:n ja antaa ohjelman käyttöön 2048 MB (2 GB) muistia, on</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The computer, running OmegaT, has Russian as the default language, and thus shows the characters in the Cyrillic alphabet and not in Kanji.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171220T111716Z" creationid="PiaVee" creationdate="20171220T111716Z">
@@ -24416,8 +24440,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>To launch &lt;a4&gt;OmegaT&lt;/a4&gt; with a French interface (for example on a Russian operating system), the command would therefore be:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T120455Z" creationid="piav" creationdate="20191201T120455Z">
-        <seg>Ranskankielisen &lt;a4&gt;OmegaT&lt;/a4&gt;:n käynnistämiseen (esim. venäjänkielisessä käyttöliittymässä) tarvittava komento olisi:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T121336Z" creationid="piav" creationdate="20191201T120455Z">
+        <seg>Ranskankielisen &lt;a4&gt;OmegaT&lt;/a4&gt;:n käynnistämiseen (esim. venäjänkielisessä käyttöliittymässä) tarvittava komento on siis</seg>
       </tuv>
     </tu>
     <tu>
@@ -29737,6 +29761,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T120456Z" creationid="piav" creationdate="20191201T120456Z">
         <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -Xmx2048M -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T121343Z" creationid="piav" creationdate="20191201T121323Z">
+        <seg>java -Xmx2048M -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
