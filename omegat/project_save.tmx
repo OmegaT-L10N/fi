@@ -12323,8 +12323,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T130047Z" creationid="piav" creationdate="20191201T130047Z">
-        <seg>Tässä tilassa OmegaT yrittää kääntää kansiossa &lt;f0&gt;/source/&lt;/f0&gt; olevat tiedostot käyt</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T130117Z" creationid="piav" creationdate="20191201T130047Z">
+        <seg>Tässä tilassa OmegaT yrittää kääntää kansiossa &lt;f0&gt;/source/&lt;/f0&gt; olevat tiedostot saatavilla olevien käännösmuistien avulla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24328,6 +24328,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T074030Z" creationid="piav" creationdate="20191128T074030Z">
         <seg>Tämä on käytännöllistä, jos käytät usein vanhoja käännösmuisteja uudelleen vaikkapa siksi, koska käännösten aihepiiri on sama tai käännät samalle asiakkaalle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is useful to run OmegaT on a server with TMX files automatically fed to a project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T130422Z" creationid="piav" creationdate="20191201T130422Z">
+        <seg>Tämä on hyödyllistä silloin, kun OmegaT:tä käytetään palvelimella, jonne projektin TMX-tiedostot syötetään automaattisesti.</seg>
       </tuv>
     </tu>
     <tu>
