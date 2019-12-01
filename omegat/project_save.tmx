@@ -1947,6 +1947,14 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>.*\.html</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T131428Z" creationid="piav" creationdate="20191201T131428Z">
+        <seg>.*\.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>... matches the following</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T111239Z" creationid="piav" creationdate="20190913T111239Z">
@@ -4047,6 +4055,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T133143Z" creationid="piav" creationdate="20190920T133143Z">
         <seg>Kaikki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All HTML files will be translated - note that the period in the usual &lt;l0&gt;*.html&lt;/l0&gt; has to be escaped (&lt;l1&gt;\.&lt;/l1&gt;) as specified by the rules for regular expressions</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T131848Z" creationid="piav" creationdate="20191201T131848Z">
+        <seg>Kaikki HTML-tiedostot käännetään. Huomaa, että tavallisessa ilmauksessa &lt;l0&gt;*.html&lt;/l0&gt; käytetty piste täytyy säännöllisessä lausekkeessa ilmaista pakomerkin avulla (&lt;l1&gt;\.&lt;/l1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11030,6 +11046,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here's few typical examples to limit your choice:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T131427Z" creationid="piav" creationdate="20191201T131427Z">
+        <seg>Tässä pari esimerkkiä tavallisista tiedostorajoituksista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Herero</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174242Z" creationid="PiaVee" creationdate="20171014T174242Z">
@@ -11621,6 +11645,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T132643Z" creationid="piav" creationdate="20191127T132512Z">
         <seg>Jos alkuperäinen asiakirja on kirjoitettu vasemmalta oikealle, kohdeasiakirjan kirjoitussuunta on vaihdettava manuaalisesti oikealta vasemmalle. Käytä tähän sovellusta, jolla asiakirjaa katsellaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the parameter is not specified, all files will be processed.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T131354Z" creationid="piav" creationdate="20191201T131354Z">
+        <seg>Jos parametriä ei ole määritelty, kaikki tiedostot käsitellään.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26835,6 +26867,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T150538Z" creationid="PiaVee" creationdate="20171014T150538Z">
         <seg>Vie osoitin alleviivatun lausekkeen yläpuolelle, niin saat näkyviin selityksen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When mode has been used, this option will specify the files to be processed automatically.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T131334Z" creationid="piav" creationdate="20191201T131334Z">
+        <seg>Tämä valinta määrittelee tiedostot, jotka käsitellään automaattisesti sen jälkeen, kun tilaa on käytetty.</seg>
       </tuv>
     </tu>
     <tu>
