@@ -11409,6 +11409,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In KMenuEditor select &lt;e3&gt;File &gt; New Item.&lt;/e3&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T093342Z" creationid="piav" creationdate="20191201T093338Z">
+        <seg>Valitse KMenuEditor-ikkunassa &lt;e3&gt;File &gt; New Item&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T105043Z" creationid="piav" creationdate="20191023T110554Z">
@@ -21280,6 +21288,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The KMenuEditor appears.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T093236Z" creationid="piav" creationdate="20191201T093236Z">
+        <seg>Näytölle ilmestyy KMenuEditor-ikkuna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The LanguageTool in OmegaT</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T145555Z" creationid="PiaVee" creationdate="20171014T145547Z">
@@ -22610,6 +22626,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T111430Z" creationid="piav" creationdate="20191128T111016Z">
         <seg>Sitten tarvitaan käännös kiinaksi. Kääntäjäsi ei kuitenkaan ymmärrä hollantia, mutta hallitsee englannin erinomaisesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then, after selecting a suitable menu, add a submenu/item with &lt;e0&gt;File - New&lt;/e0&gt; Submenu and &lt;e1&gt;File - New Item&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T093548Z" creationid="piav" creationdate="20191201T093548Z">
+        <seg>Valitse sopiva valikko ja lisää sinne alivalikko tai valikon kohta valitsemalla &lt;e0&gt;File – New Submenu&lt;/e0&gt;tai &lt;e1&gt;File – New Item&lt;/e1&gt;. </seg>
       </tuv>
     </tu>
     <tu>
@@ -24081,8 +24105,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>Type &lt;e2&gt;kmenuedit+enter&lt;/e2&gt; to run the command.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T093136Z" creationid="piav" creationdate="20191201T093136Z">
-        <seg>Kirjoita &lt;e2&gt;kmenuedit&lt;/e2&gt; ja paina </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T093223Z" creationid="piav" creationdate="20191201T093136Z">
+        <seg>Kirjoita &lt;e2&gt;kmenuedit&lt;/e2&gt; ja paina enter-näppäintä, niin suoritat komennon.</seg>
       </tuv>
     </tu>
     <tu>
