@@ -1775,6 +1775,14 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--mode=console-translate</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T130011Z" creationid="piav" creationdate="20191201T130011Z">
+        <seg>--mode=console-translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--no-team
 		Disable team project functionality.</seg>
       </tuv>
@@ -1812,11 +1820,11 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
 	--config-dir=&lt;path&gt;
 		The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T075917Z" creationid="PiaVee" creationdate="20171015T083757Z">
+      <tuv lang="FI" changeid="piav" changedate="20191201T125842Z" creationid="PiaVee" creationdate="20171015T083757Z">
         <seg>--resource-bundle=&lt;polku&gt;
 		Java-ominaisuuksien tiedosto ( .properties) käyttöliittymän tekstiä varten
 	--config-dir=&lt;polku&gt;
-		Hakemisto, josta OmegaT:n kokoonpanotiedostot luetaan tai johon ne kirjoitetaan</seg>
+		Hakemisto, josta OmegaT:n määritystiedostot luetaan tai johon ne kirjoitetaan</seg>
       </tuv>
     </tu>
     <tu>
@@ -2231,6 +2239,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T134445Z" creationid="PiaVee" creationdate="20171014T134345Z">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;:n &lt;/e0&gt; tekijänoikeus © 2000–2016: Keith Godfrey, Lev Abashkin, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich sekä Michael Zakharov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; starts in console mode to perform one of the following services automatically</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T130010Z" creationid="piav" creationdate="20191201T130010Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; käynnistyy konsolitilassa ja suorittaa yhden seuraavista palveluista automaattisesti:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2869,8 +2885,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; in which folder the configuration files are stored.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T125526Z" creationid="piav" creationdate="20191201T125424Z">
-        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/yksittaisten/maaritystiedostojen/polku/&lt;/p1&gt;&lt;/l0&gt; kertoo &lt;a2&gt;OmegaT&lt;/a2&gt;:lle, mihin kansioon kokoonpanotiedostot on tallennettu.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T125853Z" creationid="piav" creationdate="20191201T125424Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/yksittaisten/maaritystiedostojen/polku/&lt;/p1&gt;&lt;/l0&gt; kertoo &lt;a2&gt;OmegaT&lt;/a2&gt;:lle, mihin kansioon määritystiedostot on tallennettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; what configuration file to use.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T125927Z" creationid="piav" creationdate="20191201T125832Z">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/yksittaisten/maaritystiedostojen/polku//&lt;/p1&gt;&lt;/l0&gt; kertoo &lt;a2&gt;OmegaT&lt;/a2&gt;:lle, mitä määritystiedostoa sen tulaa käyttää.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11763,8 +11787,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you need altered settings, the configuration files must be available.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T125505Z" creationid="piav" creationdate="20191201T123913Z">
-        <seg>Kokoonpanotiedostojen on oltava saatavilla, mikäli tarvitset muutettuja asetuksia.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T125848Z" creationid="piav" creationdate="20191201T123913Z">
+        <seg>Määritystiedostojen on oltava saatavilla, mikäli tarvitset muutettuja asetuksia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12293,6 +12317,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T121012Z" creationid="piav" creationdate="20191128T121012Z">
         <seg>Tässä tapauksessa projekti luodaan samaan tapaan, mutta projektipäällikkö ei lisää tiedostoja /source-kansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T130047Z" creationid="piav" creationdate="20191201T130047Z">
+        <seg>Tässä tilassa OmegaT yrittää kääntää kansiossa &lt;f0&gt;/source/&lt;/f0&gt; olevat tiedostot käyt</seg>
       </tuv>
     </tu>
     <tu>
@@ -15694,6 +15726,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note the double &lt;l5&gt;-&lt;/l5&gt; character.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T125742Z" creationid="piav" creationdate="20191201T125742Z">
+        <seg>Huomaa kaksinkertaiset &lt;l5&gt;-&lt;/l5&gt; merkit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T082539Z" creationid="piav" creationdate="20190522T083417Z">
@@ -16724,8 +16764,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Opens the local directory where OmegaT configuration files are stored (depends on the Operating system).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T125601Z" creationid="piav" creationdate="20191201T125601Z">
-        <seg>Avaa paikallisen tiedoston, jonne OmegaT-kokoonpanotiedostot on tallennettu (käyttöjärjestelmästä riippuen).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T125901Z" creationid="piav" creationdate="20191201T125601Z">
+        <seg>Avaa paikallisen tiedoston, jonne OmegaT-määritystiedostot on tallennettu (käyttöjärjestelmästä riippuen).</seg>
       </tuv>
     </tu>
     <tu>
