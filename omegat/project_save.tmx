@@ -2467,6 +2467,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T102145Z" creationid="piav" creationdate="20191201T102145Z">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; voi hyödyntää macOS-palveluita. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T113610Z" creationid="piav" creationdate="20191128T113610Z">
@@ -23784,8 +23792,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>To launch multiple instances of &lt;f0&gt;OmegaT.app&lt;/f0&gt;, double-click the file &lt;e1&gt;OmegaT&lt;/e1&gt; located in &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T101616Z" creationid="piav" creationdate="20191201T101616Z">
-        <seg>Jos haluat käynistää useita &lt;f0&gt;OmegaT.app&lt;/f0&gt;-esiintymiä, kaksoisnapsauta kansiossa &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt; olevaa &lt;e1&gt;OmegaT&lt;/e1&gt;-tiedostoa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T101738Z" creationid="piav" creationdate="20191201T101616Z">
+        <seg>Jos haluat käynnistää useita &lt;f0&gt;OmegaT.app&lt;/f0&gt;-esiintymiä, kaksoisnapsauta kansiossa &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt; olevaa &lt;e1&gt;OmegaT&lt;/e1&gt;-tiedostoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25087,8 +25095,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>Use the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; to launch &lt;a2&gt;OmegaT&lt;/a2&gt; from the command line.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T101734Z" creationid="piav" creationdate="20191201T101734Z">
-        <seg>Kun haluat Käynnistä &lt;a2&gt;OmegaT&lt;/a2&gt; komentoriviltä Käytä kansiossa &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; olevaa &lt;f0&gt;OmegaT.jar&lt;/f0&gt;-tiedostoa file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt;  from the command line.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T101805Z" creationid="piav" creationdate="20191201T101734Z">
+        <seg>Käynnistä &lt;a2&gt;OmegaT&lt;/a2&gt; komentoriviltä käyttämällä kansiossa &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; olevaa &lt;f0&gt;OmegaT.jar&lt;/f0&gt;-tiedostoa.</seg>
       </tuv>
     </tu>
     <tu>
