@@ -7887,8 +7887,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T100458Z" creationid="piav" creationdate="20191201T100445Z">
-        <seg>Kaksoisnapsauta tiedostoa &lt;f0&gt;OmegaT.app&lt;/f0&gt; tai napsauta sitä Dockissa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T101040Z" creationid="piav" creationdate="20191201T100445Z">
+        <seg>Kaksoisnapsauta &lt;f0&gt;OmegaT.app&lt;/f0&gt;-kuvaketta tai napsauta sitä Dockissa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8007,8 +8007,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Drag and drop &lt;f0&gt;OmegaT.app&lt;/f0&gt; onto the Dock.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T100402Z" creationid="piav" creationdate="20191201T100402Z">
-        <seg>Vedä ja pudota &lt;f0&gt;OmegaT.app&lt;/f0&gt; Dockiin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T101032Z" creationid="piav" creationdate="20191201T100402Z">
+        <seg>Vedä ja pudota &lt;f0&gt;OmegaT.app&lt;/f0&gt;-kuvake Dockiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23568,6 +23568,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T114909Z" creationid="piav" creationdate="20191128T114909Z">
         <seg>&lt;e0&gt;Poista tiedostot&lt;/e0&gt; SVN- tai Git-asiakasohjelmassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access &lt;f0&gt;Configuration.properties&lt;/f0&gt;, right-click on &lt;f1&gt;OmegaT.app&lt;/f1&gt; and select "Show Package Contents", then open the file in &lt;f2&gt;Contents/Resources&lt;/f2&gt; by right-clicking on it and selecting your text editor of choice.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T101020Z" creationid="piav" creationdate="20191201T101020Z">
+        <seg>Pääset käsiksi &lt;f0&gt;Configuration.properties&lt;/f0&gt;-tiedostoon napsauttamalla &lt;f1&gt;OmegaT.app&lt;/f1&gt;-kuvaketta hiiren kakkospainikkeella ja valitsemalla "Näytä pakkauksen sisältö" (Show Package Contents).</seg>
       </tuv>
     </tu>
     <tu>
