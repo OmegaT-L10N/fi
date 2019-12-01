@@ -11603,8 +11603,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T124125Z" creationid="piav" creationdate="20191201T124125Z">
-        <seg>Jos et voi käyttää &lt;a0&gt;OmegaT&lt;/a0&gt;:tä normaalisti (graafista käyttöliittymää ei ole saatavilla), kopioi asetustiedostots</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T124315Z" creationid="piav" creationdate="20191201T124125Z">
+        <seg>Jos et voi käyttää &lt;a0&gt;OmegaT&lt;/a0&gt;:tä normaalisti (graafista käyttöliittymää ei ole saatavilla), kopioi toiselle koneelle asennetun &lt;a1&gt;OmegaT&lt;/a1&gt;:n asetustiedostot tiettyyn kansioon omalle koneellesi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22870,10 +22870,18 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The location does not matter, since you can add it to the command line at startup.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T124441Z" creationid="piav" creationdate="20191201T124402Z">
+        <seg>Tiedostosijainnilla ei ole väliä, sillä voit lisätä sen komentoriville ohjelman käynnistyksen yhteydessä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location does not matter, since you have to add it to the command line at the start-up anyway.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T123833Z" creationid="piav" creationdate="20191201T123833Z">
-        <seg>Projektin sijainnilla ei ole väliä, sillä sinun on joka tapauksessa aluksi lisättävä se komentoriville.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T124504Z" creationid="piav" creationdate="20191201T123833Z">
+        <seg>Projektin sijainnilla ei ole väliä, sillä sinun on joka tapauksessa lisättävä se komentoriville ohjelman käynnistyksen yhteydessä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23162,6 +23170,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T145459Z" creationid="piav" creationdate="20191022T145459Z">
         <seg>Hakutoiminnoissa ja segmentointisäännöissä käytetään Java-ohjelmointikielen tukemia säännöllisiä lausekkeita (lyhyesti: regex).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The relevant files are &lt;f2&gt;filters.conf&lt;/f2&gt; and &lt;f3&gt;segmentation.conf&lt;/f3&gt; and can be found in the user home folder (e.g. &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; under Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; under Linux).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T124423Z" creationid="piav" creationdate="20191201T124423Z">
+        <seg>seuraavat: &lt;f2&gt;filters.conf&lt;/f2&gt; and &lt;f3&gt;segmentation.conf&lt;/f3&gt; and can be found in the user home folder (e.g. &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; under Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; under Linux).</seg>
       </tuv>
     </tu>
     <tu>
