@@ -1817,10 +1817,34 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T122500Z" creationid="piav" creationdate="20191201T122500Z">
+        <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-Dmicrosoft.api.client_secret=&lt;p0&gt;XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T122504Z" creationid="piav" creationdate="20191201T122501Z">
+        <seg>-Dmicrosoft.api.client_secret=&lt;p0&gt;XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>-Dsun.java2d.noddraw=false</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T120307Z" creationid="piav" creationdate="20191129T120307Z">
         <seg>-Dsun.java2d.noddraw=false</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T122630Z" creationid="piav" creationdate="20191201T122630Z">
+        <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3355,6 +3379,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T122629Z" creationid="piav" creationdate="20191201T122629Z">
+        <seg>Voit pyytää API-avainta lomakkeella &lt;u0&gt;API key request form&lt;/u0&gt;, ja näet avaimen &lt;u1&gt;My Keys&lt;/u1&gt;-sivulla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ASCII Only</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T135406Z" creationid="piav" creationdate="20190920T135406Z">
@@ -4417,6 +4449,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T115346Z" creationid="piav" creationdate="20191201T115346Z">
         <seg>Argumentit lisätään aloittavan &lt;c0&gt;java&lt;/c0&gt;-komennon jälken, ennen komentoa &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arguments can be combined: to launch &lt;a0&gt;OmegaT&lt;/a0&gt; with all the examples described above, the command would be:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T122721Z" creationid="piav" creationdate="20191201T122721Z">
+        <seg>Argumentteja voi yhdistää. Komento, joka käynnistää &lt;a0&gt;OmegaT&lt;/a0&gt;:n kaikilla yllä mainituilla argumenteilla, olisi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14038,6 +14078,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T121952Z" creationid="piav" creationdate="20191201T121952Z">
         <seg>Varmista, että sinulla on ilmainen Microsoft-tili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure that you have a free Yandex account.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T122515Z" creationid="piav" creationdate="20191201T122515Z">
+        <seg>Varmista, että sinulla on ilmainen Yandex-tili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27387,6 +27435,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You’ll need this to be able to obtain and use Yandex Translate API key.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T122545Z" creationid="piav" creationdate="20191201T122545Z">
+        <seg>Tarvitset sitä saadaksesi Yandex Translate API-avaimen ja käyttääksesi sitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You’ll need this to sign-in to &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; and use the Translator service.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T122120Z" creationid="piav" creationdate="20191201T122120Z">
@@ -29327,6 +29383,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174223Z" creationid="PiaVee" creationdate="20171014T174223Z">
         <seg>ht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://api.yandex.com/key/form.xml?service=trnsl</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T122506Z" creationid="piav" creationdate="20191201T122506Z">
+        <seg>http://api.yandex.com/key/form.xml?service=trnsl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://api.yandex.com/key/keyslist.xml</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T122507Z" creationid="piav" creationdate="20191201T122507Z">
+        <seg>http://api.yandex.com/key/keyslist.xml</seg>
       </tuv>
     </tu>
     <tu>
