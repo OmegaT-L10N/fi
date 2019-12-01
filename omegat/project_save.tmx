@@ -10030,6 +10030,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For this reason, the two commands described above are contained in a file (a "script", also called a "&lt;f0&gt;.bat&lt;/f0&gt; file" on Windows systems).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T115059Z" creationid="piav" creationdate="20191201T115059Z">
+        <seg>Tämän vuoksi yllä kuvatut komennot ovat tiedostossa ("komentojonossa", Windows-käyttöjärjestelmän &lt;f0&gt;.bat&lt;/f0&gt;-tiedostossa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this to happen, there should be a break rule for "?", when followed by spaces and a capitalized word.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T130623Z" creationid="piav" creationdate="20191030T130623Z">
@@ -21954,6 +21962,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The above method somewhat impractical way of launching a program routinely.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T114937Z" creationid="piav" creationdate="20191201T114937Z">
+        <seg>Yllä kuvattu tapa on hieman epäkäytännöllinen, kun ohjelma käynnistetään tämän tästä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The alert (bell) character ('\u0007')</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T151920Z" creationid="piav" creationdate="20191022T151920Z">
@@ -23800,6 +23816,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T132543Z" creationid="piav" creationdate="20191127T130526Z">
         <seg>Jos siis lähdekieltä kirjoitetaan vasemmalta oikealle ja kohdekieltä oikealta vasemmalle (tai päin vastoin), on tarpeen pystyä vaihtamaan helposti RTL- ja LTR-tilojen välillä, jotta lähdeteksti näkyy omassa tilassaan oikein ja että kohdetekstin saa omassa tilassaan kirjoitettua oikein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This method has a particular benefit of being suitable for finding causes of problems: if an error occurs during use of the program, an error message is output in the terminal window which may contain useful information on the cause of the error.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T114904Z" creationid="piav" creationdate="20191201T114904Z">
+        <seg>Tämän käynnistystavan etuna on se, että se paljastaa ongelmien syitä. Jos ohjelman käytön aikana tapahtuu virhe, pääteikkunaan tulee virheilmoitus, jossa voi olla hyödyllistä tietoa virheen syystä.</seg>
       </tuv>
     </tu>
     <tu>
