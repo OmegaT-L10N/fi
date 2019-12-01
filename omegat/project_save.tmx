@@ -2403,6 +2403,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Privacy&lt;/e0&gt;: &lt;a1&gt;OmegaT&lt;/a1&gt; Java Web Start does not save any of your information beyond the computer on which you are running it.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T112428Z" creationid="piav" creationdate="20191201T112428Z">
+        <seg>&lt;e0&gt;Tietosuoja&lt;/e0&gt;: &lt;a1&gt;OmegaT&lt;/a1&gt; Java Web Start ei tallenna mitään tietojasi muualle kuin tietokoneelle, jossa käytät ohjelmaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T102705Z" creationid="piav" creationdate="20191030T102533Z">
@@ -15222,6 +15230,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that if you need or wish to use any of the launch command arguments (see above), you must use the normal installation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T112715Z" creationid="piav" creationdate="20191201T112715Z">
+        <seg>Mikäli haluat tai sinun on pakko käyttää käynnistyskomennon argumentteja </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T102614Z" creationid="PiaVee" creationdate="20171219T102614Z">
@@ -21858,6 +21874,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The application runs on your machine only.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T112443Z" creationid="piav" creationdate="20191201T112443Z">
+        <seg>Sovellus on käynnissä ainostaan omalla koneellasi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The author of the Chapter &lt;e1&gt;Learn to use OmegaT in 5 minutes!&lt;/e1&gt; is Samuel Murray, Copyright ©2005-2012.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T132632Z" creationid="PiaVee" creationdate="20171014T132533Z">
@@ -26854,6 +26878,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T175454Z" creationid="piav" creationdate="20190521T175454Z">
         <seg>Tämänhetkinen projekti on segmentoitu lauseittain, mutta TMX-tiedostossa on käytössä kappaleittainen segmentointi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your documents and translation memories remain on your computer, and the &lt;a2&gt;OmegaT&lt;/a2&gt; project will have no access to your work or information.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T112536Z" creationid="piav" creationdate="20191201T112536Z">
+        <seg>Käyttämäsi asiakirjat ja käännösmuistit pysyvät omalla koneellasi, eikä &lt;a2&gt;OmegaT&lt;/a2&gt;-projektilla ole pääsyä työhösi tai tietoihisi.</seg>
       </tuv>
     </tu>
     <tu>
