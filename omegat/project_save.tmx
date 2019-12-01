@@ -2955,6 +2955,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; allows, under Windows, to open the same project with several instances of OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T132803Z" creationid="piav" creationdate="20191201T132803Z">
+        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; sallii Windows-käyttöjärjestelmässä sen, että sama projekti avataan useissa OmegaT-.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--no-team&lt;/l0&gt; addresses projects set up for team work.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T132636Z" creationid="piav" creationdate="20191201T132636Z">
+        <seg>&lt;l0&gt;--no-team&lt;/l0&gt; koskee ryhmätyöprojekteja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T132131Z" creationid="piav" creationdate="20191201T132131Z">
@@ -11408,8 +11424,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T132407Z" creationid="piav" creationdate="20191201T132407Z">
-        <seg>Jos valintana on &lt;l1&gt;warn&lt;/l1&gt;, tägien tarkistus  is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T132619Z" creationid="piav" creationdate="20191201T132407Z">
+        <seg>Jos valintana on &lt;l1&gt;warn&lt;/l1&gt;, tägien tarkistus käsittelee kaikki segmentit ja kirjoittaa varoitukset epäkelpoisia tägejä sisältävistä segmenteistä määriteltyyn tiedostoon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20693,8 +20709,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Sets the segment validation key to Tab instead of the default Enter.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T120001Z" creationid="piav" creationdate="20191023T115943Z">
-        <seg>Valitse tämä, niin segmentin validointi tapahtuu sarkainnäppäimellä (oletusnäppäimenä on Enter).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T132502Z" creationid="piav" creationdate="20191023T115943Z">
+        <seg>Valitse tämä, niin segmentin tarkistus tapahtuu sarkainnäppäimellä (oletusnäppäimenä on Enter).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26305,6 +26321,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092651Z" creationid="PiaVee" creationdate="20171014T092651Z">
         <seg>Käytä sanastoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use it if OmegaT is not to synchronize the project contents.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T132708Z" creationid="piav" creationdate="20191201T132708Z">
+        <seg>Käytä tätä, jos OmegaT:n ei tule synkronoida projektin sisältöä.</seg>
       </tuv>
     </tu>
     <tu>
