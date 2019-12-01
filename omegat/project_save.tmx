@@ -12578,6 +12578,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>KDE 4 Users</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T092913Z" creationid="piav" creationdate="20191201T092913Z">
+        <seg>KDE 4 -käyttäjät</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Kalaallisut, Greenlandic</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T181146Z" creationid="PiaVee" creationdate="20171014T174447Z">
@@ -16763,6 +16771,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T124713Z" creationid="piav" creationdate="20190920T124713Z">
         <seg>Napsauta OK, niin projekti muunnetaan 4.x-tyyliseksi ryhmäprojektiksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;e0&gt; &lt;k1&gt;Alt+F2&lt;/k1&gt; &lt;/e0&gt; to show KRunner.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T093113Z" creationid="piav" creationdate="20191201T093113Z">
+        <seg>Paina &lt;e0&gt; &lt;k1&gt;Alt+F2&lt;/k1&gt; &lt;/e0&gt;, niin saat KRunnerin näkyviin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24063,6 +24079,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type &lt;e2&gt;kmenuedit+enter&lt;/e2&gt; to run the command.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T093136Z" creationid="piav" creationdate="20191201T093136Z">
+        <seg>Kirjoita &lt;e2&gt;kmenuedit&lt;/e2&gt; ja paina </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type in new rule ID</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T140611Z" creationid="piav" creationdate="20190916T140611Z">
@@ -25941,6 +25965,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T135510Z" creationid="piav" creationdate="20190916T135510Z">
         <seg>Olet poistamassa projektissasi käytössä olevaa oikeinkirjoituksen tarkistussanakirjaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus as follows:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T092943Z" creationid="piav" creationdate="20191201T092943Z">
+        <seg>Näin lisäät &lt;a0&gt;OmegaT&lt;/a0&gt;:n valikkoihisi:</seg>
       </tuv>
     </tu>
     <tu>
