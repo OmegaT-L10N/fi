@@ -2043,6 +2043,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; contains the Java JRE 1.8</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T095955Z" creationid="piav" creationdate="20191201T095925Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;:ssä on mukana Java JRE 1.8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; first parses the text for structure-level segmentation.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T125151Z" creationid="piav" creationdate="20191030T125151Z">
@@ -6269,6 +6277,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy the folder to a suitable folder (e.g. Applications).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T100143Z" creationid="piav" creationdate="20191201T100143Z">
+        <seg>Kopioi kansio sopivaan kansioon (esim. Ohjelmat).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T082651Z" creationid="piav" creationdate="20191128T082651Z">
@@ -7853,6 +7869,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double click on &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt; to unpack it.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T100042Z" creationid="piav" creationdate="20191201T100042Z">
+        <seg>Pura tiedosto &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt; kaksoisnapsauttamalla sitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Doublet KK</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094201Z" creationid="PiaVee" creationdate="20171219T094201Z">
@@ -7865,6 +7889,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T065015Z" creationid="PiaVee" creationdate="20171015T101333Z">
         <seg>Lataa ryhmäprojekti…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T100010Z" creationid="piav" creationdate="20191201T100010Z">
+        <seg>Lataa tiedosto &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12041,6 +12073,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T100016Z" creationid="piav" creationdate="20191201T100016Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;:n asentaminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T113847Z" creationid="piav" creationdate="20191129T113847Z">
@@ -15782,6 +15822,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T115743Z" creationid="piav" creationdate="20191128T115343Z">
         <seg>Kun projekti on saatu määritettyä palvelimelle, projektipäällikkö voi kutsua kääntäjät työskentelemään sen parissa. Projektipäällikkö voi joko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once you have done this, you can delete the &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt; file, it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T100217Z" creationid="piav" creationdate="20191201T100217Z">
+        <seg>Kun olet tehnyt tämän, voit poistaa &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt;-tiedoston, sillä sitä ei enää tarvita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21940,6 +21988,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The folder contains 2 files: &lt;f2&gt;index.html&lt;/f2&gt; and &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T100115Z" creationid="piav" creationdate="20191201T100115Z">
+        <seg>Kansiossa on kaksi tiedostoa, &lt;f2&gt;index.html&lt;/f2&gt; ja &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following example for the INI file reserves 1 GB of memory, requests French as the user language and Canada as the country:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T120134Z" creationid="piav" creationdate="20191129T120101Z">
@@ -23079,6 +23135,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T101351Z" creationid="piav" creationdate="20190522T063255Z">
         <seg>Tämä komento suoritetaan sen jälkeen kun käännettävät asiakirjat on luotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This creates a folder called &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T100058Z" creationid="piav" creationdate="20191201T100058Z">
+        <seg>Tällöin koneelle muodostuu kansio &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29313,6 +29377,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T185505Z" creationid="piav" creationdate="20190527T185505Z">
         <seg>mALIGNa (lisenssi: MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>macOS Users</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T095906Z" creationid="piav" creationdate="20191201T095906Z">
+        <seg>macOS-käyttäjät</seg>
       </tuv>
     </tu>
     <tu>
