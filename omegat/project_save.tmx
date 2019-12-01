@@ -9998,6 +9998,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>GNOME may fail to display the icon files in the available formats and initially appear to expect an SVG file, but if the folder is selected, the files should appear and &lt;f4&gt;OmegaT.png&lt;/f4&gt; can be selected.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T095046Z" creationid="piav" creationdate="20191201T095046Z">
+        <seg>GNOME ei välttämättä pysty näyttämään käytettävissä olevia ikonitiedostoja, sillä se odottaa ikonitiedostojen olevan SVG-tiedostoja. Jos kuitenkin valitset tämän kansion, tiedostojen pitäisi tulla näkyviin ja voit valita &lt;f4&gt;OmegaT-png&lt;/f4&gt;-tiedoston ohjelman ikoniksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Galician</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174124Z" creationid="PiaVee" creationdate="20171014T174124Z">
