@@ -9726,6 +9726,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Follow the installation instructions of the package you need.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T110336Z" creationid="piav" creationdate="20191201T110336Z">
+        <seg>Seuraa tarvitsemasi pakentin asennusohjeita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T125358Z" creationid="PiaVee" creationdate="20171015T125358Z">
@@ -10856,8 +10864,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>IBM provides JREs for Linux PowerPC at &lt;u0/&gt;.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T110233Z" creationid="piav" creationdate="20191201T110233Z">
-        <seg>IBM tarjoaa JRE-ympäristöjä </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T110305Z" creationid="piav" creationdate="20191201T110233Z">
+        <seg>IBM tarjoaa JRE-ympäristöjä Linux PowerPC -käyttöjärjestelmään osoitteessa &lt;u0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16204,8 +16212,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Oracle provides JREs for Solaris SPARC/x86 (Java 8) and for Linux x64, Solaris x64, Windows x64 (Java 8) at &lt;u0/&gt;.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T110211Z" creationid="piav" creationdate="20191201T110211Z">
-        <seg>Oracle tarjoaa JRE-ympäristöjä Solaris SPARC/x86 (Java 8)-, Linux x64-, Solaris x64- sekä Windows x64 (Java 8)- käyttöjärjestelmiin osoitteessa &lt;u0/&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T110314Z" creationid="piav" creationdate="20191201T110211Z">
+        <seg>Oracle tarjoaa JRE-ympäristöjä Solaris SPARC/x86 (Java 8)-, Linux x64-, Solaris x64- sekä Windows x64 (Java 8)- käyttöjärjestelmiin osoitteessa &lt;u0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23275,6 +23283,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This creates an &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T110528Z" creationid="piav" creationdate="20191201T110435Z">
+        <seg>Tämä luo työkansioon &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt;-kansion, josta löydät kaikki &lt;a3&gt;OmegaT&lt;/a3&gt;-ohjelman ajamiseen tarvittavat tiedostot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T105705Z" creationid="piav" creationdate="20191030T103110Z">
@@ -23622,8 +23638,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This will create an &lt;f0&gt;omegat/&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T092806Z" creationid="piav" creationdate="20191201T092806Z">
-        <seg>Tällöin työkansioon muodostuu &lt;f0&gt;omegat&lt;/f0&gt;-kansio, josta löydät kaikki &lt;a1&gt;OmegaT&lt;/a1&gt;-ohjelman ajamiseen tarvittavat tiedostot.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T110501Z" creationid="piav" creationdate="20191201T092806Z">
+        <seg>Tämä luo työkansioon &lt;f0&gt;omegat/&lt;/f0&gt;-kansion, josta löydät kaikki &lt;a1&gt;OmegaT&lt;/a1&gt;-ohjelman ajamiseen tarvittavat tiedostot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23882,6 +23898,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T113909Z" creationid="piav" creationdate="20191129T113909Z">
         <seg>Asenna &lt;a0&gt;OmegaT&lt;/a0&gt; kaksoisnapsauttamalla lataamaasi tiedostoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, simply unpack the &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt; file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T110358Z" creationid="piav" creationdate="20191201T110358Z">
+        <seg>Asenna &lt;a0&gt;OmegaT&lt;/a0&gt; yksinkertaisesti purkamalla tiedosto &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
