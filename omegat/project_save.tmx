@@ -2307,6 +2307,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;I don't know:&lt;/e0&gt; open a terminal and type &lt;c1&gt;java -version&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T105855Z" creationid="piav" creationdate="20191201T105855Z">
+        <seg>&lt;e0&gt;En tiedä:&lt;/e0&gt; Avaa pääteohjelma ja kirjoita komento &lt;c1&gt;java -version&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Important: &lt;/e0&gt;the supporting TMX must be renamed XX_YY.tmx, where XX_YY is the target language of the tmx, for instance to ZH_CN.tmx in the example above.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T112128Z" creationid="piav" creationdate="20191128T112128Z">
@@ -2471,6 +2479,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T092523Z" creationid="piav" creationdate="20191201T092523Z">
         <seg>&lt;e0&gt;Kyllä: &lt;/e0&gt;Lataa tiedosto &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Yes:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T105714Z" creationid="piav" creationdate="20191201T105714Z">
+        <seg>&lt;e0&gt;Kyllä:&lt;/e0&gt; Lataa tiedosto &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10946,6 +10962,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T091719Z" creationid="piav" creationdate="20191127T091447Z">
         <seg>Jos OmegaT käyttää internetiä todennetun välityspalvelimen kautta, kirjoita palvelimen järjestelmänvalvojalta saamasi tiedot tähän.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T105938Z" creationid="piav" creationdate="20191201T105938Z">
+        <seg>Jos vastaus on "command not found" tai sen kaltainen, Javaa ei todennäköisesti ole asennettu järjestelmääsi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23500,6 +23524,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This package can be used on any platform where a Java 8 compatible JRE is installed.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T105759Z" creationid="piav" creationdate="20191201T105759Z">
+        <seg>Tätä pakettia voidaan käyttää missä tahansa käyttöjärjestelmässä, johon on asennettu Java 8 -yhteensopiva JRE-ympäristö.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This package is bundled with Oracle's Java Runtime Environment.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T113757Z" creationid="piav" creationdate="20191129T113639Z">
@@ -25271,8 +25303,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>Users of other platforms (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) must have a running compatible Java JRE on their system to be able to use &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T105622Z" creationid="piav" creationdate="20191201T105622Z">
-        <seg>Muissa käyttöjärjestelmissä (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 jne.) on oltava yhteensopiva Java JRE-</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T105657Z" creationid="piav" creationdate="20191201T105622Z">
+        <seg>Jotta &lt;a1&gt;OmegaT&lt;/a1&gt;:tä voi käyttää muissa käyttöjärjestelmissä (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 jne.), niissä on oltava yhteensopiva Java JRE-ympäristö.</seg>
       </tuv>
     </tu>
     <tu>
