@@ -3555,6 +3555,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding &lt;a0&gt;OmegaT&lt;/a0&gt; to the Dock</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T100324Z" creationid="piav" creationdate="20191201T100324Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;:n lisääminen Dockiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus (KDE) or panels (Gnome)</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T092907Z" creationid="piav" creationdate="20191201T092907Z">
@@ -7877,6 +7885,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T100458Z" creationid="piav" creationdate="20191201T100445Z">
+        <seg>Kaksoisnapsauta tiedostoa &lt;f0&gt;OmegaT.app&lt;/f0&gt; tai napsauta sitä Dockissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Doublet KK</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094201Z" creationid="PiaVee" creationdate="20171219T094201Z">
@@ -7985,6 +8001,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T171759Z" creationid="piav" creationdate="20190527T171759Z">
         <seg>Piirrokset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drag and drop &lt;f0&gt;OmegaT.app&lt;/f0&gt; onto the Dock.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T100402Z" creationid="piav" creationdate="20191201T100402Z">
+        <seg>Vedä ja pudota &lt;f0&gt;OmegaT.app&lt;/f0&gt; Dockiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26318,6 +26342,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T095331Z" creationid="piav" creationdate="20191201T095217Z">
         <seg>Voit käynnistää OmegaT-ohjelman joko komentoriviltä käyttämällä komentosarjaa määritteineen tai napsauttamalla &lt;f0&gt;OmegaT.jar&lt;/f0&gt;-tiedostoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;f1&gt;Configuration.properties&lt;/f1&gt; file in the package.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T100736Z" creationid="piav" creationdate="20191201T100736Z">
+        <seg>Voit muokata OmegaT:n käyttäytymistä sekä ohjelman xx§ </seg>
       </tuv>
     </tu>
     <tu>
