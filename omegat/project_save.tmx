@@ -2307,6 +2307,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Linux.tar.bz2&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T092537Z" creationid="piav" creationdate="20191201T092537Z">
+        <seg>&lt;e0&gt;Ei / En tiedä:&lt;/e0&gt; Lataa tiedosto &lt;f1&gt;OmegaT_4.n.n_Linux.tar.bz2&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows.exe&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T113622Z" creationid="piav" creationdate="20191129T113614Z">
@@ -2431,6 +2439,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T113618Z" creationid="piav" creationdate="20191129T113539Z">
         <seg>&lt;e0&gt;Kyllä: &lt;/e0&gt;Lataa tiedosto &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T092523Z" creationid="piav" creationdate="20191201T092523Z">
+        <seg>&lt;e0&gt;Kyllä: &lt;/e0&gt;Lataa tiedosto &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7885,6 +7901,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Downloading the right package</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T092501Z" creationid="piav" creationdate="20191201T092501Z">
+        <seg>Oikeanlaisen paketin lataaminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dra&amp;wings</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T171759Z" creationid="piav" creationdate="20190527T171759Z">
@@ -13198,6 +13222,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180355Z" creationid="piav" creationdate="20190521T180355Z">
         <seg>Linkit (&amp;URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linux (Intel) Users</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T092426Z" creationid="piav" creationdate="20191201T092426Z">
+        <seg>Linux (Intel) -käyttäjät</seg>
       </tuv>
     </tu>
     <tu>
@@ -24373,6 +24405,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T161252Z" creationid="piav" creationdate="20190523T161252Z">
         <seg>Tuntematon liitännäistyyppi '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unpack/untar the downloaded file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T092651Z" creationid="piav" creationdate="20191201T092651Z">
+        <seg>Pura lataamasi (tar-)tiedosto.</seg>
       </tuv>
     </tu>
     <tu>
