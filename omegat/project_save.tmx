@@ -9886,6 +9886,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For pre-defined options, remove the &lt;l1&gt;#&lt;/l1&gt; before a parameter to enable it.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T102800Z" creationid="piav" creationdate="20191201T102800Z">
+        <seg>Tiedostossa olevat ennalta määritetyt asetukset saat käyttöön poistamalla ennen parametriä olevan &lt;l1&gt;#&lt;/l1&gt;-merkin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the application</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T134332Z" creationid="PiaVee" creationdate="20171014T134332Z">
@@ -16094,6 +16102,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T105028Z" creationid="piav" creationdate="20191023T063824Z">
         <seg>Valinnat-valikko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options are changed by modifying &lt;f0&gt;Configuration.properties&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T102554Z" creationid="piav" creationdate="20191201T102554Z">
+        <seg>Muutat ohjelman asetuksia muokkaamalla tiedostoa &lt;f0&gt;Configuration.properties&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
