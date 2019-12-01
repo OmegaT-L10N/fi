@@ -11601,6 +11601,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T124125Z" creationid="piav" creationdate="20191201T124125Z">
+        <seg>Jos et voi käyttää &lt;a0&gt;OmegaT&lt;/a0&gt;:tä normaalisti (graafista käyttöliittymää ei ole saatavilla), kopioi asetustiedostots</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you change segmentation options when a project is open, you must reload the project in order for the changes to take effect.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T124901Z" creationid="piav" creationdate="20191030T124854Z">
@@ -11709,6 +11717,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T074136Z" creationid="piav" creationdate="20191030T075843Z">
         <seg>Jos et halua käyttää OmegaT:tä tiettyjen tiedostotyypien kääntämiseen, voit ottaa kyseisen tiedostosuodattimen pois käytöstä poistamalla rastin sen vieressä olevasta valintaruudusta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you start &lt;a1&gt;OmegaT&lt;/a1&gt; in console mode, it will use the same settings.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T124025Z" creationid="piav" creationdate="20191201T124025Z">
+        <seg>Jos käynnistät &lt;a1&gt;OmegaT&lt;/a1&gt;:n konsolitilassa, ohjelma käyttää samoja asetuksia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19097,6 +19113,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (with the GUI) and specify the settings.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T124000Z" creationid="piav" creationdate="20191201T124000Z">
+        <seg>Käytä &lt;a0&gt;OmegaT&lt;/a0&gt;:tä normaalisti (graafisen käyttöliittymän kautta) ja määrittele asetukset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T114445Z" creationid="piav" creationdate="20190920T114445Z">
@@ -23855,6 +23879,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T154823Z" creationid="PiaVee" creationdate="20171014T154823Z">
         <seg>Tämä onnistuu Déjà Vu DVX:n "External View" -tiedostomuodon avulla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be achieved in two ways:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T123927Z" creationid="piav" creationdate="20191201T123927Z">
+        <seg>Voit tehdä tämän kahdella tavalla:</seg>
       </tuv>
     </tu>
     <tu>
