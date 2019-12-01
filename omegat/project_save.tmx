@@ -11921,6 +11921,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In other platforms, you can modify &lt;f3&gt;Configuration.properties&lt;/f3&gt; file on the Mac, or &lt;f4&gt;OmegaT&lt;/f4&gt; launcher under Linux to do the same.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T115703Z" creationid="piav" creationdate="20191201T115703Z">
+        <seg>Saman voit tehdä muokkaamalla macOS-käyttöjärjestelmässä &lt;f3&gt;Configuration.properties&lt;/f3&gt;-tiedostoa tai Linux-käyttöjärjestelmässä &lt;f4&gt;OmegaT&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In practice, this command will therefore be something like this:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T114511Z" creationid="piav" creationdate="20191201T114511Z">
@@ -15314,6 +15322,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T112753Z" creationid="piav" creationdate="20191201T112715Z">
         <seg>Mikäli haluat tai sinun on pakko käyttää käynnistyskomennon argumentteja (ks. yllä), huomaa, että sinun on käytettävä tavallista asennustapaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that in Windows you can change the &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; file to reflect your preferences.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T115450Z" creationid="piav" creationdate="20191201T115450Z">
+        <seg>Huomaa, että Windowsissa voit muuttaa &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt;-tiedostoa mieleiseksesi.</seg>
       </tuv>
     </tu>
     <tu>
