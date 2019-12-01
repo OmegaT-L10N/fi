@@ -22478,6 +22478,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The permissions you give to this version (which may appear as "unrestricted access to the computer") are identical to the permissions you give to the local version, i.e., they allow access to the hard drive of the computer.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T112131Z" creationid="piav" creationdate="20191201T112131Z">
+        <seg>Oikeudet, jotka annat Web Start -versiolle (esim. "rajoittamaton tietokoneen käyttöoikeus"), ovat täsmälleen samat kuin paikallisella versiolla, eli versio voi käyttää tietokoneen kovalevyä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T083752Z" creationid="PiaVee" creationdate="20171219T083752Z">
