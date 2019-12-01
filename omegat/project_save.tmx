@@ -2869,8 +2869,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; in which folder the configuration files are stored.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T125424Z" creationid="piav" creationdate="20191201T125424Z">
-        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/yksittaisten/maaritystiedostojen/polku/&lt;/p1&gt;&lt;/l0&gt; kertoo &lt;a2&gt;OmegaT&lt;/a2&gt;:lle, mihin kansioon asetust in which folder the configuration files are stored.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T125526Z" creationid="piav" creationdate="20191201T125424Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/yksittaisten/maaritystiedostojen/polku/&lt;/p1&gt;&lt;/l0&gt; kertoo &lt;a2&gt;OmegaT&lt;/a2&gt;:lle, mihin kansioon kokoonpanotiedostot on tallennettu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11433,6 +11433,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If not given, &lt;a3&gt;OmegaT&lt;/a3&gt; reverts to default values (&lt;a4&gt;OmegaT&lt;/a4&gt; folder under user home or, if unavailable, the current working folder).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T125726Z" creationid="piav" creationdate="20191201T125726Z">
+        <seg>Jos polkua ei ole annettu, &lt;a3&gt;OmegaT&lt;/a3&gt; käyttää oletusasetuksia (käyttäjän kotikansion alla olevaa &lt;a4&gt;OmegaT&lt;/a4&gt;-kansiota, tai jos sitä ei ole, kyseistä työskentelykansiota).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If only one file is present, check its extension.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T110332Z" creationid="PiaVee" creationdate="20171219T110237Z">
@@ -11755,8 +11763,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you need altered settings, the configuration files must be available.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T123913Z" creationid="piav" creationdate="20191201T123913Z">
-        <seg>Määritystiedostojen on oltava saatavilla, mikäli tarvitset muutettuja asetuksia.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T125505Z" creationid="piav" creationdate="20191201T123913Z">
+        <seg>Kokoonpanotiedostojen on oltava saatavilla, mikäli tarvitset muutettuja asetuksia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16710,6 +16718,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T130953Z" creationid="piav" creationdate="20190920T130953Z">
         <seg>Ryhmäprojekti avataan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the local directory where OmegaT configuration files are stored (depends on the Operating system).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T125601Z" creationid="piav" creationdate="20191201T125601Z">
+        <seg>Avaa paikallisen tiedoston, jonne OmegaT-kokoonpanotiedostot on tallennettu (käyttöjärjestelmästä riippuen).</seg>
       </tuv>
     </tu>
     <tu>
