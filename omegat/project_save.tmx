@@ -5735,6 +5735,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the icon button (to the right of the Name/Description/Comment fields)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T093930Z" creationid="piav" creationdate="20191201T093930Z">
+        <seg>Napsauta ikonipainiketta (Name/Description/Comment-kenttien oikealla puolella).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191029T102319Z" creationid="piav" creationdate="20191029T102319Z">
@@ -11643,8 +11651,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T093756Z" creationid="piav" creationdate="20191201T093756Z">
-        <seg>Siirry Command-kenttään ja etsi siirtymispainikkeen avulla &lt;a0&gt;OmegaT&lt;/a0&gt;-käynnistys</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T093854Z" creationid="piav" creationdate="20191201T093756Z">
+        <seg>Siirry Command-kenttään ja etsi siirtymispainikkeen avulla &lt;a0&gt;OmegaT&lt;/a0&gt;-ohjelman käynnistävä komentosarja (puretussa kansiossa oleva &lt;a1&gt;OmegaT&lt;/a1&gt;-niminen tiedosto) ja valitse se.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16022,6 +16030,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T094556Z" creationid="piav" creationdate="20190522T094556Z">
         <seg>Jonkun muun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;/images&lt;/f0&gt; subfolder in the &lt;a1&gt;OmegaT&lt;/a1&gt; application folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T094021Z" creationid="piav" creationdate="20191201T094021Z">
+        <seg>Valitse Other Icons – Browse, ja siirry &lt;a1&gt;OmegaT&lt;/a1&gt;-sovelluskansion &lt;f0&gt;/images&lt;/f0&gt;-alikansioon</seg>
       </tuv>
     </tu>
     <tu>
