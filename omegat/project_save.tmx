@@ -8446,6 +8446,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter &lt;a2&gt;OmegaT&lt;/a2&gt; as the name of the new item.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T093622Z" creationid="piav" creationdate="20191201T093622Z">
+        <seg>Kirjoita uuden kohteen nimeksi &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T124526Z" creationid="piav" creationdate="20190916T124526Z">
@@ -11629,6 +11637,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T120108Z" creationid="PiaVee" creationdate="20171014T120108Z">
         <seg>Haku voidaan kohdistaa kaikkiin aihepiireihin, tai rajata se koskemaan vain tiettyä aihepiiriä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T093756Z" creationid="piav" creationdate="20191201T093756Z">
+        <seg>Siirry Command-kenttään ja etsi siirtymispainikkeen avulla &lt;a0&gt;OmegaT&lt;/a0&gt;-käynnistys</seg>
       </tuv>
     </tu>
     <tu>
