@@ -2469,8 +2469,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T102145Z" creationid="piav" creationdate="20191201T102145Z">
-        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; voi hyödyntää macOS-palveluita. </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T103134Z" creationid="piav" creationdate="20191201T103134Z">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; voi käyttää macOS-palveluita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26474,6 +26474,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can thus select a word anywhere in &lt;a1&gt;OmegaT&lt;/a1&gt; and use Services to check this word, for instance in Spotlight or in Google.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T104251Z" creationid="piav" creationdate="20191201T104251Z">
+        <seg>Näin voit valita sanan missä päin &lt;a1&gt;OmegaT&lt;/a1&gt;-ohjelmaa tahansa ja käyttää palveluita </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can toggle between different display modes by pressing &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (this is the letter O and not the numeral 0).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T125459Z" creationid="piav" creationdate="20191127T123311Z">
@@ -29505,6 +29513,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T095906Z" creationid="piav" creationdate="20191201T095906Z">
         <seg>macOS-käyttäjät</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>macOS goodies</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T103040Z" creationid="piav" creationdate="20191201T103040Z">
+        <seg>macOS-herkut</seg>
       </tuv>
     </tu>
     <tu>
