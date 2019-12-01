@@ -23782,6 +23782,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To launch multiple instances of &lt;f0&gt;OmegaT.app&lt;/f0&gt;, double-click the file &lt;e1&gt;OmegaT&lt;/e1&gt; located in &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T101616Z" creationid="piav" creationdate="20191201T101616Z">
+        <seg>Jos haluat käynistää useita &lt;f0&gt;OmegaT.app&lt;/f0&gt;-esiintymiä, kaksoisnapsauta kansiossa &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt; olevaa &lt;e1&gt;OmegaT&lt;/e1&gt;-tiedostoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To limit the amount of data, it is possible to select a specific domain by selecting &lt;e0&gt;Select TaaS Terminology Lookup Domain&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T115844Z" creationid="PiaVee" creationdate="20171014T115844Z">
@@ -25073,6 +25081,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T073237Z" creationid="piav" creationdate="20191029T101145Z">
         <seg>Käytä lähdetekstissä olevia yksittäisiä termejä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; to launch &lt;a2&gt;OmegaT&lt;/a2&gt; from the command line.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T101734Z" creationid="piav" creationdate="20191201T101734Z">
+        <seg>Kun haluat Käynnistä &lt;a2&gt;OmegaT&lt;/a2&gt; komentoriviltä Käytä kansiossa &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; olevaa &lt;f0&gt;OmegaT.jar&lt;/f0&gt;-tiedostoa file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt;  from the command line.</seg>
       </tuv>
     </tu>
     <tu>
