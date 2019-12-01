@@ -5505,8 +5505,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T133229Z" creationid="PiaVee" creationdate="20171219T110032Z">
-        <seg>Tarkista, että sanakirjatiedostosi ovat oikeassa kansiossa (tai sen alakansiossa).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T094102Z" creationid="PiaVee" creationdate="20171219T110032Z">
+        <seg>Tarkista, että sanakirjatiedostosi ovat oikeassa kansiossa (tai sen alikansiossa).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8454,6 +8454,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter "&lt;a0&gt;OmegaT&lt;/a0&gt;" in the "Name" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T094440Z" creationid="piav" creationdate="20191201T094440Z">
+        <seg>Kirjoita Name-kenttään &lt;a0&gt;OmegaT&lt;/a0&gt;. Etsi Command-kentässä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter &lt;a2&gt;OmegaT&lt;/a2&gt; as the name of the new item.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T093622Z" creationid="piav" creationdate="20191201T093622Z">
@@ -9510,6 +9518,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finally, save the changes with &lt;e0&gt;File - Save.&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T094313Z" creationid="piav" creationdate="20191201T094313Z">
+        <seg>Lopuksi tallenna tekemäsi muutokset valitsemalla &lt;e0&gt;File – Save&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finds the following:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T160549Z" creationid="piav" creationdate="20191022T160549Z">
@@ -9962,6 +9978,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T130314Z" creationid="piav" creationdate="20190916T130314Z">
         <seg>Sumeat osumat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GNOME Users</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T094318Z" creationid="piav" creationdate="20191201T094318Z">
+        <seg>GNOME-käyttäjät</seg>
       </tuv>
     </tu>
     <tu>
@@ -16036,8 +16060,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;/images&lt;/f0&gt; subfolder in the &lt;a1&gt;OmegaT&lt;/a1&gt; application folder.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T094021Z" creationid="piav" creationdate="20191201T094021Z">
-        <seg>Valitse Other Icons – Browse, ja siirry &lt;a1&gt;OmegaT&lt;/a1&gt;-sovelluskansion &lt;f0&gt;/images&lt;/f0&gt;-alikansioon</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T094141Z" creationid="piav" creationdate="20191201T094021Z">
+        <seg>Valitse Other Icons – Browse, ja siirry &lt;a1&gt;OmegaT&lt;/a1&gt;-sovelluskansion &lt;f0&gt;/images&lt;/f0&gt;-alikansioon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18265,6 +18289,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T094350Z" creationid="piav" creationdate="20191201T094350Z">
+        <seg>Napsauta hiiren kakkospainikkeella paneelia &lt;e0&gt;Add New Launcher&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-clicking on an underlined word (Artund in the figure above) opens a drop-down menu listing suggestions for the correction (Art und).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T113703Z" creationid="piav" creationdate="20191023T113703Z">
@@ -19407,6 +19439,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T140456Z" creationid="piav" creationdate="20190916T140456Z">
         <seg>Valitse languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the &lt;f2&gt;OmegaT.png&lt;/f2&gt; icon.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T094152Z" creationid="piav" creationdate="20191201T094152Z">
+        <seg>Valitse &lt;f2&gt;OmegaT.png&lt;/f2&gt;-ikoni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21814,8 +21854,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T151137Z" creationid="piav" creationdate="20191030T145045Z">
-        <seg>Tiedostot päätyvät OmegaT:n käyttäjän tiedostojen kansion /script-alakansioon. Tiedostoissa on:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T094107Z" creationid="piav" creationdate="20191030T145045Z">
+        <seg>Tiedostot päätyvät OmegaT:n käyttäjän tiedostojen kansion /script-alikansioon. Tiedostoissa on:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25537,8 +25577,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T134252Z" creationid="piav" creationdate="20191127T134252Z">
-        <seg>Kun käännät tiedostoja, &lt;a2&gt;OmegaT&lt;/a2&gt; tallentaa työn edistymisen käännösmuistitiedostoon &lt;l3&gt;project_save.tmx&lt;/l3&gt;. Tiedosto löytyy projektin alakansiosta &lt;l4&gt;/omegat&lt;/l4&gt;.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191201T094110Z" creationid="piav" creationdate="20191127T134252Z">
+        <seg>Kun käännät tiedostoja, &lt;a2&gt;OmegaT&lt;/a2&gt; tallentaa työn edistymisen käännösmuistitiedostoon &lt;l3&gt;project_save.tmx&lt;/l3&gt;. Tiedosto löytyy projektin alikansiosta &lt;l4&gt;/omegat&lt;/l4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
