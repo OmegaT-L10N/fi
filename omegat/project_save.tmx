@@ -9734,6 +9734,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Follow your system's instructions to install &lt;a0&gt;OmegaT&lt;/a0&gt; shortcuts in convenient places of your choosing.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T110653Z" creationid="piav" creationdate="20191201T110653Z">
+        <seg>Luo &lt;a0&gt;OmegaT&lt;/a0&gt;-oikoteitä sinulle sopiviin sijainteihin järjestelmäsi ohjeiden mukaisesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T125358Z" creationid="PiaVee" creationdate="20171015T125358Z">
@@ -12217,6 +12225,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing convenient shortcuts</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T110611Z" creationid="piav" creationdate="20191201T110611Z">
+        <seg>Käytännöllisten oikoteiden luominen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing spelling dictionaries</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T110314Z" creationid="piav" creationdate="20191023T110127Z">
@@ -13758,6 +13774,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T095557Z" creationid="piav" creationdate="20191201T095557Z">
         <seg>Varmista, että &lt;v1&gt;PATH&lt;/v1&gt;-asetuksesi ovat oikein ja että &lt;f2&gt;.jar&lt;/f2&gt;-tiedostot on liitety oikein Java Launcher -käynnistysohjelmaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure that your &lt;v2&gt;PATH&lt;/v2&gt; settings are correct and that &lt;f3&gt;.jar&lt;/f3&gt; files are properly associated with a Java launcher.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T110832Z" creationid="piav" creationdate="20191201T110832Z">
+        <seg>Varmista, että &lt;v2&gt;PATH&lt;/v2&gt;-asetuksesi ovat oikein ja että &lt;f3&gt;.jar&lt;/f3&gt;-tiedostot on liitety oikein Java Launcher -käynnistysohjelmaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15902,6 +15926,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T095808Z" creationid="piav" creationdate="20191129T115556Z">
         <seg>Kun &lt;a0&gt;OmegaT&lt;/a0&gt; on asennettu koneelle, voit käynnistää ohjelman joko napsauttamalla tiedostoa &lt;f1&gt;OmegaT.jar&lt;/f1&gt; tai käyttämällä komentoriviä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T110811Z" creationid="piav" creationdate="20191201T110811Z">
+        <seg>Kun &lt;a0&gt;OmegaT&lt;/a0&gt; on asennettu, voit käynnistää ohjelman suoraan komentoriviltä, voit luoda komentoriville komentosarjan määritteineen tai voit avata ohjelman suoraan napsauttamalla &lt;f1&gt;OmegaT.jar&lt;/f1&gt;-tiedostoa.</seg>
       </tuv>
     </tu>
     <tu>
