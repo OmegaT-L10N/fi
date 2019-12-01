@@ -7725,6 +7725,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detailed instructions on building are in the docs_devel &lt;u0&gt;readme&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T134152Z" creationid="piav" creationdate="20191201T134152Z">
+        <seg>Yksityiskohtaiset tiedot rakentamisesta löydät docs_devel &lt;u0&gt;readme&lt;/u0&gt;-tekstistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Details unavailable</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081040Z" creationid="piav" creationdate="20190522T081040Z">
@@ -27689,6 +27697,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also run directly the application with the following command:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T134028Z" creationid="piav" creationdate="20191201T134028Z">
+        <seg>Voit myös suorittaa ohjelman suoraan komennolla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also use AppleScript or Automator to create Services or scripts that will automate frequent actions.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T105252Z" creationid="piav" creationdate="20191201T105252Z">
@@ -29811,6 +29827,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>gradlew run</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T134029Z" creationid="piav" creationdate="20191201T134029Z">
+        <seg>gradlew run</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>greedy quantifiers will match as much as they can.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T154959Z" creationid="piav" creationdate="20191022T154959Z">
@@ -30191,6 +30215,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T133355Z" creationid="piav" creationdate="20191201T133355Z">
         <seg>https://sourceforge.net/p/omegat/svn/HEAD/tarball?path=/trunk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/README.txt</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T134031Z" creationid="piav" creationdate="20191201T134031Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/README.txt</seg>
       </tuv>
     </tu>
     <tu>
