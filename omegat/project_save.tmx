@@ -3683,6 +3683,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After the initial installation you can, of course, also use &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; also when you are offline.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T112336Z" creationid="piav" creationdate="20191201T112336Z">
+        <seg>Ensimmäisen asennuksen jälkeen voit tietysti käyttää &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt;-ohjelmaa myös offline-tilassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T141415Z" creationid="piav" creationdate="20190916T141415Z">
@@ -20961,6 +20969,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T142217Z" creationid="piav" creationdate="20190916T142217Z">
         <seg>Tilausavain:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subsequent clicks on &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; will check for any upgrades, install them, if there are any, and then start &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T112308Z" creationid="piav" creationdate="20191201T112308Z">
+        <seg>Seuraavat &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt;-tiedoston napsautukset tarkistavat mahdolliset päivitykset, asentavat ne ja lopulta käynnistävät &lt;a2&gt;OmegaT&lt;/a2&gt;:n.</seg>
       </tuv>
     </tu>
     <tu>
