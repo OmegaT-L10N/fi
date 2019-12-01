@@ -4333,6 +4333,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Arguments are added after the initial &lt;c0&gt;java&lt;/c0&gt;, and before the &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T115346Z" creationid="piav" creationdate="20191201T115346Z">
+        <seg>Argumentit lisätään aloittavan &lt;c0&gt;java&lt;/c0&gt;-komennon jälken, ennen komentoa &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Armenian</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173515Z" creationid="PiaVee" creationdate="20171014T173515Z">
@@ -5407,6 +5415,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changes to this command involve the addition of "arguments" to it.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T115308Z" creationid="piav" creationdate="20191201T115308Z">
+        <seg>Komentoa muutetaan lisäämällä siihen argumentteja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing segmentation rules or file filters</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T112842Z" creationid="piav" creationdate="20191129T112842Z">
@@ -6195,6 +6211,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T123433Z" creationid="piav" creationdate="20190920T122921Z">
         <seg>Yhteys on luotu, projekti on ryhmäprojektitilassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Consequently, to make changes to the launch command, it is sufficient to modify the file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T115155Z" creationid="piav" creationdate="20191201T115155Z">
+        <seg>Jos siis haluat muuttaa käynnistyskomentoa, riittää, että muokkaat tätä tiedostoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13510,6 +13534,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174841Z" creationid="PiaVee" creationdate="20171014T174841Z">
         <seg>latvia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launch command arguments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T115203Z" creationid="piav" creationdate="20191201T115203Z">
+        <seg>Käynnistyskomennon argumentit</seg>
       </tuv>
     </tu>
     <tu>
@@ -22010,6 +22042,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The basic command has already been mentioned above.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T115234Z" creationid="piav" creationdate="20191201T115234Z">
+        <seg>Peruskomento on jo mainittu edellä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The beginning of a line</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T154652Z" creationid="piav" creationdate="20191022T154652Z">
@@ -26139,6 +26179,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T132441Z" creationid="piav" creationdate="20191127T132405Z">
         <seg>Käännetyn asiakirjan kirjoitussuunta on sama kuin alkuperäisessä asiakirjassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When this file is executed, the commands within it are automatically carried out.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T115130Z" creationid="piav" creationdate="20191201T115130Z">
+        <seg>Kun BAT-tiedosto suoritetaan, sen sisältämät komennot suoritetaan automaattisesti.</seg>
       </tuv>
     </tu>
     <tu>
