@@ -14034,6 +14034,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure that you have a free Microsoft account.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T121952Z" creationid="piav" creationdate="20191201T121952Z">
+        <seg>Varmista, että sinulla on ilmainen Microsoft-tili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make sure that your &lt;v1&gt;PATH&lt;/v1&gt; settings are correct and that &lt;f2&gt;.jar&lt;/f2&gt; files are properly associated with a Java launcher.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T095557Z" creationid="piav" creationdate="20191201T095557Z">
@@ -15498,6 +15506,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T111251Z" creationid="piav" creationdate="20191023T111251Z">
         <seg>Huomioi, että tarvitset internetyhteyden käyttääksesi asennustoimintoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that the key is 38 characters long.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T121935Z" creationid="piav" creationdate="20191201T121935Z">
+        <seg>Huomaa, että avain on 38 merkkiä pitkä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27355,6 +27371,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You’ll need this to sign-in to &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; and use the Translator service.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T122120Z" creationid="piav" creationdate="20191201T122120Z">
+        <seg>Tarvitset tätä &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; -kauppapaikalle kirjautumiseen ja Translator-palvelun käyttöön.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ZIP files</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T132413Z" creationid="piav" creationdate="20190521T132413Z">
@@ -29291,6 +29315,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://datamarket.azure.com/dataset/bing/microsofttranslator#schema</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T121937Z" creationid="piav" creationdate="20191201T121937Z">
+        <seg>http://datamarket.azure.com/dataset/bing/microsofttranslator#schema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T121726Z" creationid="piav" creationdate="20191030T121726Z">
@@ -29407,6 +29439,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T121932Z" creationid="piav" creationdate="20191127T121932Z">
         <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://datamarket.azure.com/account</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191201T121939Z" creationid="piav" creationdate="20191201T121939Z">
+        <seg>https://datamarket.azure.com/account</seg>
       </tuv>
     </tu>
     <tu>
