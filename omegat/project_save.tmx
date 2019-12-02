@@ -12139,8 +12139,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If no text is selected, &lt;a3&gt;OmegaT&lt;/a3&gt; selects the word that contains the letter immediately to the right of the cursor.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T134853Z" creationid="piav" creationdate="20191202T133440Z">
-        <seg>Jos tekstiä ei ole valittu, &lt;a3&gt;OmegaT&lt;/a3&gt; valitsee sanan, johon heti kursorin vieressä oikealla puolella oleva kirjain kuuluu.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T151929Z" creationid="piav" creationdate="20191202T133440Z">
+        <seg>Jos tekstiä ei ole valittu, &lt;a3&gt;OmegaT&lt;/a3&gt; valitsee sanan, johon heti kohdistimen vieressä oikealla puolella oleva kirjain kuuluu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12195,8 +12195,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T122239Z" creationid="piav" creationdate="20191202T122239Z">
-        <seg>Jos sumean osuman tekstistä on valittu vain osa, vain valittu teksti lisätään kursorin kohdalle käännettävään segmenttiin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T151910Z" creationid="piav" creationdate="20191202T122239Z">
+        <seg>Jos sumean osuman tekstistä on valittu vain osa, vain valittu teksti lisätään kohdistimen kohdalle käännettävään segmenttiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12227,16 +12227,16 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If the current segment is the first one in a file, it moves to the last segment of the previous file.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T135930Z" creationid="piav" creationdate="20191202T135930Z">
-        <seg>Jos senhetkinen segmentti on tiedoston ensimmäinen, kursori siirtyy edellisen tiedoston viimeiseen segmenttiin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T151953Z" creationid="piav" creationdate="20191202T135930Z">
+        <seg>Jos senhetkinen segmentti on tiedoston ensimmäinen, kohdistin siirtyy edellisen tiedoston viimeiseen segmenttiin.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If the current segment is the last segment in a file, it moves to the first segment of the next file.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T135638Z" creationid="piav" creationdate="20191202T135638Z">
-        <seg>Jos senhetkinen segmentti on tiedoston viimeinen segmentti, kursori siirtyy seuraavan tiedoston ensimmäiseen segmenttiin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T151945Z" creationid="piav" creationdate="20191202T135638Z">
+        <seg>Jos senhetkinen segmentti on tiedoston viimeinen segmentti, kohdistin siirtyy seuraavan tiedoston ensimmäiseen segmenttiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13475,32 +13475,32 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Inserts only one tag (among the missing ones) at the cursor position.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T134543Z" creationid="piav" creationdate="20191202T122705Z">
-        <seg>Ainoastaan yksi tägi (puuttuvista) lisätään kursorin kohdalle.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T151922Z" creationid="piav" creationdate="20191202T122705Z">
+        <seg>Ainoastaan yksi tägi (puuttuvista) lisätään kohdistimen kohdalle.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Inserts the currently selected fuzzy match at the cursor position.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T134349Z" creationid="piav" creationdate="20191202T122010Z">
-        <seg>Valittu sumea osuma lisätään käännettävään segmenttiin kursorin kohdalle.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T151907Z" creationid="piav" creationdate="20191202T122010Z">
+        <seg>Valittu sumea osuma lisätään käännettävään segmenttiin kohdistimen kohdalle.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Inserts the source at the cursor position.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T134452Z" creationid="piav" creationdate="20191202T122525Z">
-        <seg>Lähdeteksti lisätään kursorin kohdalle.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T151912Z" creationid="piav" creationdate="20191202T122525Z">
+        <seg>Lähdeteksti lisätään kohdistimen kohdalle.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Inserts the source tags (if they where missing) at the cursor position.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T134524Z" creationid="piav" creationdate="20191202T122555Z">
-        <seg>Kursorin kohdalle lisätään (puuttuvat) lähdesegmentin tägit.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T151918Z" creationid="piav" creationdate="20191202T122555Z">
+        <seg>Kohdistimen kohdalle lisätään (puuttuvat) lähdesegmentin tägit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15972,40 +15972,40 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Moves to the next already translated segment, ignoring untranslated segments.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T135552Z" creationid="piav" creationdate="20191202T135517Z">
-        <seg>Kursori siirtyy seuraavaan jo käännettyyn segmenttiin, kääntämättömiä segmenttejä ei huomioida.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T151938Z" creationid="piav" creationdate="20191202T135517Z">
+        <seg>Kohdistin siirtyy seuraavaan jo käännettyyn segmenttiin, kääntämättömiä segmenttejä ei huomioida.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Moves to the next segment that has no equivalent in the translation memory.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T135509Z" creationid="piav" creationdate="20191202T135439Z">
-        <seg>Kursori siirtyy seuraavaan segmenttiin, jolle käännösmuistista ei löydy käännöstä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T151933Z" creationid="piav" creationdate="20191202T135439Z">
+        <seg>Kohdistin siirtyy seuraavaan segmenttiin, jolle käännösmuistista ei löydy käännöstä.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Moves to the next segment.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T135601Z" creationid="piav" creationdate="20191202T135601Z">
-        <seg>Kursori siirtyy seuraavaan segmenttiin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T151942Z" creationid="piav" creationdate="20191202T135601Z">
+        <seg>Kohdistin siirtyy seuraavaan segmenttiin.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Moves to the previous segment.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T135901Z" creationid="piav" creationdate="20191202T135901Z">
-        <seg>Kursori siirtyy edelliseen segmenttiin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T151950Z" creationid="piav" creationdate="20191202T135901Z">
+        <seg>Kohdistin siirtyy edelliseen segmenttiin.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Moves to the segment that does correspond to the current selected match in the &lt;g0&gt;Fuzzy matches&lt;/g0&gt; pane.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T140322Z" creationid="piav" creationdate="20191202T140248Z">
-        <seg>Kursori siirtyy segmenttiin, jonka teksti vastaa &lt;g0&gt;Sumeat osumat&lt;/g0&gt; -ruudussa valittua tekstiä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T151958Z" creationid="piav" creationdate="20191202T140248Z">
+        <seg>Kohdistin siirtyy segmenttiin, jonka teksti vastaa &lt;g0&gt;Sumeat osumat&lt;/g0&gt; -ruudussa valittua tekstiä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16212,8 +16212,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>New translation memories placed in the &lt;f0&gt;/tm&lt;/f0&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T143426Z" creationid="piav" creationdate="20191202T143426Z">
-        <seg>OmegaT ottaa käännöstyön aikana &lt;f0&gt;/tm&lt;/f0&gt;-kansioon sijoitetut uudet käännösmuistit käyttöön heti, kun kursori siirtyy yhdestä segmentistä toiseen.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T152002Z" creationid="piav" creationdate="20191202T143426Z">
+        <seg>OmegaT ottaa käännöstyön aikana &lt;f0&gt;/tm&lt;/f0&gt;-kansioon sijoitetut uudet käännösmuistit käyttöön heti, kun kohdistin siirtyy yhdestä segmentistä toiseen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17926,6 +17926,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T144433Z" creationid="piav" creationdate="20191202T144433Z">
         <seg>OmegaT avaa Euroopan komission käännöstoimen pääosaston määrittelemän MED-muotoisen projektipaketin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T152310Z" creationid="piav" creationdate="20191202T152310Z">
+        <seg>Saat näkyville &lt;l0&gt;&lt;g1&gt;Komentosarjat&lt;/g1&gt;-ikkunan&lt;/l0&gt;, jossa voit asettaa komentosarjojen sijainnin, kirjoittaa ja suorittaa komentosarjoja sekä määrittää niille pikanäppäimen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20999,6 +21007,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190919T132537Z" creationid="piav" creationdate="20190919T132537Z">
         <seg>Komentosarjat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripting...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T152106Z" creationid="piav" creationdate="20191202T152025Z">
+        <seg>Komentosarjat…</seg>
       </tuv>
     </tu>
     <tu>
@@ -25032,8 +25048,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The source and target files can have different formats (for example, a &lt;f0&gt;.docx&lt;/f0&gt; file can be aligned with a &lt;f1&gt;.pdf&lt;/f1&gt; file).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T151733Z" creationid="piav" creationdate="20191202T151733Z">
-        <seg>Lähde- ja kohdetiedostojen tiedostomuotojen ei tarvitse olla samat (voit esim. kohdistaa &lt;f0&gt;.docx&lt;/f0&gt;-tiedoston &lt;f1&gt;.pdf&lt;/f1&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T152039Z" creationid="piav" creationdate="20191202T151733Z">
+        <seg>Lähde- ja kohdetiedostojen tiedostomuotojen ei tarvitse olla samat (voit esim. kohdistaa &lt;f0&gt;.docx&lt;/f0&gt;-tiedoston ja &lt;f1&gt;.pdf&lt;/f1&gt;-tiedoston).</seg>
       </tuv>
     </tu>
     <tu>
