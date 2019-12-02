@@ -6015,6 +6015,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check Issues...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T145411Z" creationid="piav" creationdate="20191202T145411Z">
+        <seg>Tarkista ongelmakohdat…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check Now</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T141100Z" creationid="piav" creationdate="20190920T141100Z">
@@ -12171,8 +12179,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If the documents are not available, the entry is greyed out.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T145138Z" creationid="piav" creationdate="20191202T145138Z">
-        <seg>Jos asiakirjoje ei ole saatavilla, kohta näkyy harmaana.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T145231Z" creationid="piav" creationdate="20191202T145138Z">
+        <seg>Jos asiakirjoja ei ole saatavilla, kohta näkyy harmaana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12477,6 +12485,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T122212Z" creationid="piav" creationdate="20191129T122212Z">
         <seg>Jos olet tehnyt muutoksia &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt;-tiedostoon ja/tai käytät .bat-tiedostoa, sinun on kopioitava nämä uuteen versioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you haven't yet saved the project, this manually confirms whether you really wish to quit.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T145406Z" creationid="piav" creationdate="20191202T145406Z">
+        <seg>Jos et vielä ollut tallentanut projektia, ohjelma varmistaa erikseen, haluatko todella lopettaa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19303,6 +19319,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Quality assurance tool that carries out all the automatic checks in one go and displays the results in a window.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T145456Z" creationid="piav" creationdate="20191202T145456Z">
+        <seg>Laadunvarmistustyökalu, joka suorittaa kerralla kaikki automaattiset tarkistukset ja näyttää tulokset omassa ikkunassaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>QuarkXPress CopyFlow Gold</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T173239Z" creationid="piav" creationdate="20190523T173239Z">
@@ -20749,6 +20773,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T143535Z" creationid="piav" creationdate="20191202T143518Z">
         <seg>Ohjelman sisäinen käännösmuisti tallennetaan tietokoneen kovalevylle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saves the project and quits &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T145303Z" creationid="piav" creationdate="20191202T145303Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; tallentaa projektin, ja ohjelma sulkeutuu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24984,8 +25016,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The tags in OmegaT are greyed, so they are easy to recognise.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T114301Z" creationid="piav" creationdate="20191202T114230Z">
-        <seg>OmegaT-tägit on helppo tunnistaa, sillä ne ovat harmaita.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T145203Z" creationid="piav" creationdate="20191202T114230Z">
+        <seg>OmegaT-tägit on helppo tunnistaa, sillä ne näkyvät harmaina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26522,6 +26554,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T075749Z" creationid="piav" creationdate="20190913T075749Z">
         <seg>HTML-tiedosto on liian iso!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T145408Z" creationid="piav" creationdate="20191202T145408Z">
+        <seg>Työkalut</seg>
       </tuv>
     </tu>
     <tu>
@@ -35054,5 +35094,16 @@ tai</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">doc_src/Menus_Edit.xml</prop>
+      <prop type="prev">If there's several alternative translations available for the active segment, you can label the alternative selected as the default translation.</prop>
+      <prop type="next">Create Alternative Translation</prop>
+      <tuv lang="EN">
+        <seg>The entry will be greyed, if there's just one translation available.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T145225Z" creationid="piav" creationdate="20191202T145225Z">
+        <seg>Jos käännösvaihtoehtoja on vain yksi, käännös näkyy harmaana.</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
