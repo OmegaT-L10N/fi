@@ -12054,6 +12054,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, non-breakable spaces will be displayed with a grey background.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T184313Z" creationid="piav" creationdate="20191202T184053Z">
+        <seg>Jos tässä kohdassa on rasti, sitovat välilyönnit näytetään harmaina palkkeina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, non-unique segments will be marked in pale grey.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T183813Z" creationid="piav" creationdate="20191202T183648Z">
@@ -15396,8 +15404,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Non-breakable Spaces</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190916T141143Z" creationid="piav" creationdate="20190916T141143Z">
-        <seg>Merkitse pehmeät välilyönnit</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T184224Z" creationid="piav" creationdate="20190916T141143Z">
+        <seg>Merkitse sitovat välilyönnit</seg>
       </tuv>
     </tu>
     <tu>
@@ -15484,8 +15492,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mark Non-breakable Spaces</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T063507Z" creationid="piav" creationdate="20191023T063507Z">
-        <seg>Merkitse pehmeät välilyönnit</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T184231Z" creationid="piav" creationdate="20191023T063507Z">
+        <seg>Merkitse sitovat välilyönnit</seg>
       </tuv>
     </tu>
     <tu>
