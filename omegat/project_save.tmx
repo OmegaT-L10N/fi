@@ -4099,6 +4099,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aggressive Font Fallback</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T185009Z" creationid="piav" creationdate="20191202T185009Z">
+        <seg>Aggressiivinen fontin varmistus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Akan</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T162302Z" creationid="PiaVee" creationdate="20171014T162302Z">
@@ -6179,6 +6187,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191029T100623Z" creationid="piav" creationdate="20191029T100623Z">
         <seg>Jos haluat lähettää ainoastaan kääntämättömät segmentit konekäännöspalveluun, laita tähän ruutuun rasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check this option in case &lt;a0&gt;OmegaT&lt;/a0&gt; does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T185144Z" creationid="piav" creationdate="20191202T185144Z">
+        <seg>Rastita tämä kohta, mikäli &lt;a0&gt;OmegaT&lt;/a0&gt; ei näytä joitakin kirjainmerkkejä oikein (vaikka  </seg>
       </tuv>
     </tu>
     <tu>
