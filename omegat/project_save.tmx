@@ -30411,6 +30411,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>clicking a column header changes the sort order for the column,</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T150310Z" creationid="piav" creationdate="20191202T150310Z">
+        <seg>Napsauta sarakkeen otsikkoa, niin sarakkeen esitysjärjestys muuttuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>close the project</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T134806Z" creationid="piav" creationdate="20191127T134806Z">
@@ -30591,6 +30599,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T160937Z" creationid="piav" creationdate="20191022T160557Z">
         <seg>Kahteen kertaan kirjoitetut sanat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>double-clicking a row activates the corresponding segment in the Editor pane,</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T150239Z" creationid="piav" creationdate="20191202T150239Z">
+        <seg>Kaksoisnapsauttamalla taulukon riviä vastaava segmentti aktivoituu Editori-ruudulla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33905,6 +33921,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T134908Z" creationid="piav" creationdate="20191127T134908Z">
         <seg>valitse se käännösmuistin varmuuskopio, jossa etsimäsi data todennäköisimmin on</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>selecting or moving the mouse over a row displays a pop-up menu icon in the last column containing actions for correcting or ignoring the error.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T150424Z" creationid="piav" creationdate="20191202T150424Z">
+        <seg>Rivin valinta tai hiiren vieminen rivin yläpuolelle avaa viimeisessä sarakkeessa ponnahdusikkunan, jossa on toimepiteitä virheen korjaamiseksi tai sen huomoioimatta jättämiseksi.</seg>
       </tuv>
     </tu>
     <tu>
