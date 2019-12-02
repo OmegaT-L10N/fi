@@ -1618,6 +1618,14 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(external search commands)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T152549Z" creationid="piav" creationdate="20191202T152549Z">
+        <seg>(ulkoiset hakukomennot)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* These keys behave differently when the cursor is outside the editable segment:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T125908Z" creationid="PiaVee" creationdate="20171218T125908Z">
@@ -12062,6 +12070,30 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, the translated segments will be marked in yellow.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T152740Z" creationid="piav" creationdate="20191202T152740Z">
+        <seg>Jos tässä kohdassa on rasti, käännetyt segmentit merkitään keltaisella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, the untranslated segments will be marked in violet.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T152800Z" creationid="piav" creationdate="20191202T152800Z">
+        <seg>Jos tässä kohdassa on rasti, kääntämättömät segmentit merkitään violetilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If commands to perform external searches have been defined in the &lt;l0&gt;Preferences&lt;/l0&gt;, they are listed and accessible here.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T152701Z" creationid="piav" creationdate="20191202T152701Z">
+        <seg>Jos kohdassa &lt;l0&gt;Asetukset&lt;/l0&gt; on määritelty ulkoisia hakukomentoja, ne näkyvät ja voit käyttää niitä tässä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If for example the original file is named Document.xx.docx, the following variables will give the following results:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T123033Z" creationid="piav" creationdate="20191030T123033Z">
@@ -15414,6 +15446,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T063507Z" creationid="piav" creationdate="20191023T063507Z">
         <seg>Merkitse pehmeät välilyönnit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Paragraph delimitations</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T152803Z" creationid="piav" creationdate="20191202T152803Z">
+        <seg>Merkitse kappalejaot</seg>
       </tuv>
     </tu>
     <tu>
