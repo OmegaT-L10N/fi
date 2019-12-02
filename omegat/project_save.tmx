@@ -10830,6 +10830,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For technical details, see the &lt;u3&gt;Request For Enhancement&lt;/u3&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T185006Z" creationid="piav" creationdate="20191202T185006Z">
+        <seg>Lisää teknisiä tietoja löydät kohdasta &lt;u3&gt;Request for Enhancement (RFE) -listalta&lt;/u3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the application</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T134332Z" creationid="PiaVee" creationdate="20171014T134332Z">
@@ -18290,6 +18298,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other translations, identified specifically in the TMX, can be displayed using different colours.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T184855Z" creationid="piav" creationdate="20191202T184855Z">
+        <seg>Muista TMX-tiedostoista löytyneet käännökset näytetään eri väreillä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Otherwise, OmegaT will use the language of the operating system.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T082758Z" creationid="PiaVee" creationdate="20170910T082758Z">
@@ -24170,6 +24186,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T184716Z" creationid="piav" creationdate="20191202T184716Z">
+        <seg>Värit ovat näkyvissä niin kauan kuin valinta &lt;l1&gt;&lt;g2&gt;Tallenna automaattisesti täytetty tila&lt;/g2&gt;&lt;/l1&gt; on rastitettu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T140814Z" creationid="piav" creationdate="20190920T140814Z">
@@ -28289,6 +28313,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T102138Z" creationid="piav" creationdate="20191030T101639Z">
         <seg>Tämän asetuksen avulla voit määritellä, pitäisikö merkistökoodaustiedon olla osa kohdetiedostoja vai ei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usual translations inserted from the auto folder are displayed in orange.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T184801Z" creationid="piav" creationdate="20191202T184801Z">
+        <seg>Tavalliset auto-kansion käännösmuistista tulleet käännökset ovat oransseja.</seg>
       </tuv>
     </tu>
     <tu>
