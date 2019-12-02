@@ -4871,6 +4871,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the bottom of the window, right-click on a free number and select &lt;g0&gt;Add Script&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T152520Z" creationid="piav" creationdate="20191202T152520Z">
+        <seg>Napsauta hiiren kakkospainikkeella ikkunan alareunassa olevaa vapaata numeroa ja valitse &lt;g0&gt;Lisää komentosarja&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T115851Z" creationid="piav" creationdate="20191202T115703Z">
@@ -14770,6 +14778,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launches scripts that have been associated with a number.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T152421Z" creationid="piav" creationdate="20191202T152352Z">
+        <seg>Valinta käynnistää numeroon yhdistetyn komentosarjan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lead developer</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T083927Z" creationid="PiaVee" creationdate="20171219T083927Z">
@@ -17806,6 +17822,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T143208Z" creationid="piav" creationdate="20191202T143208Z">
         <seg>Avaa &lt;f1&gt;/target&lt;/f1&gt;-kansioon luotu &lt;f0&gt;.UTF8&lt;/f0&gt;-tiedosto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the Scripting window</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T152433Z" creationid="piav" creationdate="20191202T152433Z">
+        <seg>Avaa Komentosarja-ikkuna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21743,6 +21767,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T140229Z" creationid="piav" creationdate="20191030T140229Z">
         <seg>Valitse kielentarkistimen sijainti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the script you want from the list on the left</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T152455Z" creationid="piav" creationdate="20191202T152455Z">
+        <seg>Valitse vasemmanpuoleisesta luettelosta haluamasi komentosarja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26280,6 +26312,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T114846Z" creationid="piav" creationdate="20191128T114738Z">
         <seg>Lisää muita resursseja (sanakirjoja, TMX-tiedostoja tai sanastoja) SVN- tai Git-asiakasohjelmassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To associate a script with a number:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T152426Z" creationid="piav" creationdate="20191202T152413Z">
+        <seg>Yhdistä komentosarja numeroon näin:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32921,6 +32961,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173746Z" creationid="PiaVee" creationdate="20171014T173746Z">
         <seg>mya</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>n - (script name)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T152326Z" creationid="piav" creationdate="20191202T152326Z">
+        <seg>n - (komentosarjan nimi)</seg>
       </tuv>
     </tu>
     <tu>
