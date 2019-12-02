@@ -2707,6 +2707,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T145743Z" creationid="piav" creationdate="20191202T145645Z">
+        <seg>&lt;g0&gt;Oikeinkirjoitusvirheet&lt;/g0&gt; (valinnainen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T105012Z" creationid="piav" creationdate="20190913T110941Z">
@@ -10822,6 +10830,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Four types of issues are detected:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T145520Z" creationid="piav" creationdate="20191202T145520Z">
+        <seg>Työkalu havaitsee neljänlaisia seikkoja:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>French</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174108Z" creationid="PiaVee" creationdate="20171014T174108Z">
@@ -17626,6 +17642,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only works if a spelling dictionary is installed.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T145808Z" creationid="piav" creationdate="20191202T145808Z">
+        <seg>Valinta toimii vain silloin, kun oikeinkirjoitussanasto on asennettuna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061851Z" creationid="piav" creationdate="20191023T061851Z">
@@ -23572,6 +23596,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T120007Z" creationid="piav" creationdate="20191202T120007Z">
         <seg>Kaksi ensimmäistä käännösmuistia, &lt;f3&gt;level1&lt;/f3&gt; ja &lt;f4&gt;level2&lt;/f4&gt;, sopivat käytettäviksi muissa käännösohjelmissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;g1&gt;Tag Issues&lt;/g1&gt; option is always selected.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T145636Z" creationid="piav" creationdate="20191202T145629Z">
+        <seg>&lt;g1&gt;Tägivirheet&lt;/g1&gt; on aina valittuna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32577,6 +32609,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174936Z" creationid="PiaVee" creationdate="20171014T174936Z">
         <seg>mi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>missing or displaced tags, including &lt;l0&gt;custom tags&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T145726Z" creationid="piav" creationdate="20191202T145556Z">
+        <seg>puuttuvat tai väärin sijoitetut tavanomaiset ja mukautetut tägit.</seg>
       </tuv>
     </tu>
     <tu>
