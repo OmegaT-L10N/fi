@@ -12086,6 +12086,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T184632Z" creationid="piav" creationdate="20191202T184632Z">
+        <seg>Jos tässä kohdassa on rasti, kaikkien automaattisesti täytettyjen käännössegmenttien (joiden sisältö on löytynyt esim. &lt;f0&gt;/tm/auto&lt;/f0&gt;-kansiossa olevista TMX-tiedostoista) tausta on väritetty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T070515Z" creationid="piav" creationdate="20190522T070515Z">
@@ -12122,6 +12130,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T183308Z" creationid="piav" creationdate="20191202T152800Z">
         <seg>Jos tässä kohdassa on rasti, kääntämättömien segmenttien taustaväri on violetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, white spaces will be displayed with a small dot.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T184357Z" creationid="piav" creationdate="20191202T184357Z">
+        <seg>Jos tässä kohdassa on rasti, tyhjätilamerkit näytetään pieninä pisteinä keskellä rivikorkeutta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26212,6 +26228,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T184432Z" creationid="piav" creationdate="20191202T184432Z">
+        <seg>Tämä valinta näyttää &lt;u0&gt;kaksisuuntaisen tekstin ohjausmerkit&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This option is useful for some Chinese, Japanese or Korean character input systems.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T120222Z" creationid="piav" creationdate="20191023T120222Z">
@@ -31779,6 +31803,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T184435Z" creationid="piav" creationdate="20191202T184435Z">
+        <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://weitz.de/regex-coach/</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T155908Z" creationid="piav" creationdate="20191022T155908Z">
@@ -31847,6 +31879,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T161926Z" creationid="PiaVee" creationdate="20171014T161926Z">
         <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T184359Z" creationid="piav" creationdate="20191202T184359Z">
+        <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
       </tuv>
     </tu>
     <tu>
