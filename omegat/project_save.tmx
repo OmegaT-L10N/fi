@@ -4139,6 +4139,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align Files...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T151217Z" creationid="piav" creationdate="20191202T151217Z">
+        <seg>Kohdista tiedostoja…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T120505Z" creationid="piav" creationdate="20190920T120505Z">
@@ -8383,16 +8391,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T151042Z" creationid="piav" creationdate="20191202T151042Z">
-        <seg>Osumatilastot avautuvat uudessa ikkunassa: Jokaisessa projektin tiedostossa olevat toistojen määrät, täydelliset osumat, sumeat osumat ja ei lainkaan osumia ilmoitetaan sekä segmentteinä, sanoina että merkkeinä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T151215Z" creationid="piav" creationdate="20191202T151042Z">
+        <seg>Projektin jokaisen tiedoston osumatilastot eli toistojen määrät, täydelliset osumat, sumeat osumat ja ei lainkaan osumia ilmoitetaan sekä segmentteinä, sanoina että merkkeinä.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Displays the Match Statistics for the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T150941Z" creationid="piav" creationdate="20191202T150941Z">
-        <seg>Projektin osumatilastot avautuvat uudessa ikkunassa:  Toistojen määrät, täydelliset osumat, sumeat osumat ja ei lainkaan osumia ilmoitetaan sekä segmentteinä, sanoina että merkkeinä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T151141Z" creationid="piav" creationdate="20191202T150941Z">
+        <seg>Koko projektin osumatilastot eli toistojen määrät, täydelliset osumat, sumeat osumat ja ei lainkaan osumia ilmoitetaan sekä segmentteinä, sanoina että merkkeinä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21719,6 +21727,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T140229Z" creationid="piav" creationdate="20191030T140229Z">
         <seg>Valitse kielentarkistimen sijainti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the two files to be aligned (the source file and its translation) and click OK to open the &lt;l0&gt;&lt;g1&gt;Align&lt;/g1&gt; window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T151257Z" creationid="piav" creationdate="20191202T151257Z">
+        <seg>Valitse kaksi kohdistettavaa tiedostoa (lähdetiedosto ja sen käännös) ja napsauta OK, niin &lt;l0&gt;&lt;g1&gt;Kohdistus</seg>
       </tuv>
     </tu>
     <tu>
