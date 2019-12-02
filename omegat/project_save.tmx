@@ -294,8 +294,8 @@
       <tuv lang="EN">
         <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T065308Z" creationid="PiaVee" creationdate="20171015T125535Z">
-        <seg>Käytä tätä fonttia taulukkomuotoisen tiedon (projektitiedostot, tilastot jne.) esittämiseen</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T112308Z" creationid="PiaVee" creationdate="20171015T125535Z">
+        <seg>Käytä tätä fonttia taulukkomuotoisen tiedon (projektin tiedostot, tilastot jne.) esittämiseen</seg>
       </tuv>
     </tu>
     <tu>
@@ -1270,8 +1270,8 @@
       <tuv lang="EN">
         <seg>&amp;Sentence Case</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190916T141000Z" creationid="piav" creationdate="20190916T141000Z">
-        <seg>Lauseen kirjaimet</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T133316Z" creationid="piav" creationdate="20190916T141000Z">
+        <seg>Lauseen kirjainkoko</seg>
       </tuv>
     </tu>
     <tu>
@@ -1406,8 +1406,8 @@
       <tuv lang="EN">
         <seg>&amp;Title Case</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190916T140954Z" creationid="piav" creationdate="20190916T140954Z">
-        <seg>Otsikon kirjaimet</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T133254Z" creationid="piav" creationdate="20190916T140954Z">
+        <seg>Otsikon kirjainkoko</seg>
       </tuv>
     </tu>
     <tu>
@@ -1470,8 +1470,8 @@
       <tuv lang="EN">
         <seg>&amp;User's Manual...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T065259Z" creationid="PiaVee" creationdate="20171015T123020Z">
-        <seg>Käsikirja…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T140746Z" creationid="PiaVee" creationdate="20171015T123020Z">
+        <seg>Käyttäjän käsikirja…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1545,9 +1545,9 @@ Kysymysmerkki ? vastaa yhtä merkkiä: hakulauseke 'run?' vastaa sanoja 'runs' t
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T175107Z" creationid="PiaVee" creationdate="20171015T100902Z">
-        <seg>(Lista tuetuista tiedostomuodoista löytyy käsikirjan kohdasta "Käännettävät tiedostot " &gt; "Tiedostomuodot".)
-Lisää projektitiedostoja napsauttamalla Projektitiedostot-ikkunan tai Projektit-valikon painiketta "Kopioi lähdekansioon…" ja valitse kopioitavat lähdetiedostot.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T140741Z" creationid="PiaVee" creationdate="20171015T100902Z">
+        <seg>(Lista tuetuista tiedostomuodoista löytyy käyttäjän käsikirjan kohdasta Käännettävät tiedostot  &gt; Tiedostomuodot.)
+Lisää projektitiedostoja napsauttamalla Projektin tiedostot -ikkunan tai Projektit-valikon painiketta Kopioi tiedostoja lähdekansioon… ja valitse kopioitavat lähdetiedostot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1965,8 +1965,8 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
       <tuv lang="EN">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T084017Z" creationid="piav" creationdate="20190913T111215Z">
-        <seg>…mutta samat merkit näkyvät oikein muokkausruudussa: tiedostopääte ja tiedostokoodaus eroavat toisistaan.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T113220Z" creationid="piav" creationdate="20190913T111215Z">
+        <seg>…mutta samat merkit näkyvät oikein Editori-ruudussa: tiedostopääte ja tiedostokoodaus eroavat toisistaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2191,6 +2191,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T105508Z" creationid="piav" creationdate="20191201T105353Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;-paketti on saatavilla Oracle Java JRE:n kanssa sekä Linux (Intel x86)- että Windows-käyttöjärjestelmiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; remembers the segments executed.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T140407Z" creationid="piav" creationdate="20191202T140347Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; muistaa, mitä segmenttejä on käsitelty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3115,10 +3123,26 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T111444Z" creationid="piav" creationdate="20191202T111433Z">
+        <seg>&lt;p0&gt;Projekti-valikko&lt;/p0&gt; &lt;s1&gt;Uusi…&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140935Z" creationid="PiaVee" creationdate="20171014T140935Z">
         <seg>&lt;p0&gt;Laajennukset&lt;/p0&gt;&lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T113111Z" creationid="piav" creationdate="20191202T111134Z">
+        <seg>&lt;p0&gt;Projekti&lt;/p0&gt; &lt;s1&gt;Luo/avaa uusi projekti&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3183,6 +3207,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T121151Z" creationid="piav" creationdate="20191201T121151Z">
         <seg>&lt;p4&gt;??&lt;/p4&gt; tarkoittaa määritellyn muistin määrää megatavuina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T111417Z" creationid="piav" creationdate="20191202T111342Z">
+        <seg>&lt;r0&gt;Huom.:&lt;/r0&gt; Jos käytät Applen Mac-konetta, käytä &lt;k1&gt;Komento (cmd) ⌘&lt;/k1&gt;-näppäintä &lt;k2&gt;Control&lt;/k2&gt;-näppäimen sijaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3435,6 +3467,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A source sentence might look like:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T114200Z" creationid="piav" creationdate="20191202T114200Z">
+        <seg>Lähdesegmentti voi näyttää tältä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T152044Z" creationid="PiaVee" creationdate="20171014T152044Z">
@@ -3623,6 +3663,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T064730Z" creationid="piav" creationdate="20191023T064730Z">
         <seg>Mene määrityskansioon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T144646Z" creationid="piav" creationdate="20191202T144637Z">
+        <seg>Avaa projektin sisältö</seg>
       </tuv>
     </tu>
     <tu>
@@ -3837,8 +3885,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Add the &lt;e0&gt;Before&lt;/e0&gt; and&lt;e1&gt; After&lt;/e1&gt; patterns.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T134117Z" creationid="piav" creationdate="20191030T134117Z">
-        <seg>Lisää &lt;e0&gt;Ennen&lt;/e0&gt; ja &lt;e1&gt;Jälkeen&lt;/e1&gt;-muodot.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T140951Z" creationid="piav" creationdate="20191030T134117Z">
+        <seg>Lisää &lt;e0&gt;Ennen&lt;/e0&gt;- ja &lt;e1&gt;Jälkeen&lt;/e1&gt;-muodot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3975,6 +4023,30 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T112336Z" creationid="piav" creationdate="20191201T112336Z">
         <seg>Ensimmäisen asennuksen jälkeen voit tietysti käyttää &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt;-ohjelmaa myös offline-tilassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T113152Z" creationid="piav" creationdate="20191202T112751Z">
+        <seg>Kun lähdetiedostot ovat latautuneet, ne näkyvät &lt;g3&gt;Editori&lt;/g3&gt;-ruudussa, ja voit sulkea &lt;g4&gt;Projektin tiedostot&lt;/g4&gt;-ikkunan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T115121Z" creationid="piav" creationdate="20191202T111925Z">
+        <seg>Kun olet antanut projektille nimen, näytölle avautuu valintaikkuna &lt;g0&gt;Luo uusi projekti&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T113612Z" creationid="piav" creationdate="20191202T113318Z">
+        <seg>Siirry seuraavaan kääntämättömään segmenttiin näppäinyhdistelmällä &lt;k0&gt;Ctrl+U&lt;/k0&gt;. Seuraavaan käännettyyn segmenttiin pääset näppäinyhdistelmällä &lt;k1&gt;Ctrl+vaihto+U&lt;/k1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4235,6 +4307,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allows the user create an entry in the default glossary file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T134706Z" creationid="piav" creationdate="20191202T130024Z">
+        <seg>Tämä valinta antaa käyttäjän luoda uuden termin oletuksena olevaan sanastotiedostoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allows the user select the interval - in minutes and seconds - between consecutive automatic saves of the project.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T090601Z" creationid="piav" creationdate="20191127T090459Z">
@@ -4247,6 +4327,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T132221Z" creationid="piav" creationdate="20190916T132221Z">
         <seg>Voit nähdä, lisätä, poistaa tai muokata aktiivisen segmentin muistiinpanoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allows you to activate/deactivate the Machine Translation tools offered.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T141635Z" creationid="piav" creationdate="20191202T141635Z">
+        <seg>Valitse tämä, niin voit aktivoida sattavilla olevat konekäännöspalvelut tai ottaa ne pois käytöstä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4743,10 +4831,26 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T115851Z" creationid="piav" creationdate="20191202T115703Z">
+        <seg>Kun käännöstyö on valmis, OmegaT luo projektikansioon kolme käännösmuistitiedostoa, &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; ja &lt;f2&gt;omegat&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the same time the previous valid segments in the project translation memory will turn into orphan segments.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T124804Z" creationid="piav" creationdate="20191030T124804Z">
         <seg>Samanaikaisesti aiemmista kelpo käännössegmenteistä tulee käännösmuistin orposegmenttejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T112018Z" creationid="piav" creationdate="20191202T112011Z">
+        <seg>Valitse lähdetiedoston ja tulevan käännetyn tiedoston kielet ikkunan yläosassa ja jatka napsauttamalla &lt;g1&gt;OK&lt;/g1&gt;-painiketta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4819,6 +4923,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T135933Z" creationid="piav" creationdate="20191030T135933Z">
         <seg>Automaattinen täydennys otetaan käyttöön kohdesegmentissä painamalla näppäinyhdistelmää &lt;e0&gt;Ctrl+välilyönti&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T142019Z" creationid="piav" creationdate="20191202T142019Z">
+        <seg>Automaattinen täydennys</seg>
       </tuv>
     </tu>
     <tu>
@@ -5743,6 +5855,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changes the case of the highlighted text in the target segment to the selected option (Lower case, Upper case, Title case or Sentence case).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T134849Z" creationid="piav" creationdate="20191202T133105Z">
+        <seg>Lähdesegmentissä maalattuna olevan tekstin kirjainkoko vaihtuu valinnan mukaiseksi (pienet alkukirjaimet, isot alkukirjaimet, otsikon kirjainkoko tai lauseen kirjainkoko).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changes to this command involve the addition of "arguments" to it.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T115308Z" creationid="piav" creationdate="20191201T115308Z">
@@ -5871,6 +5991,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &lt;g0&gt;History Completion&lt;/g0&gt; to display suggested words as soon as their first letters are entered.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T142215Z" creationid="piav" creationdate="20191202T142113Z">
+        <seg>Rastita &lt;g0&gt;Syöttöhistoriaan perustuva täydennys&lt;/g0&gt;, niin saat näkyviin ehdotettuja sanoja heti, kun kirjoitat sanan alkukirjaimen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check &lt;g0&gt;History Prediction&lt;/g0&gt; to display suggested words that commonly follow the word that has just been entered.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T142318Z" creationid="piav" creationdate="20191202T142226Z">
+        <seg>Rastita &lt;g0&gt;Syöttöhistoriaan perustuva ennakointi&lt;/g0&gt;, niin saat näkyviin ehdotuksia sanoista, jotka seuraavat juuri kirjoittamaasi sanaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T065148Z" creationid="PiaVee" creationdate="20171015T111303Z">
@@ -5883,6 +6019,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T141100Z" creationid="piav" creationdate="20190920T141100Z">
         <seg>Tarkista nyt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for Updates...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T141442Z" creationid="piav" creationdate="20191202T141442Z">
+        <seg>Tarkista päivitykset…</seg>
       </tuv>
     </tu>
     <tu>
@@ -5939,6 +6083,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T094102Z" creationid="PiaVee" creationdate="20171219T110032Z">
         <seg>Tarkista, että sanakirjatiedostosi ovat oikeassa kansiossa (tai sen alikansiossa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check the &lt;g0&gt;Use Fuzzy Matching for Dictionary Entries&lt;/g0&gt; option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T142016Z" creationid="piav" creationdate="20191202T141925Z">
+        <seg>Rastita ruutu &lt;g0&gt;Käytä sanakirjatietueiden sumeita osumia&lt;/g0&gt;, jos haluat sanakirjojen näyttävän sanoja, joilla on sama vartalo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6011,6 +6163,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T120105Z" creationid="piav" creationdate="20191128T120105Z">
         <seg>Tilastotietojen tarkistaminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Checks to see whether a more recent version of &lt;a0&gt;OmegaT&lt;/a0&gt; has been released.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T141510Z" creationid="piav" creationdate="20191202T141510Z">
+        <seg>Tarkista, onko &lt;a0&gt;OmegaT&lt;/a0&gt;:stä saatavilla uudempaa versiota.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6167,6 +6327,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T112456Z" creationid="piav" creationdate="20191202T112406Z">
+        <seg>Napsauta painiketta &lt;g1&gt;Kopioi tiedostoja lähdekansioon…&lt;/g1&gt;, niin pääset valitsemaan käännettävät lähdetiedostosi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the icon button (to the right of the Name/Description/Comment fields)</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T093930Z" creationid="piav" creationdate="20191201T093930Z">
@@ -6183,6 +6351,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;g0&gt;Edit&lt;/g0&gt; tab on the Wikipedia page.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T143026Z" creationid="piav" creationdate="20191202T143026Z">
+        <seg>Napsauta Wikipedia-sivun &lt;g0&gt;Muokkaa&lt;/g0&gt;-välilehteä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191029T102319Z" creationid="piav" creationdate="20191029T102319Z">
@@ -6195,6 +6371,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T111944Z" creationid="piav" creationdate="20191023T111944Z">
         <seg>Napsauta kenttää &lt;g0&gt;Asenna uusi sanakirja&lt;/g0&gt;, niin sanakirjan asennusikkuna avautuu. Ikkunassa voit valita ne sanakirjat, jotka haluat asentaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clicking on one will save the current project, close it and open the other project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T142827Z" creationid="piav" creationdate="20191202T142827Z">
+        <seg>Jos napsautat niistä yhtä, OmegaT tallentaa ja sulkee nykyisen projektin ja avaa valitsemasi projektin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6659,10 +6843,26 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Converts the current project into a MED package.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T144504Z" creationid="piav" creationdate="20191202T144455Z">
+        <seg>Nykyinen projekti muuntuu MED-paketiksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T065019Z" creationid="PiaVee" creationdate="20171015T101414Z">
         <seg>Kopioi tiedostoja lähdekansioon…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copies the selected files to the &lt;f0&gt;source&lt;/f0&gt; folder and reloads the project to load the new files.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T142909Z" creationid="piav" creationdate="20191202T142909Z">
+        <seg>Valitut tiedostot kopioidaan &lt;f0&gt;source&lt;/f0&gt;-kansioon ja projekti ladataan uudelleen, jolloin uudet tiedostot tulevat näkyviin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6693,6 +6893,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy the URL of the page (ending with &lt;g0&gt;action=edit&lt;/g0&gt;) and paste it into &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T143118Z" creationid="piav" creationdate="20191202T143118Z">
+        <seg>Kopioi sivun URL-osoite (jonka päätteenä on &lt;g0&gt;action=edit&lt;/g0&gt;) ja liimaa se &lt;a1&gt;OmegaT&lt;/a1&gt;:hen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy the documents, you need the translation memory for, into the source folder of the project.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T082611Z" creationid="piav" creationdate="20191128T082611Z">
@@ -6705,6 +6913,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T100143Z" creationid="piav" creationdate="20191201T100143Z">
         <seg>Kopioi kansio sopivaan kansioon (esim. Ohjelmat).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy the text and paste it into the translated version of the Wikipedia page.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T143239Z" creationid="piav" creationdate="20191202T143239Z">
+        <seg>Kopioi tiedoston teksti ja liimaa se Wikipedia-sivun käännettyyn versioon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6853,6 +7069,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create Current Translated Document</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T144118Z" creationid="piav" creationdate="20191202T144118Z">
+        <seg>Luo nykyinen käännetty tiedosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create Current Translated Documents</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061946Z" creationid="piav" creationdate="20191023T061946Z">
@@ -6872,6 +7096,14 @@ may experience unexpected, but correct behaviour.</seg>
         <seg>Create MED Project...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T093407Z" creationid="PiaVee" creationdate="20171015T102529Z">
+        <seg>Luo MED-projekti…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create MED Projects...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T144436Z" creationid="piav" creationdate="20191202T144436Z">
         <seg>Luo MED-projekti…</seg>
       </tuv>
     </tu>
@@ -6977,6 +7209,38 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T131540Z" creationid="piav" creationdate="20190920T131540Z">
         <seg>Laatimispäivämäärä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creates a local copy of a remote OmegaT project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T142618Z" creationid="piav" creationdate="20191202T142618Z">
+        <seg>OmegaT-etäprojektista luodaan paikallinen kopio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creates and opens a new project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T142559Z" creationid="piav" creationdate="20191202T142559Z">
+        <seg>Luo ja avaa uusi projekti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creates the target document corresponding to the current document in translation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T144248Z" creationid="piav" creationdate="20191202T144231Z">
+        <seg>OmegaT luo sillä hetkellä kääntämästäsi asiakirjasta kohdekielisen asiakirjan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creates the target documents based on your translation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T144043Z" creationid="piav" creationdate="20191202T144043Z">
+        <seg>OmegaT luo kääntämäsi kohdeasiakirjat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7637,6 +7901,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Define the translation as being empty.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T135039Z" creationid="piav" creationdate="20191202T135017Z">
+        <seg>Käännös merkitään tyhjäksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Defines the project-specific external search resources.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T121328Z" creationid="piav" creationdate="20191127T121328Z">
@@ -7665,6 +7937,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081419Z" creationid="piav" creationdate="20190522T081419Z">
         <seg>Poistettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deletes the translation and set the segment as untranslated.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T135004Z" creationid="piav" creationdate="20191202T134221Z">
+        <seg>Käännös poistetaan ja segmentti merkitään kääntämättömäksi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8021,6 +8301,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays &lt;l0&gt;Project properties&lt;/l0&gt; dialog to edit project languages and folder locations.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T144605Z" creationid="piav" creationdate="20191202T144605Z">
+        <seg>Saat näkyviin &lt;l0&gt;Projektin ominaisuudet&lt;/l0&gt; -valintaikkunan, jossa voit muokata projektin kieliä ja alikansioiden sijaintia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays alternative translations that you have created for segments that are repeated in the project.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190919T132421Z" creationid="piav" creationdate="20190919T132421Z">
@@ -8033,6 +8321,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T133016Z" creationid="piav" creationdate="20190916T133016Z">
         <seg>Näyttää aktiivisen segmentin kommentit, jos niitä on lähdetiedostossa ja tiedostosuodatin (esim. PO-suodatin) tukee kommentteja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays copyright, credits and license information.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T141312Z" creationid="piav" creationdate="20191202T141110Z">
+        <seg>Saat tekijänoikeustiedot, tekijät ja tiedot lisenssistä näkyville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the current log file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T141307Z" creationid="piav" creationdate="20191202T141307Z">
+        <seg>Nykyinen lokitiedosto tulee näytölle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8065,6 +8369,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T074633Z" creationid="piav" creationdate="20190916T130727Z">
         <seg>Näyttää /glossary/-kansiossa olevista sanastotiedostoista löytyneet termit, joita on kohdesegmentissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the list of new functionalities, enhancements and bug fixes for each new release.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T141329Z" creationid="piav" creationdate="20191202T141154Z">
+        <seg>Näytölle tulee luettelo jokaisen uuden jakelun uusista toiminnoista, parannuksista ja korjatuista bugeista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8534,6 +8846,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T113914Z" creationid="piav" creationdate="20191202T113859Z">
+        <seg>Käännöstyön aikana löydät monia hyödyllisiä toimintoja &lt;g4&gt;Muokkaa&lt;/g4&gt;- ja &lt;g5&gt;Siirry&lt;/g5&gt;-valikoista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dutch</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174019Z" creationid="PiaVee" creationdate="20171014T174019Z">
@@ -8754,6 +9074,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T110246Z" creationid="piav" creationdate="20190913T110246Z">
         <seg>Editorin asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editor...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T142528Z" creationid="piav" creationdate="20191202T142528Z">
+        <seg>Editori…</seg>
       </tuv>
     </tu>
     <tu>
@@ -9614,6 +9942,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exports the current selection to a text file for processing.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T134553Z" creationid="piav" creationdate="20191202T122741Z">
+        <seg>Senhetkinen valinta viedään tekstitiedostoon käsiteltäväksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Lin&amp;ks</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T171640Z" creationid="piav" creationdate="20190527T171640Z">
@@ -9776,8 +10112,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Failed to compile project files!</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T124023Z" creationid="PiaVee" creationdate="20171015T124023Z">
-        <seg>Projektitiedostojen kokoaminen ei onnistunut!</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T112304Z" creationid="PiaVee" creationdate="20171015T124023Z">
+        <seg>Projektin tiedostojen kokoaminen ei onnistunut!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9850,6 +10186,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140153Z" creationid="PiaVee" creationdate="20171014T140153Z">
         <seg>Toimintopyyntöjen seurantajäjestelmä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Few more things to remember</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T114711Z" creationid="piav" creationdate="20191202T114711Z">
+        <seg>Pari muuta muistettavaa seikkaa</seg>
       </tuv>
     </tu>
     <tu>
@@ -10194,6 +10538,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T133032Z" creationid="piav" creationdate="20191127T133027Z">
         <seg>Joitakin muutoksia tapahtuu automaattisesti .docx-tiedostoja luotaessa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For a more comprehensive introduction see &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; on the OmegaT web site.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T120812Z" creationid="piav" creationdate="20191202T120812Z">
+        <seg>Tarkemman esittelyn &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; löydät OmegaT-verkkosivustolta</seg>
       </tuv>
     </tu>
     <tu>
@@ -10622,6 +10974,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Generate the translated file</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T114526Z" creationid="piav" creationdate="20191202T114526Z">
+        <seg>Luo käännetty tiedosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Genua</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094204Z" creationid="PiaVee" creationdate="20171219T094204Z">
@@ -10694,10 +11054,26 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Give access to the ten last edited projects.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T142734Z" creationid="piav" creationdate="20191202T142734Z">
+        <seg>Tässä valinnassa voit avata yhden kymmenestä viime projektista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Gives access to the list of plugins available.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T092158Z" creationid="piav" creationdate="20191127T092158Z">
         <seg>Antaa pääsyn saatavilla olevien liitännäisten listaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Gives access to the project folders.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T144818Z" creationid="piav" creationdate="20191202T144723Z">
+        <seg>Tässä pääset käsittelemään projektin kansioita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10834,6 +11210,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T064409Z" creationid="piav" creationdate="20191023T063940Z">
         <seg>Sanasto / Käytä sanaston termien vartaloita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go To</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T135414Z" creationid="piav" creationdate="20191202T135414Z">
+        <seg>Siirry</seg>
       </tuv>
     </tu>
     <tu>
@@ -11062,6 +11446,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T140708Z" creationid="piav" creationdate="20191202T140708Z">
+        <seg>Ohjeet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Help &amp; Manual</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T174931Z" creationid="piav" creationdate="20190523T174931Z">
@@ -11262,6 +11654,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T114424Z" creationid="piav" creationdate="20191202T114424Z">
+        <seg>Mikäli kuitenkin kirjoitit muotoilutägin väärin, käännöstiedostoja ei välttämättä saa avattua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, the command-line alternative allows the user to control and modify the program's behavior.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T112916Z" creationid="piav" creationdate="20191201T112854Z">
@@ -11440,8 +11840,16 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>If &lt;e0&gt;Show Relevant Suggestions Automatically&lt;/e0&gt; option is checked, Auto-completer is launched automatically by typing the first letter of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T143530Z" creationid="piav" creationdate="20191030T135943Z">
-        <seg>Jos &lt;e0&gt;Näytä sopivia ehdotuksia automaattisesti&lt;/e0&gt; on rastitettu, automaattinen täydennys tulee automaattisesti käyttöön, kun käännetyn sanaston termin ensimmäinen kirjain tai (tägin tapauksessa) "&lt;" kirjoitetaan.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T142054Z" creationid="piav" creationdate="20191030T135943Z">
+        <seg>Jos ruuru &lt;e0&gt;Näytä sopivia ehdotuksia automaattisesti&lt;/e0&gt; on rastitettu, automaattinen täydennys tulee automaattisesti käyttöön, kun käännetyn sanaston termin ensimmäinen kirjain tai (tägin tapauksessa) "&lt;" kirjoitetaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, Auto-completer is launched automatically by typing the first letters of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T142036Z" creationid="piav" creationdate="20191202T142036Z">
+        <seg>Jos ruutu &lt;e0&gt;Näytä sopivia ehdotuksia automaattisesti&lt;/e0&gt; on rastitettu, automaattinen täydennys tulee automaattisesti käyttöön, kun käännetyn sanaston termin ensimmäinen kirjain tai (tägin tapauksessa) "&lt;" kirjoitetaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11450,6 +11858,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T132333Z" creationid="piav" creationdate="20191201T132232Z">
         <seg>Jos valintana on &lt;l0&gt;abort&lt;/l0&gt;, tägien tarkistus pysähtyy ensimmäisen epäkelpoisen segmentin kohdalle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If &lt;l0&gt;automatic searching in dictionaries&lt;/l0&gt; is disabled, this function allows you to search for the selected word in the dictionaries.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T132946Z" creationid="piav" creationdate="20191202T132911Z">
+        <seg>Jos &lt;l0&gt;automaattinen haku sanakirjoista&lt;/l0&gt; ei ole valittuna, tämä toiminto antaa käyttäjän hakea valittua sanaa sanakirjoista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11490,6 +11906,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T104112Z" creationid="piav" creationdate="20190913T100942Z">
         <seg>Jos merkistökoodaus on mainittu HHC- tai HHK-tiedostossa, ohjelma käyttää sitä riippumatta tämän kohdan arvosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T114746Z" creationid="piav" creationdate="20191202T114746Z">
+        <seg>Jos tiedosto ei lataudu näkyville &lt;g0&gt;Editori&lt;/g0&gt;-ruutuun, voi olla, että tiedostomuoto ei toimi OmegaT:ssä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11625,6 +12049,22 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If no text has been selected, the current source segment is written to this file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T122808Z" creationid="piav" creationdate="20191202T122808Z">
+        <seg>Jos tekstinpätkää ei ole valittu, tiedostoon kirjoitetaan senhetkinen lähdesegmentti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If no text is selected, &lt;a3&gt;OmegaT&lt;/a3&gt; selects the word that contains the letter immediately to the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T134853Z" creationid="piav" creationdate="20191202T133440Z">
+        <seg>Jos tekstiä ei ole valittu, &lt;a3&gt;OmegaT&lt;/a3&gt; valitsee sanan, johon heti kursorin vieressä oikealla puolella oleva kirjain kuuluu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If not given, &lt;a3&gt;OmegaT&lt;/a3&gt; reverts to default values (&lt;a4&gt;OmegaT&lt;/a4&gt; folder under user home or, if unavailable, the current working folder).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T125726Z" creationid="piav" creationdate="20191201T125726Z">
@@ -11637,6 +12077,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T110332Z" creationid="PiaVee" creationdate="20171219T110237Z">
         <seg>Jos kansiossa on vain yksi tiedosto, tarkista sen tiedostopääte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If part of the target segment has been selected, this function overwrites the selected portion.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T122132Z" creationid="piav" creationdate="20191202T122119Z">
+        <seg>Jos kohdesegmentin tekstistä on valittu vain osa, lisäystoiminto kirjoittaa osuman valitun tekstin päälle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11657,6 +12105,30 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If several translation engines are selected, then &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; is also used to switch between them and insert the last one selected.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T141759Z" creationid="piav" creationdate="20191202T141655Z">
+        <seg>Jos valitset useampia konekääntimiä, voit vaihtaa niiden välillä ja lisätä viimeksi valitun näppäinyhdistelmällä &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T122239Z" creationid="piav" creationdate="20191202T122239Z">
+        <seg>Jos sumean osuman tekstistä on valittu vain osa, vain valittu teksti lisätään kursorin kohdalle käännettävään segmenttiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If some texts are selected within the fuzzy match, only this selection will replace the whole target segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T121848Z" creationid="piav" creationdate="20191202T121805Z">
+        <seg>Jos sumean osuman tekstistä on valittu vain osa, kaikki kohdesegmentissä oleva teksti korvataan tällä valinnalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T112725Z" creationid="piav" creationdate="20191127T112532Z">
@@ -11673,10 +12145,34 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the current segment is the first one in a file, it moves to the last segment of the previous file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T135930Z" creationid="piav" creationdate="20191202T135930Z">
+        <seg>Jos senhetkinen segmentti on tiedoston ensimmäinen, kursori siirtyy edellisen tiedoston viimeiseen segmenttiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the current segment is the last segment in a file, it moves to the first segment of the next file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T135638Z" creationid="piav" creationdate="20191202T135638Z">
+        <seg>Jos senhetkinen segmentti on tiedoston viimeinen segmentti, kursori siirtyy seuraavan tiedoston ensimmäiseen segmenttiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the document allows, the translator is strongly encouraged to remove style information from the original document so that as few tags as possible appear in the OmegaT interface.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T131646Z" creationid="piav" creationdate="20191127T131646Z">
         <seg>Mikäli vain mahdollista, kääntäjän kannattaa poistaa alkuperäisen asiakirjan tyylimuotoilut, jotta OmegaT-käyttöliittymässä olisi mahdollisimman vähän tägejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the documents are not available, the entry is greyed out.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T145138Z" creationid="piav" creationdate="20191202T145138Z">
+        <seg>Jos asiakirjoje ei ole saatavilla, kohta näkyy harmaana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11763,8 +12259,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T105053Z" creationid="piav" creationdate="20191023T113910Z">
-        <seg>Jos oikeinkirjoituksen tarkistus ei toimi, tarkista, että olet rastittanut &lt;g0&gt;Tarkista oikeinkirjoitus automaattisesti&lt;/g0&gt; -valintaruudun (kohdassa &lt;g1&gt;Valinnat &gt; Oikeinkirjoituksen tarkistus…&lt;/g1&gt;)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T115348Z" creationid="piav" creationdate="20191023T113910Z">
+        <seg>Jos oikeinkirjoituksen tarkistus ei toimi, tarkista, että olet rastittanut &lt;g0&gt;Tarkista oikeinkirjoitus automaattisesti&lt;/g0&gt; -ruudun (kohdassa &lt;g1&gt;Valinnat &gt; Oikeinkirjoituksen tarkistus…&lt;/g1&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11797,6 +12293,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T131936Z" creationid="piav" creationdate="20191201T131936Z">
         <seg>Muissa kansioissa olevat test.html-tiedostot jätetään huomiotta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If there's several alternative translations available for the active segment, you can label the alternative selected as the default translation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T133947Z" creationid="piav" creationdate="20191202T133824Z">
+        <seg>Jos senhetkiselle segmentille on useita vaihtoehtoisia käännöksiä, voit merkitä valitsemasi vaihtoehdon oletuskäännökseksi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11843,8 +12347,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If we want to avoid any mis-translations in case of segments with several possible target contents, checking this check box will cause &lt;e0&gt;Go To Next Untranslated Segment&lt;/e0&gt; to stop on the next such segment, irrespective of whether it has already been translated or not.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T074756Z" creationid="piav" creationdate="20191127T074013Z">
-        <seg>Jos käännettävänä on segmenttejä, joille on useita vaihtoehtoisia käännöksiä, ja haluat välttää vääriä käännöksiä, laita rasti &lt;e0&gt;Mene seuraavaan kääntämättömään segmenttiin&lt;/e0&gt; -valintaruutuun. Silloin ohjelma pysähtyy seuraavan sellaisen segmentin kohdalla, oli se sitten jo käännetty tai ei.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T115424Z" creationid="piav" creationdate="20191127T074013Z">
+        <seg>Jos käännettävänä on segmenttejä, joille on useita vaihtoehtoisia käännöksiä, ja haluat välttää vääriä käännöksiä, laita rasti ruutuun &lt;e0&gt;Mene seuraavaan kääntämättömään segmenttiin&lt;/e0&gt;. Silloin ohjelma pysähtyy seuraavan sellaisen segmentin kohdalla, oli se sitten jo käännetty tai ei.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11861,6 +12365,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T120949Z" creationid="piav" creationdate="20191129T120949Z">
         <seg>Jos haluat päivittää koneellesi asennetun OmegaT:n uudempaan versioon, käytettävissäsi on kaksi vaihtoehtoa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T112112Z" creationid="piav" creationdate="20191202T112112Z">
+        <seg>Pääset milloin tahansa takaisin tähän valintaikkunaan ja sen asetuksiin painamalla näppäinyhdistelmää &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11977,6 +12489,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T121022Z" creationid="piav" creationdate="20191202T121022Z">
+        <seg>Jos tarvitset apua mihin tahansa OmegaT-seikkaan liittyen, liity vain reippaasti &lt;u1&gt;OmegaT-käyttäjäryhmään&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T105318Z" creationid="piav" creationdate="20191128T122628Z">
@@ -12001,10 +12521,42 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T120307Z" creationid="piav" creationdate="20191202T120307Z">
+        <seg>Jos sijoitat tällaisen käännösmuistin projektin &lt;f6&gt;/tm/&lt;/f6&gt;-alikansioon, OmegaT etsii siitä automaattisesti samankaltaisia segmenttejä, niin sanottuja sumeita osumia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T074136Z" creationid="piav" creationdate="20191030T075843Z">
-        <seg>Jos et halua käyttää OmegaT:tä tiettyjen tiedostotyypien kääntämiseen, voit ottaa kyseisen tiedostosuodattimen pois käytöstä poistamalla rastin sen vieressä olevasta valintaruudusta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T115352Z" creationid="piav" creationdate="20191030T075843Z">
+        <seg>Jos et halua käyttää OmegaT:tä tiettyjen tiedostotyypien kääntämiseen, voit ottaa kyseisen tiedostosuodattimen pois käytöstä poistamalla rastin sen vieressä olevasta ruudusta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T130907Z" creationid="piav" creationdate="20191202T130907Z">
+        <seg>Jos valitset ensin pätkän tekstiä (mistä tahansa ruudusta) ja painat sitten näppäinyhdistelmää&lt;k0&gt; &lt;k1&gt;, näytölle avautuu hakuikkuna ja valintasi siirtyy hakuikkunan kenttään &lt;/k1&gt;Etsittävä teksti:&lt;k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T132859Z" creationid="piav" creationdate="20191202T132859Z">
+        <seg>Jos valitset ensin pätkän tekstiä (mistä tahansa ruudusta) ja painat sitten näppäinyhdistelmää&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, näytölle avautuu hakuikkuna ja valintasi siirtyy kenttään &lt;g3&gt;Etsittävä teksti:&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g4&gt;Source term&lt;/g4&gt; field.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T130650Z" creationid="piav" creationdate="20191202T130203Z">
+        <seg>Jos valitset ensin pätkän tekstiä (mistä tahansa ruudusta) ja painat sitten näppäinyhdistelmää &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;vaihto&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt;, näytölle avautuu sanastoruutu ja valintasi siirtyy sanastoruudun kenttään &lt;/k0&gt;Lähdekielinen termi&lt;g4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12069,6 +12621,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T134014Z" creationid="piav" creationdate="20191030T133749Z">
         <seg>Jos segmentointisäännöstösi koskee kieli–maa-paria, se kannattaa siirtää säännöstölistalla ylöspäin. Käytä tähän &lt;e1&gt;Siirrä ylöspäin&lt;/e1&gt;-painiketta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T114056Z" creationid="piav" creationdate="20191202T114056Z">
+        <seg>Jos lähdetiedostosi ovat esim. Microsoft Word-, LibreOffice Writer- tai HTML-tiedostoja, jotka sisältävät muotoiluja, OmegaT muuttaa muotoilut tägeiksi, jotka ympäröivät käännettyä tekstiä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12217,6 +12777,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition, two menu entries allow opening directly the current source and target documents and the writable glossary.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T145059Z" creationid="piav" creationdate="20191202T144741Z">
+        <seg>Kohdassa on lisäksi alivalintoja, jotka avaavat suoraan senhetkisen lähde- ja kohdeasiakirjan sekä kirjoituskelpoisen sanaston.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In an as-yet untranslated "External View" file, the target column is empty.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T161202Z" creationid="PiaVee" creationdate="20171014T155819Z">
@@ -12259,8 +12827,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In case there are non-unique segments in source documents, the Auto-propagation check box offers the user the following two possibilities as regards automatic translation: if checked, the first translated segment will be assumed as the default translation and its target text will be automatically used for later hits during the translation process.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T112431Z" creationid="piav" creationdate="20191127T111932Z">
-        <seg>Mikäli lähdeasiakirjoissa on toistuvia segmenttejä, tämä valintaruutu tarjoaa käyttäjälle kaksi tapaa käyttää käännösehdotuksia automaattisesti. Jos valintaruudussa on rasti, ensimmäisestä käännetystä segmentistä tulee oletuskäännös, ja käännöstä käytetään myöhempien toistojen käännöksenä automaattisesti.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T115443Z" creationid="piav" creationdate="20191127T111932Z">
+        <seg>Mikäli lähdeasiakirjoissa on toistuvia segmenttejä, tämä valintaruutu tarjoaa käyttäjälle kaksi tapaa käyttää käännösehdotuksia automaattisesti. Jos ruudussa on rasti, ensimmäisestä käännetystä segmentistä tulee oletuskäännös, ja käännöstä käytetään myöhempien toistojen käännöksenä automaattisesti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12441,6 +13009,22 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T111806Z" creationid="piav" creationdate="20191202T111806Z">
+        <seg>Mene valikkoon &lt;g0&gt;Projekti&lt;/g0&gt;, valitse &lt;m1&gt;&lt;g2&gt;Uusi…&lt;/g2&gt;&lt;/m1&gt; ja kirjoita projektisi nimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Editor, the translation is displayed as &lt;EMPTY&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T135301Z" creationid="piav" creationdate="20191202T135110Z">
+        <seg>Editorissa tyhjän käännöksen kohdalla lukee &lt;TYHJÄ&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Exclusion patterns dialog, it is possible to Add or Remove a pattern, or edit one by selecting a line and pressing F2.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T122136Z" creationid="piav" creationdate="20191127T121951Z">
@@ -12469,6 +13053,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T155409Z" creationid="PiaVee" creationdate="20171014T155409Z">
         <seg>Näin OmegaT:n ja muiden CAT-ohjelmien käyttäjät voivat kääntää Déjà Vu -ohjelmalla tehtyjä tiedostoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the target document, nothing will appear for this segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T135056Z" creationid="piav" creationdate="20191202T135034Z">
+        <seg>Tyhjäksi merkityn käännöksen kohdalla ei kohdeasiakirjassa ole mitään.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12789,6 +13381,38 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T073313Z" creationid="piav" creationdate="20191030T141859Z">
         <seg>Lisää lähdeteksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserts only one tag (among the missing ones) at the cursor position.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T134543Z" creationid="piav" creationdate="20191202T122705Z">
+        <seg>Ainoastaan yksi tägi (puuttuvista) lisätään kursorin kohdalle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserts the currently selected fuzzy match at the cursor position.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T134349Z" creationid="piav" creationdate="20191202T122010Z">
+        <seg>Valittu sumea osuma lisätään käännettävään segmenttiin kursorin kohdalle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserts the source at the cursor position.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T134452Z" creationid="piav" creationdate="20191202T122525Z">
+        <seg>Lähdeteksti lisätään kursorin kohdalle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserts the source tags (if they where missing) at the cursor position.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T134524Z" creationid="piav" creationdate="20191202T122555Z">
+        <seg>Kursorin kohdalle lisätään (puuttuvat) lähdesegmentin tägit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13157,6 +13781,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T110304Z" creationid="piav" creationdate="20191023T110115Z">
         <seg>Näin ollen se voi käyttää näiden sovellusten monia vapaita oikeinkirjoitussanastoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T120628Z" creationid="piav" creationdate="20191202T120615Z">
+        <seg>Voit milloin tahansa etsiä sanoja ja lausekkeita lähdetekstistä ja käännöksestä painamalla näppäinyhdistelmää &lt;k0&gt;Ctrl+F&lt;/k0&gt;. Tämä avaa &lt;g1&gt;Tekstihaku&lt;/g1&gt;-valintaikkunan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14066,6 +14698,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Learn to use OmegaT in 5 minutes!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T111108Z" creationid="piav" creationdate="20191202T111108Z">
+        <seg>Opi käyttämään OmegaT:tä 5 minuutissa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Leave the segment empty</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T142035Z" creationid="piav" creationdate="20191030T142035Z">
@@ -14358,6 +14998,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174851Z" creationid="PiaVee" creationdate="20171014T174851Z">
         <seg>makedonia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Machine Translate</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T141529Z" creationid="piav" creationdate="20191202T122409Z">
+        <seg>Konekäännös</seg>
       </tuv>
     </tu>
     <tu>
@@ -15234,6 +15882,46 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves to the next already translated segment, ignoring untranslated segments.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T135552Z" creationid="piav" creationdate="20191202T135517Z">
+        <seg>Kursori siirtyy seuraavaan jo käännettyyn segmenttiin, kääntämättömiä segmenttejä ei huomioida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves to the next segment that has no equivalent in the translation memory.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T135509Z" creationid="piav" creationdate="20191202T135439Z">
+        <seg>Kursori siirtyy seuraavaan segmenttiin, jolle käännösmuistista ei löydy käännöstä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves to the next segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T135601Z" creationid="piav" creationdate="20191202T135601Z">
+        <seg>Kursori siirtyy seuraavaan segmenttiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves to the previous segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T135901Z" creationid="piav" creationdate="20191202T135901Z">
+        <seg>Kursori siirtyy edelliseen segmenttiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves to the segment that does correspond to the current selected match in the &lt;g0&gt;Fuzzy matches&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T140322Z" creationid="piav" creationdate="20191202T140248Z">
+        <seg>Kursori siirtyy segmenttiin, jonka teksti vastaa &lt;g0&gt;Sumeat osumat&lt;/g0&gt; -ruudussa valittua tekstiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mozilla DTD</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T175935Z" creationid="piav" creationdate="20190521T175935Z">
@@ -15434,6 +16122,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New translation memories placed in the &lt;f0&gt;/tm&lt;/f0&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T143426Z" creationid="piav" creationdate="20191202T143426Z">
+        <seg>OmegaT ottaa käännöstyön aikana &lt;f0&gt;/tm&lt;/f0&gt;-kansioon sijoitetut uudet käännösmuistit käyttöön heti, kun kursori siirtyy yhdestä segmentistä toiseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T142544Z" creationid="piav" creationdate="20191202T142544Z">
+        <seg>Uusi…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T075416Z" creationid="piav" creationdate="20191022T075416Z">
@@ -15530,6 +16234,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next, the &lt;g0&gt;Project Files&lt;/g0&gt; dialog opens.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T115124Z" creationid="piav" creationdate="20191202T112159Z">
+        <seg>Seuraavaksi näytölle avautuu valintaikkuna &lt;g0&gt;Projektin tiedostot&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T133743Z" creationid="piav" creationdate="20190920T133141Z">
@@ -15542,6 +16254,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T135312Z" creationid="piav" creationdate="20190916T135312Z">
         <seg>Ei ehdotuksia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No action is taken, if no Machine Translation service has been activated (in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Machine Translate&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T122430Z" creationid="piav" creationdate="20191202T122403Z">
+        <seg>Jos yhtään konekäännöspalvelua ei ole aktivoitu (kohdassa &lt;m0&gt; &lt;g1&gt;Valinnat&lt;/g1&gt; &lt;g2&gt;Konekäännös&lt;/g2&gt;&lt;/m0&gt;), mitään ei tapahdu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15942,6 +16662,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; is an alternate shortcut if &lt;l3&gt;Use TAB to Advance&lt;/l3&gt; option is not selected.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T140027Z" creationid="piav" creationdate="20191202T140027Z">
+        <seg>Huom.: Mikäli vaihtoehtoa &lt;l3&gt;Siirry eteenpäin sarkainnäppäimellä&lt;/l3&gt; ei ole valittu, pikanäppäimenä toimii &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: &lt;k0&gt;Enter&lt;/k0&gt; is an alternate shortcut if &lt;l1&gt;Use TAB to Advance&lt;/l1&gt; option is not selected.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T135850Z" creationid="piav" creationdate="20191202T135649Z">
+        <seg>Huom.: Mikäli vaihtoehtoa &lt;l1&gt;Siirry eteenpäin sarkainnäppäimellä&lt;/l1&gt; ei ole valittu, pikanäppäimenä toimii &lt;k0&gt;Enter&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T082539Z" creationid="piav" creationdate="20190522T083417Z">
@@ -16214,6 +16950,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T114149Z" creationid="piav" creationdate="20191202T114149Z">
+        <seg>Asiakirjoissa on myös tägejä, jotka eivät mitenkään liity tekstimuotoiluun, mutta joita tarvitaan lähdetiedostoissa (ja siis myös kohdetiedostoissa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ojibwe, Ojibwa</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T080736Z" creationid="PiaVee" creationdate="20171015T080736Z">
@@ -16280,8 +17024,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT Project Files</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T132421Z" creationid="piav" creationdate="20190521T132421Z">
-        <seg>OmegaT-projektitiedostot</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T112317Z" creationid="piav" creationdate="20190521T132421Z">
+        <seg>OmegaT-projektin tiedostot</seg>
       </tuv>
     </tu>
     <tu>
@@ -16314,6 +17058,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T135740Z" creationid="PiaVee" creationdate="20171014T135411Z">
         <seg>Sourceforgessa ylläpidetään seuraavia OmegaT-aiheisia postituslistoja:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT automatically saves translations every 3 minutes as well as when you close the project or quit OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T143610Z" creationid="piav" creationdate="20191202T143610Z">
+        <seg>OmegaT tallentaa käännökset automaattisesti 3 minuutin välein sekä silloin, kun suljet projektin tai koko ohjelman.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16610,6 +17362,22 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will present one segment at a time for you to translate.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T113315Z" creationid="piav" creationdate="20191202T113315Z">
+        <seg>Käännä tiedosto segmentti kerrallaan OmegaT:ssä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T112540Z" creationid="piav" creationdate="20191202T112540Z">
+        <seg>OmegaT kopioi valitsemasi tiedostot vasta luomasi projektin &lt;f2&gt;/source/&lt;/f2&gt;-alikansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T080023Z" creationid="piav" creationdate="20191030T075941Z">
@@ -16638,6 +17406,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T140849Z" creationid="piav" creationdate="20190920T140849Z">
         <seg>OmegaT {0} on nyt saatavilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T114212Z" creationid="piav" creationdate="20191202T114212Z">
+        <seg>OmegaT esittää kuitenkin segmentin tällaisena:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16750,6 +17526,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T100217Z" creationid="piav" creationdate="20191201T100217Z">
         <seg>Kun olet tehnyt tämän, voit poistaa &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt;-tiedoston, sillä sitä ei enää tarvita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T114704Z" creationid="piav" creationdate="20191202T114704Z">
+        <seg>Kun olet varma siitä, että käännöksessäsi ei ole tägivirheitä, luo käännetyt tiedostot näppäinyhdistelmällä &lt;k0&gt;Ctrl+D&lt;/k0&gt;. OmegaT luo tiedostot projektikansion &lt;f1&gt;/target/&lt;/f1&gt;-alikansioon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16922,10 +17706,18 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the &lt;f0&gt;.UTF8&lt;/f0&gt; file generated in the &lt;f1&gt;/target&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T143208Z" creationid="piav" creationdate="20191202T143208Z">
+        <seg>Avaa &lt;f1&gt;/target&lt;/f1&gt;-kansioon luotu &lt;f0&gt;.UTF8&lt;/f0&gt;-tiedosto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T094756Z" creationid="PiaVee" creationdate="20171014T093718Z">
-        <seg>Avaa etsi ja korvaa -ikkuna painamalla &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;K&lt;/k2&gt;&lt;/k0&gt;ja kirjoita &lt;e3&gt;Etsi tämä&lt;/e3&gt;-kenttään sana tai ilmaus, jonka haluat korvata toisella.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T131006Z" creationid="PiaVee" creationdate="20171014T093718Z">
+        <seg>Avaa etsi ja korvaa -ikkuna painamalla &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;K&lt;/k2&gt;&lt;/k0&gt;ja kirjoita &lt;e3&gt;Etsittävä teksti&lt;/e3&gt;-kenttään sana tai ilmaus, jonka haluat korvata toisella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16962,6 +17754,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T142638Z" creationid="piav" creationdate="20191202T142638Z">
+        <seg>Avaa…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OpenDocument</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180253Z" creationid="piav" creationdate="20190521T180253Z">
@@ -16994,10 +17794,90 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens a new &lt;l0&gt;Search and replace window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T134835Z" creationid="piav" creationdate="20191202T131305Z">
+        <seg>Uusi &lt;l0&gt;Etsi ja korvaa&lt;/l0&gt;-ikkuna avautuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens a new &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T134722Z" creationid="piav" creationdate="20191202T130753Z">
+        <seg>Uusi &lt;l0&gt;Hakuikkuna&lt;/l0&gt; avautuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens a previously created project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T142653Z" creationid="piav" creationdate="20191202T142653Z">
+        <seg>Avaa aiemmin luotu projekti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens a project package in the MED format defined by the EU Directorate-General for Translation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T144433Z" creationid="piav" creationdate="20191202T144433Z">
+        <seg>OmegaT avaa Euroopan komission käännöstoimen pääosaston määrittelemän MED-muotoisen projektipaketin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;Editor&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T142537Z" creationid="piav" creationdate="20191202T142537Z">
+        <seg>Asetukset-ikkunassa avautuu kohdasta &lt;l0&gt;Editori&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;File Filters&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T142426Z" creationid="piav" creationdate="20191202T142331Z">
+        <seg>Asetukset-ikkunassa avautuu kohdasta &lt;l0&gt;Tiedostosuodattimet&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;Preferences&lt;/l0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T141527Z" creationid="piav" creationdate="20191202T141527Z">
+        <seg>&lt;l0&gt;Asetukset&lt;/l0&gt;-valintaikkuna avautuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;Project files window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T144629Z" creationid="piav" creationdate="20191202T144629Z">
+        <seg>&lt;l0&gt;Projektin tiedostot&lt;/l0&gt; -ikkuna avautuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;Segmentation Setup&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T142525Z" creationid="piav" creationdate="20191202T142517Z">
+        <seg>Asetukset-ikkunassa avautuu kohdasta &lt;l0&gt;Segmentointiasetukset&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens the local directory where OmegaT configuration files are stored (depends on the Operating system).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T125901Z" creationid="piav" creationdate="20191201T125601Z">
         <seg>Avaa paikallisen tiedoston, jonne OmegaT-määritystiedostot on tallennettu (käyttöjärjestelmästä riippuen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens this manual in the default browser.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T141022Z" creationid="piav" creationdate="20191202T141022Z">
+        <seg>Tämä käsikirja avautuu oletusselaimessa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17869,6 +18749,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preferences...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T141515Z" creationid="piav" creationdate="20191202T141515Z">
+        <seg>Asetukset…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Premium Edition</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T141907Z" creationid="piav" creationdate="20190916T141907Z">
@@ -17947,6 +18835,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T093305Z" creationid="piav" creationdate="20190523T093305Z">
         <seg>Paina haluamaasi näppäinyhdistelmää ja napsauta sitten OK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T132752Z" creationid="piav" creationdate="20191202T131136Z">
+        <seg>Näppäinyhdistelmä &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;vaihto&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt;näyttää viimeksi avatun hakuikkunan (eikä siis avaa uutta hakuikkunaa).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18071,6 +18967,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T142542Z" creationid="piav" creationdate="20191202T142542Z">
+        <seg>Projekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project &amp;Files...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T065032Z" creationid="PiaVee" creationdate="20171015T102616Z">
@@ -18081,16 +18985,16 @@ projektin ilman ryhmäominaisuutta.</seg>
       <tuv lang="EN">
         <seg>Project Files ({0} of {1})</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171218T072317Z" creationid="PiaVee" creationdate="20171218T072317Z">
-        <seg>Projektitiedostot ({0} / {1})</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T112314Z" creationid="PiaVee" creationdate="20171218T072317Z">
+        <seg>Projektin tiedostot ({0} / {1})</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Project Files ({0})</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T125600Z" creationid="PiaVee" creationdate="20171015T125600Z">
-        <seg>Projektitiedostot ({0})</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T112311Z" creationid="PiaVee" creationdate="20171015T125600Z">
+        <seg>Projektin tiedostot ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -18727,6 +19631,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reloads the project to take external changes in source files and project settings into account.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T143312Z" creationid="piav" creationdate="20191202T143312Z">
+        <seg>Projekti ladataan uudelleen, jolloin lähdetiedostoihin ja projektin asetuksiin tehdyt muutokset otetaan käyttöön.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remaining Characters (including spaces)</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090314Z" creationid="PiaVee" creationdate="20171218T090314Z">
@@ -18763,6 +19675,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T090047Z" creationid="PiaVee" creationdate="20171218T090047Z">
         <seg>Jäljellä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remember where you are creating the project, because you will need to return to it later.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T111854Z" creationid="piav" creationdate="20191202T111854Z">
+        <seg>Muista, mihin sijaintiin olet luomassa projektia, sillä sinun on palattava sinne myöhemmin uudelleen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18875,6 +19795,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T132258Z" creationid="piav" creationdate="20190920T132258Z">
         <seg>Poista tägit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove Translation</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T134212Z" creationid="piav" creationdate="20191202T134212Z">
+        <seg>Poista käännös</seg>
       </tuv>
     </tu>
     <tu>
@@ -19137,10 +20065,42 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace with Source</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T122433Z" creationid="piav" creationdate="20191202T122433Z">
+        <seg>Korvaa lähdetekstillä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace with:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T134319Z" creationid="piav" creationdate="20190521T134319Z">
         <seg>Korvaa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replaces the target segment with the translation, provided by the selected Machine Translation service.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T134402Z" creationid="piav" creationdate="20191202T122324Z">
+        <seg>Kohdesegmentissä oleva teksti korvautuu konekäännöksellä, jonka käyttäjän valitsema konekäännöspalvelu on tuottanut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replaces the whole target segment with the currently selected fuzzy match (by default the first match is selected).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T134428Z" creationid="piav" creationdate="20191202T121510Z">
+        <seg>Kaikki kohdesegmentissä oleva teksti korvautuu valitulla sumealla osumalla. Oletusarvoisesti valittuna on ensimmäinen osuma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replaces the whole target segment with the source.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T134416Z" creationid="piav" creationdate="20191202T122507Z">
+        <seg>Kaikki kohdesegmentissä oleva teksti korvautuu lähdetekstillä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19293,6 +20253,22 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T074837Z" creationid="piav" creationdate="20191030T074837Z">
         <seg>Palauttaa OmegaT-pääikkunan oletusmuotoonsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restores the status before the last editing action was cancelled.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T134314Z" creationid="piav" creationdate="20191202T121323Z">
+        <seg>Segmentti palautuu sellaiseksi kuin se oli ennen kuin edellinen muokkauskomento peruutettiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restores the status before the last editing action was taken.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T134304Z" creationid="piav" creationdate="20191202T121149Z">
+        <seg>Segmentti palautuu sellaiseksi kuin se oli ennen edellistä muokkaustoimintoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19769,6 +20745,22 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saves the internal translation memory to the hard disk.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T143535Z" creationid="piav" creationdate="20191202T143518Z">
+        <seg>Ohjelman sisäinen käännösmuisti tallennetaan tietokoneen kovalevylle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saves the translation and closes the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T143453Z" creationid="piav" creationdate="20191202T143453Z">
+        <seg>OmegaT tallentaa käännöksen ja sulkee projektin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving and Output</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T063131Z" creationid="piav" creationdate="20190522T063131Z">
@@ -19989,8 +20981,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Search for:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T134317Z" creationid="piav" creationdate="20190521T134311Z">
-        <seg>Etsi:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T130925Z" creationid="piav" creationdate="20190521T134311Z">
+        <seg>Etsittävä teksti:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20075,6 +21067,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;l0&gt;How to use a team project&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T142636Z" creationid="piav" creationdate="20191202T142636Z">
+        <seg>Lisää tietoa löydät kohdasta &lt;l0&gt;Ryhmäprojektin käyttäminen&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;l1&gt;Segmentation Setup preferences&lt;/l1&gt; for more information on segmentation rules.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T115359Z" creationid="piav" creationdate="20191127T115302Z">
@@ -20095,6 +21095,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T120759Z" creationid="piav" creationdate="20191127T120702Z">
         <seg>Lisätietoa aiheesta löydät kohdasta &lt;l3&gt;Tiedostosuodattimien asetukset&lt;/l3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;m1&gt;&lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Preferences...&lt;/g3&gt;&lt;g4&gt;File Filters&lt;/g4&gt;&lt;/m1&gt; for a list of file formats that OmegaT can handle.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T114853Z" creationid="piav" creationdate="20191202T114817Z">
+        <seg>Kohdasta &lt;m1&gt;&lt;g2&gt;Valinnat&lt;/g2&gt;&lt;g3&gt;Asetukset…&lt;/g3&gt;&lt;g4&gt;Tiedostosuodattimet&lt;/g4&gt;&lt;/m1&gt; löydät luettelon tiedostomuodoista, joita OmegaT pystyy käsittelemään.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20133,8 +21141,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T175011Z" creationid="PiaVee" creationdate="20171015T092448Z">
-        <seg>Lisää tietoa löytyy kohdassa Ohje &gt; Käsikirja.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T140731Z" creationid="PiaVee" creationdate="20171015T092448Z">
+        <seg>Lisää tietoa löytyy kohdassa Ohje  &gt;  Käyttäjän käsikirja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20363,6 +21371,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;g0&gt;Taas Terminology Lookup&lt;/g0&gt; to activate this lookup.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T141843Z" creationid="piav" creationdate="20191202T141843Z">
+        <seg>Aktivoi tämä haku valitsemalla &lt;g0&gt;TaaS-terminologiahaku&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Fol&amp;der</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T065349Z" creationid="piav" creationdate="20190521T135255Z">
@@ -20382,6 +21398,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
         <seg>Select Mat&amp;ch</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T065103Z" creationid="PiaVee" creationdate="20171015T103925Z">
+        <seg>Valitse osuma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T133610Z" creationid="piav" creationdate="20191202T133610Z">
         <seg>Valitse osuma</seg>
       </tuv>
     </tu>
@@ -20587,6 +21611,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select this menu item, if the current translation does not apply and enter the alternative translation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T134209Z" creationid="piav" creationdate="20191202T134209Z">
+        <seg>Valitse tämä valikon kohta, jos senhetkinen käännös ei kelpaa ja kirjoita vaihtoehtoinen käännös.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select this option if you want dictionaries to display words that have the same root.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T101906Z" creationid="piav" creationdate="20191030T074756Z">
@@ -20607,6 +21639,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T114259Z" creationid="piav" creationdate="20190920T114259Z">
         <seg>Valittu engine: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selects the previous, the next or the Nth fuzzy match displayed in the fuzzy match pane to replace or insert it to the segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T134942Z" creationid="piav" creationdate="20191202T133639Z">
+        <seg>Osumaruudun edellinen, seuraava tai n:nnes sumean osuma lisätään segmenttiin / korvaa segmentissä olevan tekstin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20741,8 +21781,16 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Set up a Team Project</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T112518Z" creationid="piav" creationdate="20191128T112441Z">
-        <seg>Ryhmäprojektin asetusten määrittäminen</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T111305Z" creationid="piav" creationdate="20191128T112441Z">
+        <seg>Määritä ryhmäprojektin asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set up a new project</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T111315Z" creationid="piav" creationdate="20191202T111222Z">
+        <seg>Määritä uuden projektin asetukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -21887,16 +22935,16 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Switch Case To/Sentence Case</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T064333Z" creationid="piav" creationdate="20191023T062842Z">
-        <seg>Vaihda kirjainkokoa / Lauseen kirjaimet</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T133320Z" creationid="piav" creationdate="20191023T062842Z">
+        <seg>Vaihda kirjainkokoa / Lauseen kirjainkoko</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Switch Case To/Title Case</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T064330Z" creationid="piav" creationdate="20191023T062830Z">
-        <seg>Vaihda kirjainkokoa / Otsikon kirjaimet</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T133242Z" creationid="piav" creationdate="20191023T062830Z">
+        <seg>Vaihda kirjainkokoa / Otsikon kirjainkoko</seg>
       </tuv>
     </tu>
     <tu>
@@ -21905,6 +22953,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T064326Z" creationid="piav" creationdate="20191023T062816Z">
         <seg>Vaihda kirjainkokoa / Isot kirjaimet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch case to</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T133009Z" creationid="piav" creationdate="20191202T133009Z">
+        <seg>Vaihda kirjainkokoa</seg>
       </tuv>
     </tu>
     <tu>
@@ -22480,6 +23536,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T120007Z" creationid="piav" creationdate="20191202T120007Z">
+        <seg>Kaksi ensimmäistä käännösmuistia, &lt;f3&gt;level1&lt;/f3&gt; ja &lt;f4&gt;level2&lt;/f4&gt;, sopivat käytettäviksi muissa käännösohjelmissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T125505Z" creationid="piav" creationdate="20191127T123345Z">
@@ -22530,8 +23594,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The KMenuEditor appears.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T093236Z" creationid="piav" creationdate="20191201T093236Z">
-        <seg>Näytölle ilmestyy KMenuEditor-ikkuna.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T115117Z" creationid="piav" creationdate="20191201T093236Z">
+        <seg>Näytölle avautuu KMenuEditor-ikkuna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22907,6 +23971,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The created target documents are located in the &lt;f0&gt;target&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T144115Z" creationid="piav" creationdate="20191202T144115Z">
+        <seg>Kohdeasiakirjat löytyvät &lt;f0&gt;target&lt;/f0&gt;-kansiosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
@@ -23004,6 +24076,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The documents are opened by the application chosen by the operating system.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T145122Z" creationid="piav" creationdate="20191202T145122Z">
+        <seg>Asiakirjat avautuvat käyttöjärjestelmän valitsemassa ohjelmassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The encoding of glossaries is determined automatically.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T080931Z" creationid="piav" creationdate="20191022T080900Z">
@@ -23028,10 +24108,26 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The entry will be greyed, if there's just one translation available.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T134049Z" creationid="piav" creationdate="20191202T134049Z">
+        <seg>Jos käännösvaihtoehtoja on vain yksi, käännös kirjoitetaan harmaalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The escape character ('\u001B')</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T152139Z" creationid="piav" creationdate="20191022T152139Z">
         <seg>Koodinvaihtomerkki (\u001b)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T134627Z" creationid="piav" creationdate="20191202T123239Z">
+        <seg>Sisältö viedään OmegaT-käyttäjän asetuskansiosta löytyvään tiedostoon &lt;f1&gt;selection.txt&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23310,6 +24406,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T120211Z" creationid="piav" creationdate="20191202T120024Z">
+        <seg>Käännösmuisti &lt;f5&gt;omegat&lt;/f5&gt; taas sopii OmegaT:n käyttöön. Voit käyttää sitä esimerkiksi tulevissa projekteissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The messages you would usually find in the status bar are not displayed.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T133320Z" creationid="piav" creationdate="20191201T133320Z">
@@ -23366,10 +24470,26 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The next segment with a note attached to it, will open.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T140143Z" creationid="piav" creationdate="20191202T140115Z">
+        <seg>Seuraava segmentti, jossa on muistiinpano, avautuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The numbers must be exactly the same between the source and the target matches.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T143931Z" creationid="piav" creationdate="20191030T143931Z">
         <seg>Lähdesegmentin ja kohdeosumien numeroiden tulee olla täsmälleen samat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The one and the same segment may, depending on the context, require different translations.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T134143Z" creationid="piav" creationdate="20191202T134143Z">
+        <seg>Yksi ja sama segmentti voi vaatia erilaisia käännöksiä, kontekstista riippuen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23440,8 +24560,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The predominant way of segmenting the sources is the sentence-level segmenting, so this check box should in a normal case be left checked.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T110701Z" creationid="piav" creationdate="20191127T110701Z">
-        <seg>Lausetason segmentointi on tavallisin lähdetiedostojen segmentointitapa, joten tähän valintaruutuun on tavallisesti syytä jättää rasti.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T115435Z" creationid="piav" creationdate="20191127T110701Z">
+        <seg>Lausetason segmentointi on tavallisin lähdetiedostojen segmentointitapa, joten tähän ruutuun on tavallisesti syytä jättää rasti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23450,6 +24570,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T143312Z" creationid="piav" creationdate="20191030T143312Z">
         <seg>Etuliitteitä (oletuksena tyhjä) voi käyttää merkitsemään sumeilla käännösosumilla täytettyjä kohdesegmenttejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The previous segment with a note will open.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T140158Z" creationid="piav" creationdate="20191202T140158Z">
+        <seg>Edellinen segmentti, jossa on muistiinpano, avautuu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23678,6 +24806,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The segment is opened when either its segment call-out or segment number is entered.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T140056Z" creationid="piav" creationdate="20191202T140056Z">
+        <seg>Segmentti avautuu joko sitä kutsuttaessa tai kun sen numero kirjoitetaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The segmentation rules are generally valid across all the projects.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T114719Z" creationid="piav" creationdate="20191127T114719Z">
@@ -23846,6 +24982,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The tags in OmegaT are greyed, so they are easy to recognise.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T114301Z" creationid="piav" creationdate="20191202T114230Z">
+        <seg>OmegaT-tägit on helppo tunnistaa, sillä ne ovat harmaita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The target filename pattern uses a special syntax, so if you want to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the Edit Pattern Dialog.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T120828Z" creationid="piav" creationdate="20191030T120704Z">
@@ -23890,6 +25034,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T080733Z" creationid="piav" creationdate="20191022T080733Z">
         <seg>Kolmas sarake on lisätietoja varten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T141439Z" creationid="piav" creationdate="20191202T141439Z">
+        <seg>Valintaikkunan otsikkona on senhetkisen käännettävän tiedoston nimi (joka riippuu siitä, kuinka monta OmegaT-istuntoa on käynnissä yhtä aikaa).</seg>
       </tuv>
     </tu>
     <tu>
@@ -24142,6 +25294,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T114520Z" creationid="piav" creationdate="20191202T114520Z">
+        <seg>Siksi sinun kannattaa tarkistää tägien oikeellisuus ennen kuin luot käännetyt tiedostot. Tee se painamalla &lt;k0&gt;Ctrl+vaihto+V&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore, the location of OmegaT's
 configuration folder cannot be reliably determined.</seg>
       </tuv>
@@ -24155,6 +25315,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T115029Z" creationid="piav" creationdate="20191128T115004Z">
         <seg>Nämä tiedostot eivät poistu automaattisesti myös kääntäjältä, vaan sinun on pyydettävä häntä poistamaan tiedostot käsin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These settings apply to OmegaT level, to all projects.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T142458Z" creationid="piav" creationdate="20191202T142458Z">
+        <seg>Nämä asetukset ovat voimassa OmegaT:n laajuisesti ja kaikissa projekteissa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24185,8 +25353,16 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>They are displayed as &lt;EMPTY&gt; in the Editor.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T142459Z" creationid="piav" creationdate="20191030T142409Z">
-        <seg>Ne näkyvät Editorissa &lt;EMPTY&gt;-merkinnällä varustettuina.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T135208Z" creationid="piav" creationdate="20191030T142409Z">
+        <seg>Ne näkyvät Editorissa &lt;TYHJÄ&gt;-merkinnällä varustettuina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T114349Z" creationid="piav" creationdate="20191202T114245Z">
+        <seg>Tägit ovat suojeltuja, joten et voi muokata niiden sisältöä. Voit kuitenkin poistaa tägejä, kirjoittaa niitä käsin ja siirtää niiden paikkaa kohdesegmentissä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24323,6 +25499,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can apply also to &lt;g0&gt;Target term&lt;/g0&gt; and &lt;g1&gt;Comment &lt;/g1&gt;fields if new selections are made and &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; pressed again.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T130737Z" creationid="piav" creationdate="20191202T130616Z">
+        <seg>Voit täyttää kentät &lt;g0&gt;Kohdekielinen termi&lt;/g0&gt; ja &lt;g1&gt;Kommentti&lt;/g1&gt; samalla tavalla: valitse uusi tekstinpätkä ja paina näppäinyhdistelmää &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;vaihto&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can be achieved (for Déjà Vu DVX) by use of Déjà Vu's "External View" file format.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T154823Z" creationid="PiaVee" creationdate="20171014T154823Z">
@@ -24367,6 +25551,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T114618Z" creationid="piav" creationdate="20191201T114618Z">
         <seg>Tämä komento vaihtaa kansioksi suoritettavan &lt;a0&gt;OmegaT&lt;/a0&gt;-tiedoston sisältävän kansion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This command does not work once the modified segment has been validated.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T121531Z" creationid="piav" creationdate="20191202T121226Z">
+        <seg>Komentoa ei voi käyttää sen jälkeen, kun muokattu segmentti on vahvistettu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24456,6 +25648,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T081153Z" creationid="piav" creationdate="20191022T081153Z">
         <seg>Tässä tiedostomuodossa erotinmerkkinä käytetään pilkkua: lähdekielinen termi, kohdekielinen termi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This function is specific to team projects.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T143826Z" creationid="piav" creationdate="20191202T143826Z">
+        <seg>Tämä on ryhmäprojekteihin kuuluva erityistoiminto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24656,6 +25856,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T132543Z" creationid="piav" creationdate="20191127T130526Z">
         <seg>Jos siis lähdekieltä kirjoitetaan vasemmalta oikealle ja kohdekieltä oikealta vasemmalle (tai päin vastoin), on tarpeen pystyä vaihtamaan helposti RTL- ja LTR-tilojen välillä, jotta lähdeteksti näkyy omassa tilassaan oikein ja että kohdetekstin saa omassa tilassaan kirjoitettua oikein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This menu displays entries only when a project is open.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T121048Z" creationid="piav" creationdate="20191202T121048Z">
+        <seg>Tämän valikon kohdat näkyvät vain silloin, kun projekti on avoinna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24968,8 +26176,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>To create a project-specific set of file filters, click on the &lt;g0&gt;File filter ... &lt;/g0&gt;button, then activate &lt;g1&gt;Enable project specific filters&lt;/g1&gt; check box in the window that opens.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T120629Z" creationid="piav" creationdate="20191127T115732Z">
-        <seg>Luo projektikohtainen tiedostosuodatinsetti napsauttamalla &lt;g0&gt;Tiedostosuodattimet…&lt;/g0&gt;-painiketta, jolloin avautuu uusi ikkuna. Laita rasti &lt;g1&gt;Tee suodattimista projektikohtaiset&lt;/g1&gt; -valintaruutuun.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T115503Z" creationid="piav" creationdate="20191127T115732Z">
+        <seg>Luo projektikohtainen tiedostosuodatinsetti napsauttamalla &lt;g0&gt;Tiedostosuodattimet…&lt;/g0&gt;-painiketta, jolloin avautuu uusi ikkuna. Laita rasti &lt;g1&gt;Tee suodattimista projektikohtaiset&lt;/g1&gt; -ruutuun.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25008,16 +26216,16 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>To delete project specific file filters, uncheck the check box.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T120419Z" creationid="piav" creationdate="20191127T120419Z">
-        <seg>Poista projektikohtaiset tiedostosuodattimet poistamalla rasti valintaruudusta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T115515Z" creationid="piav" creationdate="20191127T120419Z">
+        <seg>Poista projektikohtaiset tiedostosuodattimet ottamalla rasti pois ruudusta.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>To delete project specific segmentation rules, uncheck the check box.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T120426Z" creationid="piav" creationdate="20191127T115232Z">
-        <seg>Poista projektikohtaiset segmentointisäännöt poistamalla rasti valintaruudusta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T115457Z" creationid="piav" creationdate="20191127T115232Z">
+        <seg>Poista projektikohtaiset segmentointisäännöt ottamalla rasti pois ruudusta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25048,8 +26256,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>To enable the spell checker, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt; and tick the &lt;g1&gt;Automatically check the spelling of text&lt;/g1&gt; check box (see above).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T105049Z" creationid="piav" creationdate="20191023T113447Z">
-        <seg>Ota oikeinkirjoituksen tarkistuksen käyttöön kohdassa &lt;g0&gt;Valinnat &gt; Oikeinkirjoituksen tarkistus &lt;/g0&gt; ja laita &lt;g1&gt;Tarkista oikeinkirjoitus automaattisesti&lt;/g1&gt; -valintaruutuun rasti (ks. yllä).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T115340Z" creationid="piav" creationdate="20191023T113447Z">
+        <seg>Ota oikeinkirjoituksen tarkistuksen käyttöön kohdassa &lt;g0&gt;Valinnat &gt; Oikeinkirjoituksen tarkistus &lt;/g0&gt; ja laita &lt;g1&gt;Tarkista oikeinkirjoitus automaattisesti&lt;/g1&gt; -ruutuun rasti (ks. yllä).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25152,8 +26360,16 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>To obtain more literal matches closer to 100%, select the &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T083853Z" creationid="piav" creationdate="20191127T083646Z">
-        <seg>Laita &lt;g0&gt;Koko teksti tägeineen ja numeroineen&lt;/g0&gt; -valintaruutuun rasti, niin saat kirjaimellisempia ja lähempänä 100 % olevia osumia.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T115430Z" creationid="piav" creationdate="20191127T083646Z">
+        <seg>Laita &lt;g0&gt;Koko teksti tägeineen ja numeroineen&lt;/g0&gt; -ruutuun rasti, niin saat kirjaimellisempia ja lähempänä 100 % olevia osumia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T115558Z" creationid="piav" creationdate="20191202T115101Z">
+        <seg>Näppäinyhdistelmä &lt;k0&gt;Ctrl+E&lt;/k0&gt; avaa projektin ominaisuuksien valintaikkunan, josta löydät projektin alkuasetukset painamalla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25162,6 +26378,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T123737Z" creationid="piav" creationdate="20191201T123737Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;:tä voi ajaa komentorivitilassa vain, kun on olemassa kelvollinen &lt;a1&gt;OmegaT&lt;/a1&gt;-projekti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To see a list of files in the project, open the &lt;g1&gt;Project Files&lt;/g1&gt; dialog by pressing &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T115616Z" creationid="piav" creationdate="20191202T115253Z">
+        <seg>Näppäinyhdistelmä &lt;k2&gt;Ctrl+L&lt;/k2&gt; avaa &lt;g1&gt;Projektin tiedostot&lt;/g1&gt;-valintaikkunan, josta näet luettelon projektin tiedostoista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25186,6 +26410,22 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T111549Z" creationid="piav" creationdate="20191201T111549Z">
         <seg>Kun käynnistät OmegaT:n ensimmäistä kertaa Java Web Startin avulla, kirjoita seuraava URL selaimesi osoiteriville:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T111721Z" creationid="piav" creationdate="20191202T111721Z">
+        <seg>Ensimmäisellä OmegaT-käyttökerralla sinun on luotava projekti, jossa on kaikki tarvitsemasi tiedostot kuten lähdetiedostot, käännösmuistit, sanastota ja lopulta myös kääntämäsi tiedosto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To translate the contents of a Wikipedia page (for example):</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T142948Z" creationid="piav" creationdate="20191202T142948Z">
+        <seg>Näin käännät (esimerkiksi) Wikipedia-sivun sisällön:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25386,6 +26626,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T122255Z" creationid="piav" creationdate="20191128T122255Z">
         <seg>PDF-tiedoston kääntäminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translate the file</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T113158Z" creationid="piav" creationdate="20191202T113158Z">
+        <seg>Käännä tiedosto</seg>
       </tuv>
     </tu>
     <tu>
@@ -26221,6 +27469,22 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Uploads to the repository the files that have been added or modified locally in the &lt;f0&gt;source&lt;/f0&gt; directory.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T143902Z" creationid="piav" creationdate="20191202T143735Z">
+        <seg>Paikallisesti muokatut tai projektiin lisätyt &lt;f0&gt;source&lt;/f0&gt;-kansion tiedostot ladataan etävarastoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uploads to the repository the files that have been created locally in the &lt;f0&gt;target&lt;/f0&gt; directory.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T143936Z" creationid="piav" creationdate="20191202T143844Z">
+        <seg>Paikallisesti luodut &lt;f0&gt;target&lt;/f0&gt;-kansion tiedostot ladataan etävarastoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Urdu</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082219Z" creationid="PiaVee" creationdate="20171015T082219Z">
@@ -26313,6 +27577,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T105449Z" creationid="piav" creationdate="20191129T105449Z">
         <seg>Käytä &lt;a0&gt;OmegaT&lt;/a0&gt;:n oletussuodatinta (PDF input), käännä, luo kohdetiedosto (vain teksti -tiedosto) ja lisää tarvittavat muotoilut ja muut elementit käsin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; to cycle through the four alternatives.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T133419Z" creationid="piav" creationdate="20191202T133419Z">
+        <seg>Näppäinyhdistelmällä &lt;k0&gt; &lt;k1&gt;vaihto&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; voit kiertää näiden neljän vaihtoehdon välillä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26485,6 +27757,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use this command to register the translation to be identical to the source, even if &lt;l0&gt;&lt;g1&gt;Allow translation to be equal to source&lt;/g1&gt;&lt;/l0&gt; is not checked.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T135410Z" creationid="piav" creationdate="20191202T135410Z">
+        <seg>Käytä tätä komentoa merkitsemään käännös samaksi kuin lähdeteksti silloinkin, kun &lt;l0&gt;Käännös saa olla sama kuin lähdeteksti&lt;g1&gt;-valintaa ei ole valittu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use this feature when you have undocked, moved or hidden one or more components and you are unable to restore the desired arrangement.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T074946Z" creationid="piav" creationdate="20191030T074843Z">
@@ -26553,6 +27833,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T065607Z" creationid="PiaVee" creationdate="20171219T093754Z">
         <seg>Käsikirjat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User's Manual...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T140718Z" creationid="piav" creationdate="20191202T140718Z">
+        <seg>Käyttäjän käsikirja…</seg>
       </tuv>
     </tu>
     <tu>
@@ -26697,6 +27985,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T075856Z" creationid="piav" creationdate="20191127T075856Z">
         <seg>Tarkista tägit segmentistä poistuttaessa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate your tags</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T113918Z" creationid="piav" creationdate="20191202T113918Z">
+        <seg>Tarkista tägit</seg>
       </tuv>
     </tu>
     <tu>
@@ -27079,6 +28375,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When the user exits &lt;a0&gt;OmegaT&lt;/a0&gt;, this file is not emptied, in order to be consistent with usual clipboard behavior.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T122954Z" creationid="piav" creationdate="20191202T122954Z">
+        <seg>Kun käyttäjä lopettaa &lt;a0&gt;OmegaT&lt;/a0&gt;-istunnon, tiedostoa ei tyhjennetä (yhdenmukainen käytäntö leikepöydän kanssa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When this file is executed, the commands within it are automatically carried out.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T115130Z" creationid="piav" creationdate="20191201T115130Z">
@@ -27167,6 +28471,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you have finished your translation, to import it into Wikipedia:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T143139Z" creationid="piav" creationdate="20191202T143139Z">
+        <seg>Kun olet saanut käännöksen valmiiksi, vie se Wikipediaan:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T094110Z" creationid="piav" creationdate="20191127T134252Z">
@@ -27195,6 +28507,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T110325Z" creationid="piav" creationdate="20191128T074415Z">
         <seg>Aina kun saat käännösprojektin valmiiksi, kopioi yksi projektin pääkansiossa olevista "vientikäännösmuisteista" tähän tietovarastokansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T113808Z" creationid="piav" creationdate="20191202T113808Z">
+        <seg>Luo käännetyt asiakirjat näppäinyhdistelmällä &lt;k2&gt;Ctrl+D&lt;/k2&gt;. Voit käyttää sitä aina kun haluat nähdä, miltä käännöksesi näyttää lopullisessa muodossaan. OmegaT luo käännetyt asiakirjat projektin &lt;f3&gt;/target/&lt;/f3&gt;-alikansioon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27277,6 +28597,22 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T133108Z" creationid="piav" creationdate="20191201T133108Z">
         <seg>Kun tämä parametri on käytössä, tiedostoa ei lukita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With this command you can move backward one segment at a time, to return later to the current segment using &lt;g0&gt;Forward in history...&lt;/g0&gt;command below.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T140657Z" creationid="piav" creationdate="20191202T140657Z">
+        <seg>Valitse tämä, niin voit liikkua taaksepäin käännöshistoriassa segmentti kerrallaan. Voit sitten palata tämänhetkiseen segmenttiin valitsemalla &lt;g0&gt;Siirry historiassa eteenpäin…&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With this command you can step forward to the segment, you have previously left by the &lt;g1&gt;Back in history&lt;/g1&gt;... command.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T140531Z" creationid="piav" creationdate="20191202T140514Z">
+        <seg>Valitse tämä, niin pääset segmenttiin, josta poistuit &lt;g1&gt;Siirry historiassa taaksepäin…&lt;/g1&gt;-komennolla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27673,6 +29009,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T120426Z" creationid="piav" creationdate="20191202T120423Z">
+        <seg>Voit lisätä uuden termin sanastoon painamalla näppäinyhdistelmää &lt;k0&gt;Ctrl+vaihto+G&lt;/k0&gt; tai kopioimalla olemassa olevia sanastoja projektin &lt;f1&gt;/glossary/&lt;/f1&gt;-alikansioon. Tällöin OmegaT etsii automaattisesti sanoja niistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also &lt;c3&gt;cd&lt;/c3&gt; there directly from the command line and open &lt;f4&gt;Configuration.properties&lt;/f4&gt; in a command line editor like emacs or vi.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T102526Z" creationid="piav" creationdate="20191201T102526Z">
@@ -27741,6 +29085,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T112058Z" creationid="piav" creationdate="20191030T112058Z">
         <seg>Voit asettaa jokaiselle erilaiselle lähdetiedoston nimen kuviolle oman merkistökoodauksensa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T114954Z" creationid="piav" creationdate="20191202T114954Z">
+        <seg>Voit luoda jokaiselle käännöstyölle uuden projektin, ja voit lisätä projektiin uusia lähdetiedostoja milloin tahansa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30183,6 +31535,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T135516Z" creationid="piav" creationdate="20191127T135516Z">
         <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T120630Z" creationid="piav" creationdate="20191202T120630Z">
+        <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
       </tuv>
     </tu>
     <tu>
