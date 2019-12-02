@@ -2699,6 +2699,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T145943Z" creationid="piav" creationdate="20191202T145943Z">
+        <seg>&lt;g0&gt;LanguageTool-virheet&lt;/g0&gt; (valinnainen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T113610Z" creationid="piav" creationdate="20191128T113610Z">
@@ -2709,8 +2717,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T145743Z" creationid="piav" creationdate="20191202T145645Z">
-        <seg>&lt;g0&gt;Oikeinkirjoitusvirheet&lt;/g0&gt; (valinnainen).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T145914Z" creationid="piav" creationdate="20191202T145645Z">
+        <seg>&lt;g0&gt;oikeinkirjoitusvirheet&lt;/g0&gt; (valinnainen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T145917Z" creationid="piav" creationdate="20191202T145816Z">
+        <seg>&lt;g0&gt;terminologiaongelmat) (valinnainen</seg>
       </tuv>
     </tu>
     <tu>
@@ -10832,8 +10848,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Four types of issues are detected:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T145520Z" creationid="piav" creationdate="20191202T145520Z">
-        <seg>Työkalu havaitsee neljänlaisia seikkoja:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T145852Z" creationid="piav" creationdate="20191202T145520Z">
+        <seg>Työkalu havaitsee seuraavat neljä ongelmaa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24822,6 +24838,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The results window is laid out in the form of a table in which:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T150151Z" creationid="piav" creationdate="20191202T150151Z">
+        <seg>Tulokset näkyvät omassa ikkunassaan, ja tulostaulukko toimii näin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The rules applied (if any) will depend on the source and target language of the project.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T145843Z" creationid="PiaVee" creationdate="20171014T145843Z">
@@ -32615,7 +32639,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>missing or displaced tags, including &lt;l0&gt;custom tags&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T145726Z" creationid="piav" creationdate="20191202T145556Z">
+      <tuv lang="FI" changeid="piav" changedate="20191202T145912Z" creationid="piav" creationdate="20191202T145556Z">
         <seg>puuttuvat tai väärin sijoitetut tavanomaiset ja mukautetut tägit.</seg>
       </tuv>
     </tu>
