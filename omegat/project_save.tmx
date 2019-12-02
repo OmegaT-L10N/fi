@@ -4125,8 +4125,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Align</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T132302Z" creationid="piav" creationdate="20190920T132302Z">
-        <seg>Kohdista</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T151336Z" creationid="piav" creationdate="20190920T132302Z">
+        <seg>Kohdistus</seg>
       </tuv>
     </tu>
     <tu>
@@ -17312,8 +17312,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T120332Z" creationid="piav" creationdate="20191030T120207Z">
-        <seg>Tietyt tiedostomuodot käyttävät pakollista merkistökoodausta, ja OmegaT käyttää tätä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T151515Z" creationid="piav" creationdate="20191030T120207Z">
+        <seg>Tietyt tiedostomuodot (Java-ominaisuudet ym.) käyttävät pakollista merkistökoodausta, ja OmegaT käyttää tätä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21733,8 +21733,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Select the two files to be aligned (the source file and its translation) and click OK to open the &lt;l0&gt;&lt;g1&gt;Align&lt;/g1&gt; window&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T151257Z" creationid="piav" creationdate="20191202T151257Z">
-        <seg>Valitse kaksi kohdistettavaa tiedostoa (lähdetiedosto ja sen käännös) ja napsauta OK, niin &lt;l0&gt;&lt;g1&gt;Kohdistus</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T151352Z" creationid="piav" creationdate="20191202T151257Z">
+        <seg>Valitse kaksi kohdistettavaa tiedostoa (lähdetiedosto ja sen käännös) ja napsauta OK, niin &lt;l0&gt;&lt;g1&gt;Kohdistus&lt;/g1&gt;-ikkuna&lt;/l0&gt; avautuu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25106,6 +25106,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T114316Z" creationid="piav" creationdate="20191023T114316Z">
         <seg>Oikeinkirjoituksen tarkistus tunnistaa käytettävän sanakirjan kohdekielen kielikoodin perusteella. Jos kohdekielenä on brasilianportugali (PT_BR), sanakirjojen alikansiossa on oltava kaksi samannimistä sanakirjatiedostoa, &lt;e0&gt;pt_br.aff&lt;/e0&gt; ja &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The supported file formats are those listed in &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;File Filters&lt;/g3&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T151607Z" creationid="piav" creationdate="20191202T151421Z">
+        <seg>Löydät tuettujen tiedostomuotojen luettelon kohdasta &lt;m0&gt; &lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;Ominaisuudet&lt;/g2&gt; &lt;g3&gt;Tiedostosuodattimet&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
