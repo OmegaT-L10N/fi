@@ -4783,6 +4783,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As above, but only for the document currently displayed in the Editor pane.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T150503Z" creationid="piav" creationdate="20191202T150503Z">
+        <seg>Valinta toimii edellä kuvattuun tapaan, mutta koskee vain Editori-ruudussa näkyvää tiedostoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As above.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T121629Z" creationid="piav" creationdate="20191128T121629Z">
@@ -6034,6 +6042,14 @@ may experience unexpected, but correct behaviour.</seg>
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T065148Z" creationid="PiaVee" creationdate="20171015T111303Z">
+        <seg>Tarkista nykyisen asiakirjan ongelmakohdat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Issues for Current Document</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T150427Z" creationid="piav" creationdate="20191202T150427Z">
         <seg>Tarkista nykyisen asiakirjan ongelmakohdat</seg>
       </tuv>
     </tu>
@@ -17862,6 +17878,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T134722Z" creationid="piav" creationdate="20191202T130753Z">
         <seg>Uusi &lt;l0&gt;Hakuikkuna&lt;/l0&gt; avautuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens a new window and displays the project statistics, i.e. the project totals and totals for every file in the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T150734Z" creationid="piav" creationdate="20191202T150734Z">
+        <seg>Projektitilastot eli projektin yhteiset sekä projektitiedostokohtaiset lukemat avautuvat uudessa ikkunassa.</seg>
       </tuv>
     </tu>
     <tu>
