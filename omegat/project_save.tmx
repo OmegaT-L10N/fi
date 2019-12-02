@@ -12054,6 +12054,30 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, non-unique segments will be marked in pale grey.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T183813Z" creationid="piav" creationdate="20191202T183648Z">
+        <seg>Jos tässä kohdassa on rasti, toistuvat segmentit kirjoitetaan vaaleanharmaalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, segments with notes will be marked in cyan.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T183906Z" creationid="piav" creationdate="20191202T183906Z">
+        <seg>Jos tässä kohdassa on rasti, muistiinpanoja sisältävien segmenttien taustaväri on syaani.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, source segments will be shown and marked in green.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T183523Z" creationid="piav" creationdate="20191202T152942Z">
+        <seg>Jos tässä kohdassa on rasti, käännettyjen segmenttien lähde- ja kohdeteksti näytetään yhtä aikaa, ja lähdetekstin taustaväri on vihreä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T070515Z" creationid="piav" creationdate="20190522T070515Z">
@@ -12070,18 +12094,26 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, the separations between paragraphs in the source document are indicated visually.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T152904Z" creationid="piav" creationdate="20191202T152904Z">
+        <seg>Jos tässä kohdassa on rasti, lähdeasiakirjassa olevat välit kappaleiden välillä näytetään visuaalisesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, the translated segments will be marked in yellow.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T152740Z" creationid="piav" creationdate="20191202T152740Z">
-        <seg>Jos tässä kohdassa on rasti, käännetyt segmentit merkitään keltaisella.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T183250Z" creationid="piav" creationdate="20191202T152740Z">
+        <seg>Jos tässä kohdassa on rasti, käännettyjen segmenttien taustaväri on keltainen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If checked, the untranslated segments will be marked in violet.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T152800Z" creationid="piav" creationdate="20191202T152800Z">
-        <seg>Jos tässä kohdassa on rasti, kääntämättömät segmentit merkitään violetilla.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T183308Z" creationid="piav" creationdate="20191202T152800Z">
+        <seg>Jos tässä kohdassa on rasti, kääntämättömien segmenttien taustaväri on violetti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12181,6 +12213,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T151929Z" creationid="piav" creationdate="20191202T133440Z">
         <seg>Jos tekstiä ei ole valittu, &lt;a3&gt;OmegaT&lt;/a3&gt; valitsee sanan, johon heti kohdistimen vieressä oikealla puolella oleva kirjain kuuluu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If not checked, source segments will not be shown.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T183430Z" creationid="piav" creationdate="20191202T152959Z">
+        <seg>Jos kohdassa ei ole rastia, käännettyjen segmenttien lähdetekstiä ei näytetä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12443,16 +12483,16 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T143514Z" creationid="piav" creationdate="20191029T102238Z">
-        <seg>Kun tässä kohdassa on rasti, sanastossa näkyy vain yksi osuma, vaikka samasta sanasta olisi useita muotoja, joissa isoja ja pieniä kirjaimia käytetään eri tavoin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T183555Z" creationid="piav" creationdate="20191029T102238Z">
+        <seg>Jos tässä kohdassa on rasti, sanastossa näkyy vain yksi osuma, vaikka samasta sanasta olisi useita muotoja, joissa isoja ja pieniä kirjaimia käytetään eri tavoin.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T073318Z" creationid="piav" creationdate="20191030T143438Z">
-        <seg>Kun tässä kohdassa on rasti, OmegaT yrittää muuttaa manuaalisesti tai automaattisesti lisätyssä sumeassa osumassa olevat numerot lähdetekstin mukaisiksi.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T183605Z" creationid="piav" creationdate="20191030T143438Z">
+        <seg>Jos tässä kohdassa on rasti, OmegaT yrittää muuttaa manuaalisesti tai automaattisesti lisätyssä sumeassa osumassa olevat numerot lähdetekstin mukaisiksi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23898,8 +23938,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The PO header will be skipped and left unchanged if this option is checked.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T143522Z" creationid="piav" creationdate="20191030T094406Z">
-        <seg>Kun tässä kohdassa on rasti, PO-otsaketta ei muuteta vaan se ohitetaan.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191202T183601Z" creationid="piav" creationdate="20191030T094406Z">
+        <seg>Jos tässä kohdassa on rasti, PO-otsaketta ei muuteta vaan se ohitetaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26096,6 +26136,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T063704Z" creationid="PiaVee" creationdate="20170930T063430Z">
         <seg>Tätä käyttöohjekirjaa ei kuitenkaan olisi olemassa ilman monen ihmisen apua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This marking has priority over &lt;g0&gt;Mark Translated Segments&lt;/g0&gt; and &lt;g1&gt;Mark Untranslated Segments&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T184030Z" creationid="piav" creationdate="20191202T184030Z">
+        <seg>Tämä merkintä on etusijalla valintoihin &lt;g0&gt;Merkitse käännetyt segmentit&lt;/g0&gt; ja &lt;g1&gt;Merkitse kääntämättömät segmentit&lt;/g1&gt; nähden.</seg>
       </tuv>
     </tu>
     <tu>
