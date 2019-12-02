@@ -8381,6 +8381,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T151042Z" creationid="piav" creationdate="20191202T151042Z">
+        <seg>Osumatilastot avautuvat uudessa ikkunassa: Jokaisessa projektin tiedostossa olevat toistojen määrät, täydelliset osumat, sumeat osumat ja ei lainkaan osumia ilmoitetaan sekä segmentteinä, sanoina että merkkeinä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the Match Statistics for the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191202T150941Z" creationid="piav" creationdate="20191202T150941Z">
+        <seg>Projektin osumatilastot avautuvat uudessa ikkunassa:  Toistojen määrät, täydelliset osumat, sumeat osumat ja ei lainkaan osumia ilmoitetaan sekä segmentteinä, sanoina että merkkeinä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the current log file.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T141307Z" creationid="piav" creationdate="20191202T141307Z">
