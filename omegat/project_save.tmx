@@ -8085,6 +8085,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending upon the preferred editing behavior, the editing field for the untranslated segment may be empty, contain the source text, or contain the translation of the string most similar to the one to be translated.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T141130Z" creationid="piav" creationdate="20191203T141130Z">
+        <seg>Kääntämättömän segmentin muokkauskenttä voi sopivasta käännös- ja muokkaustavasta riippuen olla tyhjä, siinä voi olla lähdekielinen teksti tai käännettävää tekstiä lähinnä oleva käännös.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Description</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081804Z" creationid="piav" creationdate="20190522T081804Z">
@@ -13265,6 +13273,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In that case, yy is the number of other occurrences of the segment in the project.&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T140849Z" creationid="piav" creationdate="20191203T140805Z">
+        <seg>Merkinnän yy osoittaa, kuinka monta muuta kertaa segmentti esiintyy projektissa.&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In that dialog, it's possible to select All domains or a specific one.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T120108Z" creationid="PiaVee" creationdate="20171014T120108Z">
@@ -17064,8 +17080,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191203T140732Z" creationid="piav" creationdate="20191203T140732Z">
-        <seg>Huom.: Segmentin loppumerkki &lt;l0&gt;&lt;segment nnnn + yymore tarkoittaa, että segmentti on toistuva.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191203T140847Z" creationid="piav" creationdate="20191203T140732Z">
+        <seg>Huom.: Segmentin loppumerkki &lt;l0&gt;&lt;segment nnnn + yymore&gt; tarkoittaa, että segmentti on toistuva.</seg>
       </tuv>
     </tu>
     <tu>
