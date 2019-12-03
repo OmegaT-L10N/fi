@@ -28881,8 +28881,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>When this is done the panes display a tab at the top.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191203T133828Z" creationid="piav" creationdate="20191203T133828Z">
-        <seg>Tällöin ruudut ovat omilla välilehdillään, ja välilehtipalkki näkyy ruudun yläosassa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191203T133931Z" creationid="piav" creationdate="20191203T133828Z">
+        <seg>Tällöin välilehtipalkki näkyy ruudun yläosassa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29692,8 +29692,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       <tuv lang="EN">
         <seg>You can overlap panes if desired.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191203T133739Z" creationid="piav" creationdate="20191203T133739Z">
-        <seg>Käyttäjä voi asettaa ruudut limittäin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191203T133918Z" creationid="piav" creationdate="20191203T133739Z">
+        <seg>Käyttäjä voi pinota ruudut eri välilehdille.</seg>
       </tuv>
     </tu>
     <tu>
