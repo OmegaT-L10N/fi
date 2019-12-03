@@ -12857,6 +12857,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want the translation to be the same as the source, simply make the editing field empty by removing all the text (select all with &lt;k0&gt;Ctrl+A&lt;/k0&gt; and delete with &lt;k1&gt;Del&lt;/k1&gt;).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T141330Z" creationid="piav" creationdate="20191203T141330Z">
+        <seg>Jos haluat, että käännös on sama kuin lähdeteksti, poista muokkauskentän teksti (valitse koko teksti näppäinyhdistelmällä &lt;k0&gt;Ctrl+A&lt;/k0&gt; ja poista se &lt;k1&gt;Del&lt;/k1&gt;-näppäimellä).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T121130Z" creationid="piav" creationdate="20191030T120907Z">
@@ -29115,6 +29123,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T143139Z" creationid="piav" creationdate="20191202T143139Z">
         <seg>Kun olet saanut käännöksen valmiiksi, vie se Wikipediaan:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you move to another segment, the translation is validated and stored.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T141203Z" creationid="piav" creationdate="20191203T141150Z">
+        <seg>Kun siirryt seuraavaan segmenttiin, käännös vahvistetaan ja tallennetaan käännösmuistiin.</seg>
       </tuv>
     </tu>
     <tu>
