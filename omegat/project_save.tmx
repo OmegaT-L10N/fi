@@ -9200,8 +9200,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Editor pane: If an OmegaT project file (&lt;f0&gt;omegat.project&lt;/f0&gt;) is dropped on this pane, the corresponding project will be opened, closing first any opened project.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191203T134839Z" creationid="piav" creationdate="20191203T134839Z">
-        <seg>Editori-ruutu: Jos pudotat tähän ruutuun OmegaT-projektitiedoston (&lt;f0&gt;omegat.project&lt;/f0&gt;), ohjelma avaa sen tallennettuaan ja suljettuaan ensin avattuna olleen projektin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191203T135018Z" creationid="piav" creationdate="20191203T134839Z">
+        <seg>Editori-ruutu: Kun pudotat tähän ruutuun OmegaT-projektitiedoston (&lt;f0&gt;omegat.project&lt;/f0&gt;), ohjelma avaa sen tallennettuaan ja suljettuaan ensin avattuna olleen projektin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11078,6 +11078,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fuzzy Matches pane: Dropped &lt;f0&gt;.tmx&lt;/f0&gt; files will be copied to the &lt;f1&gt;tm&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T135052Z" creationid="piav" creationdate="20191203T135012Z">
+        <seg>Sumeiden osumien ruutu: Ruutuun pudotettu &lt;f0&gt;.tmx&lt;/f0&gt;-tiedosto kopioidaan avattuna olevan projektin &lt;f1&gt;tm&lt;/f1&gt;-kansioon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>GNOME Users</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T094318Z" creationid="piav" creationdate="20191201T094318Z">
@@ -11346,6 +11354,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T083941Z" creationid="piav" creationdate="20191022T074017Z">
         <seg>Sanastoruutu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary pane: Dropped files with known glossary extensions (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) will be copied to the &lt;f2&gt;glossary&lt;/f2&gt; folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T135133Z" creationid="piav" creationdate="20191203T135133Z">
+        <seg>Sanastoruutu: </seg>
       </tuv>
     </tu>
     <tu>
@@ -18358,6 +18374,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T182450Z" creationid="piav" creationdate="20190521T181601Z">
         <seg>Muut avustajat esitellään tarkemmin readme.txt-tiedostossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other dropped files will be copied to the &lt;f1&gt;source&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T134913Z" creationid="piav" creationdate="20191203T134913Z">
+        <seg>Muut ruutuun pudotetut tiedostot kopioidaan avattuna olevan projektin &lt;f1&gt;source&lt;/f1&gt;-kansioon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25927,6 +25951,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T134818Z" creationid="piav" creationdate="20191030T134818Z">
         <seg>Tämä on poikkeussääntö, joten säännön valintaruutuun ei saa laittaa rastia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This applies also to the &lt;l2&gt;Project files&lt;/l2&gt; window.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T134958Z" creationid="piav" creationdate="20191203T134958Z">
+        <seg>&lt;l2&gt;Projektin tiedostot&lt;/l2&gt; toimii samalla tavoin.</seg>
       </tuv>
     </tu>
     <tu>
