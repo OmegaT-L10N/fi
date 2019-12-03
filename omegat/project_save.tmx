@@ -16958,6 +16958,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: on Windows it seems that this manual font fallback mechanism can interfere with standard font fallback, causing undesirable font substitution.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T130627Z" creationid="piav" creationdate="20191203T130627Z">
+        <seg>Huom: Manuaalinen fontin varmistusmekanismi saattaa häiritä Windows-koneiden oletusmuotoista fontin varmistusta, mikä saa fonttien vaihtumisen ei-toivotulla tavalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: the &lt;f0&gt;.tbx&lt;/f0&gt; output of MultiTerm seems to not be reliable (November 2013), it is better to use the &lt;f1&gt;.tab&lt;/f1&gt; output of MultiTerm instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T082649Z" creationid="piav" creationdate="20191022T082649Z">
