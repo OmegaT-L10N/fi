@@ -24816,8 +24816,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The main window consists of several panes, the main menu and a status bar.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191203T133010Z" creationid="piav" creationdate="20191203T133010Z">
-        <seg>OmegaT:n päänäytössä on useita ruutuja, päävalikko ja tilarivi.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191203T133626Z" creationid="piav" creationdate="20191203T133010Z">
+        <seg>OmegaT:n pääikkuna on useita ruutuja, päävalikko ja tilarivi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25258,6 +25258,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T111333Z" creationid="piav" creationdate="20191023T111333Z">
         <seg>Valittujen kielten asentaminen voi kestää jonkin aikaa, mutta näet ne lopulta kielentarkistinikkunassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The separators between the panes can be dragged to resize panes.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T133902Z" creationid="piav" creationdate="20191203T133902Z">
+        <seg>Vetäämällä ruutujen välistä erotinta </seg>
       </tuv>
     </tu>
     <tu>
@@ -28871,6 +28879,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When this is done the panes display a tab at the top.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T133828Z" creationid="piav" creationdate="20191203T133828Z">
+        <seg>Tällöin ruudut ovat omilla välilehdillään, ja välilehtipalkki näkyy ruudun yläosassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T073259Z" creationid="piav" creationdate="20191029T101248Z">
@@ -29670,6 +29686,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T100826Z" creationid="piav" creationdate="20191201T100736Z">
         <seg>Voit muokata OmegaT:n käyttäytymistä sekä &lt;e0&gt;Asetukset&lt;/e0&gt;-kohdassa että muokkaamalla paketin &lt;f1&gt;Configuration.properties&lt;/f1&gt;-tietoa. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can overlap panes if desired.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T133739Z" creationid="piav" creationdate="20191203T133739Z">
+        <seg>Käyttäjä voi asettaa ruudut limittäin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34093,6 +34117,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>puts the pane back within the main window</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T133646Z" creationid="piav" creationdate="20191203T133646Z">
+        <seg>asettaa ruudun takaisin pääikkunan osaksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>qu</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081127Z" creationid="PiaVee" creationdate="20171015T081127Z">
@@ -35035,6 +35067,14 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082217Z" creationid="PiaVee" creationdate="20171015T082217Z">
         <seg>ukr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>undocks the pane from the main window</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T133621Z" creationid="piav" creationdate="20191203T133621Z">
+        <seg>irrottaa ruudun pääikkunasta</seg>
       </tuv>
     </tu>
     <tu>
