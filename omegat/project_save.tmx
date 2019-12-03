@@ -17582,6 +17582,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is able to store translations that are identical to the source.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T141355Z" creationid="piav" creationdate="20191203T141355Z">
+        <seg>OmegaT pystyy tallentamaan käännössegmenttejä, jotka ovat samoja kuin lähdeteksti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T151515Z" creationid="piav" creationdate="20191030T120207Z">
@@ -26376,6 +26384,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T125420Z" creationid="PiaVee" creationdate="20171015T125420Z">
         <seg>Näytöllä teksti näyttää tältä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is useful for documents that contain trade marks, names or other proper nouns, or parts in a third language that do not require translation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T141620Z" creationid="piav" creationdate="20191203T141620Z">
+        <seg>Toiminto on hyödyllinen silloin, kun asiakirjoissa on paljon esimerkiksi henkilöiden nimiä, tuotenimiä, tai kolmannella kielellä olevia osia, joita ei tarvitse kääntää.</seg>
       </tuv>
     </tu>
     <tu>
