@@ -18426,6 +18426,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Panes</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T132906Z" creationid="piav" creationdate="20191203T132906Z">
+        <seg>Ruudut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Panjabi, Punjabi</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081005Z" creationid="PiaVee" creationdate="20171015T081005Z">
@@ -24778,6 +24786,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T113641Z" creationid="piav" creationdate="20191201T113641Z">
         <seg>Vastaava sovellus macOS-käyttöjärjestelmässä on Pääte, jonka löydät kohdasta &lt;f0&gt;Ohjelmat &gt; Lisäohjelmat&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The main window consists of several panes, the main menu and a status bar.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T133010Z" creationid="piav" creationdate="20191203T133010Z">
+        <seg>OmegaT:n päänäytössä on useita ruutuja, päävalikko ja tilarivi.</seg>
       </tuv>
     </tu>
     <tu>
