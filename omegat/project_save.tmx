@@ -13305,6 +13305,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the above case, the segments already translated are shown in yellow.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T140104Z" creationid="piav" creationdate="20191203T140104Z">
+        <seg>Yllä olevassa kuvassa jo käännetyt segmentit näkyvät keltaisella pohjalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the following window you can indicate that the language selected is to be used in OmegaT.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T114050Z" creationid="piav" creationdate="20191129T114050Z">
@@ -14109,6 +14117,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T100037Z" creationid="piav" creationdate="20191030T100037Z">
         <seg>Joskus tekstissä on tägejä, joita ei saa kääntää. On hyödyllistä pystyä merkitsemään tällaiset tägit niiden attribuuttien perusteella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is the segment that is displayed in two parts.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T140246Z" creationid="piav" creationdate="20191203T140207Z">
+        <seg>Segmentti näkyy kahtena osana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17854,6 +17870,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T075649Z" creationid="PiaVee" creationdate="20170930T070409Z">
         <seg>Ilman hänen korvaamatonta apuaan englanninkielisestä tekstistä olisi jäänyt puuttumaan vaikka kuinka monta artikkelia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One of the above segments is the current segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T140158Z" creationid="piav" creationdate="20191203T140158Z">
+        <seg>Eräs kuvan segmenteistä on senhetkinen segmentti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25610,6 +25634,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T075643Z" creationid="piav" creationdate="20191022T075643Z">
         <seg>Alleviivattu termi "pop-up menu" on sanastoruudussa "pojavni menu".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: the marker is &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; where nnnn is a number of the segment in the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T140424Z" creationid="piav" creationdate="20191203T140244Z">
+        <seg>Vihreällä pohjalla oleva lihavoitu teksti on lähdekielinen segmentti, ja alempi osa on muokkauskenttä, joka päättyy loppumerkkiin &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt;. Merkin numero nnnn on segmentin numero.</seg>
       </tuv>
     </tu>
     <tu>
