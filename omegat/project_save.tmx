@@ -21531,6 +21531,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;e2&gt;Translation editing&lt;/e2&gt; for more details.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T141641Z" creationid="piav" creationdate="20191203T141641Z">
+        <seg>Lisää tietoa löydät kohdasta &lt;e2&gt;Käännöksen muokkaaminen&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;l0&gt;How to use a team project&lt;/l0&gt; for details.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T142636Z" creationid="piav" creationdate="20191202T142636Z">
