@@ -2613,8 +2613,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Replace:&lt;/e0&gt; operates a "one by one" replacement, by the mean of buttons in the &lt;e1&gt;header of the Editor pane&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T080604Z" creationid="PiaVee" creationdate="20171014T095031Z">
-        <seg>&lt;e0&gt;Korvaa&lt;/e0&gt; korvaa yhden esiintymän kerrallaan. Käytä tätä varten &lt;e1&gt;Editori-ruudun ylätunnisteessa&lt;/e1&gt; olevia painikkeita.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191203T135243Z" creationid="PiaVee" creationdate="20171014T095031Z">
+        <seg>&lt;e0&gt;Korvaa&lt;/e0&gt; korvaa yhden esiintymän kerrallaan. Käytä tätä varten &lt;e1&gt;editoriruudun ylätunnisteessa&lt;/e1&gt; olevia painikkeita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4817,8 +4817,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>As above, but only for the document currently displayed in the Editor pane.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T150503Z" creationid="piav" creationdate="20191202T150503Z">
-        <seg>Valinta toimii edellä kuvattuun tapaan, mutta koskee vain Editori-ruudussa näkyvää tiedostoa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191203T135231Z" creationid="piav" creationdate="20191202T150503Z">
+        <seg>Valinta toimii edellä kuvattuun tapaan, mutta koskee vain editoriruudussa näkyvää tiedostoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9200,8 +9200,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Editor pane: If an OmegaT project file (&lt;f0&gt;omegat.project&lt;/f0&gt;) is dropped on this pane, the corresponding project will be opened, closing first any opened project.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191203T135018Z" creationid="piav" creationdate="20191203T134839Z">
-        <seg>Editori-ruutu: Kun pudotat tähän ruutuun OmegaT-projektitiedoston (&lt;f0&gt;omegat.project&lt;/f0&gt;), ohjelma avaa sen tallennettuaan ja suljettuaan ensin avattuna olleen projektin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191203T135236Z" creationid="piav" creationdate="20191203T134839Z">
+        <seg>Kun pudotat editoriruutuun OmegaT-projektitiedoston (&lt;f0&gt;omegat.project&lt;/f0&gt;), ohjelma avaa sen tallennettuaan ja suljettuaan ensin avattuna olleen projektin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11080,8 +11080,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Fuzzy Matches pane: Dropped &lt;f0&gt;.tmx&lt;/f0&gt; files will be copied to the &lt;f1&gt;tm&lt;/f1&gt; folder.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191203T135052Z" creationid="piav" creationdate="20191203T135012Z">
-        <seg>Sumeiden osumien ruutu: Ruutuun pudotettu &lt;f0&gt;.tmx&lt;/f0&gt;-tiedosto kopioidaan avattuna olevan projektin &lt;f1&gt;tm&lt;/f1&gt;-kansioon</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191203T135306Z" creationid="piav" creationdate="20191203T135012Z">
+        <seg>Sumeiden osumien ruutuun pudotettu &lt;f0&gt;.tmx&lt;/f0&gt;-tiedosto kopioidaan avattuna olevan projektin &lt;f1&gt;tm&lt;/f1&gt;-kansioon</seg>
       </tuv>
     </tu>
     <tu>
@@ -11360,8 +11360,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Glossary pane: Dropped files with known glossary extensions (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) will be copied to the &lt;f2&gt;glossary&lt;/f2&gt; folder.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191203T135133Z" creationid="piav" creationdate="20191203T135133Z">
-        <seg>Sanastoruutu: </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191203T135530Z" creationid="piav" creationdate="20191203T135133Z">
+        <seg>Kun sanastoruutuun pudotetaan sanastotiedosto (tiedostopäätteenä &lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt; tms.), se kopioidaan avattuna olevan projektin &lt;f2&gt;glossary&lt;/f2&gt;-kansioon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31077,8 +31077,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>double-clicking a row activates the corresponding segment in the Editor pane,</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T150239Z" creationid="piav" creationdate="20191202T150239Z">
-        <seg>Kaksoisnapsauttamalla taulukon riviä vastaava segmentti aktivoituu Editori-ruudulla.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191203T135225Z" creationid="piav" creationdate="20191202T150239Z">
+        <seg>Kaksoisnapsauttamalla taulukon riviä vastaava editoriruudun segmentti aktivoituu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32471,8 +32471,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>is not displayed in the Editor pane,</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T121809Z" creationid="piav" creationdate="20191127T121809Z">
-        <seg>ei näy Editori-ruudussa</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191203T135212Z" creationid="piav" creationdate="20191127T121809Z">
+        <seg>ei näy editoriruudussa</seg>
       </tuv>
     </tu>
     <tu>
