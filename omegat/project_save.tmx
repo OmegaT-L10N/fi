@@ -24034,8 +24034,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Editor pane displays the text of the partially translated document: the text already translated is displayed in translation while the untranslated text is displayed in the original language.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191203T135745Z" creationid="piav" creationdate="20191203T135745Z">
-        <seg>Editoriruutu näyttää asiakirjan tekstin osittain käännettynä: kääntämättä oleva teksti näytetään lähdekielellä ja jo käännetty teksti kohdekielellä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191203T135759Z" creationid="piav" creationdate="20191203T135745Z">
+        <seg>Editoriruutu näyttää asiakirjan tekstin osittain käännettynä: kääntämättä oleva teksti on lähdekielellä ja jo käännetty teksti kohdekielellä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24504,6 +24504,14 @@ instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T132909Z" creationid="piav" creationdate="20191127T123941Z">
         <seg>Käännettyjen asiakirjojen näyttötilaa pitää muokata siinä sovelluksessa, jolla asiakirjaa tavallisesti katsellaan tai jolla sitä muokataan (esim. Microsoft Word). Tarkempia ohjeita saat sovelluksen omasta dokumentaatiosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The displayed text is split into segments and you may scroll through the document and double-click on any segment to open and edit it.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T140014Z" creationid="piav" creationdate="20191203T135755Z">
+        <seg>Ruudulla oleva teksti on jaettu segmentteihin. Voit selata koko tekstiä ruudulla, ja voit avata minkä tahansa segmentin kaksoisnapsauttamalla, niin pääset muokkaamaan käännöstä.</seg>
       </tuv>
     </tu>
     <tu>
