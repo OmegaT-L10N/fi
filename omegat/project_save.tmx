@@ -17062,6 +17062,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T140732Z" creationid="piav" creationdate="20191203T140732Z">
+        <seg>Huom.: Segmentin loppumerkki &lt;l0&gt;&lt;segment nnnn + yymore tarkoittaa, että segmentti on toistuva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: these two instructions can be combined by writing &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T082634Z" creationid="piav" creationdate="20191127T082448Z">
@@ -28329,6 +28337,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T082822Z" creationid="PiaVee" creationdate="20170910T082822Z">
         <seg>Käytä OmegaT-asennuksen kieltä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the upper part as a reference and replace or modify the contents of the editing field with your translation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T140601Z" creationid="piav" creationdate="20191203T140601Z">
+        <seg>Kirjoita segmentin yläosan lähdetekstiä vastaava käännöksesi muokkauskentään.</seg>
       </tuv>
     </tu>
     <tu>
