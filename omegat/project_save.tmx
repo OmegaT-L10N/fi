@@ -9198,6 +9198,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editor pane: If an OmegaT project file (&lt;f0&gt;omegat.project&lt;/f0&gt;) is dropped on this pane, the corresponding project will be opened, closing first any opened project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T134839Z" creationid="piav" creationdate="20191203T134839Z">
+        <seg>Editori-ruutu: Jos pudotat tähän ruutuun OmegaT-projektitiedoston (&lt;f0&gt;omegat.project&lt;/f0&gt;), ohjelma avaa sen tallennettuaan ja suljettuaan ensin avattuna olleen projektin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editor...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T142528Z" creationid="piav" creationdate="20191202T142528Z">
@@ -14037,6 +14045,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T120628Z" creationid="piav" creationdate="20191202T120615Z">
         <seg>Voit milloin tahansa etsiä sanoja ja lausekkeita lähdetekstistä ja käännöksestä painamalla näppäinyhdistelmää &lt;k0&gt;Ctrl+F&lt;/k0&gt;. Tämä avaa &lt;g1&gt;Tekstihaku&lt;/g1&gt;-valintaikkunan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is possible to drag and drop files to each pane, which will react accordingly.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T134646Z" creationid="piav" creationdate="20191203T134646Z">
+        <seg>Voit vetää ja pudottaa tiedostoja mihin tahansa ikkunaan, ja ikkuna reagoi sen mukaisesti.</seg>
       </tuv>
     </tu>
     <tu>
