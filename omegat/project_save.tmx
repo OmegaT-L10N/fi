@@ -22275,6 +22275,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt; Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T134613Z" creationid="piav" creationdate="20191203T134613Z">
+        <seg>Kun haluat palata takaisin pääikkunan alkuperäiseen asetteluun, valitse &lt;g0&gt; Valinnat → Palauta pääikkuna&lt;/g0&gt;. Voit käyttää sitä milloin tahansa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Should you need more specific information, consult the &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T145555Z" creationid="piav" creationdate="20191022T145555Z">
@@ -25264,8 +25272,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The separators between the panes can be dragged to resize panes.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191203T133902Z" creationid="piav" creationdate="20191203T133902Z">
-        <seg>Vetäämällä ruutujen välistä erotinta </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191203T134345Z" creationid="piav" creationdate="20191203T133902Z">
+        <seg>Voit muuttaa ruutujen kokoa vetämällä ruutujen välistä erotinta.</seg>
       </tuv>
     </tu>
     <tu>
