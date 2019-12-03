@@ -4717,6 +4717,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appendices</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T132902Z" creationid="piav" creationdate="20191203T132902Z">
+        <seg>Liitteet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apply &amp;Fix</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T133520Z" creationid="piav" creationdate="20190920T133520Z">
