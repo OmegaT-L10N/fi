@@ -6193,8 +6193,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Check this option in case &lt;a0&gt;OmegaT&lt;/a0&gt; does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T185144Z" creationid="piav" creationdate="20191202T185144Z">
-        <seg>Rastita tämä kohta, mikäli &lt;a0&gt;OmegaT&lt;/a0&gt; ei näytä joitakin kirjainmerkkejä oikein (vaikka  </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191203T130400Z" creationid="piav" creationdate="20191202T185144Z">
+        <seg>Rastita tämä kohta, mikäli &lt;a0&gt;OmegaT&lt;/a0&gt; ei näytä joitakin kirjainmerkkejä oikein (vaikka koneellesi olisikin asennettu fontti, jossa nämä kirjainmerkit ovat mukana).</seg>
       </tuv>
     </tu>
     <tu>
