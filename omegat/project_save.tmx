@@ -24032,6 +24032,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Editor pane displays the text of the partially translated document: the text already translated is displayed in translation while the untranslated text is displayed in the original language.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T135745Z" creationid="piav" creationdate="20191203T135745Z">
+        <seg>Editoriruutu näyttää asiakirjan tekstin osittain käännettynä: kääntämättä oleva teksti näytetään lähdekielellä ja jo käännetty teksti kohdekielellä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T173117Z" creationid="piav" creationdate="20190523T172934Z">
@@ -26320,6 +26328,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T130422Z" creationid="piav" creationdate="20191201T130422Z">
         <seg>Tämä on hyödyllistä silloin, kun OmegaT:tä käytetään palvelimella, jonne projektin TMX-tiedostot syötetään automaattisesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is where you type and edit your translation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T135601Z" creationid="piav" creationdate="20191203T135601Z">
+        <seg>Käännös kirjoitetaan ja sitä muokataan tässä ruudussa.</seg>
       </tuv>
     </tu>
     <tu>
