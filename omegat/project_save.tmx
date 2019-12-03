@@ -8077,6 +8077,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending on the pane status, different signs can appear at its top right corner:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T133143Z" creationid="piav" creationdate="20191203T133143Z">
+        <seg>Ruudun oikeassa yläkulmassa näkyy erilaisia merkkejä ruudun tilan mukaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Description</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081804Z" creationid="piav" creationdate="20190522T081804Z">
@@ -12621,6 +12629,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T134802Z" creationid="piav" creationdate="20191127T134802Z">
         <seg>Jos luulet, että olet kadottanut käännösdatasi, voit käyttää seuraavaa tapaa palauttaaksesi projektin viimeisimpään, yleensä alle 10 minuuttia vanhaan, tallennettuun muotoon:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you can not see all the panes (be it opened or minimized), pressing &lt;g0&gt; Options &gt; Restore Main Window &lt;/g0&gt;will restore them to the state, defined in the installation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T133252Z" creationid="piav" creationdate="20191203T133252Z">
+        <seg>Jos et näe kaikkia (avattuja tai kutistettuja) ruutuja, valitse valikon kohta &lt;g0&gt;Asetukset &gt; Palauta pääikkuna&lt;/g0&gt;  </seg>
       </tuv>
     </tu>
     <tu>
@@ -29533,6 +29549,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T104755Z" creationid="piav" creationdate="20191023T052609Z">
         <seg>Voit muuttaa jo olemassa olevia pikanäppäimiä sekä lisätä uusia. Sijoita pikänäppäinten kuvaustiedosto &lt;a0&gt;OmegaT&lt;/a0&gt;-valintakansioon (pääset sinne valitsemalla &lt;m1&gt; &lt;g2&gt;Valinnat&lt;/g2&gt; &lt;g3&gt;Mene määrityskansioon&lt;/g3&gt; &lt;/m1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the position of any pane or even undock it to a separate window by clicking and dragging the pane by its name.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T133104Z" creationid="piav" creationdate="20191203T133104Z">
+        <seg>Napsauttamalla ja vetämällä ruudun nimeä voit vaihtaa kaikkien ruutujen sijaintia ja jopa irrottaa ruudut omiksi ikkunoikseen.</seg>
       </tuv>
     </tu>
     <tu>
