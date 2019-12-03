@@ -10854,6 +10854,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For that reason, it is OFF by default.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T130709Z" creationid="piav" creationdate="20191203T130709Z">
+        <seg>Tämän vuoksi mekanismi on oletusarvoisesti POIS PÄÄLTÄ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the application</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T134332Z" creationid="PiaVee" creationdate="20171014T134332Z">
@@ -15902,6 +15910,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T142113Z" creationid="piav" creationdate="20190916T142113Z">
         <seg>Mallitunnus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification Info</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T130715Z" creationid="piav" creationdate="20191203T130715Z">
+        <seg>Muokkaustiedot</seg>
       </tuv>
     </tu>
     <tu>
@@ -22135,6 +22151,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T132502Z" creationid="piav" creationdate="20191023T115943Z">
         <seg>Valitse tämä, niin segmentin tarkistus tapahtuu sarkainnäppäimellä (oletusnäppäimenä on Enter).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting the Display Modification option to &lt;g0&gt;Current segment&lt;/g0&gt; will display the time and the author of the last change in the current segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T131237Z" creationid="piav" creationdate="20191203T130726Z">
+        <seg>Jos valitset &lt;g0&gt;Nykyisen segmentin&lt;/g0&gt;, saat näkyviin nykyiseen segmenttiin viimeksi tehdyn muutoksen ajankohdan ja tekijän.</seg>
       </tuv>
     </tu>
     <tu>
