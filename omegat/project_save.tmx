@@ -12635,8 +12635,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you can not see all the panes (be it opened or minimized), pressing &lt;g0&gt; Options &gt; Restore Main Window &lt;/g0&gt;will restore them to the state, defined in the installation.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191203T133252Z" creationid="piav" creationdate="20191203T133252Z">
-        <seg>Jos et näe kaikkia (avattuja tai kutistettuja) ruutuja, valitse valikon kohta &lt;g0&gt;Asetukset &gt; Palauta pääikkuna&lt;/g0&gt;  </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191203T133348Z" creationid="piav" creationdate="20191203T133252Z">
+        <seg>Jos et näe kaikkia (avattuja tai kutistettuja) ruutuja, valitse valikon kohta &lt;g0&gt;Valinnat &gt; Palauta pääikkuna&lt;/g0&gt;. Tällöin ruudut palautuvat asennuksen aikana määriteltyyn tilaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18438,6 +18438,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T082546Z" creationid="piav" creationdate="20191030T082546Z">
         <seg>PO-tiedostot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pane widgets</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T133401Z" creationid="piav" creationdate="20191203T133401Z">
+        <seg>Ruutujen vimpaimet</seg>
       </tuv>
     </tu>
     <tu>
@@ -33029,6 +33037,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>maximizes the pane</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T133536Z" creationid="piav" creationdate="20191203T133536Z">
+        <seg>suurentaa ruudun suurimpaan kokoonsa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>mg</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174856Z" creationid="PiaVee" creationdate="20171014T174856Z">
@@ -33049,6 +33065,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174936Z" creationid="PiaVee" creationdate="20171014T174936Z">
         <seg>mi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>minimizes the pane, so that only its name is shown at the bottom of the window</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T133453Z" creationid="piav" creationdate="20191203T133453Z">
+        <seg>pienentää ruudun niin, että ainoastaan sen nimi näkyy ikkunan alaosassa</seg>
       </tuv>
     </tu>
     <tu>
@@ -34145,6 +34169,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T121143Z" creationid="piav" creationdate="20191128T121143Z">
         <seg>repository url</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>restores the layout before the maximizing step</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191203T133609Z" creationid="piav" creationdate="20191203T133609Z">
+        <seg>palauttaa ruudun samankokoiseksi kuin ennen suurennusta</seg>
       </tuv>
     </tu>
     <tu>
