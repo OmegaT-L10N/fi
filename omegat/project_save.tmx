@@ -13361,6 +13361,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the above example the source segment is &lt;e0&gt;Context menu command&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T110128Z" creationid="piav" creationdate="20191208T110128Z">
+        <seg>Äskeisessä esimerkissä lähdesegmentti on &lt;e0&gt;Context menu command&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the following window you can indicate that the language selected is to be used in OmegaT.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T114050Z" creationid="piav" creationdate="20191129T114050Z">
