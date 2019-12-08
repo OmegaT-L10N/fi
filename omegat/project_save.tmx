@@ -15618,6 +15618,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make a slight change anywhere in the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T122900Z" creationid="piav" creationdate="20191208T122900Z">
+        <seg>Tee pieni muutos jossakin kohtaa projektia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make regular copies of the file /omegat/project_save.tmx to backup media, such as CD or DVD.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T135137Z" creationid="piav" creationdate="20191127T135137Z">
@@ -17322,6 +17330,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T085001Z" creationid="piav" creationdate="20190913T075815Z">
         <seg>Huom.: Lähdetiedoston merkistökoodauksen asetukset koskevat ainoastaan HTML-tiedostoja, joissa ei ole mainintaa merkistökoodauksesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: if TMX is removed from /tm/auto before step 3, no extra Translation Unit is added.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T123041Z" creationid="piav" creationdate="20191208T123041Z">
+        <seg>Huom.: Jos käännösmuisti poistetaan /tm/auto-kansiosta ennen 3-vaihetta, ylimääräistä käännösyksikköä ei lisätä projektin käännösmuistiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20027,6 +20043,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T122655Z" creationid="piav" creationdate="20190920T122655Z">
         <seg>Push ei onnistunut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Put the TMX in /tm/auto.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T122823Z" creationid="piav" creationdate="20191208T122823Z">
+        <seg>Laita TMX-tiedosto kansioon /tm/auto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24730,6 +24754,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The changes are displayed.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T122850Z" creationid="piav" creationdate="20191208T122850Z">
+        <seg>Muutokset tulevat näkyviin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The character with hexadecimal value 0xhh</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T152502Z" creationid="piav" creationdate="20191022T152430Z">
@@ -27033,6 +27065,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T122010Z" creationid="piav" creationdate="20191129T121932Z">
         <seg>Myös tämä tapa käyttää OmegaT-ohjelmassa tekemiäsi valintoja ja asetuksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt; (by adding proper Translation Units from "auto" TMX)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T122952Z" creationid="piav" creationdate="20191208T122952Z">
+        <seg>Tämä muuntaa tiedostoa &lt;f0&gt;project_save.tmx&lt;/f0&gt; (lisäämällä siihen oikeita käännösyksikköjä auto-kansion käännösmuistista).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35704,6 +35744,14 @@ tai</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>tm/enforce</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T123044Z" creationid="piav" creationdate="20191208T123044Z">
+        <seg>tm/enforce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>tn</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082058Z" creationid="PiaVee" creationdate="20171015T082058Z">
@@ -36520,6 +36568,17 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T145225Z" creationid="piav" creationdate="20191202T145225Z">
         <seg>Jos käännösvaihtoehtoja on vain yksi, käännös näkyy harmaana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/OmegaT4_ProjectFolder.xml</prop>
+      <prop type="prev">Put the TMX in /tm/auto.</prop>
+      <prop type="next">The changes are displayed.</prop>
+      <tuv lang="EN">
+        <seg>Open the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T122838Z" creationid="piav" creationdate="20191208T122838Z">
+        <seg>Avaa projekti.</seg>
       </tuv>
     </tu>
     <tu>
