@@ -11024,8 +11024,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>For translation memories in folders with a name &lt;f0&gt;penalty-xxx&lt;/f0&gt; (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called &lt;f1&gt;penalty-30&lt;/f1&gt; for instance, will be lowered to a 70% match.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191208T124239Z" creationid="piav" creationdate="20191208T124239Z">
-        <seg>Kun käännösmuisti on &lt;f0&gt;penalty-xxx&lt;/f0&gt;-kansiossa (xxx on luku väliltä 0–100), siitä löytyneiden osumien  </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T124404Z" creationid="piav" creationdate="20191208T124239Z">
+        <seg>Kun käännösmuisti on &lt;f0&gt;penalty-xxx&lt;/f0&gt;-kansiossa (xxx on luku väliltä 0–100), siitä löytyneiden osumien prosenttiosuutta pienennetään kansion nimen mukaisesti: Esimerkiksi kansiossa &lt;f1&gt;penalty-30&lt;/f1&gt; olevista käännösmuisteista löytynyt sataprosenttinen osuma esitetään vain 70-prosenttisena osumana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13773,6 +13773,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T120148Z" creationid="piav" creationdate="20190920T120148Z">
         <seg>Alustetaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initially empty, this folder will contain dictionaries you have added to the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T124620Z" creationid="piav" creationdate="20191208T124620Z">
+        <seg>Projektin aluksi tämä kansio on tyhjä. Sijoita projektiin liittämäsi sanakirjat tänne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25655,6 +25663,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The penalty applies to all three match percentages: matches 75, 80, 90 will in this case be lowered to 45, 50, 60.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T124513Z" creationid="piav" creationdate="20191208T124513Z">
+        <seg>Samaa kolmenkymmenen prosenttiyksikön rangaistusta käytetään kaikkiin osumiin: 75-, 80- ja 90-prosenttiset osumat näytetään 45, 50- ja 60-prosenttisina osumina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The permissions you give to this version (which may appear as "unrestricted access to the computer") are identical to the permissions you give to the local version, i.e., they allow access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T112131Z" creationid="piav" creationdate="20191201T112131Z">
@@ -36691,6 +36707,17 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T122838Z" creationid="piav" creationdate="20191208T122838Z">
         <seg>Avaa projekti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/OmegaT4_ProjectFolder.xml</prop>
+      <prop type="prev">The penalty applies to all three match percentages: matches 75, 80, 90 will in this case be lowered to 45, 50, 60.</prop>
+      <prop type="next">Initially empty, this folder will contain dictionaries you have added to the project.</prop>
+      <tuv lang="EN">
+        <seg>dictionary</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T124521Z" creationid="piav" creationdate="20191208T124521Z">
+        <seg>dictionary</seg>
       </tuv>
     </tu>
     <tu>
