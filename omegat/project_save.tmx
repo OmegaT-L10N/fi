@@ -14490,6 +14490,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will contain glossaries you will be using in the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T124740Z" creationid="piav" creationdate="20191208T124740Z">
+        <seg>Projektissa käyttämäsi sanakirjat tulevat sinne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Italian</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174404Z" creationid="PiaVee" creationdate="20171014T174404Z">
@@ -21947,6 +21955,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;l0&gt;Dictionaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T124654Z" creationid="piav" creationdate="20191208T124642Z">
+        <seg>Lisätietoa aiheesta löydät kohdasta &lt;l0&gt;Sanakirjat&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;l0&gt;Glossaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T124803Z" creationid="piav" creationdate="20191208T124803Z">
+        <seg>Lisätietoa aiheesta löydät kohdasta &lt;l0&gt;Sanastot&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;l0&gt;How to use a team project&lt;/l0&gt; for details.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T142636Z" creationid="piav" creationdate="20191202T142636Z">
@@ -24536,6 +24560,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;e0&gt;omegat&lt;/e0&gt; subfolder contains at least one and possibly several other files.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T124851Z" creationid="piav" creationdate="20191208T124851Z">
+        <seg>Alikansiossa &lt;e0&gt;omegat&lt;/e0&gt; on vähintään yksi ja mahdollisesti useampia tiedostoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T120007Z" creationid="piav" creationdate="20191202T120007Z">
@@ -26905,6 +26937,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T114650Z" creationid="piav" creationdate="20191127T114236Z">
         <seg>Tässä ulkoisessa komennossa ei voi käyttää putkimerkkejä tms., minkä vuoksi komentosarjan käyttö on suositeltavaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This folder is initially empty.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T124714Z" creationid="piav" creationdate="20191208T124714Z">
+        <seg>Tämä kansio on aluksi tyhjä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32548,6 +32588,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>glossary</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T124645Z" creationid="piav" creationdate="20191208T124645Z">
+        <seg>FZZ Sanasto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>glossary/glossary.txt</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T115113Z" creationid="piav" creationdate="20191128T115113Z">
@@ -36718,6 +36766,28 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T124521Z" creationid="piav" creationdate="20191208T124521Z">
         <seg>dictionary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/OmegaT4_ProjectFolder.xml</prop>
+      <prop type="prev">See &lt;l0&gt;Dictionaries&lt;/l0&gt; for more on this subject.</prop>
+      <prop type="next">This folder is initially empty.</prop>
+      <tuv lang="EN">
+        <seg>glossary</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T124707Z" creationid="piav" creationdate="20191208T124707Z">
+        <seg>glossary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/OmegaT4_ProjectFolder.xml</prop>
+      <prop type="prev">See &lt;l0&gt;Glossaries&lt;/l0&gt; for more on this subject.</prop>
+      <prop type="next">The &lt;e0&gt;omegat&lt;/e0&gt; subfolder contains at least one and possibly several other files.</prop>
+      <tuv lang="EN">
+        <seg>omegat</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T124815Z" creationid="piav" creationdate="20191208T124815Z">
+        <seg>omegat</seg>
       </tuv>
     </tu>
     <tu>
