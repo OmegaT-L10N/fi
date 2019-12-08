@@ -8189,6 +8189,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionaries are the electronic equivalents of printed dictionaries like Merriam Webster, Duden, Larousse etc., that you may have on your desk.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T112521Z" creationid="piav" creationdate="20191208T112521Z">
+        <seg>OmegaT:n käyttämät elektroniset sanakirjat vastaavat painettuja Merriam Webster-, Duden-, Larousse- tms. sanakirjoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T095723Z" creationid="PiaVee" creationdate="20171219T095702Z">
@@ -22227,6 +22235,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting one of them will insert it at the current cursor position into the target segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T112211Z" creationid="piav" creationdate="20191208T112211Z">
+        <seg>Se, jonka valitset, lisätään kursorin kohdalle kohdesegmenttiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selects the previous, the next or the Nth fuzzy match displayed in the fuzzy match pane to replace or insert it to the segment.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T134942Z" creationid="piav" creationdate="20191202T133639Z">
@@ -29901,6 +29917,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T081714Z" creationid="piav" creationdate="20191127T081654Z">
         <seg>Voit myös tehdä erilaisia tägien tarkistukseen liittyviä valintoja ja määritellä mukautettuja tägejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also highlight your preferred alternative in the glossary pane and insert it into the target by right clicking on the selection.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T112316Z" creationid="piav" creationdate="20191208T112316Z">
+        <seg>Voit myös valita sanastoruudussa haluamasi käännösvaihtoehdon ja lisätä sen kohdesegmenttiin napsauttamalla valintaa hiiren kakkospainikkeella.</seg>
       </tuv>
     </tu>
     <tu>
