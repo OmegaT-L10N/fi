@@ -22827,6 +22827,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some of the file formats, specialized for translation work, for instance PO, allow the inclusion of comments.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T113619Z" creationid="piav" creationdate="20191208T113619Z">
+        <seg>Joihinkin erityisesti käännöstyötä varten oleviin tiedostomuotoihin (esim. PO) voi lisätä kommentteja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T132008Z" creationid="piav" creationdate="20190521T132008Z">
@@ -30013,6 +30021,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T081334Z" creationid="piav" creationdate="20191128T081334Z">
         <seg>JOs kohtaat ongelmia, voit kysyä neuvoa käyttäjäryhmältä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can browse through notes using &lt;g0&gt;GoTo → Next Note&lt;/g0&gt; and &lt;g1&gt;GoTo → Previous Note&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T113452Z" creationid="piav" creationdate="20191208T113354Z">
+        <seg>Voit selata muistiinpanoja valitsemalla &lt;g0&gt;Mene → Seuraavaan muistiinpanoon&lt;/g0&gt; ja &lt;g1&gt;Mene → Edelliseen muistiinpanoon&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
