@@ -17342,6 +17342,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Of course, pressing &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; will have no effect, if there is no match #5.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T105114Z" creationid="piav" creationdate="20191208T105114Z">
+        <seg>Näppäinyhdistelmä &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; ei tietenkään johda mihinkään, jos viidettä osumaa ei ole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Of course, the encoding must be compatible with both the languages contained, so Unicode is recommended.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T081035Z" creationid="piav" creationdate="20191022T081002Z">
@@ -29231,6 +29239,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you move to the next segment, the first fuzzy match (the one with the best matching percentage) is automatically selected.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T104948Z" creationid="piav" creationdate="20191208T104948Z">
+        <seg>Kun siirryt seuravaan segmenttiin, OmegaT valitsee automaattisesti osumaruudun ensimmäisen (siis prosentuaalisesti parhaiten vastaavan) sumean osuman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T094110Z" creationid="piav" creationdate="20191127T134252Z">
@@ -30054,6 +30070,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T075807Z" creationid="piav" creationdate="20191128T075807Z">
         <seg>Voit myös poistaa kaikki ne käännösmuistit, joita et enää tarvitse project-save.tmx&lt;/f0&gt;-tiedoston täyttämiseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T105034Z" creationid="piav" creationdate="20191208T105034Z">
+        <seg>Voit valita jonkin toisen sumean osuman näppäinyhdistelmällä &lt;g0&gt;Ctrl+2, 3, 4 tai 5&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
