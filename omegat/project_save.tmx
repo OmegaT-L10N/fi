@@ -10926,6 +10926,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T121955Z" creationid="piav" creationdate="20191208T121711Z">
+        <seg>Esimerkiksi (jos oletuskäytös on valittu) lisäkäännösmuistista tuleva käännös otetaan käyttöön ja merkitään etuliitteellä &lt;e3&gt;[fuzzy]&lt;/e3&gt;, jotta kääntäjä voi myöhemmin tarkastaa käännökset ja tarkistaa, ovatko tällä merkinnällä varustetut käännökset oikein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, &lt;l4&gt;MEMORY=-Xmx6g&lt;/l4&gt; will launch OmegaT with 6 GB of memory.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T102935Z" creationid="piav" creationdate="20191201T102935Z">
@@ -12635,8 +12643,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialog window.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191208T121104Z" creationid="piav" creationdate="20191208T121104Z">
-        <seg>Jos jossakin käännösmuistissa oleva lähdekielinen segmentti on täsmälleen samanlainen kuin käännettävä segmentti, OmegaT toimii kuten &lt;m0&gt;Valinnat&lt;g1&gt; </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T121734Z" creationid="piav" creationdate="20191208T121104Z">
+        <seg>Jos jossakin lisäkäännösmuistissa oleva lähdekielinen segmentti on täsmälleen samanlainen kuin käännettävä segmentti, OmegaT toimii kuten valintaikkunassa &lt;m0&gt; &lt;g1&gt;Valinnat&lt;/g1&gt; &lt;g2&gt;Muokkaustapa…&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24370,8 +24378,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The /tm/ folder can contain any number of ancillary translation memories - i.e. tmx files.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191208T120328Z" creationid="piav" creationdate="20191208T120328Z">
-        <seg>Kansiossa /tm/ voi olla vaikka kuinka monta käännösmuistia eli TMX-tiedostoa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T121728Z" creationid="piav" creationdate="20191208T120328Z">
+        <seg>Kansiossa /tm/ voi olla vaikka kuinka monta lisäkäännösmuistia eli TMX-tiedostoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25349,6 +25357,7 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
     </tu>
     <tu>
+      <note>	</note>
       <tuv lang="EN">
         <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
       </tuv>
