@@ -4733,6 +4733,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any text, already translated and stored in those files, will appear among the fuzzy matches, if it is sufficiently similar to the text currently being translated.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T121005Z" creationid="piav" creationdate="20191208T121005Z">
+        <seg>Mikä tahansa jo käännetty tekstinpätkä, joka on tallennettu TMX-tiedostoon, näkyy sumeiden osumien listalla, kunhan teksti vain vastaa riittävän hyvin käännettävänä olevaa tekstiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T053337Z" creationid="piav" creationdate="20191023T053337Z">
