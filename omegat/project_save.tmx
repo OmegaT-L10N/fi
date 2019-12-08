@@ -3851,6 +3851,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Activate the "Show hidden files" option to make it visible.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T131308Z" creationid="piav" creationdate="20191208T131308Z">
+        <seg>Saat kansion näkyvillä aktivoimalla "Näytä piilotetut kansiot"-valinnan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Active segment source</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T083932Z" creationid="piav" creationdate="20190522T083932Z">
@@ -13281,6 +13289,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In a team project, this folder contains a versioned copy of the project tree structure linked directly to the remote server.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T131113Z" creationid="piav" creationdate="20191208T131113Z">
+        <seg>Kun työskentelet ryhmäprojektin parissa, tässä kansiossa on projektin puurakenteen kopio, joka on linkitetty suoraan etäpalvelimelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to the plain text format, TBX format is also supported as a read-only glossary format.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T144921Z" creationid="piav" creationdate="20191022T081533Z">
@@ -13493,6 +13509,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T073154Z" creationid="piav" creationdate="20190521T135103Z">
         <seg>Lähdetekstissä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In some operating systems, this folder is not displayed by default.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T131228Z" creationid="piav" creationdate="20191208T131228Z">
+        <seg>Joissakin käyttöjärjestelmissä tätä kansiota ei oletusarvoisesti näy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30714,6 +30738,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can make changes to remote files (e.g. deleting a file) using this folder and a Git or SVN client.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T131150Z" creationid="piav" creationdate="20191208T131150Z">
+        <seg>Voit muuttaa etätiedostoja (esim. poistaa tiedoston) käyttämällä tätä kansiota ja Git- tai SVN-asiakasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;f1&gt;Configuration.properties&lt;/f1&gt; file in the package.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T100826Z" creationid="piav" creationdate="20191201T100736Z">
@@ -36903,6 +36935,17 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T145225Z" creationid="piav" creationdate="20191202T145225Z">
         <seg>Jos käännösvaihtoehtoja on vain yksi, käännös näkyy harmaana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/OmegaT4_ProjectFolder.xml</prop>
+      <prop type="prev">Contains project parameters as defined in the &lt;l0&gt;Project properties&lt;/l0&gt; dialog.</prop>
+      <prop type="next">In a team project, this folder contains a versioned copy of the project tree structure linked directly to the remote server.</prop>
+      <tuv lang="EN">
+        <seg>.repositories</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T131011Z" creationid="piav" creationdate="20191208T131011Z">
+        <seg>.repositories</seg>
       </tuv>
     </tu>
     <tu>
