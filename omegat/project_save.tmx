@@ -25622,6 +25622,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The source segment in the example below was “&lt;e0&gt;Context menu command&lt;/e0&gt;”, as in the Fuzzy Matches example above, and the terms shown were found in the glossaries, available (Microsoft's Term collection and Slovenian Linux User group Glossary).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T111319Z" creationid="piav" creationdate="20191208T111319Z">
+        <seg>Esimerkissä käytetty lähdekielinen segmentti oli sama &lt;e0&gt;Context menu command&lt;/e0&gt; kuin sumeiden osumien esimerkissä, ja näytetyt termit löytyivät sanastoista (Microsoftin termikokoelma ja sloveniankielinen Linux User group -sanasto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source term does not have to be a single-word item, as the next example shows:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T075511Z" creationid="piav" creationdate="20191022T075426Z">
