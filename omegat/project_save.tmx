@@ -25294,6 +25294,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The last segment with the identical source text will thus prevail (Note: of course it makes more sense to avoid this to happen in the first place).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T122532Z" creationid="piav" creationdate="20191208T122532Z">
+        <seg>Siksi näkyvillä on viimeinen identtisen lähdekielisen segmentin sisältävä käännösmuistiosuma (on tietysti järkevää pitää huolta siitä, että jo lähtökohtaisesti näin ei pääse käymään).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T081806Z" creationid="piav" creationdate="20191128T081806Z">
