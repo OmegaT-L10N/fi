@@ -9054,6 +9054,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During translation additional files may get created in this subfolder as follows</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T125242Z" creationid="piav" creationdate="20191208T125242Z">
+        <seg>Käännöstyön aikana tähän alikansioon voi ilmestyä seuraavia tiedostoja:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T113914Z" creationid="piav" creationdate="20191202T113859Z">
@@ -12805,6 +12813,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T120949Z" creationid="piav" creationdate="20191129T120949Z">
         <seg>Jos haluat päivittää koneellesi asennetun OmegaT:n uudempaan versioon, käytettävissäsi on kaksi vaihtoehtoa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you already have collected words you wish the spell checker to ignore / accept, you just need to copy the corresponding two files into the &lt;f0&gt;omegat&lt;/f0&gt;subfolder of your current project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T125552Z" creationid="piav" creationdate="20191208T125552Z">
+        <seg>Jos olet jo kerännyt sanoja, jotka haluat kielentarkistimen ohittavan/hyväksyvät, kopioi vastaavat tiedostot projektin &lt;f0&gt;omegat&lt;/f0&gt;-alikansioon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30763,6 +30779,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can view it by selecting &lt;g0&gt;Tools &gt; Statistics&lt;/g0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T125324Z" creationid="piav" creationdate="20191208T125324Z">
+        <seg>Voit tutkailla tiedostoa valitsemalla &lt;g0&gt;Työkalut &gt; Tilastotiedot&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You currently have {1}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T140915Z" creationid="piav" creationdate="20190920T140915Z">
@@ -31476,6 +31500,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>are created and used by the spell checker.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T125408Z" creationid="piav" creationdate="20191208T125352Z">
+        <seg>ovat kielentarkastimen luomia ja käyttämiä tiedostoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>arg</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173514Z" creationid="PiaVee" creationdate="20171014T173514Z">
@@ -31872,6 +31904,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T160939Z" creationid="piav" creationdate="20191022T160626Z">
         <seg>Piste tai pilkku, jota seuraa välilyönti ja vielä yksi piste tai pilkku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>contains the current statistics of the current project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T125302Z" creationid="piav" creationdate="20191208T125257Z">
+        <seg>sisältää senhetkisen projektin senhetkiset tilastot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33308,6 +33348,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ignored_words.txt.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T125325Z" creationid="piav" creationdate="20191208T125325Z">
+        <seg>ignored_words.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ii</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T080653Z" creationid="PiaVee" creationdate="20171015T080653Z">
@@ -33858,6 +33906,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174653Z" creationid="PiaVee" creationdate="20171014T174653Z">
         <seg>lb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>learned_words.txt</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T125328Z" creationid="piav" creationdate="20191208T125328Z">
+        <seg>learned_words.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -35708,6 +35764,14 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081542Z" creationid="PiaVee" creationdate="20171015T081542Z">
         <seg>st</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>stats.txt</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T125243Z" creationid="piav" creationdate="20191208T125243Z">
+        <seg>stats.txt</seg>
       </tuv>
     </tu>
     <tu>
