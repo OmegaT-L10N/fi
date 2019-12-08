@@ -23653,6 +23653,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Such files can be created in any of the three varieties indicated above.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T120414Z" creationid="piav" creationdate="20191208T120414Z">
+        <seg>Käännösmuisteja voidaan luoda yhdellä kolmesta yllä mainitusta tavasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Such modifications are possible in ODF files for example.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T133558Z" creationid="piav" creationdate="20191127T133558Z">
@@ -24332,6 +24340,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T110901Z" creationid="piav" creationdate="20191030T110901Z">
         <seg>Kysymysmerkki ? vastaa tarkalleen yhtä kirjainta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The /tm/ folder can contain any number of ancillary translation memories - i.e. tmx files.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T120328Z" creationid="piav" creationdate="20191208T120328Z">
+        <seg>Kansiossa /tm/ voi olla vaikka kuinka monta käännösmuistia eli TMX-tiedostoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28529,6 +28545,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T084311Z" creationid="piav" creationdate="20190522T084311Z">
         <seg>Kääntämättömien segmenttien teksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments will hereby remain in the source language.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T120218Z" creationid="piav" creationdate="20191208T120218Z">
+        <seg>Siksi segmentit, joita ei vielä ole käännetty, ovat luoduissa tiedostoissa lähdekielisinä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36421,6 +36445,17 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T115724Z" creationid="piav" creationdate="20191208T115724Z">
         <seg>target</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/OmegaT4_ProjectFolder.xml</prop>
+      <prop type="prev">Untranslated segments will hereby remain in the source language.</prop>
+      <prop type="next">The /tm/ folder can contain any number of ancillary translation memories - i.e. tmx files.</prop>
+      <tuv lang="EN">
+        <seg>tm</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T120227Z" creationid="piav" creationdate="20191208T120227Z">
+        <seg>tm</seg>
       </tuv>
     </tu>
   </body>
