@@ -10928,8 +10928,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191208T121955Z" creationid="piav" creationdate="20191208T121711Z">
-        <seg>Esimerkiksi (jos oletuskäytös on valittu) lisäkäännösmuistista tuleva käännös otetaan käyttöön ja merkitään etuliitteellä &lt;e3&gt;[fuzzy]&lt;/e3&gt;, jotta kääntäjä voi myöhemmin tarkastaa käännökset ja tarkistaa, ovatko tällä merkinnällä varustetut käännökset oikein.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T122015Z" creationid="piav" creationdate="20191208T121711Z">
+        <seg>Esimerkiksi (jos oletuskäytös on valittu) lisäkäännösmuistista tuleva käännös otetaan käyttöön ja merkitään etuliitteellä &lt;e3&gt;[fuzzy]&lt;/e3&gt;, jotta kääntäjä voi myöhemmin tarkastaa käännökset ja tarkistaa, ovatko tällä merkinnällä varustetut käännökset oikein&lt;m4&gt;&lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14357,6 +14357,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T110158Z" creationid="piav" creationdate="20190913T110158Z">
         <seg>Tekemäsi käännökset merkitään sillä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It may happen, that translation memories, available in the &lt;f0&gt;tm&lt;/f0&gt; subfolder, contain segments with identical source text, but differing targets.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T122132Z" creationid="piav" creationdate="20191208T122132Z">
+        <seg>Voi olla, että &lt;f0&gt;tm&lt;/f0&gt;-alikansion käännösmuisteissa on identtisiä lähdekielisiä segmenttejä, joiden käännökset eroavat toisistaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23881,6 +23889,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T141842Z" creationid="piav" creationdate="20190523T141842Z">
         <seg>TMX-tiedosto on luotu OmegaT:n versiolla 1.4.x tai aiemmalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMX files are read sorted by their names and segments within a given TMX file line by line.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T122224Z" creationid="piav" creationdate="20191208T122224Z">
+        <seg>TMX-tiedostot luetaan niiden nimien mukaisessa järjestyksessä, ja yhden käännösmuistin segmentit luetaan rivi riviltä.</seg>
       </tuv>
     </tu>
     <tu>
