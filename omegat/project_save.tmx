@@ -12375,6 +12375,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the&lt;e0&gt; tm/auto&lt;/e0&gt; folder and avoid confirming a lot of&lt;e1&gt; [fuzzy]&lt;/e1&gt; cases.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T122807Z" creationid="piav" creationdate="20191208T122807Z">
+        <seg>Jos jo käännöstyön alussa tiedetään, että tietyn käännösmuistin (tai tiettyjen käännösmuistien) kaikki käännökset ovat oikein, se/ne voidaan asettaa &lt;e0&gt;tm/auto&lt;/e0&gt;-kansioon. Tällöin ei jouduta vahvistamaan monen monta &lt;e1&gt;[fuzzy]&lt;/e1&gt;-osumaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If later access to the desired location is granted
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
@@ -17210,6 +17218,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T111251Z" creationid="piav" creationdate="20191023T111251Z">
         <seg>Huomioi, että tarvitset internetyhteyden käyttääksesi asennustoimintoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that the TMX files in the tm folder can be compressed with gzip.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T122618Z" creationid="piav" creationdate="20191208T122618Z">
+        <seg>Huomaa, että tm-kansion TMX-tiedostot voidaan pakata GZIP-muotoon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35676,6 +35692,14 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082021Z" creationid="PiaVee" creationdate="20171015T082021Z">
         <seg>tl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm/auto</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T122622Z" creationid="piav" creationdate="20191208T122622Z">
+        <seg>tm/auto</seg>
       </tuv>
     </tu>
     <tu>
