@@ -9560,8 +9560,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171014T100504Z" creationid="PiaVee" creationdate="20171014T094747Z">
-        <seg>Kirjoita uusi sana tai ilmaisu (säännölliset lausekkeet eivät ole käytössä) &lt;e0&gt;Korvaa tällä&lt;/e0&gt;-kenttään ja napsauta sitten yhtä seuraavista vaihtoehdoista:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T130954Z" creationid="PiaVee" creationdate="20171014T094747Z">
+        <seg>Kirjoita uusi sana tai ilmaisu (säännölliset lausekkeet eivät ole käytössä) &lt;e0&gt;Korvaa tällä&lt;/e0&gt; -kenttään ja napsauta sitten yhtä seuraavista vaihtoehdoista:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12409,8 +12409,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the&lt;e0&gt; tm/auto&lt;/e0&gt; folder and avoid confirming a lot of&lt;e1&gt; [fuzzy]&lt;/e1&gt; cases.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191208T122807Z" creationid="piav" creationdate="20191208T122807Z">
-        <seg>Jos jo käännöstyön alussa tiedetään, että tietyn käännösmuistin (tai tiettyjen käännösmuistien) kaikki käännökset ovat oikein, se/ne voidaan asettaa &lt;e0&gt;tm/auto&lt;/e0&gt;-kansioon. Tällöin ei jouduta vahvistamaan monen monta &lt;e1&gt;[fuzzy]&lt;/e1&gt;-osumaa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T130855Z" creationid="piav" creationdate="20191208T122807Z">
+        <seg>Jos tiedät jo käännöstyön alussa, että tietyn käännösmuistin (tai tiettyjen käännösmuistien) kaikki käännökset ovat oikein, aseta se/ne &lt;e0&gt;tm/auto&lt;/e0&gt;-kansioon. Tällöin sinun ei tarvitse vahvistaa monen monta &lt;e1&gt;[fuzzy]&lt;/e1&gt;-osumaa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18500,8 +18500,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T131006Z" creationid="PiaVee" creationdate="20171014T093718Z">
-        <seg>Avaa etsi ja korvaa -ikkuna painamalla &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;K&lt;/k2&gt;&lt;/k0&gt;ja kirjoita &lt;e3&gt;Etsittävä teksti&lt;/e3&gt;-kenttään sana tai ilmaus, jonka haluat korvata toisella.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T130936Z" creationid="PiaVee" creationdate="20171014T093718Z">
+        <seg>Avaa etsi ja korvaa -ikkuna painamalla &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;K&lt;/k2&gt;&lt;/k0&gt;ja kirjoita &lt;e3&gt;Etsittävä teksti&lt;/e3&gt; -kenttään sana tai ilmaus, jonka haluat korvata toisella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25589,7 +25589,6 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
     </tu>
     <tu>
-      <note>	</note>
       <tuv lang="EN">
         <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
       </tuv>
@@ -27593,8 +27592,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>To come back to the standard mode "&lt;g2&gt;Cursor lock on&lt;/g2&gt;", press &lt;k3&gt;F2&lt;/k3&gt; again.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191208T104115Z" creationid="piav" creationdate="20191208T104115Z">
-        <seg>Pääset takaisin &lt;g2&gt;Kursori lukittu&lt;/g2&gt;-oletustilaan painamalla &lt;k3&gt;F2&lt;/k3&gt;-näppäintä uudelleen.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T130815Z" creationid="piav" creationdate="20191208T104115Z">
+        <seg>Pääset takaisin &lt;g2&gt;Kursori lukittu&lt;/g2&gt; -oletustilaan painamalla &lt;k3&gt;F2&lt;/k3&gt;-näppäintä uudelleen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29224,8 +29223,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>Use this command to register the translation to be identical to the source, even if &lt;l0&gt;&lt;g1&gt;Allow translation to be equal to source&lt;/g1&gt;&lt;/l0&gt; is not checked.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191208T130701Z" creationid="piav" creationdate="20191202T135410Z">
-        <seg>Käytä tätä komentoa merkitsemään käännös samaksi kuin lähdeteksti silloinkin, kun &lt;l0&gt;Käännös saa olla sama kuin lähdeteksti&lt;g1&gt; -valintaa ei ole valittu.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T130730Z" creationid="piav" creationdate="20191202T135410Z">
+        <seg>Käytä tätä komentoa merkitsemään käännös samaksi kuin lähdeteksti silloinkin, kun &lt;l0&gt;&lt;g1&gt;Käännös saa olla sama kuin lähdeteksti&lt;/g1&gt;&lt;/l0&gt; -valintaa ei ole valittu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30108,8 +30107,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       <tuv lang="EN">
         <seg>With this command you can step forward to the segment, you have previously left by the &lt;g1&gt;Back in history&lt;/g1&gt;... command.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T140531Z" creationid="piav" creationdate="20191202T140514Z">
-        <seg>Valitse tämä, niin pääset segmenttiin, josta poistuit &lt;g1&gt;Siirry historiassa taaksepäin…&lt;/g1&gt;-komennolla.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T130711Z" creationid="piav" creationdate="20191202T140514Z">
+        <seg>Valitse tämä, niin pääset segmenttiin, josta poistuit &lt;g1&gt;Siirry historiassa taaksepäin…&lt;/g1&gt; -komennolla.</seg>
       </tuv>
     </tu>
     <tu>
