@@ -4475,6 +4475,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An OmegaT project is a folder containing files and subfolders.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T115244Z" creationid="piav" creationdate="20191208T115244Z">
+        <seg>OmegaT-projekti koostuu kansiosta, jossa on tiedostoja ja alikansioita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An empty line will appear at the bottom of the upper table (you may have to scroll down to see it).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T133735Z" creationid="piav" creationdate="20191030T133705Z">
@@ -11870,6 +11878,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How To...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T115211Z" creationid="piav" creationdate="20191208T115203Z">
+        <seg>Miten…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How to create glossaries</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T082659Z" creationid="piav" creationdate="20191022T082659Z">
@@ -16042,6 +16058,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Menus</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T115214Z" creationid="piav" creationdate="20191208T115214Z">
+        <seg>Valikot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Merge</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T080843Z" creationid="piav" creationdate="20190522T080843Z">
@@ -17138,6 +17162,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T121935Z" creationid="piav" creationdate="20191201T121935Z">
         <seg>Huomaa, että avain on 38 merkkiä pitkä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that the structure of the source subfolder may take any form you like.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T115453Z" creationid="piav" creationdate="20191208T115453Z">
+        <seg>Source-alikansion rakenne voi olla aivan haluamasi kaltainen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19747,6 +19779,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T125820Z" creationid="piav" creationdate="20190920T125743Z">
         <seg>Projektitiedoston pitäisi käyttää http-yhteyttä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project folder</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T115219Z" creationid="piav" creationdate="20191208T115219Z">
+        <seg>Projektikansio</seg>
       </tuv>
     </tu>
     <tu>
@@ -25790,6 +25830,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The source subfolder contains files to be translated.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T115334Z" creationid="piav" creationdate="20191208T115334Z">
+        <seg>Käännettävät tiedostot ovat source-alikansiossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source term does not have to be a single-word item, as the next example shows:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T075511Z" creationid="piav" creationdate="20191022T075426Z">
@@ -30077,6 +30125,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T120426Z" creationid="piav" creationdate="20191202T120423Z">
         <seg>Voit lisätä uuden termin sanastoon painamalla näppäinyhdistelmää &lt;k0&gt;Ctrl+vaihto+G&lt;/k0&gt; tai kopioimalla olemassa olevia sanastoja projektin &lt;f1&gt;/glossary/&lt;/f1&gt;-alikansioon. Tällöin OmegaT etsii automaattisesti sanoja niistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add the files to it later.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T115350Z" creationid="piav" creationdate="20191208T115350Z">
+        <seg>Voit lisätä kansioon tiedostoja myöhemmin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36303,6 +36359,17 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T145225Z" creationid="piav" creationdate="20191202T145225Z">
         <seg>Jos käännösvaihtoehtoja on vain yksi, käännös näkyy harmaana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/OmegaT4_ProjectFolder.xml</prop>
+      <prop type="prev">An OmegaT project is a folder containing files and subfolders.</prop>
+      <prop type="next">The source subfolder contains files to be translated.</prop>
+      <tuv lang="EN">
+        <seg>source</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T115318Z" creationid="piav" creationdate="20191208T115318Z">
+        <seg>source</seg>
       </tuv>
     </tu>
   </body>
