@@ -12819,8 +12819,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;GoTo segment&lt;/e10&gt; and &lt;e11&gt;Add glossary entry&lt;/e11&gt; functions.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191208T102348Z" creationid="piav" creationdate="20191208T102054Z">
-        <seg>Kun napsautat editoriruutua hiiren kakkospainikkeella, näytölle avautuu ponnahdusvalikko, jossa valittavanasi on &lt;e0&gt;Leikkaa, Kopioi, Liitä&lt;/e0&gt; (siis samat toiminnot kuin näppäinyhdistelmillä &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; ja &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;Mene segmenttiin&lt;/e10&gt; sekä &lt;e11&gt;Add glossary entry&lt;/e11&gt; functions.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T102444Z" creationid="piav" creationdate="20191208T102054Z">
+        <seg>Kun napsautat editoriruutua hiiren kakkospainikkeella, näytölle avautuu ponnahdusvalikko, jossa on toiminnot &lt;e0&gt;Leikkaa, Kopioi, Liitä&lt;/e0&gt; (siis samat toiminnot kuin näppäinyhdistelmillä &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; ja &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;Mene segmenttiin&lt;/e10&gt; sekä &lt;e11&gt;Lisää sanaston termi&lt;/e11&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13077,6 +13077,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T145059Z" creationid="piav" creationdate="20191202T144741Z">
         <seg>Kohdassa on lisäksi alivalintoja, jotka avaavat suoraan senhetkisen lähde- ja kohdeasiakirjan sekä kirjoituskelpoisen sanaston.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, when the right click occurs on an opened segment, other options concerning &lt;e12&gt;Alternative translations&lt;/e12&gt; are proposed, for example to to jump to another instance of non-unique segments.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T102633Z" creationid="piav" creationdate="20191208T102425Z">
+        <seg>Jos napsautat kakkospainikkeella avoimen segmentin kohdalla, ponnahdusvalikossa on lisäksi &lt;e12&gt;Vaihtoehtoinen </seg>
       </tuv>
     </tu>
     <tu>
