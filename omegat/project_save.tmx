@@ -12537,6 +12537,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the files to be translated are parts of a tree structure (as in a website), you need only specify the top-level subfolder and OmegaT will maintain the entire contents, while keeping the tree structure intact.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T115717Z" creationid="piav" creationdate="20191208T115717Z">
+        <seg>Jos käännettävät tiedostot ovat osa puurakennetta (kuten nettisivuilla), sinun täytyy määritellä vain ylimmän tason alikansio. OmegaT pitää koko puurakenteen ja kaiken sisällön toiminnassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the filter has any options, you may change them by clicking Options.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T104939Z" creationid="piav" creationdate="20190527T191221Z">
@@ -27020,6 +27028,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This subfolder is initially empty.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T115739Z" creationid="piav" creationdate="20191208T115739Z">
+        <seg>Tämä alikansio on aluksi tyhjä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This way the translator can be provided the context about the segment to be translated.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T113643Z" creationid="piav" creationdate="20191208T113643Z">
@@ -36370,6 +36386,17 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T115318Z" creationid="piav" creationdate="20191208T115318Z">
         <seg>source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/OmegaT4_ProjectFolder.xml</prop>
+      <prop type="prev">If the files to be translated are parts of a tree structure (as in a website), you need only specify the top-level subfolder and OmegaT will maintain the entire contents, while keeping the tree structure intact.</prop>
+      <prop type="next">This subfolder is initially empty.</prop>
+      <tuv lang="EN">
+        <seg>target</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T115724Z" creationid="piav" creationdate="20191208T115724Z">
+        <seg>target</seg>
       </tuv>
     </tu>
   </body>
