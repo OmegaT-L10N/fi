@@ -12729,6 +12729,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have TransTips option activated (&lt;g0&gt;Options → TransTips&lt;/g0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T112136Z" creationid="piav" creationdate="20191208T111333Z">
+        <seg>Jos olet ottanut TransTipsin käyttöön (&lt;g0&gt;Valinnat → TransTips&lt;/g0&gt;), napsauta lähdesegmentin lihavoitua sanaa hiiren kakkospainikkeella, niin saat näkyviin ponnahdusvalikon sanaston tarjoamine käännösehdotuksineen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T110252Z" creationid="piav" creationdate="20191129T105906Z">
