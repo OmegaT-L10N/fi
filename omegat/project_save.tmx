@@ -11656,8 +11656,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Here you can select different subfolders, for instance the subfolder with source files, subfolder for target files etc.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T121403Z" creationid="piav" creationdate="20191127T121403Z">
-        <seg>Tässä kohdassa voit valita eri alikansioita, esim. lähdetiedostojen alikansion, kohdetiedostojen alikansin jne.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T102859Z" creationid="piav" creationdate="20191127T121403Z">
+        <seg>Tässä kohdassa voit valita eri alikansioita, esim. lähdetiedostojen alikansion, kohdetiedostojen alikansio jne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13083,8 +13083,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In addition, when the right click occurs on an opened segment, other options concerning &lt;e12&gt;Alternative translations&lt;/e12&gt; are proposed, for example to to jump to another instance of non-unique segments.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191208T102633Z" creationid="piav" creationdate="20191208T102425Z">
-        <seg>Jos napsautat kakkospainikkeella avoimen segmentin kohdalla, ponnahdusvalikossa on lisäksi &lt;e12&gt;Vaihtoehtoinen </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T102926Z" creationid="piav" creationdate="20191208T102425Z">
+        <seg>Lisää sanaston termiJos napsautat kakkospainikkeella avoimen segmentin kohdalla, ponnahdusvalikossa on lisäksi&lt;e12&gt;vaihtoehtoisten käännösten&lt;/e12&gt; valintoja: voit esimerkiksi siirtyä seuraavaan toistuvaan segmenttiin.</seg>
       </tuv>
     </tu>
     <tu>
