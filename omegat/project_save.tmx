@@ -7863,8 +7863,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Cursor unlocked</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T101854Z" creationid="piav" creationdate="20190521T101854Z">
-        <seg>Kohdistin vapautettu</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T104011Z" creationid="piav" creationdate="20190521T101854Z">
+        <seg>Kohdistin vapaana</seg>
       </tuv>
     </tu>
     <tu>
@@ -13443,8 +13443,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In this mode, "&lt;g1&gt;Cursor lock off&lt;/g1&gt;" is displayed at the bottom of the pane.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191208T103845Z" creationid="piav" creationdate="20191208T103845Z">
-        <seg>Tämä tila näkyy ruudun alareunassa UNL-merkkinä. Kun viet hiiren kohdistimen merkin päälle, näet tekstin &lt;g1&gt;Kursori ei lukittuna&lt;/g1&gt;.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T104002Z" creationid="piav" creationdate="20191208T103845Z">
+        <seg>Tämä tila näkyy ruudun alareunassa UNL-merkkinä. Kun viet hiiren kohdistimen merkin päälle, näet tekstin &lt;g1&gt;Kursori vapaana&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25014,6 +25014,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T104806Z" creationid="piav" creationdate="20191208T104806Z">
+        <seg>Käännösmuisteista löytyvät samankaltaiset segmentit näkyvät osumaruudulla. OmegaT etsii osumia niin projektin omasta käännösmuistista, joka täyttyy sitä mukaa kun käännät, tai muista käännösmuisteista, joita olet tuonut projektiin. Lisäkäännösmuistit voivat olla peräisin aiemmista käännösprojekteistasi, asiakkaaltasi tai käännöstoimistolta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T120211Z" creationid="piav" creationdate="20191202T120024Z">
@@ -26858,6 +26866,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T134226Z" creationid="piav" creationdate="20191030T134226Z">
         <seg>Säännön syntaksi ja soveltuvuus kannattaa tarkistaa työkaluissa, joissa näet heti näiden vaikutuksen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To come back to the standard mode "&lt;g2&gt;Cursor lock on&lt;/g2&gt;", press &lt;k3&gt;F2&lt;/k3&gt; again.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T104115Z" creationid="piav" creationdate="20191208T104115Z">
+        <seg>Pääset takaisin &lt;g2&gt;Kursori lukittu&lt;/g2&gt;-oletustilaan painamalla &lt;k3&gt;F2&lt;/k3&gt;-näppäintä uudelleen.</seg>
       </tuv>
     </tu>
     <tu>
