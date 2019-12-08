@@ -13409,6 +13409,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the example below, the author of the PO file included a warning for the translator to check the length of the translation:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T113728Z" creationid="piav" creationdate="20191208T113728Z">
+        <seg>Alla olevassa esimerkissä PO-tiedoston luoja sisällytti tiedostoon huomautuksen kääntäjälle, että tämän on tarkistettava käännöksen pituus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the following window you can indicate that the language selected is to be used in OmegaT.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T114050Z" creationid="piav" creationdate="20191129T114050Z">
@@ -14101,6 +14109,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T084514Z" creationid="PiaVee" creationdate="20170910T084514Z">
         <seg>Siihen sisältyvät myös ohjelman asennusohjeet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It also displays the number of fuzzy and glossary matches for the current segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T113959Z" creationid="piav" creationdate="20191208T113959Z">
+        <seg>Rivillä näkyy myös senhetkisen segmentin sumeiden osumien ja sanasto-osumien määrä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23381,6 +23397,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Status bar</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T113730Z" creationid="piav" creationdate="20191208T113730Z">
+        <seg>Tilarivi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Stemming, no tags and no numbers</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T083403Z" creationid="piav" creationdate="20190916T122611Z">
@@ -25766,6 +25790,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The status bar displays work-flow related messages at the bottom of the main window.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T113811Z" creationid="piav" creationdate="20191208T113811Z">
+        <seg>Pääikkunan alareunassa olevalla tilarivillä on käännöstyön kulkuun liittyviä viestejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The supported file formats are those listed in &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;File Filters&lt;/g3&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T151607Z" creationid="piav" creationdate="20191202T151421Z">
@@ -26311,6 +26343,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T114036Z" creationid="piav" creationdate="20191127T113843Z">
         <seg>Tälle alueelle voi lisätä ulkoisen jälkikäsittelykomennon (esim. tiedostot uudelleen nimeävän komentosarjan), joka suoritetaan joka kerta, kun Luo käännetyt tiedostot -komento suoritetaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This bar gives the user feedback on specific operations that are in progress.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T113859Z" creationid="piav" creationdate="20191208T113859Z">
+        <seg>Tilarivi näyttää käyttäjälle tietoa tietyistä käynnissä olevista toimenpiteistä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26864,6 +26904,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T072202Z" creationid="piav" creationdate="20190521T072202Z">
         <seg>Tämän sivun voi lukea myös englanniksi!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This way the translator can be provided the context about the segment to be translated.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T113643Z" creationid="piav" creationdate="20191208T113643Z">
+        <seg>Näin kääntäjälle voidaan antaa lisätietoa käännettävän segmentin kontekstista.</seg>
       </tuv>
     </tu>
     <tu>
