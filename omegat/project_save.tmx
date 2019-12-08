@@ -14249,6 +14249,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It shows translation of terms found in the current segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T110904Z" creationid="piav" creationdate="20191208T110904Z">
+        <seg>Ruudulla näkyy senhetkisestä lähdesegmentistä löytyvien termien käännöksiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
@@ -24204,6 +24212,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191203T135759Z" creationid="piav" creationdate="20191203T135745Z">
         <seg>Editoriruutu näyttää asiakirjan tekstin osittain käännettynä: kääntämättä oleva teksti on lähdekielellä ja jo käännetty teksti kohdekielellä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T110803Z" creationid="piav" creationdate="20191208T110722Z">
+        <seg>Sanastoruudussa näet sanoja ja erikoistermejä, joita olet koonnut omiin sanastotiedostoihisi.</seg>
       </tuv>
     </tu>
     <tu>
