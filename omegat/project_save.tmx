@@ -13537,6 +13537,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;f0&gt;mt&lt;/f0&gt;, the background of the active segment is changed to red.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T123925Z" creationid="piav" creationdate="20191208T123853Z">
+        <seg>Kun lisäät editoriruutuun &lt;f0&gt;mt&lt;/f0&gt;-kansiossa olevasta käännösmuistista löytyneen osuman, aktiivisen segmentin taustaväri muuttuu punaiseksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the example below, the author of the PO file included a warning for the translator to check the length of the translation:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T113728Z" creationid="piav" creationdate="20191208T113728Z">
@@ -17368,8 +17376,16 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Note: if TMX is removed from /tm/auto before step 3, no extra Translation Unit is added.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191208T123041Z" creationid="piav" creationdate="20191208T123041Z">
-        <seg>Huom.: Jos käännösmuisti poistetaan /tm/auto-kansiosta ennen 3-vaihetta, ylimääräistä käännösyksikköä ei lisätä projektin käännösmuistiin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T123752Z" creationid="piav" creationdate="20191208T123041Z">
+        <seg>Huom.: Jos käännösmuisti poistetaan /tm/auto-kansiosta ennen kolmosvaihetta, ylimääräistä käännösyksikköä ei lisätä projektin käännösmuistiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: if TMX is removed from /tm/enforce before step 3, enforcements aren't kept at all.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T123744Z" creationid="piav" creationdate="20191208T123744Z">
+        <seg>Huom.: Jos TMX-tiedosto poistetaan /tm/enforce-kansiosa ennen kolmosvaihetta, pakotetut käännökset eivät tallennu lainkaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23115,6 +23131,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sometimes, it is useful to distinguish between high-quality translation memories and those that are, because of the subject matter, client, revision status, etc., less reliable.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T124128Z" creationid="piav" creationdate="20191208T124128Z">
+        <seg>Toisinaan on hyvä erottaa asiasisällön, asiakkaan, tarkastustilan tms. kannalta hyvälaatuiset käännösmuistit vähemmän luotettavista muisteista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sorry</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124842Z" creationid="PiaVee" creationdate="20170908T124842Z">
@@ -24766,6 +24790,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T082257Z" creationid="piav" creationdate="20191030T082257Z">
         <seg>Käytettävissä ovat seuraavat asetukset:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The background is restored to normal when the segment is left.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T123936Z" creationid="piav" creationdate="20191208T123905Z">
+        <seg>Taustaväri muuttuu normaaliksi, kun poistut segmentistä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35804,6 +35836,22 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T123044Z" creationid="piav" creationdate="20191208T123044Z">
         <seg>tm/enforce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm/mt</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T123756Z" creationid="piav" creationdate="20191208T123756Z">
+        <seg>tm/mt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm/penalty-xxx</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T123938Z" creationid="piav" creationdate="20191208T123938Z">
+        <seg>tm/penalty-xxx</seg>
       </tuv>
     </tu>
     <tu>
