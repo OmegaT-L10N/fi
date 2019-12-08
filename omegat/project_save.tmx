@@ -25470,6 +25470,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T105724Z" creationid="piav" creationdate="20191208T105724Z">
+        <seg>Valitun sumean osuman teksti on lihavoitu, sanat, joita ei ole käännettävässä segmentissä, ovat vihreitä, ja puuttuvien osien vieressä olevat sanat ovat vihreitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The selected languages will then be installed and will eventually appear in your spell checker setup window (this may take a while).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T111333Z" creationid="piav" creationdate="20191023T111333Z">
