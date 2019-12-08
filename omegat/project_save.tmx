@@ -25486,6 +25486,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project in the example is evidently finished, as all the unique segments have been translated.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T114837Z" creationid="piav" creationdate="20191208T114837Z">
+        <seg>On selvää, että esimerkin projekti on valmistunut, sillä kaikki uniikit segmentit on käännetty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project setting allows one to enter a name for a writable glossary file (see beginning of this chapter).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T082736Z" creationid="piav" creationdate="20191022T082736Z">
