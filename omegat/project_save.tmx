@@ -5287,6 +5287,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T125216Z" creationid="piav" creationdate="20191208T125216Z">
+        <seg>Tiedoston varmuuskopioita (tunniste .bak) lisätään tänne sitä mukaa, kun niitä syntyy: käännösistunnon alussa, käännöstyön edistyessä ja aina käännösistunnon lopuksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bad folder name {0}</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T142900Z" creationid="piav" creationdate="20190521T142900Z">
@@ -25587,6 +25595,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T133320Z" creationid="piav" creationdate="20191201T133320Z">
         <seg>Tavallisesti tilarivillä näkemiäsi viestejä ei näytetä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most important file here is the &lt;f1&gt;project_save.tmx, &lt;/f1&gt;that is the working translation memory for the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T124925Z" creationid="piav" creationdate="20191208T124925Z">
+        <seg>Tärkein tiedostoista on &lt;f1&gt;project_save.tmx&lt;/f1&gt;, projektin sisäinen työkäännösmuisti.</seg>
       </tuv>
     </tu>
     <tu>
