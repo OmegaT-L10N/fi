@@ -14121,6 +14121,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is possible to drag text from anywhere in the main window and to drop it within the segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T103106Z" creationid="piav" creationdate="20191208T102942Z">
+        <seg>Voit valita tekstiä missä tahansa pääikkunan osassa ja vetää ja pudottaa sen käännettävänä olevaan segmenttiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is possible to select another tokenizer (Language Tokenizer) or a different version of the tokenizer (Tokenizer Behavior) from the Project Properties window.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T153741Z" creationid="PiaVee" creationdate="20171014T153741Z">
@@ -24011,6 +24019,14 @@ Tekstin korvaus tapahtuu projektin lähdekielisissä segmenteissä riippumatta s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T063537Z" creationid="piav" creationdate="20190522T063537Z">
         <seg>Poistettava teksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Texted dragged from outside the target segment is copied, while text dragged from within the segment is moved.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T103317Z" creationid="piav" creationdate="20191208T102943Z">
+        <seg>Kohdesegmentin ulkopuolelta tuleva teksti kopioidaan segmenttiin, ja segmentin sisällä oleva teksti siirretään uuteen paikkaansa.</seg>
       </tuv>
     </tu>
     <tu>
