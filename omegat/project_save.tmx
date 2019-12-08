@@ -22691,6 +22691,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So do the next two matches, and the match #4 is similar, but different.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T110235Z" creationid="piav" creationdate="20191208T110235Z">
+        <seg>Myös kaksi seuraavaa osumaa ovat sataprosenttisia, ja osuma nr 4 on samankaltainen, mutta erilainen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So it is probably faster to type the term correctly right away without bothering with the glossary and its shortcuts.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T053003Z" creationid="piav" creationdate="20191022T080441Z">
@@ -25722,6 +25730,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T141439Z" creationid="piav" creationdate="20191202T141439Z">
         <seg>Valintaikkunan otsikkona on senhetkisen käännettävän tiedoston nimi (joka riippuu siitä, kuinka monta OmegaT-istuntoa on käynnissä yhtä aikaa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The top match is 100%, because all words match.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T110158Z" creationid="piav" creationdate="20191208T110158Z">
+        <seg>Ylin osuma on sataprosenttinen, sillä kaikki osuman sanat vastaavat käännettävänä olevan segmentin sanoja.</seg>
       </tuv>
     </tu>
     <tu>
