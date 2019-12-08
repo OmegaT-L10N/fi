@@ -3645,8 +3645,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T122629Z" creationid="piav" creationdate="20191201T122629Z">
-        <seg>Voit pyytää API-avainta lomakkeella &lt;u0&gt;API key request form&lt;/u0&gt;, ja näet avaimen &lt;u1&gt;My Keys&lt;/u1&gt;-sivulla.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T130647Z" creationid="piav" creationdate="20191201T122629Z">
+        <seg>Voit pyytää API-avainta lomakkeella &lt;u0&gt;API key request form&lt;/u0&gt;, ja näet avaimen &lt;u1&gt;My Keys&lt;/u1&gt; -sivulla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18588,8 +18588,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Opens a new &lt;l0&gt;Search and replace window&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T134835Z" creationid="piav" creationdate="20191202T131305Z">
-        <seg>Uusi &lt;l0&gt;Etsi ja korvaa&lt;/l0&gt;-ikkuna avautuu.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T130654Z" creationid="piav" creationdate="20191202T131305Z">
+        <seg>Uusi &lt;l0&gt;Etsi ja korvaa&lt;/l0&gt; -ikkuna avautuu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29224,8 +29224,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>Use this command to register the translation to be identical to the source, even if &lt;l0&gt;&lt;g1&gt;Allow translation to be equal to source&lt;/g1&gt;&lt;/l0&gt; is not checked.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191202T135410Z" creationid="piav" creationdate="20191202T135410Z">
-        <seg>Käytä tätä komentoa merkitsemään käännös samaksi kuin lähdeteksti silloinkin, kun &lt;l0&gt;Käännös saa olla sama kuin lähdeteksti&lt;g1&gt;-valintaa ei ole valittu.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T130701Z" creationid="piav" creationdate="20191202T135410Z">
+        <seg>Käytä tätä komentoa merkitsemään käännös samaksi kuin lähdeteksti silloinkin, kun &lt;l0&gt;Käännös saa olla sama kuin lähdeteksti&lt;g1&gt; -valintaa ei ole valittu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30837,8 +30837,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       <tuv lang="EN">
         <seg>You may even consider removing those that are not required any more, once you have used their contents to fill up the &lt;f0&gt;project-save.tmx&lt;/f0&gt; file.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T075807Z" creationid="piav" creationdate="20191128T075807Z">
-        <seg>Voit myös poistaa kaikki ne käännösmuistit, joita et enää tarvitse project-save.tmx&lt;/f0&gt;-tiedoston täyttämiseen.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T130426Z" creationid="piav" creationdate="20191128T075807Z">
+        <seg>Voit myös poistaa kaikki ne käännösmuistit, joita et enää tarvitse &lt;f0&gt;project-save.tmx&lt;/f0&gt;-tiedoston täyttämiseen.</seg>
       </tuv>
     </tu>
     <tu>
