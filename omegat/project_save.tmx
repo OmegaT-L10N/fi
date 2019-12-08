@@ -6955,6 +6955,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contains project parameters as defined in the &lt;l0&gt;Project properties&lt;/l0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T130040Z" creationid="piav" creationdate="20191208T125918Z">
+        <seg>&lt;l0&gt;Projektin ominaisuudet&lt;/l0&gt; -valintaikkunassa määritellyt pojektiasetukset löytyvät tästä tiedostosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Context Menu Priority:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T140322Z" creationid="piav" creationdate="20190920T140322Z">
@@ -33350,24 +33358,24 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>if existing, it contains project-specific GUI settings.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191208T125801Z" creationid="piav" creationdate="20191208T125801Z">
-        <seg>Mahdolliset projektikohtaiset </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T125831Z" creationid="piav" creationdate="20191208T125801Z">
+        <seg>Mahdolliset projektikohtaiset käyttöliittymäasetukset löytyvät tästä tiedostosta.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>if existing, it contains project-specific file filters.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191208T125748Z" creationid="piav" creationdate="20191208T125748Z">
-        <seg>Mahdolliset projektikohtaiset tiedostosuodattimet on tallennettu tähän tiedostoon.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T125851Z" creationid="piav" creationdate="20191208T125748Z">
+        <seg>Mahdolliset projektikohtaiset tiedostosuodattimet löytyvät tästä tiedostosta.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>if existing, it contains project-specific segmentation rules.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191208T125726Z" creationid="piav" creationdate="20191208T125726Z">
-        <seg>Mahdolliset projektikohtaiset segmentointisäännöt on tallennettu tähän tiedostoon.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T125841Z" creationid="piav" creationdate="20191208T125726Z">
+        <seg>Mahdolliset projektikohtaiset segmentointisäännöt löytyvät tästä tiedostosta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34666,6 +34674,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T080855Z" creationid="PiaVee" creationdate="20171015T080855Z">
         <seg>om</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat.project (file)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T125857Z" creationid="piav" creationdate="20191208T125857Z">
+        <seg>omegat.project (tiedosto)</seg>
       </tuv>
     </tu>
     <tu>
