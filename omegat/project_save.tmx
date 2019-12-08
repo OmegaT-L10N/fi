@@ -2049,6 +2049,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>27/27</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T114201Z" creationid="piav" creationdate="20191208T114201Z">
+        <seg>27/27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T160255Z" creationid="PiaVee" creationdate="20171014T160255Z">
@@ -15482,6 +15490,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Main Window - counters</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T114159Z" creationid="piav" creationdate="20191208T114159Z">
+        <seg>Pääikkunan laskurit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Major changes to the segmentation rules should be generally avoided, especially after completion of the first draft, but minor changes, such as the addition of a recognized abbreviation, can be advantageous.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T133331Z" creationid="piav" creationdate="20191030T133331Z">
@@ -24703,6 +24719,14 @@ instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T152211Z" creationid="piav" creationdate="20191022T152211Z">
         <seg>Koodinvaihtomerkki, joka vastaa x:ää</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The counters in the lower right corner keep track of the progress of the translation (numbers in the left hand column refer to the figure above):</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T114153Z" creationid="piav" creationdate="20191208T114153Z">
+        <seg>Oikeassa alanurkassa olevat laskurit näyttävät käännöksen edistymisen (vasemman sarakkeen numerot viittaavat tilarivin numeroihin):</seg>
       </tuv>
     </tu>
     <tu>
@@ -33993,6 +34017,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T080715Z" creationid="PiaVee" creationdate="20171015T080715Z">
         <seg>nr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>number of segments - translated vs total for the current file</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T114237Z" creationid="piav" creationdate="20191208T114237Z">
+        <seg>käännettyjen segmenttien määrä / senhetkisen tiedoston segmenttien kokonaismäärä</seg>
       </tuv>
     </tu>
     <tu>
