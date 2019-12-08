@@ -5615,6 +5615,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T103501Z" creationid="piav" creationdate="20191208T103501Z">
+        <seg>Oletusasetuksena on, että lähdesegmentin tekstiä ei voi valita näppäinkomennoilla, vaan teksti on valittavaa hiirellä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T123206Z" creationid="piav" creationdate="20191127T122953Z">
@@ -19307,6 +19315,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T132752Z" creationid="piav" creationdate="20191202T131136Z">
         <seg>Näppäinyhdistelmä &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;vaihto&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt;näyttää viimeksi avatun hakuikkunan (eikä siis avaa uutta hakuikkunaa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pressing &lt;k0&gt;F2&lt;/k0&gt; key allows to move the cursor into the source segment (or anywhere in the editor) with the keyboard arrows.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T103645Z" creationid="piav" creationdate="20191208T103645Z">
+        <seg>Paina &lt;k0&gt;F2&lt;/k0&gt;-näppäintä, niin saat liikutettua kohdistinta nuolinäppäimillä minne tahansa editoriruudussa.</seg>
       </tuv>
     </tu>
     <tu>
