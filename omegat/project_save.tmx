@@ -25030,6 +25030,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The matching percentage is roughly equivalent to taking the number of common words in the matched and the matching segment and dividing by the number of words in the longer of the two.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T105541Z" creationid="piav" creationdate="20191208T105541Z">
+        <seg>Osuman prosentuaalinen vastaavuus on suurin piirtein sama kuin käännettävän segmentin ja osumesegmentin yhteisten sanojen lukumäärä jaettuna näistä pidemmän segmentin sanamäärällä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T120211Z" creationid="piav" creationdate="20191202T120024Z">
@@ -27178,6 +27186,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T073543Z" creationid="piav" creationdate="20191022T073440Z">
         <seg>Jos sinulla on jo sanastotiedosto, jota haluat käyttää, luo OmegaT-käännösprojekti ja vie sanastotiedosto projektin &lt;f0&gt;/glossary&lt;/f0&gt;-kansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use the selected match in your translation, use &lt;g4&gt;Ctrl+R&lt;/g4&gt; to replace the target field with the match or use &lt;g5&gt;Ctrl+I &lt;/g5&gt; to insert it at the cursor position.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T105248Z" creationid="piav" creationdate="20191208T105248Z">
+        <seg>Näppäinyhdistelmä &lt;g4&gt;Ctrl+R&lt;/g4&gt; korvaa kaiken kohdekentän tekstin valitulla osumalla, ja &lt;g5&gt;Ctrl+I&lt;/g5&gt; lisää osuman kohdistimen kohdalle.</seg>
       </tuv>
     </tu>
     <tu>
