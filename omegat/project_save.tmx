@@ -17166,6 +17166,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that other CAT tools can export (and import as well) tmx files, usually in all three forms.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T120455Z" creationid="piav" creationdate="20191208T120455Z">
+        <seg>Huomaa, että muut CAT-työkalut voivat viedä (ja niihin voi tuoda) TMX-tiedostoja, yleensä kaikissa kolmessa muodossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that the "Install" function requires an Internet connection.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T111251Z" creationid="piav" creationdate="20191023T111251Z">
@@ -24650,6 +24658,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The best thing of course is to use OmegaT-specific TMX files (see above), so that the in-line formatting within the segment is retained.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T120550Z" creationid="piav" creationdate="20191208T120543Z">
+        <seg>Parasta on tietysti käyttää erityisesti OmegaT:tä varten olevia TMX-tiedostoja (ks. yllä), jolloin segmentit sisäiset inline-muotoilut säilyvät ennallaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The carriage-return character ('\u000D')</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T151055Z" creationid="piav" creationdate="20191022T150814Z">
@@ -24823,6 +24839,14 @@ instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T120125Z" creationid="piav" creationdate="20191208T120125Z">
         <seg>Target-alikansion sisältö kuvaa käännöstyön senhetkistä tilaa sellaisena, kuin se on projektin käännösmuistissa (tallennettuna tiedostoon &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The contents of translation memories in the tm subfolder serve to generate suggestions for the text(s) to be translated.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T120809Z" creationid="piav" creationdate="20191208T120809Z">
+        <seg>OmegaT etsii (sumeita) käännösosumia alikansiossa tm olevista käännösmuisteista.</seg>
       </tuv>
     </tu>
     <tu>
