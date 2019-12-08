@@ -11022,6 +11022,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For translation memories in folders with a name &lt;f0&gt;penalty-xxx&lt;/f0&gt; (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called &lt;f1&gt;penalty-30&lt;/f1&gt; for instance, will be lowered to a 70% match.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T124239Z" creationid="piav" creationdate="20191208T124239Z">
+        <seg>Kun käännösmuisti on &lt;f0&gt;penalty-xxx&lt;/f0&gt;-kansiossa (xxx on luku väliltä 0–100), siitä löytyneiden osumien  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Format:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T175831Z" creationid="piav" creationdate="20190521T175831Z">
