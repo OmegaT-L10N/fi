@@ -13441,6 +13441,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this mode, "&lt;g1&gt;Cursor lock off&lt;/g1&gt;" is displayed at the bottom of the pane.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T103845Z" creationid="piav" creationdate="20191208T103845Z">
+        <seg>Tämä tila näkyy ruudun alareunassa UNL-merkkinä. Kun viet hiiren kohdistimen merkin päälle, näet tekstin &lt;g1&gt;Kursori ei lukittuna&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this mode, OmegaT will align the Java properties files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project to the contents found at the specified location.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T130800Z" creationid="piav" creationdate="20191201T130800Z">
