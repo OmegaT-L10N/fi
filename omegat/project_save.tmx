@@ -12905,6 +12905,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have no doubt that a TMX is more accurate than the &lt;f0&gt;project_save.tmx&lt;/f0&gt; of OmegaT, put this TMX in /tm/enforce to overwrite existing default translations unconditionally.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T123216Z" creationid="piav" creationdate="20191208T123216Z">
+        <seg>Jos olet varma siitä, että jokin käännösmuisti on oikeampi kuin OmegaT-ohjelman &lt;f0&gt;project_save.tmx&lt;/f0&gt;, laita käännösmuisti kansioon /tm/enforce. Tällöin projektin käännösmuistissa olevat oletuskäännökset korvataan ehdoitta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you haven't yet saved the project, this manually confirms whether you really wish to quit.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T145406Z" creationid="piav" creationdate="20191202T145406Z">
@@ -15622,6 +15630,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T122900Z" creationid="piav" creationdate="20191208T122900Z">
         <seg>Tee pieni muutos jossakin kohtaa projektia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make decision about immunity of the enforced segments:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T123408Z" creationid="piav" creationdate="20191208T123408Z">
+        <seg>Päätä </seg>
       </tuv>
     </tu>
     <tu>
@@ -18402,6 +18418,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T123306Z" creationid="piav" creationdate="20191208T123306Z">
+        <seg>Avaa projekti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open {0} Source Files</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072751Z" creationid="PiaVee" creationdate="20171218T072640Z">
@@ -20051,6 +20075,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T122823Z" creationid="piav" creationdate="20191208T122823Z">
         <seg>Laita TMX-tiedosto kansioon /tm/auto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Put the TMX in /tm/enforce.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T123231Z" creationid="piav" creationdate="20191208T123231Z">
+        <seg>Laita TMX-tiedosto kansioon /tm/enforce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27071,8 +27103,16 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt; (by adding proper Translation Units from "auto" TMX)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191208T122952Z" creationid="piav" creationdate="20191208T122952Z">
-        <seg>Tämä muuntaa tiedostoa &lt;f0&gt;project_save.tmx&lt;/f0&gt; (lisäämällä siihen oikeita käännösyksikköjä auto-kansion käännösmuistista).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191208T123328Z" creationid="piav" creationdate="20191208T122952Z">
+        <seg>Tämä muuttaa tiedostoa &lt;f0&gt;project_save.tmx&lt;/f0&gt; (lisäämällä siihen oikeita käännösyksikköjä auto-kansion käännösmuistista).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T123341Z" creationid="piav" creationdate="20191208T123320Z">
+        <seg>Tämä muuttaa tiedostoa &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
