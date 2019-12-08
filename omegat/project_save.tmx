@@ -12569,6 +12569,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T110503Z" creationid="piav" creationdate="20191208T110503Z">
+        <seg>Jos käännösmuistin nimeä ei näy, osuma on peräisin projektin sisäisestä käännösmuistista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If there's several alternative translations available for the active segment, you can label the alternative selected as the default translation.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T133947Z" creationid="piav" creationdate="20191202T133824Z">
@@ -18430,6 +18438,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T085506Z" creationid="PiaVee" creationdate="20171218T085506Z">
         <seg>Yksinäisiä segmenttejä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Orphan segments (the match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T110618Z" creationid="piav" creationdate="20191208T110618Z">
+        <seg>Orposegmentit (osuma nro 2) ovat projektin sisäisessä käännösmuistissa olevia segmenttejä, joilla ei ole vastaavaa lähdekielistä segmenttiä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24978,6 +24994,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T081806Z" creationid="piav" creationdate="20191128T081806Z">
         <seg>Kakkostason TMX-tiedoston vienti ei aivan ole kakkostason standardin mukainen, mutta kuitenkin niin lähellä sitä, että siitä löytyy oikeanlaisia osumia muissa kakkostason käännösmuistitiedostoja tukevissa ohjelmissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The line with the matching percentage also includes the name of the translation memory containing the match.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T110426Z" creationid="piav" creationdate="20191208T110426Z">
+        <seg>Samalla rivillä, jossa on osumaprosentti, on myös osuman sisältävän käännösmuistin nimi.</seg>
       </tuv>
     </tu>
     <tu>
