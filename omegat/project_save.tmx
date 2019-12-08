@@ -3403,6 +3403,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A given source segment may require several different translations, depending on the context.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T112954Z" creationid="piav" creationdate="20191208T112820Z">
+        <seg>Tietty lähdesegmentti voi vaatia kontekstista riippuen useita erilaisia käännöksiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A good starting point will always be the existing rules.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T134359Z" creationid="piav" creationdate="20191030T134313Z">
@@ -12437,6 +12445,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T151945Z" creationid="piav" creationdate="20191202T135638Z">
         <seg>Jos senhetkinen segmentti on tiedoston viimeinen segmentti, kohdistin siirtyy seuraavan tiedoston ensimmäiseen segmenttiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the current translation of the segment does not fit, the user can select &lt;g0&gt;Edit → Create Alternative Translation&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T112909Z" creationid="piav" creationdate="20191208T112857Z">
+        <seg>Jos segmentin senhetkinen käännös ei sovi, valitse &lt;g0&gt;Muokkaa → Luo vaihtoehtoinen käännös&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25782,6 +25798,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The target text entered after that will be treated as an alternative translation of the source segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T113009Z" creationid="piav" creationdate="20191208T112950Z">
+        <seg>Tämän jälkeen kirjoittamastasi tekstistä tulee lähdesegmentin vaihtoehtoinen käännös.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The text could not be translated</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190919T131953Z" creationid="piav" creationdate="20190919T131953Z">
@@ -30045,6 +30069,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T100111Z" creationid="piav" creationdate="20191030T100111Z">
         <seg>Voit määritellä kääntämättä jätettävien tägien avain-arvo-parit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can define one of the alternative - for instance the most probable among them - as default translation by selecting &lt;g1&gt;Edit → Use as Default Translation&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191208T113152Z" creationid="piav" creationdate="20191208T113152Z">
+        <seg>Voit määritellä yhden vaihtoehdon – esimerkiksi todennäköisimmän – käännöksen – oletuskäännökseksi valitsemalla &lt;g1&gt;Muokkaa → Käytä vaihtoehtoisena käännöksenä&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
