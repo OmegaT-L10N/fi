@@ -15226,6 +15226,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyword searches are similar to a search "with all of the words" in an Internet search engine such as Google (AND logic).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T164010Z" creationid="piav" creationdate="20191209T164010Z">
+        <seg>Avainsanahaku muistuttaa internetin hakukoneiden käyttämää "hae kaikkia sanoja" -logiikkaa (Boolen haun AND-logiikka).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T140325Z" creationid="piav" creationdate="20190521T140325Z">
@@ -18250,6 +18258,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T110647Z" creationid="PiaVee" creationdate="20171014T110647Z">
         <seg>OmegaT:n määrittimissä (OmegaT.l4J.ini, omegat.kaptn sekä Configuration.properties) on mallipohja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT displays a list of all segments containing all of the words specified.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T163844Z" creationid="piav" creationdate="20191209T163844Z">
+        <seg>OmegaT näyttää luettelon segmenteistä, joissa on kaikki määritellyt sanat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23031,6 +23047,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T094540Z" creationid="piav" creationdate="20191201T094525Z">
         <seg>Vanhvista valinta napsauttamalla OK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select keyword search to search for any number of individual full words, in any order.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T163823Z" creationid="piav" creationdate="20191209T163823Z">
+        <seg>Valitse avainsanahaku, kun haluat etsiä yksittäisiä sanoja missä tahansa järjestyksessä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30177,6 +30201,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T140441Z" creationid="piav" creationdate="20191030T140441Z">
         <seg>Jos käytät koneellasi muuta kuin OmegaT:n mukana tulevaa kielentarkistinta, voit mukauttaa varmennussääntöjä itsellesi sopiviksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using keyword search with &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; will thus find all occurrences of the string &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; as well as &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T164126Z" creationid="piav" creationdate="20191209T164126Z">
+        <seg>Avainsanahaku sanoilla &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; löytää siis kaikki merkkijonon &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;&lt;/e2&gt; esiintymät sekä &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt; jne.</seg>
       </tuv>
     </tu>
     <tu>
