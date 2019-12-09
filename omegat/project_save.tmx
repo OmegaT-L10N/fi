@@ -6431,6 +6431,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose the one that provides the best results.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T150058Z" creationid="piav" creationdate="20191209T150058Z">
+        <seg>Valitse se, joka antaa parhaimmat tulokset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chuvash</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173910Z" creationid="PiaVee" creationdate="20171014T173910Z">
@@ -6491,6 +6499,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T100611Z" creationid="PiaVee" creationdate="20171014T100345Z">
         <seg>Jatka korvaamista painamalla &lt;e2&gt;Korvaa seuraava&lt;/e2&gt; tai &lt;e3&gt;Ohita&lt;/e3&gt;, ja lopeta korvaaminen napsauttamalla &lt;e4&gt;Lopeta&lt;/e4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;g0&gt;Continue&lt;/g0&gt; to access the next step.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T150128Z" creationid="piav" creationdate="20191209T150128Z">
+        <seg>Siirry seuraavaan vaiheeseen napsauttamalla &lt;g0&gt;Jatka&lt;/g0&gt;-painiketta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13299,8 +13315,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In &lt;g1&gt;Parsewise&lt;/g1&gt; mode, they are evaluated segment by segment.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T145804Z" creationid="piav" creationdate="20191209T145738Z">
-        <seg>&lt;g1&gt;Segmentti kerrallaan&lt;/g1&gt;-tilassa tekstit arvioidaan  </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T145813Z" creationid="piav" creationdate="20191209T145738Z">
+        <seg>&lt;g1&gt;Segmentti kerrallaan&lt;/g1&gt;-tilassa tekstit arvioidaan – segmentti kerrallaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24728,6 +24744,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;g0&gt;Viterbi&lt;/g0&gt; and &lt;g1&gt;Forward-Backward&lt;/g1&gt; algorithms are two different calculation methods.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T150048Z" creationid="piav" creationdate="20191209T150035Z">
+        <seg>&lt;g0&gt;Viterbi&lt;/g0&gt;- ja &lt;g1&gt;Edestakaisin&lt;/g1&gt;-algoritmit ovat kaksi eri laskentatapaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;g1&gt;Tag Issues&lt;/g1&gt; option is always selected.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T145636Z" creationid="piav" creationdate="20191202T145629Z">
@@ -27436,6 +27460,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This option only appears if both the selected files are recognised as Key=Value files.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T150022Z" creationid="piav" creationdate="20191209T150022Z">
+        <seg>Tämä valinta näkyy vain, jos molemmat tiedostot tunnistetaan avain–arvo-tiedostoiksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This package can be used on any platform where a Java 8 compatible JRE is installed.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T105759Z" creationid="piav" creationdate="20191201T105759Z">
@@ -27552,6 +27584,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T111550Z" creationid="piav" creationdate="20191127T111421Z">
         <seg>Tällöin käännösten tila muuttuu ja niistä tulee "kääntämättömiä", sillä segmentit eivät enää vastaa projektin muistissa olevia segmenttejä, vaikka alkuperäinen käännös onkin siellä tallessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T145959Z" creationid="piav" creationdate="20191209T145959Z">
+        <seg>Tämä toimii silloinkin, kun tekstit eivät ole samassa järjestyksessä molemmissa tiedostoissa ja/tai jos tiedostoissa on eri määrä sisältöä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29177,6 +29217,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T105449Z" creationid="piav" creationdate="20191129T105449Z">
         <seg>Käytä &lt;a0&gt;OmegaT&lt;/a0&gt;:n oletussuodatinta (PDF input), käännä, luo kohdetiedosto (vain teksti -tiedosto) ja lisää tarvittavat muotoilut ja muut elementit käsin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;g0&gt;ID comparison&lt;/g0&gt; mode to align Key=Value texts.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T145917Z" creationid="piav" creationdate="20191209T145917Z">
+        <seg>&lt;g0&gt;ID-vertailu&lt;/g0&gt;-tilassa saat kohdistettua avain–arvo-tekstipareja.</seg>
       </tuv>
     </tu>
     <tu>
