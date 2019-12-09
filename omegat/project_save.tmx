@@ -2507,6 +2507,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Display: all matching segments: &lt;/e0&gt;if checked, all the segments are displayed one by one, even if they are present several times in the same document or in different documents.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T165518Z" creationid="piav" creationdate="20191209T165518Z">
+        <seg>&lt;e0&gt;Näytä: kaikki osuvat segmentit&lt;/e0&gt;: Jos tässä kohdassa on rasti, kaikki löydetyt segmentit näytetään yksi kerrallaan, vaikka ne toistuisivat moneen kertaan joko samassa asiakirjassa tai eri asiakirjoissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Display: file names: &lt;/e0&gt;if checked, the name of the file where each segment is found is displayed above each result.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T165623Z" creationid="piav" creationdate="20191209T165545Z">
+        <seg>&lt;e0&gt;Näytä: tiedostojen nimet&lt;/e0&gt;: Jos tässä kohdassa on rasti, jokaisen hakutuloksen yläpuolella lukee sen tiedoston nimi, josta löydös on tehty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ...:&lt;/e0&gt; The meta-tags in the box will not be translated.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T095307Z" creationid="piav" creationdate="20191030T095236Z">
@@ -2765,8 +2781,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Translated: &lt;/e0&gt;search only in translated segments.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T165259Z" creationid="piav" creationdate="20191209T165259Z">
-        <seg>&lt;e0&gt;käännetyistä&lt;/e0&gt; hakee vain käännetyistä segmenteistä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T165336Z" creationid="piav" creationdate="20191209T165259Z">
+        <seg>&lt;e0&gt;käännetyistä&lt;/e0&gt; hakee vain jo käännetyistä segmenteistä.</seg>
       </tuv>
     </tu>
     <tu>
