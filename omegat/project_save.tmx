@@ -2731,10 +2731,18 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Search in Files: &lt;/e0&gt;search in a single file or a folder containing a set of files.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T170112Z" creationid="piav" creationdate="20191209T170024Z">
+        <seg>&lt;e0&gt;Hae: Tiedostoista&lt;/e0&gt;: Haku kohdistuu yksittäiseen tiedostoon tai kansioon, jossa on joukko tiedostoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Search in Project&lt;/e0&gt;: check &lt;e1&gt;Memory&lt;/e1&gt; to include the project memory (project_save.tmx file) in the search.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T165829Z" creationid="piav" creationdate="20191209T165700Z">
-        <seg>&lt;e0&gt;Hae projektin&lt;/e0&gt;: Valitse &lt;e1&gt;muistista&lt;/e1&gt;, niin projektin käännösmuistitiedosto (project_save.tmx) on mukana haussa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T170030Z" creationid="piav" creationdate="20191209T165700Z">
+        <seg>&lt;e0&gt;Hae: Projektin&lt;/e0&gt;: Valitse &lt;e1&gt;muistista&lt;/e1&gt;, niin löydöksiä etsitään projektin käännösmuistitiedostosta (project_save.tmx).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6401,16 +6409,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Check &lt;e2&gt;TMs&lt;/e2&gt; to include the translation memories located in the &lt;f3&gt;tm&lt;/f3&gt; folder in the search.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T165903Z" creationid="piav" creationdate="20191209T165748Z">
-        <seg>Valitse &lt;e2&gt;TM:istä&lt;/e2&gt;, niin &lt;f3&gt;tm&lt;/f3&gt;-kansiossa olevat käännösmuistit ovat mukana haussa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T165957Z" creationid="piav" creationdate="20191209T165748Z">
+        <seg>Valitse &lt;e2&gt;TM:istä&lt;/e2&gt;, niin löydöksiä etsitään &lt;f3&gt;tm&lt;/f3&gt;-kansiossa olevista käännösmuisteista.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Check &lt;e4&gt;Glossaries&lt;/e4&gt; to include the glossaries located in the &lt;f5&gt;glossary&lt;/f5&gt; folder in the search.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T165923Z" creationid="piav" creationdate="20191209T165923Z">
-        <seg>Valitse &lt;e4&gt;sanastoista&lt;/e4&gt;, niin &lt;f5&gt;glossary&lt;/f5&gt;-kansiossa </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T170008Z" creationid="piav" creationdate="20191209T165923Z">
+        <seg>Valitse &lt;e4&gt;sanastoista&lt;/e4&gt;, niin löydöksiä etsitään &lt;f5&gt;glossary&lt;/f5&gt;-kansiossa olevista sanastoista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30803,6 +30811,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T131334Z" creationid="piav" creationdate="20191201T131334Z">
         <seg>Tämä valinta määrittelee tiedostot, jotka käsitellään automaattisesti sen jälkeen, kun tilaa on käytetty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When searching through files (as opposed to translation memories), OmegaT restricts the search to files in source file formats.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T170207Z" creationid="piav" creationdate="20191209T170207Z">
+        <seg>Kun haku kohdistuu tiedostoihin (eikä käännösmuisteihin), OmegaT rajoittaa haun koskemaan lähdetiedostojen muotoisia tiedostoja.</seg>
       </tuv>
     </tu>
     <tu>
