@@ -11014,6 +11014,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filter entries in editor according to search</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T171813Z" creationid="piav" creationdate="20191209T171813Z">
+        <seg>Sisällön suodattaminen editorissa haun mukaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter options</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T081937Z" creationid="piav" creationdate="20191030T081928Z">
@@ -11210,6 +11218,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T120427Z" creationid="piav" creationdate="20191023T120421Z">
         <seg>Tietoturvasyistä kaikkia segmenttejä ei ole syytä lähettää konekääntimeen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For easier navigation in the search result set, you can apply the search to the editor.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T171902Z" creationid="piav" creationdate="20191209T171902Z">
+        <seg>Voit navigoida helposti hakutuloksissa siirtämällä ne editoriruudulle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20299,6 +20315,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T064728Z" creationid="piav" creationdate="20190522T064133Z">
         <seg>Napsauta &lt;u&gt;{0}&lt;/u&gt; palataksesi &lt;b&gt;{1}&lt;b&gt; -ehdotuksiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press the &lt;e0&gt;Filter&lt;/e0&gt; button on the bottom to limit the shown entries in the editor window to those that match the current search.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T171956Z" creationid="piav" creationdate="20191209T171925Z">
+        <seg>Paina hakuikkunan alareunassa olevaa painiketta &lt;e0&gt;Suodata&lt;/e0&gt;, niin saat haun tulokset näkymään editoriruudussa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31942,6 +31966,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T125459Z" creationid="piav" creationdate="20191127T123311Z">
         <seg>Voit vaihtaa erilaisten näyttötilojen välillä painamalla &lt;k0&gt; &lt;k1&gt;vaihto&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (O-kirjain, ei numero 0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use normal navigation to go to e.g. the next (untranslated) segment that matches the search criteria.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T172024Z" creationid="piav" creationdate="20191209T172024Z">
+        <seg>Voit käyttää tavallisia siirtymätapoje siirtyä esim. seuraavaan (kääntämättömään)</seg>
       </tuv>
     </tu>
     <tu>
