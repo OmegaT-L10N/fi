@@ -2755,6 +2755,30 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Translated or untranslated: &lt;/e0&gt;search in both translated and untranslated segments.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T165222Z" creationid="piav" creationdate="20191209T165142Z">
+        <seg>&lt;e0&gt;Käännetty tai kääntämättä&lt;/e0&gt; hakee sekä käännetyistä että kääntämättömistä segmenteistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Translated: &lt;/e0&gt;search only in translated segments.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T165259Z" creationid="piav" creationdate="20191209T165259Z">
+        <seg>&lt;e0&gt;käännetyistä&lt;/e0&gt; hakee vain käännetyistä segmenteistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Untranslated: &lt;/e0&gt;search only in untranslated segments.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T165331Z" creationid="piav" creationdate="20191209T165331Z">
+        <seg>&lt;e0&gt;kääntämättömistä&lt;/e0&gt; hakee vain segmenteistä, joita ei ole käännetty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Warning: &lt;/e0&gt;because the text will segment differently after filter options have been changed, so you may have to start translating from scratch.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T124602Z" creationid="piav" creationdate="20191030T124602Z">
@@ -2803,10 +2827,34 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;in comments: &lt;/e0&gt;search in comments to segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T165205Z" creationid="piav" creationdate="20191209T165124Z">
+        <seg>&lt;e0&gt;kommenteista&lt;/e0&gt; hakee segmenttien kommenteista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;in notes: &lt;/e0&gt;search in notes to segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T165159Z" creationid="piav" creationdate="20191209T165058Z">
+        <seg>&lt;e0&gt;muistiinpanoista&lt;/e0&gt; hakee segmentteihin kirjoitetuista muistiinpanoista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;in source: &lt;/e0&gt;search in the source segments</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T165012Z" creationid="piav" creationdate="20191209T165012Z">
-        <seg>&lt;e0&gt;lähteessä&lt;/e0&gt;: Hakee lähdesegmenteistä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T165149Z" creationid="piav" creationdate="20191209T165012Z">
+        <seg>&lt;e0&gt;lähteestä&lt;/e0&gt; hakee lähdesegmenteistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;in translations: &lt;/e0&gt;search in the target segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T165154Z" creationid="piav" creationdate="20191209T165014Z">
+        <seg>&lt;e0&gt;käännöksistä&lt;/e0&gt; hakee kohdesegmenteistä.</seg>
       </tuv>
     </tu>
     <tu>
