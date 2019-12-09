@@ -6679,6 +6679,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the dropdown arrow of the &lt;e0&gt;Search for&lt;/e0&gt; box to access the last 10 searches.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T161851Z" creationid="piav" creationdate="20191209T161800Z">
+        <seg>Napsauta &lt;e0&gt;Etsittävä teksti&lt;/e0&gt; -kentän lopussa olevaa nuolikuviota, niin löydät kymmenen viimeisintä hakutermiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191029T102319Z" creationid="piav" creationdate="20191029T102319Z">
@@ -18828,8 +18836,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Open the Search window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; and enter the word or phrase you wish to search for in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T161625Z" creationid="piav" creationdate="20191209T161304Z">
-        <seg>Avaa hakuikkuna näppäinyhdistelmällä &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; ja kirjoita haettava sana tai lauseke &lt;e3&gt;Etsittävä teksti&lt;/e3&gt;-kenttään.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T161819Z" creationid="piav" creationdate="20191209T161304Z">
+        <seg>Avaa hakuikkuna näppäinyhdistelmällä &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; ja kirjoita haettava sana tai lauseke &lt;e3&gt;Etsittävä teksti&lt;/e3&gt; -kenttään.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25216,6 +25224,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Search window has its own menus:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T162051Z" creationid="piav" creationdate="20191209T162051Z">
+        <seg>Hakuikkunassa on omat valikkonsa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The TMX file will continue to be loaded.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T141804Z" creationid="piav" creationdate="20190523T141804Z">
@@ -26936,8 +26952,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The word or phrase is entered in the &lt;e3&gt;Search for&lt;/e3&gt; box automatically.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T161622Z" creationid="piav" creationdate="20191209T161459Z">
-        <seg>Sana tai lauseke siirtyy automaattisesti &lt;e3&gt;Etsittävä teksti&lt;/e3&gt;-kenttään.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T161815Z" creationid="piav" creationdate="20191209T161459Z">
+        <seg>Sana tai lauseke siirtyy automaattisesti &lt;e3&gt;Etsittävä teksti&lt;/e3&gt; -kenttään.</seg>
       </tuv>
     </tu>
     <tu>
