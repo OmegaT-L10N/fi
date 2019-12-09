@@ -2723,6 +2723,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Space matches nbsp&lt;/e0&gt;: when this option is checked, a space character put in search entry can match either a normal space character or a non-breacking space (\u00A) character.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T164547Z" creationid="piav" creationdate="20191209T164547Z">
+        <seg>&lt;e0&gt;Väli vastaa nsb:tä&lt;/e0&gt;: Kun </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Start a new paragraph on&lt;/e0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T094929Z" creationid="piav" creationdate="20191030T094720Z">
@@ -33413,8 +33421,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>exact search</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T163328Z" creationid="piav" creationdate="20191209T163328Z">
-        <seg>täsmähaku</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T164659Z" creationid="piav" creationdate="20191209T163328Z">
+        <seg>Täsmähaku</seg>
       </tuv>
     </tu>
     <tu>
