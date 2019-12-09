@@ -17398,6 +17398,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note however that the numbers do not indicate how relevant the repetitions are: they could mean relatively long sentences repeated a number of times (in which case you are fortunate) or it could describe a table of keywords (not so fortunate).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T153756Z" creationid="piav" creationdate="20191209T153756Z">
+        <seg>Huomaathan kuitenkin, että numerot eivät kerro, kuinka relevantteja toistot ovat. Kyse voi olla pitkistä lauseista, jotka toistuvat useampaan kertaan (jolloin olet onnekas) tai kyse voi olla avainsanataulukosta (jolloin otti ohraleipä).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that &lt;f0&gt;Remove&lt;/f0&gt; physically removes the selected vocabularies.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T115333Z" creationid="piav" creationdate="20191023T115110Z">
@@ -25440,6 +25448,14 @@ instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T105723Z" creationid="piav" creationdate="20191030T105258Z">
         <seg>Kohdassa on erityinen kohdetiedoston nimen muodon muokkain, jolla voit mukauttaa tuotettujen tiedostojen nimiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The difference between "Number of segments" and "Number of unique segments" provides an approximate idea of the number of repetitions in the text.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T153528Z" creationid="piav" creationdate="20191209T153438Z">
+        <seg>"Segmenttien määrän" ja "uniikkien segmenttien määrän" ero antaa aavistuksen siitä, kuinka paljon tekstissä on toistoa.</seg>
       </tuv>
     </tu>
     <tu>
