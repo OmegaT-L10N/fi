@@ -4563,6 +4563,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, you can select a word or phrase in the Editor pane, Fuzzy matches pane or Glossary pane and hit &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T161345Z" creationid="piav" creationdate="20191209T161345Z">
+        <seg>Vaihtoehtoisesti voit valita editorisanan tai lauseen </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T063914Z" creationid="piav" creationdate="20191023T063914Z">
@@ -18818,6 +18826,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the Search window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; and enter the word or phrase you wish to search for in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T161321Z" creationid="piav" creationdate="20191209T161304Z">
+        <seg>Avaa hakuikkuna näppäinyhdistelmällä &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; ja kirjoita haettava sana tai lauseke &lt;e3&gt;Etsittävä teksti&lt;/e3&gt;-laatikkoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the project.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T123306Z" creationid="piav" creationdate="20191208T123306Z">
@@ -32571,6 +32587,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T161203Z" creationid="piav" creationdate="20191209T161203Z">
+        <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>contains the current statistics of the current project.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T125302Z" creationid="piav" creationdate="20191208T125257Z">
@@ -32639,6 +32663,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T080842Z" creationid="PiaVee" creationdate="20171015T080842Z">
         <seg>cu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>currSegment = files[i].entries[j];</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T161156Z" creationid="piav" creationdate="20191209T161156Z">
+        <seg>currSegment = files[i].entries[j];</seg>
       </tuv>
     </tu>
     <tu>
@@ -33187,6 +33219,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>files = project.projectFiles;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T161152Z" creationid="piav" creationdate="20191209T161152Z">
+        <seg>files = project.projectFiles;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>filters.xml</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T125727Z" creationid="piav" creationdate="20191208T125727Z">
@@ -33223,6 +33263,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174056Z" creationid="PiaVee" creationdate="20171014T174056Z">
         <seg>fo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for (i in 0 ..&lt; files.size())</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T161153Z" creationid="piav" creationdate="20191209T161153Z">
+        <seg>for (i in 0 ..&lt; files.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T161155Z" creationid="piav" creationdate="20191209T161155Z">
+        <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
       </tuv>
     </tu>
     <tu>
@@ -34015,6 +34071,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174327Z" creationid="PiaVee" creationdate="20171014T174327Z">
         <seg>ie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if (project.getTranslationInfo(currSegment))</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T161158Z" creationid="piav" creationdate="20191209T161158Z">
+        <seg>if (project.getTranslationInfo(currSegment))</seg>
       </tuv>
     </tu>
     <tu>
@@ -36415,6 +36479,14 @@ tai</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>source = currSegment.getSrcText();</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T161201Z" creationid="piav" creationdate="20191209T161201Z">
+        <seg>source = currSegment.getSrcText();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>spa</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081556Z" creationid="PiaVee" creationdate="20171015T081556Z">
@@ -36587,6 +36659,14 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081644Z" creationid="PiaVee" creationdate="20171015T081644Z">
         <seg>tam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T161202Z" creationid="piav" creationdate="20191209T161202Z">
+        <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37375,6 +37455,14 @@ tai</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T161154Z" creationid="piav" creationdate="20191209T161154Z">
+        <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0}</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T092451Z" creationid="PiaVee" creationdate="20171015T092451Z">
@@ -37531,6 +37619,14 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T134145Z" creationid="piav" creationdate="20190920T134145Z">
         <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T161204Z" creationid="piav" creationdate="20191209T161204Z">
+        <seg>}</seg>
       </tuv>
     </tu>
     <tu>
