@@ -6631,6 +6631,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking on any file will open it for translation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T152216Z" creationid="piav" creationdate="20191209T152216Z">
+        <seg>– Avaa käännettävä tiedosto napsauttamalla sitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking on one will save the current project, close it and open the other project.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T142827Z" creationid="piav" creationdate="20191202T142827Z">
@@ -26857,8 +26865,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>These are the files present in the /source folder in a format that OmegaT is able to recognize.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T151911Z" creationid="piav" creationdate="20191209T151911Z">
-        <seg>Nämä ovat /source-kansiossa olevia tiedostoja, jotka ovat OmegaT:n tunnistamassa tiedostomuodossa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T152130Z" creationid="piav" creationdate="20191209T151911Z">
+        <seg>– Nämä ovat /source-kansiossa olevia tiedostoja, jotka ovat OmegaT:n tunnistamassa tiedostomuodossa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28709,6 +28717,14 @@ Exact searches match the whole search string.</seg>
       <tuv lang="FI" changeid="piav" changedate="20190521T140237Z" creationid="piav" creationdate="20190521T140217Z">
         <seg>Tyypit:
 Täsmähaut etsivät koko hakustringiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typing any text will open a &lt;g0&gt;Filter&lt;/g0&gt; field where parts of filenames can be entered.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T152334Z" creationid="piav" creationdate="20191209T152334Z">
+        <seg>Jos painat mitä tahansa kirjainnäppäintä, ikkunaan avutuu &lt;g0&gt;Suodatin&lt;/g0&gt;-kenttä, johon voit kirjoittaa tiedostonimen osan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36351,10 +36367,18 @@ tai</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>the list of all translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T152155Z" creationid="piav" creationdate="20191209T152118Z">
+        <seg>Luettelo kaikista projektin käännettävistä tiedostoista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>the total number of translatable files in the project.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T151824Z" creationid="piav" creationdate="20191209T151824Z">
-        <seg>projektin käännettävien tiedostojen yhteismäärä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T152128Z" creationid="piav" creationdate="20191209T151824Z">
+        <seg>Projektin käännettävien tiedostojen yhteismäärä</seg>
       </tuv>
     </tu>
     <tu>
