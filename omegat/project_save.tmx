@@ -3301,8 +3301,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit the window displaying at opening, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Access Configuration Folder&lt;/g6&gt; &lt;/m4&gt; menu).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T151643Z" creationid="piav" creationdate="20191209T151643Z">
-        <seg>&lt;r0&gt;Huom.:&lt;/r0&gt; Jos haluat, että ikkunaa ei näy sen jälkeen kun projekti on avattu, aseta tiedoston &lt;f3&gt;omegat.prefs&lt;/f3&gt; kohdan &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; arvoksi &lt;e2&gt;false&lt;/e2&gt;. Pääset käsiksi tiedostoon valitsemalla &lt;m4&gt; &lt;g5&gt;Asetukset&lt;/g5&gt; &lt;g6&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T151705Z" creationid="piav" creationdate="20191209T151643Z">
+        <seg>&lt;r0&gt;Huom.:&lt;/r0&gt; Jos haluat, että ikkunaa ei näy sen jälkeen kun projekti on avattu, aseta tiedoston &lt;f3&gt;omegat.prefs&lt;/f3&gt; kohdan &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; arvoksi &lt;e2&gt;false&lt;/e2&gt;. Pääset käsiksi tiedostoon valitsemalla valikosta &lt;m4&gt; &lt;g5&gt;Asetukset&lt;/g5&gt; &lt;g6&gt;Mene määrityskansioon&lt;/g6&gt; &lt;/m4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24824,6 +24824,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;g2&gt;Project Files&lt;/g2&gt; Window displays the following information:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T151759Z" creationid="piav" creationdate="20191209T151759Z">
+        <seg>&lt;g2&gt;Projektin tiedostot&lt;/g2&gt;-ikkunassa on näkyvissä seuraavat tiedot:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T125505Z" creationid="piav" creationdate="20191127T123345Z">
@@ -26847,6 +26855,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These are the files present in the /source folder in a format that OmegaT is able to recognize.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T151911Z" creationid="piav" creationdate="20191209T151911Z">
+        <seg>Nämä ovat /source-kansiossa olevia tiedostoja, jotka ovat OmegaT:n tunnistamassa tiedostomuodossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These files won't be deleted automatically on the translator's side: you must ask them to delete the files manually.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T115029Z" creationid="piav" creationdate="20191128T115004Z">
@@ -27480,6 +27496,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T123341Z" creationid="piav" creationdate="20191208T123320Z">
         <seg>Tämä muuttaa tiedostoa &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This number is displayed in brackets, next to the "Project file" title</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T152024Z" creationid="piav" creationdate="20191209T152024Z">
+        <seg>Numero on suluissa ikkunan "Projektin tiedostot"-otsikon vieressä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29313,6 +29337,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T105449Z" creationid="piav" creationdate="20191129T105449Z">
         <seg>Käytä &lt;a0&gt;OmegaT&lt;/a0&gt;:n oletussuodatinta (PDF input), käännä, luo kohdetiedosto (vain teksti -tiedosto) ja lisää tarvittavat muotoilut ja muut elementit käsin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;g0&gt;Ctrl+L&lt;/g0&gt; to open and &lt;k1&gt;Esc&lt;/k1&gt; to close it.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T151733Z" creationid="piav" creationdate="20191209T151733Z">
+        <seg>Avaa tiedosto painamalla näppäinyhdistelmää &lt;g0&gt;Ctrl+L&lt;/g0&gt; ja sulje se painamalla &lt;k1&gt;Esc&lt;/k1&gt;-näppäintä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36315,6 +36347,14 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T083302Z" creationid="piav" creationdate="20191128T083302Z">
         <seg>projektin pääkansiosta (ks. yllä) löytyy kolme TMX-tiedostoa, joissa on lähdetiedostoon kopioitujen asiakirjojen käännökset valitulla kieliparilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the total number of translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T151824Z" creationid="piav" creationdate="20191209T151824Z">
+        <seg>projektin käännettävien tiedostojen yhteismäärä</seg>
       </tuv>
     </tu>
     <tu>
