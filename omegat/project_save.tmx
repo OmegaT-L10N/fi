@@ -14449,6 +14449,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It also possible to change the position of a filename, by clicking on it and pressing &lt;e0&gt;Move ...&lt;/e0&gt; buttons.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T152812Z" creationid="piav" creationdate="20191209T152806Z">
+        <seg>Voit myös siirtää tiedoston sijaintia valitsemalla sen ja napsauttamalla &lt;e0&gt;Siirrä…&lt;/e0&gt;-painikkeita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can also be used in all the input fields found in &lt;a7&gt;OmegaT&lt;/a7&gt; - in the search window, for segmentation rules etc.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T124640Z" creationid="piav" creationdate="20191127T124640Z">
@@ -17578,6 +17586,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T085001Z" creationid="piav" creationdate="20190913T075815Z">
         <seg>Huom.: Lähdetiedoston merkistökoodauksen asetukset koskevat ainoastaan HTML-tiedostoja, joissa ei ole mainintaa merkistökoodauksesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: filenames (in first column) can be sorted alphabetically by clicking in the header.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T152715Z" creationid="piav" creationdate="20191209T152715Z">
+        <seg>Huom.: Voit järjestää (ensimmäisessä sarakkeessa olevat) tiedostojen nimet aakkosjärjestykseen napsauttamalla sarakkeen otsikkoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21461,6 +21477,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T094350Z" creationid="piav" creationdate="20191201T094350Z">
         <seg>Napsauta hiiren kakkospainikkeella paneelia &lt;e0&gt;Add New Launcher&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T152925Z" creationid="piav" creationdate="20191209T152925Z">
+        <seg>Jos napsautat tiedoston nimeä hiiren kakkospainikkeella, saat näkyviin ponnahdusikkunan, josta käsin voit avata lähdetiedoston ja (olemassa olevan) kohdetiedoston.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31100,8 +31124,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       <tuv lang="EN">
         <seg>You can select a file with &lt;k1&gt;Up&lt;/k1&gt; and &lt;k2&gt;Down&lt;/k2&gt; keys, and open it for translation by pressing &lt;k3&gt;Enter&lt;/k3&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T152521Z" creationid="piav" creationdate="20191209T152357Z">
-        <seg>Valitse tiedosto &lt;k1&gt;ylös&lt;/k1&gt;- ja &lt;k2&gt;alas&lt;/k2&gt;-näppäimillä ja avaa se käännettäväksi painamalla &lt;k3&gt;enteriä&lt;/k3&gt;.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T152610Z" creationid="piav" creationdate="20191209T152357Z">
+        <seg>Valitse tiedosto &lt;k1&gt;ylös&lt;/k1&gt;- ja &lt;k2&gt;alas&lt;/k2&gt;-näppäimillä ja avaa se käännettäväksi painamalla &lt;k3&gt;Enter&lt;/k3&gt;-näppäintä.</seg>
       </tuv>
     </tu>
     <tu>
