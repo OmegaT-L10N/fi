@@ -15650,6 +15650,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Load a script into the editor by clicking its name in the list in the left-hand panel.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T155203Z" creationid="piav" creationdate="20191209T155203Z">
+        <seg>Lataa komentosaja editoriin napsauttamalla sen nimeä vasemmanpuoleisessa ruudussa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading Project</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T120512Z" creationid="piav" creationdate="20190920T120512Z">
@@ -21501,6 +21509,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094316Z" creationid="PiaVee" creationdate="20171219T094224Z">
         <seg>OmegaT:n arvioinnit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click a button from &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; to &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; in the bottom panel and select &lt;g2&gt;Add Script&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T155442Z" creationid="piav" creationdate="20191209T155442Z">
+        <seg>Napsauta painikkeita &lt;g0&gt;&lt;1&gt;&lt;/g0&gt;–&lt;g1&gt;&lt;12&gt;&lt;/g1&gt; hiiren kakkospainikkeella ja valitse &lt;g2&gt;Lisää komentosarja&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28042,6 +28058,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T142610Z" creationid="piav" creationdate="20191030T142610Z">
         <seg>Luo tyhjä käännös klikkaamalla segmenttiä hiiren kakkospainikkeella, valitse sitten "&lt;e2&gt;Aseta tyhjä käännös&lt;/e2&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To customize the scripting feature, do the following:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T155119Z" creationid="piav" creationdate="20191209T155119Z">
+        <seg>Voit mukauttaa komentosarjatoimintoa näin:</seg>
       </tuv>
     </tu>
     <tu>
