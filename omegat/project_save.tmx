@@ -12627,8 +12627,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Segmentation...&lt;/g6&gt; &lt;/m4&gt;from the main menu.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T124146Z" creationid="piav" creationdate="20191030T123927Z">
-        <seg>Voit muokata lauseittaisen segmentoinnin sääntöjä valitsemalla päävalikosta kohdan &lt;m4&gt; &lt;g5&gt;Valinnat&lt;/g5&gt; &lt;g6&gt;Segmentointi…&lt;/g6&gt; &lt;/m4&gt;.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T154826Z" creationid="piav" creationdate="20191030T123927Z">
+        <seg>Voit muokata lauseittaisen segmentoinnin sääntöjä valitsemalla kohdan &lt;m4&gt; &lt;g5&gt;Valinnat&lt;/g5&gt; &lt;g6&gt;Segmentointi…&lt;/g6&gt; &lt;/m4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22053,8 +22053,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Scripts</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T154618Z" creationid="piav" creationdate="20191209T154618Z">
-        <seg>FZZ Komentosarjat…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T154643Z" creationid="piav" creationdate="20191209T154618Z">
+        <seg>Komentosarjat</seg>
       </tuv>
     </tu>
     <tu>
@@ -25088,6 +25088,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T155026Z" creationid="piav" creationdate="20191209T155026Z">
+        <seg>Voi tuoda Komentosarjat-ikkunan tekstialueelle komentosarjan ja suorittaa sen avattuna olevassa projektissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The TMX file will continue to be loaded.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T141804Z" creationid="piav" creationdate="20190523T141804Z">
@@ -27285,16 +27293,16 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191208T121334Z" creationid="piav" creationdate="20191023T115414Z">
-        <seg>Valitsemalla &lt;m0&gt; &lt;g1&gt;Valinnat&lt;/g1&gt; pääset kohtaan &lt;g2&gt;Asetukset…&lt;/g2&gt; &lt;/m0&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T154811Z" creationid="piav" creationdate="20191023T115414Z">
+        <seg>Löydät valintaikkunan valitsemalla kohdan &lt;m0&gt; &lt;g1&gt;Valinnat&lt;/g1&gt; &lt;g2&gt;Asetukset…&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T105535Z" creationid="piav" creationdate="20191127T105527Z">
-        <seg>Pääset tähän valikkoon valitsemalla &lt;m0&gt;&lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;Ominaisuudet…&lt;/g2&gt; &lt;/m0&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T154835Z" creationid="piav" creationdate="20191127T105527Z">
+        <seg>Pääset tähän valikkoon valitsemalla kohdan &lt;m0&gt;&lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;Ominaisuudet…&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27792,6 +27800,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T111550Z" creationid="piav" creationdate="20191127T111421Z">
         <seg>Tällöin käännösten tila muuttuu ja niistä tulee "kääntämättömiä", sillä segmentit eivät enää vastaa projektin muistissa olevia segmenttejä, vaikka alkuperäinen käännös onkin siellä tallessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This window is accessible by selecting &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Scripting...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T154728Z" creationid="piav" creationdate="20191209T154703Z">
+        <seg>Pääset tähän valikkoon valitsemalla &lt;m0&gt;&lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;Komentosarjat…&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29417,6 +29433,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T104901Z" creationid="PiaVee" creationdate="20171015T092456Z">
         <seg>Käyttö: java -jar OmegaT.jar team &lt;komento&gt; [&lt;valinnat&gt;]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T154854Z" creationid="piav" creationdate="20191209T154854Z">
+        <seg>Käyttö</seg>
       </tuv>
     </tu>
     <tu>
