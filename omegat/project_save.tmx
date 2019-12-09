@@ -7223,6 +7223,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Consequently, although OmegaT is quite able to handle&lt;f1&gt; tmx&lt;/f1&gt; files, it does not include them in the Search files search.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T170344Z" creationid="piav" creationdate="20191209T170344Z">
+        <seg>Tiedostoista haettaessa OmegaT ei huomioi &lt;f1&gt;TMX&lt;/f1&gt;-tiedostoja, vaikka ohjelma pystyykin hyvin käsittelemään niitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Consequently, to make changes to the launch command, it is sufficient to modify the file.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T115155Z" creationid="piav" creationdate="20191201T115155Z">
@@ -13301,6 +13309,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T114352Z" creationid="piav" creationdate="20191129T114242Z">
         <seg>Kun rastitat haluamasi kielen, niin &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt;-tiedosto asettuu käyttämään tätä kieltä (lisätietoja tästä löydät seuraavasta osiosta).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you click on the button &lt;g0&gt;Advanced options&lt;/g0&gt; additional criteria (author or changer of the translation, date translated, excluding orphan segments, etc) can be selected.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T170501Z" creationid="piav" creationdate="20191209T170501Z">
+        <seg>Kun napsautat painiketta &lt;g0&gt;Lisäasetukset&lt;/g0&gt;, pääset valitsemaan hakuun lisäkriteerejä (käännöksen laatija tai muokkaaja, käännöspäivämäärä, jätä orposegmentit huomiotta jne.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30755,6 +30771,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T063231Z" creationid="PiaVee" creationdate="20170930T063231Z">
         <seg>Kaikki epäjohdonmukaisuudet, puutteet ja suoranaiset virheet, joita tästä versiosta voi löytyä, ovat omaa tuotostani.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When &lt;e1&gt;Full/Half width char insensitive&lt;/e1&gt; option is checked, searches for fullwidth forms (CJK characters) will match halfwidth forms and vice versa.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T170536Z" creationid="piav" creationdate="20191209T170536Z">
+        <seg>Kun &lt;e1&gt;Koko-/puolileveät merkit </seg>
       </tuv>
     </tu>
     <tu>
