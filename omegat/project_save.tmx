@@ -4115,6 +4115,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After several of these operations, select &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T150629Z" creationid="piav" creationdate="20191209T150543Z">
+        <seg>Kun olet tehnyt näin useamman kerran, valitse &lt;m0&gt; &lt;g1&gt;Muokkaa&lt;/g1&gt; &lt;g2&gt;Kohdista odottavat uudelleen&lt;/g2&gt; &lt;/m0&gt;, jolloin muiden segmenttien kohdistus päivittyy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After the automatic process, the alignment of two files generally requires manual corrections.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T150230Z" creationid="piav" creationdate="20191209T150230Z">
@@ -6515,6 +6523,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T150128Z" creationid="piav" creationdate="20191209T150128Z">
         <seg>Siirry seuraavaan vaiheeseen napsauttamalla &lt;g0&gt;Jatka&lt;/g0&gt;-painiketta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click in the other column on the translation corresponding to the first segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T150520Z" creationid="piav" creationdate="20191209T150452Z">
+        <seg>Napsauta sitä toisen sarakkeen käännöstä, joka vastaa ensimmäistä segmenttiä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20457,8 +20473,8 @@ projektin ilman ryhmäominaisuutta.</seg>
       <tuv lang="EN">
         <seg>Realign Pending</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190920T131920Z" creationid="piav" creationdate="20190920T131920Z">
-        <seg>Odottaa uudellenkohdistusta</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T150602Z" creationid="piav" creationdate="20190920T131920Z">
+        <seg>Kohdista odottavat uudelleen</seg>
       </tuv>
     </tu>
     <tu>
@@ -27726,8 +27742,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>To align two segments on the same line:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T150321Z" creationid="piav" creationdate="20191209T150321Z">
-        <seg>Näin kohdistat kaksi samalla rivillä olevaa segmenttiä:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T150505Z" creationid="piav" creationdate="20191209T150321Z">
+        <seg>Näin kohdistat kaksi segmenttiä samalle riville:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27994,6 +28010,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T105120Z" creationid="piav" creationdate="20191030T082232Z">
         <seg>Valitse listalla oleva suodatin ja napsauta &lt;e0&gt;Valinnat&lt;/e0&gt;-painiketta, niin pääset muokkaamaan asetuksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To modify the position of one or more segments individually, select the segment(s) and press &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Move Up&lt;/g1&gt;) or &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Move Down&lt;/g3&gt;).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T150742Z" creationid="piav" creationdate="20191209T150742Z">
+        <seg>Voit muuttaa yhden tai useamman segmentin sijaintia valitsemalla se/ne ja painamalla &lt;u0&gt;U&lt;/u0&gt;- (&lt;g1&gt;Siirrä ylös&lt;/g1&gt;) tai &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Siirrä alas&lt;/g3&gt;)</seg>
       </tuv>
     </tu>
     <tu>
