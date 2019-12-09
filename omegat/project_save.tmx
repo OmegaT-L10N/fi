@@ -1576,6 +1576,14 @@ Lisää projektitiedostoja napsauttamalla Projektin tiedostot -ikkunan tai Proje
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T153427Z" creationid="piav" creationdate="20191209T153427Z">
+        <seg>("Uniikin" määritelmä huomioi kirjainkoot: "Run" ja "run" käsitetään erilaisiksi.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(X)HTML Filter Options</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T081343Z" creationid="piav" creationdate="20190913T081343Z">
@@ -26358,6 +26366,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The set of &lt;e0&gt;Unique &lt;/e0&gt;segments is computed by taking all the segments and removing all duplicate segments.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T153355Z" creationid="piav" creationdate="20191209T153355Z">
+        <seg>&lt;e0&gt;Uniikkien&lt;/e0&gt; segmenttien määrä lasketaan poistamalla kaikkien segmenttien määrästä toistuvat segmentit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T053154Z" creationid="piav" creationdate="20191023T052925Z">
@@ -36411,6 +36427,14 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T152155Z" creationid="piav" creationdate="20191209T152118Z">
         <seg>Luettelo kaikista projektin käännettävistä tiedostoista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the total number of segments, the number of unique segments in the whole project, and the number of unique segments already translated are shown at the bottom</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T153305Z" creationid="piav" creationdate="20191209T153152Z">
+        <seg>Alimpana segmenttien yhteismäärä, koko projektin uniikkien segmenttien määrä sekä jo käännettyjen uniikkien segmenttien määrä.</seg>
       </tuv>
     </tu>
     <tu>
