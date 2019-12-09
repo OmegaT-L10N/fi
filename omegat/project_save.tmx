@@ -4435,6 +4435,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All the languages have access to the OmegaT object model, with the project as the top object.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T161026Z" creationid="piav" creationdate="20191209T161026Z">
+        <seg>Kaikilla kielillä on pääsy OmegaT-objektimalliin, jossa projekti on ylimmän tason objekti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T104323Z" creationid="piav" creationdate="20190916T104323Z">
@@ -5491,6 +5499,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T110333Z" creationid="piav" creationdate="20191023T110211Z">
         <seg>Ennen kuin kielentarkistustoimintoa voi käyttää, on asennettava yksi tai useampia kohdekielen sanastoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Being the language behind popular software such as Firefox, it is a familiar and preferred programming tool in the open-source domain.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T160949Z" creationid="piav" creationdate="20191209T160949Z">
+        <seg>Firefoxin ja muiden suosittujen ohjelmien taustalla oleva kieli on tuttu ja open source -piireissä suosittu ohjelmointityökalu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11074,6 +11090,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T125321Z" creationid="piav" creationdate="20191030T125321Z">
         <seg>Esimerkiksi tekstitiedostot voidaan segmentoida rivinvaihtojen tai tyhjien riven mukaan, tai ne voivat jäädä kokonaan segmentoimatta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, the following Groovy code snippet scans through all the segments in all the files in the current project and, if a translation exists, prints out the source and the target of the segment:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T161151Z" creationid="piav" creationdate="20191209T161151Z">
+        <seg>Esimerkiksi seuraava groovy-kielinen koodinpätkä käy projektin kaikkien tiedostojen kaikki segmentit läpi, ja jos käännös on olemassa, kirjoittaa segmentin lähde- ja kohdekielisen version.</seg>
       </tuv>
     </tu>
     <tu>
