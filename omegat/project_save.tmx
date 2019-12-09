@@ -22347,6 +22347,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search for segments containing all keywords you specified, in any order.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T163753Z" creationid="piav" creationdate="20191209T163753Z">
+        <seg>Hakee segmenttejä, joissa on kaikki kirjoittamasi avainsanat missä tahansa järjestelmässä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search for segments containing the exact string you specified.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T163359Z" creationid="piav" creationdate="20191209T163359Z">
@@ -22423,6 +22431,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T093650Z" creationid="PiaVee" creationdate="20171014T093650Z">
         <seg>Hakuikkuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Searching for &lt;l0&gt;open file&lt;/l0&gt; will thus find all occurrences of the string &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, but not &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; or &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T163700Z" creationid="piav" creationdate="20191209T163700Z">
+        <seg>Hakutermi &lt;l0&gt;open file&lt;/l0&gt; löytää siis kaikki &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;-merkkijonot, mutta ei &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt;-, tai &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;-merkkijonoja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34641,6 +34657,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174511Z" creationid="PiaVee" creationdate="20171014T174511Z">
         <seg>kaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>keyword search</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T163725Z" creationid="piav" creationdate="20191209T163713Z">
+        <seg>avainsanahaku</seg>
       </tuv>
     </tu>
     <tu>
