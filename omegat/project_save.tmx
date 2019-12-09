@@ -2419,6 +2419,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Adding files to the project: &lt;/e0&gt;You can add source files to the project by clicking on the "&lt;g1&gt;Import Source Files..."&lt;/g1&gt; button.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T154246Z" creationid="piav" creationdate="20191209T154154Z">
+        <seg>&lt;e0&gt;Tiedostojen lisääminen projektiin:&lt;/e0&gt; Voit lisätä käännettäviä tiedostoja projektiin napsauttamalla painiketta &lt;g1&gt;Tuo lähdetiedostoja…&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T101118Z" creationid="piav" creationdate="20191030T100927Z">
@@ -27235,6 +27243,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This copies the selected files to the &lt;f2&gt;source&lt;/f2&gt; folder and reloads the project to import the new files.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T154324Z" creationid="piav" creationdate="20191209T154304Z">
+        <seg>Tällöin valitut tiedostot kopioidaan &lt;f2&gt;source&lt;/f2&gt;-kansioon ja projekti ladataan uudelleen, jolloin uudet tiedostot tulevat näkyviin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This creates a folder called &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T100058Z" creationid="piav" creationdate="20191201T100058Z">
@@ -30973,6 +30989,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T102526Z" creationid="piav" creationdate="20191201T102526Z">
         <seg>Voit myös käyttää komentorivillä komentoa &lt;c3&gt;cd&lt;/c3&gt; suoraan kansioon ja avata &lt;f4&gt;Configuration.properties&lt;/f4&gt;-tiedoston komentorivipohjaisessa editorissa kuten emacs tai vi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T154609Z" creationid="piav" creationdate="20191209T154609Z">
+        <seg>Voit lisätä MediaWiki-muotoisia nettisivujen lähdetiedostoja napsauttamalla painiketta &lt;g3&gt;Tuo MediaWikistä&lt;/g3&gt; ja kirjoittamalla vastaavan URL-osoitteen.</seg>
       </tuv>
     </tu>
     <tu>
