@@ -30471,6 +30471,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you left-click the number, the selected script will run.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T155518Z" creationid="piav" creationdate="20191209T155518Z">
+        <seg>Kun napsautat numeroa hiiren ykköspainikkeella, niin komentosarja suoritetaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you move to another segment, the translation is validated and stored.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191203T141203Z" creationid="piav" creationdate="20191203T141150Z">
@@ -31085,6 +31093,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T134028Z" creationid="piav" creationdate="20191201T134028Z">
         <seg>Voit myös suorittaa ohjelman suoraan komennolla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also start the selected macros from the main menu by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T155658Z" creationid="piav" creationdate="20191209T155658Z">
+        <seg>Voit käynnistää valitut makrot myös &lt;g0&gt;Työkalut&lt;/g0&gt;-valikosta tai painamalla näppäinyhdistelmää &lt;k1&gt;Ctrl+Alt+F#&lt;/k1&gt; (# tarkoittaa numeroita 1–12).</seg>
       </tuv>
     </tu>
     <tu>
