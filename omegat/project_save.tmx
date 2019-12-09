@@ -12585,6 +12585,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the alignment looks as if it could be improved, try changing the parameters.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T145548Z" creationid="piav" creationdate="20191209T145548Z">
+        <seg>Jos näyttää siltä, että kohdistusta voisi parantaa, yritä muuttaa parametrejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T110500Z" creationid="piav" creationdate="20191030T110500Z">
@@ -13281,6 +13289,22 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; mode, the texts are evaluated globally.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T145806Z" creationid="piav" creationdate="20191209T145707Z">
+        <seg>&lt;g0&gt;Kokonaisuutena&lt;/g0&gt;-tilassa tekstit arvoidaan kokonaisuutena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In &lt;g1&gt;Parsewise&lt;/g1&gt; mode, they are evaluated segment by segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T145804Z" creationid="piav" creationdate="20191209T145738Z">
+        <seg>&lt;g1&gt;Segmentti kerrallaan&lt;/g1&gt;-tilassa tekstit arvioidaan  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Editor</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T140254Z" creationid="piav" creationdate="20190920T140254Z">
@@ -13453,6 +13477,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T125619Z" creationid="piav" creationdate="20191127T125603Z">
         <seg>Monissa tapauksissa RTL-tekstiin täytyy kuitenkin upottaa LTR-tekstiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In most cases, the lower the &lt;g0&gt;Average score&lt;/g0&gt; is, better the alignment will be.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T145700Z" creationid="piav" creationdate="20191209T145612Z">
+        <seg>Useimmissa tapauksissa on niin, että mitä alempi &lt;g0&gt;Keskiarvotulos&lt;/g0&gt; on, sitä parempi kohdistuksen lopputulos on.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23831,8 +23863,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Step 1: Adjust the alignment parameters</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T145507Z" creationid="piav" creationdate="20191209T145507Z">
-        <seg>FZZ 1. vaihe: Muokkaa kohdistusparametrejä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T145513Z" creationid="piav" creationdate="20191209T145507Z">
+        <seg>1. vaihe: Muokkaa kohdistusparametrejä.</seg>
       </tuv>
     </tu>
     <tu>
