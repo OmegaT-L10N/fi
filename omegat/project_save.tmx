@@ -12686,6 +12686,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T172459Z" creationid="piav" creationdate="20191209T172459Z">
+        <seg>Jos hakutuloksista poistetaan kaksoiskappaleet, niitä ei näy myöskään editoriruudussa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a user interface in this language is available, &lt;a4&gt;OmegaT&lt;/a4&gt; uses it.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T120008Z" creationid="piav" creationdate="20191201T120008Z">
@@ -28842,6 +28850,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T115558Z" creationid="piav" creationdate="20191202T115101Z">
         <seg>Näppäinyhdistelmä &lt;k0&gt;Ctrl+E&lt;/k0&gt; avaa projektin ominaisuuksien valintaikkunan, josta löydät projektin alkuasetukset painamalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove a filter, press the &lt;e0&gt;Remove filter&lt;/e0&gt; button, or reload a project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T172531Z" creationid="piav" creationdate="20191209T172514Z">
+        <seg>Poista suodatin napsauttamalla &lt;e0&gt;Poista suodatin&lt;/e0&gt;-painiketta tai lataamalla projekti uudelleen.</seg>
       </tuv>
     </tu>
     <tu>
