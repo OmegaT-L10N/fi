@@ -16602,6 +16602,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modifying the segmentation rules may have the effect of modifying the number of segments/unique segments.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T153959Z" creationid="piav" creationdate="20191209T153959Z">
+        <seg>Segmentointisääntöjen muokkaaminen voi muuttaa projektin segmenttien tai uniikkien segmenttien määrää.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mongolian</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174949Z" creationid="PiaVee" creationdate="20171014T174949Z">
@@ -22387,6 +22395,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See the chapter &lt;e0&gt;Segmentation rules&lt;/e0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T154046Z" creationid="piav" creationdate="20191209T154046Z">
+        <seg>Lisää tietoa aiheesta löydät kappaleesta &lt;e0&gt;Segmentointisäännöt&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T092600Z" creationid="PiaVee" creationdate="20171014T092600Z">
@@ -24852,6 +24868,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T124851Z" creationid="piav" creationdate="20191208T124851Z">
         <seg>Alikansiossa &lt;e0&gt;omegat&lt;/e0&gt; on vähintään yksi ja mahdollisesti useampia tiedostoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the omegat folder of your project contains more detailed segment information, broken down by file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T153920Z" creationid="piav" creationdate="20191209T153920Z">
+        <seg>Projektisi omegat-kansiossa on &lt;f0&gt;project_stats.txt&lt;/f0&gt;-tiedosto, josta löydät tiedostokohtaisesti tarkempaa tietoa segmenteistä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27760,6 +27784,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T145959Z" creationid="piav" creationdate="20191209T145959Z">
         <seg>Tämä toimii silloinkin, kun tekstit eivät ole samassa järjestyksessä molemmissa tiedostoissa ja/tai jos tiedostoissa on eri määrä sisältöä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This, however, should generally be avoided once you have started translating the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T154026Z" creationid="piav" creationdate="20191209T154026Z">
+        <seg>Segmentointisääntöjä ei kuitenkaan tulisi enää muuttaa sen jälkeen, kun olen aloittanut käännöstyön.</seg>
       </tuv>
     </tu>
     <tu>
