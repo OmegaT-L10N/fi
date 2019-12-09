@@ -10598,6 +10598,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File entries include their names, file filter types, their encoding and the number of segments each file contains</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T153136Z" creationid="piav" creationdate="20191209T153036Z">
+        <seg>Tiedostoluettelo, jossa mainitaan tiedostojen nimet, niiden tiedostosuodattimet ja merkistökoodaus sekä jokaisen tiedoston segmenttien määrä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File format</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T080444Z" creationid="piav" creationdate="20191022T080444Z">
