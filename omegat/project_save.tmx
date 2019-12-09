@@ -4745,6 +4745,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An exact search looks for a phrase, i.e. if several words are entered, they are found only if they occur in exactly that sequence.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T163553Z" creationid="piav" creationdate="20191209T163553Z">
+        <seg>Täsmähaku etsii lauseketta, eli jos kirjoitat useamman sanan, niitä haetaan täsmälleen siinä järjestyksessä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T091313Z" creationid="piav" creationdate="20191127T091313Z">
@@ -22339,6 +22347,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search for segments containing the exact string you specified.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T163359Z" creationid="piav" creationdate="20191209T163359Z">
+        <seg>Hae segmenttejä, joissa on täsmälleen sama merkkijono kuin kirjoittamasi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;&lt;i1/&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T101449Z" creationid="PiaVee" creationdate="20171219T101449Z">
@@ -22367,6 +22383,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T134956Z" creationid="piav" creationdate="20190521T134956Z">
         <seg>Etsittävä alue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search methods and options</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T163312Z" creationid="piav" creationdate="20191209T163206Z">
+        <seg>Hakumenetelmät ja asetukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -23031,6 +23055,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T140229Z" creationid="piav" creationdate="20191030T140229Z">
         <seg>Valitse kielentarkistimen sijainti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the method using the radio buttons.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T163317Z" creationid="piav" creationdate="20191209T163225Z">
+        <seg>Valitse hakumenetelmä valintanappien avulla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25952,6 +25984,14 @@ instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T155940Z" creationid="piav" creationdate="20191209T155940Z">
         <seg>Voit käyttää seuraavia komentosarjakieliä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following search methods are available:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T163326Z" creationid="piav" creationdate="20191209T163307Z">
+        <seg>Voit valita seuraavista hakumenetelmistä:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33279,6 +33319,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174050Z" creationid="PiaVee" creationdate="20171014T174050Z">
         <seg>ewe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>exact search</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T163328Z" creationid="piav" creationdate="20191209T163328Z">
+        <seg>täsmähaku</seg>
       </tuv>
     </tu>
     <tu>
