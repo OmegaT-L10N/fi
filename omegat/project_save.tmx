@@ -22051,6 +22051,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scripts</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T154618Z" creationid="piav" creationdate="20191209T154618Z">
+        <seg>FZZ Komentosarjat…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scripts Folder:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T114146Z" creationid="piav" creationdate="20190920T114146Z">
