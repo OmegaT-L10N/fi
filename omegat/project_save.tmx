@@ -2725,8 +2725,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Space matches nbsp&lt;/e0&gt;: when this option is checked, a space character put in search entry can match either a normal space character or a non-breacking space (\u00A) character.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T164547Z" creationid="piav" creationdate="20191209T164547Z">
-        <seg>&lt;e0&gt;Väli vastaa nsb:tä&lt;/e0&gt;: Kun </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T164930Z" creationid="piav" creationdate="20191209T164547Z">
+        <seg>&lt;e0&gt;väli vastaa nsb:tä&lt;/e0&gt;: Tässä valinnassa hakulausekkeeseen kirjoitettu välilyönti voi tarkoittaa joko tavallista välilyöntiä tai sitovaa välilyöntiä (\u00A-merkkiä).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2799,6 +2799,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T164533Z" creationid="piav" creationdate="20191209T164533Z">
         <seg>&lt;e0&gt;kirjainkoon mukainen&lt;/e0&gt; haku toimii täsmälleen kirjoitetun merkkijonon mukaisesti, eli isojen ja pienten kirjainten ero otetaan huomioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;in source: &lt;/e0&gt;search in the source segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T165012Z" creationid="piav" creationdate="20191209T165012Z">
+        <seg>&lt;e0&gt;lähteessä&lt;/e0&gt;: Hakee lähdesegmenteistä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34743,8 +34751,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>keyword search</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T163725Z" creationid="piav" creationdate="20191209T163713Z">
-        <seg>avainsanahaku</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T164702Z" creationid="piav" creationdate="20191209T163713Z">
+        <seg>Avainsanahaku</seg>
       </tuv>
     </tu>
     <tu>
@@ -36335,8 +36343,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>regular expressions</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T164130Z" creationid="piav" creationdate="20191209T164130Z">
-        <seg>säännölliset lausekkeet</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T164736Z" creationid="piav" creationdate="20191209T164130Z">
+        <seg>Säännölliset lausekkeet</seg>
       </tuv>
     </tu>
     <tu>
