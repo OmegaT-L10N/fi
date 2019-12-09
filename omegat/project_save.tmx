@@ -2531,6 +2531,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): a dynamic language for the Java Virtual machine.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T160008Z" creationid="piav" creationdate="20191209T160006Z">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): Dynaaminen Java-virtuaalikoneen kieli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of file filters for a given project is stored as &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T120850Z" creationid="piav" creationdate="20191127T120815Z">
@@ -2583,6 +2591,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T121916Z" creationid="piav" creationdate="20191129T121916Z">
         <seg>&lt;e0&gt;Uuteen kansioon asentaminen&lt;/e0&gt; mahdollistaa sen, että voit pitää molempia versioita koneellasi rinnakkain esimerkiksi siihen saakka, kunnes olet oppinut käyttämään ohjelman uutta versiota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T160541Z" creationid="piav" creationdate="20191209T160541Z">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (toisinaan lyhennetty JS:ksi, ei saa sekoittaa Javaan): Prototyyppinen ja dynaaminen komenntosarjakieli, joka on helposti kirjoitettu ja jonka ominaisuudet ovat ensiluokkaiset.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14497,6 +14513,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T160114Z" creationid="piav" creationdate="20191209T160114Z">
+        <seg>Se perustuu Javan vahvuuksiin ja on saanut lisää poweria Pythonista, Rubysta ja Smalltalkista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can also be used in all the input fields found in &lt;a7&gt;OmegaT&lt;/a7&gt; - in the search window, for segmentation rules etc.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T124640Z" creationid="piav" creationdate="20191127T124640Z">
@@ -22075,6 +22099,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scripting languages</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T155920Z" creationid="piav" creationdate="20191209T155920Z">
+        <seg>Komentosarjakielet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scripting...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T152106Z" creationid="piav" creationdate="20191202T152025Z">
@@ -23455,6 +23487,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081530Z" creationid="PiaVee" creationdate="20171015T081530Z">
         <seg>somali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T155911Z" creationid="piav" creationdate="20191209T155911Z">
+        <seg>Muutamia lisäkomentosarjoja löytyy täältä: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25760,6 +25800,14 @@ instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T082317Z" creationid="piav" creationdate="20191128T082317Z">
         <seg>Seuraava ohje on vain yksi monista, mutta sitä on helppo seurata eikä se vaaranna resursseja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following scripting languages have been implemented:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T155940Z" creationid="piav" creationdate="20191209T155940Z">
+        <seg>Voit käyttää seuraavia komentosarjakieliä:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33823,6 +33871,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T095808Z" creationid="PiaVee" creationdate="20171219T095808Z">
         <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T155850Z" creationid="piav" creationdate="20191209T155850Z">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
       </tuv>
     </tu>
     <tu>
