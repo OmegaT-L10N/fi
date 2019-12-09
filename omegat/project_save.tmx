@@ -4115,6 +4115,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After the automatic process, the alignment of two files generally requires manual corrections.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T150230Z" creationid="piav" creationdate="20191209T150230Z">
+        <seg>Automaattisen prosessin jälkeen kahta kohdistettavaa tiedostoa on yleensä korjattava käsin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After the initial installation you can, of course, also use &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; also when you are offline.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T112336Z" creationid="piav" creationdate="20191201T112336Z">
@@ -19823,6 +19831,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press the space bar (shortcut for &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T150412Z" creationid="piav" creationdate="20191209T150412Z">
+        <seg>Paina välilyöntinäppäintä (komennon &lt;m0&gt; &lt;g1&gt;Muokkaa&lt;/g1&gt; &lt;g2&gt;Käynnistä osoittava kohdistus&lt;/g2&gt; &lt;/m0&gt; pikanäppäin).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T132752Z" creationid="piav" creationdate="20191202T131136Z">
@@ -22671,6 +22687,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T094651Z" creationid="piav" creationdate="20191201T094651Z">
         <seg>Valitse &lt;f2&gt;OmegaT.png&lt;/f2&gt;-ikoni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the first segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T150328Z" creationid="piav" creationdate="20191209T150328Z">
+        <seg>Valitse ensimmäinen segmentti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27700,6 +27724,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To align two segments on the same line:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T150321Z" creationid="piav" creationdate="20191209T150321Z">
+        <seg>Näin kohdistat kaksi samalla rivillä olevaa segmenttiä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To associate a script with a number:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T152426Z" creationid="piav" creationdate="20191202T152413Z">
@@ -28491,6 +28523,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T173601Z" creationid="piav" creationdate="20190523T140412Z">
         <seg>Käännösyksikön ulkopuolinen käännösyksikkövariantti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation units are located in cells in the two last columns.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T150305Z" creationid="piav" creationdate="20191209T150305Z">
+        <seg>Kaksi viimeistä saraketta sisältävät käännösyksikköjä.</seg>
       </tuv>
     </tu>
     <tu>
