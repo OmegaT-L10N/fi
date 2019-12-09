@@ -1534,6 +1534,22 @@ Kysymysmerkki ? vastaa yhtä merkkiä: hakulauseke 'run?' vastaa sanoja 'runs' t
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'*' matches zero or more characters, from the current position in a given word to its end.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T162733Z" creationid="piav" creationdate="20191209T162733Z">
+        <seg>* vastaa nollaa tai useampaa merkkiä nykyisestä sijainnista sanan loppuun saakka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>'?' matches any single character.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T162831Z" creationid="piav" creationdate="20191209T162831Z">
+        <seg>? vastaa mitä tahansa yhtä merkkiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'{0}' menu selected</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T134012Z" creationid="piav" creationdate="20190916T134012Z">
@@ -11182,6 +11198,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, &lt;l0&gt;'run?'&lt;/l0&gt; would match the word &lt;l1&gt;'runs'&lt;/l1&gt; and &lt;l2&gt;'runn'&lt;/l2&gt; in the word &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T162921Z" creationid="piav" creationdate="20191209T162921Z">
+        <seg>Esimerkiksi hakutermi &lt;l0&gt;run?&lt;/l0&gt; löytää sanat &lt;l1&gt;runs&lt;/l1&gt; ja &lt;l2&gt;runn&lt;/l2&gt; sanasta &lt;l3&gt;running&lt;/l3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, &lt;l4&gt;MEMORY=-Xmx6g&lt;/l4&gt; will launch OmegaT with 6 GB of memory.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T102935Z" creationid="piav" creationdate="20191201T102935Z">
@@ -13581,6 +13605,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T120056Z" creationid="piav" creationdate="20191128T120056Z">
         <seg>Molemmissa tavoissa projektipäällikön on lähetettävä kääntäjälle käyttäjätunnus ja salasana, joiden avulla hän pääsee käyttämään tietovarastoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In both exact and keyword searches, the wild card search characters '*' and '?' can be used.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T162703Z" creationid="piav" creationdate="20191209T162703Z">
+        <seg>Voit käyttää jokerimerkkejä * ja ? sekä täsmällisessä että avainsanahaussa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23805,8 +23837,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Source filename patterns use wild card characters similar to those used in &lt;e2&gt;Searches.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191128T121534Z" creationid="piav" creationdate="20191030T110743Z">
-        <seg>Lähdetiedoston nimen muodoissa käytetään samoja yleismerkkejä kuin &lt;e2&gt;hakutoiminnoissa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T162609Z" creationid="piav" creationdate="20191030T110743Z">
+        <seg>Lähdetiedoston nimen muodoissa käytetään samoja jokerimerkkejä kuin &lt;e2&gt;hakutoiminnoissa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26550,6 +26582,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The search term &lt;l0&gt;'run*'&lt;/l0&gt; for example would match words &lt;l1&gt;'run'&lt;/l1&gt;, &lt;l2&gt;'runs'&lt;/l2&gt; and &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T162818Z" creationid="piav" creationdate="20191209T162818Z">
+        <seg>Esimerkiksi hakutermi &lt;l0&gt;run*&lt;/l0&gt; löytää sanat &lt;l1&gt;run&lt;/l1&gt;, &lt;l2&gt;runs&lt;/l2&gt; ja &lt;l3&gt;running&lt;/l3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The second command is the command which actually launches &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T114648Z" creationid="piav" creationdate="20191201T114622Z">
@@ -27243,6 +27283,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T155859Z" creationid="piav" creationdate="20191022T155657Z">
         <seg>Yleensä ne seuraavat samankaltaista rakennetta (alla on Regular Expression Tester -esimerkki): säännöllinen lauseke (ylimpänä) analysoi haettavaa tekstiä (keskellä oleva tekstilaatikko), ja löydetyt osumat näkyvät tulosten tekstilaatikossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They have the meaning, familiar to Word users:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T162713Z" creationid="piav" creationdate="20191209T162713Z">
+        <seg>Niiden merkitys on sama kuin Wordissa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30089,6 +30137,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T102138Z" creationid="piav" creationdate="20191030T101639Z">
         <seg>Tämän asetuksen avulla voit määritellä, pitäisikö merkistökoodaustiedon olla osa kohdetiedostoja vai ei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using wild cards</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T162621Z" creationid="piav" creationdate="20191209T162601Z">
+        <seg>Jokerimerkkien käyttö</seg>
       </tuv>
     </tu>
     <tu>
