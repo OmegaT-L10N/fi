@@ -5775,6 +5775,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, scripts are stored in the &lt;f0&gt;scripts&lt;/f0&gt; folder located in the OmegaT installation folder (the folder that contains the &lt;f1&gt;OmegaT.jar&lt;/f1&gt; file).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T155805Z" creationid="piav" creationdate="20191209T155805Z">
+        <seg>Komentosarjojen oletussijainti on OmegaT-asennuskansiossa oleva &lt;f0&gt;scripts&lt;/f0&gt;-kansio. (Asennuskansio on se, jossa &lt;f1&gt;OmegaT.jar&lt;/f1&gt;-tiedosto sijaitsee.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T073848Z" creationid="piav" creationdate="20191128T073550Z">
@@ -12941,6 +12949,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T143352Z" creationid="piav" creationdate="20191030T143347Z">
         <seg>Jos lisäät etuliitteen (esimerkiksi [fuzzy]), voit myöhemmin palata näihin kohtiin tarkistamaan, onko käännös oikein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you add new scripts there, they will appear in the list of available scripts in the &lt;g0&gt;Scripting&lt;/g0&gt; window.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T155849Z" creationid="piav" creationdate="20191209T155849Z">
+        <seg>Jos lisäät kansioon lisää komentosarjoja, ne tulevat näkyviin &lt;g0&gt;Komentosarjat&lt;/g0&gt;-ikkunan komentosarjaluettelossa.</seg>
       </tuv>
     </tu>
     <tu>
