@@ -10630,6 +10630,22 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File &gt; Close (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): close the search window (in the same way as &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T162241Z" creationid="piav" creationdate="20191209T162241Z">
+        <seg>Tiedosto &gt; Sulje (&lt;k0&gt; &lt;k1&gt;Ctlr&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File &gt; Search for selection (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): refocus on the search field and select all its contents.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T162251Z" creationid="piav" creationdate="20191209T162216Z">
+        <seg>Tiedosto &gt; Etsi valintaa (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;) aktivoi hakukentän uudelleen ja valitsee koko sen sisältö.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File Copy Failed</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T102405Z" creationid="PiaVee" creationdate="20171015T102405Z">
