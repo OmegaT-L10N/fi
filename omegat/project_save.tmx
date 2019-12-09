@@ -9191,8 +9191,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Double-clicking on a segment opens it in the Editor for modifications (one single click does it when &lt;e0&gt;Auto-sync with Editor&lt;/e0&gt; option is checked).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T171147Z" creationid="piav" creationdate="20191209T171105Z">
-        <seg>Kaksoisnapsauta segmenttiä, niin saat sen auki editorissa ja voit muuttaa käännöstä. Yksittäinen n</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T171237Z" creationid="piav" creationdate="20191209T171105Z">
+        <seg>Kaksoisnapsauta segmenttiä, niin saat sen auki editorissa ja voit muuttaa käännöstä. (Sama tapahtuu yhdellä napsautuksella, kun &lt;e0&gt;Automaattinen synkronisointi editorissa&lt;/e0&gt; on valittu.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31894,6 +31894,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191029T103313Z" creationid="piav" creationdate="20191029T102658Z">
         <seg>Tämän jälkeen voit luoda salasanan osoitteessa &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can then switch back to the Search window for the next segment found, for instance to check and, if necessary, correct the terminology.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T171440Z" creationid="piav" creationdate="20191209T171440Z">
+        <seg>Muutoksen jälkeen voit vaihtaa takaisin hakuikkunaan ja seuraavaan segmenttiin. Voit tarvittaessa korjata senkin ja vaikkapa päivittää sanastoa.</seg>
       </tuv>
     </tu>
     <tu>
