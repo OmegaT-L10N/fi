@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>"Aligner" aligner utility</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T145331Z" creationid="piav" creationdate="20191209T145331Z">
+        <seg>Aligner-kohdistajaohjelma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Bligner" aligner utility</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T145340Z" creationid="piav" creationdate="20191209T145340Z">
+        <seg>Bligner-kohdistajaohjelma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T091251Z" creationid="PiaVee" creationdate="20170910T091251Z">
@@ -4219,34 +4235,50 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aligner</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T145252Z" creationid="piav" creationdate="20191209T145214Z">
+        <seg>Kohdistaja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aligner "Accepted" Group</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T093712Z" creationid="piav" creationdate="20190522T093628Z">
-        <seg>Kohdistin: "Hyväksytty"-ryhmä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T145257Z" creationid="piav" creationdate="20190522T093628Z">
+        <seg>Kohdistaja: "Hyväksytty"-ryhmä</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Aligner "Needs Review" Group</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T093719Z" creationid="piav" creationdate="20190522T093641Z">
-        <seg>Kohdistin: "Tarkistettava"-ryhmä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T145300Z" creationid="piav" creationdate="20190522T093641Z">
+        <seg>Kohdistaja: "Tarkistettava"-ryhmä</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Aligner Highlight</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T075815Z" creationid="piav" creationdate="20190522T093647Z">
-        <seg>Kohdistin: maalaus</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T145303Z" creationid="piav" creationdate="20190522T093647Z">
+        <seg>Kohdistaja: maalaus</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Aligner Table Row Highlight</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T075821Z" creationid="piav" creationdate="20190522T093733Z">
-        <seg>Kohdistin: taulukon rivin maalaus</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T145306Z" creationid="piav" creationdate="20190522T093733Z">
+        <seg>Kohdistaja: taulukon rivin maalaus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T145426Z" creationid="piav" creationdate="20191209T145426Z">
+        <seg>Kohdistaminen luo yksikielisistä jo käännetyistä asiakirjoista kaksikielisen käännösmuistin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15026,6 +15058,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LF Aligner</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T145343Z" creationid="piav" creationdate="20191209T145343Z">
+        <seg>LF Aligner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LaTeX</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T175813Z" creationid="piav" creationdate="20190521T175813Z">
@@ -23789,6 +23829,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 1: Adjust the alignment parameters</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T145507Z" creationid="piav" creationdate="20191209T145507Z">
+        <seg>FZZ 1. vaihe: Muokkaa kohdistusparametrejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 1: Create an empty project on a server</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T113210Z" creationid="piav" creationdate="20191128T113210Z">
@@ -27536,6 +27584,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T104241Z" creationid="PiaVee" creationdate="20171014T104241Z">
         <seg>TaaS-palvelun käyttäjän on luotava itselleen avain osoitteessa https://term.tilde.com/account/keys/create?system=omegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access this window, select &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Align Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T145454Z" creationid="piav" creationdate="20191209T145454Z">
+        <seg>Avaa tämä ikkuna valitsemalla &lt;m0&gt; &lt;g1&gt;Työkalut&lt;/g1&gt; &lt;g2&gt;Kohdista tiedostoja…&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
