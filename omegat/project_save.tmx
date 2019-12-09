@@ -5117,6 +5117,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As &lt;a0&gt;OmegaT&lt;/a0&gt; handles identical segments as one single entity, only the first unique segment is shown.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T170807Z" creationid="piav" creationdate="20191209T170807Z">
+        <seg>Koska &lt;a0&gt;OmegaT&lt;/a0&gt; käsittelee täs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As a result of this,
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
@@ -20311,6 +20319,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pressing the search button after entering a string in the search field displays all the segments in the project that include the entered string.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T170752Z" creationid="piav" creationdate="20191209T170752Z">
+        <seg>Kirjoita merkkijono hakukenttään ja paina sitten hakupainiketta, niin saat näkyviin kaikki projektin segmentit, joissa on haettu merkkijono.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Prevent data loss</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T133606Z" creationid="piav" creationdate="20191127T133606Z">
@@ -22583,6 +22599,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T100807Z" creationid="PiaVee" creationdate="20171014T100807Z">
         <seg>Hakuasetukset ovat samantapaisia kuin &lt;l0&gt;hakuikkunassa&lt;/l0&gt; näkyvät asetukset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search results display</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T170659Z" creationid="piav" creationdate="20191209T170659Z">
+        <seg>Hakutulosten näyttö</seg>
       </tuv>
     </tu>
     <tu>
@@ -30777,8 +30801,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>When &lt;e1&gt;Full/Half width char insensitive&lt;/e1&gt; option is checked, searches for fullwidth forms (CJK characters) will match halfwidth forms and vice versa.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T170536Z" creationid="piav" creationdate="20191209T170536Z">
-        <seg>Kun &lt;e1&gt;Koko-/puolileveät merkit </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T170652Z" creationid="piav" creationdate="20191209T170536Z">
+        <seg>Kun &lt;e1&gt;Ei erottele täys- ja puolileveitä merkkejä&lt;/e1&gt; on valittuna, täysleveiden merkkien (CJK-merkit) haku löytää puolileveät merkit ja toisinpäin.</seg>
       </tuv>
     </tu>
     <tu>
