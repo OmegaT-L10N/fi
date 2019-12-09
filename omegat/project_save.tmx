@@ -31098,6 +31098,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can select a file with &lt;k1&gt;Up&lt;/k1&gt; and &lt;k2&gt;Down&lt;/k2&gt; keys, and open it for translation by pressing &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T152521Z" creationid="piav" creationdate="20191209T152357Z">
+        <seg>Valitse tiedosto &lt;k1&gt;ylös&lt;/k1&gt;- ja &lt;k2&gt;alas&lt;/k2&gt;-näppäimillä ja avaa se käännettäväksi painamalla &lt;k3&gt;enteriä&lt;/k3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can select which elements are to be translated.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T102746Z" creationid="piav" creationdate="20191030T100151Z">
