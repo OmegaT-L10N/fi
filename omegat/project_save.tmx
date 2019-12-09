@@ -17590,6 +17590,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that '*' and '?' have special meaning in regular expressions, so wild card search, as described here, applies to exact and keyword search only (see below).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T163200Z" creationid="piav" creationdate="20191209T163200Z">
+        <seg>Huomaa, että merkeillä * ja ? on erityinen merkitys säännöllisissä lausekkeissa, joten tässä kuvattu jokerimerkkihaku toimii ainoastaan täsmällisessä ja avainsanahaussa (ks. alla).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that &lt;f0&gt;Remove&lt;/f0&gt; physically removes the selected vocabularies.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T115333Z" creationid="piav" creationdate="20191023T115110Z">
@@ -26146,6 +26154,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T104806Z" creationid="piav" creationdate="20191208T104806Z">
         <seg>Käännösmuisteista löytyvät samankaltaiset segmentit näkyvät osumaruudulla. OmegaT etsii osumia niin projektin omasta käännösmuistista, joka täyttyy sitä mukaa kun käännät, tai muista käännösmuisteista, joita olet tuonut projektiin. Lisäkäännösmuistit voivat olla peräisin aiemmista käännösprojekteistasi, asiakkaaltasi tai käännöstoimistolta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The matches will be displayed in bold blue.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T162941Z" creationid="piav" creationdate="20191209T162941Z">
+        <seg>Osumat näkyvät sinisinä ja lihavoituina.</seg>
       </tuv>
     </tu>
     <tu>
