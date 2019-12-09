@@ -14924,8 +14924,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Keep Mine</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190522T094559Z" creationid="piav" creationdate="20190522T094559Z">
-        <seg>Pidä om</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T150843Z" creationid="piav" creationdate="20190522T094559Z">
+        <seg>Pidä oma</seg>
       </tuv>
     </tu>
     <tu>
@@ -18510,6 +18510,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T144343Z" creationid="piav" creationdate="20191030T144343Z">
         <seg>Ainoastaan kokonaisluvut ja yksinkertaiset liukuluvut (desimaalierottimena piste, esim. 5.4 mutta ei 5,4 tai 54E-01) hyväksytään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only rows with the &lt;g0&gt;Keep&lt;/g0&gt; box ticked in the first column will be included when the translation memory is created.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T150949Z" creationid="piav" creationdate="20191209T150828Z">
+        <seg>Käännösmuistiin viedään vain ne rivit, joiden kohdalla olevassa ensimmäisen sarakkeen &lt;g0&gt;Pidä&lt;/g0&gt;-valintaruudussa on rasti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28016,8 +28024,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>To modify the position of one or more segments individually, select the segment(s) and press &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Move Up&lt;/g1&gt;) or &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Move Down&lt;/g3&gt;).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T150742Z" creationid="piav" creationdate="20191209T150742Z">
-        <seg>Voit muuttaa yhden tai useamman segmentin sijaintia valitsemalla se/ne ja painamalla &lt;u0&gt;U&lt;/u0&gt;- (&lt;g1&gt;Siirrä ylös&lt;/g1&gt;) tai &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Siirrä alas&lt;/g3&gt;)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T150805Z" creationid="piav" creationdate="20191209T150742Z">
+        <seg>Voit muuttaa yhden tai useamman segmentin sijaintia valitsemalla se/ne ja painamalla &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Siirrä ylöspäin&lt;/g1&gt;)- tai &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Siirrä alaspäin&lt;/g3&gt;) -näppäintä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30099,6 +30107,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T132441Z" creationid="piav" creationdate="20191127T132405Z">
         <seg>Käännetyn asiakirjan kirjoitussuunta on sama kuin alkuperäisessä asiakirjassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the two columns are sufficiently aligned, click &lt;g0&gt;Save TMX...&lt;/g0&gt; to create the resulting translation memory.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T151018Z" creationid="piav" creationdate="20191209T151018Z">
+        <seg>Kun sarakkeet on kohdistettu riittävästi, napsauta &lt;g0&gt;Tallenna TMX</seg>
       </tuv>
     </tu>
     <tu>
