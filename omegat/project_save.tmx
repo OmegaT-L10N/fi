@@ -2787,6 +2787,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;case sensitive&lt;/e0&gt;: the search will be performed for the exact string specified; i.e. capitalization is observed.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T164533Z" creationid="piav" creationdate="20191209T164533Z">
+        <seg>&lt;e0&gt;kirjainkoon mukainen&lt;/e0&gt; haku toimii täsmälleen kirjoitetun merkkijonon mukaisesti, eli isojen ja pienten kirjainten ero otetaan huomioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T103134Z" creationid="piav" creationdate="20191201T103134Z">
@@ -3119,6 +3127,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T125314Z" creationid="piav" creationdate="20191201T125314Z">
         <seg>&lt;l0&gt;/koko/projektin/projektipolku&lt;/l0&gt; kertoo &lt;a1&gt;OmegaT&lt;/a1&gt;:lle, mistä se löytää käännettävän projektin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;Regular expressions&lt;/l0&gt; are a powerful way to look for instances of a string.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T164318Z" creationid="piav" creationdate="20191209T164318Z">
+        <seg>&lt;l0&gt;Säännölliset lausekkeet&lt;/l0&gt; ovat tehokas tapa hakea tietyn merkkijonon esiintymiä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4103,6 +4119,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T122706Z" creationid="piav" creationdate="20191030T122608Z">
         <seg>Lisävariantteja on olemassa muuttujissa ${nameOnly} ja ${Extension} käytettäväksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Additionally to one of the methods above you can select the following:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T164350Z" creationid="piav" creationdate="20191209T164350Z">
+        <seg>Yhden edellä esitellyn hakumenetelmän lisäksi voit valita seuraavista:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26678,6 +26702,22 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The search string - [a-zA-Z]+[öäüqwß] - in the example above for instance looks for words in the target segment, containing questionable characters from German keyboard.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T164241Z" creationid="piav" creationdate="20191209T164241Z">
+        <seg>Yllä olevan esimerkin haettava merkkijono – [a-zA-Z]+[öäüqwß] – etsii kohdesegmentin sanoja, joissa on saksalaisen näppäimistön merkkejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The search string will be treated as a regular expression.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T164147Z" creationid="piav" creationdate="20191209T164147Z">
+        <seg>Hakutermiä käsitellään säännöllisenä lausekkeena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The search term &lt;l0&gt;'run*'&lt;/l0&gt; for example would match words &lt;l1&gt;'run'&lt;/l1&gt;, &lt;l2&gt;'runs'&lt;/l2&gt; and &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T162818Z" creationid="piav" creationdate="20191209T162818Z">
@@ -36281,6 +36321,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081129Z" creationid="PiaVee" creationdate="20171015T081129Z">
         <seg>que</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>regular expressions</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T164130Z" creationid="piav" creationdate="20191209T164130Z">
+        <seg>säännölliset lausekkeet</seg>
       </tuv>
     </tu>
     <tu>
