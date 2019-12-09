@@ -25204,6 +25204,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The difference is thin: we call "Window" a window that can stay open next to the editor and interact with it, and "dialog" a window where you must select parameters before closing it and pursuing your translation activity.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T144901Z" creationid="piav" creationdate="20191209T144901Z">
+        <seg>Ero on hiuksenhieno: "ikkuna" on ikkuna, joka on avoinna editorin vieressä ja on vuorovaikutuksessa sen kanssa, ja "valintaikkuna" on ikkuna, jossa käyttäjä valitsee asetuksia ja jonka käyttäjä sulkee pois käännöstyön tieltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T132909Z" creationid="piav" creationdate="20191127T123941Z">
@@ -30117,6 +30125,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T113345Z" creationid="piav" creationdate="20191129T113345Z">
         <seg>Windows-käyttäjät</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows and dialogs</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T144609Z" creationid="piav" creationdate="20191209T144609Z">
+        <seg>Ikkunat ja valintaikkunat</seg>
       </tuv>
     </tu>
     <tu>
