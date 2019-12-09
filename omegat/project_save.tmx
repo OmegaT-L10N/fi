@@ -14049,6 +14049,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Search window, you can use standard shortcuts (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;, &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;P&lt;/k5&gt; &lt;/k3&gt;) to move from one segment to another.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T171536Z" creationid="piav" creationdate="20191209T171536Z">
+        <seg>Tavalliset pikanäppäimet (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;, &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;P&lt;/k5&gt; &lt;/k3&gt;) siirtävät sinua hakuikkunassa segmentistä toiseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the above case, the segments already translated are shown in yellow.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191203T140104Z" creationid="piav" creationdate="20191203T140104Z">
@@ -31858,6 +31866,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can quickly see their contents by looking at their title: it will contain the search term used.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T171718Z" creationid="piav" creationdate="20191209T171718Z">
+        <seg>Käytetty hakutermi näkyy ikkunan otsikkorivillä, joten niitä vilkaisemalla näet nopeasti eri ikkunoiden sisällöt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T072417Z" creationid="piav" creationdate="20191128T072417Z">
@@ -31982,6 +31998,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T130426Z" creationid="piav" creationdate="20191128T075807Z">
         <seg>Voit myös poistaa kaikki ne käännösmuistit, joita et enää tarvitse &lt;f0&gt;project-save.tmx&lt;/f0&gt;-tiedoston täyttämiseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may have several Search windows open at the same time.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T171548Z" creationid="piav" creationdate="20191209T171548Z">
+        <seg>Voit pitää useita hakuikkunoita auki yhtä aikaa.</seg>
       </tuv>
     </tu>
     <tu>
