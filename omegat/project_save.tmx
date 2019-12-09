@@ -3619,6 +3619,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A file might have no matching entries, so it will show empty.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T172410Z" creationid="piav" creationdate="20191209T172410Z">
+        <seg>Hakutulokset näyttävät tyhjiltä, jos tiedostossa ei ole hakulauseketta vastaavia osumia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A given source segment may require several different translations, depending on the context.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T112954Z" creationid="piav" creationdate="20191208T112820Z">
@@ -3719,6 +3727,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T075622Z" creationid="piav" creationdate="20191030T075622Z">
         <seg>OmegaT:n yhteydessä oleva komentosarja Switch Colour Themes tuottaa oletusarvoisen tumman teeman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T172257Z" creationid="piav" creationdate="20191209T172257Z">
+        <seg>Hakutulosten rajana on 1000 esiintymää. Jos siis etsit tavanomaista lauseketta, editori ei näytä kaikkia hakuosumia vaan vain nämä 1000 osumaa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17246,6 +17262,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174929Z" creationid="PiaVee" creationdate="20171014T174929Z">
         <seg>maori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>NB:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T172102Z" creationid="piav" creationdate="20191209T172102Z">
+        <seg>HUOM.:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31972,8 +31996,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       <tuv lang="EN">
         <seg>You can use normal navigation to go to e.g. the next (untranslated) segment that matches the search criteria.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T172024Z" creationid="piav" creationdate="20191209T172024Z">
-        <seg>Voit käyttää tavallisia siirtymätapoje siirtyä esim. seuraavaan (kääntämättömään)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T172056Z" creationid="piav" creationdate="20191209T172024Z">
+        <seg>Voit käyttää tavallisia siirtymätapoja päästäksesi esim. seuraavaan (kääntämättömään) segmenttiin, joka vastaa hakukriteerejä.</seg>
       </tuv>
     </tu>
     <tu>
