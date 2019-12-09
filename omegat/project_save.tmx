@@ -5119,8 +5119,8 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       <tuv lang="EN">
         <seg>As &lt;a0&gt;OmegaT&lt;/a0&gt; handles identical segments as one single entity, only the first unique segment is shown.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T170807Z" creationid="piav" creationdate="20191209T170807Z">
-        <seg>Koska &lt;a0&gt;OmegaT&lt;/a0&gt; käsittelee täs</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T170927Z" creationid="piav" creationdate="20191209T170807Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; käsittelee samanlaisia segmenttejä yhtenä kokonaisuutena, joten toistuvista segmenteistä näytetään ainoastaan ensimmäinen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9185,6 +9185,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T114118Z" creationid="piav" creationdate="20191201T100445Z">
         <seg>Kaksoisnapsauta &lt;f0&gt;OmegaT.app&lt;/f0&gt;-tiedostoa tai napsauta sitä Dockissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-clicking on a segment opens it in the Editor for modifications (one single click does it when &lt;e0&gt;Auto-sync with Editor&lt;/e0&gt; option is checked).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T171147Z" creationid="piav" creationdate="20191209T171105Z">
+        <seg>Kaksoisnapsauta segmenttiä, niin saat sen auki editorissa ja voit muuttaa käännöstä. Yksittäinen n</seg>
       </tuv>
     </tu>
     <tu>
@@ -26910,6 +26918,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The segments are displayed in order of appearance in the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T170944Z" creationid="piav" creationdate="20191209T170944Z">
+        <seg>Segmentit esitetään samassa järjestyksessä kuin ne ovat mukana projektissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T105724Z" creationid="piav" creationdate="20191208T105724Z">
@@ -29171,6 +29187,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T084317Z" creationid="piav" creationdate="20190522T084317Z">
         <seg>Käännetyt segmentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated segments are displayed with the original text at the top and the translated text at the bottom, untranslated segments are displayed as the source only.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T171057Z" creationid="piav" creationdate="20191209T171057Z">
+        <seg>Käännettyjen segmenttien alkukielinen teksti näytetään ensin ja käännetty teksti sen alla. Kääntämättömistä segmenteistä esitetään ainoastaan lähdekieliset tekstit.</seg>
       </tuv>
     </tu>
     <tu>
