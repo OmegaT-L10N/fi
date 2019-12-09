@@ -14315,8 +14315,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>It also contains installation instructions.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20170910T084514Z" creationid="PiaVee" creationdate="20170910T084514Z">
-        <seg>Siihen sisältyvät myös ohjelman asennusohjeet.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T145207Z" creationid="PiaVee" creationdate="20170910T084514Z">
+        <seg>Löydät tiedostosta myös ohjelman asennusohjeet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17790,6 +17790,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT 4.2 - User's Guide</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T144922Z" creationid="piav" creationdate="20191209T144922Z">
+        <seg>OmegaT 4.2 – Käyttöopas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Javadoc...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T110625Z" creationid="piav" creationdate="20190913T110625Z">
@@ -18076,6 +18084,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T080316Z" creationid="piav" creationdate="20191128T080133Z">
         <seg>OmegaT tukee tuotuja TMX-tiedostoja, joiden versionumerot ovat 1.1–1.4b (sekä ykkös- että kakkostasolla).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT team</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T144929Z" creationid="piav" creationdate="20191209T144929Z">
+        <seg>OmegaT-tiimi</seg>
       </tuv>
     </tu>
     <tu>
@@ -26986,12 +27002,12 @@ palvelimelta.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>VIRALLINEN KÄYTTÖOPAS?!??!?! Voiko tätä sanoa yksinkertaisemmin? Ja miten tätä lausetta jatketaan niin, että OmegaT tulee selvitettyä?</note>
+      <note>		</note>
       <tuv lang="EN">
         <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T174943Z" creationid="PiaVee" creationdate="20170910T084447Z">
-        <seg>OmegaT on vapaa työkalu tietokoneavusteista kääntämistä varten. Tämä tiedosto on virallinen OmegaT-käsikirja.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T145039Z" creationid="PiaVee" creationdate="20170910T084447Z">
+        <seg>OmegaT on vapaa työkalu tietokoneavusteista kääntämistä varten, ja tämä tiedosto on virallinen OmegaT-käsikirja.</seg>
       </tuv>
     </tu>
     <tu>
