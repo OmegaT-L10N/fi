@@ -3299,6 +3299,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit the window displaying at opening, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Access Configuration Folder&lt;/g6&gt; &lt;/m4&gt; menu).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T151643Z" creationid="piav" creationdate="20191209T151643Z">
+        <seg>&lt;r0&gt;Huom.:&lt;/r0&gt; Jos haluat, että ikkunaa ei näy sen jälkeen kun projekti on avattu, aseta tiedoston &lt;f3&gt;omegat.prefs&lt;/f3&gt; kohdan &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; arvoksi &lt;e2&gt;false&lt;/e2&gt;. Pääset käsiksi tiedostoon valitsemalla &lt;m4&gt; &lt;g5&gt;Asetukset&lt;/g5&gt; &lt;g6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;repositories&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T120001Z" creationid="piav" creationdate="20191128T120001Z">
@@ -20015,6 +20023,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Files</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T151105Z" creationid="piav" creationdate="20191209T151105Z">
+        <seg>Projektin tiedostot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Files ({0} of {1})</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T112314Z" creationid="PiaVee" creationdate="20171218T072317Z">
@@ -27636,6 +27652,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This window is displayed automatically when OmegaT loads a project, and at any time by pressing &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Project Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191209T151157Z" creationid="piav" creationdate="20191209T151157Z">
+        <seg>Tämä ikkuna näkyy automaattisesti silloin, kun OmegaT lataa projektin. Saat ikkunan milloin tahansa esille valitsemalla &lt;m0&gt; &lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;Projektin tiedostot…&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T145959Z" creationid="piav" creationdate="20191209T145959Z">
@@ -30113,8 +30137,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>When the two columns are sufficiently aligned, click &lt;g0&gt;Save TMX...&lt;/g0&gt; to create the resulting translation memory.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191209T151018Z" creationid="piav" creationdate="20191209T151018Z">
-        <seg>Kun sarakkeet on kohdistettu riittävästi, napsauta &lt;g0&gt;Tallenna TMX</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191209T151058Z" creationid="piav" creationdate="20191209T151018Z">
+        <seg>Kun sarakkeet ovat riittävän kohdakkain, napsauta painiketta &lt;g0&gt;Tallenna TMX…&lt;/g0&gt;, jolloin ohjelma luo käännösmuistitiedoston.</seg>
       </tuv>
     </tu>
     <tu>
