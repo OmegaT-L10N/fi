@@ -2307,10 +2307,26 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T165427Z" creationid="piav" creationdate="20191210T165427Z">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T073559Z" creationid="piav" creationdate="20191022T073445Z">
         <seg>Kun projekti avataan, &lt;a1&gt;OmegaT&lt;/a1&gt; tunnistaa automaattisesti tässä kansiossa olevat sanastotiedostot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a2&gt;Libre Office&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T165428Z" creationid="piav" creationdate="20191210T165428Z">
+        <seg>&lt;a2&gt;Libre Office&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3583,6 +3599,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T113016Z" creationid="piav" creationdate="20191201T113016Z">
         <seg>Komentoikkunaa kutsutaan myös pääteikkunaksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T165621Z" creationid="piav" creationdate="20191210T165621Z">
+        <seg>Kattava kokoelma apuohjelmia, joilla voi valmistella tiedostoja CAT-ohjelmia varten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11655,6 +11679,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Free (compatible) alternatives to Microsoft Office.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T165451Z" creationid="piav" creationdate="20191210T165451Z">
+        <seg>Vapaita (yhteensopivia) vaihtoehtoja Microsoft Officelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>French</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174108Z" creationid="PiaVee" creationdate="20171014T174108Z">
@@ -16301,8 +16333,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Localization TMX repository</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191210T165053Z" creationid="piav" creationdate="20191210T164956Z">
-        <seg>TMX-tietovarasto lokalisoinnin tarpeisiin:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191210T165307Z" creationid="piav" creationdate="20191210T164956Z">
+        <seg>TMX-tietovarasto lokalisoinnin tarpeisiin, josta löytyvät</seg>
       </tuv>
     </tu>
     <tu>
@@ -18551,6 +18583,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Okapi Framework</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T165452Z" creationid="piav" creationdate="20191210T165452Z">
+        <seg>Okapi Framework</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Old Church Slavonic, Church Slavic, Church Slavonic, Old Bulgarian, Old Slavonic</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T080837Z" creationid="PiaVee" creationdate="20171015T080837Z">
@@ -19191,6 +19231,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T084818Z" creationid="piav" creationdate="20191022T084818Z">
         <seg>Yksi tai useampi yllä mainituista ongelmista on korjattu, mutta projektia ei ole ladattu uudelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T165426Z" creationid="piav" creationdate="20191210T165426Z">
+        <seg>Verkkovarastoja, joiden oikeinkirjoitussanastoja voi käyttää OmegaT:ssä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24740,6 +24788,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T165336Z" creationid="piav" creationdate="20191210T165336Z">
+        <seg>Oikeinkirjoitussanastot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Split</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T131813Z" creationid="piav" creationdate="20190920T131813Z">
@@ -25248,8 +25304,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>TMX files of localizations of the OmegaT documentation and of this site, for use by localizers.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191210T165303Z" creationid="piav" creationdate="20191210T165039Z">
-        <seg>OmegaT-dokumentaation ja tämän sivuston TMX-tiedostot lokalisoijien käyttöön.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191210T165312Z" creationid="piav" creationdate="20191210T165039Z">
+        <seg>OmegaT-dokumentaation ja tämän sivuston TMX-tiedostot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28044,6 +28100,22 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T100219Z" creationid="piav" creationdate="20191030T100219Z">
         <seg>Nämä näkyvät käännöksen erillisinä segmentteinä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Third-party software</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T165317Z" creationid="piav" creationdate="20191210T165317Z">
+        <seg>Kolmannen osapuolen ohjelmisto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Third-party software for use with OmegaT</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T165330Z" creationid="piav" creationdate="20191210T165330Z">
+        <seg>Kolmannen osapuolen ohjelmistoja, joita voi käyttää OmegaT:ssä.</seg>
       </tuv>
     </tu>
     <tu>
