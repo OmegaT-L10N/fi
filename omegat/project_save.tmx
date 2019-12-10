@@ -12727,6 +12727,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, submission of an RFE does not mean that the desired feature or improvement will automatically be implemented.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T174808Z" creationid="piav" creationdate="20191210T174712Z">
+        <seg>RFE:n lähettäminen ei kuitenkaan tarkoita sitä, että toivottu toiminto tai muutos toteutetaan automaattisesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, the command-line alternative allows the user to control and modify the program's behavior.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T112916Z" creationid="piav" creationdate="20191201T112854Z">
@@ -16391,6 +16399,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T083121Z" creationid="piav" creationdate="20191127T082849Z">
         <seg>Luettelo projekteista, joiden kirjautumistiedot OmegaT pitää tallessa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T174656Z" creationid="piav" creationdate="20191210T174656Z">
+        <seg>RFE-ehdotuksia on tehty sadoittain, ja monet niistä on jo otettu käyttöön.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27415,6 +27431,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The procedure is termed an &lt;a0&gt;"RFE" (Request for Feature Enhancement) and is managed here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T174609Z" creationid="piav" creationdate="20191210T174609Z">
+        <seg>Menettelytapaa kututaan &lt;a0&gt;RFE:ksi (Request for Feature Enhancement) ja sitä käsitellään täällä&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The procedures for configuring access to the Microsoft Translator and Google Translate services are described &lt;u0&gt;here&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191029T101020Z" creationid="piav" creationdate="20191029T101020Z">
@@ -28681,6 +28705,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T145039Z" creationid="PiaVee" creationdate="20170910T084447Z">
         <seg>OmegaT on vapaa työkalu tietokoneavusteista kääntämistä varten, ja tämä tiedosto on virallinen OmegaT-käsikirja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This enables the numerous suggestions to be managed more easily.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T174518Z" creationid="piav" creationdate="20191210T174518Z">
+        <seg>Menettelytavan ansiosta suuri ehdotusmäärä on helpommin hallittavissa.</seg>
       </tuv>
     </tu>
     <tu>
