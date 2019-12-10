@@ -16122,6 +16122,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux binary version of Toxic.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T163731Z" creationid="piav" creationdate="20191210T163731Z">
+        <seg>Linux-binääripakettiversio Toxicista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>List View</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081449Z" creationid="piav" creationdate="20190522T081449Z">
@@ -19666,6 +19674,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other users are advised to use the &lt;a0&gt;Okapi Filters Plugin&lt;/a0&gt; instead.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T163536Z" creationid="piav" creationdate="20191210T163536Z">
+        <seg>Muiden käyttäjien käyttöön suositellaan &lt;a0&gt;Okapi Filters -laajennusta&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Otherwise, OmegaT will use the language of the operating system.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T082758Z" creationid="PiaVee" creationdate="20170910T082758Z">
@@ -22615,6 +22631,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T114305Z" creationid="piav" creationdate="20190920T114305Z">
         <seg>Komentosarjan tulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script versions of Toxic.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T163748Z" creationid="piav" creationdate="20191210T163748Z">
+        <seg>Komentosarjaversioita Toxicista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29286,6 +29310,38 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Toxic for Linux</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T163644Z" creationid="piav" creationdate="20191210T163644Z">
+        <seg>Toxic Linux-käyttöjärjestelmään</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toxic for Windows</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T163617Z" creationid="piav" creationdate="20191210T163617Z">
+        <seg>Toxic Windows-käyttöjärjestelmään</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toxic scripts</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T163739Z" creationid="piav" creationdate="20191210T163739Z">
+        <seg>Toxic-komentosarjat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toxic was contributed by Marc Prior.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T163604Z" creationid="piav" creationdate="20191210T163604Z">
+        <seg>Toxicin on antanut käyttöön Marc Prior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tracking system</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T135733Z" creationid="PiaVee" creationdate="20171014T135733Z">
@@ -31477,6 +31533,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T144609Z" creationid="piav" creationdate="20191209T144609Z">
         <seg>Ikkunat ja valintaikkunat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows executable version of Toxic.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T163631Z" creationid="piav" creationdate="20191210T163631Z">
+        <seg>Windowsissa suoritettava versio Toxicista.</seg>
       </tuv>
     </tu>
     <tu>
