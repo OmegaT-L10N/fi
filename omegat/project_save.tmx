@@ -6095,6 +6095,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But I can't program at all, I hear you say.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T184132Z" creationid="piav" creationdate="20191210T184132Z">
+        <seg>Mutta sinä sanoit, ettet osaa ohjelmoida?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But programming isn't the only job needing to be done.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T182759Z" creationid="piav" creationdate="20191210T182716Z">
@@ -13866,6 +13874,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T184437Z" creationid="piav" creationdate="20191210T184437Z">
+        <seg>Jos jo tunnet tietokoneiden perusperiaatteet hyvin ja alat opetella jotakin selkeää komentosarjakieltä kuten Javascriptiä tai Tcl/tk:tä, voit jo parin viikon päästä kirjoittaa yksinkertaisia mutta käytännöllisiä komentosarjoja itse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T112112Z" creationid="piav" creationdate="20191202T112112Z">
@@ -13902,6 +13918,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191203T133348Z" creationid="piav" creationdate="20191203T133252Z">
         <seg>Jos et näe kaikkia (avattuja tai kutistettuja) ruutuja, valitse valikon kohta &lt;g0&gt;Valinnat &gt; Palauta pääikkuna&lt;/g0&gt;. Tällöin ruudut palautuvat asennuksen aikana määriteltyyn tilaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you can program in another language, you can write code to support the core application.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T184042Z" creationid="piav" creationdate="20191210T184042Z">
+        <seg>Jos osaat ohjelmoida jollakin toisella kielellä, voit kirjoittaa ydinsovellusta tukevaa koodia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21520,6 +21544,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Programming (not Java)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T183941Z" creationid="piav" creationdate="20191210T183941Z">
+        <seg>Ohjelmointi (muu kuin Java)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Programming is certainly the most important function, and without programming, there is no program.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T182746Z" creationid="piav" creationdate="20191210T182712Z">
@@ -25858,6 +25890,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T133226Z" creationid="piav" creationdate="20190521T133226Z">
         <seg>Aliversio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such auxiliary code has already been written in Javascript, Groovy and Tcl/Tk, for instance.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T184114Z" creationid="piav" creationdate="20191210T184114Z">
+        <seg>Lisäkoodia on jo olemassa esimerkiksi Javascript-, Groovy- ja Tcl/tk-kielillä</seg>
       </tuv>
     </tu>
     <tu>
@@ -32444,6 +32484,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T102650Z" creationid="PiaVee" creationdate="20171219T102650Z">
         <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Well, have you considered learning?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T184140Z" creationid="piav" creationdate="20191210T184140Z">
+        <seg>Oletko harkinnut sen opettelemista?</seg>
       </tuv>
     </tu>
     <tu>
