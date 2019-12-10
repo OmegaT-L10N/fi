@@ -2315,6 +2315,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T175150Z" creationid="piav" creationdate="20191210T175150Z">
+        <seg>&lt;a0&gt;Kehitystyön sponsorointi on jo johtanut tiettyjen toimintojen lisäämiseen.&lt;/a0&gt; Jos olet halukas kustantamaan haluamasi toiminnon, ota yhteyttä kehitystiimiin hinta-arviota varten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T073559Z" creationid="piav" creationdate="20191022T073445Z">
@@ -5291,6 +5299,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T083250Z" creationid="piav" creationdate="20191030T082841Z">
         <seg>Tämä on oletuksena PO-tiedostoissa, joten oletusarvoisesti valinta on rastitettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As with free developments, however, the principle still applies that any changes to OmegaT must be beneficial to the application and its users.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T175410Z" creationid="piav" creationdate="20191210T175410Z">
+        <seg>Tällaisia muutoksia koskee sama periaate kuin vapaatakin kehitystyötä: Kaikkien muutosten on oltava hyödyllistä sekä ohjelmalle että sen käyttäjille.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15358,6 +15374,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T110158Z" creationid="piav" creationdate="20190913T110158Z">
         <seg>Tekemäsi käännökset merkitään sillä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It may also be possible for developments commissioned from external developers to be implemented within OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T175248Z" creationid="piav" creationdate="20191210T175248Z">
+        <seg>OmegaT:ssä on mahdollista ottaa käyttöön myös ulkopuolisten kehittäjien laatimia kehityksiä.</seg>
       </tuv>
     </tu>
     <tu>
