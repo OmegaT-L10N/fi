@@ -3875,6 +3875,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T182002Z" creationid="piav" creationdate="20191210T182002Z">
+        <seg>Runsaasti erilaisia toimintoja, selkeä käyttöliittymä ja tärkeimpänä kaikesta jatkuva ja säännöllinen open source -kehitys!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T154509Z" creationid="piav" creationdate="20191022T154509Z">
@@ -12927,6 +12935,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I've been using OmegaT as a professional translator for over 10 years, benefiting in the early days from its ease of use and extremely helpful forum.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T181913Z" creationid="piav" creationdate="20191210T181913Z">
+        <seg>Olen käyttänyt OmegaT:tä yli kymmenen vuoden ajan, ja jo alkuvaiheessa hyötynyt ohjelman helppokäyttöisyydestä ja erittäin auttavaisesta käyttäjäryhmästä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IBM Watson</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T141802Z" creationid="piav" creationdate="20190916T141802Z">
@@ -19311,6 +19327,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is free software.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T182041Z" creationid="piav" creationdate="20191210T182041Z">
+        <seg>OmegaT on vapaa ohjelmisto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T151515Z" creationid="piav" creationdate="20191030T120207Z">
@@ -19333,6 +19357,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T183041Z" creationid="piav" creationdate="20190521T181314Z">
         <seg>OmegaT:n alkuperäinen kehittäjä on Keith Godfrey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T182035Z" creationid="piav" creationdate="20191210T182035Z">
+        <seg>OmegaT ei ole pelkkä tuote, vaan jännittävä projekti. Sinä voit olla osa sitä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22854,6 +22886,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T123236Z" creationid="PiaVee" creationdate="20171218T122946Z">
         <seg>Nuolinäppäin oikealle:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Robert Corner, Institut Laue-Langevin, France</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T182008Z" creationid="piav" creationdate="20191210T182008Z">
+        <seg>Robert Corner, Institut Laue-Langevin, Ranska</seg>
       </tuv>
     </tu>
     <tu>
@@ -26565,6 +26605,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T084121Z" creationid="PiaVee" creationdate="20171219T084121Z">
         <seg>OmegaT-projekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project and you</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T182013Z" creationid="piav" creationdate="20191210T182013Z">
+        <seg>OmegaT-projekti ja sinä</seg>
       </tuv>
     </tu>
     <tu>
@@ -31866,6 +31914,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T120320Z" creationid="piav" creationdate="20190920T120320Z">
         <seg>Tägejä tarkistetaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Valter Mura - Translator EN &gt; IT</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T181804Z" creationid="piav" creationdate="20191210T181804Z">
+        <seg>Valter Mura - EN–IT-kääntäjä</seg>
       </tuv>
     </tu>
     <tu>
