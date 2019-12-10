@@ -726,3 +726,4 @@ authenticated proxy server	todennettu välityspalvelin
 repository	tietovarasto
 Java Web Start	Java Web Start
 Java Runtime Environment	Java Runtime Environment
+development team	kehitystiimi
