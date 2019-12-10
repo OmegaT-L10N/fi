@@ -16301,8 +16301,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Localization TMX repository</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191210T164956Z" creationid="piav" creationdate="20191210T164956Z">
-        <seg>TMX-tietovarasto lokalisoinnin tarpeisiin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191210T165053Z" creationid="piav" creationdate="20191210T164956Z">
+        <seg>TMX-tietovarasto lokalisoinnin tarpeisiin:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25246,6 +25246,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TMX files of localizations of the OmegaT documentation and of this site, for use by localizers.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T165303Z" creationid="piav" creationdate="20191210T165039Z">
+        <seg>OmegaT-dokumentaation ja tämän sivuston TMX-tiedostot lokalisoijien käyttöön.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TMXCleaner</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T162953Z" creationid="piav" creationdate="20191210T162953Z">
@@ -26553,6 +26561,14 @@ instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T151609Z" creationid="piav" creationdate="20191030T151609Z">
         <seg>Tiedostot ovat muotoilemattomia vain teksti -tiedostoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The files of this site, in a convenient package for those wishing to localize it.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T165246Z" creationid="piav" creationdate="20191210T165246Z">
+        <seg>Tämän sivun tiedostot siistissä paketissa sivun lokalisoijan käyttöön.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28745,6 +28761,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T113643Z" creationid="piav" creationdate="20191208T113643Z">
         <seg>Näin kääntäjälle voidaan antaa lisätietoa käännettävän segmentin kontekstista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This web site</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T165206Z" creationid="piav" creationdate="20191210T165206Z">
+        <seg>Tämä verkkosivu</seg>
       </tuv>
     </tu>
     <tu>
