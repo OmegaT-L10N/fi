@@ -4859,6 +4859,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T182643Z" creationid="piav" creationdate="20191210T182643Z">
+        <seg>Vaikka monet tietävät tämän, heidän ensireaktionsa on usein: "Mutta minä en osaa koodata!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T063914Z" creationid="piav" creationdate="20191023T063914Z">
@@ -11579,6 +11587,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T120812Z" creationid="piav" creationdate="20191202T120812Z">
         <seg>Tarkemman esittelyn &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; löydät OmegaT-verkkosivustolta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For advocates of open-source software, this freedom is even more important than the exemption from having to pay anything.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T182447Z" creationid="piav" creationdate="20191210T182447Z">
+        <seg>Avoimen lähdekoodin kannattajille tämä käyttäjien vapaus on tärkeämpää kuin se, ettei lähdekoodista tarvitse maksaa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26653,6 +26669,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T171819Z" creationid="piav" creationdate="20191210T171819Z">
         <seg>OmegaT-projektin filosofia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project would benefit from greater support from volunteers in almost all areas.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T182617Z" creationid="piav" creationdate="20191210T182617Z">
+        <seg>Vapaaehtoiset voivat auttaa lähes kaikissa OmegaT-projektin osissa.</seg>
       </tuv>
     </tu>
     <tu>
