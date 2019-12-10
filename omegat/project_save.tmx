@@ -28598,6 +28598,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and un-comment the line &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; by removing the &lt;l2&gt;&lt;!--&lt;/l2&gt; and &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T161352Z" creationid="piav" creationdate="20191210T161352Z">
+        <seg>Saat muutettua OmegaT:n käytössä olevaa muistia muokkaamalla tiedostoa &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; ja poistamalla rivin &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; kommenttimerkit &lt;l2&gt;&lt;!--&lt;/l2&gt; ja &lt;l3&gt;--&gt;&lt;/l3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the amount of memory available, edit &lt;f0&gt;OmegaT.app/Contents/MacOS/OmegaT&lt;/f0&gt; file and remove the &lt;l1&gt;#&lt;/l1&gt; before the &lt;l2&gt;MEMORY=-Xmx&lt;p3&gt;?&lt;/p3&gt;g&lt;/l2&gt; entry.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T101454Z" creationid="piav" creationdate="20191201T101454Z">
