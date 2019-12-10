@@ -7397,8 +7397,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Contributed by Dmitri Gabinski.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191210T162514Z" creationid="piav" creationdate="20191210T162514Z">
-        <seg>Kehittäjänä Dmitri Gabinski.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191210T164130Z" creationid="piav" creationdate="20191210T162514Z">
+        <seg>Resurssin on antanut käyttöön Dmitri Gabinski.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7407,6 +7407,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T162952Z" creationid="piav" creationdate="20191210T162952Z">
         <seg>Kehittäjänä Henry Pijffers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contributed by Marc Prior.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T163953Z" creationid="piav" creationdate="20191210T163953Z">
+        <seg>Kehi</seg>
       </tuv>
     </tu>
     <tu>
@@ -20029,6 +20037,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Platform-independent; require tcl/tk.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T163814Z" creationid="piav" creationdate="20191210T163814Z">
+        <seg>Käyttöjärjestelmästä riippumaton, vaatii tcl/tk:n.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please check the &lt;u0&gt;ISO 639 Code Tables&lt;/u0&gt; for further and up-to-date information about language codes.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T162043Z" creationid="PiaVee" creationdate="20171014T162043Z">
@@ -21913,6 +21929,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Requires tcl/tk.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T163942Z" creationid="piav" creationdate="20191210T163942Z">
+        <seg>Vaatii tcl/tk:n.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ResX</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180112Z" creationid="piav" creationdate="20190521T180112Z">
@@ -22631,6 +22655,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T114305Z" creationid="piav" creationdate="20190920T114305Z">
         <seg>Komentosarjan tulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T163936Z" creationid="piav" creationdate="20191210T163936Z">
+        <seg>Komentosarja, joka purkaa vain-teksti-tiedostoista (esim. tietokoneen lähdekoodista) käännettävän tekstin, jonka voi sitten kääntää OmegaT:ssä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24817,6 +24849,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T082310Z" creationid="PiaVee" creationdate="20170910T082245Z">
         <seg>Poista tägit nykyisestä segmentistä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stripper</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T163815Z" creationid="piav" creationdate="20191210T163815Z">
+        <seg>Stripper</seg>
       </tuv>
     </tu>
     <tu>
