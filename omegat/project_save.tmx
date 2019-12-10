@@ -7790,6 +7790,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create a TMX file containing all strings, with identical source and target</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T170835Z" creationid="piav" creationdate="20191210T170835Z">
+        <seg>luoda TMX-tiedosto kaikista merkkijonoista, joiden lähde ja kohde ovat identtiset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T110316Z" creationid="piav" creationdate="20191128T074312Z">
@@ -10819,6 +10827,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T110513Z" creationid="piav" creationdate="20191129T110513Z">
         <seg>Tiedostoja voi muuttaa ohjelman tukemiin muotoihin muilla työkaluilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extract all source text from the project files into a single, large text file</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T170742Z" creationid="piav" creationdate="20191210T170723Z">
+        <seg>poimia projektitiedostojen kaikki lähdeteksti yhteen isoon tekstitiedostoon</seg>
       </tuv>
     </tu>
     <tu>
@@ -22950,8 +22966,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Scripts/procedures are available to enable you to do the following:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191210T170537Z" creationid="piav" creationdate="20191210T170537Z">
-        <seg>Komento- ja toimintosarjat mahdollistavat seuraavaa:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191210T170733Z" creationid="piav" creationdate="20191210T170537Z">
+        <seg>Komento- ja toimintosarjojen avulla sinun on mahdollista</seg>
       </tuv>
     </tu>
     <tu>
@@ -24272,6 +24288,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T083219Z" creationid="piav" creationdate="20191030T083219Z">
         <seg>Ohita PO-otsake</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skip segments containing a certain set of characters</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T170738Z" creationid="piav" creationdate="20191210T170612Z">
+        <seg>ohittaa segmentit, joissa on tietty merkkijono</seg>
       </tuv>
     </tu>
     <tu>
