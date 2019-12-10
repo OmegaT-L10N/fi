@@ -5247,6 +5247,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T173335Z" creationid="piav" creationdate="20191210T173335Z">
+        <seg>Niin OmegaT:n ohjelmointi kuin muutkin projektin osat tehdään vapaaehtoisten voimin. Kehitykset ja parannukset ovat nekin, aivan projektin filosofian mukaisesti, täysin käyttäjien harkinnassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T084254Z" creationid="piav" creationdate="20191022T084254Z">
@@ -8754,6 +8762,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T083703Z" creationid="PiaVee" creationdate="20171219T083703Z">
         <seg>Kehittäjät</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Development of OmegaT</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T173029Z" creationid="piav" creationdate="20191210T173029Z">
+        <seg>OmegaT:n kehitys</seg>
       </tuv>
     </tu>
     <tu>
