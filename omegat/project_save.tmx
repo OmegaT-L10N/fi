@@ -4973,6 +4973,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T170224Z" creationid="piav" creationdate="20191210T170224Z">
+        <seg>Älykäs komentorivillä toimiva kohdistustyökalu, jolla voit tuottaa käännösmuisteja yksinkertaisista teksteistä ja niiden käännöksistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T094316Z" creationid="piav" creationdate="20190522T094316Z">
@@ -11843,6 +11851,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T095046Z" creationid="piav" creationdate="20191201T095046Z">
         <seg>GNOME ei välttämättä pysty näyttämään käytettävissä olevia ikonitiedostoja, sillä se odottaa ikonitiedostojen olevan SVG-tiedostoja. Jos kuitenkin valitset tämän kansion, tiedostojen pitäisi tulla näkyviin ja voit valita &lt;f4&gt;OmegaT-png&lt;/f4&gt;-tiedoston ohjelman ikoniksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T170148Z" creationid="piav" creationdate="20191210T170028Z">
+        <seg>Graafisen käyttöliittymän omaava kohdistustyökalu, jolla voit tuottaa yksinkertaisista teksteistä ja niiden käännöksistä käännösmuisteja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33536,6 +33552,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173724Z" creationid="PiaVee" creationdate="20171014T173721Z">
         <seg>bis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bitext2tmx</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T165921Z" creationid="piav" creationdate="20191210T165921Z">
+        <seg>bitext2tmx</seg>
       </tuv>
     </tu>
     <tu>
