@@ -11743,6 +11743,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For this purpose, a dedicated &lt;a0&gt;developers' mailing list&lt;/a0&gt; exists.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T174227Z" creationid="piav" creationdate="20191210T174223Z">
+        <seg>Tätä varten on olemassa oma &lt;a0&gt;kehittäjien sähköpostilistansa&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this reason, the two commands described above are contained in a file (a "script", also called a "&lt;f0&gt;.bat&lt;/f0&gt; file" on Windows systems).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T115059Z" creationid="piav" creationdate="20191201T115059Z">
@@ -19343,6 +19351,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T125739Z" creationid="PiaVee" creationdate="20171218T125739Z">
         <seg>Kun automaattisen korvauksen valintaikkuna on avoinna, paina &lt;e1&gt;Ctrl + välilyönti&lt;/e1&gt; vaihtaaksesi kohtiin &lt;e2&gt;Sanasto&lt;/e2&gt;, &lt;e3&gt;Autom. tekstikohdat&lt;/e3&gt;, &lt;e4&gt;Puuttuvat tägit&lt;/e4&gt; ja &lt;e5&gt;Näppäintaulukko&lt;/e5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T174444Z" creationid="piav" creationdate="20191210T174408Z">
+        <seg>Käyttäjän muutos- tai parannusehdotus etenee tietyn menettelytavan mukaisesti kehitystiimin harkittavaksi.</seg>
       </tuv>
     </tu>
     <tu>
