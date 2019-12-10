@@ -3563,6 +3563,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T181134Z" creationid="piav" creationdate="20191210T181134Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Viimeisin versio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standard Version</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T181126Z" creationid="piav" creationdate="20191210T181126Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standardiversio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T175726Z" creationid="piav" creationdate="20191210T175716Z">
@@ -9546,6 +9562,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T111332Z" creationid="piav" creationdate="20190913T111325Z">
         <seg>Lataa MediaWiki-sivu…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Overview</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T181117Z" creationid="piav" creationdate="20191210T181117Z">
+        <seg>Yleiskatsaus latauksista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Selector</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T180935Z" creationid="piav" creationdate="20191210T180935Z">
+        <seg>Latausvalitsin</seg>
       </tuv>
     </tu>
     <tu>
