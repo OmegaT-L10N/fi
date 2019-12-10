@@ -3627,6 +3627,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A detailed tutorial is available.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T165919Z" creationid="piav" creationdate="20191210T165919Z">
+        <seg>Tähän löytyy yksityiskohtainen opasohjelma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T082941Z" creationid="piav" creationdate="20191022T082850Z">
@@ -9899,6 +9907,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T175534Z" creationid="piav" creationdate="20190521T175534Z">
         <seg>Käytössä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enables a number of file formats to be translated which cannot be handled natively in OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T165849Z" creationid="piav" creationdate="20191210T165849Z">
+        <seg>Kokoelma tuo OmegaT:n käyttöön suuren joukon tiedostomuotoja, joita ohjelma itse ei pysty käsittelemään suoraan.</seg>
       </tuv>
     </tu>
     <tu>
