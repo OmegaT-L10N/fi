@@ -9542,6 +9542,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Donations</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T183633Z" creationid="piav" creationdate="20191210T183633Z">
+        <seg>Lahjoitukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Done</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081306Z" creationid="piav" creationdate="20190522T081306Z">
@@ -13482,6 +13490,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If not, why not write an article on using OmegaT?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T183629Z" creationid="piav" creationdate="20191210T183623Z">
+        <seg>Jos et, niin miksipä et aloittaisi kirjoittamalla OmegaT:n käytöstä?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If only one file is present, check its extension.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T110332Z" creationid="PiaVee" creationdate="20171219T110237Z">
@@ -13978,6 +13994,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have found OmegaT useful and would like to express your gratitude by making a &lt;a0&gt;donation&lt;/a0&gt; on our Paypal account.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T183735Z" creationid="piav" creationdate="20191210T183735Z">
+        <seg>Jos OmegaT on mielestäsi hyödyllinen ja haluaisit kiittää ohjelmasta, voit tehdä &lt;a0&gt;lahjoituksen&lt;/a0&gt; PayPal-tilillemme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have made changes to your &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; file and/or are using a .bat file, you must copy these over.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T122212Z" creationid="piav" creationdate="20191129T122212Z">
@@ -14142,6 +14166,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T081049Z" creationid="piav" creationdate="20191128T080959Z">
         <seg>Jos haluat käyttää tällaisia tiedostoja viitekäännöksinä, ne on korjattava. Muutoin OmegaT ilmoittaa virheestä, eikä käännösmuistien lataaminen onnistu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T183935Z" creationid="piav" creationdate="20191210T183935Z">
+        <seg>Jos olet ohjelmoija ja satut tuntemaan Javaa, tarkistathan &lt;a0&gt;lähdekoodin&lt;/a0&gt; dokumentaatiosta (kohdassa /docs_devel), kuinka pääset alkuun.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19473,6 +19505,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is written in Java.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T183805Z" creationid="piav" creationdate="20191210T183805Z">
+        <seg>OmegaT on kirjoitettu Java-kielellä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T182035Z" creationid="piav" creationdate="20191210T182035Z">
@@ -21468,6 +21508,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T175921Z" creationid="piav" creationdate="20191210T175921Z">
         <seg>Ammattimaiset ominaisuudet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Programming (Java)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T183758Z" creationid="piav" creationdate="20191210T183758Z">
+        <seg>Ohjelmointi (Java)</seg>
       </tuv>
     </tu>
     <tu>
