@@ -19291,6 +19291,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T175035Z" creationid="piav" creationdate="20191210T175035Z">
+        <seg>OmegaT:n kehittäjät ovat kaikki vapaaehtoisia, ja he voivat olla halukkaampia toteuttamaan RFE-ehdotuksen, jos ehdottaja voi kustantaa kehitystyön.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T114212Z" creationid="piav" creationdate="20191202T114212Z">
@@ -32124,6 +32132,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T172411Z" creationid="piav" creationdate="20191210T172411Z">
         <seg>Rutiinitehtävien parissa työskenteleville vapaaehtoisille annetaan mahdollisimman suuri vapaus päättää omista vaikutustavoistaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whether or not it is adopted depends firstly upon whether the development team considers it beneficial to OmegaT, and secondly, upon whether one of the developers is willing to do the work of implementing it.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T174950Z" creationid="piav" creationdate="20191210T174950Z">
+        <seg>Ehdotuksen hyväksyntä tai hylkäys riippuu ensiksi siitä, pitääkö kehitystiimi ehdotusta OmegaT:lle hyödyllisenä, ja toiseksi siitä, onko joku kehitystiimin jäsen halukas tekemään toteutuksen vaatiman työn.</seg>
       </tuv>
     </tu>
     <tu>
