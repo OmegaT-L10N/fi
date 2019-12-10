@@ -28003,6 +28003,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This collection of scripts may be useful to scripters with a knowledge of tcl/tk.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T163458Z" creationid="piav" creationdate="20191210T163458Z">
+        <seg>Tämä komentosarjakokoelma voi olla hyödyllinen koodaajille, jotka osaavat tcl/tk:ta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This command changes the folder to the folder containing the executable &lt;a0&gt;OmegaT&lt;/a0&gt; file.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T114618Z" creationid="piav" creationdate="20191201T114618Z">
@@ -29266,6 +29274,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T085928Z" creationid="PiaVee" creationdate="20171218T085928Z">
         <seg>Yhteensä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toxic</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T163235Z" creationid="piav" creationdate="20191210T163235Z">
+        <seg>Toxic</seg>
       </tuv>
     </tu>
     <tu>
@@ -30737,6 +30753,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T162441Z" creationid="piav" creationdate="20191210T162441Z">
         <seg>Apuohjelmat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Utility for converting Trados TagEditor (TTX) files to an intermediate format, enabling them to be translated in OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T163316Z" creationid="piav" creationdate="20191210T163316Z">
+        <seg>Apuohjelma, joka muuttaa Trados TagEditor (TTX) -tiedostot välivaiheen muotoon, jolloin niitä voi kääntää OmegaT:ssä.</seg>
       </tuv>
     </tu>
     <tu>
