@@ -1592,6 +1592,14 @@ Lisää projektitiedostoja napsauttamalla Projektin tiedostot -ikkunan tai Proje
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T162044Z" creationid="piav" creationdate="20191210T161923Z">
+        <seg>(Älä sekoita laajennusta tekstinvientitoimintoon. Sekin mahdollistaa komentosarjojen käytön OmegaT:ssä, mutta vain perustasolla.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T153427Z" creationid="piav" creationdate="20191209T153427Z">
@@ -6647,6 +6655,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Checks for language errors (style, grammar, etc.).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T161739Z" creationid="piav" creationdate="20191210T161739Z">
+        <seg>Tarkistaa tekstin kielivirheiden (tyyli, kielioppi jne.) varalta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Checks to see whether a more recent version of &lt;a0&gt;OmegaT&lt;/a0&gt; has been released.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T141510Z" creationid="piav" creationdate="20191202T141510Z">
@@ -9810,6 +9826,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T081536Z" creationid="piav" creationdate="20191022T145831Z">
         <seg>Ottaa käyttöön kirjainkoosta riippumattomat osumat (oletusasetuksena on, että osumat huomioivat kirjainkoon).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enables external scripts to access OmegaT's functionality.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T161848Z" creationid="piav" creationdate="20191210T161848Z">
+        <seg>Antaa ulkoisten komentosarjojen käyttää OmegaT:n toimintoja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22519,6 +22543,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T155920Z" creationid="piav" creationdate="20191209T155920Z">
         <seg>Komentosarjakielet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripting plug-in</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T161804Z" creationid="piav" creationdate="20191210T161804Z">
+        <seg>Scripting-laajennus</seg>
       </tuv>
     </tu>
     <tu>
