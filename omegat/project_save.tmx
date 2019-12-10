@@ -4187,6 +4187,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add numbers to all segments, making them all "unique"</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T171050Z" creationid="piav" creationdate="20191210T171050Z">
+        <seg>lisätä kaikkiin segmenttiin numeroita, jolloin niistä kaikista tulee "uniikkeja"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T101549Z" creationid="piav" creationdate="20190913T081418Z">
@@ -4199,6 +4207,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T121619Z" creationid="piav" creationdate="20191128T121432Z">
         <seg>Lisää kuvioita yleismerkkien avulla (Apache Ant -tyyliin): *, ?, **</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add terms to a glossary whilst translating in OmegaT</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T171026Z" creationid="piav" creationdate="20191210T171026Z">
+        <seg>lisätä sanaston termejä samaan aikaan kun käännät OmegaT:llä</seg>
       </tuv>
     </tu>
     <tu>
@@ -21772,6 +21788,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T083205Z" creationid="piav" creationdate="20191127T082918Z">
         <seg>Poista projektin nimi luettelosta, jos haluat, että OmegaT kysyy käyttäjänimeä ja salasanaa aina, kun avaat projektia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove all text except tags, or all tags except text</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T171121Z" creationid="piav" creationdate="20191210T171121Z">
+        <seg>poistaa kaikki muu teksti paitsi tägit, tai poistaa kaikki tägit paitsi teksti</seg>
       </tuv>
     </tu>
     <tu>
