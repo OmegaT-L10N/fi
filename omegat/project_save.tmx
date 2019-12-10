@@ -4975,8 +4975,8 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       <tuv lang="EN">
         <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191210T170224Z" creationid="piav" creationdate="20191210T170224Z">
-        <seg>Älykäs komentorivillä toimiva kohdistustyökalu, jolla voit tuottaa käännösmuisteja yksinkertaisista teksteistä ja niiden käännöksistä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191210T170336Z" creationid="piav" creationdate="20191210T170224Z">
+        <seg>Älykäs komentorivillä toimiva kohdistustyökalu, jolla voit tuottaa käännösmuisteja tavanomaisista teksteistä ja niiden käännöksistä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8670,6 +8670,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Descriptions of and links to Samuel Murray's scripts/procedures.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T170409Z" creationid="piav" creationdate="20191210T170409Z">
+        <seg>Samuel Murrayn komento- ja toimintosarjojen kuvauksia ja linkkejä niihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Detail View</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081459Z" creationid="piav" creationdate="20190522T081459Z">
@@ -11857,8 +11865,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191210T170148Z" creationid="piav" creationdate="20191210T170028Z">
-        <seg>Graafisen käyttöliittymän omaava kohdistustyökalu, jolla voit tuottaa yksinkertaisista teksteistä ja niiden käännöksistä käännösmuisteja.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191210T170328Z" creationid="piav" creationdate="20191210T170028Z">
+        <seg>Graafisen käyttöliittymän omaava kohdistustyökalu, jolla voit tuottaa käännösmuisteja tavanomaisista teksteistä ja niiden käännöksistä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17355,6 +17363,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most of these scripts require MS Windows, although some procedures may also work on other platforms.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T170500Z" creationid="piav" creationdate="20191210T170500Z">
+        <seg>Suurin osa komentosarjoista vaatii toimiakseen MS Windowsin, mutta jotkut toimintosarjat voivat toimia myös muissa käyttöjärjestelmissä.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move &amp;Down</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T065309Z" creationid="PiaVee" creationdate="20171218T072534Z">
@@ -22610,6 +22626,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Samuel Murray's scripts and procedures</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T170345Z" creationid="piav" creationdate="20191210T170321Z">
+        <seg>Samuel Murrayn komentosarjat ja toimintosarjat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Samuel Murray: for the introductory chapter "Learn to use OmegaT in 5 minutes".</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170930T065129Z" creationid="PiaVee" creationdate="20170930T065129Z">
@@ -22920,6 +22944,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T114146Z" creationid="piav" creationdate="20190920T114146Z">
         <seg>Komentosarjojen kansio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripts/procedures are available to enable you to do the following:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T170537Z" creationid="piav" creationdate="20191210T170537Z">
+        <seg>Komento- ja toimintosarjat mahdollistavat seuraavaa:</seg>
       </tuv>
     </tu>
     <tu>
