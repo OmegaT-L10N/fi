@@ -5133,6 +5133,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T183510Z" creationid="piav" creationdate="20191210T183510Z">
+        <seg>Ja kertoa meille, kun he huomaavat huonosti toimivia kohtia tai dokumentaation epäselvyyksiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Android Resources</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180246Z" creationid="piav" creationdate="20190521T180246Z">
@@ -12671,6 +12679,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Have you ever written an article for your professional association's journal?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T183554Z" creationid="piav" creationdate="20191210T183554Z">
+        <seg>Oletko koskaan kirjoittanut ammattillisen yhdistyksesi lehteen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>He&amp;aders</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T065430Z" creationid="piav" creationdate="20190521T180825Z">
@@ -19811,6 +19827,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One of the most useful things OmegaT users can do is... to use OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T183411Z" creationid="piav" creationdate="20191210T183401Z">
+        <seg>Eräs hyödyllisimmistä asioista, mitä OmegaT:n käyttäjät voivat tehdä, on … käyttää OmegaT:tä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One or more of the above problems may have been fixed, but the project has not been reloaded.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T084818Z" creationid="piav" creationdate="20191022T084818Z">
@@ -20836,6 +20860,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please contact the &lt;a0&gt;OmegaT Localization Co-ordinator&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T183331Z" creationid="piav" creationdate="20191210T183331Z">
+        <seg>Ota yhteyttä &lt;a0&gt;OmegaT-lokalisointikoordinaattoriin&lt;/a0&gt;, niin saat tietää lisää siitä, mitä OmegaT:n lokalisointiin tai kääntämiseen tarvitaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140734Z" creationid="PiaVee" creationdate="20171014T140734Z">
@@ -21780,6 +21812,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T121512Z" creationid="piav" creationdate="20191201T121512Z">
         <seg>Välityspalvelimen portin numero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Publicity</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T183512Z" creationid="piav" creationdate="20191210T183512Z">
+        <seg>Julkisuus</seg>
       </tuv>
     </tu>
     <tu>
@@ -26386,6 +26426,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190919T132036Z" creationid="piav" creationdate="20190919T132036Z">
         <seg>Testi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Testing</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T183336Z" creationid="piav" creationdate="20191210T183336Z">
+        <seg>Testaaminen</seg>
       </tuv>
     </tu>
     <tu>
