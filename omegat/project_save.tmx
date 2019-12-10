@@ -1600,6 +1600,14 @@ Lisää projektitiedostoja napsauttamalla Projektin tiedostot -ikkunan tai Proje
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T175902Z" creationid="piav" creationdate="20191210T175902Z">
+        <seg>(Tätä tekevää ohjemistoa kutsutaan konekääntimeksi. Sinun on etsittävä sitä muualta.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T153427Z" creationid="piav" creationdate="20191209T153427Z">
@@ -3549,8 +3557,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191210T175716Z" creationid="piav" creationdate="20191210T175716Z">
-        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; on vapaa käännöstyökalu, joka toimii Windowsissa, macOS:ssa, Linuxissa...</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191210T175726Z" creationid="piav" creationdate="20191210T175716Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; on vapaa käännöstyökalu, joka toimii Windowsissa, macOS-käyttöjärjestelmässä, Linuxissa…</seg>
       </tuv>
     </tu>
     <tu>
@@ -11983,6 +11991,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fuzzy matching</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T175924Z" creationid="piav" creationdate="20191210T175924Z">
+        <seg>Sumeat osumat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>GNOME Users</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T094318Z" creationid="piav" creationdate="20191201T094318Z">
@@ -15298,6 +15314,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It does not translate for you!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T175753Z" creationid="piav" creationdate="20191210T175753Z">
+        <seg>Ohjelma ei käännä sinulle!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It enables editors who do not possess Déjà Vu to edit translations produced in Déjà Vu in such a way that amendments can be reincorporated easily.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T155321Z" creationid="PiaVee" creationdate="20171014T155321Z">
@@ -15310,6 +15334,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T160843Z" creationid="piav" creationdate="20191209T160843Z">
         <seg>Tämä moniparadigmainen kieli tukee objektikeskeistä, imperatiivista ja funktionaalista ohjelmointitapaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is a tool intended for professional translators.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T175744Z" creationid="piav" creationdate="20191210T175744Z">
+        <seg>Se on ammattimaisille kääntäjille suunnattu työkalu</seg>
       </tuv>
     </tu>
     <tu>
@@ -17127,6 +17159,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T084338Z" creationid="piav" creationdate="20191127T084338Z">
         <seg>Osumaruudun asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match propagation</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T175948Z" creationid="piav" creationdate="20191210T175948Z">
+        <seg>Osumaehdotukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -21108,6 +21148,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081335Z" creationid="piav" creationdate="20190522T081335Z">
         <seg>Käsitellään…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Professional features</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T175921Z" creationid="piav" creationdate="20191210T175921Z">
+        <seg>Ammattimaiset ominaisuudet</seg>
       </tuv>
     </tu>
     <tu>
