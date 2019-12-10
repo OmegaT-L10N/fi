@@ -7387,6 +7387,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contributed by Didier Briel.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T162631Z" creationid="piav" creationdate="20191210T162631Z">
+        <seg>Kehittäjänä Didier Briel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributed by Dmitri Gabinski.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T162514Z" creationid="piav" creationdate="20191210T162514Z">
@@ -15294,6 +15302,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T111731Z" creationid="piav" creationdate="20191201T111417Z">
         <seg>Java Web Start -teknologia (osa Java 8:aa ja seuraavia) mahdollistaa sen, että erilliset Java-sovellukset voidaan ottaa käyttöön yhdellä napsautuksella tietoverkon kautta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java command-line script for merging two or more TMX files.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T162847Z" creationid="piav" creationdate="20191210T162847Z">
+        <seg>Java-kielinen komentosarja, jolla saa useampia TMX-tiedostoja komentorivillä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25013,6 +25029,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TMXMerger</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T162632Z" creationid="piav" creationdate="20191210T162632Z">
+        <seg>TMXMerger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TaaS</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T082532Z" creationid="piav" creationdate="20190522T082532Z">
@@ -31009,8 +31033,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>Website support can be scripted in Groovy.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191210T162359Z" creationid="piav" creationdate="20191210T162359Z">
-        <seg>Verkkosivujen tukea varten voi kirjoittaa groovy-komentosarjoja.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191210T162618Z" creationid="piav" creationdate="20191210T162359Z">
+        <seg>Verkkosivujen tukea varten voi kirjoittaa Groovy-kielisiä komentosarjoja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31531,8 +31555,8 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       <tuv lang="EN">
         <seg>Written in Python.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191210T162447Z" creationid="piav" creationdate="20191210T162447Z">
-        <seg>Kirjoitettu pythonilla.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191210T162606Z" creationid="piav" creationdate="20191210T162447Z">
+        <seg>Kirjoitettu Python-kielellä.</seg>
       </tuv>
     </tu>
     <tu>
