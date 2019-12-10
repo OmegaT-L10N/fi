@@ -2243,6 +2243,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T175537Z" creationid="piav" creationdate="20191210T175537Z">
+        <seg>&lt;a0&gt;Lataa&lt;/a0&gt; &lt;a1&gt;Aloita tästä&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; contains the Java JRE 1.8</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T095955Z" creationid="piav" creationdate="20191201T095925Z">
@@ -3535,6 +3543,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T122014Z" creationid="piav" creationdate="20191128T122014Z">
         <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T175716Z" creationid="piav" creationdate="20191210T175716Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; on vapaa käännöstyökalu, joka toimii Windowsissa, macOS:ssa, Linuxissa...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12063,6 +12079,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Get Started with OmegaT</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T175545Z" creationid="piav" creationdate="20191210T175545Z">
+        <seg>Aloita OmegaT:n käyttö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Git</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T133224Z" creationid="piav" creationdate="20190521T133224Z">
@@ -18875,6 +18899,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T144922Z" creationid="piav" creationdate="20191209T144922Z">
         <seg>OmegaT 4.2 – Käyttöopas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T175512Z" creationid="piav" creationdate="20191210T175454Z">
+        <seg>OmegaT, &lt;s0&gt;vapaa käännöstyökalu&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31630,6 +31662,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Video by &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T175610Z" creationid="piav" creationdate="20191210T175610Z">
+        <seg>Video, &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Vietnamese</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082236Z" creationid="PiaVee" creationdate="20171015T082236Z">
@@ -39260,6 +39300,14 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T161204Z" creationid="piav" creationdate="20191209T161204Z">
         <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>×</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T175538Z" creationid="piav" creationdate="20191210T175538Z">
+        <seg>×</seg>
       </tuv>
     </tu>
     <tu>
