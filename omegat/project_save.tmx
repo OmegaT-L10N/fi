@@ -11495,6 +11495,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T172618Z" creationid="piav" creationdate="20191210T172618Z">
+        <seg>Kuka tahansa voi esimerkiksi muuttaa OmegaT:n lähdekoodia ja lähettää muutokset kehitystiimille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T120418Z" creationid="piav" creationdate="20191030T111929Z">
@@ -14286,6 +14294,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T073154Z" creationid="piav" creationdate="20190521T135103Z">
         <seg>Lähdetekstissä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In some areas, some degree of co-ordination is required.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T172530Z" creationid="piav" creationdate="20191210T172530Z">
+        <seg>Joillakin aloilla tarvitaan hieman koordinointia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28617,6 +28633,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T143826Z" creationid="piav" creationdate="20191202T143826Z">
         <seg>Tämä on ryhmäprojekteihin kuuluva erityistoiminto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This hands-off approach is described by the current OmegaT project co-ordinator as "delegated anarchy".</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T172516Z" creationid="piav" creationdate="20191210T172516Z">
+        <seg>OmegaT-projektin tämänhetkinen koordinaattori kuvaa tällaista vapaat kädet antavaa lähestymistapaa "delegoiduksi anarkiaksi".</seg>
       </tuv>
     </tu>
     <tu>
