@@ -4989,6 +4989,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T171411Z" creationid="piav" creationdate="20191210T171411Z">
+        <seg>Tärkeä osa tätä vapautta on se, että käyttäjät voivat myös muokata ohjelman lähdekoodia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T170336Z" creationid="piav" creationdate="20191210T170224Z">
@@ -6627,6 +6635,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T105557Z" creationid="piav" creationdate="20190916T125613Z">
         <seg>Tarkista yksinkertaiset Java-kielen MessageFormat-muodot (esim. {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check spelling (various procedures)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T171133Z" creationid="piav" creationdate="20191210T171133Z">
+        <seg>tarkistaa oikeinkirjoituksen (eri tavoin)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18103,6 +18119,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not only may it be used free of charge, users are also free to make copies of it and distribute them.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T171333Z" creationid="piav" creationdate="20191210T171333Z">
+        <seg>Ohjelmaa voi käyttää ilmaiseksi, ja käyttäjät voivat vapaasti kopioida ohjelmaa ja jakaa sitä edelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not present</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081443Z" creationid="piav" creationdate="20190522T081443Z">
@@ -18947,6 +18971,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191203T141355Z" creationid="piav" creationdate="20191203T141355Z">
         <seg>OmegaT pystyy tallentamaan käännössegmenttejä, jotka ovat samoja kuin lähdeteksti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is an open-source application and project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T171156Z" creationid="piav" creationdate="20191210T171156Z">
+        <seg>OmegaT on avoimen lähdekoodin sovellus ja projekti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27143,6 +27175,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The open-source philosophy</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T171145Z" creationid="piav" creationdate="20191210T171145Z">
+        <seg>Avoimen lähdekoodin filosofia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The options for the program start-up in this case will be read from the &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T115840Z" creationid="piav" creationdate="20191129T115823Z">
@@ -28761,6 +28801,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T132543Z" creationid="piav" creationdate="20191127T130526Z">
         <seg>Jos siis lähdekieltä kirjoitetaan vasemmalta oikealle ja kohdekieltä oikealta vasemmalle (tai päin vastoin), on tarpeen pystyä vaihtamaan helposti RTL- ja LTR-tilojen välillä, jotta lähdeteksti näkyy omassa tilassaan oikein ja että kohdetekstin saa omassa tilassaan kirjoitettua oikein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT's license gives its users considerable freedom in its use.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T171232Z" creationid="piav" creationdate="20191210T171232Z">
+        <seg>Tämä tarkoittaa, että OmegaT:n lähdekoodi on vapaasti saatavilla ja että OmegaT-lisenssi antaa käyttäjille verrattain suuren vapauden sen käyttämiseen.</seg>
       </tuv>
     </tu>
     <tu>
