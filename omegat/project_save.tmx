@@ -5863,6 +5863,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Browser plugin</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T162318Z" creationid="piav" creationdate="20191210T162318Z">
+        <seg>Browser-laajennus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140535Z" creationid="PiaVee" creationdate="20171014T140015Z">
@@ -7375,6 +7383,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T132623Z" creationid="piav" creationdate="20190920T132623Z">
         <seg>Haluatko jatkaa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contributed by Dmitri Gabinski.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T162514Z" creationid="piav" creationdate="20191210T162514Z">
+        <seg>Kehittäjänä Dmitri Gabinski.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10830,6 +10846,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fast access to websites.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T162333Z" creationid="piav" creationdate="20191210T162333Z">
+        <seg>Vie nopeasti nettisivujen pariin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T110247Z" creationid="PiaVee" creationdate="20171218T083504Z">
@@ -13741,6 +13765,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T105648Z" creationid="piav" creationdate="20191129T105648Z">
         <seg>Tuo lähdetiedosto &lt;u0&gt;LibreOffice Draw&lt;/u0&gt; -ohjelmaa, tallenna se ODG-tiedostona, käännä se ja vie tarvittaessa PDF-tiedostoksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Important: in order to use the plug-ins, you may need to install a more recent version of OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T162426Z" creationid="piav" creationdate="20191210T162426Z">
+        <seg>Tärkeää: Jotta voit käyttää laajennuksia, sinun on ehkä asennettava koneellesi uudempi OmegaT-versio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30653,6 +30685,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Utilities</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T162441Z" creationid="piav" creationdate="20191210T162441Z">
+        <seg>Apuohjelmat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Uzbek</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082225Z" creationid="PiaVee" creationdate="20171015T082225Z">
@@ -30963,6 +31003,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T083950Z" creationid="PiaVee" creationdate="20171219T083912Z">
         <seg>Nettisivupäällikkö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website support can be scripted in Groovy.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T162359Z" creationid="piav" creationdate="20191210T162359Z">
+        <seg>Verkkosivujen tukea varten voi kirjoittaa groovy-komentosarjoja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31477,6 +31525,22 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T074547Z" creationid="piav" creationdate="20190521T133828Z">
         <seg>Annettua kirjoituskelpoisen sanastotiedoston kansiota ei ole!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Written in Python.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T162447Z" creationid="piav" creationdate="20191210T162447Z">
+        <seg>Kirjoitettu pythonilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Written in Python/Perl.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T162552Z" creationid="piav" creationdate="20191210T162524Z">
+        <seg>Kielenä python/perl.</seg>
       </tuv>
     </tu>
     <tu>
