@@ -19427,6 +19427,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only if they are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T172732Z" creationid="piav" creationdate="20191210T172732Z">
+        <seg>Kehitystiimi sisällyttää ne OmegaT:hen kuitenkin vain siinä tapauksessa, että muutoksia pidetään hyödyllisinä OmegaT-käyttäjille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only integers and simple floats (using the period as a decimal character, e.g. 5.4, but not 5,4 or 54E-01) are considered.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T144343Z" creationid="piav" creationdate="20191030T144343Z">
@@ -28601,6 +28609,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T080208Z" creationid="piav" creationdate="20191128T080208Z">
         <seg>Näin OmegaT voi lukea toisissa työkaluissa luotuja käännösmuisteja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This ensures that the users' interests are protected, and has also resulted in OmegaT being awarded the &lt;a0&gt;Softpedia "100% FREE" guarantee&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T173017Z" creationid="piav" creationdate="20191210T173017Z">
+        <seg>Näin varmistetaan, että käyttäjien edut pysyvät yllä, mikä on johtanut siihen, että OmegaT on saanut Softpedian &lt;a0&gt;100 % FREE -takuun&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
