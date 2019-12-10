@@ -28629,6 +28629,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is described as "free as in speech", in contrast to "free as in beer".</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T171813Z" creationid="piav" creationdate="20191210T171641Z">
+        <seg>Englanniksi tätä ajattelutapaa kuvataan ilmaisulla "free as in speech, not free as in beer", eli vapaa kuin ilmaisunvapaus, ei ilmainen kuin olut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is especially useful in case of languages that use pre- and postfix forms for the stem words.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T152611Z" creationid="PiaVee" creationdate="20171014T152611Z">
@@ -29547,6 +29555,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T111721Z" creationid="piav" creationdate="20191202T111721Z">
         <seg>Ensimmäisellä OmegaT-käyttökerralla sinun on luotava projekti, jossa on kaikki tarvitsemasi tiedostot kuten lähdetiedostot, käännösmuistit, sanastota ja lopulta myös kääntämäsi tiedosto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To the open-source movement, the freedom that users have to change the program to suit their own needs is more important than the fact that they do not have to pay for it.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T171643Z" creationid="piav" creationdate="20191210T171616Z">
+        <seg>Käyttäjien vapaus muuttaa ohjelmaa omiin tarkoituksiinsa sopivaksi on avoimen lähdekoodin liikkeelle tärkeää, tärkeämpää kuin se, että käyttäjien ei tarvitse maksaa tästä.</seg>
       </tuv>
     </tu>
     <tu>
