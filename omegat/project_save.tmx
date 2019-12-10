@@ -26861,6 +26861,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first of these is the &lt;a0&gt;OmegaT user group&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T173730Z" creationid="piav" creationdate="20191210T173601Z">
+        <seg>Ensimmäinen käyttäjäfoorumi on &lt;a0&gt;OmegaT:n käyttäjien sähköpostilista&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first of these is:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T114314Z" creationid="piav" creationdate="20191201T114314Z">
@@ -28185,8 +28193,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>There is however considerable scope within the project for users to suggest improvements and influence the course of future development.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191210T173520Z" creationid="piav" creationdate="20191210T173520Z">
-        <seg>Projektissa on antaa paljon tilaa käyttäjien parannusehdotuksille, joilla he voivat vaikuttaa tulevaan kehitykseen.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191210T173532Z" creationid="piav" creationdate="20191210T173520Z">
+        <seg>Projekti antaa paljon tilaa käyttäjien parannusehdotuksille, joilla he voivat vaikuttaa tulevaan kehitykseen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28639,8 +28647,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This ensures that the users' interests are protected, and has also resulted in OmegaT being awarded the &lt;a0&gt;Softpedia "100% FREE" guarantee&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191210T173017Z" creationid="piav" creationdate="20191210T173017Z">
-        <seg>Näin varmistetaan, että käyttäjien edut pysyvät yllä, mikä on johtanut siihen, että OmegaT on saanut Softpedian &lt;a0&gt;100 % FREE -takuun&lt;/a0&gt;.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191210T173709Z" creationid="piav" creationdate="20191210T173017Z">
+        <seg>Näin varmistetaan, että käyttäjien edut pysyvät yllä, mikä on johtanut siihen, että OmegaT on saanut &lt;a0&gt;Softpedian 100 % FREE -takuun&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28801,6 +28809,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T144612Z" creationid="piav" creationdate="20191030T144612Z">
         <seg>Tämä on oletusasetus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the main focus of the OmegaT user community.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T173828Z" creationid="piav" creationdate="20191210T173606Z">
+        <seg>Tämä on OmegaT-yhteisön ykkössilmäterä.</seg>
       </tuv>
     </tu>
     <tu>
