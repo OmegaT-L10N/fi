@@ -27639,6 +27639,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T181415Z" creationid="piav" creationdate="20191210T181415Z">
+        <seg>Paras kaveri meille, jotka emme vaadi monimutkaisuutta vaan tehokkuutta. Sanastot, automaattien korvaus </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The permissions you give to this version (which may appear as "unrestricted access to the computer") are identical to the permissions you give to the local version, i.e., they allow access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T112131Z" creationid="piav" creationdate="20191201T112131Z">
@@ -31618,6 +31626,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T065607Z" creationid="PiaVee" creationdate="20171219T093754Z">
         <seg>Käsikirjat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User portrait</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T181222Z" creationid="piav" creationdate="20191210T181222Z">
+        <seg>Käyttäjän muotokuva</seg>
       </tuv>
     </tu>
     <tu>
