@@ -7508,6 +7508,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convenient alternative functions or solutions may also exist.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T174113Z" creationid="piav" creationdate="20191210T174038Z">
+        <seg>Toisilla käyttäjillä saattaa olla vaihtoehtoisia toimintoja ja ratkaisuja pulmiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T123627Z" creationid="piav" creationdate="20190920T123559Z">
@@ -8738,6 +8746,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T134152Z" creationid="piav" creationdate="20191201T134152Z">
         <seg>Yksityiskohtaiset tiedot rakentamisesta löydät docs_devel &lt;u0&gt;readme&lt;/u0&gt;-tekstistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T174148Z" creationid="piav" creationdate="20191210T174148Z">
+        <seg>Teknisen toteutuksen yksityiskohdat on parasta selvittää suoraan OmegaT:n kehittäjien kanssa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17795,6 +17811,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New users of OmegaT are encouraged to make any suggestions here.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T173910Z" creationid="piav" creationdate="20191210T173910Z">
+        <seg>Uusia OmegaT-käyttäjiä kannustetaan tuomaan omia ehdotuksiaan esille täällä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T142544Z" creationid="piav" creationdate="20191202T142544Z">
@@ -19399,6 +19423,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T084818Z" creationid="piav" creationdate="20191022T084818Z">
         <seg>Yksi tai useampi yllä mainituista ongelmista on korjattu, mutta projektia ei ole ladattu uudelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implemented.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T174049Z" creationid="piav" creationdate="20191210T174020Z">
+        <seg>Siellä selviää, onko toivottu toiminto jo käytössä tai miksi toimintoa ei voida toteuttaa.</seg>
       </tuv>
     </tu>
     <tu>
