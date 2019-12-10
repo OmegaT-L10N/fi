@@ -8998,6 +8998,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Diego Merino - Translator EN &gt; ES</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T181551Z" creationid="piav" creationdate="20191210T181551Z">
+        <seg>Diego Merino – EN–ES-kääntäjä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Diego Merino Traducciones</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T161604Z" creationid="piav" creationdate="20191210T161604Z">
@@ -18903,6 +18911,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ODFAuthors and LibreOffice's Italian translators are proud to use such a good tool for their hard work within the LibreOffice Community.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T181754Z" creationid="piav" creationdate="20191210T181754Z">
+        <seg>ODFAuthors ja LibreOfficen italian kääntäjät ovat ylpeitä hyvästä työkalusta, jota hei voivat käyttää LibreOfficen yhteisön hyväksi tekemässään työssä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OK</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190919T132040Z" creationid="piav" creationdate="20190919T132040Z">
@@ -27641,8 +27657,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="EN">
         <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191210T181415Z" creationid="piav" creationdate="20191210T181415Z">
-        <seg>Paras kaveri meille, jotka emme vaadi monimutkaisuutta vaan tehokkuutta. Sanastot, automaattien korvaus </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191210T181536Z" creationid="piav" creationdate="20191210T181415Z">
+        <seg>Paras kaveri meille, jotka emme vaadi monimutkaisuutta vaan tehokkuutta. Sanastot, automaattinen täydennys ja automaattinen käännös tekevät kaunokirjallisesta kääntämisestä niin paljon tehokkaampaa.</seg>
       </tuv>
     </tu>
     <tu>
