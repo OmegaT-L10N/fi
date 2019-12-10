@@ -2259,6 +2259,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Documentation&lt;/a0&gt; is very important.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T182858Z" creationid="piav" creationdate="20191210T182858Z">
+        <seg>&lt;a0&gt;Dokumentaatio&lt;/a0&gt; on erittäin tärkeää.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T175537Z" creationid="piav" creationdate="20191210T175537Z">
@@ -4861,8 +4869,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191210T182643Z" creationid="piav" creationdate="20191210T182643Z">
-        <seg>Vaikka monet tietävät tämän, heidän ensireaktionsa on usein: "Mutta minä en osaa koodata!"</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191210T182739Z" creationid="piav" creationdate="20191210T182643Z">
+        <seg>Vaikka monet tietävät tämän, heidän ensireaktionsa on usein: "Mutta en minä osaa ohjelmoida!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5887,6 +5895,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Below is a list of areas for which further volunteers would be more than welcome!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T182836Z" creationid="piav" creationdate="20191210T182836Z">
+        <seg>Alla on luettelo aloista, joille kaivataan lisää vapaaehtoisvoimia!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bengali</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173707Z" creationid="PiaVee" creationdate="20171014T173707Z">
@@ -6067,6 +6083,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173743Z" creationid="PiaVee" creationdate="20171014T173743Z">
         <seg>burma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But programming isn't the only job needing to be done.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T182759Z" creationid="piav" creationdate="20191210T182716Z">
+        <seg>Mutta ohjelmointi ei ole ainoa työ, joka pitää tehdä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9438,6 +9462,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documentation authoring</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T182846Z" creationid="piav" creationdate="20191210T182846Z">
+        <seg>Dokumentaation kirjoitus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documentation manager</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T101417Z" creationid="PiaVee" creationdate="20171219T083838Z">
@@ -12627,6 +12659,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174226Z" creationid="PiaVee" creationdate="20171014T174226Z">
         <seg>hausa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Have you considered writing some user documentation yourself?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T183004Z" creationid="piav" creationdate="20191210T183004Z">
+        <seg>Oletko joskus miettinyt käyttöohjeiden kirjoittamista itse?</seg>
       </tuv>
     </tu>
     <tu>
@@ -17011,6 +17051,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many of you reading this will be translators who have translated a lot of user documentation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T182931Z" creationid="piav" creationdate="20191210T182931Z">
+        <seg>Monet teistä lukijoista ovat kääntäjiä, jotka ovat kääntäneet paljon käyttöohjeita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T110448Z" creationid="piav" creationdate="20190521T132754Z">
@@ -21364,6 +21412,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T175921Z" creationid="piav" creationdate="20191210T175921Z">
         <seg>Ammattimaiset ominaisuudet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Programming is certainly the most important function, and without programming, there is no program.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T182746Z" creationid="piav" creationdate="20191210T182712Z">
+        <seg>Ohjelmointi on epäilemättä tärkeää, sillä ilman ohjelmointia ei ohjelmaa ole.</seg>
       </tuv>
     </tu>
     <tu>
