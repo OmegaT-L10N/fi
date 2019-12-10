@@ -15691,6 +15691,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It's a real eye-opener!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T183014Z" creationid="piav" creationdate="20191210T183014Z">
+        <seg>Se avaa silmät!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Italian</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174404Z" creationid="PiaVee" creationdate="20171014T174404Z">
@@ -16763,6 +16771,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Localization</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T183017Z" creationid="piav" creationdate="20191210T183017Z">
+        <seg>Lokalisointi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Localization TMX repository</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T165307Z" creationid="piav" creationdate="20191210T164956Z">
@@ -16783,6 +16799,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T164929Z" creationid="piav" creationdate="20191210T164929Z">
         <seg>Lokalisointiresurssit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Localizing OmegaT into other languages is also an ongoing task, since new features and functions are being added all the time.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T183248Z" creationid="piav" creationdate="20191210T183248Z">
+        <seg>OmegaT:n lokalisointi eri kielille on koko ajan käynnissä, sillä uusia ominaisuuksia ja toimintoja lisätään koko ajan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26472,6 +26496,14 @@ Tekstin korvaus tapahtuu projektin lähdekielisissä segmenteissä riippumatta s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thanks to the work of translators in the past, OmegaT's user interface and/or Help texts have been translated into several languages.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T183133Z" creationid="piav" creationdate="20191210T183133Z">
+        <seg>Useiden kääntäjien työn ansiosta OmegaT:n käyttöliittymä ja/tai ohjetekstit on saatu useille kielille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T182342Z" creationid="piav" creationdate="20191210T182342Z">
@@ -26484,6 +26516,14 @@ Tekstin korvaus tapahtuu projektin lähdekielisissä segmenteissä riippumatta s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T182206Z" creationid="piav" creationdate="20191210T182206Z">
         <seg>Se tarkoittaa, että kääntäjät kuten sinä voivat ladata sen vapaasti ja käyttää sitä vain pienin rajoituksin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That means there are only a few thousand left!</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T183150Z" creationid="piav" creationdate="20191210T183150Z">
+        <seg>Jäljellä on siis vain muutama tuhat kieltä!</seg>
       </tuv>
     </tu>
     <tu>
