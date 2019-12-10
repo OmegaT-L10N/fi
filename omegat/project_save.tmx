@@ -3571,6 +3571,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T180724Z" creationid="piav" creationdate="20191210T180724Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt;:stä on monia eri versioita, jotka vastaavat eri käyttäjien erilaisia vaatimuksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T060000Z" creationid="piav" creationdate="20191023T054558Z">
@@ -4807,6 +4815,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T110759Z" creationid="piav" creationdate="20190916T141743Z">
         <seg>Vaihtoehtoinen kieli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T180929Z" creationid="piav" creationdate="20191210T180929Z">
+        <seg>Jos tiedät jo, minkä version haluat ladata, napsauta painiketta, niin näet kaikki saatavilla olevat OmegaT-versiot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9482,6 +9498,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094201Z" creationid="PiaVee" creationdate="20171219T094201Z">
         <seg>Doublet KK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T180647Z" creationid="piav" creationdate="20191210T180647Z">
+        <seg>Lataa</seg>
       </tuv>
     </tu>
     <tu>
@@ -15066,6 +15090,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Interface to Google Translate</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T180627Z" creationid="piav" creationdate="20191210T180627Z">
+        <seg>Liittymä Google Kääntäjään</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Interlingua</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174305Z" creationid="PiaVee" creationdate="20171014T174305Z">
@@ -19011,6 +19043,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T134117Z" creationid="piav" creationdate="20190521T134117Z">
         <seg>OmegaT-projektikansio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Screenshot</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T180640Z" creationid="piav" creationdate="20191210T180640Z">
+        <seg>OmegaT-näyttökuva</seg>
       </tuv>
     </tu>
     <tu>
@@ -29779,6 +29819,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T115340Z" creationid="piav" creationdate="20191023T113447Z">
         <seg>Ota oikeinkirjoituksen tarkistuksen käyttöön kohdassa &lt;g0&gt;Valinnat &gt; Oikeinkirjoituksen tarkistus &lt;/g0&gt; ja laita &lt;g1&gt;Tarkista oikeinkirjoitus automaattisesti&lt;/g1&gt; -ruutuun rasti (ks. yllä).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T180754Z" creationid="piav" creationdate="20191210T180754Z">
+        <seg>Löydät parhaiten sinulle sopivan version seuraamalla alla olevaa linkkiä latausvalitsimeen.</seg>
       </tuv>
     </tu>
     <tu>
