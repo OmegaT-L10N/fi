@@ -7311,6 +7311,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T180544Z" creationid="piav" creationdate="20191210T180544Z">
+        <seg>Yhteensopiva muiden käännösmuistimuotojen (TMX, TTX, TXML, XLIFF, SDLXLIFF) kanssa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T102413Z" creationid="piav" creationdate="20190522T085333Z">
@@ -15022,6 +15030,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T103026Z" creationid="piav" creationdate="20190521T103026Z">
         <seg>Projektikansion {0} käyttöoikeudet eivät riitä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Integral spelling checker</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T180448Z" creationid="piav" creationdate="20191210T180448Z">
+        <seg>Sisäinen kielentarkistin</seg>
       </tuv>
     </tu>
     <tu>
@@ -25566,6 +25582,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Support for right-to-left languages</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T180430Z" creationid="piav" creationdate="20191210T180430Z">
+        <seg>Oikealta vasemmalle luettavien kielien tuki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Supported Files</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T131747Z" creationid="piav" creationdate="20190920T131747Z">
@@ -30838,6 +30862,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T143231Z" creationid="piav" creationdate="20190521T143231Z">
         <seg>odottamaton merkki {0} ({1})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unicode (UTF-8) support: can be used with non-Latin alphabets</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T180415Z" creationid="piav" creationdate="20191210T180415Z">
+        <seg>Unicode-tuki (UTF-8) toimii muillakin kuin latinalaisilla merkeillä</seg>
       </tuv>
     </tu>
     <tu>
