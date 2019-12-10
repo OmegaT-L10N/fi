@@ -11591,6 +11591,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T172258Z" creationid="piav" creationdate="20191210T172250Z">
+        <seg>Käyttäjä voi esimerkiksi kirjoittaa oman käyttöoppaansa tai tehdä oman OmegaT-esittelyvideon. Jos tuotos on projektin mielestä jollakin tapaa hyödyllinen, se todennäköisesti tarjotaan koko yhteisön käyttöön.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, this is the backslash character</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T152918Z" creationid="piav" creationdate="20191022T152918Z">
@@ -31948,6 +31956,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T113808Z" creationid="piav" creationdate="20191202T113808Z">
         <seg>Luo käännetyt asiakirjat näppäinyhdistelmällä &lt;k2&gt;Ctrl+D&lt;/k2&gt;. Voit käyttää sitä aina kun haluat nähdä, miltä käännöksesi näyttää lopullisessa muodossaan. OmegaT luo käännetyt asiakirjat projektin &lt;f3&gt;/target/&lt;/f3&gt;-alikansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where routine tasks are concerned, volunteers working on the OmegaT project are generally given as much freedom as possible in determining the form of their contribution.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T172411Z" creationid="piav" creationdate="20191210T172411Z">
+        <seg>Rutiinitehtävien parissa työskenteleville vapaaehtoisille annetaan mahdollisimman suuri vapaus päättää omista vaikutustavoistaan.</seg>
       </tuv>
     </tu>
     <tu>
