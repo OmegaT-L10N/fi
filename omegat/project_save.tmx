@@ -28183,6 +28183,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is however considerable scope within the project for users to suggest improvements and influence the course of future development.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T173520Z" creationid="piav" creationdate="20191210T173520Z">
+        <seg>Projektissa on antaa paljon tilaa käyttäjien parannusehdotuksille, joilla he voivat vaikuttaa tulevaan kehitykseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T084703Z" creationid="piav" creationdate="20191022T084703Z">
