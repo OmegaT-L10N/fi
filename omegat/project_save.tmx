@@ -7403,6 +7403,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contributed by Henry Pijffers.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T162952Z" creationid="piav" creationdate="20191210T162952Z">
+        <seg>Kehittäjänä Henry Pijffers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T123627Z" creationid="piav" creationdate="20190920T123559Z">
@@ -15308,8 +15316,16 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Java command-line script for merging two or more TMX files.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191210T162847Z" creationid="piav" creationdate="20191210T162847Z">
-        <seg>Java-kielinen komentosarja, jolla saa useampia TMX-tiedostoja komentorivillä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191210T162938Z" creationid="piav" creationdate="20191210T162847Z">
+        <seg>Java-kielinen komentorivikomento, jolla saa useamman TMX-tiedoston yhdistettyä yhdeksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java command-line script for removing "superfluous" translation units from a TMX file: deletes all TUs without target segment or in which the target segment is identical to the source segment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T163230Z" creationid="piav" creationdate="20191210T163230Z">
+        <seg>Java-kielinen komentorivikomento, jolla TMX-tiedostosta saa siivottua pois ylimääräisen "sälän". Se siis poistaa kaikki käännösyksiköt, joissa ei ole lähdesegmenttiä tai joissa lähdesegmentti on sama kuin kohdesegmentti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25025,6 +25041,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T122224Z" creationid="piav" creationdate="20191208T122224Z">
         <seg>TMX-tiedostot luetaan niiden nimien mukaisessa järjestyksessä, ja yhden käännösmuistin segmentit luetaan rivi riviltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMXCleaner</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T162953Z" creationid="piav" creationdate="20191210T162953Z">
+        <seg>TMXCleaner</seg>
       </tuv>
     </tu>
     <tu>
