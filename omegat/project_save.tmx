@@ -12631,6 +12631,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How they do so is very much up to them.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T172030Z" creationid="piav" creationdate="20191210T172030Z">
+        <seg>Käyttäjät voivat itse valita, miten he vaikuttavat projektiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How to create glossaries</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T082659Z" creationid="piav" creationdate="20191022T082659Z">
@@ -14486,6 +14494,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T130117Z" creationid="piav" creationdate="20191201T130047Z">
         <seg>Tässä tilassa OmegaT yrittää kääntää kansiossa &lt;f0&gt;/source/&lt;/f0&gt; olevat tiedostot saatavilla olevien käännösmuistien avulla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In turn, they are free, and indeed encouraged (but not obliged in any way) to contribute back to the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T171955Z" creationid="piav" creationdate="20191210T171955Z">
+        <seg>Vastalahjaksi he voivat vapaasti vaikuttaa takaisin projektiin, ja heitä kannustetaan (mutta ei mitenkään pakoteta) tähän.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26161,6 +26177,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT project philosophy</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T171819Z" creationid="piav" creationdate="20191210T171819Z">
+        <seg>OmegaT-projektin filosofia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T172451Z" creationid="piav" creationdate="20190521T175848Z">
@@ -27491,6 +27515,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T105717Z" creationid="piav" creationdate="20191030T103826Z">
         <seg>Voit myös lisätä muodon tai muokata tiettyä lausekekuviota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The same spirit can be found within the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T171844Z" creationid="piav" creationdate="20191210T171844Z">
+        <seg>OmegaT-projektissa on sama henki päällä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31146,6 +31178,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T083032Z" creationid="piav" creationdate="20190916T142019Z">
         <seg>Käyttäjänimi tai API-avain:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users are free to download and use the program.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191210T171901Z" creationid="piav" creationdate="20191210T171901Z">
+        <seg>Käyttäjät voivat ladata ohjelman itselleen täysin vapaasti.</seg>
       </tuv>
     </tu>
     <tu>
