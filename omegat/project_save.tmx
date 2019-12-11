@@ -6337,6 +6337,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bug reports (in English), at the SourceForge site:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T103939Z" creationid="piav" creationdate="20191211T103930Z">
+        <seg>Bugiraportit (englanniksi) Sourceforgen sivulla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140535Z" creationid="PiaVee" creationdate="20171014T140015Z">
@@ -24554,8 +24562,8 @@ projektin ilman ryhmäominaisuutta.</seg>
       <tuv lang="EN">
         <seg>Requests for Enhancements (in English), at the SourceForge site:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T103817Z" creationid="piav" creationdate="20191211T103817Z">
-        <seg>Muutos- tai parannusehdotukset (RFE) SourceForgen (englanniksi)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T103936Z" creationid="piav" creationdate="20191211T103817Z">
+        <seg>Muutos- tai parannusehdotukset (englanniksi) Sourceforgen sivulla</seg>
       </tuv>
     </tu>
     <tu>
@@ -38767,10 +38775,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T103941Z" creationid="piav" creationdate="20191211T103933Z">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://sourceforge.net/p/omegat/documentation/</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T091405Z" creationid="PiaVee" creationdate="20170910T091405Z">
         <seg>https://sourceforge.net/p/omegat/documentation/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T103916Z" creationid="piav" creationdate="20191211T103916Z">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
       </tuv>
     </tu>
     <tu>
