@@ -29768,6 +29768,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They can be found in the folders of the corresponding compiled versions.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T085443Z" creationid="piav" creationdate="20191211T085443Z">
+        <seg>Paketit löytyvät vastaavien käännettyjen versioiden kansioista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They contain text formatting information, but such information cannot be reused by &lt;a0&gt;OmegaT&lt;/a0&gt; in order to create target files.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T122355Z" creationid="piav" creationdate="20191128T122355Z">
