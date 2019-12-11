@@ -5127,8 +5127,8 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       <tuv lang="EN">
         <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191210T170336Z" creationid="piav" creationdate="20191210T170224Z">
-        <seg>Älykäs komentorivillä toimiva kohdistustyökalu, jolla voit tuottaa käännösmuisteja tavanomaisista teksteistä ja niiden käännöksistä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T082649Z" creationid="piav" creationdate="20191210T170224Z">
+        <seg>Älykäs komentorivillä toimiva kohdistustyökalu, jolla voit tuottaa käännösmuisteja vanhoista teksteistä ja niiden käännöksistä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12031,6 +12031,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For most users, these are not of interest.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T082848Z" creationid="piav" creationdate="20191211T082848Z">
+        <seg>Ne eivät ole ajankohtaisia useimmille käyttäjille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For pre-defined options, remove the &lt;l1&gt;#&lt;/l1&gt; before a parameter to enable it.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T102800Z" creationid="piav" creationdate="20191201T102800Z">
@@ -12321,8 +12329,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191210T170328Z" creationid="piav" creationdate="20191210T170028Z">
-        <seg>Graafisen käyttöliittymän omaava kohdistustyökalu, jolla voit tuottaa käännösmuisteja tavanomaisista teksteistä ja niiden käännöksistä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T082637Z" creationid="piav" creationdate="20191210T170028Z">
+        <seg>Graafisen käyttöliittymän omaava kohdistustyökalu, jolla voit tuottaa käännösmuisteja vanhoista teksteistä ja niiden käännöksistä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13107,6 +13115,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T114424Z" creationid="piav" creationdate="20191202T114424Z">
         <seg>Mikäli kuitenkin kirjoitit muotoilutägin väärin, käännöstiedostoja ei välttämättä saa avattua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T083003Z" creationid="piav" creationdate="20191211T083003Z">
+        <seg>Jotkut kuitenkin saattavat törmätä (joko käyttöjärjestelmän tai Java-version asettamiin) rajoituksiin, minkä vuoksi he suosivat OmegaT:n vanhempaa versiota.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16939,6 +16955,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Legacy versions</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T082656Z" creationid="piav" creationdate="20191211T082656Z">
+        <seg>Vanhat versiot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Legacy versions are older versions that have been superseded.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T082818Z" creationid="piav" creationdate="20191211T082818Z">
+        <seg>Vanhat versiot ovat sellaisia, jotka uudemmat ja kehittyneemmät versiot ovat syrjäyttäneet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Legal notices</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T120238Z" creationid="PiaVee" creationdate="20171014T120238Z">
@@ -18655,6 +18687,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T115124Z" creationid="piav" creationdate="20191202T112159Z">
         <seg>Seuraavaksi näytölle avautuu valintaikkuna &lt;g0&gt;Projektin tiedostot&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nightly Builds</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T082602Z" creationid="piav" creationdate="20191211T082602Z">
+        <seg>Öiset käännökset</seg>
       </tuv>
     </tu>
     <tu>
@@ -34288,6 +34328,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T102756Z" creationid="piav" creationdate="20191030T102739Z">
         <seg>Voit valita, mitkä seuraavista elementeistä käännetään:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can still find &lt;a0&gt;older, superseded versions&lt;/a0&gt; of OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T082748Z" creationid="piav" creationdate="20191211T082748Z">
+        <seg>OmegaT:n &lt;a0&gt;vanhempia ja korvattuja&lt;/a0&gt; versioita on edelleen saatavilla.</seg>
       </tuv>
     </tu>
     <tu>
