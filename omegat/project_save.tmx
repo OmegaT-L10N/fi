@@ -20831,6 +20831,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT uses a number of librairies.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T095347Z" creationid="piav" creationdate="20191211T095347Z">
+        <seg>OmegaT käyttää useita kirjastoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT uses the default encoding of the operating system for text files.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T120428Z" creationid="piav" creationdate="20191030T120406Z">
@@ -22584,6 +22592,16 @@ onko sinun tehtävä vielä muuta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T123635Z" creationid="piav" creationdate="20191201T123635Z">
         <seg>Edellytykset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Prerequisites for installing OmegaT
+===================================</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T095433Z" creationid="piav" creationdate="20191211T095433Z">
+        <seg>Mitä OmegaT:n asennukseen tarvitaan
+===================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -29389,6 +29407,16 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The license of each library is mentioned in
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T095413Z" creationid="piav" creationdate="20191211T095356Z">
+        <seg>Jokaisen kirjaston lisenssi kerrottu kohdassa
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The line with the matching percentage also includes the name of the translation memory containing the match.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T110426Z" creationid="piav" creationdate="20191208T110426Z">
@@ -35534,6 +35562,16 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T102639Z" creationid="PiaVee" creationdate="20171218T072457Z">
         <seg>Yksityiskohtaista tilastotietoa löytyy tiedostosta {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can find the text of the license in
+/docs/OmegaT-license.txt.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T095359Z" creationid="piav" creationdate="20191211T095338Z">
+        <seg>Löydät koko lisenssitekstin kohdasta
+/docs/OmegaT-license.txt.</seg>
       </tuv>
     </tu>
     <tu>
