@@ -5399,6 +5399,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T075133Z" creationid="piav" creationdate="20191211T075133Z">
+        <seg>Kuten nimestä voi päätellä, OmegaT:n uusin versio on perusversiota päivitetympi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As plenty of information about SVN and Git is easily available, we won't describe how they work here, but only how OmegaT works with them.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T113140Z" creationid="piav" creationdate="20191128T113140Z">
@@ -13047,6 +13055,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T075206Z" creationid="piav" creationdate="20191211T075206Z">
+        <seg>Käyttöopas voi kuitenkin olla vanhentunut (ja siksi hämmentävä käyttää), ja ohjelmassa voi olla joitakin bugeja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T134141Z" creationid="piav" creationdate="20191127T133947Z">
@@ -15794,6 +15810,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is the recommended version for first-time users.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T075105Z" creationid="piav" creationdate="20191211T075105Z">
+        <seg>Tämä on uusille OmegaT:n käyttäjille suositeltu versio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is the segment that is displayed in two parts.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191203T140246Z" creationid="piav" creationdate="20191203T140207Z">
@@ -18327,6 +18351,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T142351Z" creationid="piav" creationdate="20190916T142351Z">
         <seg>Neuroverkkokonekäännös</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T075254Z" creationid="piav" creationdate="20191211T075254Z">
+        <seg>Uusimmat OmegaT-versiot ovat silti melko vakaita, ja niitä suositellaan kokeneemmille OmegaT-käyttäjille.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26883,8 +26915,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T074935Z" creationid="piav" creationdate="20191211T074935Z">
-        <seg>"Standardi"-OmegaT:lle on täydellinen käyttöopas (ainakin englanniksi), ja sitä on yleensä testattu </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T075024Z" creationid="piav" creationdate="20191211T074935Z">
+        <seg>"Standardi"-OmegaT:lle on täydellinen käyttöopas (ainakin englanniksi), ja sen testauksen aikana löytyneet on korjattu.</seg>
       </tuv>
     </tu>
     <tu>
