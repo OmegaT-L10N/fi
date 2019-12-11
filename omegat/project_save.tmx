@@ -14306,6 +14306,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T083502Z" creationid="piav" creationdate="20191211T083502Z">
+        <seg>Jos asennat OmegaT-version, jossa on JRE, vaikka koneellasi on jo JRE asennettuna, OmegaT:n JRE asennetaan erillisenä, eikä se aiheuta ristiriitaa jo asennetun version kanssa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you need altered settings, the configuration files must be available.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T125848Z" creationid="piav" creationdate="20191201T123913Z">
@@ -15046,6 +15054,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T074143Z" creationid="piav" creationdate="20191128T074143Z">
         <seg>Tällöin voi olla hyödyllistä menetellä näin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T083345Z" creationid="piav" creationdate="20191211T083345Z">
+        <seg>Älä tällöin valitse oletusversiota, vaan joku muu (esim. standardi tai uusin versio), ja valitse sitten versio, jossa ei ole JRE:tä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27983,8 +27999,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T083225Z" creationid="piav" creationdate="20191211T083225Z">
-        <seg>Lataaminen käy nopeasti, ja asennus vaatii vain vähän tilaa kovalevyltä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T083251Z" creationid="piav" creationdate="20191211T083225Z">
+        <seg>Lataaminen käy nopeasti, ja asennus vaatii vain vähän tilaa kovalevyllä.</seg>
       </tuv>
     </tu>
     <tu>
