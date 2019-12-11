@@ -1582,6 +1582,14 @@ Kysymysmerkki ? vastaa yhtä merkkiä: hakulauseke 'run?' vastaa sanoja 'runs' t
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(In Italian)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T091828Z" creationid="piav" creationdate="20191211T091828Z">
+        <seg>(italiaksi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
@@ -6039,6 +6047,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Books</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T091757Z" creationid="piav" creationdate="20191211T091757Z">
+        <seg>Kirjoja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Borrowing an example from Slovenian, here "good" in all possible grammatically correct forms:</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T152738Z" creationid="PiaVee" creationdate="20171014T152738Z">
@@ -6227,6 +6243,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094816Z" creationid="PiaVee" creationdate="20171219T094816Z">
         <seg>Leo Viëtor (kieli: hollanti)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Marco Cevoli and Sergio Alasia.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T091815Z" creationid="piav" creationdate="20191211T091815Z">
+        <seg>Kirjoittajina Marco Cevoli ja Sergio Alasia</seg>
       </tuv>
     </tu>
     <tu>
@@ -12311,6 +12335,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T091752Z" creationid="piav" creationdate="20191211T091752Z">
+        <seg>YouTube-video Miguel Navarron OmegaT-sarjasta (espanjaksi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fula, Fulah, Pulaar, Pular</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T180918Z" creationid="PiaVee" creationdate="20171014T174119Z">
@@ -12811,6 +12843,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174206Z" creationid="PiaVee" creationdate="20171014T174206Z">
         <seg>guarani</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T091758Z" creationid="piav" creationdate="20191211T091758Z">
+        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
       </tuv>
     </tu>
     <tu>
@@ -25340,6 +25380,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Self-paced online training course in English (for purchase)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T092009Z" creationid="piav" creationdate="20191211T091859Z">
+        <seg>Itsenäiseen tahtiin etenevä verkkokurssi englanniksi (maksullinen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sentence level segmentation</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T125651Z" creationid="piav" creationdate="20191030T125651Z">
@@ -31648,6 +31696,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T091903Z" creationid="piav" creationdate="20191211T091849Z">
+        <seg>Koulutusta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Training course</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T164531Z" creationid="piav" creationdate="20191210T164531Z">
@@ -33355,6 +33411,30 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T174914Z" creationid="piav" creationdate="20190521T174914Z">
         <seg>Versio: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 1</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T091710Z" creationid="piav" creationdate="20191211T091710Z">
+        <seg>Video 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 2</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T091753Z" creationid="piav" creationdate="20191211T091753Z">
+        <seg>Video 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 3</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T091754Z" creationid="piav" creationdate="20191211T091754Z">
+        <seg>Video 3</seg>
       </tuv>
     </tu>
     <tu>
