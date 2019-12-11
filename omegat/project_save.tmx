@@ -12527,6 +12527,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For this purpose download the following file and then execute it:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T100810Z" creationid="piav" creationdate="20191211T100810Z">
+        <seg>Lataa tällöin seuraava tiedosto ja suorita se:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this purpose, a dedicated &lt;a0&gt;developers' mailing list&lt;/a0&gt; exists.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T174227Z" creationid="piav" creationdate="20191210T174223Z">
@@ -14746,6 +14754,16 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have already Java installed on your system, one way to install OmegaT is
+to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T100753Z" creationid="piav" creationdate="20191211T100753Z">
+        <seg>Jos järjestelmääsi on jo asennettu Java, voit asentaa OmegaT:n Java Web Startin
+avulla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T104540Z" creationid="piav" creationdate="20191023T114718Z">
@@ -16659,6 +16677,16 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will install the correct environment for your computer and the application
+itself on the first run.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T100911Z" creationid="piav" creationdate="20191211T100911Z">
+        <seg>Tämä asentaa ohjelman ensimmäisen käytön yhteydessä sopivan ympäristön
+sekä koneellesi että ohjelmaa varten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It's a real eye-opener!</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T183014Z" creationid="piav" creationdate="20191210T183014Z">
@@ -17471,6 +17499,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T125341Z" creationid="PiaVee" creationdate="20171015T125339Z">
         <seg>Viimeksi muokannut: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Later calls do not need to be online.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T100934Z" creationid="piav" creationdate="20191211T100934Z">
+        <seg>Myöhemmin ohjelmaa ei tarvitse käyttää verkkotilassa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34028,6 +34064,16 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using Java Web Start for installing OmegaT (all platforms)
+===========================================================</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T100706Z" creationid="piav" creationdate="20191211T100706Z">
+        <seg>OmegatT:n asentaminen Java Web Startin avulla (kaikki käyttöjärjestelmät)
+===========================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using TMX with alternative language</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T110817Z" creationid="piav" creationdate="20191128T110817Z">
@@ -38356,6 +38402,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T111551Z" creationid="piav" creationdate="20191201T111551Z">
         <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T100813Z" creationid="piav" creationdate="20191211T100813Z">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
