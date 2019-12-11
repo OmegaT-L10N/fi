@@ -3605,16 +3605,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T073129Z" creationid="piav" creationdate="20191211T073129Z">
-        <seg>&lt;s1&gt;Etu&lt;/s1&gt;: Kun olet kerran käynnistänyt tämän, kaikki tulevat Web Start -päivitykset asentuvat tietokoneellesi automaattisesti.&lt;br2/&gt;</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T073152Z" creationid="piav" creationdate="20191211T073129Z">
+        <seg>&lt;s1&gt;Hyvä puoli&lt;/s1&gt;: Kun olet kerran käynnistänyt tämän, kaikki tulevat Web Start -päivitykset asentuvat tietokoneellesi automaattisesti.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T073149Z" creationid="piav" creationdate="20191211T073149Z">
-        <seg>&lt;s3&gt;Haitta&lt;/s3&gt;:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T073239Z" creationid="piav" creationdate="20191211T073149Z">
+        <seg>&lt;s3&gt;Huono puoli&lt;/s3&gt;: Versiota ei tällä hetkellä voi käyttää yhdessä laajennusten kanssa, joten kaikki toiminnot eivät ole saatavilla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11871,6 +11871,30 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For installation on Linux.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T073353Z" creationid="piav" creationdate="20191211T073353Z">
+        <seg>Linuxiin asennettava versio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on Mac OS X.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T073332Z" creationid="piav" creationdate="20191211T073310Z">
+        <seg>Asennettavaksi macOS-käyttöjärjestelmään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on Windows System.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T073252Z" creationid="piav" creationdate="20191211T073252Z">
+        <seg>Windows-käyttöjärjestelmään asennettava versio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T122015Z" creationid="piav" creationdate="20191208T121711Z">
@@ -16763,6 +16787,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T073333Z" creationid="piav" creationdate="20191211T073333Z">
+        <seg>Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux (Intel) Users</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T092426Z" creationid="piav" creationdate="20191201T092426Z">
@@ -17007,6 +17039,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T181312Z" creationid="PiaVee" creationdate="20171014T174652Z">
         <seg>luxemburg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac OS X</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T073253Z" creationid="piav" creationdate="20191211T073253Z">
+        <seg>Mac OS X</seg>
       </tuv>
     </tu>
     <tu>
@@ -32990,6 +33030,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T130918Z" creationid="piav" creationdate="20190920T121144Z">
         <seg>Synkronisointi tapahtuu ensi kerralla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T073241Z" creationid="piav" creationdate="20191211T073241Z">
+        <seg>Windows</seg>
       </tuv>
     </tu>
     <tu>
