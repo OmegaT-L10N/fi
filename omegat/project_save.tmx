@@ -6097,8 +6097,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>But I can't program at all, I hear you say.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T070832Z" creationid="piav" creationdate="20191210T184132Z">
-        <seg>Mutta sinä et osaa ohjelmoida? Et  ainakaan vielä?</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T071216Z" creationid="piav" creationdate="20191210T184132Z">
+        <seg>Mutta sanoitko sinä, ettet osaa ohjelmoida?</seg>
       </tuv>
     </tu>
     <tu>
@@ -32498,8 +32498,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>Well, have you considered learning?</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191210T184140Z" creationid="piav" creationdate="20191210T184140Z">
-        <seg>Oletko harkinnut sen opettelemista?</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T072714Z" creationid="piav" creationdate="20191210T184140Z">
+        <seg>No – oletko harkinnut sen opettelemista?</seg>
       </tuv>
     </tu>
     <tu>
