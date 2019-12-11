@@ -19915,6 +19915,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will run on any system on which the appropriate JRE (Java Runtime Environment) has been or can be installed.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T075931Z" creationid="piav" creationdate="20191211T075931Z">
+        <seg>OmegaT toimii kaikissa järjestelmissä, joihin sopiva JRE (Java Runtime Environment) joko on asennettu tai voidaan asentaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T112540Z" creationid="piav" creationdate="20191202T112540Z">
@@ -23078,6 +23086,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081701Z" creationid="piav" creationdate="20190522T081701Z">
         <seg>TaaS-pyyntö: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Requirements</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T075840Z" creationid="piav" creationdate="20191211T075840Z">
+        <seg>Vaatimukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -26322,6 +26338,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T130937Z" creationid="piav" creationdate="20190920T125603Z">
         <seg>Synkronisointivirhe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>System requirements</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T075842Z" creationid="piav" creationdate="20191211T075842Z">
+        <seg>Järjestelmävaatimukset</seg>
       </tuv>
     </tu>
     <tu>
