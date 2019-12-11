@@ -12393,8 +12393,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>For installation on Mac OS X.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T073610Z" creationid="piav" creationdate="20191211T073310Z">
-        <seg>Macille asennettava versio.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T095741Z" creationid="piav" creationdate="20191211T073310Z">
+        <seg>Maciin asennettava versio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14596,8 +14596,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T075640Z" creationid="piav" creationdate="20191023T061432Z">
-        <seg>Jos käytä Mac-konetta ja haluat lisätä pikanäppäimen &lt;k0&gt; &lt;k1&gt;vahto&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; avaamaan kohdan &lt;m4&gt; &lt;g5&gt;Työkalut&lt;/g5&gt; &lt;g6&gt;Tilastot&lt;/g6&gt; &lt;/m4&gt;, lisää &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;-tiedostoon seuraava rivi:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T095927Z" creationid="piav" creationdate="20191023T061432Z">
+        <seg>Jos käytä Macia ja haluat lisätä pikanäppäimen &lt;k0&gt; &lt;k1&gt;vahto&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; avaamaan kohdan &lt;m4&gt; &lt;g5&gt;Työkalut&lt;/g5&gt; &lt;g6&gt;Tilastot&lt;/g6&gt; &lt;/m4&gt;, lisää &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;-tiedostoon seuraava rivi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18019,8 +18019,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mac OS X users, note: use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; shortcut and &lt;e4&gt;not &lt;/e4&gt;cmd+Ctrl+O.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191127T124930Z" creationid="piav" creationdate="20191127T124706Z">
-        <seg>Huom.: Käytä myös Mac-koneessa näppäinyhdistelmää &lt;k0&gt; &lt;k1&gt;vaihto&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt;, &lt;/k0&gt;älä&lt;e4&gt; yhdistelmää cmd+Ctrl+O.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T095907Z" creationid="piav" creationdate="20191127T124706Z">
+        <seg>Huom.: Käytä myös Macissa näppäinyhdistelmää &lt;k0&gt; &lt;k1&gt;vaihto&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt;&lt;/k0&gt;, &lt;e4&gt;älä&lt;/e4&gt; yhdistelmää cmd+Ctrl+O.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20591,8 +20591,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T080040Z" creationid="piav" creationdate="20191211T080040Z">
-        <seg>OmegaT:n asentaminen onnistuu Windosiin (versiosta 98 alkaen), macOS:ään ja Linuxiin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T095750Z" creationid="piav" creationdate="20191211T080040Z">
+        <seg>OmegaT:n asentaminen onnistuu Windosiin (versiosta 98 alkaen), Maciin ja Linuxiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21040,16 +21040,16 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>On macOS</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T114536Z" creationid="piav" creationdate="20191201T114527Z">
-        <seg>macOS-koneissa</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T095959Z" creationid="piav" creationdate="20191201T114527Z">
+        <seg>Macissa</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T055951Z" creationid="piav" creationdate="20191023T055312Z">
-        <seg>Mac-koneissa on painettava &lt;e0&gt;Komento (cmd) ⌘&lt;/e0&gt; -näppäintä&lt;e1&gt; toimintonäppäimen&lt;/e1&gt; kanssa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T095919Z" creationid="piav" creationdate="20191023T055312Z">
+        <seg>Macissa on painettava &lt;e0&gt;Komento (cmd) ⌘&lt;/e0&gt; -näppäintä&lt;e1&gt; toimintonäppäimen&lt;/e1&gt; kanssa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33282,6 +33282,16 @@ Täsmähaut etsivät koko hakustringiä.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
+file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T100112Z" creationid="piav" creationdate="20191211T100112Z">
+        <seg>Pura arkisto OmegaT.zip, niin löydät kansion, jossa on dokumentaatiotiedosto
+ja OmegaT-sovellus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unpack/untar the downloaded file.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T092714Z" creationid="piav" creationdate="20191201T092651Z">
@@ -39244,8 +39254,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>macOS Users</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T095906Z" creationid="piav" creationdate="20191201T095906Z">
-        <seg>macOS-käyttäjät</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T095934Z" creationid="piav" creationdate="20191201T095906Z">
+        <seg>Macin käyttäjät</seg>
       </tuv>
     </tu>
     <tu>
