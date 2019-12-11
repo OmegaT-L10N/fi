@@ -5863,6 +5863,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Based on your choices, we recommand you use:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T075324Z" creationid="piav" creationdate="20191211T075324Z">
+        <seg>Valintojesi perusteella sinulle näyttää sopivan parhaiten:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bashkir</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173642Z" creationid="PiaVee" creationdate="20171014T173642Z">
@@ -13950,6 +13958,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T101901Z" creationid="piav" creationdate="20191029T103348Z">
         <seg>Jos tämä kohta on rastitettu, OmegaT ei talleta salasanaa seuraavaa istuntoa varten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this version is not available, you can try to &lt;a0&gt;download the unsigned version&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T075836Z" creationid="piav" creationdate="20191211T075836Z">
+        <seg>Jos tätä versiota ei ole saatavilla, voit yrittää &lt;a0&gt;ladata version, jossa ei ole allekirjoitusta&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39132,6 +39148,14 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081533Z" creationid="PiaVee" creationdate="20171015T081533Z">
         <seg>som</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>some version</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T075327Z" creationid="piav" creationdate="20191211T075327Z">
+        <seg>joku versio</seg>
       </tuv>
     </tu>
     <tu>
