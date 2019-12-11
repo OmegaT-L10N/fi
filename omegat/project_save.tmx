@@ -11041,6 +11041,16 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ephemeral page
+I am the Blue Screen of Death
+No one hears your screams</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T144145Z" creationid="piav" creationdate="20191211T144145Z">
+        <seg>Sininen ruutu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Equal source &amp; target</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T094029Z" creationid="piav" creationdate="20191211T094029Z">
@@ -29731,6 +29741,16 @@ instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T093947Z" creationid="PiaVee" creationdate="20171219T093947Z">
         <seg>Ylivoimaisesti suurin osa OmegaT-projektin parissa tehdystä työstä on tehty vapaaehtoisvoimin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The help page you seek
+Lies beyond our perception
+But others await</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T144046Z" creationid="piav" creationdate="20191211T144046Z">
+        <seg>Sininen </seg>
       </tuv>
     </tu>
     <tu>
