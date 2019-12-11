@@ -3075,6 +3075,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T073717Z" creationid="piav" creationdate="20191211T073717Z">
+        <seg>&lt;i1&gt;OmegaT:n voi asentaa mihin tahansa käyttöjärjestelmään, jossa Java Runtime Environment 1.6 toimii.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; or &lt;k1&gt;Enter&lt;/k1&gt; or &lt;k2&gt;Tab&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T063207Z" creationid="piav" creationdate="20191023T063207Z">
@@ -11881,8 +11889,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>For installation on Mac OS X.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T073332Z" creationid="piav" creationdate="20191211T073310Z">
-        <seg>Asennettavaksi macOS-käyttöjärjestelmään.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T073610Z" creationid="piav" creationdate="20191211T073310Z">
+        <seg>Macille asennettava versio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11891,6 +11899,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T073252Z" creationid="piav" creationdate="20191211T073252Z">
         <seg>Windows-käyttöjärjestelmään asennettava versio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T073640Z" creationid="piav" creationdate="20191211T073549Z">
+        <seg>Muihin käyttöjärjestelmiin (esim. FreeBSD ja Solaris) sopiva asennus.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24664,6 +24680,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T101852Z" creationid="piav" creationdate="20191029T101655Z">
         <seg>Rastita tämä kohta, jos haluat, että sanastoruudussa näkyy vartaloltaan samoja sanoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T073741Z" creationid="piav" creationdate="20191211T073741Z">
+        <seg>Valitse, lataatko OmegaT:n ilman Java Runtime Environmentia (JRE) vai sen kanssa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40256,6 +40280,17 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T120227Z" creationid="piav" creationdate="20191208T120227Z">
         <seg>tm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">website/download.html</prop>
+      <prop type="prev">For installation on Linux.</prop>
+      <prop type="next">For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</prop>
+      <tuv lang="EN">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T073541Z" creationid="piav" creationdate="20191211T073541Z">
+        <seg>Muu</seg>
       </tuv>
     </tu>
   </body>
