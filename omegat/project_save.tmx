@@ -1582,6 +1582,16 @@ Kysymysmerkki ? vastaa yhtä merkkiä: hakulauseke 'run?' vastaa sanoja 'runs' t
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you
+(don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T103521Z" creationid="piav" creationdate="20191211T103521Z">
+        <seg>(Jos olet mielestäsi avustanut OmegaT-projektia huomattavasti, mutta nimesi
+ei näy listalla, ota meihin yhteyttä.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In English)</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T092249Z" creationid="piav" creationdate="20191211T092249Z">
@@ -1774,7 +1784,7 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
 - Marc Prior (project co-ordinator, webmaster)
 - Vito Smolej (documentation manager)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T103346Z" creationid="piav" creationdate="20191211T102632Z">
+      <tuv lang="FI" changeid="piav" changedate="20191211T103433Z" creationid="piav" creationdate="20191211T102632Z">
         <seg>- Anthony Baldwin (lokalisointikoordinaattori)
 - Didier Briel (projektinvetäjä)
 - Alex Buloichik (pääkehittäjä)
@@ -1785,7 +1795,7 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
 - Samuel Murray
 - Henry Pijffers (jakelukoordinaattori)
 - Marc Prior (projektikoordinaattori, sivustovastaava)
-- Vito Smolej (documentation manager)</seg>
+- Vito Smolej (dokumentaatiovastaava)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1798,13 +1808,13 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
 - Briac Pilpré (webmaster)
 - Lucie Vecerova (Facebook community manager)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T102752Z" creationid="piav" creationdate="20191211T102337Z">
+      <tuv lang="FI" changeid="piav" changedate="20191211T103416Z" creationid="piav" creationdate="20191211T102337Z">
         <seg>- Vincent Bidaux (dokumentaatiokoordinaattori)
 - Marco Cevoli (Telegram-yhteisön koordinaattori)
 - Jean-Christophe Helary (Twitter-yhteisön koordinaattori)
 - Kos Ivantsof (lokalisaatiokoordinaattori)
 - Concepción Martin (Facebook-yhteisön koordinaattori)
-- Briac Pilpré (sivustokoordinaattori)
+- Briac Pilpré (sivustovastaava)
 - Lucie Vecerova (Facebook-yhteisön koordinaattori)</seg>
       </tuv>
     </tu>
@@ -20850,8 +20860,8 @@ Apit-kansioon.</seg>
       <tuv lang="EN">
         <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T092401Z" creationid="piav" creationdate="20191211T092352Z">
-        <seg>OmegaT:llä on aktiivinen ja monikielinen käyttäjäryhmä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T103638Z" creationid="piav" creationdate="20191211T092352Z">
+        <seg>OmegaT:llä on aktiivinen, auttavainen ja monikielinen käyttäjäryhmä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29879,6 +29889,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The most current info about OmegaT can be found at:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T103557Z" creationid="piav" creationdate="20191211T103557Z">
+        <seg>Löydät ajankohtaisinta OmegaT-tietoa osoitteesta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The most important file here is the &lt;f1&gt;project_save.tmx, &lt;/f1&gt;that is the working translation memory for the project.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T124925Z" creationid="piav" creationdate="20191208T124925Z">
@@ -34133,6 +34151,16 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Useful links
+============</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T103528Z" creationid="piav" creationdate="20191211T103528Z">
+        <seg>Hyödyllisiä linkkejä
+============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User Manual...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T064801Z" creationid="piav" creationdate="20191023T064801Z">
@@ -36907,6 +36935,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and many, many more very helpful people</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T103444Z" creationid="piav" creationdate="20191211T103444Z">
+        <seg>ja monet, monet muut auttavaiset ihmiset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>and then:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T101736Z" creationid="piav" creationdate="20191211T101736Z">
@@ -38663,6 +38699,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T135516Z" creationid="piav" creationdate="20191127T135516Z">
         <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.org/</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T103558Z" creationid="piav" creationdate="20191211T103558Z">
+        <seg>https://omegat.org/</seg>
       </tuv>
     </tu>
     <tu>
