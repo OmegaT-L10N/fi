@@ -3917,8 +3917,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T091028Z" creationid="piav" creationdate="20191211T091028Z">
-        <seg>Opas, joka kuvaa vaihe vaiheelta, kuinla Rainbow'n Text </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T091114Z" creationid="piav" creationdate="20191211T091028Z">
+        <seg>Opas, joka kuvaa vaihe vaiheelta, kuinka Rainbow-apuohjelmia Text Extract ja Text Merging käytetään OmegaT:ssä käännettävien tiedostojen esi- ja jälkikäsittelyyn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21550,6 +21550,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Playlist of OmegaT videos</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T091312Z" creationid="piav" creationdate="20191211T091312Z">
+        <seg>OmegaT-videoiden soittolista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please check the &lt;u0&gt;ISO 639 Code Tables&lt;/u0&gt; for further and up-to-date information about language codes.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T162043Z" creationid="PiaVee" creationdate="20171014T162043Z">
@@ -29904,6 +29912,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T091222Z" creationid="piav" creationdate="20191211T091222Z">
+        <seg>Näiden apuohjelmien ansiosta OmegaT:llä voi kääntää sellaisia tiedostomuotoja, jotka voi muuttaa XLIFF-muotoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They all involve the application of file filters in the&lt;e1&gt; Options &lt;/e1&gt;menu.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171220T112118Z" creationid="PiaVee" creationdate="20171220T112118Z">
@@ -31612,6 +31628,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T164531Z" creationid="piav" creationdate="20191210T164531Z">
         <seg>Harjoituskurssi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Training videos</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T091232Z" creationid="piav" creationdate="20191211T091232Z">
+        <seg>Opastusvideot</seg>
       </tuv>
     </tu>
     <tu>
