@@ -3915,6 +3915,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T091028Z" creationid="piav" creationdate="20191211T091028Z">
+        <seg>Opas, joka kuvaa vaihe vaiheelta, kuinla Rainbow'n Text </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A team project can be opened and translated offline.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T113003Z" creationid="piav" creationdate="20191129T113003Z">
@@ -13167,6 +13175,22 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How to translate Magento</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090850Z" creationid="piav" creationdate="20191211T090850Z">
+        <seg>How to translate Magento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to translate Wordpress XLIFF files</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090912Z" creationid="piav" creationdate="20191211T090912Z">
+        <seg>How to translate Wordpress XLIFF files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T080437Z" creationid="piav" creationdate="20191128T080231Z">
@@ -22164,6 +22188,30 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T105854Z" creationid="PiaVee" creationdate="20171219T105833Z">
         <seg>Ongelmia sanakirjojen käytössä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize Magento.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090910Z" creationid="piav" creationdate="20191211T090859Z">
+        <seg>Tapa, jolla OmegaT:tä voi käyttää Magenton lokalisointiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize XLIFF files exported from Wordpress.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090936Z" creationid="piav" creationdate="20191211T090936Z">
+        <seg>Tapa, jolla OmegaT:tä voi käyttää Wordpressistä tuotujen XLIFF-tiedostojen kääntämiseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize the NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090903Z" creationid="piav" creationdate="20191211T090808Z">
+        <seg>Tapa, jolla OmegaT:tä voi käyttää NetBeans IDE:n lokalisointiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31761,10 +31809,26 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translating NetBeans IDE</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090728Z" creationid="piav" creationdate="20191211T090728Z">
+        <seg>Translating NetBeans IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translating Project</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T120310Z" creationid="piav" creationdate="20190920T120310Z">
         <seg>Projektin käännös työn alla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translating with Rainbow and OmegaT</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090937Z" creationid="piav" creationdate="20191211T090937Z">
+        <seg>Translating with Rainbow and OmegaT</seg>
       </tuv>
     </tu>
     <tu>
