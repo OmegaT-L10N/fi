@@ -29567,6 +29567,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There may be a delay in publishing signed versions.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T084334Z" creationid="piav" creationdate="20191211T084334Z">
+        <seg>Allekirjoitettujen versioiden julkaisu voi tapahtua viiveellä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T111018Z" creationid="piav" creationdate="20191128T110914Z">
@@ -32723,6 +32731,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T171901Z" creationid="piav" creationdate="20191210T171901Z">
         <seg>Käyttäjät voivat ladata ohjelman itselleen täysin vapaasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T084633Z" creationid="piav" creationdate="20191211T084633Z">
+        <seg>Jos sinulla on kiire, voit käyttää allekirjoittamatonta versiota. Jos ohjelman käynnistäminen on vaikeaa, tarkista ohjeet &lt;a0&gt;tunnistamattomalta kehittäjältä tulevan ohjelman asentamiseen &lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
