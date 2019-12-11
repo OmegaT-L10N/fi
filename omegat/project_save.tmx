@@ -5911,6 +5911,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before proceeding</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T080840Z" creationid="piav" creationdate="20191211T080840Z">
+        <seg>Ennen kuin jatkat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Before proceeding with such conversions, be sure to test all options.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T111359Z" creationid="piav" creationdate="20191129T111359Z">
@@ -10751,6 +10759,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Even though this software is free, if you find OmegaT useful and would like to express your gratitude, you can make a donation on our Paypal account.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T081001Z" creationid="piav" creationdate="20191211T081001Z">
+        <seg>Vaikka OmegaT on ilmainen, mutta ohjelma on mielestäsi hyödyllinen ja haluat kiittää siitä, voit tehdä lahjoituksen PayPal-tilillemme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Event: application shutdown</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T134528Z" creationid="piav" creationdate="20190916T134528Z">
@@ -12791,6 +12807,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Have you considered donating to OmegaT?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T080854Z" creationid="piav" creationdate="20191211T080854Z">
+        <seg>Oletko miettinyt lahjoitusta OmegaT-projektille?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Have you considered writing some user documentation yourself?</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T183004Z" creationid="piav" creationdate="20191210T183004Z">
@@ -14204,8 +14228,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you have found OmegaT useful and would like to express your gratitude by making a &lt;a0&gt;donation&lt;/a0&gt; on our Paypal account.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191210T183735Z" creationid="piav" creationdate="20191210T183735Z">
-        <seg>Jos OmegaT on mielestäsi hyödyllinen ja haluaisit kiittää ohjelmasta, voit tehdä &lt;a0&gt;lahjoituksen&lt;/a0&gt; PayPal-tilillemme.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T081010Z" creationid="piav" creationdate="20191210T183735Z">
+        <seg>Jos OmegaT on mielestäsi hyödyllinen ja haluaisit kiittää siitä, voit tehdä &lt;a0&gt;lahjoituksen&lt;/a0&gt; PayPal-tilillemme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25956,6 +25980,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T081055Z" creationid="piav" creationdate="20191211T081043Z">
+        <seg>Standardiversion – {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
@@ -31543,6 +31575,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T135908Z" creationid="piav" creationdate="20190920T135908Z">
         <seg>URL-osoitteet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>USD &lt;a0&gt;Donate&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T081036Z" creationid="piav" creationdate="20191211T081036Z">
+        <seg>USD &lt;a0&gt;Lahjoita&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
