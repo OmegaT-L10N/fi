@@ -13890,6 +13890,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T072803Z" creationid="piav" creationdate="20191211T072748Z">
+        <seg>Jos et oikein tiedä, minkä version tarvitset, käytä &lt;a0&gt;latausvalitsinta&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T112112Z" creationid="piav" creationdate="20191202T112112Z">
@@ -15170,6 +15178,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installation Type</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T072818Z" creationid="piav" creationdate="20191211T072818Z">
+        <seg>Asennuksen tyyppi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installation and Use</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T145602Z" creationid="PiaVee" creationdate="20171014T145602Z">
@@ -15847,6 +15863,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T185237Z" creationid="piav" creationdate="20190527T185237Z">
         <seg>JGit (lisenssi: Eclipse Distribution)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>JRE</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T072829Z" creationid="piav" creationdate="20191211T072829Z">
+        <seg>JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -16703,6 +16727,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180355Z" creationid="piav" creationdate="20190521T180355Z">
         <seg>Linkit (&amp;URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Links are provided below to the various versions of OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T072729Z" creationid="piav" creationdate="20191211T072729Z">
+        <seg>Alla on linkkejö OmegaT:n eri versioihin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19255,6 +19287,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT Download Selector</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T072808Z" creationid="piav" creationdate="20191211T072808Z">
+        <seg>OmegaT-latausvalitsin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Javadoc...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T110625Z" creationid="piav" creationdate="20190913T110625Z">
@@ -20327,6 +20367,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T141022Z" creationid="piav" creationdate="20191202T141022Z">
         <seg>Tämä käsikirja avautuu oletusselaimessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T072826Z" creationid="piav" creationdate="20191211T072826Z">
+        <seg>Käyttöjärjestelmä</seg>
       </tuv>
     </tu>
     <tu>
@@ -30639,6 +30687,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Traditional</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T072844Z" creationid="piav" creationdate="20191211T072844Z">
+        <seg>Perinteinen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Training course</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T164531Z" creationid="piav" creationdate="20191210T164531Z">
@@ -32258,6 +32314,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082231Z" creationid="PiaVee" creationdate="20171015T082231Z">
         <seg>venda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T072823Z" creationid="piav" creationdate="20191211T072823Z">
+        <seg>Versio</seg>
       </tuv>
     </tu>
     <tu>
