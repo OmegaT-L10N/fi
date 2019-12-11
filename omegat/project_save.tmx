@@ -11351,6 +11351,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Facebook group</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T092552Z" creationid="piav" creationdate="20191211T092552Z">
+        <seg>Facebook-ryhmä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T121435Z" creationid="piav" creationdate="20190523T101419Z">
@@ -12171,6 +12179,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T102800Z" creationid="piav" creationdate="20191201T102800Z">
         <seg>Tiedostossa olevat ennalta määritetyt asetukset saat käyttöön poistamalla ennen parametriä olevan &lt;l1&gt;#&lt;/l1&gt;-merkin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For support requests, use the &lt;a1&gt;recommended support channel&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T092659Z" creationid="piav" creationdate="20191211T092651Z">
+        <seg>Käytä tukipyynnöissä &lt;a1&gt;suositeltua tukikanavaa&lt;/a1&gt;.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16787,6 +16803,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kos Ivantsov</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T092720Z" creationid="piav" creationdate="20191211T092720Z">
+        <seg>Kos Ivantsov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Kurdish</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174601Z" creationid="PiaVee" creationdate="20171014T174601Z">
@@ -20079,6 +20103,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has a presence on various social networks.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T092546Z" creationid="piav" creationdate="20191211T092546Z">
+        <seg>OmegaT on mukana monilla somekanavilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T135120Z" creationid="PiaVee" creationdate="20171014T134834Z">
@@ -21708,6 +21740,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T092612Z" creationid="piav" creationdate="20191211T092612Z">
+        <seg>Jos sinulla on kysyttävää jostakin, mitä yllä olevassa tekstissä ei käsitelty, ota yhteyttä &lt;a0&gt;OmegaT-projektipäällikköön&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140734Z" creationid="PiaVee" creationdate="20171014T140734Z">
@@ -21720,6 +21760,14 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140911Z" creationid="PiaVee" creationdate="20171014T140823Z">
         <seg>Jos kysymyksesi koskee erityisesti verkkosivua, ota yhteyttä &lt;a2&gt;sivuston ylläpitäjään&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the &lt;a3&gt;webmaster&lt;/a3&gt; for any point regarding specifically the website.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T092714Z" creationid="piav" creationdate="20191211T092655Z">
+        <seg>Jos kysymyksesi koskee erityisesti verkkosivua, ota yhteyttä &lt;a3&gt;sivuston ylläpitäjään&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23364,6 +23412,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T105431Z" creationid="piav" creationdate="20190522T083210Z">
         <seg>Poistetaanko muoto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove tags from DOCX documents</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T092829Z" creationid="piav" creationdate="20191211T092829Z">
+        <seg>Poista tägit DOCX-asiakirjoista</seg>
       </tuv>
     </tu>
     <tu>
@@ -27174,6 +27230,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tagwipe</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T092723Z" creationid="piav" creationdate="20191211T092723Z">
+        <seg>Tagwipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tahitian</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082157Z" creationid="PiaVee" creationdate="20171015T082157Z">
@@ -27346,6 +27410,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T082820Z" creationid="piav" creationdate="20191030T082820Z">
         <seg>Teknisesti tämä tarkoittaa, että PO-kohdetiedoston mahdollisesti luotu &lt;c0&gt;msgstr&lt;/c0&gt;-segmentti jää tyhjäksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Telegram</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T092554Z" creationid="piav" creationdate="20191211T092554Z">
+        <seg>Telegram</seg>
       </tuv>
     </tu>
     <tu>
@@ -32157,6 +32229,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082149Z" creationid="PiaVee" creationdate="20171015T082149Z">
         <seg>twi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Twitter</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T092553Z" creationid="piav" creationdate="20191211T092553Z">
+        <seg>Twitter</seg>
       </tuv>
     </tu>
     <tu>
