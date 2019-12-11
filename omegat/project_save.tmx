@@ -1642,8 +1642,8 @@ Lisää projektitiedostoja napsauttamalla Projektin tiedostot -ikkunan tai Proje
       <tuv lang="EN">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T102121Z" creationid="piav" creationdate="20191211T102121Z">
-        <seg>/</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T102153Z" creationid="piav" creationdate="20191211T102121Z">
+        <seg>(Suoritettava Java-tiedosto on Linuxissa java ja Windowsissa java.exe.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1758,6 +1758,26 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061138Z" creationid="piav" creationdate="20191023T061120Z">
         <seg>löytyy esimerkiksi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Vincent Bidaux (documentation manager)
+- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsof (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T102438Z" creationid="piav" creationdate="20191211T102337Z">
+        <seg>- Vincent Bidaux (dokumentaatiovastaava)
+- Marco Cevoli (Telegram-yhteisön vastuuhenkilö)
+- Jean-Christophe Helary (Twitter-yhteisön vastuuhenkilö)
+- Kos Ivantsof (lokalisaatiovastaava)
+- Concepción Martin (Facebook community manager)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8060,6 +8080,16 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contributors
+============</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T102300Z" creationid="piav" creationdate="20191211T102300Z">
+        <seg>Käyttöön antajat
+============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convenient alternative functions or solutions may also exist.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T174113Z" creationid="piav" creationdate="20191210T174038Z">
@@ -9042,6 +9072,16 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T100425Z" creationid="PiaVee" creationdate="20171015T100425Z">
         <seg>Virtuaalisen koneen tämänhetkinen muistin käyttö: {0} MB, josta vapaata muistia {1} MB. Käytettävissä: {2} MB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current team:
+(alphabetical order)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T102317Z" creationid="piav" creationdate="20191211T102317Z">
+        <seg>Nykyinen tiimi
+(aakkosjärjestyksessä):</seg>
       </tuv>
     </tu>
     <tu>
@@ -13854,6 +13894,18 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T174348Z" creationid="PiaVee" creationdate="20171014T174348Z">
         <seg>ido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If
+Java is installed at system level and is in the command path, the full path need
+not be entered.)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T102253Z" creationid="piav" creationdate="20191211T102253Z">
+        <seg>Jos
+Java on asennettu järjestelmätasoisesti ja se on komento-
+polulla, koko polkua ei tarvitse kirjoittaa.)</seg>
       </tuv>
     </tu>
     <tu>
