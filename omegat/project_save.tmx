@@ -27627,6 +27627,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Web Start version offers an alternative means of installing OmegaT on your computer.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T084654Z" creationid="piav" creationdate="20191211T084654Z">
+        <seg>Web Start -versio tarjoaa vaihtoehtoisen tavan asentaa OmegaT koneellesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The above method somewhat impractical way of launching a program routinely.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T114937Z" creationid="piav" creationdate="20191201T114937Z">
@@ -33711,6 +33719,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T122455Z" creationid="piav" creationdate="20191129T121717Z">
         <seg>Tätä tapaa käyttämällä voit ladata ohjelmasta myös ilman JRE-ympäristöä olevan "Windows without JRE"-version, sillä uusi asennus käyttää koneellasi jo olevaa JRE-ympäristöä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With this version, future updates will be installed automatically.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T084711Z" creationid="piav" creationdate="20191211T084711Z">
+        <seg>Tässä versiossa tulevat päivitykset asennetaan automaattisesti.</seg>
       </tuv>
     </tu>
     <tu>
