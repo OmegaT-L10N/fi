@@ -1762,6 +1762,34 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Anthony Baldwin (localisation manager)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Jean-Christophe Helary (support group owner, localisation manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T102632Z" creationid="piav" creationdate="20191211T102632Z">
+        <seg>- Anthony Baldwin (lokalisointikoordinaattori)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Jean-Christophe Helary (support group owner, localisation manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Vincent Bidaux (documentation manager)
 - Marco Cevoli (Telegram community manager)
 - Jean-Christophe Helary (Twitter community manager)
@@ -1770,14 +1798,14 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
 - Briac Pilpré (webmaster)
 - Lucie Vecerova (Facebook community manager)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T102438Z" creationid="piav" creationdate="20191211T102337Z">
-        <seg>- Vincent Bidaux (dokumentaatiovastaava)
-- Marco Cevoli (Telegram-yhteisön vastuuhenkilö)
-- Jean-Christophe Helary (Twitter-yhteisön vastuuhenkilö)
-- Kos Ivantsof (lokalisaatiovastaava)
-- Concepción Martin (Facebook community manager)
-- Briac Pilpré (webmaster)
-- Lucie Vecerova (Facebook community manager)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T102752Z" creationid="piav" creationdate="20191211T102337Z">
+        <seg>- Vincent Bidaux (dokumentaatiokoordinaattori)
+- Marco Cevoli (Telegram-yhteisön koordinaattori)
+- Jean-Christophe Helary (Twitter-yhteisön koordinaattori)
+- Kos Ivantsof (lokalisaatiokoordinaattori)
+- Concepción Martin (Facebook-yhteisön koordinaattori)
+- Briac Pilpré (sivustokoordinaattori)
+- Lucie Vecerova (Facebook-yhteisön koordinaattori)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22522,8 +22550,8 @@ selvittääksesi virheen syyn ja yritä sitten uudelleen.</seg>
       <tuv lang="EN">
         <seg>Please contact the &lt;a3&gt;webmaster&lt;/a3&gt; for any point regarding specifically the website.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T092714Z" creationid="piav" creationdate="20191211T092655Z">
-        <seg>Jos kysymyksesi koskee erityisesti verkkosivua, ota yhteyttä &lt;a3&gt;sivuston ylläpitäjään&lt;/a3&gt;.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T102546Z" creationid="piav" creationdate="20191211T092655Z">
+        <seg>Jos kysymyksesi koskee erityisesti verkkosivua, ota yhteyttä &lt;a3&gt;sivustovastaavaan&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
