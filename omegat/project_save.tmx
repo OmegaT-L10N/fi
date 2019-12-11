@@ -8950,6 +8950,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detailed instructions</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T081257Z" creationid="piav" creationdate="20191211T081257Z">
+        <seg>Yksityiskohtaiset ohjeet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Detailed instructions on building are in the docs_devel &lt;u0&gt;readme&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T134152Z" creationid="piav" creationdate="20191201T134152Z">
@@ -15786,6 +15794,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It has usually been in use for some time and is therefore proven.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T081352Z" creationid="piav" creationdate="20191211T081207Z">
+        <seg>Versio on yleensä ollut käytössä jo jonkun aikaa, joten sitä on testattu hyvin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T160843Z" creationid="piav" creationdate="20191209T160843Z">
@@ -16039,6 +16055,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T140243Z" creationid="piav" creationdate="20190920T140243Z">
         <seg>Nimikkeet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Its documentation, at least in English, is usually reasonably up to date.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T081242Z" creationid="piav" creationdate="20191211T081242Z">
+        <seg>Sen (ainakin englanninkielinen) dokumentaatio on tavallisesti tarpeeksi ajan tasalla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16791,6 +16815,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T141045Z" creationid="piav" creationdate="20190920T141045Z">
         <seg>Uusin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T081316Z" creationid="piav" creationdate="20191211T081316Z">
+        <seg>Uusin versio – {{site.data.versions.latest.name}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -21194,6 +21226,14 @@ everything.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190515T111935Z" creationid="PiaVee" creationdate="20171219T133409Z">
         <seg>Muotoilematonta tekstiä sisältävien tekstitiedostojen tiedostotunniste on useimmiten .txt. Tekstitiedostot eivät kuitenkaan kerro tietokoneelle, millä kielellä teksti on kirjoitettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Platform</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T081248Z" creationid="piav" creationdate="20191211T081248Z">
+        <seg>Käyttöympäristö</seg>
       </tuv>
     </tu>
     <tu>
@@ -25974,8 +26014,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Standard</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T175834Z" creationid="piav" creationdate="20190521T175834Z">
-        <seg>Standardi</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T081134Z" creationid="piav" creationdate="20190521T175834Z">
+        <seg>Standardiversio</seg>
       </tuv>
     </tu>
     <tu>
@@ -27027,8 +27067,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T075024Z" creationid="piav" creationdate="20191211T074935Z">
-        <seg>"Standardi"-OmegaT:lle on täydellinen käyttöopas (ainakin englanniksi), ja sen testauksen aikana löytyneet on korjattu.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T081127Z" creationid="piav" creationdate="20191211T074935Z">
+        <seg>OmegaT:n standardiversiosta on täydellinen käyttöopas (ainakin englanniksi), ja sen testauksen aikana löytyneet on korjattu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27217,6 +27257,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Latest version requires Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T081341Z" creationid="piav" creationdate="20191211T081341Z">
+        <seg>Uusin versio vaatii Java-version {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T172946Z" creationid="piav" creationdate="20190523T172358Z">
@@ -27325,6 +27373,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T162051Z" creationid="piav" creationdate="20191209T162051Z">
         <seg>Hakuikkunassa on omat valikkonsa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T081346Z" creationid="piav" creationdate="20191211T081113Z">
+        <seg>Standardiversio vaatii Java-version {{site.data.versions.standard.java_version}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40277,6 +40333,22 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T161154Z" creationid="piav" creationdate="20191209T161154Z">
         <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% else %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T081305Z" creationid="piav" creationdate="20191211T081305Z">
+        <seg>{% else %} &lt;a0&gt;Lataa&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T081302Z" creationid="piav" creationdate="20191211T081302Z">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Lataa&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
