@@ -6041,6 +6041,16 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bartender yells loud:
+Your page cannot be found, boy
+Buy another drink</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T130444Z" creationid="piav" creationdate="20191211T130444Z">
+        <seg>Kolme </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Based on your choices, we recommand you use:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T075324Z" creationid="piav" creationdate="20191211T075324Z">
@@ -11513,10 +11523,10 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
 Gossamer threads hold you back
 404 not found</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T130058Z" creationid="piav" creationdate="20191211T130058Z">
+      <tuv lang="FI" changeid="piav" changedate="20191211T130300Z" creationid="piav" creationdate="20191211T130058Z">
         <seg>Sivu kadonnut
 kuin tuhka tuuleen, poissa
-lopullisesti.</seg>
+lopullisesti</seg>
       </tuv>
     </tu>
     <tu>
@@ -35289,10 +35299,10 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
 Scatt'ring petals to the wind:
 Your page is not found</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T130240Z" creationid="piav" creationdate="20191211T130240Z">
-        <seg>Tuuli tuivertaa.
-täältäkään
-ei mitään löydy.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T130416Z" creationid="piav" creationdate="20191211T130240Z">
+        <seg>Tuuli tuivertaa
+tyhjyydessä. Sivua
+ei enää löydy.</seg>
       </tuv>
     </tu>
     <tu>
