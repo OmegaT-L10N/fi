@@ -15986,6 +15986,16 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Linux)
+=========================</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T100159Z" creationid="piav" creationdate="20191211T100159Z">
+        <seg>OmegaT:n asentaminen Linuxiin
+=========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT (Mac)
 =======================</seg>
       </tuv>
@@ -19041,6 +19051,16 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the folder to an appropriate location such
+as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T100147Z" creationid="piav" creationdate="20191211T100147Z">
+        <seg>Siirrä kansio sopivaan sijaintiin, esimerkiksi
+Apit-kansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves to the next already translated segment, ignoring untranslated segments.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T151938Z" creationid="piav" creationdate="20191202T135517Z">
@@ -20763,6 +20783,16 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is then ready to
+be launched.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T100231Z" creationid="piav" creationdate="20191211T100231Z">
+        <seg>OmegaT on valmis
+käynnistettäväksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is written in Java.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T183805Z" creationid="piav" creationdate="20191210T183805Z">
@@ -22149,6 +22179,14 @@ everything.</seg>
       <tuv lang="FI" changeid="piav" changedate="20191128T114627Z" creationid="PiaVee" creationdate="20171015T094257Z">
         <seg>Lisää lähdetiedostot kansioon ./source, apumateriaali kansioihin ./tm, ./glossary ja ./dictionary ja lähetä kaikki.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the archive in any suitable folder and unpack it.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T100220Z" creationid="piav" creationdate="20191211T100220Z">
+        <seg>Siirrä arkisto johonkin sopivaan kansioon ja pura se.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35661,6 +35699,16 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T141935Z" creationid="piav" creationdate="20191030T141935Z">
         <seg>Voit saada lähdekielisen tekstin automaattisesti muokkauskenttään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can however obtain a neater and more user-friendly installation by using the
+installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T100357Z" creationid="piav" creationdate="20191211T100357Z">
+        <seg>Asennus on kuitenkin selkeämpi ja käyttäjäystävällisempi, jos käytät asennuskomento-
+sarjaa linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
