@@ -13319,6 +13319,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T073818Z" creationid="piav" creationdate="20191211T073818Z">
+        <seg>Jos Windows-koneellasi on jo sopiva JRE, valitse versio ilman JRE:tä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a user interface in this language is available, &lt;a4&gt;OmegaT&lt;/a4&gt; uses it.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T120008Z" creationid="piav" creationdate="20191201T120008Z">
@@ -13566,6 +13574,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T125726Z" creationid="piav" creationdate="20191201T125726Z">
         <seg>Jos polkua ei ole annettu, &lt;a3&gt;OmegaT&lt;/a3&gt; käyttää oletusasetuksia (käyttäjän kotikansion alla olevaa &lt;a4&gt;OmegaT&lt;/a4&gt;-kansiota, tai jos sitä ei ole, kyseistä työskentelykansiota).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If not, or if you are not sure, select "with JRE".</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T073835Z" creationid="piav" creationdate="20191211T073835Z">
+        <seg>Jos sitä ei ole tai et ole varma, valitse versio, jossa on JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19471,6 +19487,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T073954Z" creationid="piav" creationdate="20191211T073954Z">
+        <seg>Tällä hetkellä OmegaT vaatii JRE-version 1.6 tai uudemman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT displays a list of all segments containing all of the words specified.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T163844Z" creationid="piav" creationdate="20191209T163844Z">
@@ -19839,6 +19863,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T175508Z" creationid="piav" creationdate="20190521T175508Z">
         <seg>OmegaT yrittää segmentoida TMX-tiedoston uudelleen…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T073934Z" creationid="piav" creationdate="20191211T073934Z">
+        <seg>Tavallisesti OmegaT toimii kaikissa Linux-järjestelmissä, joihin voi asentaa sopivan Java Runtime Environment (JRE) -version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30251,6 +30283,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T134226Z" creationid="piav" creationdate="20191030T134226Z">
         <seg>Säännön syntaksi ja soveltuvuus kannattaa tarkistaa työkaluissa, joissa näet heti näiden vaikutuksen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T074053Z" creationid="piav" creationdate="20191211T074053Z">
+        <seg>Voit tarkistaa, mikä JRE Linuxissasi on tai onko sitä ollenkaan kirjoittamalla konsoliin (komentoikkunaan):</seg>
       </tuv>
     </tu>
     <tu>
