@@ -14010,6 +14010,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T074833Z" creationid="piav" creationdate="20191211T074833Z">
+        <seg>Jos olet varma, että koneesi järjestelmätasolle on jo asennettu Java Runtime Environment, voit valita vaihtoehdon ilman JRE:tä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T074148Z" creationid="piav" creationdate="20191211T074148Z">
@@ -26873,6 +26881,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T074935Z" creationid="piav" creationdate="20191211T074935Z">
+        <seg>"Standardi"-OmegaT:lle on täydellinen käyttöopas (ainakin englanniksi), ja sitä on yleensä testattu </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T074456Z" creationid="piav" creationdate="20191211T074456Z">
@@ -33238,6 +33254,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T122455Z" creationid="piav" creationdate="20191129T121717Z">
         <seg>Tätä tapaa käyttämällä voit ladata ohjelmasta myös ilman JRE-ympäristöä olevan "Windows without JRE"-version, sillä uusi asennus käyttää koneellasi jo olevaa JRE-ympäristöä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without JRE</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T074705Z" creationid="piav" creationdate="20191211T074705Z">
+        <seg>Versio, jossa ei ole JRE:tä</seg>
       </tuv>
     </tu>
     <tu>
