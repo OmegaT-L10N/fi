@@ -31088,6 +31088,18 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These three are certain:
+Death, taxes, and page not found
+You, victim of one</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T135740Z" creationid="piav" creationdate="20191211T130626Z">
+        <seg>Kolme on varmaa:
+kuolema ja verot ja
+kadonnut sivu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These units have been skipped.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T175008Z" creationid="piav" creationdate="20190521T175008Z">
