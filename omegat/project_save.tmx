@@ -14170,6 +14170,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T080836Z" creationid="piav" creationdate="20191211T080836Z">
+        <seg>Jos olet vastahakoinen lukemaan ohjeita ja mieluummin painelet uuden ohjelmiston jokaista painiketta niin kauan, että saat jotakin halutun kaltaista näkyviin, OmegaT ei välttämättä sovi sinulle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have a powerful machine, and/or if you don't like how the scrollbar behaves during progressive loading, you can increase this number.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T081437Z" creationid="piav" creationdate="20191127T081326Z">
@@ -19755,6 +19763,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T151515Z" creationid="piav" creationdate="20191030T120207Z">
         <seg>Tietyt tiedostomuodot (Java-ominaisuudet ym.) käyttävät pakollista merkistökoodausta, ja OmegaT käyttää tätä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T080614Z" creationid="piav" creationdate="20191211T080614Z">
+        <seg>OmegaT:tä ei ole erityisemmin hankalaa asentaa tai käyttää, mutta se vaatii halun lukea ja noudattaa ohjeistusta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30698,8 +30714,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T080442Z" creationid="piav" creationdate="20191211T080442Z">
-        <seg>Vasemmalta löytyvästä linkistä Kolmannen osapuolen ohjelmisto Löydät OpenOffice.orgin ja LibreOfficen vasemmalta </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T080530Z" creationid="piav" creationdate="20191211T080442Z">
+        <seg>Vasemmalta löytyvästä linkistä Kolmannen osapuolen ohjelmistot löydät OpenOffice.orgin ja LibreOfficen ja voit asentaa ne itsellesi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32371,6 +32387,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T181222Z" creationid="piav" creationdate="20191210T181222Z">
         <seg>Käyttäjän muotokuva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User requirements</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T080536Z" creationid="piav" creationdate="20191211T080536Z">
+        <seg>Käyttövaatimukset</seg>
       </tuv>
     </tu>
     <tu>
