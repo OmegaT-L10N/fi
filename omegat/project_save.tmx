@@ -7868,6 +7868,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Converting all .DOCX in the project...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093030Z" creationid="piav" creationdate="20191211T092945Z">
+        <seg>Muuntaa kaikki projektin .docx-tiedostot…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converting current .DOCX...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093022Z" creationid="piav" creationdate="20191211T093022Z">
+        <seg>Muuntaa nykyistä DOCX-tiedostoa…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Converts the current project into a MED package.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T144504Z" creationid="piav" creationdate="20191202T144455Z">
@@ -19003,6 +19019,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No .DOCX files to clean.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093042Z" creationid="piav" creationdate="20191211T093042Z">
+        <seg>Ei siistittäviä DOCX-tiedostoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T133743Z" creationid="piav" creationdate="20190920T133141Z">
@@ -19071,6 +19095,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T140910Z" creationid="piav" creationdate="20190916T140910Z">
         <seg>Etäpalvelimella ei ole saatavilla uusia sanakirjoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No project loaded.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T092835Z" creationid="piav" creationdate="20191211T092835Z">
+        <seg>Projektia ei ole ladattu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20987,6 +21019,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening input file '{0}'</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093124Z" creationid="piav" creationdate="20191211T093107Z">
+        <seg>Avaamassa syötetiedostoa {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opening team project</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T130953Z" creationid="piav" creationdate="20190920T130953Z">
@@ -22560,6 +22600,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project contains no files.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T092844Z" creationid="piav" creationdate="20191211T092841Z">
+        <seg>Projektissa ei ole tiedostoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project creating end</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T135306Z" creationid="piav" creationdate="20190916T135306Z">
@@ -24090,6 +24138,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Running Tagwipe for file '{0}'</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T092907Z" creationid="piav" creationdate="20191211T092907Z">
+        <seg>Tagwipe käynnissä tiedostossa {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Running on Java {0} ({1}-bit)</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T100212Z" creationid="PiaVee" creationdate="20171015T100212Z">
@@ -25448,6 +25504,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T114259Z" creationid="piav" creationdate="20190920T114259Z">
         <seg>Valittu engine: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selected options:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T092921Z" creationid="piav" creationdate="20191211T092921Z">
+        <seg>Valitut asetukset:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27234,6 +27298,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T092723Z" creationid="piav" creationdate="20191211T092723Z">
         <seg>Tagwipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tagwipe finished, reloading project...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093055Z" creationid="piav" creationdate="20191211T093055Z">
+        <seg>Tagwipe on valmis, projekti ladataan uudestaan…</seg>
       </tuv>
     </tu>
     <tu>
