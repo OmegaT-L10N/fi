@@ -27731,6 +27731,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T084756Z" creationid="piav" creationdate="20191211T084756Z">
+        <seg>Sertifikaatin on allekirjoittanut &lt;a1&gt;PnS Concept </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The changes are displayed.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T122850Z" creationid="piav" creationdate="20191208T122850Z">
@@ -40929,6 +40937,17 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T120227Z" creationid="piav" creationdate="20191208T120227Z">
         <seg>tm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">website/download.html</prop>
+      <prop type="prev">With this version, future updates will be installed automatically.</prop>
+      <prop type="next">The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</prop>
+      <tuv lang="EN">
+        <seg>During installation, depending on your operating system, you may receive several security warnings.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T084727Z" creationid="piav" creationdate="20191211T084727Z">
+        <seg>Asennuksen aikana saatat saada useita turvallisuusvaroituksia, käyttöjärjestelmäsi riippuen.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
