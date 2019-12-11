@@ -3915,6 +3915,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A simple set of QA checks for current OmegaT project</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093715Z" creationid="piav" creationdate="20191211T093641Z">
+        <seg>Joukko yksinkertaisia tarkistuksia, joilla varmistetaan nykyisen OmegaT-projektin laatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A source sentence might look like:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T114200Z" creationid="piav" creationdate="20191202T114200Z">
@@ -6931,6 +6939,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T141100Z" creationid="piav" creationdate="20190920T141100Z">
         <seg>Tarkista nyt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Rules</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093720Z" creationid="piav" creationdate="20191211T093720Z">
+        <seg>Tarkistussäännöt</seg>
       </tuv>
     </tu>
     <tu>
@@ -17363,10 +17379,90 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level 0:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093426Z" creationid="piav" creationdate="20191211T093426Z">
+        <seg>Taso 0:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 1:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093428Z" creationid="piav" creationdate="20191211T093428Z">
+        <seg>Taso 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T080537Z" creationid="piav" creationdate="20191128T080537Z">
         <seg>Kakkostason TMX-tiedostot tuodaan kyllä OmegaT:hen, ja niiden tekstisisältö näkyy ohjelmassa, mutta sumeiden osumien laatu on hieman heikompi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 2:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093430Z" creationid="piav" creationdate="20191211T093430Z">
+        <seg>Taso 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 3:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093433Z" creationid="piav" creationdate="20191211T093433Z">
+        <seg>Taso 3:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 4:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093435Z" creationid="piav" creationdate="20191211T093435Z">
+        <seg>Taso 4:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 5:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093437Z" creationid="piav" creationdate="20191211T093437Z">
+        <seg>Taso 5:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 6:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093439Z" creationid="piav" creationdate="20191211T093439Z">
+        <seg>Taso 6:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 7:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093441Z" creationid="piav" creationdate="20191211T093441Z">
+        <seg>Taso 7:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 8:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093443Z" creationid="piav" creationdate="20191211T093443Z">
+        <seg>Taso 8:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 9:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093446Z" creationid="piav" creationdate="20191211T093446Z">
+        <seg>Taso 9:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22948,6 +23044,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081023Z" creationid="PiaVee" creationdate="20171015T081023Z">
         <seg>paali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>QA - Check Rules</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093649Z" creationid="piav" creationdate="20191211T093548Z">
+        <seg>Laadunvarmistustarkistuksen säännöt</seg>
       </tuv>
     </tu>
     <tu>
