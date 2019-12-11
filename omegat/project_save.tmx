@@ -6097,8 +6097,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>But I can't program at all, I hear you say.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T070726Z" creationid="piav" creationdate="20191210T184132Z">
-        <seg>Mutta sinä et osaa ohjelmoida? Ainakaan vielä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T070832Z" creationid="piav" creationdate="20191210T184132Z">
+        <seg>Mutta sinä et osaa ohjelmoida? Et  ainakaan vielä?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7621,8 +7621,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Continuing Professional Development is the current buzzword!</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191210T184458Z" creationid="piav" creationdate="20191210T184458Z">
-        <seg>Jatkuva ammatillinen kehitys on nykypäivän taikasana!</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T070823Z" creationid="piav" creationdate="20191210T184458Z">
+        <seg>Jatkuva ammatillinen kehitys on tämän päivän taikasana!</seg>
       </tuv>
     </tu>
     <tu>
