@@ -21614,6 +21614,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pre-built binaries, are available as Nightly Builds.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T082451Z" creationid="piav" creationdate="20191211T081834Z">
+        <seg>Uutta versiota edeltäviä binääripaketteja saa öisinä käännöksinä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pre-defined themes can be set using scripts.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T075543Z" creationid="piav" creationdate="20191030T075410Z">
