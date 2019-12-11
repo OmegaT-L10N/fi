@@ -140,6 +140,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T074104Z" creationid="piav" creationdate="20191211T074104Z">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>$ tar xf downloaded_file.tar.gz</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T092832Z" creationid="piav" creationdate="20191201T092832Z">
@@ -13990,6 +13998,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T075640Z" creationid="piav" creationdate="20191023T061432Z">
         <seg>Jos käytä Mac-konetta ja haluat lisätä pikanäppäimen &lt;k0&gt; &lt;k1&gt;vahto&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; avaamaan kohdan &lt;m4&gt; &lt;g5&gt;Työkalut&lt;/g5&gt; &lt;g6&gt;Tilastot&lt;/g6&gt; &lt;/m4&gt;, lisää &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;-tiedostoon seuraava rivi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T074148Z" creationid="piav" creationdate="20191211T074148Z">
+        <seg>Jos et ole varma, onko järjestelmässäsi sopivaa JRE:tä, voit talentaa ja asentaa OmegaT-version, jossa on JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30009,6 +30025,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T115739Z" creationid="piav" creationdate="20191208T115739Z">
         <seg>Tämä alikansio on aluksi tyhjä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T074412Z" creationid="piav" creationdate="20191211T074412Z">
+        <seg>Tätä JRE-versiota on turvallista käyttää, sillä se toimii ainoastaan paikallisessa OmegaT:ssä eikä aiheuta ristiriitaa muiden JRE-asennusten kanssa tai korvaa tai poista niitä.</seg>
       </tuv>
     </tu>
     <tu>
