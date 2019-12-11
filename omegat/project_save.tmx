@@ -4707,6 +4707,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All DOCX files in the project</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093333Z" creationid="piav" creationdate="20191211T093333Z">
+        <seg>Kaikki projektin DOCX-tiedostot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All HTML files will be translated - note that the period in the usual &lt;l0&gt;*.html&lt;/l0&gt; has to be escaped (&lt;l1&gt;\.&lt;/l1&gt;) as specified by the rules for regular expressions</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T131848Z" creationid="piav" creationdate="20191201T131848Z">
@@ -5863,6 +5871,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093256Z" creationid="piav" creationdate="20191211T093256Z">
+        <seg>Varmuuskopiointi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T125216Z" creationid="piav" creationdate="20191208T125216Z">
@@ -5955,6 +5971,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T110101Z" creationid="piav" creationdate="20191127T105913Z">
         <seg>Pidäthän mielessä, että projektikielien vaihtaminen voi tehdä senhetkisistä käännösmuisteista käyttökelvottomia. Käännösmuistin kieliparin on oltava juuri sama kuin projektissakin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beautify</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093250Z" creationid="piav" creationdate="20191211T093250Z">
+        <seg>Tee nätimmäksi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beautify resulting DOCX</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093318Z" creationid="piav" creationdate="20191211T093318Z">
+        <seg>Tee DOCX-lopputuloksesta nätimpi</seg>
       </tuv>
     </tu>
     <tu>
@@ -7143,6 +7175,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cleaning entry '{0}'...</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093147Z" creationid="piav" creationdate="20191211T093147Z">
+        <seg>Siistii kohtaa {0}…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cleanup done!!</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170910T083920Z" creationid="PiaVee" creationdate="20170910T083920Z">
@@ -7844,6 +7884,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093254Z" creationid="piav" creationdate="20191211T093254Z">
+        <seg>Muunna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T123627Z" creationid="piav" creationdate="20190920T123559Z">
@@ -7870,8 +7918,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Converting all .DOCX in the project...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T093030Z" creationid="piav" creationdate="20191211T092945Z">
-        <seg>Muuntaa kaikki projektin .docx-tiedostot…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093341Z" creationid="piav" creationdate="20191211T092945Z">
+        <seg>Muuntaa kaikki projektin DOCX-tiedostot…</seg>
       </tuv>
     </tu>
     <tu>
@@ -8230,6 +8278,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create backup files of original DOCX</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093420Z" creationid="piav" creationdate="20191211T093420Z">
+        <seg>Luo alkuperäisestä DOCX-asiakirjata varmuuskopiot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T120422Z" creationid="piav" creationdate="20190920T120422Z">
@@ -8330,6 +8386,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T113228Z" creationid="piav" creationdate="20191128T113228Z">
         <seg>Tyhjän projektin luominen palvelimelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating output file '{0}'</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093131Z" creationid="piav" creationdate="20191211T093131Z">
+        <seg>Luomassa kohdetiedostoa {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8778,6 +8842,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T062926Z" creationid="piav" creationdate="20191023T062926Z">
         <seg>Ctrl+↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current DOCX file</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093402Z" creationid="piav" creationdate="20191211T093402Z">
+        <seg>Nykyinen DOCX-tiedosto</seg>
       </tuv>
     </tu>
     <tu>
@@ -17283,6 +17355,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093242Z" creationid="piav" creationdate="20191211T093242Z">
+        <seg>Taso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T080537Z" creationid="piav" creationdate="20191128T080537Z">
@@ -18663,6 +18743,22 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T151958Z" creationid="piav" creationdate="20191202T140248Z">
         <seg>Kohdistin siirtyy segmenttiin, jonka teksti vastaa &lt;g0&gt;Sumeat osumat&lt;/g0&gt; -ruudussa valittua tekstiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving cleaned '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093240Z" creationid="piav" creationdate="20191211T093240Z">
+        <seg>Siirtää siistityn kohteen {0} kohyeeseen {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving original '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093219Z" creationid="piav" creationdate="20191211T093219Z">
+        <seg>Alkuperäinen {0} muuttuu muotoon {1}</seg>
       </tuv>
     </tu>
     <tu>
