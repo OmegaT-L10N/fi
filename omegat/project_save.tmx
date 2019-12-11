@@ -8990,6 +8990,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Developer Version</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T081638Z" creationid="piav" creationdate="20191211T081638Z">
+        <seg>Kehittäjäversio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T083703Z" creationid="PiaVee" creationdate="20171219T083703Z">
@@ -9570,6 +9578,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T140557Z" creationid="PiaVee" creationdate="20171014T140224Z">
         <seg>Dokumentaation seurantajäjestelmä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documentation, particularly of new features, will be less comprehensive than that of the Standard version.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T081559Z" creationid="piav" creationdate="20191211T081559Z">
+        <seg>Uuden version dokumentaatio ei ole yhtä perusteellinen kuin standardiversiossa. Tämä koskee erityisesti uusia ominaisuuksia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15798,6 +15814,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T081352Z" creationid="piav" creationdate="20191211T081207Z">
         <seg>Versio on yleensä ollut käytössä jo jonkun aikaa, joten sitä on testattu hyvin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is a more recent version than the Standard version and includes new features not present in the latter.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T081437Z" creationid="piav" creationdate="20191211T081437Z">
+        <seg>Se on standardiversiota uudempi, ja siinä on uusia toimintoja, joita standardiversiossa ei ole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27081,6 +27105,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "master" version is a cutting-edge, "alpha" version, still in development.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T081806Z" creationid="piav" creationdate="20191211T081806Z">
+        <seg>Tätä uusinta uutta edustavaa "alpha"-versiota kehitetään vielä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T121359Z" creationid="piav" creationdate="20191129T121359Z">
@@ -27261,6 +27293,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T081341Z" creationid="piav" creationdate="20191211T081341Z">
         <seg>Uusin versio vaatii Java-version {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T081505Z" creationid="piav" creationdate="20191211T081505Z">
+        <seg>Uusin versio on melko vakaa ja käyttökelpoinen, mutta siinä voi olla bugeja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32539,6 +32579,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T105657Z" creationid="piav" creationdate="20191201T105622Z">
         <seg>Jotta &lt;a1&gt;OmegaT&lt;/a1&gt;:tä voi käyttää muissa käyttöjärjestelmissä (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 jne.), niissä on oltava yhteensopiva Java JRE-ympäristö.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users who already have some experience with OmegaT often prefer the Latest version.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T081627Z" creationid="piav" creationdate="20191211T081627Z">
+        <seg>Kokeneemmat OmegaT-käyttäjät suosivat usein uusinta versiota.</seg>
       </tuv>
     </tu>
     <tu>
