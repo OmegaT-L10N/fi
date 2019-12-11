@@ -1774,17 +1774,17 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
 - Marc Prior (project co-ordinator, webmaster)
 - Vito Smolej (documentation manager)</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T102632Z" creationid="piav" creationdate="20191211T102632Z">
+      <tuv lang="FI" changeid="piav" changedate="20191211T103346Z" creationid="piav" creationdate="20191211T102632Z">
         <seg>- Anthony Baldwin (lokalisointikoordinaattori)
-- Didier Briel (project manager)
-- Alex Buloichik (lead developer)
+- Didier Briel (projektinvetäjä)
+- Alex Buloichik (pääkehittäjä)
 - Sabine Cretella
 - Dmitri Gabinski
-- Jean-Christophe Helary (support group owner, localisation manager)
-- Maxym Mykhalchuk (lead developer)
+- Jean-Christophe Helary (tukiryhmän omistaja, lokalisointikoordinaattori)
+- Maxym Mykhalchuk (pääkehittäjä)
 - Samuel Murray
-- Henry Pijffers (release manager)
-- Marc Prior (project co-ordinator, webmaster)
+- Henry Pijffers (jakelukoordinaattori)
+- Marc Prior (projektikoordinaattori, sivustovastaava)
 - Vito Smolej (documentation manager)</seg>
       </tuv>
     </tu>
@@ -8110,8 +8110,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T103155Z" creationid="piav" creationdate="20191211T102950Z">
-        <seg>He, jotka ovat antaneet koodia käyttöön, on kerrottu tiedostossa /docs/contributors.txt. </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T103204Z" creationid="piav" creationdate="20191211T102950Z">
+        <seg>Kaikki, jotka ovat antaneet koodia käyttöön, on kerrottu tiedostossa /docs/contributors.txt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23086,6 +23086,16 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T065419Z" creationid="piav" creationdate="20190521T180614Z">
         <seg>Edelliset ja seuraavat kappaleet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous contributors include:
+(alphabetical order)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T103224Z" creationid="piav" creationdate="20191211T103224Z">
+        <seg>Aikaisempia koodintuottajia ovat:
+(aakkosjärjestyksessä)</seg>
       </tuv>
     </tu>
     <tu>
