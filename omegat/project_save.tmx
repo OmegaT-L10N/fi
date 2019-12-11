@@ -2543,8 +2543,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; starts in console mode to perform one of the following services automatically</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T130010Z" creationid="piav" creationdate="20191201T130010Z">
-        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; käynnistyy konsolitilassa ja suorittaa yhden seuraavista palveluista automaattisesti:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T151721Z" creationid="piav" creationdate="20191201T130010Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;…&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; käynnistyy konsolitilassa ja suorittaa yhden seuraavista palveluista automaattisesti:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9282,8 +9282,8 @@ bittiavaruus.</seg>
       <tuv lang="EN">
         <seg>DeepL Api key not available.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190916T142317Z" creationid="piav" creationdate="20190916T142000Z">
-        <seg>DeepL API -avain ei saatavilla..</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T151702Z" creationid="piav" creationdate="20190916T142000Z">
+        <seg>DeepL API -avain ei saatavilla.</seg>
       </tuv>
     </tu>
     <tu>
