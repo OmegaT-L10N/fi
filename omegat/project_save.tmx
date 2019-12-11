@@ -11953,7 +11953,7 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191210T172258Z" creationid="piav" creationdate="20191210T172250Z">
+      <tuv lang="FI" changeid="piav" changedate="20191211T085557Z" creationid="piav" creationdate="20191210T172250Z">
         <seg>Käyttäjä voi esimerkiksi kirjoittaa oman käyttöoppaansa tai tehdä oman OmegaT-esittelyvideon. Jos tuotos on projektin mielestä jollakin tapaa hyödyllinen, se todennäköisesti tarjotaan koko yhteisön käyttöön.</seg>
       </tuv>
     </tu>
@@ -13153,8 +13153,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T075206Z" creationid="piav" creationdate="20191211T075206Z">
-        <seg>Käyttöopas voi kuitenkin olla vanhentunut (ja siksi hämmentävä käyttää), ja ohjelmassa voi olla joitakin bugeja.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T085613Z" creationid="piav" creationdate="20191211T075206Z">
+        <seg>Käsikirja voi kuitenkin olla vanhentunut (ja siksi hämmentävä käyttää), ja ohjelmassa voi olla joitakin bugeja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20029,6 +20029,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T133401Z" creationid="piav" creationdate="20190916T133401Z">
         <seg>OmegaT ei pääse järjestelmäominaisuuteen, jossa on käyttöjärjestelmäsi nimi ja/tai järjestelmäominaisuuteen, jossa on kotikansiosi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is supplied with a comprehensive user manual.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T085701Z" creationid="piav" creationdate="20191211T085701Z">
+        <seg>OmegaT:n käsikirja on kattava.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27291,8 +27299,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T081127Z" creationid="piav" creationdate="20191211T074935Z">
-        <seg>OmegaT:n standardiversiosta on täydellinen käyttöopas (ainakin englanniksi), ja sen testauksen aikana löytyneet on korjattu.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T085610Z" creationid="piav" creationdate="20191211T074935Z">
+        <seg>OmegaT:n standardiversiosta on täydellinen käsikirja (ainakin englanniksi), ja sen testauksen aikana löytyneet on korjattu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30840,6 +30848,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T085806Z" creationid="piav" creationdate="20191211T085721Z">
+        <seg>Löydät käsikirjan OmegaT-ohjelmasta valitsemalla kohdan Ohjeet &gt; Käsikirja tai painamalla F1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and un-comment the line &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; by removing the &lt;l2&gt;&lt;!--&lt;/l2&gt; and &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T161454Z" creationid="piav" creationdate="20191210T161352Z">
@@ -32777,7 +32793,7 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>User manuals</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191023T065607Z" creationid="PiaVee" creationdate="20171219T093754Z">
+      <tuv lang="FI" changeid="piav" changedate="20191211T085617Z" creationid="PiaVee" creationdate="20171219T093754Z">
         <seg>Käsikirjat</seg>
       </tuv>
     </tu>
