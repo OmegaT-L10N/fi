@@ -11550,10 +11550,10 @@ kukaan ei kuule.</seg>
 Gossamer threads hold you back
 404 not found</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T144614Z" creationid="piav" creationdate="20191211T130058Z">
-        <seg>Kadonnut sivu,
-tuhka tuuleen hävinnyt
-lopullisesti.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T150539Z" creationid="piav" creationdate="20191211T150539Z">
+        <seg>Verkkosivusto
+saapunut tiensä päähän.
+Virheilmoitus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13557,6 +13557,18 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T064755Z" creationid="piav" creationdate="20191023T064755Z">
         <seg>Ohjeet-valikko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help you are seeking
+From your path it is fleeing
+Its winter has come</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T145739Z" creationid="piav" creationdate="20191211T145739Z">
+        <seg>Kadonnut sivu,
+tuhka tuuleen hävinnyt
+lopullisesti.</seg>
       </tuv>
     </tu>
     <tu>
