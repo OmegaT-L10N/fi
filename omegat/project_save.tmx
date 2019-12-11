@@ -29898,8 +29898,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
         <seg>The license of each library is mentioned in
 /lib/licenses/Licenses.txt.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T095413Z" creationid="piav" creationdate="20191211T095356Z">
-        <seg>Jokaisen kirjaston lisenssi kerrottu kohdassa
+      <tuv lang="FI" changeid="piav" changedate="20191211T150913Z" creationid="piav" creationdate="20191211T095356Z">
+        <seg>Jokaisen kirjaston lisenssi on kerrottu kohdassa
 /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
