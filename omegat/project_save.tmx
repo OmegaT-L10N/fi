@@ -6215,6 +6215,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Susan Welsh (Open Document Format).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090357Z" creationid="piav" creationdate="20191211T090326Z">
+        <seg>Laatijana Susan Welsh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Susan Welsh (PDF format).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090338Z" creationid="piav" creationdate="20191211T090338Z">
+        <seg>Laatijana Susan Welsh (PDF-muo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By Takashi Miyamoto (in Japanese).</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094731Z" creationid="PiaVee" creationdate="20171219T094731Z">
@@ -19895,6 +19911,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT for Beginners tutorial</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090359Z" creationid="piav" creationdate="20191211T090319Z">
+        <seg>OmegaT for Beginners tutorial (PDF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T084159Z" creationid="piav" creationdate="20191211T084159Z">
@@ -27489,6 +27513,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The HTML user manual for OmegaT standard version.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090232Z" creationid="piav" creationdate="20191211T090232Z">
+        <seg>OmegaT-standariversion netissä oleva HTML-käsikirja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The JRE is now supplied with OmegaT and need not be obtained separately.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T080008Z" creationid="piav" creationdate="20191211T080008Z">
@@ -28369,6 +28401,14 @@ instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T163326Z" creationid="piav" creationdate="20191209T163307Z">
         <seg>Voit valita seuraavista hakumenetelmistä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following tutorials are available online/for download:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090310Z" creationid="piav" creationdate="20191211T090310Z">
+        <seg>Seuraavia opasohjelmia löytyy verkosta tai ne voi ladata omalle koneelle:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31841,6 +31881,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tutorials</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090246Z" creationid="piav" creationdate="20191211T090246Z">
+        <seg>Opasohjelmat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Twi</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082149Z" creationid="PiaVee" creationdate="20171015T082149Z">
@@ -32825,8 +32873,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="EN">
         <seg>User manual online</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T090037Z" creationid="piav" creationdate="20191211T090037Z">
-        <seg>Online-käsikirja</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090212Z" creationid="piav" creationdate="20191211T090037Z">
+        <seg>Käsikirja netissä</seg>
       </tuv>
     </tu>
     <tu>
