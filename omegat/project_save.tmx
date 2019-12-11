@@ -10753,6 +10753,19 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Emptiness of soul
+Forever aching blackness
+Your help page not found</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T145029Z" creationid="piav" creationdate="20191211T145029Z">
+        <seg>Ohjesivusto
+vain muistona mielessä,
+kaukana, poissa.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Empty lines are accepted and comment lines should start with "//".</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T053237Z" creationid="piav" creationdate="20191023T053237Z">
@@ -11535,9 +11548,9 @@ No one hears your screams</seg>
 Gossamer threads hold you back
 404 not found</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T140509Z" creationid="piav" creationdate="20191211T130058Z">
-        <seg>Sivu katosi
-kuin tuhka tuuleen, mennyt
+      <tuv lang="FI" changeid="piav" changedate="20191211T144614Z" creationid="piav" creationdate="20191211T130058Z">
+        <seg>Kadonnut sivu,
+tuhka tuuleen hävinnyt
 lopullisesti.</seg>
       </tuv>
     </tu>
@@ -29749,10 +29762,10 @@ instead.</seg>
 Lies beyond our perception
 But others await</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T144519Z" creationid="piav" creationdate="20191211T144046Z">
+      <tuv lang="FI" changeid="piav" changedate="20191211T144618Z" creationid="piav" creationdate="20191211T144046Z">
         <seg>Turhaa teet työtä,
 etsimääsi sivua
-ei enää löydy.</seg>
+ei enää ole.</seg>
       </tuv>
     </tu>
     <tu>
