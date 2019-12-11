@@ -1640,6 +1640,14 @@ Lisää projektitiedostoja napsauttamalla Projektin tiedostot -ikkunan tai Proje
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T102121Z" creationid="piav" creationdate="20191211T102121Z">
+        <seg>/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T153427Z" creationid="piav" creationdate="20191209T153427Z">
@@ -3367,6 +3375,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T122157Z" creationid="piav" creationdate="20191128T122157Z">
         <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T102131Z" creationid="piav" creationdate="20191211T102103Z">
+        <seg>&lt;suoritettavan Java-tiedoston nimi ja polku&gt; -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -17662,6 +17678,16 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launching OmegaT from the command line (all systems)
+====================================================</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T102019Z" creationid="piav" creationdate="20191211T102019Z">
+        <seg>OmegaT:n käynnistäminen komentoriviltä (kaikki käyttöjärjestelmät)
+====================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lead developer</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T083927Z" creationid="PiaVee" creationdate="20171219T083927Z">
@@ -29043,6 +29069,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The command to launch OmegaT is:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T102114Z" creationid="piav" creationdate="20191211T102026Z">
+        <seg>Komento, joka käynnistää OmegaT:n, on</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The computer, running OmegaT, has Russian as the default language, and thus shows the characters in the Cyrillic alphabet and not in Kanji.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171220T111716Z" creationid="PiaVee" creationdate="20171220T111716Z">
@@ -32436,6 +32470,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use this script you must first install Kaptain.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T101905Z" creationid="piav" creationdate="20191211T101905Z">
+        <seg>Jotta voit käyttää tätä komentoa, sinun on ensin asennettava Kaptain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use this script, open a terminal
 window (console), change folder to the folder containing OmegaT.jar and the
 linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
@@ -35553,6 +35595,16 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You
+can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T101945Z" creationid="piav" creationdate="20191211T101945Z">
+        <seg>Voit
+sitten suorittaa Kaptain-käynnistyskomentosarjan painamalla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You achieve the same by clearing the target segment and pressing &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T142816Z" creationid="piav" creationdate="20191030T142816Z">
@@ -37081,6 +37133,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T114542Z" creationid="piav" creationdate="20191201T114542Z">
         <seg>cd /usr/local/omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd &lt;folder where the file OmegaT.jar is located&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T102041Z" creationid="piav" creationdate="20191211T102041Z">
+        <seg>cd &lt;kansio, jossa tiedosto OmegaT.jar on&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40059,6 +40119,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T101739Z" creationid="piav" creationdate="20191211T101739Z">
         <seg>omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat.kaptn</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T101949Z" creationid="piav" creationdate="20191211T101949Z">
+        <seg>omegat.kaptn</seg>
       </tuv>
     </tu>
     <tu>
