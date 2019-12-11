@@ -15826,6 +15826,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can also be obtained using the git command:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T085332Z" creationid="piav" creationdate="20191211T085332Z">
+        <seg>Version saa myös git-komennolla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can also be used in all the input fields found in &lt;a7&gt;OmegaT&lt;/a7&gt; - in the search window, for segmentation rules etc.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T124640Z" creationid="piav" creationdate="20191127T124640Z">
@@ -15966,6 +15974,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T121516Z" creationid="piav" creationdate="20191127T122148Z">
         <seg>Voit käyttää &lt;u0&gt;Apache Ant-syntaksin&lt;/u0&gt; mukaisia yleismerkkejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is recommended for serious developers and testers only.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T085314Z" creationid="piav" creationdate="20191211T085314Z">
+        <seg>Se on tarkoitettu ainoastaan todellisille kehittäjille ja testaajille.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21331,6 +21347,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Periodic builds are available on Sourceforge.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T085348Z" creationid="piav" creationdate="20191211T085348Z">
+        <seg>Öiset käännökset löytyvät Sourceforgesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Persian</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081045Z" creationid="PiaVee" creationdate="20171015T081045Z">
@@ -25892,6 +25916,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source code packages are not required by users and are intended for developers only.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T085418Z" creationid="piav" creationdate="20191211T085418Z">
+        <seg>Tavallinen käyttäjä ei tarvitse lähdekoodipaketteja, vaan ne on tarkoitettu vain ohjelmistokehittäjille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source count</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081833Z" creationid="piav" creationdate="20190522T081822Z">
@@ -27273,6 +27305,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "master" (alpha) version reflects the very latest state of development.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T085219Z" creationid="piav" creationdate="20191211T085219Z">
+        <seg>Alfavaiheen master-versio edustaa kehityksen viimeisintä vaihetta,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "master" version is a cutting-edge, "alpha" version, still in development.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T082551Z" creationid="piav" creationdate="20191211T081806Z">
@@ -27678,6 +27718,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
         <seg>The application runs on your machine only.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T112443Z" creationid="piav" creationdate="20191201T112443Z">
+        <seg>Sovellus on käynnissä ainostaan omalla koneellasi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The application runs on your machine.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T085133Z" creationid="piav" creationdate="20191211T085133Z">
         <seg>Sovellus on käynnissä ainostaan omalla koneellasi.</seg>
       </tuv>
     </tu>
@@ -34724,6 +34772,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Your documents and translation memories remain on your computer, and the OmegaT project will have no access to your work or information.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T085146Z" creationid="piav" creationdate="20191211T085146Z">
+        <seg>Käyttämäsi asiakirjat ja käännösmuistit pysyvät omalla koneellasi, eikä OmegaT-projektilla ole pääsyä työhösi tai tietoihisi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Your new shortcuts should now appear next to the menu items you have modified.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T061736Z" creationid="piav" creationdate="20191023T061635Z">
@@ -36473,6 +36529,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081407Z" creationid="PiaVee" creationdate="20171015T081407Z">
         <seg>gd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T085333Z" creationid="piav" creationdate="20191211T085333Z">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
       </tuv>
     </tu>
     <tu>
