@@ -5157,6 +5157,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An introductory video to OmegaT in English by John Moran.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T091512Z" creationid="piav" creationdate="20191211T091512Z">
+        <seg>OmegaT-esittelyvideo englanniksi, laatijana John Moran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T094316Z" creationid="piav" creationdate="20190522T094316Z">
@@ -20063,6 +20071,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT introduction tutorial</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T091446Z" creationid="piav" creationdate="20191211T091441Z">
+        <seg>OmegaT introduction tutorial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T184225Z" creationid="piav" creationdate="20190521T181303Z">
@@ -20279,6 +20295,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T180925Z" creationid="piav" creationdate="20190521T180925Z">
         <seg>OmegaT-versio {0}, päivitys {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT videos on the Qabiria YouTube channel.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T091413Z" creationid="piav" creationdate="20191211T091333Z">
+        <seg>Qabirian YouTube-kanavalla olevat OmegaT-videot</seg>
       </tuv>
     </tu>
     <tu>
@@ -22202,16 +22226,16 @@ projektin ilman ryhmäominaisuutta.</seg>
       <tuv lang="EN">
         <seg>Procedure for using OmegaT to localize Magento.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T090910Z" creationid="piav" creationdate="20191211T090859Z">
-        <seg>Tapa, jolla OmegaT:tä voi käyttää Magenton lokalisointiin.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T091515Z" creationid="piav" creationdate="20191211T090859Z">
+        <seg>Tapa, jolla OmegaT:tä voi käyttää Magenton lokalisointiin</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Procedure for using OmegaT to localize XLIFF files exported from Wordpress.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T090936Z" creationid="piav" creationdate="20191211T090936Z">
-        <seg>Tapa, jolla OmegaT:tä voi käyttää Wordpressistä tuotujen XLIFF-tiedostojen kääntämiseen.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T091518Z" creationid="piav" creationdate="20191211T090936Z">
+        <seg>Tapa, jolla OmegaT:tä voi käyttää Wordpressistä tuotujen XLIFF-tiedostojen kääntämiseen</seg>
       </tuv>
     </tu>
     <tu>
