@@ -13479,6 +13479,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If in doubt, select this option.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T074613Z" creationid="piav" creationdate="20191211T074613Z">
+        <seg>Jos et ole varma järjestelmäsi sisällöstä, valitse tämä vaihtoehto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If in doubt, select this version.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T072943Z" creationid="piav" creationdate="20191211T072943Z">
@@ -26865,6 +26873,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T074456Z" creationid="piav" creationdate="20191211T074456Z">
+        <seg>OmegaT:n "paristollinen" versio, jossa oma Java Runtime Environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T121359Z" creationid="piav" creationdate="20191129T121359Z">
@@ -27873,6 +27889,14 @@ instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T093947Z" creationid="PiaVee" creationdate="20171219T093947Z">
         <seg>Ylivoimaisesti suurin osa OmegaT-projektin parissa tehdystä työstä on tehty vapaaehtoisvoimin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The included JRE is the 64-bit version.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T074648Z" creationid="piav" creationdate="20191211T074648Z">
+        <seg>Asennuksen mukana tulee 64-bittinen JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30033,6 +30057,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T074412Z" creationid="piav" creationdate="20191211T074412Z">
         <seg>Tätä JRE-versiota on turvallista käyttää, sillä se toimii ainoastaan paikallisessa OmegaT:ssä eikä aiheuta ristiriitaa muiden JRE-asennusten kanssa tai korvaa tai poista niitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This version will take longer to download and will require more space on your hard drive, but you can be confident that it will run.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T074548Z" creationid="piav" creationdate="20191211T074548Z">
+        <seg>Tämän version lataaminen kestää muita kauemmin, ja se vie enemmän tilaa kovalevyllä, mutta voit olla varma, että se toimii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33158,6 +33190,22 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T163631Z" creationid="piav" creationdate="20191210T163631Z">
         <seg>Windowsissa suoritettava versio Toxicista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T074632Z" creationid="piav" creationdate="20191211T074632Z">
+        <seg>Versio, jossa on 64-bittinen JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With JRE</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T074426Z" creationid="piav" creationdate="20191211T074426Z">
+        <seg>Versio, jossa on JRE</seg>
       </tuv>
     </tu>
     <tu>
