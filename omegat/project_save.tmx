@@ -14098,6 +14098,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T083142Z" creationid="piav" creationdate="20191211T083115Z">
+        <seg>Jos olet varma siitä, että koneellasi on jo sopiva JRE-versio, voit asentaa OmegaT:n, jossa ei ole JRE:tä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T072803Z" creationid="piav" creationdate="20191211T072748Z">
@@ -14132,8 +14140,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T074148Z" creationid="piav" creationdate="20191211T074148Z">
-        <seg>Jos et ole varma, onko järjestelmässäsi sopivaa JRE:tä, voit talentaa ja asentaa OmegaT-version, jossa on JRE.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T083120Z" creationid="piav" creationdate="20191211T074148Z">
+        <seg>Jos et ole varma, onko järjestelmässäsi sopivaa JRE:tä, voit tallentaa ja asentaa OmegaT-version, jossa on JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14838,6 +14846,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T133815Z" creationid="piav" creationdate="20191030T133534Z">
         <seg>Voit muokata tai laajentaa segmentointisäännöstöä napsauttamalla ikkunan yläosan taulukossa olevaa nimeä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T083058Z" creationid="piav" creationdate="20191211T083058Z">
+        <seg>Jotta OmegaT toimisi, koneellasi on oltava Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27965,6 +27981,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T083225Z" creationid="piav" creationdate="20191211T083225Z">
+        <seg>Lataaminen käy nopeasti, ja asennus vaatii vain vähän tilaa kovalevyltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The encoding of glossaries is determined automatically.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T080931Z" creationid="piav" creationdate="20191022T080900Z">
@@ -33591,6 +33615,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T122455Z" creationid="piav" creationdate="20191129T121717Z">
         <seg>Tätä tapaa käyttämällä voit ladata ohjelmasta myös ilman JRE-ympäristöä olevan "Windows without JRE"-version, sillä uusi asennus käyttää koneellasi jo olevaa JRE-ympäristöä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With/without JRE</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T083037Z" creationid="piav" creationdate="20191211T083037Z">
+        <seg>JRE:llinen tai ilman sitä</seg>
       </tuv>
     </tu>
     <tu>
