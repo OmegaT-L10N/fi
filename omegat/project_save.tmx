@@ -17667,6 +17667,16 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Licensing information
+=====================</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T094915Z" creationid="piav" creationdate="20191211T094915Z">
+        <seg>Tietoa lisensseistä
+=====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Limburgish, Limburgan, Limburger</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T181402Z" creationid="PiaVee" creationdate="20171014T174811Z">
@@ -20653,6 +20663,16 @@ translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T171156Z" creationid="piav" creationdate="20191210T171156Z">
         <seg>OmegaT on avoimen lähdekoodin sovellus ja projekti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is available under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T095313Z" creationid="piav" creationdate="20191211T095313Z">
+        <seg>OmegaT on lisensoitu GNU General Public Licencen (GNU GPL) eli GNU-hankkeen yleisellä lisenssillä, jonka julkaisija on Free Software Foundation. Lisenssin versionumero on 3 tai (niin halutessasi) sitä uudempi.</seg>
       </tuv>
     </tu>
     <tu>
