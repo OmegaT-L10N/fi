@@ -16006,6 +16006,16 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
+=========================================</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T100629Z" creationid="piav" creationdate="20191211T100629Z">
+        <seg>OmegaT:n asentaminen Solarikseen, FreeBSD:hen jne
+=========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
@@ -32289,6 +32299,18 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T105248Z" creationid="piav" creationdate="20191208T105248Z">
         <seg>Näppäinyhdistelmä &lt;g4&gt;Ctrl+R&lt;/g4&gt; korvaa kaiken kohdekentän tekstin valitulla osumalla, ja &lt;g5&gt;Ctrl+I&lt;/g5&gt; lisää osuman kohdistimen kohdalle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use this script, open a terminal
+window (console), change folder to the folder containing OmegaT.jar and the
+linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T100603Z" creationid="piav" creationdate="20191211T100430Z">
+        <seg>Käytä tätä komentosarjaa pääteikkunassa:
+siirry kansioon, jossa tiedosto onOmegaT.jar ja komentosarja linux-install.sh
+ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
