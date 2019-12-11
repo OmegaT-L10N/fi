@@ -17355,6 +17355,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mac OS X has a feature called Gatekeeper that increases security by making it difficult to run unsigned programs.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T083940Z" creationid="piav" creationdate="20191211T083940Z">
+        <seg>Gatekeeper on macOS:n ominaisuus, joka tekee allekirjoittamattomien ohjelmien ajamisesta vaikeaa ja parantaa näin turvallisuutta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac OS X users, note: use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; shortcut and &lt;e4&gt;not &lt;/e4&gt;cmd+Ctrl+O.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T124930Z" creationid="piav" creationdate="20191127T124706Z">
@@ -19835,6 +19843,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T080658Z" creationid="piav" creationdate="20191128T080658Z">
         <seg>OmegaT käyttää erittäin tiukkoja menettelytapoja käännösmuistien (TMX-tiedostojen) lataamiseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T084159Z" creationid="piav" creationdate="20191211T084159Z">
+        <seg>OmegaT:stä on olemassa sekä allekirjoitettu että allekirjoittamaton versio Maciin. Niissä on samat toiminnot, mutta on suositeltavaa käyttää allekirjoitettua versiota, sillä järjestelmä tunnistaa sen tunnistetun kehittäjän ohjelmaksi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25456,6 +25472,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T103955Z" creationid="piav" creationdate="20191030T075128Z">
         <seg>Näyttää kohdan, jossa voit muokata näytön tekstin fonttia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Signed/Unsigned</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T083855Z" creationid="piav" creationdate="20191211T083855Z">
+        <seg>Allekirjoitettu/allekirjoittamaton</seg>
       </tuv>
     </tu>
     <tu>
