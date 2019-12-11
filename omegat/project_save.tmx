@@ -4149,8 +4149,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T181429Z" creationid="piav" creationdate="20190521T181429Z">
-        <seg>OmegaT-projektipäällikkö on Aaron Madlon-Kay.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T102916Z" creationid="piav" creationdate="20190521T181429Z">
+        <seg>OmegaT-projektinvetäjä on Aaron Madlon-Kay.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8108,6 +8108,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T103155Z" creationid="piav" creationdate="20191211T102950Z">
+        <seg>He, jotka ovat antaneet koodia käyttöön, on kerrottu tiedostossa /docs/contributors.txt. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributors
 ============</seg>
       </tuv>
@@ -10044,8 +10052,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Documentation manager</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T101417Z" creationid="PiaVee" creationdate="20171219T083838Z">
-        <seg>Dokumentaatiopäällikkö</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T102816Z" creationid="PiaVee" creationdate="20171219T083838Z">
+        <seg>Dokumentaatiokoordinaattori</seg>
       </tuv>
     </tu>
     <tu>
@@ -16271,8 +16279,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="EN">
         <seg>Integration manager</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083945Z" creationid="PiaVee" creationdate="20171219T083919Z">
-        <seg>Integrointipäällikkö</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T102803Z" creationid="PiaVee" creationdate="20171219T083919Z">
+        <seg>Integrointikoordinaattori</seg>
       </tuv>
     </tu>
     <tu>
@@ -18164,8 +18172,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="EN">
         <seg>Localization manager, user group owner</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083959Z" creationid="PiaVee" creationdate="20171219T083651Z">
-        <seg>Lokalisointipäällikkö, käyttäjäryhmän omistaja</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T102832Z" creationid="PiaVee" creationdate="20171219T083651Z">
+        <seg>Lokalisointikoordinaattori, käyttäjäryhmän omistaja</seg>
       </tuv>
     </tu>
     <tu>
@@ -23436,7 +23444,7 @@ projektin ilman ryhmäominaisuutta.</seg>
       <tuv lang="EN">
         <seg>Project manager</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083940Z" creationid="PiaVee" creationdate="20171219T083940Z">
+      <tuv lang="FI" changeid="piav" changedate="20191211T102847Z" creationid="PiaVee" creationdate="20171219T083940Z">
         <seg>Projektipäällikkö</seg>
       </tuv>
     </tu>
@@ -34771,8 +34779,8 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
       <tuv lang="EN">
         <seg>Website manager</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T083950Z" creationid="PiaVee" creationdate="20171219T083912Z">
-        <seg>Nettisivupäällikkö</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T102812Z" creationid="PiaVee" creationdate="20171219T083912Z">
+        <seg>Nettisivukoordinaattori</seg>
       </tuv>
     </tu>
     <tu>
