@@ -11058,8 +11058,10 @@ kaukana, poissa.
 I am the Blue Screen of Death
 No one hears your screams</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T144145Z" creationid="piav" creationdate="20191211T144145Z">
-        <seg>Sininen ruutu.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T145209Z" creationid="piav" creationdate="20191211T144145Z">
+        <seg>Sininen ruutu.
+Vaikka huudat apua,
+kukaan ei kuule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23789,6 +23791,19 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T124825Z" creationid="PiaVee" creationdate="20171218T124800Z">
         <seg>vaihtaa kirjoitussuuntaa vasemmalta oikealle ja oikealta vasemmalle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rather than beep
+Or a rude error message
+These words: 'Page not found'</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T145335Z" creationid="piav" creationdate="20191211T145335Z">
+        <seg>Pois netistä, pois
+välimuistista
+Katosi sivu,
+meni pois </seg>
       </tuv>
     </tu>
     <tu>
