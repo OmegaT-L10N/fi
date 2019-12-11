@@ -3603,6 +3603,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T073129Z" creationid="piav" creationdate="20191211T073129Z">
+        <seg>&lt;s1&gt;Etu&lt;/s1&gt;: Kun olet kerran käynnistänyt tämän, kaikki tulevat Web Start -päivitykset asentuvat tietokoneellesi automaattisesti.&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T073149Z" creationid="piav" creationdate="20191211T073149Z">
+        <seg>&lt;s3&gt;Haitta&lt;/s3&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T060000Z" creationid="piav" creationdate="20191023T054558Z">
@@ -13403,6 +13419,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T125339Z" creationid="piav" creationdate="20191201T125339Z">
         <seg>Jos polku on annettu, &lt;a2&gt;OmegaT&lt;/a2&gt; käynnistyy konsolitilassa ja kääntää kyseisen projektin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If in doubt, select this version.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T072943Z" creationid="piav" creationdate="20191211T072943Z">
+        <seg>Jos olet epävarma, valitse tämä versio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27051,6 +27075,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T073043Z" creationid="piav" creationdate="20191211T073043Z">
+        <seg>Web Start -versio on asenna-ja-unohda-versio.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The above method somewhat impractical way of launching a program routinely.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T114937Z" creationid="piav" creationdate="20191201T114937Z">
@@ -28795,6 +28827,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T114826Z" creationid="piav" creationdate="20191127T114826Z">
         <seg>Käyttäjä voi kuitenkin joutua luomaan erityisen säännöstön, joka koskee kyseistä projektia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T072932Z" creationid="piav" creationdate="20191211T072932Z">
+        <seg>OmegaT:n vanhoille käyttäjille tuttu itse asennettava versio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32508,6 +32548,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20170908T124921Z" creationid="PiaVee" creationdate="20170908T124921Z">
         <seg>Etsimääsi sivua ei löytynyt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Web Start</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T073024Z" creationid="piav" creationdate="20191211T073024Z">
+        <seg>Web Start</seg>
       </tuv>
     </tu>
     <tu>
