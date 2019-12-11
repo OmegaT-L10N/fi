@@ -3707,6 +3707,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>===============</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T094807Z" creationid="piav" creationdate="20191211T094807Z">
+        <seg>===============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>@TRANSLATION_NOTICE@</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T094757Z" creationid="piav" creationdate="20191211T094757Z">
+        <seg>@KÄÄNNÖSHUOMAUTUS@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A "translated" External View file is produced by entering the translation in the target column.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T161229Z" creationid="PiaVee" creationdate="20171014T155925Z">
@@ -6991,6 +7007,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check for inconsistent numbers</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T094607Z" creationid="piav" creationdate="20191211T094607Z">
+        <seg>Tarkista epäyhtenäiset numerot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check for leading whitespace</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T094221Z" creationid="piav" creationdate="20191211T094221Z">
@@ -7015,6 +7039,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check for segments with spelling errors</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T094618Z" creationid="piav" creationdate="20191211T094618Z">
+        <seg>Tarkista segmenttien oikeinkirjoitus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check for shorter target</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T094423Z" creationid="piav" creationdate="20191211T094423Z">
@@ -7027,6 +7059,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T094234Z" creationid="piav" creationdate="20191211T094234Z">
         <seg>Tarkista lopussa olevat tyhjätilamerkit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for untranslated segments</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T094532Z" creationid="piav" creationdate="20191211T094532Z">
+        <seg>Tarkista kääntämättömät segmentit</seg>
       </tuv>
     </tu>
     <tu>
@@ -7055,6 +7095,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check number of tags</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T094541Z" creationid="piav" creationdate="20191211T094541Z">
+        <seg>Tarkista tägien numerot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check or uncheck the rules depending on whether they are relevant to the type of text you are translating.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T140523Z" creationid="piav" creationdate="20191030T140523Z">
@@ -7071,10 +7119,26 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check sequence of tags</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T094557Z" creationid="piav" creationdate="20191211T094557Z">
+        <seg>Tarkista tägien järjestys</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check simple &amp;java MessageFormat patterns (e.g. {0})</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T105557Z" creationid="piav" creationdate="20190916T125613Z">
         <seg>Tarkista yksinkertaiset Java-kielen MessageFormat-muodot (esim. {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check spaces around tags</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T094551Z" creationid="piav" creationdate="20191211T094551Z">
+        <seg>Tarkista välilyönnit tägien ympärillä</seg>
       </tuv>
     </tu>
     <tu>
@@ -20547,6 +20611,16 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T091446Z" creationid="piav" creationdate="20191211T091441Z">
         <seg>OmegaT introduction tutorial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
+tool with fuzzy matching, translation memory, keyword search, glossaries, and
+translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T094903Z" creationid="piav" creationdate="20191211T094903Z">
+        <seg>OmegaT on vapaa ja avoin CAT-ohjelma eli tietokoneavusteisen kääntämisen työkalu eli, joka toimii eri käyttöjärjestelmissä. OmegaT tarjoaa käännöstyön avuksi käännösmuistin, erilaisia sanastoja sekä sumeita käännösosumia, ja kokoaa käännökset resursseineen käännösprojekteiksi, joita on helppo hallita ja päivittää.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34309,6 +34383,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082311Z" creationid="PiaVee" creationdate="20171015T082311Z">
         <seg>länsifriisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is OmegaT?</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T094806Z" creationid="piav" creationdate="20191211T094803Z">
+        <seg>Mikä OmegaT on?</seg>
       </tuv>
     </tu>
     <tu>
