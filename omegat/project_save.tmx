@@ -4931,6 +4931,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T085923Z" creationid="piav" creationdate="20191211T085852Z">
+        <seg>Pika-aloitusopas selvittää sinulle OmegaT:n päätoiminnot ja -ominaisuudet. Se näkyy OmegaT:n käyttöliittymässä aina, kun ohjelma avataan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An OmegaT project is a folder containing files and subfolders.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T115244Z" creationid="piav" creationdate="20191208T115244Z">
@@ -12791,6 +12799,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTML user manual online</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090203Z" creationid="piav" creationdate="20191211T090203Z">
+        <seg>HTML-käsikirja netissä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTML, XHTML, ODF and Infix segmentation</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T102339Z" creationid="piav" creationdate="20190913T102339Z">
@@ -15854,6 +15870,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T145358Z" creationid="PiaVee" creationdate="20171014T145358Z">
         <seg>Se paljastaa myös joitain kielioppivirheitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090023Z" creationid="piav" creationdate="20191211T090023Z">
+        <seg>Käsikirja on OmegaT-ohjelmakansion alikansiossa /docs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29479,6 +29503,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The user manual for OmegaT in PDF format ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090057Z" creationid="piav" creationdate="20191211T090057Z">
+        <seg>OmegaT:n käsikirja PDF-tiedostona ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The user, however, may need to generate a set of rules, specific to the project in question.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T114826Z" creationid="piav" creationdate="20191127T114826Z">
@@ -32791,6 +32823,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User manual online</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090037Z" creationid="piav" creationdate="20191211T090037Z">
+        <seg>Online-käsikirja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User manuals</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T085617Z" creationid="PiaVee" creationdate="20171219T093754Z">
@@ -34311,6 +34351,14 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T154609Z" creationid="piav" creationdate="20191209T154609Z">
         <seg>Voit lisätä MediaWiki-muotoisia nettisivujen lähdetiedostoja napsauttamalla painiketta &lt;g3&gt;Tuo MediaWikistä&lt;/g3&gt; ja kirjoittamalla vastaavan URL-osoitteen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T085958Z" creationid="piav" creationdate="20191211T085958Z">
+        <seg>Voit käyttää OmegaT-käsikirjaa myös ilman, että itse ohjelma on käynnissä.</seg>
       </tuv>
     </tu>
     <tu>
