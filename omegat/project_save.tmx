@@ -14996,6 +14996,16 @@ avulla.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If, during installation, you have created a shortcut on the desktop,
+double-click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T101058Z" creationid="piav" creationdate="20191211T101058Z">
+        <seg>Jos olet asennuksen yhteydessä luonut työpöydälle ohjelmaikonin,
+kaksoisnapsauta sitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If, for whatever reason, you need to do this from time to time, it may make sense to copy the files involved to a different folder, reserved just for use by OmegaT.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T115316Z" creationid="piav" creationdate="20191023T115316Z">
@@ -16007,8 +16017,8 @@ avulla.</seg>
         <seg>Installing OmegaT (Linux)
 =========================</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T100159Z" creationid="piav" creationdate="20191211T100159Z">
-        <seg>OmegaT:n asentaminen Linuxiin
+      <tuv lang="FI" changeid="piav" changedate="20191211T101007Z" creationid="piav" creationdate="20191211T100159Z">
+        <seg>OmegaT:n asentaminen (Linux)
 =========================</seg>
       </tuv>
     </tu>
@@ -16017,8 +16027,8 @@ avulla.</seg>
         <seg>Installing OmegaT (Mac)
 =======================</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T095723Z" creationid="piav" creationdate="20191211T095632Z">
-        <seg>OmegaT:n asentaminen Macissa
+      <tuv lang="FI" changeid="piav" changedate="20191211T101000Z" creationid="piav" creationdate="20191211T095632Z">
+        <seg>OmegaT:n asentaminen (Mac)
 =======================</seg>
       </tuv>
     </tu>
@@ -16027,8 +16037,8 @@ avulla.</seg>
         <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
 =========================================</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T100629Z" creationid="piav" creationdate="20191211T100629Z">
-        <seg>OmegaT:n asentaminen Solarikseen, FreeBSD:hen jne
+      <tuv lang="FI" changeid="piav" changedate="20191211T101019Z" creationid="piav" creationdate="20191211T100629Z">
+        <seg>OmegaT:n asentaminen (Solaris, FreeBSD jne.)
 =========================================</seg>
       </tuv>
     </tu>
@@ -16037,8 +16047,8 @@ avulla.</seg>
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T095637Z" creationid="piav" creationdate="20191211T095616Z">
-        <seg>OmegaT:n asentaminen Windowsissa
+      <tuv lang="FI" changeid="piav" changedate="20191211T100953Z" creationid="piav" creationdate="20191211T095616Z">
+        <seg>OmegaT:n asentaminen (Windows)
 ===========================</seg>
       </tuv>
     </tu>
@@ -17571,6 +17581,16 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T152421Z" creationid="piav" creationdate="20191202T152352Z">
         <seg>Valinta käynnistää numeroon yhdistetyn komentosarjan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT (Windows)
+==========================</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T100949Z" creationid="piav" creationdate="20191211T100949Z">
+        <seg>OmegaT:n käynnistäminen (Windows)
+==========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -29470,6 +29490,16 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The installer can create shortcuts for you in the start menu, on the desktop and
+in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T101134Z" creationid="piav" creationdate="20191211T101134Z">
+        <seg>Asennusohjelma voi luoda pikavalintoja käynnistysvalikkoon, työpöydälle
+ja pikakäynnistysalueelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The interval of 3 minutes can be changed in &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Preferences&lt;/g3&gt; &lt;g4&gt;Saving and Output&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T112145Z" creationid="piav" creationdate="20191129T112107Z">
@@ -35588,6 +35618,16 @@ Sekä täsmähaussa että avainsanahaussa voidaan käyttää yleismerkkejä * ja
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T113742Z" creationid="piav" creationdate="20191023T113742Z">
         <seg>Voit myös ohjastaa oikeinkirjoituksen tarkistuksen ohittamaan kaikki väärin kirjoitetun sanan esiintymät tai lisäämään sen sanakirjaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also manually drag the file OmegaT.exe to the
+start menu, the desktop or the quick launch area to link it from there.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T101229Z" creationid="piav" creationdate="20191211T101229Z">
+        <seg>Voit myös itse luoda linkkejä vetämällä OmegaT.exe-tiedoston
+käynnistysvalikkoon, työpöydälle tai pikakäynnistysalueelle.</seg>
       </tuv>
     </tu>
     <tu>
