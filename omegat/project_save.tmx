@@ -3603,6 +3603,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T083657Z" creationid="piav" creationdate="20191211T083657Z">
+        <seg>&lt;s0&gt;Linux-käyttäjille:&lt;/s0&gt; Useimmissa Linux-jakeluissa on Java Runtime Environment, mutta joissakin avoimen lähdekoodin ympäristöissä oleva versio ei toimi kunnolla OmegaT:n kanssa (vaikka sitä ei välttämättä huomaa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T175726Z" creationid="piav" creationdate="20191210T175716Z">
@@ -14130,6 +14138,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T083723Z" creationid="piav" creationdate="20191211T083723Z">
+        <seg>Jos Linux on sinulle suhteelisen uusi tuttavuus, sinun kannattaa valita OmegaT, jossa on JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T074833Z" creationid="piav" creationdate="20191211T074833Z">
@@ -14142,6 +14158,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T083120Z" creationid="piav" creationdate="20191211T074148Z">
         <seg>Jos et ole varma, onko järjestelmässäsi sopivaa JRE:tä, voit tallentaa ja asentaa OmegaT-version, jossa on JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T083549Z" creationid="piav" creationdate="20191211T083549Z">
+        <seg>Jos et ole varma, onko käytössäsi sopivaa JRE:tä, valitse versio, jossa on JRE (tai oletusversio).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15974,6 +15998,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191203T140246Z" creationid="piav" creationdate="20191203T140207Z">
         <seg>Segmentti näkyy kahtena osana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is therefore always safe to install the version of OmegaT with JRE.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T083520Z" creationid="piav" creationdate="20191211T083520Z">
+        <seg>Siksi JRE:llinen OmegaT on aina turvallinen asentaa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18223,6 +18255,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T124510Z" creationid="PiaVee" creationdate="20171015T124510Z">
         <seg>Lisää</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T083808Z" creationid="piav" creationdate="20191211T083808Z">
+        <seg>Kokeneemmille Linux-käyttäjäjille voi olla parempaa asentaa Oraclen (entisen Sunin) JRE järjestelmätasolle.</seg>
       </tuv>
     </tu>
     <tu>
