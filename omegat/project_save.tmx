@@ -6959,6 +6959,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check for leading whitespace</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T094221Z" creationid="piav" creationdate="20191211T094221Z">
+        <seg>Tarkista alussa olevat tyhjätilamerkit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check for possible Tag errors with &lt;k0&gt;Ctrl+T &lt;/k0&gt;and untranslated segments with &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T082830Z" creationid="piav" creationdate="20191128T082830Z">
@@ -9382,6 +9390,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Different punctuation</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093930Z" creationid="piav" creationdate="20191211T093930Z">
+        <seg>Välimerkit eri tavoin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Different start case</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T094020Z" creationid="piav" creationdate="20191211T094020Z">
+        <seg>Erilainen alkukirjaimen koko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Diptik</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094200Z" creationid="PiaVee" creationdate="20171219T094200Z">
@@ -10739,6 +10763,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T074719Z" creationid="piav" creationdate="20190916T131023Z">
         <seg>Kirjoituskelpoisen sanaston termit on lihavoitu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Equal source &amp; target</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T094029Z" creationid="piav" creationdate="20191211T094029Z">
+        <seg>Kohde ja lähde samat</seg>
       </tuv>
     </tu>
     <tu>
@@ -15518,6 +15550,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T150604Z" creationid="PiaVee" creationdate="20171014T150604Z">
         <seg>Yhteensopivuusongelmat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inconsistent numbers</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T094151Z" creationid="piav" creationdate="20191211T094151Z">
+        <seg>Epäyhtenäiset numerot</seg>
       </tuv>
     </tu>
     <tu>
@@ -26836,6 +26876,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spelling errors(s)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T094204Z" creationid="piav" creationdate="20191211T094204Z">
+        <seg>Oikeinkirjoitusvirhe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Split</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T131813Z" creationid="piav" creationdate="20190920T131813Z">
@@ -27526,6 +27574,30 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tags - number</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T094119Z" creationid="piav" creationdate="20191211T094104Z">
+        <seg>Tägien numerot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags - order</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T094126Z" creationid="piav" creationdate="20191211T094116Z">
+        <seg>Tägien järjestys</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags - spaces</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T094122Z" creationid="piav" creationdate="20191211T094109Z">
+        <seg>Tägien välilyönnit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tagwipe</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T092723Z" creationid="piav" creationdate="20191211T092723Z">
@@ -27624,16 +27696,16 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Target longer</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T093847Z" creationid="piav" creationdate="20191211T093831Z">
-        <seg>Alkuperäistä pitempi kohde</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093912Z" creationid="piav" creationdate="20191211T093831Z">
+        <seg>Kohde pitempi kuin alkuperäinen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Target shorter</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T093903Z" creationid="piav" creationdate="20191211T093825Z">
-        <seg>Kohde pitempi kuin alkuperäinen</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093916Z" creationid="piav" creationdate="20191211T093825Z">
+        <seg>Kohde lyhyempi kuin alkuperäinen</seg>
       </tuv>
     </tu>
     <tu>
@@ -33043,6 +33115,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T135340Z" creationid="piav" creationdate="20191127T135340Z">
         <seg>Kun opettelet käyttämään &lt;a0&gt;OmegaT&lt;/a0&gt;:tä, luo käännettyjä tiedostoja säännöllisin väliajoin ja tarkista, että tiedostossa on käännöksen uusin versio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segment</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T094055Z" creationid="piav" creationdate="20191211T094055Z">
+        <seg>Kääntämätön segmentti</seg>
       </tuv>
     </tu>
     <tu>
