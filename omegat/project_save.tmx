@@ -10054,6 +10054,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-click on the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T101434Z" creationid="piav" creationdate="20191211T101434Z">
+        <seg>Kaksoisnapsauta OmegaT-appia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double-clicking on a segment opens it in the Editor for modifications (one single click does it when &lt;e0&gt;Auto-sync with Editor&lt;/e0&gt; option is checked).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T171237Z" creationid="piav" creationdate="20191209T171105Z">
@@ -14674,6 +14682,17 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
+Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T101412Z" creationid="piav" creationdate="20191211T101412Z">
+        <seg>Jos Tiedostonhallinnassa (Windowin Resurssienhallinnassa) näkyy tiedosto OmegaT
+muttei OmegaT.exe, muuta asetuksia niin, että tiedostopäätteet
+näkyvät.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T124315Z" creationid="piav" creationdate="20191201T124125Z">
@@ -17581,6 +17600,16 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T152421Z" creationid="piav" creationdate="20191202T152352Z">
         <seg>Valinta käynnistää numeroon yhdistetyn komentosarjan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT (Mac)
+======================</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T101426Z" creationid="piav" creationdate="20191211T101426Z">
+        <seg>OmegaT:n käynnistäminen (Mac)
+======================</seg>
       </tuv>
     </tu>
     <tu>
@@ -35993,6 +36022,16 @@ sarjaa linux-install.sh.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190521T090201Z" creationid="PiaVee" creationdate="20171015T101217Z">
         <seg>Voit kopioida tiedostoja projektin lähdetekstikansioon (/source) myös tiedostonhallintaohjelmassa. Lataa tämän jälkeen projekti uudelleen (Projekti-valikko &gt; Lataa uudelleen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may drag the OmegaT application to your dock or to the toolbar of a Finder
+window to be able to launch it from any location.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T101551Z" creationid="piav" creationdate="20191211T101551Z">
+        <seg>Voit vetää OmegaT-apin Dockiin tai Finder-ikkunan työkaluriville, niin voit
+käynnistää ohjelman mistä tahansa.</seg>
       </tuv>
     </tu>
     <tu>
