@@ -6215,6 +6215,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090556Z" creationid="piav" creationdate="20191211T090556Z">
+        <seg>Laatijana heila Gomes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By Susan Welsh (Open Document Format).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T090357Z" creationid="piav" creationdate="20191211T090326Z">
@@ -6225,8 +6233,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>By Susan Welsh (PDF format).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T090338Z" creationid="piav" creationdate="20191211T090338Z">
-        <seg>Laatijana Susan Welsh (PDF-muo).</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090402Z" creationid="piav" creationdate="20191211T090338Z">
+        <seg>Laatijana Susan Welsh</seg>
       </tuv>
     </tu>
     <tu>
@@ -6235,6 +6243,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094731Z" creationid="PiaVee" creationdate="20171219T094731Z">
         <seg>Takashi Miyamoto (kieli: japani)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Vladimir Zhdanov (in Russian).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090424Z" creationid="piav" creationdate="20191211T090413Z">
+        <seg>Laatijana Vladimir Zhdanov</seg>
       </tuv>
     </tu>
     <tu>
@@ -11207,6 +11223,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External documentation</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090600Z" creationid="piav" creationdate="20191211T090600Z">
+        <seg>Ulkoinen dokumentaatio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External tools can be used to convert files to supported formats.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T110513Z" creationid="piav" creationdate="20191129T110513Z">
@@ -15294,6 +15318,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T133902Z" creationid="piav" creationdate="20190916T133902Z">
         <seg>Info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Information on procedures and features of OmegaT for advanced users which can be found on other sites.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090726Z" creationid="piav" creationdate="20191211T090726Z">
+        <seg>OmegaT:n toimintoja ja ominaisuuksia edistyneille käyttäjille, joita löytyy muilta sivuilta:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22716,6 +22748,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T065353Z" creationid="piav" creationdate="20190521T135735Z">
         <seg>Rekursiivinen haku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recursos do OmegaT: primeiros passos</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090524Z" creationid="piav" creationdate="20191211T090426Z">
+        <seg>Recursos do OmegaT: primeiros passos (brasilianportugaliksi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30328,8 +30368,8 @@ palvelimelta.</seg>
       <tuv lang="EN">
         <seg>This is necessary even if there's only one combination available, like &lt;l4&gt;pt_BR&lt;/l4&gt; in case of Brazilian Portuguese.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T120855Z" creationid="piav" creationdate="20191201T120855Z">
-        <seg>Tämä on pakollista, vaikka kielen ja maan yhdistelmiä olisi vain yksi, kuten esimerkiksi &lt;l4&gt;pt_BR&lt;/l4&gt;, Brasilian portugali.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090540Z" creationid="piav" creationdate="20191201T120855Z">
+        <seg>Tämä on pakollista, vaikka kielen ja maan yhdistelmiä olisi vain yksi, kuten esimerkiksi &lt;l4&gt;pt_BR&lt;/l4&gt;, brasilianportugali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40997,6 +41037,14 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T175538Z" creationid="piav" creationdate="20191210T175538Z">
         <seg>×</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T090419Z" creationid="piav" creationdate="20191211T090406Z">
+        <seg>В помощь переводчику: 10 советов по OmegaT (venäjäksi)</seg>
       </tuv>
     </tu>
     <tu>
