@@ -11525,10 +11525,10 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
 Gossamer threads hold you back
 404 not found</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T130300Z" creationid="piav" creationdate="20191211T130058Z">
-        <seg>Sivu kadonnut
-kuin tuhka tuuleen, poissa
-lopullisesti</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T140509Z" creationid="piav" creationdate="20191211T130058Z">
+        <seg>Sivu katosi
+kuin tuhka tuuleen, mennyt
+lopullisesti.</seg>
       </tuv>
     </tu>
     <tu>
