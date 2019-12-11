@@ -1582,10 +1582,26 @@ Kysymysmerkki ? vastaa yhtä merkkiä: hakulauseke 'run?' vastaa sanoja 'runs' t
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(In English)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T092249Z" creationid="piav" creationdate="20191211T092249Z">
+        <seg>englanniksi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In Italian)</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T091828Z" creationid="piav" creationdate="20191211T091828Z">
         <seg>(italiaksi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(In Russian)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T092256Z" creationid="piav" creationdate="20191211T092256Z">
+        <seg>venäjäksi</seg>
       </tuv>
     </tu>
     <tu>
@@ -6035,6 +6051,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T173716Z" creationid="PiaVee" creationdate="20171014T173716Z">
         <seg>bislama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Blog pages on OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T092240Z" creationid="piav" creationdate="20191211T092240Z">
+        <seg>OmegaT:tä käsitteleviä blogikirjoituksia</seg>
       </tuv>
     </tu>
     <tu>
@@ -20063,6 +20087,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T092401Z" creationid="piav" creationdate="20191211T092352Z">
+        <seg>OmegaT:llä on aktiivinen ja monikielinen käyttäjäryhmä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T080040Z" creationid="piav" creationdate="20191211T080040Z">
@@ -25948,6 +25980,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Social Networks</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T092517Z" creationid="piav" creationdate="20191211T092446Z">
+        <seg>Nettiyhteisöt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Somali</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081530Z" creationid="PiaVee" creationdate="20171015T081530Z">
@@ -30530,6 +30570,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T152839Z" creationid="piav" creationdate="20191022T152839Z">
         <seg>Tätä tarvitaan silloin, kun haluat etsiä osumia jollekin metamerkille ( !$()*+.&lt;&gt;?[\]^{|} ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the &lt;a0&gt;recommended support channel&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T092437Z" creationid="piav" creationdate="20191211T092437Z">
+        <seg>Tämä on &lt;a0&gt;suositeltu tukikanava&lt;/a0&gt;, johon käyttäjien kannattaa liittyä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40541,6 +40589,14 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T110820Z" creationid="piav" creationdate="20191129T110820Z">
         <seg>käännä tiedosto ja luo siitä ODT-tiedosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>translation industry</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T092219Z" creationid="piav" creationdate="20191211T092219Z">
+        <seg>käännösteollisuudesta</seg>
       </tuv>
     </tu>
     <tu>
