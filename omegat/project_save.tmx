@@ -9902,6 +9902,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Doubled blanks</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093812Z" creationid="piav" creationdate="20191211T093812Z">
+        <seg>Tuplavälilyönnit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Doubled words</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093816Z" creationid="piav" creationdate="20191211T093816Z">
+        <seg>Kahteen kertaan kirjoitetut sanat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Doublet KK</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094201Z" creationid="PiaVee" creationdate="20171219T094201Z">
@@ -17171,6 +17187,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTools Rules</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093730Z" creationid="piav" creationdate="20191211T093730Z">
+        <seg>LanguageTool-säännöt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171014T161830Z" creationid="PiaVee" creationdate="20171014T161830Z">
@@ -24282,6 +24306,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rule</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093725Z" creationid="piav" creationdate="20191211T093725Z">
+        <seg>Sääntö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T140723Z" creationid="piav" creationdate="20190916T140723Z">
@@ -27586,6 +27618,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T120708Z" creationid="piav" creationdate="20190920T120708Z">
         <seg>Kohdekansiota {0} ei ole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target longer</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093847Z" creationid="piav" creationdate="20191211T093831Z">
+        <seg>Alkuperäistä pitempi kohde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target shorter</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093903Z" creationid="piav" creationdate="20191211T093825Z">
+        <seg>Kohde pitempi kuin alkuperäinen</seg>
       </tuv>
     </tu>
     <tu>
@@ -34429,6 +34477,22 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T085355Z" creationid="piav" creationdate="20190522T063755Z">
         <seg>Tyhjätila</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace - leading</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093739Z" creationid="piav" creationdate="20191211T093739Z">
+        <seg>Alussa oleva tyhjätila</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace - trailing</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T093756Z" creationid="piav" creationdate="20191211T093756Z">
+        <seg>Lopussa oleva tyhjätila</seg>
       </tuv>
     </tu>
     <tu>
