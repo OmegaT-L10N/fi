@@ -24552,6 +24552,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Requests for Enhancements (in English), at the SourceForge site:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T103817Z" creationid="piav" creationdate="20191211T103817Z">
+        <seg>Muutos- tai parannusehdotukset (RFE) SourceForgen (englanniksi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Requirements</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T075840Z" creationid="piav" creationdate="20191211T075840Z">
@@ -34245,6 +34253,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T080536Z" creationid="piav" creationdate="20191211T080536Z">
         <seg>Käyttövaatimukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User support resources:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T103654Z" creationid="piav" creationdate="20191211T103654Z">
+        <seg>Resurssit käyttäjän tueksi:</seg>
       </tuv>
     </tu>
     <tu>
