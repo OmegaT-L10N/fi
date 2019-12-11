@@ -11497,8 +11497,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T080329Z" creationid="piav" creationdate="20191211T080329Z">
-        <seg>Vanhemmat MS Word-, Excel- ja Powerpoint-tiedostot täytyy ennen kääntämistä muuttaa vastaaviin nykyisiin Microsoft Office -muotoihin tai Office Open XML -muotoon, jonka voi tehdä OpenOffice.orgissa tai LibreOfficessa (jotka ovat myös vapaita)</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T080403Z" creationid="piav" creationdate="20191211T080329Z">
+        <seg>Vanhemmat MS Word-, Excel- ja Powerpoint-tiedostot täytyy ennen kääntämistä muuttaa vastaaviin nykyisiin Microsoft Office -muotoihin tai Office Open XML -muotoon, jonka voi tehdä OpenOffice.orgissa tai LibreOfficessa (sielläkin vapaasti).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29399,11 +29399,12 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>	</note>
       <tuv lang="EN">
         <seg>Third-party software</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191210T165317Z" creationid="piav" creationdate="20191210T165317Z">
-        <seg>Kolmannen osapuolen ohjelmisto</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T080509Z" creationid="piav" creationdate="20191210T165317Z">
+        <seg>Kolmannen osapuolen ohjelmistot</seg>
       </tuv>
     </tu>
     <tu>
@@ -30691,6 +30692,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T150805Z" creationid="piav" creationdate="20191209T150742Z">
         <seg>Voit muuttaa yhden tai useamman segmentin sijaintia valitsemalla se/ne ja painamalla &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Siirrä ylöspäin&lt;/g1&gt;)- tai &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Siirrä alaspäin&lt;/g3&gt;) -näppäintä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T080442Z" creationid="piav" creationdate="20191211T080442Z">
+        <seg>Vasemmalta löytyvästä linkistä Kolmannen osapuolen ohjelmisto Löydät OpenOffice.orgin ja LibreOfficen vasemmalta </seg>
       </tuv>
     </tu>
     <tu>
