@@ -17691,6 +17691,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Master</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T082501Z" creationid="piav" creationdate="20191211T082501Z">
+        <seg>Master</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Master Password</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T134325Z" creationid="piav" creationdate="20190920T134325Z">
@@ -27115,8 +27123,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "master" version is a cutting-edge, "alpha" version, still in development.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T081806Z" creationid="piav" creationdate="20191211T081806Z">
-        <seg>Tätä uusinta uutta edustavaa "alpha"-versiota kehitetään vielä.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191211T082551Z" creationid="piav" creationdate="20191211T081806Z">
+        <seg>Tätä uusinta uutta edustavaa alfavaiheen master-versiota kehitetään vielä.</seg>
       </tuv>
     </tu>
     <tu>
