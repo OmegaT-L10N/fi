@@ -11487,6 +11487,22 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T080106Z" creationid="piav" creationdate="20191211T080106Z">
+        <seg>Microsoft Officen XML-muotoisia tiedostoja voi kääntää suoraan OmegaT:ssä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T080329Z" creationid="piav" creationdate="20191211T080329Z">
+        <seg>Vanhemmat MS Word-, Excel- ja Powerpoint-tiedostot täytyy ennen kääntämistä muuttaa vastaaviin nykyisiin Microsoft Office -muotoihin tai Office Open XML -muotoon, jonka voi tehdä OpenOffice.orgissa tai LibreOfficessa (jotka ovat myös vapaita)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Files must be deleted first by the project manager, and then locally.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T112825Z" creationid="piav" creationdate="20191129T112739Z">
@@ -19639,6 +19655,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T080040Z" creationid="piav" creationdate="20191211T080040Z">
+        <seg>OmegaT:n asentaminen onnistuu Windosiin (versiosta 98 alkaen), macOS:ään ja Linuxiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T101302Z" creationid="PiaVee" creationdate="20171015T101302Z">
@@ -27101,6 +27125,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191208T110803Z" creationid="piav" creationdate="20191208T110722Z">
         <seg>Sanastoruudussa näet sanoja ja erikoistermejä, joita olet koonnut omiin sanastotiedostoihisi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The JRE is now supplied with OmegaT and need not be obtained separately.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191211T080008Z" creationid="piav" creationdate="20191211T080008Z">
+        <seg>Nykyisin OmegaT:n mukana saa sopivan JRE:n, eikä sitä tarvitse asentaa erikseen.</seg>
       </tuv>
     </tu>
     <tu>
