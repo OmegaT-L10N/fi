@@ -2719,8 +2719,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): a dynamic language for the Java Virtual machine.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191212T074637Z" creationid="piav" creationdate="20191212T074637Z">
-        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): Dynaaminen a dynamic language for the Java Virtual machine.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191212T074702Z" creationid="piav" creationdate="20191212T074637Z">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): Dynaaminen kieli Java VM:ää varten</seg>
       </tuv>
     </tu>
     <tu>
@@ -34987,6 +34987,14 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you left-click the number, the selected script will run.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T074757Z" creationid="piav" creationdate="20191212T074757Z">
+        <seg>Kun napsautat numeroa hiiren ykköspainikkeella, niin valittu komentosarja suoritetaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you move to another segment, the translation is validated and stored.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191203T141203Z" creationid="piav" creationdate="20191203T141150Z">
@@ -35787,6 +35795,14 @@ käynnistysvalikkoon, työpöydälle tai pikakäynnistysalueelle.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191201T134028Z" creationid="piav" creationdate="20191201T134028Z">
         <seg>Voit myös suorittaa ohjelman suoraan komennolla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also start the selected macros from the main menu by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075005Z" creationid="piav" creationdate="20191212T075005Z">
+        <seg>Voit käynnistää valitut makrot myös &lt;g0&gt;Työkalut&lt;/g0&gt;-valikosta tai painamalla näppäinyhdistelmää &lt;k1&gt;Ctrl+Alt+F#&lt;/k1&gt; (# tarkoittaa numeroita 1–12). </seg>
       </tuv>
     </tu>
     <tu>
