@@ -6533,6 +6533,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, scripts are stored in the &lt;f0&gt;scripts&lt;/f0&gt; folder located in the OmegaT installation folder (the folder that contains the &lt;f1&gt;OmegaT.jar&lt;/f1&gt; file).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075052Z" creationid="piav" creationdate="20191212T075052Z">
+        <seg>Komentosarjojen oletussijainti on OmegaT-asennuskansiossa oleva &lt;f0&gt;scripts&lt;/f0&gt;-kansio. (Asennuskansio on se, jossa &lt;f1&gt;OmegaT.jar&lt;/f1&gt;-tiedosto sijaitsee.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T073848Z" creationid="piav" creationdate="20191128T073550Z">
@@ -14688,6 +14696,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T143352Z" creationid="piav" creationdate="20191030T143347Z">
         <seg>Jos lisäät etuliitteen (esimerkiksi [fuzzy]), voit myöhemmin palata näihin kohtiin tarkistamaan, onko käännös oikein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you add new scripts there, they will appear in the list of available scripts in the &lt;g0&gt;Scripting&lt;/g0&gt; window.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075119Z" creationid="piav" creationdate="20191212T075119Z">
+        <seg>Jos lisäät kansioon lisää komentosarjoja, ne tulevat näkyviin &lt;g0&gt;Komentosarjat&lt;/g0&gt;-ikkunan komentosarjaluettelossa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25374,6 +25390,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scripting languages</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075149Z" creationid="piav" creationdate="20191212T075149Z">
+        <seg>Komentosarjakielet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scripting plug-in</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T161804Z" creationid="piav" creationdate="20191210T161804Z">
@@ -26898,6 +26922,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T081530Z" creationid="PiaVee" creationdate="20171015T081530Z">
         <seg>somali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075146Z" creationid="piav" creationdate="20191212T075146Z">
+        <seg>Muutamia lisäkomentosarjoja löytyy täältä: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29527,6 +29559,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following scripting languages have been implemented:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075206Z" creationid="piav" creationdate="20191212T075206Z">
+        <seg>Voit käyttää seuraavia komentosarjakieliä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following search methods are available:</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T163326Z" creationid="piav" creationdate="20191209T163307Z">
@@ -30942,6 +30982,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T133446Z" creationid="piav" creationdate="20190916T133446Z">
         <seg>Siksi OmegaT:n asetuskansiota ei voi määrittää luotettavasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These are the files present in the /source folder in a format that OmegaT is able to recognize.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075226Z" creationid="piav" creationdate="20191212T075226Z">
+        <seg>– Nämä ovat /source-kansiossa olevia tiedostoja, jotka ovat OmegaT:n tunnistamassa tiedostomuodossa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38715,6 +38763,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T095808Z" creationid="PiaVee" creationdate="20171219T095808Z">
         <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075121Z" creationid="piav" creationdate="20191212T075121Z">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
       </tuv>
     </tu>
     <tu>
