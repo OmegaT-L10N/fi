@@ -5383,6 +5383,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any text, already translated and stored in those files, will appear among the fuzzy matches, if it is sufficiently similar to the text currently being translated.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T080244Z" creationid="piav" creationdate="20191212T080244Z">
+        <seg>Mikä tahansa jo käännetty tekstinpätkä, joka on tallennettu TMX-tiedostoon, näkyy sumeiden osumien listalla, kunhan teksti vain vastaa riittävän hyvin käännettävänä olevaa tekstiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T053337Z" creationid="piav" creationdate="20191023T053337Z">
@@ -12593,6 +12601,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T080357Z" creationid="piav" creationdate="20191212T080357Z">
+        <seg>Esimerkiksi (jos oletuskäytös on valittu) lisäkäännösmuistista tuleva käännös otetaan käyttöön ja merkitään etuliitteellä &lt;e3&gt;[fuzzy]&lt;/e3&gt;, jotta kääntäjä voi myöhemmin tarkastaa käännökset ja tarkistaa, ovatko tällä merkinnällä varustetut käännökset oikein&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, &lt;l0&gt;'run?'&lt;/l0&gt; would match the word &lt;l1&gt;'runs'&lt;/l1&gt; and &lt;l2&gt;'runn'&lt;/l2&gt; in the word &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T162921Z" creationid="piav" creationdate="20191209T162921Z">
@@ -14592,6 +14608,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T135515Z" creationid="piav" creationdate="20191127T135515Z">
         <seg>Jos lähdetiedosto on muuttunut sen jälkeen, kun olet alkanut kääntää, &lt;a1&gt;OmegaT&lt;/a1&gt; ei välttämättä löydä segmenttiä, jonka olet jo kääntänyt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialog window.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T080321Z" creationid="piav" creationdate="20191212T080321Z">
+        <seg>Jos jossakin lisäkäännösmuistissa oleva lähdekielinen segmentti on täsmälleen samanlainen kuin käännettävä segmentti, OmegaT toimii kuten valintaikkunassa &lt;m0&gt; &lt;g1&gt;Valinnat&lt;/g1&gt; &lt;g2&gt;Muokkaustapa…&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16808,6 +16832,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T175248Z" creationid="piav" creationdate="20191210T175248Z">
         <seg>OmegaT:ssä on mahdollista ottaa käyttöön myös ulkopuolisten kehittäjien laatimia kehityksiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It may happen, that translation memories, available in the &lt;f0&gt;tm&lt;/f0&gt; subfolder, contain segments with identical source text, but differing targets.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T080416Z" creationid="piav" creationdate="20191212T080416Z">
+        <seg>Voi olla, että &lt;f0&gt;tm&lt;/f0&gt;-alikansion käännösmuisteissa on identtisiä lähdekielisiä segmenttejä, joiden käännökset eroavat toisistaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28024,6 +28056,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TMX files are read sorted by their names and segments within a given TMX file line by line.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T080429Z" creationid="piav" creationdate="20191212T080429Z">
+        <seg>TMX-tiedostot luetaan niiden nimien mukaisessa järjestyksessä, ja yhden käännösmuistin segmentit luetaan rivi riviltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TMX files of localizations of the OmegaT documentation and of this site, for use by localizers.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T165312Z" creationid="piav" creationdate="20191210T165039Z">
@@ -29125,6 +29165,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The best thing of course is to use OmegaT-specific TMX files (see above), so that the in-line formatting within the segment is retained.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T080139Z" creationid="piav" creationdate="20191212T080139Z">
+        <seg>Parasta on tietysti käyttää erityisesti OmegaT:tä varten olevia TMX-tiedostoja (ks. yllä), jolloin segmentit sisäiset inline-muotoilut säilyvät ennallaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The carriage-return character ('\u000D')</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T151055Z" creationid="piav" creationdate="20191022T150814Z">
@@ -29322,6 +29370,14 @@ instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191212T075953Z" creationid="piav" creationdate="20191212T075953Z">
         <seg>Target-alikansion sisältö kuvaa käännöstyön senhetkistä tilaa sellaisena, kuin se on projektin käännösmuistissa (tallennettuna tiedostoon &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The contents of translation memories in the tm subfolder serve to generate suggestions for the text(s) to be translated.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T080207Z" creationid="piav" creationdate="20191212T080207Z">
+        <seg>OmegaT etsii (sumeita) käännösosumia alikansiossa tm olevista käännösmuisteista.</seg>
       </tuv>
     </tu>
     <tu>
