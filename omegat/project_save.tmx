@@ -2815,8 +2815,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;No:&lt;/e0&gt; obtain a Java JRE for your system (see below) and download &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191201T110013Z" creationid="piav" creationdate="20191201T110013Z">
-        <seg>&lt;e0&gt;Ei:&lt;/e0&gt; Hanki järjestelmääsi sopiva Java JRE -ympärist (ks. alla) ja lataa tiedosto &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191212T060053Z" creationid="piav" creationdate="20191201T110013Z">
+        <seg>&lt;e0&gt;Ei:&lt;/e0&gt; Hanki järjestelmääsi sopiva Java JRE -ympäristö (ks. alla) ja lataa tiedosto &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
