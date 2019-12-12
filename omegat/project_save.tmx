@@ -1535,9 +1535,9 @@
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190521T141339Z" creationid="piav" creationdate="20190521T141339Z">
-        <seg>Asteriski * vastaa mitä tahansa merkkiä, joita voi olla nolla, yksi tai useampi: hakulauseke 'run*' vastaa sanoja 'run', 'runs', 'running' jne.
-Kysymysmerkki ? vastaa yhtä merkkiä: hakulauseke 'run?' vastaa sanoja 'runs' tai 'rung', mutta ei sanoja 'run' tai 'running'.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191212T055934Z" creationid="piav" creationdate="20190521T141339Z">
+        <seg>Asteriski * vastaa mitä tahansa merkkiä, joita voi olla nolla, yksi tai useampi: hakulauseke run* vastaa sanoja run, runs, running jne.
+Kysymysmerkki ? vastaa yhtä merkkiä: hakulauseke run? vastaa sanoja runs tai rung, mutta ei sanoja run tai running.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5715,16 +5715,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T094426Z" creationid="piav" creationdate="20190523T172019Z">
-        <seg>Korvaa otsakkeen kohta 'nplurals=INTEGER; plural=EXPRESSION;' automaattisesti</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191212T055941Z" creationid="piav" creationdate="20190523T172019Z">
+        <seg>Korvaa otsakkeen kohta nplurals=INTEGER; plural=EXPRESSION; automaattisesti</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Auto replace 'nplurals=INTEGER; plural=EXPRESSION;' in header</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T094439Z" creationid="piav" creationdate="20191030T094417Z">
-        <seg>Korvaa otsakkeen kohta 'nplurals=INTEGER; plural=EXPRESSION;' automaattisesti</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191212T055710Z" creationid="piav" creationdate="20191030T094417Z">
+        <seg>Korvaa otsakkeen kohta nplurals=INTEGER; plural=EXPRESSION; automaattisesti</seg>
       </tuv>
     </tu>
     <tu>
@@ -11156,16 +11156,16 @@ kukaan ei kuule.</seg>
       <tuv lang="EN">
         <seg>Error initializing marker '{0}'</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T161548Z" creationid="piav" creationdate="20190523T161548Z">
-        <seg>Virhe merkinnän '{0}' alustamisessa</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191212T055829Z" creationid="piav" creationdate="20190523T161548Z">
+        <seg>Virhe merkinnän {0} alustamisessa</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Error load plugin from class '{0}': {1}: {2}</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T161810Z" creationid="piav" creationdate="20190523T161643Z">
-        <seg>Virhe liitännäisen lataamisessa luokasta '{0}': {1}: {2}</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191212T055845Z" creationid="piav" creationdate="20190523T161643Z">
+        <seg>Virhe liitännäisen lataamisessa luokasta {0}: {1}: {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11236,8 +11236,8 @@ kukaan ei kuule.</seg>
       <tuv lang="EN">
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T170846Z" creationid="piav" creationdate="20190523T170510Z">
-        <seg>Virhe poistettaessa liitännäistä käytöstä luokasta '{0}': {1}</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191212T055849Z" creationid="piav" creationdate="20190523T170510Z">
+        <seg>Virhe poistettaessa liitännäistä käytöstä luokasta {0}: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12168,8 +12168,8 @@ Virheilmoitus.</seg>
       <tuv lang="EN">
         <seg>Filter '{0}' could not be loaded from '{1}'</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T171555Z" creationid="piav" creationdate="20190523T171555Z">
-        <seg>Suodattimen '{0}' lataaminen kohteesta '{1}' ei onnistunut</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191212T055919Z" creationid="piav" creationdate="20190523T171555Z">
+        <seg>Suodattimen {0} lataaminen kohteesta {1} ei onnistunut</seg>
       </tuv>
     </tu>
     <tu>
@@ -16470,8 +16470,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="EN">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171015T083024Z" creationid="PiaVee" creationdate="20171015T083024Z">
-        <seg>Komento 'team -h' näyttää yksityiskohtaista tietoa.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191212T055652Z" creationid="PiaVee" creationdate="20171015T083024Z">
+        <seg>Komento "team -h" näyttää yksityiskohtaista tietoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20821,8 +20821,8 @@ Apit-kansioon.</seg>
       <tuv lang="EN">
         <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190916T125329Z" creationid="piav" creationdate="20190916T125137Z">
-        <seg>OmegaT voi tarkistaa myös ohjelmointimuuttujia (printf-funktion muuttujia) kuten '%s'.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191212T055946Z" creationid="piav" creationdate="20190916T125137Z">
+        <seg>OmegaT voi tarkistaa myös ohjelmointimuuttujia (printf-funktion muuttujia) kuten %s.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22874,8 +22874,8 @@ onko sinun tehtävä vielä muuta.</seg>
       <tuv lang="EN">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T171418Z" creationid="piav" creationdate="20190523T171418Z">
-        <seg>Liitännäisen lataaminen luokasta '{0}' onnistui</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191212T055854Z" creationid="piav" creationdate="20190523T171418Z">
+        <seg>Liitännäisen lataaminen luokasta {0} onnistui</seg>
       </tuv>
     </tu>
     <tu>
@@ -26584,8 +26584,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Set the segment start after a period ('.') followed by a space, tab ...</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191030T134527Z" creationid="piav" creationdate="20191030T134521Z">
-        <seg>Uusi segmentti alkaa, kun pisteen ('.') jälkeen tulee välilyönti, sarkainmerkki,…</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191212T055717Z" creationid="piav" creationdate="20191030T134521Z">
+        <seg>Uusi segmentti alkaa, kun pisteen ( . ) jälkeen tulee välilyönti, sarkainmerkki,…</seg>
       </tuv>
     </tu>
     <tu>
@@ -26936,8 +26936,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T171444Z" creationid="piav" creationdate="20190523T171444Z">
-        <seg>Ohitetaan aiemmin ladattu liitännäinen luokasta '{0}'</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191212T055858Z" creationid="piav" creationdate="20190523T171444Z">
+        <seg>Ohitetaan aiemmin ladattu liitännäinen luokasta {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -33767,8 +33767,8 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       <tuv lang="EN">
         <seg>Unknown plugin type '{0}' in '{1}'</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190523T161252Z" creationid="piav" creationdate="20190523T161252Z">
-        <seg>Tuntematon liitännäistyyppi '{0}'</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191212T055821Z" creationid="piav" creationdate="20190523T161252Z">
+        <seg>Tuntematon liitännäistyyppi {0} kohdassa {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -36472,8 +36472,8 @@ käynnistää ohjelman mistä tahansa.</seg>
       <tuv lang="EN">
         <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190916T141710Z" creationid="piav" creationdate="20190916T141710Z">
-        <seg>Sinun on päivitettävä JDK 1.6 uusimpaan verisoon tai poistettava jaxb-*.jar-tiedostot OmegaT:n /lib-kansiosta.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191212T055613Z" creationid="piav" creationdate="20190916T141710Z">
+        <seg>Sinun on päivitettävä JDK 1.6 uusimpaan versioon tai poistettava jaxb-*.jar-tiedostot OmegaT:n /lib-kansiosta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41315,8 +41315,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>search for “is”, not “this” or “isn't” etc.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191022T161145Z" creationid="piav" creationdate="20191022T161145Z">
-        <seg>Etsii sanaa "is", ei "this" tai "isn't" jne.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191212T055728Z" creationid="piav" creationdate="20191022T161145Z">
+        <seg>Etsii sanaa is, ei this tai isn't jne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42701,8 +42701,8 @@ tai</seg>
       <tuv lang="EN">
         <seg>{1}, executed from '{2}'</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20190916T133918Z" creationid="piav" creationdate="20190916T133918Z">
-        <seg>{1}, suoritussijainti '{2}'</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191212T055951Z" creationid="piav" creationdate="20190916T133918Z">
+        <seg>{1}, suoritussijainti {2}</seg>
       </tuv>
     </tu>
     <tu>
