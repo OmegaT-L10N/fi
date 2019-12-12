@@ -7597,6 +7597,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking on any file will open it for translation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075341Z" creationid="piav" creationdate="20191212T075341Z">
+        <seg>– Avaa käännettävä tiedosto napsauttamalla sitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking on one will save the current project, close it and open the other project.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191202T142827Z" creationid="piav" creationdate="20191202T142827Z">
@@ -16532,6 +16540,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It also possible to change the position of a filename, by clicking on it and pressing &lt;e0&gt;Move ...&lt;/e0&gt; buttons.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075541Z" creationid="piav" creationdate="20191212T075541Z">
+        <seg>Voit myös siirtää tiedoston sijaintia valitsemalla sen ja napsauttamalla &lt;e0&gt;Siirrä…&lt;/e0&gt;-painikkeita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T160114Z" creationid="piav" creationdate="20191209T160114Z">
@@ -20255,6 +20271,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T085001Z" creationid="piav" creationdate="20190913T075815Z">
         <seg>Huom.: Lähdetiedoston merkistökoodauksen asetukset koskevat ainoastaan HTML-tiedostoja, joissa ei ole mainintaa merkistökoodauksesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: filenames (in first column) can be sorted alphabetically by clicking in the header.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075515Z" creationid="piav" creationdate="20191212T075515Z">
+        <seg>Huom.: Voit järjestää (ensimmäisessä sarakkeessa olevat) tiedostojen nimet aakkosjärjestykseen napsauttamalla sarakkeen otsikkoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31756,6 +31780,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This number is displayed in brackets, next to the "Project file" title</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075248Z" creationid="piav" creationdate="20191212T075248Z">
+        <seg>Numero on suluissa ikkunan "Projektin tiedostot"-otsikon vieressä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T094620Z" creationid="piav" creationdate="20191030T094620Z">
@@ -33193,6 +33225,14 @@ Exact searches match the whole search string.</seg>
       <tuv lang="FI" changeid="piav" changedate="20190521T140237Z" creationid="piav" creationdate="20190521T140217Z">
         <seg>Tyypit:
 Täsmähaut etsivät koko hakustringiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typing any text will open a &lt;g0&gt;Filter&lt;/g0&gt; field where parts of filenames can be entered.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075421Z" creationid="piav" creationdate="20191212T075421Z">
+        <seg>Jos painat mitä tahansa kirjainnäppäintä, ikkunaan avutuu &lt;g0&gt;Suodatin&lt;/g0&gt;-kenttä, johon voit kirjoittaa tiedostonimen osan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36072,6 +36112,14 @@ sarjaa linux-install.sh.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T072417Z" creationid="piav" creationdate="20191128T072417Z">
         <seg>Näitä kolmea TMX-tiedostoa (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; ja &lt;f4&gt;-level2.tmx&lt;/f4&gt;) voi pitää "vientikäännösmuisteina", joihin senhetkisen projektin sisältö on viety kaksikieliseen muotoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select a file with &lt;k1&gt;Up&lt;/k1&gt; and &lt;k2&gt;Down&lt;/k2&gt; keys, and open it for translation by pressing &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075503Z" creationid="piav" creationdate="20191212T075503Z">
+        <seg>Valitse tiedosto &lt;k1&gt;ylös&lt;/k1&gt;- ja &lt;k2&gt;alas&lt;/k2&gt;-näppäimillä ja avaa se käännettäväksi painamalla &lt;k3&gt;Enter&lt;/k3&gt;-näppäintä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41599,6 +41647,14 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T083302Z" creationid="piav" creationdate="20191128T083302Z">
         <seg>projektin pääkansiosta (ks. yllä) löytyy kolme TMX-tiedostoa, joissa on lähdetiedostoon kopioitujen asiakirjojen käännökset valitulla kieliparilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the list of all translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075321Z" creationid="piav" creationdate="20191212T075321Z">
+        <seg>Luettelo kaikista projektin käännettävistä tiedostoista.</seg>
       </tuv>
     </tu>
     <tu>
