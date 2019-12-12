@@ -12142,6 +12142,14 @@ Virheilmoitus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Files within the &lt;f7&gt;source&lt;/f7&gt; folder, whether translated or not, are then generated here, with the same hierarchy as present in the source subfolder.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075932Z" creationid="piav" creationdate="20191212T075932Z">
+        <seg>Silloin kaikki &lt;f7&gt;source&lt;/f7&gt;-kansiossa olevat tiedostot luodaan tänne, olivatpa ne sitten käännettyjä tai eivät. Toiminto luo target-kansioon myös saman kansiohierarkian kuin source-kansiossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T072326Z" creationid="PiaVee" creationdate="20171218T072326Z">
@@ -20187,6 +20195,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that other CAT tools can export (and import as well) tmx files, usually in all three forms.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T080123Z" creationid="piav" creationdate="20191212T080123Z">
+        <seg>Huomaa, että muut CAT-työkalut voivat viedä (ja niihin voi tuoda) TMX-tiedostoja, yleensä kaikissa kolmessa muodossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that the "Install" function requires an Internet connection.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T111251Z" creationid="piav" creationdate="20191023T111251Z">
@@ -27776,6 +27792,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Such files can be created in any of the three varieties indicated above.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T080111Z" creationid="piav" creationdate="20191212T080111Z">
+        <seg>Käännösmuisteja voidaan luoda yhdellä kolmesta yllä mainitusta tavasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Such modifications are possible in ODF files for example.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T133558Z" creationid="piav" creationdate="20191127T133558Z">
@@ -28651,6 +28675,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The /tm/ folder can contain any number of ancillary translation memories - i.e. tmx files.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T080053Z" creationid="piav" creationdate="20191212T080053Z">
+        <seg>Kansiossa /tm/ voi olla vaikka kuinka monta lisäkäännösmuistia eli TMX-tiedostoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;a0&gt;OmegaT&lt;/a0&gt; solution</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171220T111914Z" creationid="PiaVee" creationdate="20171220T111914Z">
@@ -29282,6 +29314,14 @@ instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T083309Z" creationid="piav" creationdate="20191022T083224Z">
         <seg>Sanastoruudun sisältö päivittyy tämän mukaisesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The contents of the target subfolder will reflect the current state of the translation, as present in the project translation memory, saved in the current &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075953Z" creationid="piav" creationdate="20191212T075953Z">
+        <seg>Target-alikansion sisältö kuvaa käännöstyön senhetkistä tilaa sellaisena, kuin se on projektin käännösmuistissa (tallennettuna tiedostoon &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33791,6 +33831,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T084311Z" creationid="piav" creationdate="20190522T084311Z">
         <seg>Kääntämättömien segmenttien teksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments will hereby remain in the source language.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T080013Z" creationid="piav" creationdate="20191212T080013Z">
+        <seg>Siksi segmentit, joita ei vielä ole käännetty, ovat luoduissa tiedostoissa lähdekielisinä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41775,6 +41823,14 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171015T082021Z" creationid="PiaVee" creationdate="20171015T082021Z">
         <seg>tl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T080015Z" creationid="piav" creationdate="20191212T080015Z">
+        <seg>tm</seg>
       </tuv>
     </tu>
     <tu>
