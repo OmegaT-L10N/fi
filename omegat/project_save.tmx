@@ -2717,14 +2717,6 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): a dynamic language for the Java Virtual machine.</seg>
-      </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191209T160008Z" creationid="piav" creationdate="20191209T160006Z">
-        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): Dynaaminen Java-virtuaalikoneen kieli.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of file filters for a given project is stored as &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T120850Z" creationid="piav" creationdate="20191127T120815Z">
@@ -6529,14 +6521,6 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T123206Z" creationid="piav" creationdate="20191127T122953Z">
         <seg>Oletusarvona on, että vasemmalta oikealle luettavissa (left-to-right, LTR) kielissä käytetään vasemman reunan tasausta ja oikealta vasemmalle luettavissa (right-to-left, RTL) kielissä käytetään oikean reunan tasausta.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>By default, scripts are stored in the &lt;f0&gt;scripts&lt;/f0&gt; folder located in the OmegaT installation folder (the folder that contains the &lt;f1&gt;OmegaT.jar&lt;/f1&gt; file).</seg>
-      </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191209T155805Z" creationid="piav" creationdate="20191209T155805Z">
-        <seg>Komentosarjojen oletussijainti on OmegaT-asennuskansiossa oleva &lt;f0&gt;scripts&lt;/f0&gt;-kansio. (Asennuskansio on se, jossa &lt;f1&gt;OmegaT.jar&lt;/f1&gt;-tiedosto sijaitsee.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14696,14 +14680,6 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T143352Z" creationid="piav" creationdate="20191030T143347Z">
         <seg>Jos lisäät etuliitteen (esimerkiksi [fuzzy]), voit myöhemmin palata näihin kohtiin tarkistamaan, onko käännös oikein.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>If you add new scripts there, they will appear in the list of available scripts in the &lt;g0&gt;Scripting&lt;/g0&gt; window.</seg>
-      </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191209T155849Z" creationid="piav" creationdate="20191209T155849Z">
-        <seg>Jos lisäät kansioon lisää komentosarjoja, ne tulevat näkyviin &lt;g0&gt;Komentosarjat&lt;/g0&gt;-ikkunan komentosarjaluettelossa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25382,14 +25358,6 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Scripting languages</seg>
-      </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191209T155920Z" creationid="piav" creationdate="20191209T155920Z">
-        <seg>Komentosarjakielet</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Scripting plug-in</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T161804Z" creationid="piav" creationdate="20191210T161804Z">
@@ -26914,14 +26882,6 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T081530Z" creationid="PiaVee" creationdate="20171015T081530Z">
         <seg>somali</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
-      </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191209T155911Z" creationid="piav" creationdate="20191209T155911Z">
-        <seg>Muutamia lisäkomentosarjoja löytyy täältä: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29547,14 +29507,6 @@ instead.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T082317Z" creationid="piav" creationdate="20191128T082317Z">
         <seg>Seuraava ohje on vain yksi monista, mutta sitä on helppo seurata eikä se vaaranna resursseja.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>The following scripting languages have been implemented:</seg>
-      </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191209T155940Z" creationid="piav" creationdate="20191209T155940Z">
-        <seg>Voit käyttää seuraavia komentosarjakieliä:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35019,14 +34971,6 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>When you left-click the number, the selected script will run.</seg>
-      </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191209T155518Z" creationid="piav" creationdate="20191209T155518Z">
-        <seg>Kun napsautat numeroa hiiren ykköspainikkeella, niin komentosarja suoritetaan.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>When you move to another segment, the translation is validated and stored.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191203T141203Z" creationid="piav" creationdate="20191203T141150Z">
@@ -35827,14 +35771,6 @@ käynnistysvalikkoon, työpöydälle tai pikakäynnistysalueelle.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T134028Z" creationid="piav" creationdate="20191201T134028Z">
         <seg>Voit myös suorittaa ohjelman suoraan komennolla</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>You can also start the selected macros from the main menu by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
-      </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191209T155658Z" creationid="piav" creationdate="20191209T155658Z">
-        <seg>Voit käynnistää valitut makrot myös &lt;g0&gt;Työkalut&lt;/g0&gt;-valikosta tai painamalla näppäinyhdistelmää &lt;k1&gt;Ctrl+Alt+F#&lt;/k1&gt; (# tarkoittaa numeroita 1–12).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38747,14 +38683,6 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171219T095808Z" creationid="PiaVee" creationdate="20171219T095808Z">
         <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
-      </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191209T155850Z" creationid="piav" creationdate="20191209T155850Z">
-        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
       </tuv>
     </tu>
     <tu>
