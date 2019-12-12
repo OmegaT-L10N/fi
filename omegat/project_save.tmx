@@ -1658,6 +1658,14 @@ Lisää projektitiedostoja napsauttamalla Projektin tiedostot -ikkunan tai Proje
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075717Z" creationid="piav" creationdate="20191212T075717Z">
+        <seg>("Uniikin" määritelmä huomioi kirjainkoot: "Run" ja "run" käsitetään erilaisiksi.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(X)HTML Filter Options</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190913T081343Z" creationid="piav" creationdate="20190913T081343Z">
@@ -12022,6 +12030,14 @@ Virheilmoitus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File entries include their names, file filter types, their encoding and the number of segments each file contains</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075621Z" creationid="piav" creationdate="20191212T075621Z">
+        <seg>Tiedostoluettelo, jossa mainitaan tiedostojen nimet, niiden tiedostosuodattimet ja merkistökoodaus sekä jokaisen tiedoston segmenttien määrä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File format</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191022T080444Z" creationid="piav" creationdate="20191022T080444Z">
@@ -20067,6 +20083,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note however that the numbers do not indicate how relevant the repetitions are: they could mean relatively long sentences repeated a number of times (in which case you are fortunate) or it could describe a table of keywords (not so fortunate).</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075744Z" creationid="piav" creationdate="20191212T075744Z">
+        <seg>Huomaathan kuitenkin, että numerot eivät kerro, kuinka relevantteja toistot ovat. Kyse voi olla pitkistä lauseista, jotka toistuvat useampaan kertaan (jolloin olet onnekas) tai kyse voi olla avainsanataulukosta (jolloin otti ohraleipä).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that '*' and '?' have special meaning in regular expressions, so wild card search, as described here, applies to exact and keyword search only (see below).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T163200Z" creationid="piav" creationdate="20191209T163200Z">
@@ -24844,6 +24868,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075555Z" creationid="piav" creationdate="20191212T075555Z">
+        <seg>Jos napsautat tiedoston nimeä hiiren kakkospainikkeella, saat näkyviin ponnahdusikkunan, josta käsin voit avata lähdetiedoston ja (olemassa olevan) kohdetiedoston.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-clicking on an underlined word (Artund in the figure above) opens a drop-down menu listing suggestions for the correction (Art und).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T113703Z" creationid="piav" creationdate="20191023T113703Z">
@@ -29335,6 +29367,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The difference between "Number of segments" and "Number of unique segments" provides an approximate idea of the number of repetitions in the text.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075730Z" creationid="piav" creationdate="20191212T075730Z">
+        <seg>"Segmenttien määrän" ja "uniikkien segmenttien määrän" ero antaa aavistuksen siitä, kuinka paljon tekstissä on toistoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The difference is thin: we call "Window" a window that can stay open next to the editor and interact with it, and "dialog" a window where you must select parameters before closing it and pursuing your translation activity.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191209T144901Z" creationid="piav" creationdate="20191209T144901Z">
@@ -30429,6 +30469,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T105809Z" creationid="piav" creationdate="20191023T105739Z">
         <seg>Palvelin ei ole kelvollinen Apertium-palvelin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The set of &lt;e0&gt;Unique &lt;/e0&gt;segments is computed by taking all the segments and removing all duplicate segments.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075701Z" creationid="piav" creationdate="20191212T075701Z">
+        <seg>&lt;e0&gt;Uniikkien&lt;/e0&gt; segmenttien määrä lasketaan poistamalla kaikkien segmenttien määrästä toistuvat segmentit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31908,6 +31956,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This subfolder is initially empty.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075754Z" creationid="piav" creationdate="20191212T075754Z">
+        <seg>Tämä alikansio on aluksi tyhjä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191211T074412Z" creationid="piav" creationdate="20191211T074412Z">
@@ -32096,6 +32152,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191129T112511Z" creationid="piav" creationdate="20191129T112511Z">
         <seg>Lisää uusi lähdetiedosto näin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add contents to it, select &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Create Translated Documents&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075911Z" creationid="piav" creationdate="20191212T075911Z">
+        <seg>Luo sinne sisältöä painamalla näppäinyhdistelmää &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Projekti&lt;/g5&gt; &lt;g6&gt;Luo käännetyt tiedostot&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41655,6 +41719,14 @@ tai</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191212T075321Z" creationid="piav" creationdate="20191212T075321Z">
         <seg>Luettelo kaikista projektin käännettävistä tiedostoista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the total number of segments, the number of unique segments in the whole project, and the number of unique segments already translated are shown at the bottom</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191212T075639Z" creationid="piav" creationdate="20191212T075639Z">
+        <seg>Alimpana segmenttien yhteismäärä, koko projektin uniikkien segmenttien määrä sekä jo käännettyjen uniikkien segmenttien määrä.</seg>
       </tuv>
     </tu>
     <tu>
