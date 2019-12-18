@@ -3791,8 +3791,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="EN">
         <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191211T094757Z" creationid="piav" creationdate="20191211T094757Z">
-        <seg>@KÄÄNNÖSHUOMAUTUS@</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191218T133128Z" creationid="piav" creationdate="20191211T094757Z">
+        <seg>Kääntäjä: Pia Vinkki © 2019</seg>
       </tuv>
     </tu>
     <tu>
