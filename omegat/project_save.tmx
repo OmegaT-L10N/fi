@@ -7885,6 +7885,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compatibility</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134718Z" creationid="piav" creationdate="20191218T134718Z">
+        <seg>Yhteensopivuus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T180544Z" creationid="piav" creationdate="20191210T180544Z">
@@ -13821,6 +13829,14 @@ lopullisesti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How-To</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134706Z" creationid="piav" creationdate="20191218T134706Z">
+        <seg>Miten…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting).</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191128T080437Z" creationid="piav" creationdate="20191128T080231Z">
@@ -13873,6 +13889,62 @@ lopullisesti.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191127T134141Z" creationid="piav" creationdate="20191127T133947Z">
         <seg>Käyttäessäsi &lt;a1&gt;OmegaT&lt;/a1&gt;:tä tai mitä tahansa muuta sovellusta sinun tulisi kuitenkin huolehtia varotoimista, joilla estät tietoja katoamasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Compiling OmegaT from the source code</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134754Z" creationid="piav" creationdate="20191218T134754Z">
+        <seg>Kuinka – OmegaT:n kääntäminen lähdekoodista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134832Z" creationid="piav" creationdate="20191218T134832Z">
+        <seg>Kuinka – Vienti OmegaT:stä Trados uncleaned RTF -muotoon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - OmegaT compatibility with Déjà Vu</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134952Z" creationid="piav" creationdate="20191218T134737Z">
+        <seg>Miten tämä tehdään? – OmegaT:n yhteensopivuus Déjà Vun kanssa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Translating OmegaT into your language</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134923Z" creationid="piav" creationdate="20191218T134923Z">
+        <seg>Kuinka – OmegaT:m </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Translating PDF files with Iceni Infix and OmegaT</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134858Z" creationid="piav" creationdate="20191218T134858Z">
+        <seg>Kuinka – PDF-tiedostojen kääntäminen Iceni Infixin ja OmegaT:n avulla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Translating Word 2007 files in OmegaT</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134813Z" creationid="piav" creationdate="20191218T134813Z">
+        <seg>Kuinka – Word 2007 -tiedostojen kääntäminen OmegaT:ssä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using Google Translate in OmegaT</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134845Z" creationid="piav" creationdate="20191218T134845Z">
+        <seg>Kuinka – Google Translaten käyttö OmegaT:ssä</seg>
       </tuv>
     </tu>
     <tu>
@@ -18577,6 +18649,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Manual</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134703Z" creationid="piav" creationdate="20191218T134703Z">
+        <seg>Käyttöopas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manually defined rules</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T140552Z" creationid="piav" creationdate="20190916T140552Z">
@@ -21214,6 +21294,14 @@ käynnistettäväksi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT on Linux HowTo</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134913Z" creationid="piav" creationdate="20191218T134913Z">
+        <seg>OmegaT ja Linux -ohjeita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT on Wikipedia</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T095157Z" creationid="PiaVee" creationdate="20171219T095157Z">
@@ -22569,6 +22657,14 @@ Lähdetään kalaan.</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171218T124252Z" creationid="PiaVee" creationdate="20171218T123317Z">
         <seg>PgUp:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Philosophy</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134659Z" creationid="piav" creationdate="20191218T134659Z">
+        <seg>Filosofia</seg>
       </tuv>
     </tu>
     <tu>
@@ -24948,6 +25044,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reviews</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134715Z" creationid="piav" creationdate="20191218T134715Z">
+        <seg>Arvioinnit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reviews of OmegaT</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171219T094316Z" creationid="PiaVee" creationdate="20171219T094224Z">
@@ -25888,8 +25992,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="EN">
         <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191129T105919Z" creationid="piav" creationdate="20191129T105604Z">
-        <seg>Ks. OmegaT-sivuston kohta &lt;u0&gt;Howto – Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134947Z" creationid="piav" creationdate="20191129T105604Z">
+        <seg>Ks. OmegaT-sivuston kohta &lt;u0&gt;Miten tämä tehdään? – Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
