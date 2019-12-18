@@ -4189,6 +4189,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134544Z" creationid="piav" creationdate="20191218T134544Z">
+        <seg>Tietoja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
       </tuv>
       <tuv lang="FI" changeid="PiaVee" changedate="20171001T104347Z" creationid="PiaVee" creationdate="20171001T104347Z">
@@ -7965,6 +7973,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Connect</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134642Z" creationid="piav" creationdate="20191218T134642Z">
+        <seg>Ota yhteyttä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Connect to custom server instead of apertium.org</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T105638Z" creationid="piav" creationdate="20191023T105255Z">
@@ -8037,6 +8053,22 @@ bittiavaruus.</seg>
         <seg>Konsolin käännöstila:
 	--source-pattern=&lt;lauseke&gt;
 		Luettelo prosessoitavien lähdetiedostojen sallituista säännöllisistä lausekkeista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134629Z" creationid="piav" creationdate="20191218T134629Z">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact and Support</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134656Z" creationid="piav" creationdate="20191218T134656Z">
+        <seg>Yhteystiedot ja tuki</seg>
       </tuv>
     </tu>
     <tu>
@@ -10068,6 +10100,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190916T133120Z" creationid="piav" creationdate="20190916T133105Z">
         <seg>Telakoi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134554Z" creationid="piav" creationdate="20191218T134554Z">
+        <seg>Dokumentaatio</seg>
       </tuv>
     </tu>
     <tu>
@@ -20709,8 +20749,8 @@ Apit-kansioon.</seg>
       <tuv lang="EN">
         <seg>OmegaT - The Free Translation Memory Tool</seg>
       </tuv>
-      <tuv lang="FI" changeid="PiaVee" changedate="20171219T094223Z" creationid="PiaVee" creationdate="20171219T094223Z">
-        <seg>[fuzzy]Käännösmuistikansio:</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134422Z" creationid="PiaVee" creationdate="20171219T094223Z">
+        <seg>OmegaT – vapaa käännöstyökalu</seg>
       </tuv>
     </tu>
     <tu>
@@ -21028,6 +21068,14 @@ resursseineen käännösprojekteiksi, joita on helppo hallita ja päivittää.</
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190527T184225Z" creationid="piav" creationdate="20190521T181303Z">
         <seg>OmegaT on vapaa ja avoin tietokoneavusteisen kääntämisen työkalu (computer-assisted translation, CAT), joka toimii eri käyttöjärjestelmissä. OmegaT tarjoaa käännöstyön avuksi käännösmuistin, erilaisia sanastoja sekä sumeita käännösosumia, ja kokoaa käännökset resursseineen käännösprojekteiksi, joita on helppo hallita ja päivittää.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134541Z" creationid="piav" creationdate="20191218T134508Z">
+        <seg>OmegaT on vapaa käännöstyökalu ammattimaisille kääntäjille. Se on open source -pohjainen ja kirjoitettu Java-kielellä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22253,6 +22301,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T082546Z" creationid="piav" creationdate="20191030T082546Z">
         <seg>PO-tiedostot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page Not Found</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134648Z" creationid="piav" creationdate="20191218T134648Z">
+        <seg>Sivua ei löydy</seg>
       </tuv>
     </tu>
     <tu>
@@ -24744,6 +24800,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T131546Z" creationid="piav" creationdate="20190920T131546Z">
         <seg>Resurssin nimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resources</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134632Z" creationid="piav" creationdate="20191218T134632Z">
+        <seg>Resurssit</seg>
       </tuv>
     </tu>
     <tu>
@@ -27864,6 +27928,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Support</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134633Z" creationid="piav" creationdate="20191218T134633Z">
+        <seg>Tuki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Support for right-to-left languages</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T180430Z" creationid="piav" creationdate="20191210T180430Z">
@@ -28919,6 +28991,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190523T172952Z" creationid="piav" creationdate="20190523T172550Z">
         <seg>Mozilla DTD -suodatin aiheutti poikkeuksen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT Project</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134644Z" creationid="piav" creationdate="20191218T134644Z">
+        <seg>OmegaT-projekti</seg>
       </tuv>
     </tu>
     <tu>
