@@ -8766,6 +8766,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cross-platform without JRE</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T135501Z" creationid="piav" creationdate="20191218T135501Z">
+        <seg>Käyttöliittymästä riippumaton versio ilman JRE:tä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+1</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191023T062939Z" creationid="piav" creationdate="20191023T062939Z">
@@ -13933,6 +13941,14 @@ lopullisesti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Howto - Spellchecking</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T135301Z" creationid="piav" creationdate="20191218T135301Z">
+        <seg>Miten tämä tehdään? – Oikeinkirjoituksen tarkistus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Howto - The "Priorview" preview utility</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191218T135136Z" creationid="piav" creationdate="20191218T135136Z">
@@ -13977,6 +13993,22 @@ lopullisesti.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191218T135055Z" creationid="piav" creationdate="20191218T135043Z">
         <seg>Miten tämä tehdään? – Microsoft Translatorin käyttö OmegaT:ssä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using the OmegaT text export function (scripting interface)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T135328Z" creationid="piav" creationdate="20191218T135328Z">
+        <seg>Miten tämä tehdään? – OmegaT:n tekstinvientitoiminnon käyttäminen (komentosarjanäkymä)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using the OmegaT tokenizer</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T135348Z" creationid="piav" creationdate="20191218T135348Z">
+        <seg>Miten tämä tehdään? – OmegaT:n saneistimen käyttö</seg>
       </tuv>
     </tu>
     <tu>
@@ -18249,6 +18281,22 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T135443Z" creationid="piav" creationdate="20191218T135443Z">
+        <seg>Linux, jossa on 64-bittinen JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linux with JRE</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T135432Z" creationid="piav" creationdate="20191218T135432Z">
+        <seg>Linux, jossa on JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>List View</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190522T081449Z" creationid="piav" creationdate="20190522T081449Z">
@@ -20751,6 +20799,22 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T164310Z" creationid="piav" creationdate="20191210T164310Z">
         <seg>ONline DIctionary LOokup TOol, online-sanakirjoista etsivä työkalu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OS X Notarized</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T135420Z" creationid="piav" creationdate="20191218T135420Z">
+        <seg>OS X Notarized</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OS X Unsigned</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T135421Z" creationid="piav" creationdate="20191218T135421Z">
+        <seg>OS X Unsigned</seg>
       </tuv>
     </tu>
     <tu>
@@ -27426,6 +27490,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191030T111123Z" creationid="piav" creationdate="20191030T111104Z">
         <seg>Lähdetiedoston ja käännetyn tiedoston merkistökoodaukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source code</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T135508Z" creationid="piav" creationdate="20191218T135508Z">
+        <seg>Lähdekoodi</seg>
       </tuv>
     </tu>
     <tu>
@@ -35669,6 +35741,30 @@ ei enää löydy.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20191210T163631Z" creationid="piav" creationdate="20191210T163631Z">
         <seg>Windowsissa suoritettava versio Toxicista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T135409Z" creationid="piav" creationdate="20191218T135409Z">
+        <seg>Windows, jossa on 64-bittinen JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows with JRE</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T135357Z" creationid="piav" creationdate="20191218T135357Z">
+        <seg>Windows, jossa on JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows without JRE</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T135417Z" creationid="piav" creationdate="20191218T135417Z">
+        <seg>Windows ilman JRE:tä</seg>
       </tuv>
     </tu>
     <tu>
