@@ -13893,18 +13893,34 @@ lopullisesti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Howto - Adding a preview function to OmegaT</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T135115Z" creationid="piav" creationdate="20191218T135115Z">
+        <seg>Miten tämä tehdään? – Esikatselutoiminnon lisääminen OmegaT:hen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Howto - Compiling OmegaT from the source code</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191218T134754Z" creationid="piav" creationdate="20191218T134754Z">
-        <seg>Kuinka – OmegaT:n kääntäminen lähdekoodista</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134954Z" creationid="piav" creationdate="20191218T134754Z">
+        <seg>Miten tämä tehdään? – OmegaT:n kääntäminen lähdekoodista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Creating a new file filter</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T135102Z" creationid="piav" creationdate="20191218T135102Z">
+        <seg>Miten tämä tehdään? – Uuden tiedostosuodattimen luonti</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Howto - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191218T134832Z" creationid="piav" creationdate="20191218T134832Z">
-        <seg>Kuinka – Vienti OmegaT:stä Trados uncleaned RTF -muotoon</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134958Z" creationid="piav" creationdate="20191218T134832Z">
+        <seg>Miten tämä tehdään? – Vienti OmegaT:stä Trados uncleaned RTF -muotoon</seg>
       </tuv>
     </tu>
     <tu>
@@ -13917,34 +13933,50 @@ lopullisesti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Howto - The "Priorview" preview utility</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T135136Z" creationid="piav" creationdate="20191218T135136Z">
+        <seg>Miten tämä tehdään? – Priorview-esikatseluohjelma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Howto - Translating OmegaT into your language</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191218T134923Z" creationid="piav" creationdate="20191218T134923Z">
-        <seg>Kuinka – OmegaT:m </seg>
+      <tuv lang="FI" changeid="piav" changedate="20191218T135028Z" creationid="piav" creationdate="20191218T134923Z">
+        <seg>Miten tämä tehdään? – OmegaT:n kääntäminen omalle kielelle</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Howto - Translating PDF files with Iceni Infix and OmegaT</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191218T134858Z" creationid="piav" creationdate="20191218T134858Z">
-        <seg>Kuinka – PDF-tiedostojen kääntäminen Iceni Infixin ja OmegaT:n avulla</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191218T135003Z" creationid="piav" creationdate="20191218T134858Z">
+        <seg>Miten tämä tehdään? – PDF-tiedostojen kääntäminen Iceni Infixin ja OmegaT:n avulla</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Howto - Translating Word 2007 files in OmegaT</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191218T134813Z" creationid="piav" creationdate="20191218T134813Z">
-        <seg>Kuinka – Word 2007 -tiedostojen kääntäminen OmegaT:ssä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191218T134956Z" creationid="piav" creationdate="20191218T134813Z">
+        <seg>Miten tämä tehdään? – Word 2007 -tiedostojen kääntäminen OmegaT:ssä</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Howto - Using Google Translate in OmegaT</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191218T134845Z" creationid="piav" creationdate="20191218T134845Z">
-        <seg>Kuinka – Google Translaten käyttö OmegaT:ssä</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191218T135000Z" creationid="piav" creationdate="20191218T134845Z">
+        <seg>Miten tämä tehdään? – Google Translaten käyttö OmegaT:ssä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using Microsoft Translator in OmegaT</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T135055Z" creationid="piav" creationdate="20191218T135043Z">
+        <seg>Miten tämä tehdään? – Microsoft Translatorin käyttö OmegaT:ssä</seg>
       </tuv>
     </tu>
     <tu>
@@ -21296,8 +21328,8 @@ käynnistettäväksi.</seg>
       <tuv lang="EN">
         <seg>OmegaT on Linux HowTo</seg>
       </tuv>
-      <tuv lang="FI" changeid="piav" changedate="20191218T134913Z" creationid="piav" creationdate="20191218T134913Z">
-        <seg>OmegaT ja Linux -ohjeita</seg>
+      <tuv lang="FI" changeid="piav" changedate="20191218T135222Z" creationid="piav" creationdate="20191218T134913Z">
+        <seg>Ohjeita OmegaT:n käyttöön Linuxissa</seg>
       </tuv>
     </tu>
     <tu>
@@ -23762,6 +23794,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="FI" changeid="piav" changedate="20190920T125525Z" creationid="piav" creationdate="20190920T125525Z">
         <seg>Projektia ei päivitetä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Propagation and one-to-many matching HowTo</seg>
+      </tuv>
+      <tuv lang="FI" changeid="piav" changedate="20191218T135257Z" creationid="piav" creationdate="20191218T135152Z">
+        <seg>Miten tämä tehdään? – Ehdotukset ja yksi–monta-osumat</seg>
       </tuv>
     </tu>
     <tu>
