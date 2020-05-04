@@ -19671,22 +19671,6 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Mozilla FTL</seg>
-      </tuv>
-      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20200504T134504Z" creationid="Kos Ivantsov" creationdate="20200504T134504Z">
-        <seg>Mozilla FTL</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Mozilla FTL Filter Options</seg>
-      </tuv>
-      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20200504T134552Z" creationid="Kos Ivantsov" creationdate="20200504T134552Z">
-        <seg>Mozilla FTL-suodattimen asetukset</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Mozilla Lang</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T175947Z" creationid="piav" creationdate="20190521T175947Z">
