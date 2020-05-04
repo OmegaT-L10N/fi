@@ -16948,6 +16948,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is possible to modify the sort order of the three percentages but not which is used to select the fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20200504T143015Z" creationid="pia" creationdate="20200504T143015Z">
+        <seg>Vastaavuusprosenttien järjestystä voi muuttaa, mutta sumeat osumat valitaan aina samalla tavalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is possible to select another tokenizer (Language Tokenizer) or a different version of the tokenizer (Tokenizer Behavior) from the Project Properties window.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T153741Z" creationid="PiaVee" creationdate="20171014T153741Z">
@@ -26174,6 +26182,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20200504T142749Z" creationid="pia" creationdate="20200504T142749Z">
+        <seg>Lisätietoja: &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T140731Z" creationid="PiaVee" creationdate="20171015T092448Z">
@@ -31171,8 +31187,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="en">
         <seg>The three matching percentages are in the following order:</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20200504T142651Z" creationid="pia" creationdate="20200504T142651Z">
-        <seg>Osumaprosentit ovat seuraavassa järjestyksessä:</seg>
+      <tuv lang="fi" changeid="pia" changedate="20200504T142730Z" creationid="pia" creationdate="20200504T142651Z">
+        <seg>Vastaavuusprosentit ovat seuraavassa järjestyksessä:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37479,6 +37495,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and ignoring tags and numbers (generally the highest)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20200504T142815Z" creationid="pia" creationdate="20200504T142815Z">
+        <seg>ilman tägejä ja numeroita (yleensä alhaisin luku)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>and many, many more very helpful people</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T103444Z" creationid="piav" creationdate="20191211T103444Z">
@@ -39235,6 +39259,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T121939Z" creationid="piav" creationdate="20191201T121939Z">
         <seg>https://datamarket.azure.com/account</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://en.wikipedia.org/wiki/Stemming</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20200504T142732Z" creationid="pia" creationdate="20200504T142732Z">
+        <seg>https://en.wikipedia.org/wiki/Stemming</seg>
       </tuv>
     </tu>
     <tu>
@@ -42215,6 +42247,22 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20200504T142722Z" creationid="pia" creationdate="20200504T142722Z">
         <seg>vartalonmuodostuksen avulla laskettu vastaavuus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated with the full text, including tags and numbers (generally the lowest)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20200504T142918Z" creationid="pia" creationdate="20200504T142918Z">
+        <seg>kokotekstin (sis. tägit ja numerot) perusteella laskettu vastaavuus (yleensä alhaisin luku)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated without stemming and still ignoring tags and numbers (generally slightly lower)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20200504T142929Z" creationid="pia" creationdate="20200504T142850Z">
+        <seg>ilman vartalonmuodostusta laskettu vastaavuus, edelleen ilman tägejä ja numeroita (yleensä hieman edellistä alhaisempi luku)</seg>
       </tuv>
     </tu>
     <tu>
