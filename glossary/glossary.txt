@@ -5,6 +5,7 @@ BiDi	kaksu	Lyhennelmä sanasta "kaksisuuntainen" :-)
 operating system	käyttöjärjestelmä
 SVN	versionhallinta	eng. "subversion"
 cleanup	siistiminen
+repository	pakettivarasto
 script	komentosarja
 manual	käyttöopas	kun viitataan OmegaT-manuaaliin
 Acknowledgements	Kiitokset	aaa
@@ -702,28 +703,3 @@ License	lisenssi
 Source File Encoding	lähdetiedoston merkistökoodaus
 HTML	HTML
 XHTML	XHTML
-encoding declaration	maininta merkistökoodauksesta
-Error saving	_ tallentamisessa tapahtui virhe
-Pattern	rakenne	mallikuvio
-segmentation rules	segmentointisäännöt
-printf-variable	printf-muuttuja
-Fuzzy Matches	Sumeat osumat
-fuzzy Match	sumea osuma
-Git	Git
-team project	ryhmäprojekti
-Master Password	pääsalasana
-Glossary viewer	Sanaston esikatselu
-form-feed character	sivunvaihdon merkki
-shortcut definition file	pikanäppäinten kuvaustiedosto
-modifier	muuntonäppäin	vaihto- ctrl- tai alt-näppäin
-modifier key	muuntonäppäin	vaihto- ctrl- tai alt-näppäin
-Non-Unique Segments	toistuvat segmentit
-spelling dictionaries	oikeinkirjoitussanastoja
-spelling dictionaries	oikeinkirjoitussanasto
-auto-populated	automaattisesti täytetty	EI: automaattinen täydennys (=autocomplete)
-Note:	Huom.:
-authenticated proxy server	todennettu välityspalvelin
-repository	tietovarasto
-Java Web Start	Java Web Start
-Java Runtime Environment	Java Runtime Environment
-development team	kehitystiimi
