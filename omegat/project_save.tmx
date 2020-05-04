@@ -15516,6 +15516,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Important: listed plug-ins work with OmegaT version 4 and above.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20200504T143522Z" creationid="pia" creationdate="20200504T143522Z">
+        <seg>Huom.: luetellut liitännäiset toimivat OmegaT 4:ssä ja tätä uudemmissa versioissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Importing Wiki Page Failed</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T102356Z" creationid="PiaVee" creationdate="20171015T102356Z">
@@ -22361,6 +22369,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Orphan segments (match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20200504T143037Z" creationid="pia" creationdate="20200504T143037Z">
+        <seg>Orposegmentit (osuma nro 2) ovat projektin sisäisessä käännösmuistissa olevia segmenttejä, joita vastaavia lähdekielisiä segmenttejä ei ole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Orphan segments (the match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T110618Z" creationid="piav" creationdate="20191208T110618Z">
@@ -23172,6 +23188,14 @@ onko sinun tehtävä vielä muuta.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T102342Z" creationid="PiaVee" creationdate="20171015T102313Z">
         <seg>Kirjoita tai liitä MediaWiki-sivun osoite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plug-ins</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20200504T143046Z" creationid="pia" creationdate="20200504T143046Z">
+        <seg>Liitännäiset</seg>
       </tuv>
     </tu>
     <tu>
