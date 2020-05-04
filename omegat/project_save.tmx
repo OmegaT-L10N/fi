@@ -5721,6 +5721,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20200504T142616Z" creationid="pia" creationdate="20200504T142616Z">
+        <seg>Tekijä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191212T055941Z" creationid="piav" creationdate="20190523T172019Z">
@@ -7441,6 +7449,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T173910Z" creationid="PiaVee" creationdate="20171014T173910Z">
         <seg>tšuvassi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Class</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20200504T142613Z" creationid="pia" creationdate="20200504T142613Z">
+        <seg>Luokka</seg>
       </tuv>
     </tu>
     <tu>
@@ -16404,6 +16420,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installed plugins:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20200504T142609Z" creationid="pia" creationdate="20200504T142609Z">
+        <seg>Asennetut liitännäiset:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T100016Z" creationid="piav" creationdate="20191201T100016Z">
@@ -19273,6 +19297,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Minimal threshold to show a fuzzy match:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20200504T142602Z" creationid="pia" creationdate="20200504T142602Z">
+        <seg>Vastaavuuskynnys (tätä paremmat sumeat osumat tulevat näkyville):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Minimize</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T133109Z" creationid="piav" creationdate="20190916T133109Z">
@@ -19667,6 +19699,22 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T175944Z" creationid="piav" creationdate="20190521T175944Z">
         <seg>Mozilla DTD-suodattimen asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20200504T142433Z" creationid="pia" creationdate="20200504T142433Z">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL Filter Options</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20200504T142442Z" creationid="pia" creationdate="20200504T142442Z">
+        <seg>Mozilla FTL-suodattimen asetukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -29211,6 +29259,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Mozilla FTL filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20200504T142450Z" creationid="pia" creationdate="20200504T142450Z">
+        <seg>Mozilla FTL -suodatin aiheutti poikkeuksen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT Project</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191218T134644Z" creationid="piav" creationdate="20191218T134644Z">
@@ -31109,6 +31165,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T080733Z" creationid="piav" creationdate="20191022T080733Z">
         <seg>Kolmas sarake on lisätietoja varten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The three matching percentages are in the following order:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20200504T142651Z" creationid="pia" creationdate="20200504T142651Z">
+        <seg>Osumaprosentit ovat seuraavassa järjestyksessä:</seg>
       </tuv>
     </tu>
     <tu>
@@ -42143,6 +42207,14 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191212T075321Z" creationid="piav" creationdate="20191212T075321Z">
         <seg>Luettelo kaikista projektin käännettävistä tiedostoista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated with stemming</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20200504T142722Z" creationid="pia" creationdate="20200504T142722Z">
+        <seg>vartalonmuodostuksen avulla laskettu vastaavuus</seg>
       </tuv>
     </tu>
     <tu>
