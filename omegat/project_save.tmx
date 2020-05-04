@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_80838225a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10386,8 +10386,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Downloading project...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190523T094423Z" creationid="PiaVee" creationdate="20171218T082803Z">
-        <seg>Ladataan projekti…</seg>
+      <tuv lang="fi" changeid="pia" changedate="20200504T142329Z" creationid="PiaVee" creationdate="20171218T082803Z">
+        <seg>Ladataan projektia…</seg>
       </tuv>
     </tu>
     <tu>
@@ -18347,8 +18347,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Loading Project</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190920T120512Z" creationid="piav" creationdate="20190920T120512Z">
-        <seg>Ladataan projektia</seg>
+      <tuv lang="fi" changeid="pia" changedate="20200504T142354Z" creationid="piav" creationdate="20190920T120512Z">
+        <seg>Projekti latautuu</seg>
       </tuv>
     </tu>
     <tu>
@@ -18379,8 +18379,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Loading project...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190523T094434Z" creationid="PiaVee" creationdate="20171218T082805Z">
-        <seg>Ladataan projekti…</seg>
+      <tuv lang="fi" changeid="pia" changedate="20200504T142343Z" creationid="PiaVee" creationdate="20171218T082805Z">
+        <seg>Projekti latautuu…</seg>
       </tuv>
     </tu>
     <tu>
