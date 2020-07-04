@@ -3095,8 +3095,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20200704T141940Z" creationid="piav" creationdate="20191202T145816Z">
-        <seg>&lt;g0&gt;terminologiaongelmat)&lt;/g0&gt; (valinnainen</seg>
+      <tuv lang="fi" changeid="piav" changedate="20200704T142813Z" creationid="piav" creationdate="20191202T145816Z">
+        <seg>&lt;g0&gt;Terminologiaongelmat&lt;/g0&gt; (valinnainen).</seg>
       </tuv>
     </tu>
     <tu>
