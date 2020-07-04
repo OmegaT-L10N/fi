@@ -11072,8 +11072,8 @@ kaukana, poissa.
       <tuv lang="en">
         <seg>Enter "&lt;a0&gt;OmegaT&lt;/a0&gt;" in the "Name" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder).</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191201T094533Z" creationid="piav" creationdate="20191201T094440Z">
-        <seg>Kirjoita Name-kenttään &lt;a0&gt;OmegaT&lt;/a0&gt;. Siirry Command-kenttään ja etsi siirtymispainikkeen avulla &lt;a0&gt;OmegaT&lt;/a0&gt;-ohjelman käynnistävä komentosarja (puretussa kansiossa oleva &lt;a1&gt;OmegaT&lt;/a1&gt;-niminen tiedosto) ja valitse se.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20200704T142456Z" creationid="piav" creationdate="20191201T094440Z">
+        <seg>Kirjoita Name-kenttään &lt;a0&gt;OmegaT&lt;/a0&gt;. Siirry Command-kenttään ja etsi siirtymispainikkeen avulla &lt;a1&gt;OmegaT&lt;/a1&gt;-ohjelman käynnistävä komentosarja (puretussa kansiossa oleva &lt;a2&gt;OmegaT&lt;/a2&gt;-niminen tiedosto) ja valitse se.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26064,8 +26064,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191022T070300Z" creationid="piav" creationdate="20191022T070300Z">
-        <seg>Etsi haluttua kieliyhdistelmää esimerkiksi &lt;u0&gt;&lt;i1/&gt;OmegaT-wikin sanakirjalinkeistä&lt;/u0&gt;.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20200704T142333Z" creationid="piav" creationdate="20191022T070300Z">
+        <seg>Etsi haluttua kieliyhdistelmää esimerkiksi &lt;u0&gt;OmegaT-wikin sanakirjalinkeistä&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26768,8 +26768,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Select the &lt;f3&gt;OmegaT.png&lt;/f3&gt; icon.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191201T094651Z" creationid="piav" creationdate="20191201T094651Z">
-        <seg>Valitse &lt;f2&gt;OmegaT.png&lt;/f2&gt;-ikoni.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20200704T142534Z" creationid="piav" creationdate="20191201T094651Z">
+        <seg>Valitse &lt;f3&gt;OmegaT.png&lt;/f3&gt;-ikoni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35057,8 +35057,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="en">
         <seg>Using the RTL mode in &lt;a0&gt;OmegaT&lt;/a0&gt; has no influence whatsoever on the display mode of the translated documents created in &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191127T123658Z" creationid="piav" creationdate="20191127T123519Z">
-        <seg>RTL-tilan käyttäminen &lt;/a0&gt;OmegaT&lt;a0&gt;-ohjelmassa ei vaikuta mitenkään siihen, miltä &lt;a1&gt;OmegaT&lt;/a1&gt;:llä luodut käännetyt asiakirjat näyttävät.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20200704T142319Z" creationid="piav" creationdate="20191127T123519Z">
+        <seg>RTL-tilan käyttäminen &lt;a0&gt;OmegaT&lt;/a0&gt;-ohjelmassa ei vaikuta mitenkään siihen, miltä &lt;a1&gt;OmegaT&lt;/a1&gt;:llä luodut käännetyt asiakirjat näyttävät.</seg>
       </tuv>
     </tu>
     <tu>
