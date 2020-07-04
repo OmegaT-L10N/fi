@@ -12368,8 +12368,8 @@ Virheilmoitus.</seg>
       <tuv lang="en">
         <seg>Folder ID</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20200704T140757Z" creationid="piav" creationdate="20200704T140757Z">
-        <seg>u</seg>
+      <tuv lang="fi" changeid="piav" changedate="20200704T140807Z" creationid="piav" creationdate="20200704T140757Z">
+        <seg>Kansion tunnus</seg>
       </tuv>
     </tu>
     <tu>
@@ -16104,6 +16104,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T104002Z" creationid="piav" creationdate="20191208T103845Z">
         <seg>Tämä tila näkyy ruudun alareunassa UNL-merkkinä. Kun viet hiiren kohdistimen merkin päälle, näet tekstin &lt;g1&gt;Kursori vapaana&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this mode, OmegaT will align files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project with the contents found at the specified location.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20200704T141132Z" creationid="piav" creationdate="20200704T141025Z">
+        <seg>Tässä tilassa OmegaT kohdistaa projektin &lt;f0&gt;/source/&lt;/f0&gt;-kansiossa olevat tiedostot ja annetussa sijainnissa olevan sisällön.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20127,6 +20135,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No OAuth token specified</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20200704T140849Z" creationid="piav" creationdate="20200704T140849Z">
+        <seg>OAuth-tunnusta ei ole määritetty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T135312Z" creationid="piav" creationdate="20190916T135312Z">
@@ -20147,6 +20163,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T122859Z" creationid="piav" creationdate="20190920T122859Z">
         <seg>Ei yhteyttä, projekti on offline-tilassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No folder ID specified</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20200704T140900Z" creationid="piav" creationdate="20200704T140900Z">
+        <seg>Kansion tunnusta ei ole määritetty</seg>
       </tuv>
     </tu>
     <tu>
@@ -20879,6 +20903,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T191224Z" creationid="piav" creationdate="20190522T083737Z">
         <seg>Asetukset…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OAuth token</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20200704T140817Z" creationid="piav" creationdate="20200704T140817Z">
+        <seg>OAuth-tunnus</seg>
       </tuv>
     </tu>
     <tu>
@@ -31147,8 +31179,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="en">
         <seg>The specified translation direction is not supported</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190919T132011Z" creationid="piav" creationdate="20190919T132011Z">
-        <seg>Tätä käännössuntaa ei tueta</seg>
+      <tuv lang="fi" changeid="piav" changedate="20200704T140801Z" creationid="piav" creationdate="20190919T132011Z">
+        <seg>Tätä käännössuuntaa ei tueta</seg>
       </tuv>
     </tu>
     <tu>
@@ -34005,10 +34037,34 @@ Täsmähaut etsivät koko hakustringiä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to parse IAM service response</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20200704T140941Z" creationid="piav" creationdate="20200704T140919Z">
+        <seg>IAM-palvelun vastauksen jäsentäminen ei onnistu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190523T171519Z" creationid="piav" creationdate="20190523T171519Z">
         <seg>Suodattimien määritystiedoston jäsentäminen ei onnistu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse service error report</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20200704T141013Z" creationid="piav" creationdate="20200704T141013Z">
+        <seg>Palvelun virheraportin jäsentäminen ei onnistu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse translate service response</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20200704T140957Z" creationid="piav" creationdate="20200704T140957Z">
+        <seg>Käännöspalvelun vastauksen jäsentäminen ei onnistu</seg>
       </tuv>
     </tu>
     <tu>
@@ -34631,6 +34687,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T092651Z" creationid="PiaVee" creationdate="20171014T092651Z">
         <seg>Käytä sanastoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use glossary terms</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20200704T140838Z" creationid="piav" creationdate="20200704T140830Z">
+        <seg>Käytä sanastotermejä</seg>
       </tuv>
     </tu>
     <tu>
