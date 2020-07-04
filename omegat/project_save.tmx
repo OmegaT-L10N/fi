@@ -11548,8 +11548,8 @@ kukaan ei kuule.</seg>
       <tuv lang="en">
         <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project, even in excluded folders</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20200704T140412Z" creationid="piav" creationdate="20200704T140412Z">
-        <seg>Esimerkki: &lt;u0&gt;**/*.docx&lt;/u0&gt; lisää kaikki .docx tiedostot riippumatta siitä, missä osassa projektia ne ovat (siis vaikka tiedostot huomiotta jätettävissä kansioissa)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20200704T140456Z" creationid="piav" creationdate="20200704T140412Z">
+        <seg>Esimerkki: &lt;u0&gt;**/*.docx&lt;/u0&gt; lisää kaikki .docx tiedostot riippumatta siitä, missä osassa projektia ne ovat. Tiedostot siis lisätään, vaikka ne olisivat huomiotta jätettävissä kansioissa.</seg>
       </tuv>
     </tu>
     <tu>
