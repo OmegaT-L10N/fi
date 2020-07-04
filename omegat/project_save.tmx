@@ -14267,8 +14267,8 @@ polulla, koko polkua ei tarvitse kirjoittaa.)</seg>
       <tuv lang="en">
         <seg>If &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, Auto-completer is launched automatically by typing the first letters of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191202T142036Z" creationid="piav" creationdate="20191202T142036Z">
-        <seg>Jos ruutu &lt;e0&gt;Näytä sopivia ehdotuksia automaattisesti&lt;/e0&gt; on rastitettu, automaattinen täydennys tulee automaattisesti käyttöön, kun käännetyn sanaston termin ensimmäinen kirjain tai (tägin tapauksessa) "&lt;" kirjoitetaan.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20200704T142022Z" creationid="piav" creationdate="20191202T142036Z">
+        <seg>Jos ruutu &lt;g0&gt;Näytä sopivia ehdotuksia automaattisesti&lt;/g0&gt; on rastitettu, automaattinen täydennys tulee automaattisesti käyttöön, kun käännetyn sanaston termin ensimmäinen kirjain tai (tägin tapauksessa) "&lt;" kirjoitetaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15339,8 +15339,8 @@ avulla.</seg>
       <tuv lang="en">
         <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191202T130907Z" creationid="piav" creationdate="20191202T130907Z">
-        <seg>Jos valitset ensin pätkän tekstiä (mistä tahansa ruudusta) ja painat sitten näppäinyhdistelmää&lt;k0&gt; &lt;k1&gt;, näytölle avautuu hakuikkuna ja valintasi siirtyy hakuikkunan kenttään &lt;/k1&gt;Etsittävä teksti:&lt;k2&gt;.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20200704T142245Z" creationid="piav" creationdate="20191202T130907Z">
+        <seg>Jos valitset ensin pätkän tekstiä (mistä tahansa ruudusta) ja painat sitten näppäinyhdistelmää &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, näytölle avautuu hakuikkuna ja valintasi siirtyy hakuikkunan kenttään &lt;g3&gt;Etsittävä teksti:&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15355,8 +15355,8 @@ avulla.</seg>
       <tuv lang="en">
         <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g4&gt;Source term&lt;/g4&gt; field.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191202T130650Z" creationid="piav" creationdate="20191202T130203Z">
-        <seg>Jos valitset ensin pätkän tekstiä (mistä tahansa ruudusta) ja painat sitten näppäinyhdistelmää &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;vaihto&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt;, näytölle avautuu sanastoruutu ja valintasi siirtyy sanastoruudun kenttään &lt;/k0&gt;Lähdekielinen termi&lt;g4&gt;.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20200704T142101Z" creationid="piav" creationdate="20191202T130203Z">
+        <seg>Jos valitset ensin pätkän tekstiä (mistä tahansa ruudusta) ja painat sitten näppäinyhdistelmää &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;vaihto&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;, näytölle avautuu sanastoruutu ja valintasi siirtyy sanastoruudun kenttään &lt;g4&gt;Lähdekielinen termi&lt;/g4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31909,8 +31909,8 @@ palvelimelta.</seg>
       <tuv lang="en">
         <seg>This can apply also to &lt;g0&gt;Target term&lt;/g0&gt; and &lt;g1&gt;Comment &lt;/g1&gt;fields if new selections are made and &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; pressed again.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191202T130737Z" creationid="piav" creationdate="20191202T130616Z">
-        <seg>Voit täyttää kentät &lt;g0&gt;Kohdekielinen termi&lt;/g0&gt; ja &lt;g1&gt;Kommentti&lt;/g1&gt; samalla tavalla: valitse uusi tekstinpätkä ja paina näppäinyhdistelmää &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;vaihto&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt;.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20200704T142129Z" creationid="piav" creationdate="20191202T130616Z">
+        <seg>Voit täyttää kentät &lt;g0&gt;Kohdekielinen termi&lt;/g0&gt; ja &lt;g1&gt;Kommentti&lt;/g1&gt; samalla tavalla: valitse uusi tekstinpätkä ja paina näppäinyhdistelmää &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;vaihto&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
