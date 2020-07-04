@@ -11546,6 +11546,14 @@ kukaan ei kuule.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project, even in excluded folders</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20200704T140412Z" creationid="piav" creationdate="20200704T140412Z">
+        <seg>Esimerkki: &lt;u0&gt;**/*.docx&lt;/u0&gt; lisää kaikki .docx tiedostot riippumatta siitä, missä osassa projektia ne ovat (siis vaikka tiedostot huomiotta jätettävissä kansioissa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T121700Z" creationid="piav" creationdate="20191128T121700Z">
@@ -11564,8 +11572,8 @@ kukaan ei kuule.</seg>
       <tuv lang="en">
         <seg>Example: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; excludes files that have /excludedfolder/ in the path, and files with .txt extension.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20200704T135938Z" creationid="piav" creationdate="20200704T135938Z">
-        <seg>Esimerkki: &lt;u0&gt;**/kansio/**;*.txt&lt;/u0&gt; ei huomioi tiedostoja, joiden polkunimessä on /älähuomioikansiota/ in the polku, and tiedostot with .txt tunniste.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20200704T140044Z" creationid="piav" creationdate="20200704T135938Z">
+        <seg>Esimerkki: &lt;u0&gt;**/pois-jätettävä-kansio/**;*.txt&lt;/u0&gt; ei huomioi tiedostoja, joiden polkunimessä on /pois-jätettävä-kansio/ eikä tiedostoja, joiden tunniste on .txt.</seg>
       </tuv>
     </tu>
     <tu>
