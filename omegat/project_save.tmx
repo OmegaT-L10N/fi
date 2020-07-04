@@ -22391,11 +22391,11 @@ installed on your system.</seg>
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190920T123306Z" creationid="PiaVee" creationdate="20171015T082944Z">
+      <tuv lang="fi" changeid="piav" changedate="20200704T142937Z" creationid="PiaVee" creationdate="20171015T082944Z">
         <seg>Valinnat:
 	Ei mitään: Käynnistä GUI
-	Ainoastaan projektipolku: Käynnistä GUI, lataa kyseinen projekti 
-	team
+	Ainoastaan projektipolku: Käynnistä GUI, lataa kyseinen projekti
+	ryhmä
 		Ryhmäprojektin työkalu</seg>
       </tuv>
     </tu>
