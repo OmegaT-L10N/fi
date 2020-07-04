@@ -27510,6 +27510,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some supported filters: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, Windows Resources</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20200704T141343Z" creationid="piav" creationdate="20200704T141309Z">
+        <seg>Joitakin tuettuja suodattimia: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, Windows Resources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some tools are known to produce invalid tmx files under certain conditions.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T080920Z" creationid="piav" creationdate="20191128T080920Z">
@@ -35831,6 +35839,14 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T174950Z" creationid="piav" creationdate="20191210T174950Z">
         <seg>Ehdotuksen hyväksyntä tai hylkäys riippuu ensiksi siitä, pitääkö kehitystiimi ehdotusta OmegaT:lle hyödyllisenä, ja toiseksi siitä, onko joku kehitystiimin jäsen halukas tekemään toteutuksen vaatiman työn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Which files are used for alignment depends on if the file filter supports it.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20200704T141333Z" creationid="piav" creationdate="20200704T141258Z">
+        <seg>Se, mitä tiedostoja kohdennus käyttää, riippuu siitä, tuetaanko niiden tiedostosuodatinta.</seg>
       </tuv>
     </tu>
     <tu>
