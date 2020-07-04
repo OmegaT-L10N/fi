@@ -6557,6 +6557,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, all files that are not excluded are included.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20200704T140652Z" creationid="piav" creationdate="20200704T140506Z">
+        <seg>Oletusasetuksena on, että kaikki tiedostot huomioidaan, ellei niitä ole erikseen määritelty poisjätettäviksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T103501Z" creationid="piav" creationdate="20191208T103501Z">
@@ -12354,6 +12362,14 @@ Virheilmoitus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T144040Z" creationid="piav" creationdate="20190521T143713Z">
         <seg>Kelluva ?-merkki, ei  yhteyttä &gt;-merkkiin!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Folder ID</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20200704T140757Z" creationid="piav" creationdate="20200704T140757Z">
+        <seg>u</seg>
       </tuv>
     </tu>
     <tu>
@@ -36321,6 +36337,14 @@ ei enää löydy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Yandex.Cloud</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20200704T140749Z" creationid="piav" creationdate="20200704T140749Z">
+        <seg>Yandex.Cloud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Yiddish</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T082334Z" creationid="PiaVee" creationdate="20171015T082334Z">
@@ -36930,6 +36954,14 @@ käynnistää ohjelman mistä tahansa.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191212T055613Z" creationid="piav" creationdate="20190916T141710Z">
         <seg>Sinun on päivitettävä JDK 1.6 uusimpaan versioon tai poistettava jaxb-*.jar-tiedostot OmegaT:n /lib-kansiosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You only need to specify this to override some exclusions.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20200704T140744Z" creationid="piav" creationdate="20200704T140744Z">
+        <seg>Sinun tarvitsee vain määritellä tämä kohta, niin pääset ohittamaan tietyt poisjätöt.</seg>
       </tuv>
     </tu>
     <tu>
