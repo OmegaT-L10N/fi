@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4464,6 +4464,14 @@ Nykyinen asetus on {0} MB.</seg>
         <seg>Add patterns using wildcards (Apache Ant style): *, ?, **</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T121619Z" creationid="piav" creationdate="20191128T121432Z">
+        <seg>Lisää kuvioita yleismerkkien avulla (Apache Ant -tyyliin): *, ?, **</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add patterns using wildcards (Apache Ant style): *, ?, **.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20200704T135624Z" creationid="piav" creationdate="20200704T135624Z">
         <seg>Lisää kuvioita yleismerkkien avulla (Apache Ant -tyyliin): *, ?, **</seg>
       </tuv>
     </tu>
@@ -11550,6 +11558,14 @@ kukaan ei kuule.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T121624Z" creationid="piav" creationdate="20191128T121624Z">
         <seg>Esimerkki: &lt;u0&gt;**/.ini/**&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; excludes files that have /excludedfolder/ in the path, and files with .txt extension.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20200704T135938Z" creationid="piav" creationdate="20200704T135938Z">
+        <seg>Esimerkki: &lt;u0&gt;**/kansio/**;*.txt&lt;/u0&gt; ei huomioi tiedostoja, joiden polkunimessä on /älähuomioikansiota/ in the polku, and tiedostot with .txt tunniste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26826,6 +26842,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T125651Z" creationid="piav" creationdate="20191030T125651Z">
         <seg>Lausetason segmentointi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Separate different patterns with a semicolon.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20200704T135733Z" creationid="piav" creationdate="20200704T135733Z">
+        <seg>Erota eri kuviot puolipilkulla.</seg>
       </tuv>
     </tu>
     <tu>
