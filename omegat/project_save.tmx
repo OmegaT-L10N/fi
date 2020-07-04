@@ -3095,8 +3095,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191202T145917Z" creationid="piav" creationdate="20191202T145816Z">
-        <seg>&lt;g0&gt;terminologiaongelmat) (valinnainen</seg>
+      <tuv lang="fi" changeid="piav" changedate="20200704T141940Z" creationid="piav" creationdate="20191202T145816Z">
+        <seg>&lt;g0&gt;terminologiaongelmat)&lt;/g0&gt; (valinnainen</seg>
       </tuv>
     </tu>
     <tu>
@@ -31211,8 +31211,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="en">
         <seg>The supported file formats are those listed in &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;File Filters&lt;/g3&gt; &lt;/m0&gt;.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191202T151607Z" creationid="piav" creationdate="20191202T151421Z">
-        <seg>Löydät tuettujen tiedostomuotojen luettelon kohdasta &lt;m0&gt; &lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;Ominaisuudet&lt;/g2&gt; &lt;g3&gt;Tiedostosuodattimet&lt;/g3&gt;.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20200704T142001Z" creationid="piav" creationdate="20191202T151421Z">
+        <seg>Löydät tuettujen tiedostomuotojen luettelon kohdasta &lt;m0&gt; &lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;Ominaisuudet&lt;/g2&gt; &lt;g3&gt;Tiedostosuodattimet&lt;/g3&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32630,8 +32630,8 @@ palvelimelta.</seg>
       <tuv lang="en">
         <seg>This window is displayed automatically when OmegaT loads a project, and at any time by pressing &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Project Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191209T151157Z" creationid="piav" creationdate="20191209T151157Z">
-        <seg>Tämä ikkuna näkyy automaattisesti silloin, kun OmegaT lataa projektin. Saat ikkunan milloin tahansa esille valitsemalla &lt;m0&gt; &lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;Projektin tiedostot…&lt;/g2&gt;.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20200704T141906Z" creationid="piav" creationdate="20191209T151157Z">
+        <seg>Tämä ikkuna näkyy automaattisesti silloin, kun OmegaT lataa projektin. Saat ikkunan milloin tahansa esille valitsemalla &lt;m0&gt; &lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;Projektin tiedostot…&lt;/g2&gt;&lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
