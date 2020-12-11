@@ -6955,6 +6955,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change to "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T143805Z" creationid="piav" creationdate="20201211T143805Z">
+        <seg>Muuta "translated" muotoon "needs-review-translation"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T174137Z" creationid="piav" creationdate="20190521T134637Z">
@@ -13099,6 +13107,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T180918Z" creationid="PiaVee" creationdate="20171014T174119Z">
         <seg>fulani</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full checking can lead to false positives in normal texts and the PO filter already detects them.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T144008Z" creationid="piav" creationdate="20201211T144008Z">
+        <seg>Tavallisten tekstien täydellinen tarkistus voi antaa vääriä positiivisia tuloksia, jotka PO-suodatin jo tunnistaa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28100,6 +28116,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify state attribute handling behavior</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T143716Z" creationid="piav" creationdate="20201211T143702Z">
+        <seg>Määrittele, kuinka tila-attribuuttia käsitellään</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T082913Z" creationid="piav" creationdate="20190521T180511Z">
@@ -29074,6 +29098,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T123416Z" creationid="piav" creationdate="20190913T110132Z">
         <seg>Ryhmä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Team Mode Repository Mapping</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T143626Z" creationid="piav" creationdate="20201211T143626Z">
+        <seg>Ryhmätyöprojektien tietovarastojen yhdistämismääritykset</seg>
       </tuv>
     </tu>
     <tu>
@@ -43557,6 +43589,22 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T094205Z" creationid="piav" creationdate="20190522T094205Z">
         <seg>{0} vaihtaa kirjoitussuuntaa vasemmalta oikealle, oikealta vasemmalle ja kielen mukaisesti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1} ({2})</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T143819Z" creationid="piav" creationdate="20201211T143819Z">
+        <seg>{0}, versio {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1}, update {2} ({3})</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T143835Z" creationid="piav" creationdate="20201211T143835Z">
+        <seg>{0}, versio {1}, päivitys {2} ({3})</seg>
       </tuv>
     </tu>
     <tu>
