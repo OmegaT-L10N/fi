@@ -3053,6 +3053,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T140246Z" creationid="piav" creationdate="20201211T140246Z">
+        <seg>&lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T103134Z" creationid="piav" creationdate="20191201T103134Z">
@@ -3433,6 +3441,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T122157Z" creationid="piav" creationdate="20191128T122157Z">
         <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/subdir" repository=""&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T140023Z" creationid="piav" creationdate="20201211T140023Z">
+        <seg>&lt;mapping local="source/subdir" repository=""&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18891,8 +18907,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Mapping for additional sources from remote repository, with filters:</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20201211T140006Z" creationid="piav" creationdate="20201211T133526Z">
-        <seg>Paikallisten kansioiden yhdistäminen etäkansioiden tiedostoihin, jotka täyttävät tietyn ehdon:</seg>
+      <tuv lang="fi" changeid="piav" changedate="20201211T140323Z" creationid="piav" creationdate="20201211T133526Z">
+        <seg>Paikallisten kansioiden yhdistäminen etäkansioiden tiedostoihin, jotka sopivat tiettyyn suodattimeen:</seg>
       </tuv>
     </tu>
     <tu>
