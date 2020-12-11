@@ -20609,6 +20609,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note about omegat.project and mappings</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T141829Z" creationid="piav" creationdate="20201211T141829Z">
+        <seg>Huomautus omegat.project-tiedostosta ja yhdistämisistä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note however that the numbers do not indicate how relevant the repetitions are: they could mean relatively long sentences repeated a number of times (in which case you are fortunate) or it could describe a table of keywords (not so fortunate).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191212T075744Z" creationid="piav" creationdate="20191212T075744Z">
@@ -32282,6 +32290,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This feature is intended for gathering source files, but you're not restricted to source files.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T141806Z" creationid="piav" creationdate="20201211T141806Z">
+        <seg>Tämä ominaisuus on tarkoitettu kokoamaan lähdetiedostoja, mutta yhdistämistä voi käyttää muihinkin tiedostoihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder is initially empty.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T124714Z" creationid="piav" creationdate="20191208T124714Z">
@@ -36739,8 +36755,8 @@ sitten suorittaa Kaptain-käynnistyskomentosarjan painamalla</seg>
       <tuv lang="en">
         <seg>You can add as many mappings as you want, but only in the context of a team project, i.e. one of the mappings includes omegat.project.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20201211T141619Z" creationid="piav" creationdate="20201211T141619Z">
-        <seg>Voit yhdistää niin monta sijaintia kuin haluat, mutta vain, kun kyseessä on ryhmäprojekti. Tämä tarkoittaa, että yhtenä yhdistämisparametrina tarkoittaa, </seg>
+      <tuv lang="fi" changeid="piav" changedate="20201211T141726Z" creationid="piav" creationdate="20201211T141619Z">
+        <seg>Voit yhdistää niin monta sijaintia kuin haluat, mutta vain, kun kyseessä on ryhmäprojekti. Tämä tarkoittaa, että jossakin yhdistämisparametrissa käytetään tiedostoa omegat.project.</seg>
       </tuv>
     </tu>
     <tu>
