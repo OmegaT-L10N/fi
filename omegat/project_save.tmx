@@ -35615,6 +35615,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Warning: if a file does not exist, the project won't load.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T141332Z" creationid="piav" creationdate="20201211T141332Z">
+        <seg>Varoitus: Jos tiedostoa ei ole, projektin lataaminen ei onnistu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T081016Z" creationid="piav" creationdate="20191030T081016Z">
@@ -36725,6 +36733,14 @@ sitten suorittaa Kaptain-käynnistyskomentosarjan painamalla</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T120426Z" creationid="piav" creationdate="20191202T120423Z">
         <seg>Voit lisätä uuden termin sanastoon painamalla näppäinyhdistelmää &lt;k0&gt;Ctrl+vaihto+G&lt;/k0&gt; tai kopioimalla olemassa olevia sanastoja projektin &lt;f1&gt;/glossary/&lt;/f1&gt;-alikansioon. Tällöin OmegaT etsii automaattisesti sanoja niistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add as many mappings as you want, but only in the context of a team project, i.e. one of the mappings includes omegat.project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T141619Z" creationid="piav" creationdate="20201211T141619Z">
+        <seg>Voit yhdistää niin monta sijaintia kuin haluat, mutta vain, kun kyseessä on ryhmäprojekti. Tämä tarkoittaa, että yhtenä yhdistämisparametrina tarkoittaa, </seg>
       </tuv>
     </tu>
     <tu>
