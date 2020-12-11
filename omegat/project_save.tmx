@@ -3463,10 +3463,38 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="source/file.txt" repository="my/file.txt"/&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T141105Z" creationid="piav" creationdate="20201211T141105Z">
+        <seg>&lt;mapping local="laehde/tiedosto.txt" repository="minun/tiedosto.txt"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/file2.txt" repository="some/file.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T141125Z" creationid="piav" creationdate="20201211T141125Z">
+        <seg>&lt;mapping local="laehde/tiedosto2.txt" repository="joku/tiedosto.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T122157Z" creationid="piav" creationdate="20191128T122157Z">
         <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T140923Z" creationid="piav" creationdate="20201211T140923Z">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
+&lt;/repository&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3691,6 +3719,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T120001Z" creationid="piav" creationdate="20191128T120001Z">
         <seg>&lt;repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="file" url="/home/me/myfiles"&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T141038Z" creationid="piav" creationdate="20201211T141038Z">
+        <seg>&lt;repository type="file" url="/koti/minae/omat_tiedostoni"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18571,6 +18607,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local file mapping:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T140952Z" creationid="piav" creationdate="20201211T140952Z">
+        <seg>Paikallisten tiedostojen yhdistäminen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local installation path:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T140652Z" creationid="piav" creationdate="20190916T140652Z">
@@ -30523,6 +30567,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The local file &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/file.txt&lt;/f1&gt; and &lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; is mapped to the local file &lt;f3&gt;source/file2.txt&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T141313Z" creationid="piav" creationdate="20201211T141151Z">
+        <seg>Paikallinen tiedosto &lt;f0&gt;/koti/minae/omat_tiedostoni/minun/tiedosto.txt&lt;/f0&gt; yhdistetään paikalliseen tiedostoon &lt;f1&gt;laehde/tiedosto.txt&lt;/f1&gt;, ja &lt;f2&gt;/koti/minae/omat_tiedostoni/joku/tiedosto.txt&lt;/f2&gt; yhdistetään paikalliseen tiedostoon &lt;f3&gt;laehde/tiedosto2.txt&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The location does not matter, since you can add it to the command line at startup.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T124441Z" creationid="piav" creationdate="20191201T124402Z">
@@ -32480,8 +32532,8 @@ palvelimelta.</seg>
       <tuv lang="en">
         <seg>This makes it possible to rename the file to be translated.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191128T122244Z" creationid="piav" creationdate="20191128T122244Z">
-        <seg>Tällöin on mahdollista nimetä käännettävä tiedosto uudelleen.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20201211T140944Z" creationid="piav" creationdate="20191128T122244Z">
+        <seg>Näin voit nimetä käännettävän tiedosto uudelleen.</seg>
       </tuv>
     </tu>
     <tu>
