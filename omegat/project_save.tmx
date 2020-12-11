@@ -12380,6 +12380,14 @@ Virheilmoitus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files must be deleted by the project manager.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T144336Z" creationid="piav" creationdate="20201211T144336Z">
+        <seg>Tiedostojen poistaminen kuuluu projektipäällikön tehtäviin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files must be deleted first by the project manager, and then locally.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T112825Z" creationid="piav" creationdate="20191129T112739Z">
@@ -31449,8 +31457,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="en">
         <seg>The sources of the current version can be retrieved with a Git client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20201211T144149Z" creationid="piav" creationdate="20201211T144149Z">
-        <seg>Nykyisen version lähteet löytyvät Git-asias</seg>
+      <tuv lang="fi" changeid="piav" changedate="20201211T144257Z" creationid="piav" creationdate="20201211T144149Z">
+        <seg>Löydät nykyisen version lähteet joko tietovarastosta Git-asiakkaan avulla &lt;u0/&gt; tai suoraan &lt;u1&gt;SourceForgesta&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
