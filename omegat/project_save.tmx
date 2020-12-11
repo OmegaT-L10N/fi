@@ -4963,6 +4963,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All other local changes to the project are reverted.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T142556Z" creationid="piav" creationdate="20201211T142556Z">
+        <seg>Kaikki muut projektiin tehdyt paikalliset muutokset palautuvat oletuksiksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T121357Z" creationid="piav" creationdate="20190920T135345Z">
@@ -14862,6 +14870,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T072856Z" creationid="piav" creationdate="20191022T072745Z">
         <seg>Jos tiedosto on jo olemassa, sen tiedostomuotoa tai merkistökoodausta ei tarkisteta. Uudet termit ja niiden käännökset lisätään aina sarkainmerkeillä erotettuna, ja tiedoston merkistökoodauksena on UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the file does contain mappings, then local changes to mappings are lost.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T142624Z" creationid="piav" creationdate="20201211T142624Z">
+        <seg>Jos tiedostossa on yhdistämismäärityksiä, paikallisesti tehdyt muutokset häviävät.</seg>
       </tuv>
     </tu>
     <tu>
