@@ -14866,6 +14866,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the file doesn't contain mappings, the existing local mappings are re-applied, and only those.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T142342Z" creationid="piav" creationdate="20201211T142342Z">
+        <seg>Jos tiedostossa ei ole yhdistämissääntöjä, käyttöön otetaan olemassa olevat paikalliset yhdistäminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the files to be translated are parts of a tree structure (as in a website), you need only specify the top-level subfolder and OmegaT will maintain the entire contents, while keeping the tree structure intact.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T115717Z" creationid="piav" creationdate="20191208T115717Z">
@@ -20755,8 +20763,8 @@ Apit-kansioon.</seg>
       <tuv lang="en">
         <seg>Note that the omegat.project file in the repository is not changed automatically and still doesn't contain the mappings.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20201211T142153Z" creationid="piav" creationdate="20201211T142103Z">
-        <seg>Huomaa, että tietovaraston omegat.project-tiedosto ei muutu automaattisesti eivätkä yhdistämissäännös edelleenkään sisälly siihen.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20201211T142405Z" creationid="piav" creationdate="20201211T142103Z">
+        <seg>Huomaa, että tietovaraston omegat.project-tiedosto ei muutu automaattisesti eivätkä yhdistämismääritykset edelleenkään sisälly siihen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35971,8 +35979,8 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
       <tuv lang="en">
         <seg>When you create a new project and commit that to a repository, the &lt;f0&gt;omegat.project&lt;/f0&gt; file doesn't contain any mapping.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20201211T141935Z" creationid="piav" creationdate="20201211T141847Z">
-        <seg>Kun luot uuden projektin ja lähetät sen tietovarastoon, tiedosto &lt;f0&gt;omegat.project&lt;/f0&gt; ei sisällä yhdistämissääntöjä.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20201211T142350Z" creationid="piav" creationdate="20201211T141847Z">
+        <seg>Kun luot uuden projektin ja lähetät sen tietovarastoon, tiedosto &lt;f0&gt;omegat.project&lt;/f0&gt; ei sisällä yhdistämismäärityksiä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36013,6 +36021,14 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191212T074757Z" creationid="piav" creationdate="20191212T074757Z">
         <seg>Kun napsautat numeroa hiiren ykköspainikkeella, niin valittu komentosarja suoritetaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you load a project, all changes in the repository are copied to the local project, including the &lt;f0&gt;omegat.project&lt;/f0&gt; file with project settings.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T142307Z" creationid="piav" creationdate="20201211T142307Z">
+        <seg>Kun lataat projektin koneellesi, kaikki tietovarastossa tapahtuneet muutokset, mukaan lukien &lt;f0&gt;omegat.project&lt;/f0&gt;-tiedosto projektiasetuksineen, kopioidaan paikalliseen projektiin.</seg>
       </tuv>
     </tu>
     <tu>
