@@ -2323,6 +2323,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/mapping&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T140335Z" creationid="piav" creationdate="20201211T140335Z">
+        <seg>&lt;/mapping&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/repository&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T122126Z" creationid="piav" creationdate="20191128T122126Z">
@@ -3185,6 +3193,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T073717Z" creationid="piav" creationdate="20191211T073717Z">
         <seg>&lt;i1&gt;OmegaT:n voi asentaa mihin tahansa käyttöjärjestelmään, jossa Java Runtime Environment 1.6 toimii.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T140331Z" creationid="piav" creationdate="20201211T140331Z">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4927,8 +4943,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; are mapped to the local OmegaT project source folder, except all *.bak files but readme.bak.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20201211T135928Z" creationid="piav" creationdate="20201211T135928Z">
-        <seg>Kaikki sijainnin &lt;f0&gt;https://OmegaT-ryhmaeprojektin_kaikkien_laehteiden_tietovarasto&lt;/f0&gt; sisällöt yhdistetään paikalliseen OmegaT-projektikansioon,</seg>
+      <tuv lang="fi" changeid="piav" changedate="20201211T140739Z" creationid="piav" creationdate="20201211T135928Z">
+        <seg>Tässä esimerkissä kaikki sijainnin &lt;f0&gt;https://OmegaT-ryhmaeprojektin_kaikkien_laehteiden_tietovarasto&lt;/f0&gt; sisällöt yhdistetään paikalliseen OmegaT-projektikansioon, ja kaikki muut *.bak-tiedostot jätetään pois (excludes) paitsi readme.bak, joka sisällytetään (includes) synkronoitaviin tiedostoihin.</seg>
       </tuv>
     </tu>
     <tu>
