@@ -30483,8 +30483,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="en">
         <seg>The mappings can be added by editing &lt;f0&gt;omegat.project&lt;/f0&gt; or via the UI: &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Properties&lt;/g3&gt; &lt;g4&gt;Repository Mapping&lt;/g4&gt; &lt;/m1&gt;</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20201211T131519Z" creationid="piav" creationdate="20201211T131415Z">
-        <seg>Kansiot yhdistetään joko muokkaamalla &lt;f0&gt;omegat.project&lt;/f0&gt;-tiedostoa tai valitsemalla käyttöliittymästä &lt;m1&gt; &lt;g2&gt;Projekti&lt;/g2&gt; &lt;g3&gt;Ominaisuudet&lt;/g3&gt; &lt;g4&gt;Projektivarastojen määritysn&lt;/g4&gt; &lt;/m1&gt;</seg>
+      <tuv lang="fi" changeid="piav" changedate="20201211T131540Z" creationid="piav" creationdate="20201211T131415Z">
+        <seg>Kansiot yhdistetään joko muokkaamalla &lt;f0&gt;omegat.project&lt;/f0&gt;-tiedostoa tai valitsemalla käyttöliittymästä &lt;m1&gt; &lt;g2&gt;Projekti&lt;/g2&gt; &lt;g3&gt;Ominaisuudet&lt;/g3&gt; &lt;g4&gt;Projektivarastojen määritys…&lt;/g4&gt; &lt;/m1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31975,6 +31975,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T121140Z" creationid="piav" creationdate="20191128T121140Z">
         <seg>Tämä voi olla joko http (https), svn tai git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be either http (which includes https), svn, git or file.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T131629Z" creationid="piav" creationdate="20201211T131629Z">
+        <seg>Parametrin muoto voi olla http (tai https), svn, git tai tiedosto.</seg>
       </tuv>
     </tu>
     <tu>
