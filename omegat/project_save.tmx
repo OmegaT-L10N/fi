@@ -20611,8 +20611,8 @@ Apit-kansioon.</seg>
       <tuv lang="en">
         <seg>Note about omegat.project and mappings</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20201211T141829Z" creationid="piav" creationdate="20201211T141829Z">
-        <seg>Huomautus omegat.project-tiedostosta ja yhdistämisistä:</seg>
+      <tuv lang="fi" changeid="piav" changedate="20201211T141835Z" creationid="piav" creationdate="20201211T141829Z">
+        <seg>Huomaa tämä omegat.project-tiedostosta ja yhdistämisistä:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20749,6 +20749,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T121935Z" creationid="piav" creationdate="20191201T121935Z">
         <seg>Huomaa, että avain on 38 merkkiä pitkä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that the omegat.project file in the repository is not changed automatically and still doesn't contain the mappings.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T142153Z" creationid="piav" creationdate="20201211T142103Z">
+        <seg>Huomaa, että tietovaraston omegat.project-tiedosto ei muutu automaattisesti eivätkä yhdistämissäännös edelleenkään sisälly siihen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35961,10 +35969,26 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you create a new project and commit that to a repository, the &lt;f0&gt;omegat.project&lt;/f0&gt; file doesn't contain any mapping.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T141935Z" creationid="piav" creationdate="20201211T141847Z">
+        <seg>Kun luot uuden projektin ja lähetät sen tietovarastoon, tiedosto &lt;f0&gt;omegat.project&lt;/f0&gt; ei sisällä yhdistämissääntöjä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you create the target documents in an &lt;a0&gt;OmegaT&lt;/a0&gt; project, the translation memory of the project is output in the form of three files in the root folder of your &lt;a1&gt;OmegaT&lt;/a1&gt; project (see the above description).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T072208Z" creationid="piav" creationdate="20191128T072208Z">
         <seg>Kun luot &lt;a0&gt;OmegaT&lt;/a0&gt;-projektin kohdeasiakirjoja, projektin käännösmuisti siirtyy kolmeksi tiedostoksi &lt;a1&gt;OmegaT&lt;/a1&gt;-projektin pääkansioon (ks. yllä oleva kuvaus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you download the project, the project is converted to a team project locally and a default mapping is added.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T142051Z" creationid="piav" creationdate="20201211T142019Z">
+        <seg>Kun lataat projektin koneellesi, ohjelma muuttaa projektin paikalliseksi ryhmäprojektiksi ja lisää siihen oletusmuotoiset yhdistämisparametrit.</seg>
       </tuv>
     </tu>
     <tu>
