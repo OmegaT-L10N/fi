@@ -29665,6 +29665,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The PO filter already handles %..</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T142949Z" creationid="piav" creationdate="20201211T142949Z">
+        <seg>PO-suodation osaa jo käsitellä %...-merkkejä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190523T172451Z" creationid="piav" creationdate="20190521T175848Z">
@@ -35941,6 +35949,14 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T130833Z" creationid="piav" creationdate="20191127T130833Z">
         <seg>RTL- ja LTR-kielten välillä toimiva kääntäjä voi joutua vaihtamaan LTR- ja RTL-tilan välillä tämän tästä, jotta hän pystyy lukemaan lähdekielisen tägin ja kirjoittamaan sen oikein kohdesegmenttiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables or placeholders ({0}), if the file filter doesn't do it out of the box already.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T142926Z" creationid="piav" creationdate="20201211T142701Z">
+        <seg>Kun olet kääntämässä ohjelmistotiedostoja, voit määrittää tägien tarkistuksen asetukset tarkistamaan myös ohjelmointimuuttujat (%…) tai paikkamerkit ({0}). (Jotkin tiedostosuodattimet tarkistavat ne automaattisesti.)</seg>
       </tuv>
     </tu>
     <tu>
