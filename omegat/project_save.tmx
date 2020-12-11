@@ -4909,6 +4909,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; are mapped to the local OmegaT project source folder, except all *.bak files but readme.bak.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T135928Z" creationid="piav" creationdate="20201211T135928Z">
+        <seg>Kaikki sijainnin &lt;f0&gt;https://OmegaT-ryhmaeprojektin_kaikkien_laehteiden_tietovarasto&lt;/f0&gt; sisällöt yhdistetään paikalliseen OmegaT-projektikansioon,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20201211T135541Z" creationid="piav" creationdate="20191128T122123Z">
@@ -18883,8 +18891,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Mapping for additional sources from remote repository, with filters:</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20201211T135241Z" creationid="piav" creationdate="20201211T133526Z">
-        <seg>Paikallisten kansioiden yhdistäminen etäkansioiden tiedostoihin, jotka sopivat suodattimeen:</seg>
+      <tuv lang="fi" changeid="piav" changedate="20201211T140006Z" creationid="piav" creationdate="20201211T133526Z">
+        <seg>Paikallisten kansioiden yhdistäminen etäkansioiden tiedostoihin, jotka täyttävät tietyn ehdon:</seg>
       </tuv>
     </tu>
     <tu>
