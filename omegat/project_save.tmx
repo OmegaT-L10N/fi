@@ -18875,8 +18875,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Mapping for additional sources from remote repository, with filters:</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20201211T134940Z" creationid="piav" creationdate="20201211T133526Z">
-        <seg>Paikallisten kansioiden yhdistäminen etäkansioiden tiedostoihin, jota täyttävät suodatinehdon:</seg>
+      <tuv lang="fi" changeid="piav" changedate="20201211T135241Z" creationid="piav" creationdate="20201211T133526Z">
+        <seg>Paikallisten kansioiden yhdistäminen etäkansioiden tiedostoihin, jotka sopivat suodattimeen:</seg>
       </tuv>
     </tu>
     <tu>
