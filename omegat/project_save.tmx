@@ -3669,6 +3669,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T135424Z" creationid="piav" creationdate="20201211T135310Z">
+        <seg>&lt;repository type="svn" url="https://tietovarasto_jossa_kaikki repo_for_All_OmegaT_team_project_sources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20201211T132431Z" creationid="piav" creationdate="20191128T122048Z">
