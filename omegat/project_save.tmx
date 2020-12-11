@@ -16590,8 +16590,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>Instead, the translators copy the files themselves, or add mappings to synchronize files from other locations.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20201211T125339Z" creationid="piav" creationdate="20201211T124249Z">
-        <seg>Kääntäjät joko kopioivat tarvittavat tiedostot itse tai määrittävät projektissa käytettävät tiedostopolut, joiden kautta tiedostoon synkronoitavien tiedostojen polut.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20201211T130540Z" creationid="piav" creationdate="20201211T124249Z">
+        <seg>Kääntäjät joko kopioivat tarvittavat tiedostot itse tai määrittävät projektissa käytettävät etävarastot ja </seg>
       </tuv>
     </tu>
     <tu>
