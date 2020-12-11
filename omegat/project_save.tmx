@@ -7379,6 +7379,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check simple &amp;java MessageFormat patterns (e.g. {0}).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T144037Z" creationid="piav" creationdate="20201211T144037Z">
+        <seg>Tarkista &amp;javan yksinkertaiset MessageFormat-muodot (esim. {0}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check spaces around tags</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T094551Z" creationid="piav" creationdate="20191211T094551Z">
@@ -8560,6 +8568,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T135642Z" creationid="piav" creationdate="20190916T135642Z">
         <seg>Annetun kansion luonti ei onnistunut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Could not delete {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T144117Z" creationid="piav" creationdate="20201211T144117Z">
+        <seg>Kohteen {0} poistaminen ei onnistunut</seg>
       </tuv>
     </tu>
     <tu>
@@ -20045,6 +20061,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>NB: the Java™ Resource Bundles filter already detects them.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T144056Z" creationid="piav" creationdate="20201211T144056Z">
+        <seg>Huom.: Java™ Resource Bundles -suodatin tunnistaa jo ne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Name</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T081801Z" creationid="piav" creationdate="20190522T081801Z">
@@ -31423,6 +31447,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The sources of the current version can be retrieved with a Git client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T144149Z" creationid="piav" creationdate="20201211T144149Z">
+        <seg>Nykyisen version lähteet löytyvät Git-asias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The sources of the current version can be retrieved with a SVN client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T133540Z" creationid="piav" creationdate="20191201T133454Z">
@@ -39789,6 +39821,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T144121Z" creationid="piav" creationdate="20201211T144121Z">
+        <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T135516Z" creationid="piav" creationdate="20191127T135516Z">
@@ -39849,6 +39889,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T103941Z" creationid="piav" creationdate="20191211T103933Z">
         <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T144126Z" creationid="piav" creationdate="20201211T144126Z">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
       </tuv>
     </tu>
     <tu>
