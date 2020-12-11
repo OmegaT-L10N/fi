@@ -9392,6 +9392,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default project mapping:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T132131Z" creationid="piav" creationdate="20201211T132131Z">
+        <seg>Projektikansioiden oletusmuotoinen yhdistäminen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default shortcut</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T061830Z" creationid="piav" creationdate="20191023T061830Z">
@@ -24630,6 +24638,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T121316Z" creationid="piav" creationdate="20191128T121153Z">
         <seg>Käännettävien tiedostojen etäsijainti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote location or directory of the files to translate.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20201211T131952Z" creationid="piav" creationdate="20201211T131952Z">
+        <seg>Käännettävien tiedostojen etäsijainti tai hakemisto</seg>
       </tuv>
     </tu>
     <tu>
