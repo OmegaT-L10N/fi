@@ -3671,8 +3671,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20201211T135424Z" creationid="piav" creationdate="20201211T135310Z">
-        <seg>&lt;repository type="svn" url="https://tietovarasto_jossa_kaikki repo_for_All_OmegaT_team_project_sources</seg>
+      <tuv lang="fi" changeid="piav" changedate="20201211T135702Z" creationid="piav" creationdate="20201211T135310Z">
+        <seg>&lt;repository type="svn" url="https://OmegaT-ryhmaeprojektin_kaikkien_laehteiden_tietovarasto"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4911,8 +4911,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191128T122123Z" creationid="piav" creationdate="20191128T122123Z">
-        <seg>Kaikki sijainnin &lt;f0&gt;&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; sisällöt yhdistetään paikalliseen OmegaT-projektiin.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20201211T135541Z" creationid="piav" creationdate="20191128T122123Z">
+        <seg>Kaikki sijainnin &lt;f0&gt;&gt;https://kaikkien_OmegaT-ryhmaeprojektien_tietovarasto/En-US_DE_projekti&lt;/f0&gt; sisällöt yhdistetään paikalliseen OmegaT-projektiin.</seg>
       </tuv>
     </tu>
     <tu>
