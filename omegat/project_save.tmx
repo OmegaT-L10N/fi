@@ -3415,8 +3415,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191128T122049Z" creationid="piav" creationdate="20191128T122049Z">
-        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
+      <tuv lang="fi" changeid="piav" changedate="20201211T132438Z" creationid="piav" creationdate="20191128T122049Z">
+        <seg>&lt;mapping local="" repository="En-US_DE-projekti"/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3671,8 +3671,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191128T122048Z" creationid="piav" creationdate="20191128T122048Z">
-        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      <tuv lang="fi" changeid="piav" changedate="20201211T132431Z" creationid="piav" creationdate="20191128T122048Z">
+        <seg>&lt;repository type="svn" url="https://kaikkien_OmegaT-ryhmaeprojektien_tietovarasto"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18875,8 +18875,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Mapping for projects in a subdirectory of the repository:</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20201211T132307Z" creationid="piav" creationdate="20201211T132307Z">
-        <seg>Varaston alikansiossa </seg>
+      <tuv lang="fi" changeid="piav" changedate="20201211T133134Z" creationid="piav" creationdate="20201211T132307Z">
+        <seg>Paikallisten kansioiden yhdistäminen varaston alikansioon:</seg>
       </tuv>
     </tu>
     <tu>
