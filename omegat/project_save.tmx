@@ -14868,8 +14868,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If the file doesn't contain mappings, the existing local mappings are re-applied, and only those.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20201211T142342Z" creationid="piav" creationdate="20201211T142342Z">
-        <seg>Jos tiedostossa ei ole yhdistämissääntöjä, käyttöön otetaan olemassa olevat paikalliset yhdistäminen</seg>
+      <tuv lang="fi" changeid="piav" changedate="20201211T142450Z" creationid="piav" creationdate="20201211T142342Z">
+        <seg>Jos tiedostossa ei ole yhdistämismäärityksiä, käyttöön otetaan vain ja ainoastaan olemassa olevat paikalliset yhdistämismääritykset.</seg>
       </tuv>
     </tu>
     <tu>
