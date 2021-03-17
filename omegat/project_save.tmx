@@ -8510,8 +8510,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T111536Z" creationid="piav" creationdate="20191023T111536Z">
-        <seg>Jos sinulla jo on sopivia sanakirjatiedostoja (esim. Apache OpenOfficen, LibreOfficen, Firefoxin tai Thunderbirdin osana), ne kannattaa kopioida ne käsin sanakirjakansioon.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210317T060338Z" creationid="piav" creationdate="20191023T111536Z">
+        <seg>Jos sinulla jo on sopivia sanakirjatiedostoja (esim. Apache OpenOfficen, LibreOfficen, Firefoxin tai Thunderbirdin osana), ne kannattaa kopioida käsin sanakirjakansioon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14716,8 +14716,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If necessary, edit the file names of the dictionary or change your project's language settings.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T113343Z" creationid="piav" creationdate="20191023T113343Z">
-        <seg>Nimeä sanakirjatiedostot uudelleen tai muuta projektin kieliasetuksia tarvittaessa.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210317T060451Z" creationid="piav" creationdate="20191023T113343Z">
+        <seg>Nimeä sanakirjatiedostot uudelleen tai muuta tarvittaessa projektin kieliasetuksia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23192,8 +23192,8 @@ everything.</seg>
       <tuv lang="en">
         <seg>Place the dictionary files you wish to use in this folder.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T110831Z" creationid="piav" creationdate="20191023T110831Z">
-        <seg>Tuo tähän kansioon sanakirjatiedostot, joita haluat käyttää.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210317T060335Z" creationid="piav" creationdate="20191023T110831Z">
+        <seg>Tuo tähän kansioon sanakirjatiedostot, joita haluat käytt</seg>
       </tuv>
     </tu>
     <tu>
