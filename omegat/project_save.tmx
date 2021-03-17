@@ -9800,8 +9800,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Dictionary Folder:</seg>
       </tuv>
-      <tuv lang="fi" changeid="PiaVee" changedate="20171218T091417Z" creationid="PiaVee" creationdate="20171218T091417Z">
-        <seg>Sanastokansio:</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210317T061255Z" creationid="PiaVee" creationdate="20171218T091417Z">
+        <seg>Sanakirjojen kansio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10552,7 +10552,7 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Downloading project...</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20200504T142329Z" creationid="PiaVee" creationdate="20171218T082803Z">
+      <tuv lang="fi" changeid="piav" changedate="20210317T061436Z" creationid="PiaVee" creationdate="20171218T082803Z">
         <seg>Ladataan projektia…</seg>
       </tuv>
     </tu>
