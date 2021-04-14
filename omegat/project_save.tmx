@@ -29550,6 +29550,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Terms from the project writable glossary are displayed in bold face.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T171006Z" creationid="piav" creationdate="20210414T171006Z">
+        <seg>Projektin kirjoituskelpoisessa sanastotiedostossa olevat termit on lihavoitu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Terms from the reference glossaries are displayed in normal face.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T171036Z" creationid="piav" creationdate="20210414T171036Z">
+        <seg>Apusanastojen termin näkyvät normaalifontilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T083939Z" creationid="piav" creationdate="20191022T073811Z">
@@ -33688,6 +33704,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T115457Z" creationid="piav" creationdate="20191127T115232Z">
         <seg>Poista projektikohtaiset segmentointisäännöt ottamalla rasti pois ruudusta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To display the &lt;g0&gt;Autocompletion&lt;/g0&gt; contextual menu for the glossary matches, hit the OS dependant key (&lt;k1&gt;Escape&lt;/k1&gt; for macOS, &lt;k2&gt;Ctrl+Space&lt;/k2&gt; for the other platforms).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T172222Z" creationid="piav" creationdate="20210414T172222Z">
+        <seg>Saat &lt;/g0&gt;Automaattinen täydennys&lt;k1&gt;-valintaikkunan näkyviin paina käyttöjärjestelmän mukaan joko &lt;g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
