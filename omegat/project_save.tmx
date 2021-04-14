@@ -9512,8 +9512,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Deactivate &lt;g0&gt;Use stemming for glossary entries&lt;/g0&gt; in the OmegaT global preferences to only find exact matches for a term.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210414T165742Z" creationid="piav" creationdate="20210414T165742Z">
-        <seg>Poista rasti valinnasta &lt;g0&gt;</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210414T170116Z" creationid="piav" creationdate="20210414T165742Z">
+        <seg>Mene OmegaT-yleisasetuksiin ja poista rasti valinnasta &lt;g0&gt;Käytä sanaston termien vartaloita&lt;/g0&gt;, niin sanastoruudussa näkyy ainoastaan tarkkoja termivastaavuuksia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35443,8 +35443,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="en">
         <seg>Use stemming for glossary entries</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T064452Z" creationid="piav" creationdate="20191023T064452Z">
-        <seg>Käytä sanaston termien vartaloita</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210414T165911Z" creationid="piav" creationdate="20191023T064452Z">
+        <seg>Käytä sanaston termeissä vartaloita</seg>
       </tuv>
     </tu>
     <tu>
