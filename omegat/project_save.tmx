@@ -15018,6 +15018,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and the file will be saved in UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T165247Z" creationid="piav" creationdate="20210414T165247Z">
+        <seg>Jos tiedosto on jo olemassa, sen tiedostomuotoa tai merkistökoodausta ei tarkisteta. Uudet termit ja niiden käännökset lisätään aina sarkainmerkeillä erotettuna, ja tiedosto tallennetaan merkistökoodauksella UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the file does contain mappings, then local changes to mappings are lost.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20201211T142624Z" creationid="piav" creationdate="20201211T142624Z">
@@ -20393,6 +20401,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T142544Z" creationid="piav" creationdate="20191202T142544Z">
         <seg>Uusi…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Newly added terms will be immediately recognized.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T165418Z" creationid="piav" creationdate="20210414T165418Z">
+        <seg>Uudet lisätyt termit tunnistetaan välittömästi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33402,10 +33418,26 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add a new term to the writable glossary use &lt;g0&gt;Edit&lt;/g0&gt; &gt; &lt;g1&gt;Create Glossary Entry&lt;/g1&gt; (&lt;k2&gt;Ctrl+Shift+G&lt;/k2&gt;).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T165404Z" creationid="piav" creationdate="20210414T165331Z">
+        <seg>Lisää uusi termi kirjoituskelpoiseen sanastoon valitsemalla &lt;g0&gt;Muokkaa&lt;/g0&gt; &gt; &lt;g1&gt;Luo sanaston termi&lt;/g1&gt; tai pikanäppäimellä &lt;k2&gt;Ctrl+Shift+G&lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add contents to it, select &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Create Translated Documents&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191212T075911Z" creationid="piav" creationdate="20191212T075911Z">
         <seg>Luo sinne sisältöä painamalla näppäinyhdistelmää &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Projekti&lt;/g5&gt; &lt;g6&gt;Luo käännetyt tiedostot&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add new terms to reference glossaries, edit them in an external text editor.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T165518Z" creationid="piav" creationdate="20210414T165518Z">
+        <seg>Lisää termejä muihin sanastoihin muokkaamalla tiedostoja tekstieditorissa.</seg>
       </tuv>
     </tu>
     <tu>
