@@ -3197,6 +3197,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.8 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T162033Z" creationid="piav" creationdate="20210414T162033Z">
+        <seg>&lt;i1&gt;OmegaT:n voi asentaa mihin tahansa käyttöjärjestelmään, jossa Java Runtime Environment 1.8 toimii.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20201211T140331Z" creationid="piav" creationdate="20201211T140331Z">
@@ -10763,6 +10771,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T104022Z" creationid="piav" creationdate="20190916T104022Z">
         <seg>Vie segmentti tekstitiedostoihin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EPWING plugin</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T161854Z" creationid="piav" creationdate="20210414T161854Z">
+        <seg>EPWING-laajennus</seg>
       </tuv>
     </tu>
     <tu>
@@ -20737,6 +20753,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notarized vs Unsigned</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T162150Z" creationid="piav" creationdate="20210414T162150Z">
+        <seg>Mitä eroa on Notarized- ja Unsigned-ohjelmilla?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T081606Z" creationid="piav" creationdate="20190522T081606Z">
@@ -21509,6 +21533,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T073954Z" creationid="piav" creationdate="20191211T073954Z">
         <seg>Tällä hetkellä OmegaT vaatii JRE-version 1.6 tai uudemman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT currently requires version 1.8 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T162123Z" creationid="piav" creationdate="20210414T162123Z">
+        <seg>Tällä hetkellä OmegaT vaatii JRE-version 1.8 tai uudemman.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24384,6 +24416,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T162152Z" creationid="piav" creationdate="20191210T162152Z">
         <seg>Tuo ohjelmaan lisää suodattimia, joilla voidaan käsitellä entistä useampia tiedostomuotoja, mm. Trados TTX:ää.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides functionality to read EPWING dictionary format.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T162056Z" creationid="piav" creationdate="20210414T162006Z">
+        <seg>Lisää ohjelmaan toiminnon, joka lukee EPWING-sanakirjamuotoa.</seg>
       </tuv>
     </tu>
     <tu>
