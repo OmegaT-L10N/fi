@@ -16834,6 +16834,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Integrates the TexTra neural machine translation engine into OmegaT.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T161625Z" creationid="piav" creationdate="20210414T161612Z">
+        <seg>Yhdistää TexTra-neuroverkkokääntimen osaksi OmegaT:tä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Integration manager</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T102803Z" creationid="PiaVee" creationdate="20171219T083919Z">
@@ -29903,6 +29911,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T104617Z" creationid="PiaVee" creationdate="20171014T102553Z">
         <seg>TaaS-palvelu osoitteessa http://demo.taas-project.eu avustaa terminologiassa Euroopan unionin virallisilla kielillä sekä turkiksi ja venäjäksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TexTra API is freely provided by NICT, Japan government research agency.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T161846Z" creationid="piav" creationdate="20210414T161633Z">
+        <seg>Japanin tieto- ja viestintätekniikan instituutti NICT tarjoaa TexTran API-rajapinnan vapaasti käytettäväksi.</seg>
       </tuv>
     </tu>
     <tu>
