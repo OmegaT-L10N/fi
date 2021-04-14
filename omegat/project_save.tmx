@@ -13505,8 +13505,8 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossary note</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210414T154746Z" creationid="piav" creationdate="20210414T154746Z">
-        <seg>Sanastoon tuleva muistiinpano</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210414T160944Z" creationid="piav" creationdate="20210414T154746Z">
+        <seg>Sanaston muistiinpano</seg>
       </tuv>
     </tu>
     <tu>
@@ -13529,7 +13529,7 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossary source</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210414T160837Z" creationid="piav" creationdate="20210414T154610Z">
+      <tuv lang="fi" changeid="piav" changedate="20210414T160910Z" creationid="piav" creationdate="20210414T154610Z">
         <seg>Sanaston lähdetermi</seg>
       </tuv>
     </tu>
@@ -13537,8 +13537,8 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossary translation</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210414T154757Z" creationid="piav" creationdate="20210414T154724Z">
-        <seg>Sanastoon kirjattava käännös</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210414T160918Z" creationid="piav" creationdate="20210414T154724Z">
+        <seg>Sanaston käännetty termi</seg>
       </tuv>
     </tu>
     <tu>
