@@ -24364,6 +24364,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provides filters for handling further file formats, including Trados TTX, and Markdown.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T161522Z" creationid="piav" creationdate="20210414T161522Z">
+        <seg>Tarjoaa lisää suodattimia erilaisten tiedostomuotojen (esim. Trados TTX ja Markdown) käsittelyyn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Provides filters for handling further file formats, including Trados TTX.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T162152Z" creationid="piav" creationdate="20191210T162152Z">
@@ -29338,6 +29346,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190913T110522Z" creationid="piav" creationdate="20190913T110522Z">
         <seg>Testataan…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TexTra plugin</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T161542Z" creationid="piav" creationdate="20210414T161542Z">
+        <seg>TexTra-laajennus</seg>
       </tuv>
     </tu>
     <tu>
@@ -40955,6 +40971,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210414T161423Z" creationid="piav" creationdate="20210414T155112Z">
         <seg>macOS Notarized</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS Unsigned</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T161425Z" creationid="piav" creationdate="20210414T161425Z">
+        <seg>macOS Unsigned</seg>
       </tuv>
     </tu>
     <tu>
