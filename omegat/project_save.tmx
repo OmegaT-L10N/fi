@@ -8013,8 +8013,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Comments are displayed after a number and each on a separate line.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210414T170540Z" creationid="piav" creationdate="20210414T170540Z">
-        <seg> </seg>
+      <tuv lang="fi" changeid="piav" changedate="20210414T170947Z" creationid="piav" creationdate="20210414T170540Z">
+        <seg>Termien selitykset ja kommentit on numeroitu, ja kukin niistä aloittaa uuden rivin.</seg>
       </tuv>
     </tu>
     <tu>
