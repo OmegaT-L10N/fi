@@ -17575,8 +17575,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Its name and location can be modified in the project properties dialog but its extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; and its location must be contained in the &lt;f2&gt;/glossary&lt;/f2&gt; project folder.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210414T164859Z" creationid="piav" creationdate="20210414T164825Z">
-        <seg>TIedoston nimeä ja sijaintia voi muuttaa projektin ominaisuuksien valintaikkunassa, mutta tiedostopäätteen tulee olla &lt;f0&gt;.txt&lt;/f0&gt; tai </seg>
+      <tuv lang="fi" changeid="piav" changedate="20210414T164932Z" creationid="piav" creationdate="20210414T164825Z">
+        <seg>TIedoston nimeä ja sijaintia voi muuttaa projektin ominaisuuksien valintaikkunassa, mutta tiedostopäätteen tulee olla &lt;f0&gt;.txt&lt;/f0&gt; tai &lt;f1&gt;.utf8&lt;/f1&gt;, ja tiedoston on oltava projektin &lt;f2&gt;/glossary&lt;/f2&gt;-kansiossa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30503,8 +30503,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The default writable glossary is located in the the &lt;f0&gt;/glossary&lt;/f0&gt; project folder and is called &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210414T164631Z" creationid="piav" creationdate="20210414T164631Z">
-        <seg>Oletusasetuksena on, että projektin kirjoituskelpoisena sanastona käytetään tiedostoa &lt;f1&gt;glossary.txt&lt;/f1&gt;, joka löytyy projektin &lt;f0&gt;/glossary&lt;/f0&gt;-kansiosta.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210414T165010Z" creationid="piav" creationdate="20210414T164631Z">
+        <seg>Projektin oletusasetuksena on, että kirjoituskelpoisena sanastona käytetään tiedostoa &lt;f0&gt;glossary.txt&lt;/f0&gt;, joka löytyy projektin &lt;f1&gt;/glossary&lt;/f1&gt;-kansiosta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30673,6 +30673,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T072604Z" creationid="piav" creationdate="20191022T072604Z">
         <seg>Kun asetat sanastotiedostokansiota, erillistä sanastotiedostoa ei vielä tarvita. Tiedosto luodaan (tarvittaessa) automaattisesti, kun lisäät sanastoon uuden termin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The file does not need to exist when setting it, it will be created when adding the first glossary entry.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T165202Z" creationid="piav" creationdate="20210414T165202Z">
+        <seg>Kun määrität käytettävän sanastotiedoston, sitä ei vielä tarvitse edes olla. Tiedosto luodaan automaattisesti, kun lisäät sanastoon ensimmäisen termin.</seg>
       </tuv>
     </tu>
     <tu>
