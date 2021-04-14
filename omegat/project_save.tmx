@@ -17701,6 +17701,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep tags in translated text</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T154248Z" creationid="piav" creationdate="20210414T154234Z">
+        <seg>Pidä tägit mukana käännetyssä tekstissä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep up your good work!</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20170910T091417Z" creationid="PiaVee" creationdate="20170910T091354Z">
@@ -19275,6 +19283,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T063521Z" creationid="piav" creationdate="20191023T063521Z">
         <seg>Merkitse tyhjätilamerkit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark unknown words</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T154208Z" creationid="piav" creationdate="20210414T154208Z">
+        <seg>Merkitse tuntemattomat sanat</seg>
       </tuv>
     </tu>
     <tu>
@@ -23386,6 +23402,14 @@ onko sinun tehtävä vielä muuta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T083035Z" creationid="piav" creationdate="20190920T125315Z">
         <seg>Anna käyttäjänimi/salasana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter username/password for {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T154542Z" creationid="piav" creationdate="20210414T154542Z">
+        <seg>{0}: Anna käyttäjänimi/salasana</seg>
       </tuv>
     </tu>
     <tu>
