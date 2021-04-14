@@ -7099,6 +7099,22 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check "&lt;l3/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T154915Z" creationid="piav" creationdate="20210414T154845Z">
+        <seg>Lisää tietoa löydät alhaalta kohdasta "&lt;l3/&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check "&lt;l4/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T154856Z" creationid="piav" creationdate="20210414T154856Z">
+        <seg>Tarkista alla oleva "&lt;l3/&gt;" saadaksesi lisää tietoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check "Command line launching" below for more information.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T095655Z" creationid="piav" creationdate="20191201T095655Z">
@@ -13521,8 +13537,8 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossary translation</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210414T154724Z" creationid="piav" creationdate="20210414T154724Z">
-        <seg>Sanaston käännös</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210414T154757Z" creationid="piav" creationdate="20210414T154724Z">
+        <seg>Sanastoon kirjattava käännös</seg>
       </tuv>
     </tu>
     <tu>
@@ -40931,6 +40947,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T185505Z" creationid="piav" creationdate="20190527T185505Z">
         <seg>mALIGNa (lisenssi: MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS Notarized</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T155112Z" creationid="piav" creationdate="20210414T155112Z">
+        <seg>macOS </seg>
       </tuv>
     </tu>
     <tu>
