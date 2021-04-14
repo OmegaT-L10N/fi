@@ -12903,6 +12903,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T163553Z" creationid="piav" creationdate="20210414T163553Z">
+        <seg>Esimerkiksi (jos oletuskäytös on valittu) lisäkäännösmuistista tuleva käännös otetaan käyttöön ja merkitään etuliitteellä &lt;e3&gt;[fuzzy]&lt;/e3&gt;, jotta kääntäjä voi myöhemmin tarkastaa käännökset ja tarkistaa, ovatko tällä merkinnällä varustetut käännökset oikein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191212T080357Z" creationid="piav" creationdate="20191212T080357Z">
@@ -15830,6 +15838,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T145806Z" creationid="piav" creationdate="20191209T145707Z">
         <seg>&lt;g0&gt;Kokonaisuutena&lt;/g0&gt;-tilassa tekstit arvoidaan kokonaisuutena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;g1&gt;Parsewise&lt;/g1&gt; comparison mode, they are evaluated segment by segment.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T163449Z" creationid="piav" creationdate="20210414T163449Z">
+        <seg>&lt;g1&gt;Segmentti kerrallaan&lt;/g1&gt;-tilassa tekstit arvioidaan – yllätys, yllätys – segmentti kerrallaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22719,6 +22735,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Project files&lt;/l0&gt; window.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T163633Z" creationid="piav" creationdate="20210414T163633Z">
+        <seg>&lt;l0&gt;Projektin tiedostot&lt;/l0&gt;-ikkuna avautuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Segmentation Setup&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T142525Z" creationid="piav" creationdate="20191202T142517Z">
@@ -26660,6 +26684,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0&gt;Use a team project&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T163622Z" creationid="piav" creationdate="20210414T163622Z">
+        <seg>Lisää tietoa löydät kohdasta &lt;l0&gt;Ryhmäprojektin käyttäminen&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l1&gt;Segmentation Setup preferences&lt;/l1&gt; for more information on segmentation rules.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T115359Z" creationid="piav" creationdate="20191127T115302Z">
@@ -28296,6 +28328,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T120442Z" creationid="piav" creationdate="20191128T120442Z">
         <seg>Erityistapaus: Minimimääräinen jako</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Special case: selective sharing</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T163645Z" creationid="piav" creationdate="20210414T163645Z">
+        <seg>Erityistapaus: Valikoiva jako</seg>
       </tuv>
     </tu>
     <tu>
@@ -30967,6 +31007,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The mappings can be added via the UI: &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;Repository Mapping&lt;/g3&gt; &lt;/m0&gt; or by editing &lt;f4&gt;omegat.project&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T163821Z" creationid="piav" creationdate="20210414T163821Z">
+        <seg>Kansiot yhdistetään joko valitsemalla käyttöliittymästä &lt;m0&gt; &lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;Ominaisuudet&lt;/g2&gt; &lt;g3&gt;Projektivarastojen määritys…&lt;/g3&gt; &lt;/m0&gt; tai muokkaamalla &lt;f4&gt;omegat.project&lt;/f4&gt;-tiedostoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T104806Z" creationid="piav" creationdate="20191208T104806Z">
@@ -31099,6 +31147,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T171145Z" creationid="piav" creationdate="20191210T171145Z">
         <seg>Avoimen lähdekoodin filosofia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The option only appears when such a selection is possible.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T163525Z" creationid="piav" creationdate="20210414T163525Z">
+        <seg>Tämä vaihtoehto näkyy vain, kun tällainen valinta on mahdollista tehdä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35285,6 +35341,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T101805Z" creationid="piav" creationdate="20191201T101734Z">
         <seg>Käynnistä &lt;a2&gt;OmegaT&lt;/a2&gt; komentoriviltä käyttämällä kansiossa &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; olevaa &lt;f0&gt;OmegaT.jar&lt;/f0&gt;-tiedostoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;g0&gt;ID&lt;/g0&gt; comparison mode to align Key=Value texts.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T163536Z" creationid="piav" creationdate="20210414T163536Z">
+        <seg>&lt;g0&gt;ID-vertailu&lt;/g0&gt;-tilassa saat kohdistettua avain–arvo-tekstipareja.</seg>
       </tuv>
     </tu>
     <tu>
