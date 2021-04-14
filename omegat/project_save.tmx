@@ -3987,6 +3987,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A given project can have any number of reference glossaries, but only one glossary, the project default glossary, will be directly writable from the OmegaT user interface.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T164204Z" creationid="piav" creationdate="20210414T164204Z">
+        <seg>Yhdessä projektissa voi olla useita sanastotiedostoja, mutta vain yhteen niistä, projektin oletussanastoon voi lisätä termejä OmegaT-käyttöliittymästä käsin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A given source segment may require several different translations, depending on the context.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T112954Z" creationid="piav" creationdate="20191208T112820Z">
@@ -32312,6 +32320,14 @@ kadonnut sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T114349Z" creationid="piav" creationdate="20191202T114245Z">
         <seg>Tägit ovat suojeltuja, joten et voi muokata niiden sisältöä. Voit kuitenkin poistaa tägejä, kirjoittaa niitä käsin ja siirtää niiden paikkaa kohdesegmentissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can be created and updated manually or imported from other projects.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T164104Z" creationid="piav" creationdate="20210414T164104Z">
+        <seg>Niitä voidaan luoda ja päivittää manuaalisesti tai tuoda muista projekteista.</seg>
       </tuv>
     </tu>
     <tu>
