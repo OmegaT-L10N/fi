@@ -13487,6 +13487,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary note</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T154746Z" creationid="piav" creationdate="20210414T154746Z">
+        <seg>Sanastoon tuleva muistiinpano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary pane</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T083941Z" creationid="piav" creationdate="20191022T074017Z">
@@ -13499,6 +13507,22 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191203T135530Z" creationid="piav" creationdate="20191203T135133Z">
         <seg>Kun sanastoruutuun pudotetaan sanastotiedosto (tiedostopäätteenä &lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt; tms.), se kopioidaan avattuna olevan projektin &lt;f2&gt;glossary&lt;/f2&gt;-kansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary source</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T154610Z" creationid="piav" creationdate="20210414T154610Z">
+        <seg>Sanastokansion lähde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary translation</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T154724Z" creationid="piav" creationdate="20210414T154724Z">
+        <seg>Sanaston käännös</seg>
       </tuv>
     </tu>
     <tu>
@@ -36619,6 +36643,14 @@ ei enää löydy.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T125324Z" creationid="piav" creationdate="20190920T125324Z">
         <seg>Virheellinen käyttäjänimi/salasana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong username/password for {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T154552Z" creationid="piav" creationdate="20210414T154552Z">
+        <seg>{0}: Virheellinen käyttäjänimi/salasana</seg>
       </tuv>
     </tu>
     <tu>
