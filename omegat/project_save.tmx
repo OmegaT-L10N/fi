@@ -10687,6 +10687,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During installation, depending on your operating system, you may receive several security warnings.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T163044Z" creationid="piav" creationdate="20210414T163044Z">
+        <seg>Asennuksen aikana saatat saada useita turvallisuusvaroituksia, käyttöjärjestelmäsi riippuen.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During the installation, depending on your operating system, you may receive several security warnings.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T111644Z" creationid="piav" creationdate="20191201T111644Z">
@@ -32063,6 +32071,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There may be a delay in publishing the Notarized version.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T162943Z" creationid="piav" creationdate="20210414T162943Z">
+        <seg>Voi kestää jonkin aikaa, ennen kuin ohjelmasta julkaistaan Notarized-versio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T111018Z" creationid="piav" creationdate="20191128T110914Z">
@@ -35423,6 +35439,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T171901Z" creationid="piav" creationdate="20191210T171901Z">
         <seg>Käyttäjät voivat ladata ohjelman itselleen täysin vapaasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Users in a hurry can use the Unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T162950Z" creationid="piav" creationdate="20210414T162950Z">
+        <seg>Jos sinulla on kiire, voit käyttää allekirjoittamatonta versiota. Jos ohjelman käynnistäminen on vaikeaa, tarkista ohjeet &lt;a0&gt;tunnistamattomalta kehittäjältä tulevan ohjelman asentamiseen &lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
