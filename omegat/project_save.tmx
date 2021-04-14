@@ -8011,6 +8011,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments are displayed after a number and each on a separate line.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T170540Z" creationid="piav" creationdate="20210414T170540Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commit Source Files</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T102423Z" creationid="PiaVee" creationdate="20171015T102423Z">
@@ -13499,6 +13507,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T074441Z" creationid="PiaVee" creationdate="20171015T122202Z">
         <seg>Sanasto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary &amp;layout:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T170505Z" creationid="piav" creationdate="20210414T170505Z">
+        <seg>Sanaston asettelu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19683,6 +19699,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T080843Z" creationid="piav" creationdate="20190522T080843Z">
         <seg>Yhdistä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definitions for the same term</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210414T170530Z" creationid="piav" creationdate="20210414T170530Z">
+        <seg>Yhdistä saman termin selitykset</seg>
       </tuv>
     </tu>
     <tu>
