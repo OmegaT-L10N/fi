@@ -33710,8 +33710,8 @@ palvelimelta.</seg>
       <tuv lang="en">
         <seg>To display the &lt;g0&gt;Autocompletion&lt;/g0&gt; contextual menu for the glossary matches, hit the OS dependant key (&lt;k1&gt;Escape&lt;/k1&gt; for macOS, &lt;k2&gt;Ctrl+Space&lt;/k2&gt; for the other platforms).</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T121416Z" creationid="piav" creationdate="20210415T121416Z">
-        <seg>Saat &lt;g0&gt;automaattisen täydennyksen&lt;/g0&gt; pikavaliko  näkyviin painamalla §</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210415T121538Z" creationid="piav" creationdate="20210415T121416Z">
+        <seg>Saat &lt;g0&gt;automaattisen täydennyksen&lt;/g0&gt; pikavalikon näkyviin painamalla käyttöjärjestelmän mukaista pikanäppäintä (Macissa &lt;k1&gt;Escape&lt;/k1&gt;, muissa käyttöjärjestelmissä &lt;k2&gt;Ctrl+välilyönti&lt;/k2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33960,6 +33960,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T155947Z" creationid="PiaVee" creationdate="20171014T155947Z">
         <seg>Tiedosto käännetään OmegaT:ssä seuraavalla tavalla:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To underline matching terms in the source part of the segment use &lt;g0&gt;View&lt;/g0&gt; &gt; &lt;g1&gt;Mark Glossary Matches&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T121719Z" creationid="piav" creationdate="20210415T121559Z">
+        <seg>Jos haluat alleviivata lähdesegmentin termit, jotka löytyvät sanastosta, mene &lt;g0&gt;Näkymä&lt;/g0&gt;-valikkoon ja rastita kohta &lt;g1&gt;Merkitse sanasto-osumat&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
