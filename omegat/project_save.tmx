@@ -23486,6 +23486,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plain text glossaries can be "tab separated values" (TSV) files or "comma separated values" (CSV) files.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T122949Z" creationid="piav" creationdate="20210415T122949Z">
+        <seg>Vain teksti -muotoiset sanastot voivat olla TSV-tiedostoja ("tab separated values"), joissa arvot on erotettu sarkaimilla, tai CSV-tiedostoja ("comma separated values"), joissa käytetään pilkkua erottamaan arvoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Platform</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T081248Z" creationid="piav" creationdate="20191211T081248Z">
