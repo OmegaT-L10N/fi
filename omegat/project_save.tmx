@@ -4155,6 +4155,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A third possible format is the "TBX" (TermBase eXchange) ISO standard.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T123138Z" creationid="piav" creationdate="20210415T123138Z">
+        <seg>Kolmas vaihtoehto on käyttää sanastoina ISO-standardin mukaisia TBX-tiedostoja ("TermBase eXchange").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T182002Z" creationid="piav" creationdate="20191210T182002Z">
@@ -31491,6 +31499,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T120525Z" creationid="piav" creationdate="20190920T120525Z">
         <seg>Projektin varmistus ei onnistu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project default writable glossary is always a TSV file saved in UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T123304Z" creationid="piav" creationdate="20210415T123304Z">
+        <seg>Projektin kirjoituskelpoinen sanasto on aina oletusmuotoisesti TSV-tiedosto, jonka merkistökoodaus on UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
