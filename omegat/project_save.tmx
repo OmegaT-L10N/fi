@@ -13503,6 +13503,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries are read in an encoding that depends on the file extension:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210415T123506Z" creationid="piav" creationdate="20210415T123408Z">
+        <seg>Sanastotiedostojen lukemisessa tarvittava merkistökoodaus riippuu tiedostopäätteestä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries are terminology files.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210414T164031Z" creationid="piav" creationdate="20210414T164031Z">
@@ -33766,8 +33774,8 @@ palvelimelta.</seg>
       <tuv lang="en">
         <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191030T080522Z" creationid="piav" creationdate="20191030T080522Z">
-        <seg>Voit muokata käytettäviä tiedostoja ja tiedotosuodattimien koodauksia valitsemalla kyseisen suodattimen ja napsauttamalla &lt;e1&gt;Muokkaa&lt;/e1&gt;-painiketta.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210415T123421Z" creationid="piav" creationdate="20191030T080522Z">
+        <seg>Voit muokata käytettäviä tiedostoja ja tiedostosuodattimien koodauksia valitsemalla kyseisen suodattimen ja napsauttamalla &lt;e1&gt;Muokkaa&lt;/e1&gt;-painiketta.</seg>
       </tuv>
     </tu>
     <tu>
