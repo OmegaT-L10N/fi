@@ -21755,8 +21755,8 @@ Apit-kansioon.</seg>
       <tuv lang="en">
         <seg>OmegaT glossary files are simple plain text three-column lists with the source term in the first column, an optional target term in the second column and an optional comment in the third column.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T122236Z" creationid="piav" creationdate="20210415T122236Z">
-        <seg>OmegaT:n käyttämät sanastotiedostot ovat yksinkertaisia vain teksti -tiedostoja. Niissä on kolme saraketta, jotka on erotettu toisistaan sarkaimilla. Ensimmäisessä sarakkeessa on lähdekielinen ja toisessa kohdekielinen termi.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20210415T122729Z" creationid="piav" creationdate="20210415T122236Z">
+        <seg>OmegaT:n käyttämät sanastotiedostot ovat yksinkertaisia vain teksti -tiedostoja, joissa on kolme sarkaimilla erotettua saraketta. Ensimmäisessä sarakkeessa on lähdekielinen ja toisessa kohdekielinen termi. Kolmanteen sarakkeeseen voi kirjoittaa termiä koskevan kommentin, mutta kommentti ei ole pakollinen.</seg>
       </tuv>
     </tu>
     <tu>
