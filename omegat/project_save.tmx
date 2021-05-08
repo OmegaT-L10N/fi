@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.3_0_dc1f7028a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_6a16391ac" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1586,6 +1586,16 @@ Kysymysmerkki ? vastaa yhtä merkkiä: hakulauseke run? vastaa sanoja runs tai r
 (don't see your name on the lists, feel free to contact us.)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T103521Z" creationid="piav" creationdate="20191211T103521Z">
+        <seg>(Jos olet mielestäsi avustanut OmegaT-projektia huomattavasti, mutta nimesi
+ei näy listalla, ota meihin yhteyttä.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you
+don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210508T165332Z" creationid="Kos Ivantsov" creationdate="20210508T165332Z">
         <seg>(Jos olet mielestäsi avustanut OmegaT-projektia huomattavasti, mutta nimesi
 ei näy listalla, ota meihin yhteyttä.)</seg>
       </tuv>
@@ -3893,7 +3903,7 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>===============</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T094807Z" creationid="piav" creationdate="20191211T094807Z">
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210508T165430Z" creationid="piav" creationdate="20191211T094807Z">
         <seg>===============</seg>
       </tuv>
     </tu>
@@ -8411,9 +8421,9 @@ bittiavaruus.</seg>
         <seg>Contributors
 ============</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T102300Z" creationid="piav" creationdate="20191211T102300Z">
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210508T165530Z" creationid="piav" creationdate="20191211T102300Z">
         <seg>Käyttöön antajat
-============</seg>
+================</seg>
       </tuv>
     </tu>
     <tu>
@@ -16893,9 +16903,9 @@ kaksoisnapsauta sitä.</seg>
         <seg>Installing OmegaT (Linux)
 =========================</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T101007Z" creationid="piav" creationdate="20191211T100159Z">
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210508T165606Z" creationid="piav" creationdate="20191211T100159Z">
         <seg>OmegaT:n asentaminen (Linux)
-=========================</seg>
+============================</seg>
       </tuv>
     </tu>
     <tu>
@@ -16903,9 +16913,9 @@ kaksoisnapsauta sitä.</seg>
         <seg>Installing OmegaT (Mac)
 =======================</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T101000Z" creationid="piav" creationdate="20191211T095632Z">
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210508T165611Z" creationid="piav" creationdate="20191211T095632Z">
         <seg>OmegaT:n asentaminen (Mac)
-=======================</seg>
+==========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -16913,9 +16923,9 @@ kaksoisnapsauta sitä.</seg>
         <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
 =========================================</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T101019Z" creationid="piav" creationdate="20191211T100629Z">
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210508T165602Z" creationid="piav" creationdate="20191211T100629Z">
         <seg>OmegaT:n asentaminen (Solaris, FreeBSD jne.)
-=========================================</seg>
+============================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -16923,9 +16933,9 @@ kaksoisnapsauta sitä.</seg>
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T100953Z" creationid="piav" creationdate="20191211T095616Z">
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210508T165615Z" creationid="piav" creationdate="20191211T095616Z">
         <seg>OmegaT:n asentaminen (Windows)
-===========================</seg>
+==============================</seg>
       </tuv>
     </tu>
     <tu>
@@ -18504,9 +18514,9 @@ sekä koneellesi että ohjelmaa varten.</seg>
         <seg>Launching OmegaT (Linux)
 ========================</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T101638Z" creationid="piav" creationdate="20191211T101632Z">
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210508T165543Z" creationid="piav" creationdate="20191211T101632Z">
         <seg>OmegaT:n käynnistäminen (Linux)
-========================</seg>
+===============================</seg>
       </tuv>
     </tu>
     <tu>
@@ -18514,9 +18524,9 @@ sekä koneellesi että ohjelmaa varten.</seg>
         <seg>Launching OmegaT (Mac)
 ======================</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T101426Z" creationid="piav" creationdate="20191211T101426Z">
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210508T165548Z" creationid="piav" creationdate="20191211T101426Z">
         <seg>OmegaT:n käynnistäminen (Mac)
-======================</seg>
+=============================</seg>
       </tuv>
     </tu>
     <tu>
@@ -18524,9 +18534,9 @@ sekä koneellesi että ohjelmaa varten.</seg>
         <seg>Launching OmegaT (Windows)
 ==========================</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T100949Z" creationid="piav" creationdate="20191211T100949Z">
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210508T165553Z" creationid="piav" creationdate="20191211T100949Z">
         <seg>OmegaT:n käynnistäminen (Windows)
-==========================</seg>
+=================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -18534,9 +18544,9 @@ sekä koneellesi että ohjelmaa varten.</seg>
         <seg>Launching OmegaT from the command line (all systems)
 ====================================================</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T102019Z" creationid="piav" creationdate="20191211T102019Z">
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210508T165536Z" creationid="piav" creationdate="20191211T102019Z">
         <seg>OmegaT:n käynnistäminen komentoriviltä (kaikki käyttöjärjestelmät)
-====================================================</seg>
+==================================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -18720,9 +18730,9 @@ sekä koneellesi että ohjelmaa varten.</seg>
         <seg>Licensing information
 =====================</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T094915Z" creationid="piav" creationdate="20191211T094915Z">
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210508T165500Z" creationid="piav" creationdate="20191211T094915Z">
         <seg>Tietoa lisensseistä
-=====================</seg>
+===================</seg>
       </tuv>
     </tu>
     <tu>
@@ -35700,9 +35710,9 @@ rivillä {1}, sarakkeessa {2}.</seg>
         <seg>Useful links
 ============</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T103528Z" creationid="piav" creationdate="20191211T103528Z">
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210508T165524Z" creationid="piav" creationdate="20191211T103528Z">
         <seg>Hyödyllisiä linkkejä
-============</seg>
+====================</seg>
       </tuv>
     </tu>
     <tu>
@@ -35894,9 +35904,9 @@ rivillä {1}, sarakkeessa {2}.</seg>
         <seg>Using Java Web Start for installing OmegaT (all platforms)
 ===========================================================</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T100706Z" creationid="piav" creationdate="20191211T100706Z">
+      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210508T165557Z" creationid="piav" creationdate="20191211T100706Z">
         <seg>OmegatT:n asentaminen Java Web Startin avulla (kaikki käyttöjärjestelmät)
-===========================================================</seg>
+=========================================================================</seg>
       </tuv>
     </tu>
     <tu>
