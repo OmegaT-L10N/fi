@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_6a16391ac" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.3_0_dc1f7028a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26970,6 +26970,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T084247Z" creationid="PiaVee" creationdate="20171015T084200Z">
         <seg>Käytettäväksi sopivat arvot löytyvät tiedostosta OmegaT.jar/META-INF/MANIFEST.MF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Options &gt; File filters for a list of supported file formats.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20210509T090542Z" creationid="piav" creationdate="20210509T090542Z">
+        <seg>Löydät luettelon tuetuista tiedostomuodoista kohdasta </seg>
       </tuv>
     </tu>
     <tu>
