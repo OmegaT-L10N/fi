@@ -33626,11 +33626,12 @@ palvelimelta.</seg>
 - click on Copy Files to Source Folder... in the Project Files window
 - copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210509T090916Z" creationid="piav" creationdate="20210509T090727Z">
+      <tuv lang="fi" changeid="piav" changedate="20210509T091236Z" creationid="piav" creationdate="20210509T090727Z">
         <seg>Voit lisätä käännettäviä tiedostoja projektiin eri tavoin:
-- Raahaa ja pudota tiedostoja editoriruutuun
+- Raahaa ja pudota tiedostoja editoriruutuun.
 - Valitse Projekti &gt; Kopioi tiedostoja lähdekansioon...
-
+- Napsauta Projektitiedostot-ikkunassa kohtaa "Kopioi tiedostoja lähdekansioon…"
+- Käytä tiedostonhallintaohjelmaa ja kopioi tiedostoja projektin /source-kansioon, lataa sitten projekti uudelleen kohdasta Projekti &gt; Lataa uudelleen.
 </seg>
       </tuv>
     </tu>
