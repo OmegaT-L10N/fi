@@ -10714,8 +10714,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Download the file - it should be a tarball archive (extension &lt;f0&gt;tar.bz&lt;/f0&gt; or &lt;f1&gt;tar.bz2&lt;/f1&gt;).</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20220821T084102Z" creationid="piav" creationdate="20220821T084102Z">
-        <seg>Lataa tiedosto - useimmiten tarbal-muotoinen tiedostoarkisto (tiedostopääte joko &lt;f0&gt;tar.bz&lt;/f0&gt; tai &lt;f1&gt;tar.bz2&lt;/f1&gt;).</seg>
+      <tuv lang="fi" changeid="piav" changedate="20220823T154223Z" creationid="piav" creationdate="20220821T084102Z">
+        <seg>Lataa tarvitsemasi tiedosto, joka on useimmiten tarball-muotoinen tiedostoarkisto (tiedostopääte joko &lt;f0&gt;tar.bz&lt;/f0&gt; tai &lt;f1&gt;tar.bz2&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
