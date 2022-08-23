@@ -316,6 +316,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply this font size to dictionary pane</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T081441Z" creationid="piav" creationdate="20220821T081441Z">
+        <seg>Käytä tätä fonttikokoa sanakirjaruudulla (&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T112308Z" creationid="PiaVee" creationdate="20171015T125535Z">
@@ -1192,6 +1200,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065530Z" creationid="piav" creationdate="20190522T093805Z">
         <seg>Palauta tämä väri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Restart</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T081222Z" creationid="piav" creationdate="20220821T081222Z">
+        <seg>Käynnistä uudelleen (&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5303,8 +5319,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190920T125831Z" creationid="piav" creationdate="20190920T125831Z">
-        <seg>Projektitiedosto havaitsemisessa tapahtui virhe.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20220821T080516Z" creationid="piav" creationdate="20190920T125831Z">
+        <seg>Projektitiedoston havaitsemisessa tapahtui virhe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6837,6 +6853,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Call to external program was interrupted: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T082825Z" creationid="piav" creationdate="20220821T082800Z">
+        <seg>Ulkoisen komennon kutsu keskeytyi: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Camtasia for Windows</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T105541Z" creationid="piav" creationdate="20190527T105541Z">
@@ -6901,6 +6925,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot find GPG executable on the bash $PATH</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T082555Z" creationid="piav" creationdate="20220821T082519Z">
+        <seg>Bash-polulta $PATH ei löydy suoritettavaa GPG:tä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot install</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T135552Z" creationid="piav" creationdate="20190916T135552Z">
@@ -6913,6 +6945,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T143206Z" creationid="piav" creationdate="20190521T143206Z">
         <seg>Annetun XML-tiedoston lataaminen ei onnistu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot prepare GPG environment properly</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T082739Z" creationid="piav" creationdate="20220821T082739Z">
+        <seg>GPG-ympäristön kunnollinen valmistelu ei onnistu</seg>
       </tuv>
     </tu>
     <tu>
@@ -7137,6 +7177,22 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171218T090009Z" creationid="PiaVee" creationdate="20171218T090009Z">
         <seg>Merkkejä (sis. välilyönnit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T081543Z" creationid="piav" creationdate="20220821T081543Z">
+        <seg>Merkkimäärä (välilyönteineen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T081528Z" creationid="piav" creationdate="20220821T081528Z">
+        <seg>Merkkimäärä (ilman välilyöntejä)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8622,6 +8678,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copyright © 2000-2021 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T081816Z" creationid="piav" creationdate="20220821T081816Z">
+        <seg>Copyright © 2000–2021 Keith Godfrey, Maxym Mykhalchuk sekä muut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T173922Z" creationid="PiaVee" creationdate="20171014T173917Z">
@@ -9872,6 +9936,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries in OmegaT are based on the StarDict or on the Lingvo DSL format.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T083927Z" creationid="piav" creationdate="20220821T083927Z">
+        <seg>OmegaT:ssä käytettävät sanakirjat ovat joko StarDict- tai Lingvo DSL -muotoisia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionary</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T122243Z" creationid="PiaVee" creationdate="20171015T122243Z">
@@ -10636,6 +10708,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T110315Z" creationid="PiaVee" creationdate="20171219T101808Z">
         <seg>Lataa &lt;f0&gt;tarball&lt;/f0&gt;-muotoinen tiedostoarkisto (tiedostopääte &lt;e1&gt;tar.bz&lt;/e1&gt; tai &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download the file - it should be a tarball archive (extension &lt;f0&gt;tar.bz&lt;/f0&gt; or &lt;f1&gt;tar.bz2&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T084102Z" creationid="piav" creationdate="20220821T084102Z">
+        <seg>Lataa tiedosto - useimmiten tarbal-muotoinen tiedostoarkisto (tiedostopääte joko &lt;f0&gt;tar.bz&lt;/f0&gt; tai &lt;f1&gt;tar.bz2&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11594,6 +11674,14 @@ kukaan ei kuule.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error while getting output of external program</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T082439Z" creationid="piav" creationdate="20220821T082439Z">
+        <seg>Ulkoisen ohjelman tuotoksen saamisessa tapahtui virhe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while reading MT results</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T141820Z" creationid="piav" creationdate="20190916T141820Z">
@@ -12022,6 +12110,14 @@ Virheilmoitus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External GPG did not return a valid signature; got: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T083907Z" creationid="piav" creationdate="20220821T083907Z">
+        <seg>Ulkoinen GPG ei antanut kelvollista allekirjoitusta, vaan saatiin {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External Lin&amp;ks</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T171640Z" creationid="piav" creationdate="20190527T171640Z">
@@ -12114,6 +12210,14 @@ Virheilmoitus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T090600Z" creationid="piav" creationdate="20191211T090600Z">
         <seg>Ulkoinen dokumentaatio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External program failed({1}): {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T082847Z" creationid="piav" creationdate="20220821T082816Z">
+        <seg>Ukoinen komento ei onnistunut({1}): {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -13781,6 +13885,22 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T141747Z" creationid="piav" creationdate="20190916T141747Z">
         <seg>Google Translate v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected HTTP response {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T081945Z" creationid="piav" creationdate="20220821T081945Z">
+        <seg>Odottamaton HTTP-vastaus {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected MIME TYPE {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T081927Z" creationid="piav" creationdate="20220821T081927Z">
+        <seg>Odottamaton MIME TYPE {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -19025,6 +19145,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Looking for a GPG executable: path {0} from $PATH is not accessible; skipping</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T083229Z" creationid="piav" creationdate="20220821T083127Z">
+        <seg>GPG-suoritettavaa etsimässä: $PATH-polku {0} ei ole käytettävssä ja se ohitetaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Luba-Katanga</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T174837Z" creationid="PiaVee" creationdate="20171014T174837Z">
@@ -19053,6 +19181,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T181312Z" creationid="PiaVee" creationdate="20171014T174652Z">
         <seg>luxemburg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MT engine error({0}) {1}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T082044Z" creationid="piav" creationdate="20220821T082044Z">
+        <seg>MT-koneen virhe({0}) {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -19101,6 +19237,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T141529Z" creationid="piav" creationdate="20191202T122409Z">
         <seg>Konekäännös</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Machine Translate Highlight</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T082115Z" creationid="piav" creationdate="20220821T082115Z">
+        <seg>Konekäännös: korostus</seg>
       </tuv>
     </tu>
     <tu>
@@ -20639,6 +20783,22 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T083825Z" creationid="piav" creationdate="20220821T083825Z">
+        <seg>GPG-suoritettavaa ei löytynyt. Aseta se git-asetusten kohdassa "Committing" tai määrittele se gpg.program-ohjelmassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No GPG key found for key ID ''{0}''; check or set git config user.signingKey</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T083349Z" creationid="piav" creationdate="20220821T083112Z">
+        <seg>Avaintunnukseen {0} sopivaa GPG-avainta ei löytynyt – tarkista git-asetukset ja tarvittaessa aseta user.signingKey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T133743Z" creationid="piav" creationdate="20190920T133141Z">
@@ -21627,6 +21787,22 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Classic</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T082332Z" creationid="piav" creationdate="20220821T082332Z">
+        <seg>Klassinen OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Default</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T082312Z" creationid="piav" creationdate="20220821T082312Z">
+        <seg>OmegaT-oletus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Download Selector</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T072808Z" creationid="piav" creationdate="20191211T072808Z">
@@ -21731,6 +21907,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT classic theme</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T082337Z" creationid="piav" creationdate="20220821T082337Z">
+        <seg>OmegaT:n klassinen teema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT configuration launchers (OmegaT.l4J.ini, omegat.kaptn and Configuration.properties) contain a template entry.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T110647Z" creationid="PiaVee" creationdate="20171014T110647Z">
@@ -21751,6 +21935,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210414T162123Z" creationid="piav" creationdate="20210414T162123Z">
         <seg>Tällä hetkellä OmegaT vaatii JRE-version 1.8 tai uudemman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT default theme</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T082321Z" creationid="piav" creationdate="20220821T082321Z">
+        <seg>OmegaT:n oletusteema</seg>
       </tuv>
     </tu>
     <tu>
@@ -25154,6 +25346,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reload the current project to apply these changes</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T082301Z" creationid="piav" creationdate="20220821T082301Z">
+        <seg>Lataa nykyinen projekti uudelleen, niin muutokset astuvat voimaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reloads the project to take external changes in source files and project settings into account.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T143312Z" creationid="piav" creationdate="20191202T143312Z">
@@ -25166,6 +25366,22 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171218T090314Z" creationid="PiaVee" creationdate="20171218T090314Z">
         <seg>Merkkejä jäljellä (sis. välilyönnit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T081748Z" creationid="piav" creationdate="20220821T081748Z">
+        <seg>Jäljellä oleva merkkimäärä (välilyönteineen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T081612Z" creationid="piav" creationdate="20220821T081612Z">
+        <seg>Jäljellä oleva merkkimäärä (ilman välilyöntejä)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25812,6 +26028,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restart OmegaT to apply these changes</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T082236Z" creationid="piav" creationdate="20220821T082236Z">
+        <seg>Käynnistä OmegaT uudelleen, niin muutokset astuvat voimaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T133113Z" creationid="piav" creationdate="20190916T133113Z">
@@ -26400,6 +26624,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T132752Z" creationid="piav" creationdate="20190920T132752Z">
         <seg>Tallennetaanko segmentointisääntöihin tehdyt muutokset?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save origin of &amp;translation</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T081855Z" creationid="piav" creationdate="20220821T081855Z">
+        <seg>Tallenna käännöksen alkuperä (&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28002,6 +28234,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T125403Z" creationid="PiaVee" creationdate="20171015T125400Z">
         <seg>Koko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Size on Dictionary pane</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T081405Z" creationid="piav" creationdate="20220821T081333Z">
+        <seg>Sanakirjaruudun tekstin koko</seg>
       </tuv>
     </tu>
     <tu>
@@ -32305,6 +32545,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Theme:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T081300Z" creationid="piav" creationdate="20220821T081300Z">
+        <seg>Teema:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then click on &lt;e0&gt;Search&lt;/e0&gt; button to display all the corresponding occurrences.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T100450Z" creationid="PiaVee" creationdate="20171014T094539Z">
@@ -34057,8 +34305,8 @@ palvelimelta.</seg>
       <tuv lang="en">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191202T111721Z" creationid="piav" creationdate="20191202T111721Z">
-        <seg>Ensimmäisellä OmegaT-käyttökerralla sinun on luotava projekti, jossa on kaikki tarvitsemasi tiedostot kuten lähdetiedostot, käännösmuistit, sanastota ja lopulta myös kääntämäsi tiedosto.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20220821T081039Z" creationid="piav" creationdate="20191202T111721Z">
+        <seg>Ensimmäisellä OmegaT-käyttökerralla sinun on luotava projekti. Kaikki tarvitsemasi tiedostot kuten lähdetiedostot, käännösmuistit ja sanastot löytyvät projektista, ja sinne tulee lopulta myös kääntämäsi tiedosto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34239,6 +34487,22 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171218T090306Z" creationid="PiaVee" creationdate="20171218T090306Z">
         <seg>Merkkejä yhteensä (sis. välilyönnit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T081738Z" creationid="piav" creationdate="20220821T081738Z">
+        <seg>Merkkimäärä yhteensä (välilyönteineen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T081722Z" creationid="piav" creationdate="20220821T081559Z">
+        <seg>Merkkimäärä yhteensä (ilman välilyöntejä)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35110,6 +35374,22 @@ Täsmähaut etsivät koko hakustringiä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T081756Z" creationid="piav" creationdate="20220821T081756Z">
+        <seg>Uniikkien merkkien määrä (välilyönteineen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T081653Z" creationid="piav" creationdate="20220821T081653Z">
+        <seg>Uniikkien merkkien määrä (iman välilyöntejä)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique Characters (without spaces)</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171218T090250Z" creationid="PiaVee" creationdate="20171218T090250Z">
@@ -35122,6 +35402,22 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171218T090333Z" creationid="PiaVee" creationdate="20171218T090333Z">
         <seg>Uniikkeja merkkejä jäljellä (sis. välilyönnit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T081811Z" creationid="piav" creationdate="20220821T081811Z">
+        <seg>Uniikkeja merkkejä jäljellä (välilyönteineen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T081705Z" creationid="piav" creationdate="20220821T081705Z">
+        <seg>Uniikkeja merkkejä jäljellä (ilman välilyöntejä)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35194,6 +35490,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191212T055821Z" creationid="piav" creationdate="20190523T161252Z">
         <seg>Tuntematon liitännäistyyppi {0} kohdassa {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unknown/Manual</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T082128Z" creationid="piav" creationdate="20220821T082128Z">
+        <seg>Tuntematon/käsin</seg>
       </tuv>
     </tu>
     <tu>
@@ -35440,6 +35744,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T142111Z" creationid="piav" creationdate="20190521T142111Z">
         <seg>Käytä merkintää $n viittaamaan n:nteen ryhmään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;Condensed view</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T081255Z" creationid="piav" creationdate="20220821T081255Z">
+        <seg>Käytä tiivistettyä näkymää (&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35746,6 +36058,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T064801Z" creationid="piav" creationdate="20191023T064801Z">
         <seg>Käsikirja…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User canceled signing (no passphrase provided)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220821T083311Z" creationid="piav" creationdate="20220821T083311Z">
+        <seg>Käyttäjä perui allekirjoituksen (tunnuslausetta ei annettu)</seg>
       </tuv>
     </tu>
     <tu>
