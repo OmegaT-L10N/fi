@@ -22633,6 +22633,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the &lt;f0&gt;target&lt;/f0&gt; folder when creating target documents.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T191634Z" creationid="piav" creationdate="20220906T191634Z">
+        <seg>Ladatessaan projekteja OmegaT hyppää tämäntyyppisten tiedostojen yli ja kopioi ne muuttumattomina &lt;f0&gt;target&lt;/f0&gt;-kansioon luodessaan kohdetiedostoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T080023Z" creationid="piav" creationdate="20191030T075941Z">
@@ -32793,6 +32801,22 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Theme</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T190945Z" creationid="piav" creationdate="20220906T190945Z">
+        <seg>Teema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Theme can also be added as plugins.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T191042Z" creationid="piav" creationdate="20220906T191042Z">
+        <seg>Teemoja voi myös lisätä liitännäisinä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Theme:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220821T081300Z" creationid="piav" creationdate="20220821T081300Z">
@@ -38457,6 +38481,14 @@ sarjaa linux-install.sh.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220906T190334Z" creationid="piav" creationdate="20220906T190245Z">
         <seg>Voit valita, miten sanastoruudun sisältö asetellaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select a theme for OmegaT's user interface.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T191026Z" creationid="piav" creationdate="20220906T191026Z">
+        <seg>OmegaT:n käyttöliittymässä voi käyttää erilaisia teemoja.</seg>
       </tuv>
     </tu>
     <tu>
