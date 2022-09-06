@@ -21955,6 +21955,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T183302Z" creationid="piav" creationdate="20220906T183302Z">
+        <seg>Kun projekti avataan, OmegaT tunnistaa kansion sanastotiedostot automaattisesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically saves translations every 3 minutes as well as when you close the project or quit OmegaT.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T143610Z" creationid="piav" creationdate="20191202T143610Z">
