@@ -18791,6 +18791,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Layout variations can be added as plugins.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T190415Z" creationid="piav" creationdate="20220906T190415Z">
+        <seg>Erilaisia asetteluja voi lisätä liitännäisinä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Lead developer</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171219T083927Z" creationid="PiaVee" creationdate="20171219T083927Z">
@@ -20029,6 +20037,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T080843Z" creationid="piav" creationdate="20190522T080843Z">
         <seg>Yhdistä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definition for the same term</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T190535Z" creationid="piav" creationdate="20220906T190535Z">
+        <seg>Yhdistä saman termin eri selitykset</seg>
       </tuv>
     </tu>
     <tu>
@@ -38423,8 +38439,8 @@ sarjaa linux-install.sh.</seg>
       <tuv lang="en">
         <seg>You can select a glossary pane contents layout.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20220906T190245Z" creationid="piav" creationdate="20220906T190245Z">
-        <seg>Voit valita sa</seg>
+      <tuv lang="fi" changeid="piav" changedate="20220906T190334Z" creationid="piav" creationdate="20220906T190245Z">
+        <seg>Voit valita, miten sanastoruudun sisältö asetellaan.</seg>
       </tuv>
     </tu>
     <tu>
