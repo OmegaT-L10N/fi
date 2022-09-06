@@ -3175,6 +3175,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Skip text matching regular expression&lt;/g0&gt;: any text matching the regular expression is skipped.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T193117Z" creationid="piav" creationdate="20220906T193044Z">
+        <seg>&lt;g0&gt;Ohita teksti, joka vastaa säännöllistä lauseketta&lt;/g0&gt;: Kaikki tiettyä säännöllistä lauseketta vastaavat tekstit ohitetaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T145914Z" creationid="piav" creationdate="20191202T145645Z">
