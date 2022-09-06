@@ -22721,6 +22721,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, OmegaT must be relaunched to take the new shortcuts into account.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T183840Z" creationid="piav" creationdate="20220906T183840Z">
+        <seg>Kun olet muokannut &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;-tiedostoa, käynnistä OmegaT uudelleen, niin uudet pikanäppäimet tulevat käyttöön.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once the code is downloaded, open a command in the source folder and type:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T133638Z" creationid="piav" creationdate="20191201T133638Z">
