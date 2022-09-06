@@ -9568,6 +9568,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom branch</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T181231Z" creationid="piav" creationdate="20220906T181231Z">
+        <seg>Mukautettu haara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom server URL</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T105651Z" creationid="piav" creationdate="20191023T105651Z">
@@ -9660,6 +9668,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190913T102313Z" creationid="piav" creationdate="20190913T102313Z">
         <seg>Oletus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default branch</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T181224Z" creationid="piav" creationdate="20220906T181224Z">
+        <seg>Oletusmuotoinen haara</seg>
       </tuv>
     </tu>
     <tu>
@@ -12130,6 +12146,14 @@ Virheilmoitus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220906T181056Z" creationid="piav" creationdate="20220906T181056Z">
         <seg>Annettua vietävien käännösmuistien kansiota ei ole!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export translation memory folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T181207Z" creationid="piav" creationdate="20220906T181207Z">
+        <seg>Käännettävien tiedostojen kansiota {0} ei ole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36120,6 +36144,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T074946Z" creationid="piav" creationdate="20191030T074843Z">
         <seg>Käytä tätä toimintoa, kun olet irrottanut, siirtänyt tai piilottanut yhden tai useampia osia, etkä pysty palauttamaan toivottua asettelua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the &lt;f1&gt;dictionary&lt;/f1&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T181619Z" creationid="piav" creationdate="20220906T181619Z">
+        <seg>Pura sisältö untar-ohjelmalla (tai vastaavalla, esim. Windowsin &lt;f0&gt;winrar&lt;/f0&gt;) projektin &lt;f1&gt;dictionary&lt;/f1&gt;-kansioon.</seg>
       </tuv>
     </tu>
     <tu>
