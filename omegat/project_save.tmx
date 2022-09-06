@@ -3119,6 +3119,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Allow blank translations in the target file&lt;/g0&gt;:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T192906Z" creationid="piav" creationdate="20220906T192906Z">
+        <seg>&lt;g0&gt;Kohdetiedostoissa saa olla tyhjiä käännöksiä&lt;/g0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Ignore file context when identifying segments with alternate translations&lt;/g0&gt;: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T192823Z" creationid="piav" creationdate="20220906T192823Z">
+        <seg>&lt;g0&gt;Älä huomioi tiedostokontekstia tunnistettaessa vaihtoehtoisten käännösten segmenttejä&lt;/g0&gt;: OmegaT:n oletusasetuksena on, että lähdetiedoston nimi on osa vaihtoehtoisen käännöksen tunnistamista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T145943Z" creationid="piav" creationdate="20191202T145943Z">
@@ -3167,10 +3183,26 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Start a new paragraph on&lt;/g0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T193019Z" creationid="piav" creationdate="20220906T193019Z">
+        <seg>&lt;g0&gt;Merkki, joka aloittaa uuden kappaleen&lt;/g0&gt;: Segmentoinnissa kappaleen vaihdon merkkinä käytetään HTML-tägiä &lt;br&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20200704T142813Z" creationid="piav" creationdate="20191202T145816Z">
         <seg>&lt;g0&gt;Terminologiaongelmat&lt;/g0&gt; (valinnainen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Translate the following attributes&lt;/g0&gt;: the selected attributes will appear as segments in the Editor window.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T192926Z" creationid="piav" creationdate="20220906T192926Z">
+        <seg>&lt;g0&gt;Käännä seuraavat attribuutit&lt;/g0&gt;: Valitut attribuutit näkyvät segmentteinä Editori-ikkunassa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34547,6 +34579,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T105120Z" creationid="piav" creationdate="20191030T082232Z">
         <seg>Valitse listalla oleva suodatin ja napsauta &lt;e0&gt;Valinnat&lt;/e0&gt;-painiketta, niin pääset muokkaamaan asetuksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify the options, select the filter in the list and click &lt;g0&gt;Options...&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T192847Z" creationid="piav" creationdate="20220906T192847Z">
+        <seg>Valitse listalla oleva suodatin ja napsauta &lt;g0&gt;Valinnat&lt;/g0&gt;-painiketta, niin pääset muokkaamaan asetuksia.</seg>
       </tuv>
     </tu>
     <tu>
