@@ -3135,6 +3135,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Remove leading and trailing tags&lt;/g0&gt;: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T192017Z" creationid="piav" creationdate="20220906T192017Z">
+        <seg>&lt;g0&gt;Poista alussa ja lopussa olevat tägit&lt;/g0&gt;: Jätä tämä kohta rastittamatta, niin kaikki, myös segmentin alussa ja lopussa olevat tägit, ovat näkyvissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T145914Z" creationid="piav" creationdate="20191202T145645Z">
@@ -31177,8 +31185,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The dialog allows you to enable or disable the following options:</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191030T080556Z" creationid="piav" creationdate="20191030T080556Z">
-        <seg>Voit ottaa käyttöön tai poistaa käytöstä seuraavat valinnat:</seg>
+      <tuv lang="fi" changeid="piav" changedate="20220906T191939Z" creationid="piav" creationdate="20191030T080556Z">
+        <seg>Voit ottaa seuraavat valinnat käyttöön tai poistaa ne käytöstä:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37004,8 +37012,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="en">
         <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191030T081016Z" creationid="piav" creationdate="20191030T081016Z">
-        <seg>Varoitus: Jos kaikki Microsoft Open XML -muotoisten tiedostojen (docx, xlsx jne.) tägit ovat näkyvissä, ÄLÄ LISÄÄ tekstiä ennen segmentin ensimmäistä tägiä. Se on tekninen tägi, jonka on aina oltava segmentin alussa.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20220906T192141Z" creationid="piav" creationdate="20191030T081016Z">
+        <seg>Varoitus: Silloin, kun kaikki Microsoft Open XML -muotoisten tiedostojen (docx, xlsx jne.) tägit ovat näkyvissä, ÄLÄ LISÄÄ segmenttiin tekstiä ennen sen ensimmäistä tägiä. Se on tekninen tägi, jonka on aina oltava segmentin alussa.</seg>
       </tuv>
     </tu>
     <tu>
