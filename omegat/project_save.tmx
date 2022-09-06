@@ -644,6 +644,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Export TMs</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T180530Z" creationid="piav" creationdate="20220906T180530Z">
+        <seg>Vie käännösmuistit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;File</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190919T132546Z" creationid="piav" creationdate="20190919T132541Z">
