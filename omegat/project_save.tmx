@@ -34503,6 +34503,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use an existing glossary, simply place it in the &lt;f0&gt;glossary&lt;/f0&gt; folder after creating the project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T183203Z" creationid="piav" creationdate="20220906T183203Z">
+        <seg>Vanha, jo olemassa oleva sanastotiedosto on helppo ottaa käyttöön myös uudessa projektissa: vie vain sanastotiedosto projektin &lt;f0&gt;/glossary&lt;/f0&gt;-kansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To use the selected match in your translation, use &lt;g4&gt;Ctrl+R&lt;/g4&gt; to replace the target field with the match or use &lt;g5&gt;Ctrl+I &lt;/g5&gt; to insert it at the cursor position.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T105248Z" creationid="piav" creationdate="20191208T105248Z">
