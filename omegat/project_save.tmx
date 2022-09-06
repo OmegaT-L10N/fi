@@ -14889,6 +14889,14 @@ polulla, koko polkua ei tarvitse kirjoittaa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a glossary item has alternate definitions, they will be displayed on the same line.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T190837Z" creationid="piav" creationdate="20220906T190649Z">
+        <seg>Sanastossa olevan termin erilaiset selitykset näytetään samalla rivillä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T172459Z" creationid="piav" creationdate="20191209T172459Z">
@@ -30929,6 +30937,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T143423Z" creationid="piav" creationdate="20191030T143423Z">
         <seg>Valintaikkunan alaosassa olevat valintaruudut tarkoittavat seuraavaa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The collections are downloaded as TBX glossaries and stored in the current &lt;f0&gt;glossary&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T190942Z" creationid="piav" creationdate="20220906T190942Z">
+        <seg>Kokoelmat ladataan TBX-muotoisina termikantoina, ja ne tallennetaan kyseisen projektin &lt;f0&gt;glossary&lt;/f0&gt;-kansioon.</seg>
       </tuv>
     </tu>
     <tu>
