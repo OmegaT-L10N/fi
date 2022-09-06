@@ -7813,6 +7813,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click &lt;g1&gt;Defaults&lt;/g1&gt; to reset the file filters to the default settings.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T191702Z" creationid="piav" creationdate="20220906T191702Z">
+        <seg>Napsauta &lt;g1&gt;Oletukset&lt;/g1&gt;-painiketta, niin tiedostosuodatinasetukset palautuvat oletusarvoihinsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click in the other column on the translation corresponding to the first segment.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T150520Z" creationid="piav" creationdate="20191209T150452Z">
@@ -34387,6 +34395,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T123421Z" creationid="piav" creationdate="20191030T080522Z">
         <seg>Voit muokata käytettäviä tiedostoja ja tiedostosuodattimien koodauksia valitsemalla kyseisen suodattimen ja napsauttamalla &lt;e1&gt;Muokkaa&lt;/e1&gt;-painiketta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;g2&gt;Edit&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T191918Z" creationid="piav" creationdate="20220906T191918Z">
+        <seg>Kun haluat muokata tietyn suodattimen käyttämiä tiedostoja ja sen koodauksia, valitse suodatin listalta ja napsauta &lt;g2&gt;Muokkaa&lt;/g2&gt;-painiketta.</seg>
       </tuv>
     </tu>
     <tu>
