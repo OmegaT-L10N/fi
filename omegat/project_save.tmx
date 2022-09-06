@@ -4085,6 +4085,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A nice collection of useful regex cases can be found in OmegaT itself (see Options &gt; Segmentation).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T183449Z" creationid="piav" creationdate="20220906T183449Z">
+        <seg>OmegaT:stä löytyy jo hyvä kokoelma käytännöllisiä regex-tapauksia (ks. kohta Valinnat &gt; Segmentointi).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A non-digit: [^0-9]</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T154455Z" creationid="piav" creationdate="20191022T154429Z">
@@ -13729,6 +13737,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries must be located in the &lt;f0&gt;glossary&lt;/f0&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T183321Z" creationid="piav" creationdate="20220906T183321Z">
+        <seg>Sanastotiedostojen on oltava projektin &lt;f0&gt;/glossary&lt;/f0&gt;-kansiossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T074441Z" creationid="PiaVee" creationdate="20171015T122202Z">
@@ -20931,6 +20947,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T084342Z" creationid="piav" creationdate="20191022T084342Z">
         <seg>Sanastotiedostojen kansiossa ei ole sanastotiedostoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No glossary file found in the &lt;f0&gt;glossary&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T183347Z" creationid="piav" creationdate="20220906T183347Z">
+        <seg>Projektin &lt;f0&gt;glossary&lt;/f0&gt;-kansiossa ei ole yhtään sanastotiedostoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38132,6 +38156,14 @@ käynnistysvalikkoon, työpöydälle tai pikakäynnistysalueelle.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T121345Z" creationid="piav" creationdate="20191023T052609Z">
         <seg>Voit muuttaa jo olemassa olevia pikanäppäimiä sekä lisätä uusia. Sijoita pikänäppäinten kuvaustiedosto &lt;a0&gt;OmegaT&lt;/a0&gt;-valintakansioon (pääset sinne valitsemalla &lt;m1&gt; &lt;g2&gt;Valinnat&lt;/g2&gt; &lt;g3&gt;Mene määrityskansioon&lt;/g3&gt; &lt;/m1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (accessible by &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Access Configuration Folder&lt;/g2&gt; &lt;/m0&gt; menu).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T183814Z" creationid="piav" creationdate="20220906T183814Z">
+        <seg>Kun haluat muuttaa valmiiksi määriteltyjä pikanäppäimiä tai lisätä uusia, sijoita pikänäppäinten kuvaustiedosto OmegaT-valintakansioon. Pääset sinne valikosta &lt;m0&gt; &lt;g1&gt;Valinnat&lt;/g1&gt; &lt;g2&gt;Mene määrityskansioon&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
