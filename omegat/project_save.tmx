@@ -3127,6 +3127,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Preserve spaces for all tags&lt;/g0&gt;: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T192629Z" creationid="piav" creationdate="20220906T192629Z">
+        <seg>Jätä kaikkien tägien välilyönnit: Rastita tämä kohta, jos lähdetiedostoissa käytetään välilyöntejä, jotka ovat tärkeitä tiedoston ulkonäölle ja jotka on huomioitava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T113610Z" creationid="piav" creationdate="20191128T113610Z">
@@ -3145,8 +3153,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Remove leading and trailing whitespace in non-segmented projects&lt;/g0&gt;: by default, OmegaT removes leading and trailing whitespace.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20220906T192205Z" creationid="piav" creationdate="20220906T192205Z">
-        <seg>&lt;g0&gt;Poista alussa ja lopussa olevat tyhjätilamerkit projekteista, joita ei ole jaettu segmentteihin&lt;/g0&gt;: OmegaT:n oletusasetuksena on, että alussa ja lopussa olevat tyhjätilamerkit poistetaan.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20220906T192707Z" creationid="piav" creationdate="20220906T192205Z">
+        <seg>&lt;g0&gt;Projektit, joissa ei käytetä segmenttijakoa: Poista alussa ja lopussa oleva tyhjätilamerkki&lt;/g0&gt;: OmegaT:n oletusasetuksena on, että alussa ja lopussa olevat tyhjätilamerkit poistetaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25812,8 +25820,8 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065457Z" creationid="piav" creationdate="20190522T085234Z">
-        <seg>Poista alussa ja lopussa olevat tyhjätilamerkit projekteista, joita ei ole jaettu segmentteihin</seg>
+      <tuv lang="fi" changeid="piav" changedate="20220906T192616Z" creationid="piav" creationdate="20190522T085234Z">
+        <seg>Projektit, joissa ei käytetä segmenttijakoa: Poista alussa ja lopussa oleva tyhjätilamerkki</seg>
       </tuv>
     </tu>
     <tu>
