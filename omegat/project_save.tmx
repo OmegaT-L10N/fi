@@ -17863,6 +17863,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Its name and location can be modified in the project properties dialog but its extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; and its location must be contained in the &lt;f2&gt;glossary&lt;/f2&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T182340Z" creationid="piav" creationdate="20220906T182340Z">
+        <seg>TIedoston nimeä ja sijaintia voi muuttaa projektin ominaisuuksien valintaikkunassa, mutta tiedostopäätteen tulee olla joko &lt;f0&gt;.txt&lt;/f0&gt; tai &lt;f1&gt;.utf8&lt;/f1&gt;, ja tiedostosijainnin on oltava projektin &lt;f2&gt;/glossary&lt;/f2&gt;-kansiossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171219T084355Z" creationid="PiaVee" creationdate="20171219T084334Z">
