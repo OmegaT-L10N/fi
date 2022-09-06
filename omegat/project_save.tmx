@@ -15793,6 +15793,14 @@ avulla.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;f0&gt;pt_PT.aff&lt;/f0&gt; and &lt;f1&gt;pt_PT.dic&lt;/f1&gt; to &lt;f2&gt;pt_BR.aff&lt;/f2&gt; and &lt;f3&gt;pt_BR.dic&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T185122Z" creationid="piav" creationdate="20220906T184335Z">
+        <seg>Jos olet jo kääntänyt suuren määrän tekstiä ja huomaat vasta sitten, että projektin kohdekielen kielikoodi ei vastaa oikeinkirjoituksen tarkistuksen kielikoodia (olet esimerkiksi valinnut pt_BR:n kohdekieleksi, mutta pt_BR-sanakirjat puuttuvat), niin älä hätäile: kopioi kaksi oikeankielistä tiedostoa sanakirjakansioon ja nimeä ne uudelleen (esim. kopioi tiedostot &lt;f0&gt;pt_PT.aff&lt;/f0&gt; ja &lt;f1&gt;pt_PT.dic&lt;/f1&gt; sanakirjakansioon ja muuta niiden nimiksi &lt;f2&gt;pt_BR.aff&lt;/f2&gt; ja &lt;f3&gt;pt_BR.dic&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have an existing terminology handling system it is quite possible it offers the export of terminology data via TBX format.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T082338Z" creationid="piav" creationdate="20191022T082338Z">
@@ -21262,6 +21270,14 @@ Apit-kansioon.</seg>
         <seg>Note that &lt;f0&gt;Remove&lt;/f0&gt; physically removes the selected vocabularies.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T115333Z" creationid="piav" creationdate="20191023T115110Z">
+        <seg>Huomaa, että &lt;f0&gt;Poista&lt;/f0&gt; poistaa kaikki valitut sanakirjat fyysisesti koneelta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that &lt;g0&gt;Remove&lt;/g0&gt; physically removes the selected vocabularies.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T184341Z" creationid="piav" creationdate="20220906T184341Z">
         <seg>Huomaa, että &lt;f0&gt;Poista&lt;/f0&gt; poistaa kaikki valitut sanakirjat fyysisesti koneelta.</seg>
       </tuv>
     </tu>
@@ -32451,8 +32467,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="en">
         <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;f0&gt;pt_br.aff&lt;/f0&gt; and &lt;f1&gt;pt_br.dic&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20220906T184324Z" creationid="piav" creationdate="20220906T184324Z">
-        <seg>Oikeinkirjoituksen tarkistus tunnistaa käytettävän sanakirjan kohdekielen kielikoodin perusteella. Jos kohdekielenä on brasilianportugali (PT_BR), sanakirjojen alikansiossa on oltava kaksi vastaavaa sanakirjatiedostoa, &lt;f0&gt;pt_br.aff&lt;/f0&gt; ja &lt;f1&gt;pt_br.dic&lt;/f1&gt;.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20220906T184414Z" creationid="piav" creationdate="20220906T184324Z">
+        <seg>Oikeinkirjoituksen tarkistus tunnistaa käytettävän sanakirjan kohdekielen kielikoodin perusteella. Jos kohdekielenä on esimerksi brasilianportugali PT_BR, sanakirjojen alikansiossa on oltava kaksi vastaavaa sanakirjatiedostoa, &lt;f0&gt;pt_br.aff&lt;/f0&gt; ja &lt;f1&gt;pt_br.dic&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
