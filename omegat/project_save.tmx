@@ -26156,6 +26156,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restart</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T183858Z" creationid="piav" creationdate="20220906T183858Z">
+        <seg>Käynnistä uudelleen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restart OmegaT to apply these changes</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220821T082236Z" creationid="piav" creationdate="20220821T082236Z">
@@ -26768,6 +26776,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T061527Z" creationid="piav" creationdate="20191023T061527Z">
         <seg>Tallenna tiedosto ja käynnistä &lt;a0&gt;OmegaT&lt;/a0&gt; uudelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save then the file and relaunch OmegaT.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T183852Z" creationid="piav" creationdate="20220906T183852Z">
+        <seg>Tallenna tiedosto ja käynnistä OmegaT uudelleen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32429,6 +32445,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T114316Z" creationid="piav" creationdate="20191023T114316Z">
         <seg>Oikeinkirjoituksen tarkistus tunnistaa käytettävän sanakirjan kohdekielen kielikoodin perusteella. Jos kohdekielenä on brasilianportugali (PT_BR), sanakirjojen alikansiossa on oltava kaksi samannimistä sanakirjatiedostoa, &lt;e0&gt;pt_br.aff&lt;/e0&gt; ja &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;f0&gt;pt_br.aff&lt;/f0&gt; and &lt;f1&gt;pt_br.dic&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T184324Z" creationid="piav" creationdate="20220906T184324Z">
+        <seg>Oikeinkirjoituksen tarkistus tunnistaa käytettävän sanakirjan kohdekielen kielikoodin perusteella. Jos kohdekielenä on brasilianportugali (PT_BR), sanakirjojen alikansiossa on oltava kaksi vastaavaa sanakirjatiedostoa, &lt;f0&gt;pt_br.aff&lt;/f0&gt; ja &lt;f1&gt;pt_br.dic&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43150,6 +43174,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T061924Z" creationid="piav" creationdate="20191023T061924Z">
         <seg>projectReloadMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectRestartMenuItem</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T183904Z" creationid="piav" creationdate="20220906T183904Z">
+        <seg>projectRestartMenuItem</seg>
       </tuv>
     </tu>
     <tu>
