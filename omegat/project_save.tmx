@@ -3143,6 +3143,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Remove leading and trailing whitespace in non-segmented projects&lt;/g0&gt;: by default, OmegaT removes leading and trailing whitespace.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T192205Z" creationid="piav" creationdate="20220906T192205Z">
+        <seg>&lt;g0&gt;Poista alussa ja lopussa olevat tyhjätilamerkit projekteista, joita ei ole jaettu segmentteihin&lt;/g0&gt;: OmegaT:n oletusasetuksena on, että alussa ja lopussa olevat tyhjätilamerkit poistetaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T145914Z" creationid="piav" creationdate="20191202T145645Z">
@@ -16430,8 +16438,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191030T101920Z" creationid="piav" creationdate="20191030T081309Z">
-        <seg>Kun tämä kohta jätetään rastittamatta, tyhjätilamerkkejä ei poisteta projekteista, joita ei ole jaettu segmentteihin.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20220906T192357Z" creationid="piav" creationdate="20191030T081309Z">
+        <seg>Kun projektia ei ole jaettu segmentteihin, tämän kohdan voi jättää rastittamatta, niin alun ja lopun tyhjätilamerkkejä ei poisteta.</seg>
       </tuv>
     </tu>
     <tu>
