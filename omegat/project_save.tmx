@@ -3127,6 +3127,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Do not translate the content attribute of meta-tags ...&lt;/g0&gt;: the meta-tags in the box will not be translated.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20220906T193244Z" creationid="piav" creationdate="20220906T193149Z">
+        <seg>&lt;g0&gt;Älä käännä meta-tägien sisältöattribuutteja…&lt;/g0&gt;: Laatikon meta-tägejä ei käännetä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Ignore file context when identifying segments with alternate translations&lt;/g0&gt;: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220906T192823Z" creationid="piav" creationdate="20220906T192823Z">
@@ -10474,8 +10482,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190913T082721Z" creationid="piav" creationdate="20190913T082516Z">
-        <seg>Älä käännä meta-tägien content-attribuutteja, joissa on seuraavat avain–arvo-parit (erota pilkuilla): </seg>
+      <tuv lang="fi" changeid="piav" changedate="20220906T193231Z" creationid="piav" creationdate="20190913T082516Z">
+        <seg>Älä käännä meta-tägien sisältöattribuutteja, joissa on seuraavat avain–arvo-parit (erota nämä pilkuilla): </seg>
       </tuv>
     </tu>
     <tu>
