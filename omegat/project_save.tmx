@@ -7909,6 +7909,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check this option in case OmegaT does not display certain glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T151639Z" creationid="piav" creationdate="20221102T151639Z">
+        <seg>Rastita tämä kohta, mikäli OmegaT ei näytä joitakin kirjainmerkkejä oikein (vaikka koneellesi olisikin asennettu fontti, jossa nämä kirjainmerkit ovat mukana).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check this option to be warned about differences between source and target segments tags each time you leave a segment.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T075939Z" creationid="piav" creationdate="20191127T075939Z">
@@ -17806,8 +17814,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>Inserts the currently selected fuzzy match at the cursor position.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191202T151907Z" creationid="piav" creationdate="20191202T122010Z">
-        <seg>Valittu sumea osuma lisätään käännettävään segmenttiin kohdistimen kohdalle.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T151418Z" creationid="piav" creationdate="20191202T122010Z">
+        <seg>Valittu sumea osuma lisätään käännettävään segmenttiin kursorin kohdalle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17830,8 +17838,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>Inserts the segment source at the cursor position.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T125501Z" creationid="piav" creationdate="20221102T125501Z">
-        <seg>Lähdeteksti lisätään kohdistimen kohdalle.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T151422Z" creationid="piav" creationdate="20221102T125501Z">
+        <seg>Lähdeteksti lisätään kursorin kohdalle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27710,8 +27718,8 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Right-clicking on an underlined term displays the matching target term, which can be selected and inserted at the cursor position in the target text.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T151249Z" creationid="piav" creationdate="20221102T151249Z">
-        <seg>Klikkaamalla alleviivattua termiä hiiren kakkospainikkeella</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T151402Z" creationid="piav" creationdate="20221102T151249Z">
+        <seg>Kun klikkaat alleviivattua termiä hiiren kakkospainikkeella, saat näkyviin vastaavan kohdekielisen termin ja voit valita sen ja lisätä kursorin kohdalle lähdetekstiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37418,6 +37426,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T074936Z" creationid="piav" creationdate="20191127T074936Z">
         <seg>Poista rasti tästä kohdasta, jotta muokkaus (eli tägien osittainen poisto) ei aiheuta vahinkoja tägeille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Underlines parts of the target where LanguageTool has found errors.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T151602Z" creationid="piav" creationdate="20221102T151602Z">
+        <seg>Ne kohdetekstin osat, joista LanguageTool on löytänyt virheitä, merkitään alleviivauksella.</seg>
       </tuv>
     </tu>
     <tu>
