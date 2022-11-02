@@ -7605,6 +7605,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check Issues... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T144230Z" creationid="piav" creationdate="20221102T144230Z">
+        <seg>Tarkista ongelmakohdat... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check LanguageTools rules</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T094225Z" creationid="piav" creationdate="20191211T094225Z">
@@ -17292,6 +17300,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this manual: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T144121Z" creationid="piav" creationdate="20221102T144121Z">
+        <seg>Tässä oppaassa: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this mode OmegaT will create a TMX for the whole project, based on the source files only.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T130459Z" creationid="piav" creationdate="20191201T130459Z">
@@ -23521,6 +23537,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T144145Z" creationid="piav" creationdate="20221102T144145Z">
+        <seg>Windowsissa ja Linuxissa: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;Vaihto&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T135001Z" creationid="piav" creationdate="20221102T135001Z">
@@ -23573,6 +23597,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T142320Z" creationid="piav" creationdate="20221102T142222Z">
         <seg>MacOS:ssä: &lt;k0&gt;&lt;k1&gt;Vaihto&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T144205Z" creationid="piav" creationdate="20221102T144205Z">
+        <seg>MacOS:ssä: &lt;k0&gt;&lt;k1&gt;Vaihto&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26190,6 +26222,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Quit &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Q&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T144047Z" creationid="piav" creationdate="20221102T144047Z">
+        <seg>Lopeta &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Q&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>R&amp;emove</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T064952Z" creationid="PiaVee" creationdate="20171015T094601Z">
@@ -27944,6 +27984,22 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T145303Z" creationid="piav" creationdate="20191202T145303Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; tallentaa projektin, ja ohjelma sulkeutuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saves the project and quits OmegaT.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T144056Z" creationid="piav" creationdate="20221102T144056Z">
+        <seg>OmegaT tallentaa projektin, ja ohjelma sulkeutuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saves the project and restarts OmegaT.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T144010Z" creationid="piav" creationdate="20221102T144010Z">
+        <seg>OmegaT tallentaa projektin, ja ohjelma avautuu uudelleen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34153,6 +34209,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The writable glossary is located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143951Z" creationid="piav" creationdate="20221102T143951Z">
+        <seg>Kirjoituskelpoinen sanasto löytyy &lt;l0/&gt;-kansiosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T074800Z" creationid="piav" creationdate="20190920T120818Z">
@@ -39250,6 +39314,14 @@ ei enää löydy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Writable Glossary</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143939Z" creationid="piav" creationdate="20221102T143939Z">
+        <seg>Kirjoituskelpoinen sanasto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Writeable Glossary File</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T074526Z" creationid="piav" creationdate="20190521T131923Z">
@@ -39592,6 +39664,14 @@ sitten suorittaa Kaptain-käynnistyskomentosarjan painamalla</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T154727Z" creationid="PiaVee" creationdate="20171014T154727Z">
         <seg>Käyttämäsi CAT-ohjelma on OmegaT, mutta asiakas pyytää sinua palauttamaan käännöksen Déjà Vu -ohjelman tiedostomuodossa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are asked to confirm that you really want to quit if you have not yet saved the project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T144042Z" creationid="piav" creationdate="20221102T144042Z">
+        <seg>Jos et ole vielä tallentanut projektia, sinua pyydetään vahvistamaan, että haluat todella lopettaa.</seg>
       </tuv>
     </tu>
     <tu>
