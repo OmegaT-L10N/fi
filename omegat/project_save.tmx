@@ -3393,8 +3393,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;TAB&lt;/k2&gt;&lt;/k0&gt; can be used as an alternate shortcut if Preferences – &lt;l3/&gt; is selected.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T135921Z" creationid="piav" creationdate="20221102T135921Z">
-        <seg>fzzJos Asetukset-valikon kohta &lt;l1/&gt; on valittuna, vaihtoehtoisena pikanäppäimenä voi käyttää myös &lt;k0&gt;TAB&lt;/k0&gt;-näppäintä.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T140103Z" creationid="piav" creationdate="20221102T135921Z">
+        <seg>Jos Asetukset-valikon kohta &lt;l3/&gt; on valittuna, vaihtoehtoisena pikanäppäimenä voi käyttää näppäinyhdistelmää &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;TAB&lt;/k2&gt;&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18551,6 +18551,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Jumps to the segment whose call-out or number is entered.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T140226Z" creationid="piav" creationdate="20221102T140226Z">
+        <seg>Kohdistin siirtyy segmenttiin, jonka kirjainlyhenne tai numero kirjoitetaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Justification of source and target segments depends upon the project languages.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T122944Z" creationid="piav" creationdate="20191127T122944Z">
@@ -20961,8 +20969,8 @@ Apit-kansioon.</seg>
       <tuv lang="en">
         <seg>Moves to the next segment, or to the first segment of the next file if the current segment is the last one in the file.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T135619Z" creationid="piav" creationdate="20221102T135619Z">
-        <seg>Kohdistin siirtyy tiedoston seuraavaan segmenttiin tai tiedoston viimeisestä segmentistä seuraavan käännettävän tiedoston ensimmäiseen segmenttiin.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T135950Z" creationid="piav" creationdate="20221102T135619Z">
+        <seg>Kohdistin siirtyy tiedoston seuraavaan segmenttiin tai tiedoston viimeisestä segmentistä seuraavan tiedoston ensimmäiseen segmenttiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28274,6 +28282,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T063237Z" creationid="piav" creationdate="20190913T111347Z">
         <seg>Segmenttiin nro…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment number... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;J&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T140117Z" creationid="piav" creationdate="20221102T140117Z">
+        <seg>Segmenttiin numero... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;J&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
