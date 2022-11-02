@@ -13617,6 +13617,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Forward in history... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T140648Z" creationid="piav" creationdate="20221102T140648Z">
+        <seg>Siirry historiassa eteenpäin... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Forward-Backward</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T132943Z" creationid="piav" creationdate="20190920T132943Z">
@@ -20991,6 +20999,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moves to the next unique segment.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T140543Z" creationid="piav" creationdate="20221102T140543Z">
+        <seg>Kohdistin siirtyy seuraavaan uniikkiin segmenttiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moves to the previous segment with a note.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T140259Z" creationid="piav" creationdate="20221102T140259Z">
@@ -21011,6 +21027,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T151950Z" creationid="piav" creationdate="20191202T135901Z">
         <seg>Kohdistin siirtyy edelliseen segmenttiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moves to the segment that corresponds to the currently selected match in the &lt;g0&gt;Fuzzy matches&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T140636Z" creationid="piav" creationdate="20221102T140636Z">
+        <seg>Kohdistin siirtyy segmenttiin, jonka teksti vastaa &lt;g0&gt;Sumeat osumat&lt;/g0&gt; -ruudussa valittua tekstiä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23066,6 +23090,14 @@ käynnistettäväksi.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T081040Z" creationid="PiaVee" creationdate="20171015T095118Z">
         <seg>OmegaT:n käytettävissä oleva muisti on täysi. Paina OK, niin ohjelma sulkeutuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT remembers your segment navigation history.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T140723Z" creationid="piav" creationdate="20221102T140723Z">
+        <seg>OmegaT muistaa, missä järjestyksessä olet liikkunut segmentistä toiseen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29726,6 +29758,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source of Selected Match &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;M&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T140620Z" creationid="piav" creationdate="20221102T140620Z">
+        <seg>Valitun osuman lähteeseen &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;M&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source segment could not be located for certain translation units.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190523T141637Z" creationid="piav" creationdate="20190523T141637Z">
@@ -34247,6 +34287,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T163458Z" creationid="piav" creationdate="20191210T163458Z">
         <seg>Tämä komentosarjakokoelma voi olla hyödyllinen koodaajille, jotka osaavat tcl/tk:ta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This command allows you to move forward one segment at a time to segments that you have previously visited with &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T141150Z" creationid="piav" creationdate="20221102T141150Z">
+        <seg>Kun olet käyttänyt &lt;l0/&gt;-komentoa, voit tämän komennon avulla liikkua segmenttihistoriassasi eteenpäin yksi segmentti kerrallaan.</seg>
       </tuv>
     </tu>
     <tu>
