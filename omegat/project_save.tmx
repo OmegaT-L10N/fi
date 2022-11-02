@@ -9565,6 +9565,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create the translated files</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T161106Z" creationid="piav" creationdate="20221102T161106Z">
+        <seg>Luo käännetyt tiedostot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create your own key then input it below.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T082503Z" creationid="piav" creationdate="20190522T082503Z">
@@ -16834,6 +16842,14 @@ avulla.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT user groups.&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T161233Z" creationid="piav" creationdate="20221102T161233Z">
+        <seg>Jos tarvitset apua mihin tahansa OmegaT-seikkaan liittyen, liity ihmeessä eri &lt;u1&gt;OmegaT-käyttäjäryhmiin&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T121022Z" creationid="piav" creationdate="20191202T121022Z">
@@ -20670,6 +20686,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T125429Z" creationid="piav" creationdate="20191127T122915Z">
         <seg>Oikealta vasemmalle luettavien kielien hallinta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Manage your projects</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T161115Z" creationid="piav" creationdate="20221102T161115Z">
+        <seg>Projektien hallinta</seg>
       </tuv>
     </tu>
     <tu>
