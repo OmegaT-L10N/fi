@@ -5919,6 +5919,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Application Folder</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T153659Z" creationid="piav" creationdate="20221102T153659Z">
+        <seg>Sovelluskansio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Apply &amp;Fix</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T133520Z" creationid="piav" creationdate="20190920T133520Z">
@@ -33553,6 +33561,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The original file is saved as backup: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T153607Z" creationid="piav" creationdate="20221102T153607Z">
+        <seg>Alkuperäisestä tiedostosta tallennetaan varmuuskopio: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The password cannot be empty.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T134508Z" creationid="piav" creationdate="20190920T134508Z">
@@ -37940,6 +37956,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T153744Z" creationid="piav" creationdate="20221102T153744Z">
+        <seg>Käyttö: java -jar [&lt;javan valinnat&gt;] OmegaT.jar [&lt;OmegaT-valinnat&gt;] [&lt;projektipolku&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T154854Z" creationid="piav" creationdate="20191209T154854Z">
@@ -39726,6 +39750,14 @@ ei enää löydy.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T162552Z" creationid="piav" creationdate="20191210T162524Z">
         <seg>Kielenä python/perl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong URL detected in Linkifier: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T153623Z" creationid="piav" creationdate="20221102T153623Z">
+        <seg>Linkifier havaitsi väärän URL-osoitteen: {0}</seg>
       </tuv>
     </tu>
     <tu>
