@@ -8934,6 +8934,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create Glossary Entry &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T130849Z" creationid="piav" creationdate="20221102T130849Z">
+        <seg>Luo sanaston termi &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create MED Project...</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T093407Z" creationid="PiaVee" creationdate="20171015T102529Z">
