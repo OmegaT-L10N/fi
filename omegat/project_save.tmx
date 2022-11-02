@@ -6369,6 +6369,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Back in history... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;P&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T141204Z" creationid="piav" creationdate="20221102T141204Z">
+        <seg>Siirry historiassa taaksepäin... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;P&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Back to the initial segment on close</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T142312Z" creationid="piav" creationdate="20190521T142312Z">
@@ -7889,6 +7897,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T161739Z" creationid="piav" creationdate="20191210T161739Z">
         <seg>Tarkistaa tekstin kielivirheiden (tyyli, kielioppi jne.) varalta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Checks to see if a newer version of OmegaT is available.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T141513Z" creationid="piav" creationdate="20221102T141513Z">
+        <seg>Valinta tarkistaa, onko OmegaT:stä saatavilla uudempaa versiota.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10522,8 +10538,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Displays copyright, credits and license information.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191202T141312Z" creationid="piav" creationdate="20191202T141110Z">
-        <seg>Saat tekijänoikeustiedot, tekijät ja tiedot lisenssistä näkyville.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T141323Z" creationid="piav" creationdate="20191202T141110Z">
+        <seg>Saat niin tekijänoikeustiedot, tekijät kuin tiedot lisenssistäkin näkyville.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10587,6 +10603,14 @@ bittiavaruus.</seg>
         <seg>Displays the list of new functionalities, enhancements and bug fixes for each new release.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T141329Z" creationid="piav" creationdate="20191202T141154Z">
+        <seg>Näytölle tulee luettelo jokaisen uuden jakelun uusista toiminnoista, parannuksista ja korjatuista bugeista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the list of new functionality, enhancements and bug fixes for each new release.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T141336Z" creationid="piav" creationdate="20221102T141258Z">
         <seg>Näytölle tulee luettelo jokaisen uuden jakelun uusista toiminnoista, parannuksista ja korjatuista bugeista.</seg>
       </tuv>
     </tu>
@@ -23961,6 +23985,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens this guide in the default browser.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T141245Z" creationid="piav" creationdate="20221102T141245Z">
+        <seg>Tämä käsikirja avautuu oletusselaimessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens this manual in the default browser.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T141022Z" creationid="piav" creationdate="20191202T141022Z">
@@ -33569,6 +33601,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The title of the dialog reflects the file currently in use (which depends on the number of concurrently running OmegaT instances).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T141440Z" creationid="piav" creationdate="20221102T141440Z">
+        <seg>Valintaikkunan otsikkona on senhetkisen työn alla olevan tiedoston nimi (joka riippuu siitä, kuinka monta OmegaT-istuntoa on käynnissä yhtä aikaa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The top match is 100%, because all words match.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T110158Z" creationid="piav" creationdate="20191208T110158Z">
@@ -34287,6 +34327,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T163458Z" creationid="piav" creationdate="20191210T163458Z">
         <seg>Tämä komentosarjakokoelma voi olla hyödyllinen koodaajille, jotka osaavat tcl/tk:ta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This command allows you to move backward one segment at a time to segments that you have previously visited.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T141225Z" creationid="piav" creationdate="20221102T141225Z">
+        <seg>Tämän komennon avulla voit liikkua segmenttihistoriassasi taaksepäin yksi segmentti kerrallaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37386,6 +37434,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210508T165524Z" creationid="piav" creationdate="20191211T103528Z">
         <seg>Hyödyllisiä linkkejä
 ====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User Guide... &lt;k0&gt;&lt;k1&gt;F1&lt;/k1&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T141240Z" creationid="piav" creationdate="20221102T141240Z">
+        <seg>Käyttöopas... &lt;k0&gt;&lt;k1&gt;F1&lt;/k1&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
