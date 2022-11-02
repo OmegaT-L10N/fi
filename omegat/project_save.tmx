@@ -25546,6 +25546,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Redo Last Action &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Y&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T123208Z" creationid="piav" creationdate="20221102T123208Z">
+        <seg>Toista viime toiminto &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Y&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>References:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T115946Z" creationid="piav" creationdate="20190920T115946Z">
@@ -26494,8 +26502,16 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Restores the status before the last edit made in the current segment.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T123057Z" creationid="piav" creationdate="20221102T122654Z">
-        <seg>Komento palauttaa segmentin sellaiseksi kuin se oli ennen edellistä muokkausta.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T123358Z" creationid="piav" creationdate="20221102T122654Z">
+        <seg>Komento kumoaa edellisen muokkauksen eli palauttaa segmentin sellaiseksi kuin se oli ennen muokkausta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restores the status before the last editing action was canceled.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T123412Z" creationid="piav" creationdate="20221102T123330Z">
+        <seg>Komento palauttaa segmentin samanlaiseksi kuin se oli ennen edellisen muokkauksen kumoamista.</seg>
       </tuv>
     </tu>
     <tu>
