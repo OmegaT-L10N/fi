@@ -3391,6 +3391,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;TAB&lt;/k2&gt;&lt;/k0&gt; can be used as an alternate shortcut if Preferences – &lt;l3/&gt; is selected.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T135921Z" creationid="piav" creationdate="20221102T135921Z">
+        <seg>fzzJos Asetukset-valikon kohta &lt;l1/&gt; on valittuna, vaihtoehtoisena pikanäppäimenä voi käyttää myös &lt;k0&gt;TAB&lt;/k0&gt;-näppäintä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; or &lt;k1&gt;Enter&lt;/k1&gt; or &lt;k2&gt;Tab&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T063207Z" creationid="piav" creationdate="20191023T063207Z">
@@ -3403,6 +3411,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T063222Z" creationid="piav" creationdate="20191023T063222Z">
         <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt; tai &lt;k1&gt;Ctrl+Enter&lt;/k1&gt; tai &lt;k2&gt;Ctrl+sarkain&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;TAB&lt;/k0&gt; can be used as an alternate shortcut if Preferences – &lt;l1/&gt; is selected.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T135736Z" creationid="piav" creationdate="20221102T135704Z">
+        <seg>Jos Asetukset-valikon kohta &lt;l1/&gt; on valittuna, vaihtoehtoisena pikanäppäimenä voi käyttää myös &lt;k0&gt;TAB&lt;/k0&gt;-näppäintä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5385,6 +5401,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T081051Z" creationid="piav" creationdate="20191022T081051Z">
         <seg>Toinen tuettu tiedostomuoto on CSV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Enter&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T135842Z" creationid="piav" creationdate="20221102T135842Z">
+        <seg>Myös: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Enter&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20951,6 +20975,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moves to the previous segment, or to the last segment of the previous file if the current segment is the first one in the file.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T135944Z" creationid="piav" creationdate="20221102T135905Z">
+        <seg>Kohdistin siirtyy tiedoston edelliseen segmenttiin tai tiedoston ensimmäisestä segmentistä edellisen tiedoston viimeiseen segmenttiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moves to the previous segment.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T151950Z" creationid="piav" creationdate="20191202T135901Z">
@@ -25168,6 +25200,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T063211Z" creationid="piav" creationdate="20191023T063211Z">
         <seg>Edelliseen segmenttiin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Previous Segment &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;P&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T135833Z" creationid="piav" creationdate="20221102T135833Z">
+        <seg>Edelliseen segmenttiin &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;P&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34496,6 +34536,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T125420Z" creationid="PiaVee" creationdate="20171015T125420Z">
         <seg>Näytöllä teksti näyttää tältä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is useful for character entry systems that use &lt;k0&gt;Enter&lt;/k0&gt; to validate input.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T135819Z" creationid="piav" creationdate="20221102T135819Z">
+        <seg>Tämä on hyödyllistä silloin, kun &lt;k0&gt;ENTER&lt;/k0&gt; on käytössä merkkijärjestelmän vahvistusnäppäimenä.</seg>
       </tuv>
     </tu>
     <tu>
