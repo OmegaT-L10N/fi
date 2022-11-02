@@ -15403,8 +15403,8 @@ polulla, koko polkua ei tarvitse kirjoittaa.)</seg>
       <tuv lang="en">
         <seg>If Preferences – &lt;l0/&gt; is disabled, this function allows you to search for the selected word in the dictionaries.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T132816Z" creationid="piav" creationdate="20221102T132816Z">
-        <seg>Jos Asetukset-valikon kohta &lt;l0/&gt; ei ole valittuna, voit tämän toiminnon avulla hakea valittua sanaa sanakirjoista.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150639Z" creationid="piav" creationdate="20221102T132816Z">
+        <seg>Jos Asetukset – &lt;l0/&gt; ei ole valittuna, voit tämän toiminnon avulla hakea valittua sanaa sanakirjoista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28766,6 +28766,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See Preferences – &lt;l0/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150601Z" creationid="piav" creationdate="20221102T150544Z">
+        <seg>Lisää tietoa löytyy kohdasta Asetukset – &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See Preferences – &lt;l0/&gt;.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T150244Z" creationid="piav" creationdate="20221102T150244Z">
@@ -31750,6 +31758,14 @@ Tekstin korvaus tapahtuu projektin lähdekielisissä segmenteissä riippumatta s
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T183133Z" creationid="piav" creationdate="20191210T183133Z">
         <seg>Useiden kääntäjien työn ansiosta OmegaT:n käyttöliittymä ja/tai ohjetekstit on saatu useille kielille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That color marking is shown as long as Preferences – &lt;l0/&gt; is checked.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150543Z" creationid="piav" creationdate="20221102T150543Z">
+        <seg>Värimerkintä on näkyvissä niin kauan, kuin Asetukset-valikon kohta &lt;l0/&gt; on valitttuna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38094,8 +38110,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="en">
         <seg>Use this command to register a translation as identical to the source, even if Preferences – &lt;l0/&gt; is not checked.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T133810Z" creationid="piav" creationdate="20221102T133810Z">
-        <seg>Käytä tätä komentoa merkitsemään käännös samaksi kuin lähdeteksti silloinkin, kun Asetus-valikon kohtaa &lt;l0/&gt; ei ole valittu.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150705Z" creationid="piav" creationdate="20221102T133810Z">
+        <seg>Käytä tätä komentoa merkitsemään käännös samaksi kuin lähdeteksti silloinkin, kun kohtaa Asetukset – &lt;l0/&gt; ei ole valittu.</seg>
       </tuv>
     </tu>
     <tu>
