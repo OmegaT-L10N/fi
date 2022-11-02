@@ -2043,6 +2043,18 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--remote-project
+	  Download an omegat.project file from the URL given as &lt;project
+	  path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T154106Z" creationid="piav" creationdate="20221102T154106Z">
+        <seg>--remote-project
+		  Noutaa omegat.project-tiedoston osoitteesta &lt;projektipolku&gt;
+		  ja lataa projektin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--resource-bundle=&lt;path&gt;
 		A Java .properties file to use for interface text
 	--config-dir=&lt;path&gt;
@@ -2131,6 +2143,16 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
       <tuv lang="fi" changeid="piav" changedate="20190521T080213Z" creationid="PiaVee" creationdate="20171015T083049Z">
         <seg>-h, --help
 		Näyttää tarkempaa tietoa käytöstä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-h, --help
+	  Print this help message.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T154003Z" creationid="piav" creationdate="20221102T154003Z">
+        <seg>-h, --help
+	  Näyttää tarkempaa tietoa käytöstä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22031,6 +22053,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No options: Launch GUI</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T153900Z" creationid="piav" creationdate="20221102T153900Z">
+        <seg>Ei valintoja: Käynnistä GUI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No project loaded.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T092835Z" creationid="piav" creationdate="20191211T092835Z">
@@ -23482,6 +23512,14 @@ käynnistettäväksi.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171219T095229Z" creationid="PiaVee" creationdate="20171219T095229Z">
         <seg>OmegaT Wikipediassa &lt;s0&gt;25 kieltä&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT options:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T153839Z" creationid="piav" creationdate="20221102T153839Z">
+        <seg>OmegaT-valinnat:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26190,6 +26228,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project path only: Launch GUI and load specified project</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T153917Z" creationid="piav" creationdate="20221102T153917Z">
+        <seg>Vain projektipolku: Käynnistä GUI ja lataa annettu projekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project saved</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171218T083031Z" creationid="PiaVee" creationdate="20171015T124710Z">
@@ -28818,6 +28864,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20200504T142749Z" creationid="pia" creationdate="20200504T142749Z">
         <seg>Lisätietoja: &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Help &gt; User's Manual for more information, including Java options.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T153832Z" creationid="piav" creationdate="20221102T153803Z">
+        <seg>Lisää tietoa muun muassa Javan asetuksista löytyy kohdasta Ohje &gt; Käyttäjän käsikirja.</seg>
       </tuv>
     </tu>
     <tu>
