@@ -32707,8 +32707,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="en">
         <seg>The second is to select items in one of the OmegaT panes and sequentially call the dialog after each selection to have OmegaT enter it automatically in the various fields:</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T131140Z" creationid="piav" creationdate="20221102T131058Z">
-        <seg>Toinen tapa on valita tekstiä jossakin OmegaT-ikkunassa</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T131814Z" creationid="piav" creationdate="20221102T131058Z">
+        <seg>Toinen tapa on valita tekstiä jossakin OmegaT-ikkunassa ja sitten käyttää komentoa täyttämään kentät automaattisesti:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33363,8 +33363,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="en">
         <seg>There first is to call the dialog and then manually fill in the various fields.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T131102Z" creationid="piav" creationdate="20221102T131000Z">
-        <seg>Ensimmäinen tapa on avata valintaikkuna ja täyttää eri kentät käsin.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T131322Z" creationid="piav" creationdate="20221102T131000Z">
+        <seg>Ensimmäinen tapa on käyttää komentoa avaamaan valintaikkuna ja täyttää sitten eri kentät käsin.</seg>
       </tuv>
     </tu>
     <tu>
