@@ -38190,8 +38190,8 @@ sitten suorittaa Kaptain-käynnistyskomentosarjan painamalla</seg>
       <tuv lang="en">
         <seg>You are going to modify {0} segments.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20220912T184333Z" creationid="piav" creationdate="20190521T135756Z">
-        <seg>Olet muokkaamassa {0} segmettiä.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T121345Z" creationid="piav" creationdate="20190521T135756Z">
+        <seg>Olet muokkaamassa {0} segmenttiä.</seg>
       </tuv>
     </tu>
     <tu>
