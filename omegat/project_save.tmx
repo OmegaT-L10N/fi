@@ -5389,6 +5389,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also: &lt;k0&gt;&lt;k1&gt;Enter&lt;/k1&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T135238Z" creationid="piav" creationdate="20221102T135238Z">
+        <seg>Myös: &lt;k0&gt;&lt;k1&gt;Enter&lt;/k1&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alt+F2</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T101725Z" creationid="piav" creationdate="20191211T101725Z">
@@ -20919,6 +20927,22 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moves to the next segment with no target language entry in the translation memory.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T135138Z" creationid="piav" creationdate="20221102T135138Z">
+        <seg>Kohdistin siirtyy seuraavaan segmenttiin, jolle ei käännösmuistista löydy kohdekielistä käännöstä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moves to the next segment, or to the first segment of the next file if the current segment is the last one in the file.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T135619Z" creationid="piav" creationdate="20221102T135619Z">
+        <seg>Kohdistin siirtyy tiedoston seuraavaan segmenttiin tai tiedoston viimeisestä segmentistä seuraavan käännettävän tiedoston ensimmäiseen segmenttiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moves to the next segment.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T151942Z" creationid="piav" creationdate="20191202T135601Z">
@@ -21295,10 +21319,26 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Next Segment &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;N&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T135232Z" creationid="piav" creationdate="20221102T135232Z">
+        <seg>Seuraavaan segmenttiin &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;N&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Next Translated Segment</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T063132Z" creationid="piav" creationdate="20191023T063132Z">
         <seg>Seuraavaan käännettyyn segmenttiin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Translated Segment &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;U&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T135210Z" creationid="piav" creationdate="20221102T135210Z">
+        <seg>Seuraavaan kääntämättömään segmenttiin &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;U&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
