@@ -2050,6 +2050,18 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    A directory containing the translated files.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T154656Z" creationid="piav" creationdate="20221102T154656Z">
+        <seg>--mode=console-align
+	--alignDir=&lt;polku&gt;
+	    Hakemisto, jossa käännetyt tiedostot ovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T130423Z" creationid="piav" creationdate="20191201T130423Z">
@@ -2066,6 +2078,22 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
         <seg>--mode=console-pseudotranslatetmx
 	--pseudotranslatetmx=&lt;polku&gt;
 	  Tuottaa pseudokäännetyn TMX-tiedoston</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats
+	  project_path
+	    The path to the project
+	  --output-file=[stats-output-file]
+	    Prints to that file, or to standard output if absent.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T154930Z" creationid="piav" creationdate="20221102T154930Z">
+        <seg>--mode=console-stats
+	  project_path
+	    Projektipolku
+	  --output-file=[tilastotiedosto]
+	    Tulostaa tilaston kyseiseen tiedostoon. Jos tilastoa ei ole annettu, tulostaa tilastotiedot näytölle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39811,6 +39839,14 @@ ei enää löydy.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T083037Z" creationid="piav" creationdate="20191211T083037Z">
         <seg>JRE:llinen tai ilman sitä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without --stats-type, detects format from file extension.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T155035Z" creationid="piav" creationdate="20221102T155035Z">
+        <seg>Kun valintaa --stats-type ei ole annettu, käytettävä tiedostomuoto tunnistetaan tiedostopäätteen perusteella.</seg>
       </tuv>
     </tu>
     <tu>
