@@ -4357,6 +4357,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ALL LETTERS IN UPPER CASE</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133157Z" creationid="piav" creationdate="20221102T133157Z">
+        <seg>KAIKKI KIRJAIMET SUURAAKKOSILLA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ANTLR (ANTLR 3 License)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T185038Z" creationid="piav" creationdate="20190527T185038Z">
@@ -5281,6 +5289,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T141635Z" creationid="piav" creationdate="20191202T141635Z">
         <seg>Valitse tämä, niin voit aktivoida sattavilla olevat konekäännöspalvelut tai ottaa ne pois käytöstä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Almost all Letters in Lower Case</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133212Z" creationid="piav" creationdate="20221102T133212Z">
+        <seg>Lähes kaikki Kirjaimet Pienaakkosilla</seg>
       </tuv>
     </tu>
     <tu>
@@ -15372,6 +15388,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If no text is selected, OmegaT selects the word starting with the character immediately to the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133127Z" creationid="piav" creationdate="20221102T133127Z">
+        <seg>Jos tekstiä ei ole maalattu, OmegaT valitsee sanan, johon kohdistimen oikealla puolella oleva kirjain kuuluu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If not checked, source segments will not be shown.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T183430Z" creationid="piav" creationdate="20191202T152959Z">
@@ -19569,6 +19593,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Lower Case</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133130Z" creationid="piav" creationdate="20221102T133130Z">
+        <seg>Pienet kirjaimet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Luba-Katanga</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T174837Z" creationid="PiaVee" creationdate="20171014T174837Z">
@@ -23293,6 +23325,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T131917Z" creationid="piav" creationdate="20191201T131917Z">
         <seg>Ainoastaan lähdekansion juuressa oleva test.html-tiedosto käännetään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the first letter in upper case.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133225Z" creationid="piav" creationdate="20221102T133225Z">
+        <seg>Vain ensimmäinen kirjain isolla alkukirjaimella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28490,6 +28530,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T092009Z" creationid="piav" creationdate="20191211T091859Z">
         <seg>Itsenäiseen tahtiin etenevä verkkokurssi englanniksi (maksullinen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sentence Case</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133215Z" creationid="piav" creationdate="20221102T133215Z">
+        <seg>Lauseen kirjainkoko</seg>
       </tuv>
     </tu>
     <tu>
@@ -34652,6 +34700,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Title Case</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133200Z" creationid="piav" creationdate="20221102T133200Z">
+        <seg>Otsikon kirjainkoko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To &lt;e0&gt;delete files&lt;/e0&gt;, use an SVN or Git client.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T114909Z" creationid="piav" creationdate="20191128T114909Z">
@@ -36584,6 +36640,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T143936Z" creationid="piav" creationdate="20191202T143844Z">
         <seg>Paikallisesti luodut &lt;f0&gt;target&lt;/f0&gt;-kansion tiedostot ladataan etävarastoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upper Case</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133145Z" creationid="piav" creationdate="20221102T133145Z">
+        <seg>Isot kirjaimet</seg>
       </tuv>
     </tu>
     <tu>
@@ -39884,6 +39948,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T162305Z" creationid="PiaVee" creationdate="20171014T162305Z">
         <seg>aka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>all letters in lower case</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133143Z" creationid="piav" creationdate="20221102T133143Z">
+        <seg>kaikki kirjaimet pienaakkosilla</seg>
       </tuv>
     </tu>
     <tu>
