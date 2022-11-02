@@ -2887,6 +2887,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Only the team project manager should use this function&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143128Z" creationid="piav" creationdate="20221102T143128Z">
+        <seg>&lt;e0&gt;Tämä toiminto on tarkoitettu vain projektipäällikön käytettäväksi&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: slide comments, slide masters, slide layouts</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T100427Z" creationid="piav" creationdate="20191030T100427Z">
@@ -3011,6 +3019,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T165331Z" creationid="piav" creationdate="20191209T165331Z">
         <seg>&lt;e0&gt;kääntämättömistä&lt;/e0&gt; hakee vain segmenteistä, joita ei ole käännetty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Use this function only if the team project manager requested so&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143320Z" creationid="piav" creationdate="20221102T143320Z">
+        <seg>&lt;e0&gt;Käytä tätä toimintoa vain, jos ryhmäprojektin päällikkö on pyytänyt tekemään niin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8217,6 +8233,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T131800Z" creationid="piav" creationdate="20190920T131800Z">
         <seg>Sulje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Close &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;W&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143023Z" creationid="piav" creationdate="20221102T143023Z">
+        <seg>Sulje &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;W&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27724,6 +27748,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143041Z" creationid="piav" creationdate="20221102T143041Z">
+        <seg>Tallenna &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save Alignment Results</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T132528Z" creationid="piav" creationdate="20190920T132528Z">
@@ -27824,6 +27856,22 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T145303Z" creationid="piav" creationdate="20191202T145303Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; tallentaa projektin, ja ohjelma sulkeutuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saves the project translation memory and closes the project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143037Z" creationid="piav" creationdate="20221102T143037Z">
+        <seg>OmegaT tallentaa projektin käännösmuistin ja sulkee projektin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saves the project translation memory.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143050Z" creationid="piav" creationdate="20221102T143050Z">
+        <seg>OmegaT tallentaa projektin käännösmuistin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28306,6 +28354,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210414T163622Z" creationid="piav" creationdate="20210414T163622Z">
         <seg>Lisää tietoa löydät kohdasta &lt;l0&gt;Ryhmäprojektin käyttäminen&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l1/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143139Z" creationid="piav" creationdate="20221102T143139Z">
+        <seg>Lisätietoja löytyy kohdasta &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29456,8 +29512,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Similarly, the contents of the &lt;l1/&gt; folder are automatically recognized and do not require reloading the project.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T142956Z" creationid="piav" creationdate="20221102T142956Z">
-        <seg>Myös &lt;l1/&gt;-kansion sisältö tunnistetaan automaattisesti, projektia ei siis tarvi</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143018Z" creationid="piav" creationdate="20221102T142956Z">
+        <seg>Myös &lt;l1/&gt;-kansion sisältö tunnistetaan automaattisesti, projektia ei siis tarvitse ladata uudelleen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37232,6 +37288,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T110238Z" creationid="piav" creationdate="20190920T121205Z">
         <seg>Lataus ei ole käytössä, sillä tietovarasto on vain luku -muodossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uploads locally added or modified files in the &lt;f0&gt;source&lt;/f0&gt; folder to the team project repository.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143248Z" creationid="piav" creationdate="20221102T143248Z">
+        <seg>Lataa paikallisesti lisätyt tai muokatut tiedostot tietovarastoon ryhmäprojektin &lt;f0&gt;source&lt;/f0&gt;-kansioon.</seg>
       </tuv>
     </tu>
     <tu>
