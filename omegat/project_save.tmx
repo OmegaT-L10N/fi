@@ -8237,6 +8237,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clicking on an assigned slot launches the script assigned to that slot.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150033Z" creationid="piav" creationdate="20221102T150033Z">
+        <seg>Komentosarjapaikan napsauttaminen käynnistää paikkaan yhdistetyn komentosarjan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clicking on any file will open it for translation.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191212T075341Z" creationid="piav" creationdate="20191212T075341Z">
@@ -24217,6 +24225,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0/&gt; window, which allows you to set the location where scripts are stored, as well was write and run scripts, and assign them a shortcut.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T145918Z" creationid="piav" creationdate="20221102T145918Z">
+        <seg>Näytölle avautuu &lt;l0/&gt;-ikkuna, jossa pääset valitsemaan komentosarjakansion, laatimaan ja käyttämään komentosarjoja sekä asettamaan niille näppäinoikotien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0/&gt; window.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T143635Z" creationid="piav" creationdate="20221102T143635Z">
@@ -33057,6 +33073,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The list below this item displays 12 potential slots for scripts.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150001Z" creationid="piav" creationdate="20221102T150001Z">
+        <seg>Ruudun alalaidassa näkyy 12 komentosarjapaikkaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The local file &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/file.txt&lt;/f1&gt; and &lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; is mapped to the local file &lt;f3&gt;source/file2.txt&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20201211T141313Z" creationid="piav" creationdate="20201211T141151Z">
@@ -35777,6 +35801,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T150505Z" creationid="piav" creationdate="20191209T150321Z">
         <seg>Näin kohdistat kaksi segmenttiä samalle riville:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To assign a number to a script:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150110Z" creationid="piav" creationdate="20221102T150110Z">
+        <seg>Liitä komentosarjaan numero seuraavalla tavalla:</seg>
       </tuv>
     </tu>
     <tu>
