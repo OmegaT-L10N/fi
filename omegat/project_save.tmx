@@ -2280,6 +2280,16 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--tag-validation=[abort|warn]
+	  Validate tags.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T155254Z" creationid="piav" creationdate="20221102T155254Z">
+        <seg>--tag-validation=[abort|warn]
+	  Tägien tarkistaminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T122500Z" creationid="piav" creationdate="20191201T122500Z">
@@ -18379,6 +18389,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Introduction to OmegaT</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T155352Z" creationid="piav" creationdate="20221102T155352Z">
+        <seg>Johdatus OmegaT:n käyttöön</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Introduction to OmegaT (2.5.0).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20200704T141530Z" creationid="PiaVee" creationdate="20171219T094401Z">
@@ -23546,6 +23564,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a computer-assisted translation (CAT) tool that offers great flexibility and performance, as well as features beyond those of commercial offerings, even for beginning translators.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T160338Z" creationid="piav" creationdate="20221102T160338Z">
+        <seg>OmegaT on tietokoneavusteisen kääntämisen (CAT) työkalu, joka tarjoaa valinnanvaraa, toimivuutta ja erityisominaisuuksia niin aloittelevien kääntäjien kuin kokeneiden konkarienkin tarpeisiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
@@ -26065,6 +26091,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       <tuv lang="fi" changeid="piav" changedate="20191211T103224Z" creationid="piav" creationdate="20191211T103224Z">
         <seg>Aikaisempia koodintuottajia ovat:
 (aakkosjärjestyksessä)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Principles</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T155356Z" creationid="piav" creationdate="20221102T155356Z">
+        <seg>Periaatteet</seg>
       </tuv>
     </tu>
     <tu>
@@ -38231,6 +38265,16 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T153744Z" creationid="piav" creationdate="20221102T153744Z">
         <seg>Käyttö: java -jar [&lt;javan valinnat&gt;] OmegaT.jar [&lt;OmegaT-valinnat&gt;] [&lt;projektipolku&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
+	See --help</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T155317Z" creationid="piav" creationdate="20221102T155317Z">
+        <seg>Käyttö: ryhmä init &lt;lähdekieli&gt; &lt;kohdekieli&gt;
+	Ks. --help</seg>
       </tuv>
     </tu>
     <tu>
