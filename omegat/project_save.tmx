@@ -12246,6 +12246,14 @@ Virheilmoitus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Export Selection &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T125647Z" creationid="piav" creationdate="20221102T125647Z">
+        <seg>Vie valinta &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Export Translation Memory Files Folder</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220906T181037Z" creationid="piav" creationdate="20220906T181037Z">
@@ -12288,8 +12296,8 @@ Virheilmoitus.</seg>
       <tuv lang="en">
         <seg>Exports the current selection to a text file for processing.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191202T134553Z" creationid="piav" creationdate="20191202T122741Z">
-        <seg>Senhetkinen valinta viedään tekstitiedostoon käsiteltäväksi.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T125706Z" creationid="piav" creationdate="20191202T122741Z">
+        <seg>Valittuna oleva teksti viedään tekstitiedostoon käsiteltäväksi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15302,8 +15310,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If no text has been selected, the current source segment is written to this file.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191202T122808Z" creationid="piav" creationdate="20191202T122808Z">
-        <seg>Jos tekstinpätkää ei ole valittu, tiedostoon kirjoitetaan senhetkinen lähdesegmentti.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T125713Z" creationid="piav" creationdate="20191202T122808Z">
+        <seg>Jos tekstinpätkää ei ole valittu, tiedostoon kirjoitetaan koko senhetkinen lähdesegmentti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17142,8 +17150,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>Insert Missing Source Tags &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;T&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T125523Z" creationid="piav" creationdate="20221102T125523Z">
-        <seg>Lisää puuttuvat lähdetekstin tägit &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;T&lt;/k3&gt;&lt;/k0&gt;</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T125551Z" creationid="piav" creationdate="20221102T125523Z">
+        <seg>Lisää puuttuvat lähdetägit &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;T&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17160,6 +17168,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T062652Z" creationid="PiaVee" creationdate="20171015T103720Z">
         <seg>Lisää seuraava puuttuva tägi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Next Missing Tag &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;T&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T125619Z" creationid="piav" creationdate="20221102T125619Z">
+        <seg>Lisää seuraava puuttuva tägi &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;T&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17252,10 +17268,18 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Inserts the next missing tag at the cursor position.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T125641Z" creationid="piav" creationdate="20221102T125641Z">
+        <seg>Kursorin kohdalle lisätään seuraava puuttuva lähdesegmentin tägi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Inserts the remaining missing source tags at the cursor position.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T125546Z" creationid="piav" creationdate="20221102T125546Z">
-        <seg>Kursorin kohdalle lisätään segmentistä puuttuvat lähdetägit</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T125607Z" creationid="piav" creationdate="20221102T125546Z">
+        <seg>Kursorin kohdalle lisätään puuttuvat lähdesegmentin tägit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34931,6 +34955,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T115430Z" creationid="piav" creationdate="20191127T083646Z">
         <seg>Laita &lt;g0&gt;Koko teksti tägeineen ja numeroineen&lt;/g0&gt; -ruutuun rasti, niin saat kirjaimellisempia ja lähempänä 100 % olevia osumia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To remain consistent with usual clipboard behavior this file is not emptied when the user exits OmegaT.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T130102Z" creationid="piav" creationdate="20221102T130102Z">
+        <seg>Käytössä on tavanomainen leikepöytätoiminto: tätä tiedostoa ei tyhjennetä, kun käyttäjä sulkee OmegaT-ohjelman.</seg>
       </tuv>
     </tu>
     <tu>
