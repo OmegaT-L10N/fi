@@ -15630,8 +15630,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If several translation engines are selected, you can also use &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt; to switch between them and insert the last one selected.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T141744Z" creationid="piav" creationdate="20221102T141744Z">
-        <seg>Jos olet valinnut useampia konekääntimiä, voit vaihtaa niiden välillä ja lisätä viimeksi valitun näppäinyhdistelmällä &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt;.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T141809Z" creationid="piav" creationdate="20221102T141744Z">
+        <seg>Jos olet aktivoinut useampia konekääntimiä, voit vaihtaa niiden välillä ja lisätä viimeksi valitun näppäinyhdistelmällä &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23953,6 +23953,22 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0/&gt; global preference dialog.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T141935Z" creationid="piav" creationdate="20221102T141935Z">
+        <seg>Yleisasetusten valintaikkuna &lt;l0/&gt; avautuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0/&gt; global preferences dialog.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T142021Z" creationid="piav" creationdate="20221102T142021Z">
+        <seg>Yleisasetusten valintaikkuna &lt;l0/&gt; avautuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T152310Z" creationid="piav" creationdate="20191202T152310Z">
@@ -24013,6 +24029,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T125901Z" creationid="piav" creationdate="20191201T125601Z">
         <seg>Avaa paikallisen tiedoston, jonne OmegaT-määritystiedostot on tallennettu (käyttöjärjestelmästä riippuen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the local folder where OmegaT configuration files are stored.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T142037Z" creationid="piav" creationdate="20221102T142037Z">
+        <seg>Avaa paikallisen kansion, jonne OmegaT-määritystiedostot on tallennettu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25754,6 +25778,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T140149Z" creationid="piav" creationdate="20190521T140149Z">
         <seg>Projektihaku hakee oletusarvoisesti projektin lähde- ja kohdekansioista, apukäännösmuisteista, sanastoista, muistiinpanoista ja kommenteista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project specific settings are accessible with &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T142012Z" creationid="piav" creationdate="20221102T142012Z">
+        <seg>Projektikohtaiset asetukset löytyvät kohdasta &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28326,6 +28358,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T141816Z" creationid="piav" creationdate="20221102T141816Z">
+        <seg>Lisätietoja löytyy kohdasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See more about them in the chapter on &lt;l0&gt;Dictionaries&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T112559Z" creationid="piav" creationdate="20191208T112546Z">
@@ -28834,6 +28874,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T151352Z" creationid="piav" creationdate="20191202T151257Z">
         <seg>Valitse kaksi kohdistettavaa tiedostoa (lähdetiedosto ja sen käännös) ja napsauta OK, niin &lt;l0&gt;&lt;g1&gt;Kohdistus&lt;/g1&gt;-ikkuna&lt;/l0&gt; avautuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the various options to activate them.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T141901Z" creationid="piav" creationdate="20221102T141901Z">
+        <seg>Aktivoi haluamasi vaihtoehdot valitsemalla ne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32613,6 +32661,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20201211T141313Z" creationid="piav" creationdate="20201211T141151Z">
         <seg>Paikallinen tiedosto &lt;f0&gt;/koti/minae/omat_tiedostoni/minun/tiedosto.txt&lt;/f0&gt; yhdistetään paikalliseen tiedostoon &lt;f1&gt;laehde/tiedosto.txt&lt;/f1&gt;, ja &lt;f2&gt;/koti/minae/omat_tiedostoni/joku/tiedosto.txt&lt;/f2&gt; yhdistetään paikalliseen tiedostoon &lt;f3&gt;laehde/tiedosto2.txt&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The location depends on the operating system and launch options.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T142122Z" creationid="piav" creationdate="20221102T142122Z">
+        <seg>Kansion tarkka sijainti riippuu käyttöjärjestelmästä ja ohjelman käynnistysvaihtoehdoista.</seg>
       </tuv>
     </tu>
     <tu>
