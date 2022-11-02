@@ -24780,6 +24780,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T131841Z" creationid="piav" creationdate="20221102T131841Z">
+        <seg>Paina &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press &lt;k0&gt;Ctrl+M&lt;/k0&gt; to replace the translation of the current segment with the suggested translation.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T112750Z" creationid="piav" creationdate="20191208T112750Z">
@@ -28242,6 +28250,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191029T100824Z" creationid="piav" creationdate="20191029T100649Z">
         <seg>Valitse palveluntarjoaja listalta ja tarvittaessa napsauta &lt;g0&gt;Määritä&lt;/g0&gt;-painiketta, jolloin pääset syöttämään palveluntarjoajan tunnistetiedot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a text string in any pane</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T131837Z" creationid="piav" creationdate="20221102T131837Z">
+        <seg>Valitse tekstiä mistä tahansa ikkunasta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32757,6 +32773,30 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T111333Z" creationid="piav" creationdate="20191023T111333Z">
         <seg>Valittujen kielten asentaminen voi kestää jonkin aikaa, mutta näet ne lopulta kielentarkistinikkunassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selection will be entered in the &lt;g0&gt;Comment&lt;/g0&gt; field.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T132022Z" creationid="piav" creationdate="20221102T132022Z">
+        <seg>Valinta siirtyy kenttään &lt;g0&gt;Kommentti&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selection will be entered in the &lt;g0&gt;Source term&lt;/g0&gt; field.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T131936Z" creationid="piav" creationdate="20221102T131901Z">
+        <seg>Valinta siirtyy kenttään &lt;g0&gt;Lähdekielinen termi&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selection will be entered in the &lt;g0&gt;Target term&lt;/g0&gt; field.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T131945Z" creationid="piav" creationdate="20221102T131945Z">
+        <seg>Valinta siirtyy kenttään &lt;g0&gt;Lähdekielinen termi&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39324,6 +39364,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T141525Z" creationid="piav" creationdate="20190916T141525Z">
         <seg>[Sumea]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[Optional] Select a text string in any pane</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T132004Z" creationid="piav" creationdate="20221102T132004Z">
+        <seg>[Valinnainen:] Valitse tekstiä mistä tahansa ikkunasta.</seg>
       </tuv>
     </tu>
     <tu>
