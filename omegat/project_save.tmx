@@ -3127,6 +3127,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Cycle&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;F3&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133232Z" creationid="piav" creationdate="20221102T133232Z">
+        <seg>&lt;g0&gt;Kierrätä&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;F3&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Do not translate the content attribute of meta-tags ...&lt;/g0&gt;: the meta-tags in the box will not be translated.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220906T193244Z" creationid="piav" creationdate="20220906T193149Z">
@@ -3179,6 +3187,62 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220906T192707Z" creationid="piav" creationdate="20220906T192205Z">
         <seg>&lt;g0&gt;Projektit, joissa ei käytetä segmenttijakoa: Poista alussa ja lopussa oleva tyhjätilamerkki&lt;/g0&gt;: OmegaT:n oletusasetuksena on, että alussa ja lopussa olevat tyhjätilamerkit poistetaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Select Match #1&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;1&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133418Z" creationid="piav" creationdate="20221102T133358Z">
+        <seg>&lt;g0&gt;Valitse osuma nro 1&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;1&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Select Match #2&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;2&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133421Z" creationid="piav" creationdate="20221102T133412Z">
+        <seg>&lt;g0&gt;Valitase osuma nro 2&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;2&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Select Match #3&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;3&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133432Z" creationid="piav" creationdate="20221102T133432Z">
+        <seg>&lt;g0&gt;Valitse osuma nro 3&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;3&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Select Match #4&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;4&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133441Z" creationid="piav" creationdate="20221102T133441Z">
+        <seg>&lt;g0&gt;Valitse osuma nro 4&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;4&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Select Match #5&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;5&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133450Z" creationid="piav" creationdate="20221102T133450Z">
+        <seg>&lt;g0&gt;Valitse osuma nro 5&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;5&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Select Next Match&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;k3&gt;↓&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133345Z" creationid="piav" creationdate="20221102T133345Z">
+        <seg>&lt;g0&gt;Valitse seuraava osuma&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;k3&gt;↓&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Select Previous Match&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;k3&gt;↑&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133331Z" creationid="piav" creationdate="20221102T133331Z">
+        <seg>&lt;g0&gt;Valitse edellinen osuma&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;k3&gt;↑&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15460,6 +15524,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If several alternative translations are available for the active segment, you can label the alternative selected as the default translation.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133525Z" creationid="piav" creationdate="20221102T133525Z">
+        <seg>Jos senhetkiselle segmentille on useita vaihtoehtoisia käännöksiä, voit merkitä valitsemasi vaihtoehdon oletuskäännökseksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If several translation engines are selected, then &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; is also used to switch between them and insert the last one selected.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T141759Z" creationid="piav" creationdate="20191202T141655Z">
@@ -17368,6 +17440,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T125501Z" creationid="piav" creationdate="20221102T125501Z">
         <seg>Lähdeteksti lisätään kohdistimen kohdalle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the selected Unicode control character.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133510Z" creationid="piav" creationdate="20221102T133510Z">
+        <seg>Lisää tekstiin valitun Unicode-ohjausmerkin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28514,6 +28594,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T164842Z" creationid="piav" creationdate="20191210T164842Z">
         <seg>Valikoima erilaisia OmegatT-ikoneja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selects the previous, next or &lt;v0&gt;n&lt;/v0&gt;th fuzzy match displayed in the fuzzy match pane to replace or insert it to the segment.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133318Z" creationid="piav" creationdate="20221102T133318Z">
+        <seg>Osumaruudun edellinen, seuraava tai &lt;v0&gt;n&lt;/v0&gt;:nnes sumea osuma lisätään segmenttiin / korvaa segmentissä olevan tekstin.</seg>
       </tuv>
     </tu>
     <tu>
