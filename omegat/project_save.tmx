@@ -20959,6 +20959,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moves to the next segment with a note.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T140245Z" creationid="piav" creationdate="20221102T140245Z">
+        <seg>Kohdistin siirtyy seuraavaan segmenttiin, jossa on muistiinpano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moves to the next segment with no target language entry in the translation memory.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T135138Z" creationid="piav" creationdate="20221102T135138Z">
@@ -20979,6 +20987,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T151942Z" creationid="piav" creationdate="20191202T135601Z">
         <seg>Kohdistin siirtyy seuraavaan segmenttiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moves to the previous segment with a note.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T140259Z" creationid="piav" creationdate="20221102T140259Z">
+        <seg>Kohdistin siirtyy edelliseen segmenttiin, jossa on muistiinpano.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21395,6 +21411,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T063322Z" creationid="piav" creationdate="20191023T063322Z">
         <seg>Seuraavaan uniikkiin segmenttiin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Unique Segment &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;Q&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T140534Z" creationid="piav" creationdate="20221102T140534Z">
+        <seg>Seuraavaan uniikkiin segmenttiin &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;Q&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
