@@ -17140,6 +17140,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Missing Source Tags &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;T&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T125523Z" creationid="piav" creationdate="20221102T125523Z">
+        <seg>Lisää puuttuvat lähdetekstin tägit &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;T&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Mode</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T101953Z" creationid="piav" creationdate="20190521T101904Z">
@@ -17168,6 +17176,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T062619Z" creationid="piav" creationdate="20191023T062619Z">
         <seg>Lisää lähdeteksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Source &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;I&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T125420Z" creationid="piav" creationdate="20221102T125420Z">
+        <seg>Lisää lähdeteksti &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;E&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17232,6 +17248,22 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T151907Z" creationid="piav" creationdate="20191202T122010Z">
         <seg>Valittu sumea osuma lisätään käännettävään segmenttiin kohdistimen kohdalle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the remaining missing source tags at the cursor position.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T125546Z" creationid="piav" creationdate="20221102T125546Z">
+        <seg>Kursorin kohdalle lisätään segmentistä puuttuvat lähdetägit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the segment source at the cursor position.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T125501Z" creationid="piav" creationdate="20221102T125501Z">
+        <seg>Lähdeteksti lisätään kohdistimen kohdalle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26292,6 +26324,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace with Source &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;R&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T125350Z" creationid="piav" creationdate="20221102T125350Z">
+        <seg>Korvaa lähdetekstillä &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;R&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace with:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T134319Z" creationid="piav" creationdate="20190521T134319Z">
@@ -26304,6 +26344,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T123733Z" creationid="piav" creationdate="20221102T123733Z">
         <seg>Kaikki kohdesegmentissä oleva teksti korvautuu valitulla sumealla osumalla. Oletusarvoisesti valittuna on ensimmäinen osuma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replaces the entire target segment with the segment source.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T125407Z" creationid="piav" creationdate="20221102T125407Z">
+        <seg>Kaikki kohdesegmentissä oleva teksti korvautuu lähdetekstillä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27730,6 +27778,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210509T090606Z" creationid="piav" creationdate="20210509T090542Z">
         <seg>Löydät luettelon tuetuista tiedostomuodoista kohdasta Valinnat &gt; Tiedostosuodattimet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Preferences – &lt;l1/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T125338Z" creationid="piav" creationdate="20221102T125338Z">
+        <seg>Lisää tietoa löytyy kohdasta Asetukset – &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
