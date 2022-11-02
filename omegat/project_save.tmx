@@ -5373,6 +5373,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows you to activate/deactivate the available machine translation engines.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T141753Z" creationid="piav" creationdate="20221102T141701Z">
+        <seg>Tässä kohdassa voit aktivoida saatavilla olevat konekääntimet tai ottaa ne pois käytöstä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Almost all Letters in Lower Case</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T133212Z" creationid="piav" creationdate="20221102T133212Z">
@@ -15620,6 +15628,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If several translation engines are selected, you can also use &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt; to switch between them and insert the last one selected.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T141744Z" creationid="piav" creationdate="20221102T141744Z">
+        <seg>Jos olet valinnut useampia konekääntimiä, voit vaihtaa niiden välillä ja lisätä viimeksi valitun näppäinyhdistelmällä &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T151910Z" creationid="piav" creationdate="20191202T122239Z">
@@ -16784,6 +16800,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T114703Z" creationid="piav" creationdate="20191201T114703Z">
         <seg>Perusmuotoisimmillaan tämä komento on</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In macOS, this menu item is found under the &lt;g0&gt;OmegaT&lt;/g0&gt; menu.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T141600Z" creationid="piav" creationdate="20221102T141600Z">
+        <seg>MacOS:ssä tämä kohta löytyy &lt;g0&gt;OmegaT&lt;/g0&gt;-valikosta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23921,6 +23945,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0/&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T141527Z" creationid="piav" creationdate="20221102T141527Z">
+        <seg>&lt;l0/&gt;-valintaikkuna avautuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T152310Z" creationid="piav" creationdate="20191202T152310Z">
@@ -28634,6 +28666,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T062925Z" creationid="piav" creationdate="20191023T062925Z">
         <seg>Valitse seuraava osuma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Preferences – &lt;l0/&gt; to activate it.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T141622Z" creationid="piav" creationdate="20221102T141622Z">
+        <seg>Aktivoi tämä valitsemalla Asetukset-valikon kohta &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
