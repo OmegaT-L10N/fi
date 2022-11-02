@@ -9118,6 +9118,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create Current Translated Document &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;D&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143420Z" creationid="piav" creationdate="20221102T143420Z">
+        <seg>Luo nykyinen käännetty tiedosto &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;D&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Current Translated Documents</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T061946Z" creationid="piav" creationdate="20191023T061946Z">
@@ -9170,6 +9178,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T061939Z" creationid="piav" creationdate="20191023T061939Z">
         <seg>Luo käännetyt tiedostot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Translated Documents &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;D&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143347Z" creationid="piav" creationdate="20221102T143347Z">
+        <seg>Luo käännetyt tiedostot &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;D&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9290,6 +9306,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T142559Z" creationid="piav" creationdate="20191202T142559Z">
         <seg>Luo ja avaa uusi projekti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creates the target document corresponding to source document currently being translated.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143530Z" creationid="piav" creationdate="20221102T143530Z">
+        <seg>OmegaT luo kohdeasiakirjan, joka vastaa sillä hetkellä käännettävänä olevaa lähdeasiakirjaa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10588,6 +10612,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T141323Z" creationid="piav" creationdate="20191202T141110Z">
         <seg>Saat niin tekijänoikeustiedot, tekijät kuin tiedot lisenssistäkin näkyville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the &lt;l0/&gt; dialog to edit the project languages and folder locations.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143614Z" creationid="piav" creationdate="20221102T143614Z">
+        <seg>Saat näkyviin &lt;l0/&gt;-valintaikkunan, jossa voit muokata projektin kieliä ja alikansioiden sijaintia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25670,6 +25702,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project Files... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143618Z" creationid="piav" creationdate="20221102T143618Z">
+        <seg>Projektin tiedostot... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;K&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project Menu</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T061813Z" creationid="piav" creationdate="20191023T061813Z">
@@ -25914,6 +25954,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190913T111337Z" creationid="piav" creationdate="20190913T111337Z">
         <seg>Ominaisuudet…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Properties... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143603Z" creationid="piav" creationdate="20221102T143603Z">
+        <seg>Ominaisuudet... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32254,6 +32302,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The created target documents are located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143401Z" creationid="piav" creationdate="20221102T143401Z">
+        <seg>Kohdeasiakirjat löytyvät &lt;l0/&gt;-kansiosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
@@ -33357,6 +33413,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T131208Z" creationid="piav" creationdate="20191201T131208Z">
         <seg>Tästä saatava TMX-tiedosto tallentuu &lt;f3&gt;/omegat/&lt;/f3&gt;-kansioon nimellä &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The resulting document is located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143556Z" creationid="piav" creationdate="20221102T143556Z">
+        <seg>Tämä uusi asiakirja löytyy &lt;l0/&gt;-kansiosta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37296,6 +37360,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T143248Z" creationid="piav" creationdate="20221102T143248Z">
         <seg>Lataa paikallisesti lisätyt tai muokatut tiedostot tietovarastoon ryhmäprojektin &lt;f0&gt;source&lt;/f0&gt;-kansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uploads locally created in the &lt;l0/&gt; folder to the team project repository.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143338Z" creationid="piav" creationdate="20221102T143338Z">
+        <seg>Lataa paikallisesti lisätyt tai muokatut tiedostot tietovarastoon ryhmäprojektin &lt;l0/&gt;-kansioon.</seg>
       </tuv>
     </tu>
     <tu>
