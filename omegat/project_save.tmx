@@ -22913,6 +22913,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Command&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T122546Z" creationid="piav" creationdate="20221102T122546Z">
+        <seg>MacOS:ssä: &lt;k0&gt;&lt;k1&gt;Command&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T095919Z" creationid="piav" creationdate="20191023T055312Z">
@@ -26480,6 +26488,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T074837Z" creationid="piav" creationdate="20191030T074837Z">
         <seg>Palauttaa OmegaT-pääikkunan oletusmuotoonsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restores the status before the last edit made in the current segment.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T122654Z" creationid="piav" creationdate="20221102T122654Z">
+        <seg>Segmentti palautuu samanlaiseksi kuin se oli ennen edellistä muokkausta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33571,6 +33587,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This command cannot restore that status after the user moves to a different segment.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T122815Z" creationid="piav" creationdate="20221102T122750Z">
+        <seg>Tämä komento ei enää </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This command changes the folder to the folder containing the executable &lt;a0&gt;OmegaT&lt;/a0&gt; file.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T114618Z" creationid="piav" creationdate="20191201T114618Z">
@@ -35874,6 +35898,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T062457Z" creationid="piav" creationdate="20191023T062457Z">
         <seg>Kumoa viime toiminto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Undo Last Action &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T122558Z" creationid="piav" creationdate="20221102T122558Z">
+        <seg>Kumoa viime toiminto &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
