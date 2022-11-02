@@ -7237,6 +7237,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Changes the case of the selected text in the target segment to the selected option, or cycles through the options.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133025Z" creationid="piav" creationdate="20221102T133025Z">
+        <seg>Kohdesegmentissä maalattuna olevan tekstin kirjainkoko vaihtuu valinnan mukaiseksi, tai kierrättää vaihtoehtojen läpi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changes to this command involve the addition of "arguments" to it.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T115308Z" creationid="piav" creationdate="20191201T115308Z">
@@ -15045,6 +15053,14 @@ polulla, koko polkua ei tarvitse kirjoittaa.)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T091719Z" creationid="piav" creationdate="20191127T091447Z">
         <seg>Jos OmegaT käyttää internetiä todennetun välityspalvelimen kautta, kirjoita palvelimen järjestelmänvalvojalta saamasi tiedot tähän.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If Preferences – &lt;l0/&gt; is disabled, this function allows you to search for the selected word in the dictionaries.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T132816Z" creationid="piav" creationdate="20221102T132816Z">
+        <seg>Jos Asetukset-valikon kohta &lt;l0/&gt; ei ole valittuna, voit tämän toiminnon avulla hakea valittua sanaa sanakirjoista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27562,6 +27578,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T062724Z" creationid="PiaVee" creationdate="20171015T103526Z">
         <seg>Etsi ja korvaa…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search and Replace... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;K&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T132640Z" creationid="piav" creationdate="20221102T132640Z">
+        <seg>Etsi ja korvaa... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;K&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
