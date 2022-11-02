@@ -1907,6 +1907,19 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+	  Source- or target-language tokenizer to use (overrides project
+	  settings).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T154259Z" creationid="piav" creationdate="20221102T154259Z">
+        <seg>--ITokenizer=&lt;luokan nimi&gt;
+	--ITokenizerTarget=&lt;luokan nimi&gt;
+	  Projektissa käytettävä lähde- tai kohdekielen saneistin (korvaa projektin asetukset).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--alignDir=&lt;p0&gt;&lt;location of translated files&gt;&lt;/p0&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T130955Z" creationid="piav" creationdate="20191201T130955Z">
@@ -1919,6 +1932,16 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T125223Z" creationid="piav" creationdate="20191201T124834Z">
         <seg>--config-dir=&lt;p1&gt;/yksittaisten/maaritystiedostojen/polku/&lt;/p1&gt; \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The directory to read/write OmegaT configuration files from/to.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T154339Z" creationid="piav" creationdate="20221102T154339Z">
+        <seg>--config-dir=&lt;polku&gt;
+	  Hakemisto, josta OmegaT:n määritystiedostot luetaan tai johon ne kirjoitetaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1941,6 +1964,16 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-file=&lt;path&gt;
+	  A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T154311Z" creationid="piav" creationdate="20221102T154311Z">
+        <seg>--config-file=&lt;polku&gt;
+	  Java-ominaisuuksien tiedosto (.properties), jonka perusteella oletusasetukset ladataan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
@@ -1951,12 +1984,32 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--disable-location-save
+	  Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T154241Z" creationid="piav" creationdate="20221102T154241Z">
+        <seg>--disable-location-save
+	  Ei muista viimeksi avattua hakemistoa tiedostovalitsimessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T080228Z" creationid="PiaVee" creationdate="20171015T083837Z">
         <seg>--disable-project-locking
 		Ei lukitse projektin omegat.project-tiedostoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-project-locking
+	  Do not attempt to lock the project's omegat.project file.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T154222Z" creationid="piav" creationdate="20221102T154222Z">
+        <seg>--disable-project-locking
+	  Ei lukitse projektin omegat.project-tiedostoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2013,6 +2066,16 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--no-team
+	  Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T154114Z" creationid="piav" creationdate="20221102T154114Z">
+        <seg>--no-team
+	  Ryhmäprojektiominaisuus pois käytöstä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--pseudotranslatetmx=&lt;p0&gt;allsegments.tmx&lt;/p0&gt; --pseudotranslatetype=&lt;p1&gt;equal|empty&lt;/p1&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T130538Z" creationid="piav" creationdate="20191201T130538Z">
@@ -2047,10 +2110,10 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
 	  Download an omegat.project file from the URL given as &lt;project
 	  path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T154106Z" creationid="piav" creationdate="20221102T154106Z">
+      <tuv lang="fi" changeid="piav" changedate="20221102T154119Z" creationid="piav" creationdate="20221102T154106Z">
         <seg>--remote-project
-		  Noutaa omegat.project-tiedoston osoitteesta &lt;projektipolku&gt;
-		  ja lataa projektin.</seg>
+	  Noutaa omegat.project-tiedoston osoitteesta &lt;projektipolku&gt;
+	  ja lataa projektin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15776,6 +15839,16 @@ polulla, koko polkua ei tarvitse kirjoittaa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If invoked in a git working tree or svn checkout, the results
+	  will be staged/added.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T154213Z" creationid="piav" creationdate="20221102T154213Z">
+        <seg>Jos komento annetaan versionhallintapuun tai SVN-checkoutin yhteydessä,
+	  tulokset valmistellaan tai lisätään tähän.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T134319Z" creationid="piav" creationdate="20190920T134319Z">
@@ -17670,6 +17743,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T090726Z" creationid="piav" creationdate="20191211T090726Z">
         <seg>OmegaT:n toimintoja ja ominaisuuksia edistyneille käyttäjille, joita löytyy muilta sivuilta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T154151Z" creationid="piav" creationdate="20221102T154151Z">
+        <seg>Käynnistää yksinkertaisen ryhmäprojektin, jossa käytetään kyseisiä kieliä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46126,6 +46207,16 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T081856Z" creationid="PiaVee" creationdate="20171015T081856Z">
         <seg>te</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>team init &lt;source language&gt; &lt;target language&gt;
+	  Team project tool.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T154138Z" creationid="piav" creationdate="20221102T154138Z">
+        <seg>team init &lt;lähdekieli&gt; &lt;kohdekieli&gt;
+	  Ryhmäprojektityökalu.</seg>
       </tuv>
     </tu>
     <tu>
