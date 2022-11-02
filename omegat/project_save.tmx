@@ -5665,16 +5665,16 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       <tuv lang="en">
         <seg>Any text selected in the &lt;l0/&gt; pane will have priority over the selected match and be inserted at the cursor position.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T124542Z" creationid="piav" creationdate="20221102T124353Z">
-        <seg>Jos sumean osuman tekstistä on valittu vain osa, vain valittu teksti lisätään kohdistimen kohdalle käännettävään segmenttiin.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T125151Z" creationid="piav" creationdate="20221102T124353Z">
+        <seg>Kursorin kohdalle kohdesegmenttiin lisätään &lt;l0/&gt;-ruudulta valittu teksti tai (jos tekstinpätkää ei ole valittu) koko valittu osuma.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Any text selected in the &lt;l0/&gt; pane will have priority over the selected match and will replace the entire target segment.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T125015Z" creationid="piav" creationdate="20221102T123832Z">
-        <seg>Kohdesegmentin koko teksti korvataan &lt;l0/&gt;-ruudulta valitulla tekstillä tai (jos tekstinpätkää ei ole valittu) valitulla osumalla.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T125154Z" creationid="piav" creationdate="20221102T123832Z">
+        <seg>Kohdesegmentin koko teksti korvataan &lt;l0/&gt;-ruudulta valitulla tekstillä tai (jos tekstinpätkää ei ole valittu) koko valitulla osumalla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21159,6 +21159,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No action is taken if no Machine Translation service has been activated (in &lt;l0/&gt;).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T125320Z" creationid="piav" creationdate="20221102T125320Z">
+        <seg>Jos mitään konekäännöspalvelua ei ole aktivoitu (kohdassa &lt;l0/&gt;), ei myöskään tapahdu mitään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No action is taken, if no Machine Translation service has been activated (in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Machine Translate&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T122430Z" creationid="piav" creationdate="20191202T122403Z">
@@ -26264,6 +26272,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T062529Z" creationid="piav" creationdate="20191023T062529Z">
         <seg>Korvaa konekäännöksellä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace with Machine Translation &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T125206Z" creationid="piav" creationdate="20221102T125206Z">
+        <seg>Korvaa konekäännöksellä &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
