@@ -17701,6 +17701,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this guide: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T160732Z" creationid="piav" creationdate="20221102T160732Z">
+        <seg>Tässä oppaassa: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this guide: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T142139Z" creationid="piav" creationdate="20221102T142139Z">
@@ -24010,6 +24018,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T160749Z" creationid="piav" creationdate="20221102T160749Z">
+        <seg>Windowsissa ja Linuxissa: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T142204Z" creationid="piav" creationdate="20221102T142204Z">
@@ -24054,6 +24070,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T095959Z" creationid="piav" creationdate="20191201T114527Z">
         <seg>Macissa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Command&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T160804Z" creationid="piav" creationdate="20221102T160804Z">
+        <seg>MacOS:ssä: &lt;k0&gt;&lt;k1&gt;Command&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30107,6 +30131,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190523T093541Z" creationid="piav" creationdate="20190523T093249Z">
         <seg>Pikanäppäin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shortcuts</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T160724Z" creationid="piav" creationdate="20221102T160724Z">
+        <seg>Pikanäppäimet</seg>
       </tuv>
     </tu>
     <tu>
@@ -37357,6 +37389,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation memories</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T160659Z" creationid="piav" creationdate="20221102T160659Z">
+        <seg>Käännösmuistit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation memories may also contain reference translations: multinational legislation, such as that of the European Community, is a typical example.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T072021Z" creationid="piav" creationdate="20191128T071851Z">
@@ -39351,6 +39391,14 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Welcome to OmegaT!</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T160717Z" creationid="piav" creationdate="20221102T160717Z">
+        <seg>Tervetuloa OmegaT:n maailmaan!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Well, have you considered learning?</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T072714Z" creationid="piav" creationdate="20191210T184140Z">
@@ -40017,6 +40065,14 @@ ei enää löydy.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T180128Z" creationid="piav" creationdate="20191210T180128Z">
         <seg>Tunnistaa yli 30 tiedostomuotoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working in teams</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T160709Z" creationid="piav" creationdate="20221102T160709Z">
+        <seg>Ryhmätyöskentely</seg>
       </tuv>
     </tu>
     <tu>
