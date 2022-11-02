@@ -6129,6 +6129,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At the bottom of the window, right-click on an unassigned number and select &lt;g0&gt;Add Script&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150125Z" creationid="piav" creationdate="20221102T150125Z">
+        <seg>Napsauta hiiren kakkospainikkeella ikkunan alareunassa olevaa vapaata numeroa ja valitse &lt;g0&gt;Lisää komentosarja&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T115851Z" creationid="piav" creationdate="20191202T115703Z">
@@ -12742,6 +12750,14 @@ Virheilmoitus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External search commands</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150134Z" creationid="piav" creationdate="20221102T150134Z">
+        <seg>Ulkoiset hakukomennot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External tools can be used to convert files to supported formats.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T110513Z" creationid="piav" creationdate="20191129T110513Z">
@@ -15481,10 +15497,26 @@ polulla, koko polkua ei tarvitse kirjoittaa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, non-breakable spaces will be displayed with a gray background.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150316Z" creationid="piav" creationdate="20221102T150316Z">
+        <seg>Jos tässä kohdassa on rasti, sitovat välilyönnit näytetään harmaina palkkeina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, non-breakable spaces will be displayed with a grey background.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T184313Z" creationid="piav" creationdate="20191202T184053Z">
         <seg>Jos tässä kohdassa on rasti, sitovat välilyönnit näytetään harmaina palkkeina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, non-unique segments will be marked in pale gray.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150308Z" creationid="piav" creationdate="20221102T150308Z">
+        <seg>Jos tässä kohdassa on rasti, toistuvat segmentit kirjoitetaan vaaleanharmaalla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15497,10 +15529,26 @@ polulla, koko polkua ei tarvitse kirjoittaa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, segments that have been auto-populated (from TMXs placed in &lt;l0/&gt; for example) are marked in various colors.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150453Z" creationid="piav" creationdate="20221102T150453Z">
+        <seg>Jos tässä kohdassa on rasti, kaikkien automaattisesti (esim. &lt;l0/&gt;-kansiossa olevien TMX-tiedostojen perusteella) täytettyjen segmenttien tausta on väritetty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, segments with notes will be marked in cyan.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T183906Z" creationid="piav" creationdate="20191202T183906Z">
         <seg>Jos tässä kohdassa on rasti, muistiinpanoja sisältävien segmenttien taustaväri on syaani.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, separations between paragraphs in the source document are indicated visually.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150231Z" creationid="piav" creationdate="20221102T150231Z">
+        <seg>Jos tässä kohdassa on rasti, lähdeasiakirjassa olevat välit kappaleiden välillä näytetään visuaalisesti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15561,10 +15609,34 @@ polulla, koko polkua ei tarvitse kirjoittaa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, translated segments will be marked in yellow.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150211Z" creationid="piav" creationdate="20221102T150211Z">
+        <seg>Jos tässä kohdassa on rasti, käännettyjen segmenttien taustaväri on keltainen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, untranslated segments will be marked in violet.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150217Z" creationid="piav" creationdate="20221102T150217Z">
+        <seg>Jos tässä kohdassa on rasti, kääntämättömien segmenttien taustaväri on violetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, white spaces will be displayed with a small dot.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T184357Z" creationid="piav" creationdate="20191202T184357Z">
         <seg>Jos tässä kohdassa on rasti, tyhjätilamerkit näytetään pieninä pisteinä keskellä rivikorkeutta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If commands to perform external searches have been defined in Preferences – &lt;l0/&gt;, they are listed and accessible here.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150202Z" creationid="piav" creationdate="20221102T150202Z">
+        <seg>Jos Asetukset-valikon kohdassa &lt;l0/&gt; on määritelty ulkoisia hakukomentoja, ne näkyvät ja voit käyttää niitä tässä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20469,6 +20541,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T184231Z" creationid="piav" creationdate="20191023T063507Z">
         <seg>Merkitse sitovat välilyönnit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150222Z" creationid="piav" creationdate="20221102T150218Z">
+        <seg>Merkitse kappalejaot</seg>
       </tuv>
     </tu>
     <tu>
@@ -28686,6 +28766,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See Preferences – &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150244Z" creationid="piav" creationdate="20221102T150244Z">
+        <seg>Katso Asetukset-valikon kohtaa &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See Preferences – &lt;l1/&gt; for details.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T125338Z" creationid="piav" creationdate="20221102T125338Z">
@@ -29225,6 +29313,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
         <seg>Select the script you want from the list on the left</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T152455Z" creationid="piav" creationdate="20191202T152455Z">
+        <seg>Valitse vasemmanpuoleisesta luettelosta haluamasi komentosarja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the script you want from the list on the left.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150117Z" creationid="piav" creationdate="20221102T150117Z">
         <seg>Valitse vasemmanpuoleisesta luettelosta haluamasi komentosarja.</seg>
       </tuv>
     </tu>
