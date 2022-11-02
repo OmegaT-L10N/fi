@@ -3287,6 +3287,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Tag Issues&lt;/g0&gt; (always selected): detects missing or displaced tags, including custom tags and controlled strings.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T144618Z" creationid="piav" creationdate="20221102T144334Z">
+        <seg>&lt;g0&gt;Tägivirheet&lt;/g0&gt; (aina valittuna): puuttuvat tai väärin sijoitetut tavanomaiset ja mukautetut tägit sekä säännölliset lausekkeet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20200704T142813Z" creationid="piav" creationdate="20191202T145816Z">
@@ -13773,6 +13781,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T145852Z" creationid="piav" creationdate="20191202T145520Z">
         <seg>Työkalu havaitsee seuraavat neljä ongelmaa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Four types of issues can be detected:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T144322Z" creationid="piav" creationdate="20221102T144322Z">
+        <seg>Työkalu havaitsee neljänlaisia ongelmia:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35392,6 +35408,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T141537Z" creationid="piav" creationdate="20190916T141537Z">
         <seg>Tämä projekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This quality assurance tool carries out all automatic checks in one go and displays the results in a window.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T144256Z" creationid="piav" creationdate="20221102T144256Z">
+        <seg>Tämä laadunvarmistustyökalu suorittaa kaikki automaattiset tarkistukset yhdellä kertaa ja näyttää tulokset omassa ikkunassaan.</seg>
       </tuv>
     </tu>
     <tu>
