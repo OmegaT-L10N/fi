@@ -8197,6 +8197,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clicking one will save the current project, close it and open the selected project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T142405Z" creationid="piav" creationdate="20221102T142405Z">
+        <seg>Kun napsautat niistä yhtä, OmegaT tallentaa ja sulkee nykyisen projektin ja avaa valitsemasi projektin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clo&amp;se</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065310Z" creationid="PiaVee" creationdate="20171218T072609Z">
@@ -14001,6 +14009,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Gives access to the last ten edited projects.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T142345Z" creationid="piav" creationdate="20221102T142345Z">
+        <seg>Tässä valinnassa voit avata yhden kymmenestä viime projektista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gives access to the list of plugins available.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T092158Z" creationid="piav" creationdate="20191127T092158Z">
@@ -17152,6 +17168,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T121012Z" creationid="piav" creationdate="20191128T121012Z">
         <seg>Tässä tapauksessa projekti luodaan samaan tapaan, mutta projektipäällikkö ei lisää tiedostoja /source-kansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this guide: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T142139Z" creationid="piav" creationdate="20221102T142139Z">
+        <seg>Tässä oppaassa: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21375,6 +21399,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T142325Z" creationid="piav" creationdate="20221102T142325Z">
+        <seg>Uusi... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Newly added terms will be immediately recognized.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210414T165418Z" creationid="piav" creationdate="20210414T165418Z">
@@ -23377,6 +23409,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T142204Z" creationid="piav" creationdate="20221102T142204Z">
+        <seg>Windowsissa ja Linuxissa: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;Vaihto&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T135001Z" creationid="piav" creationdate="20221102T135001Z">
@@ -23421,6 +23461,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T122546Z" creationid="piav" creationdate="20221102T122546Z">
         <seg>MacOS:ssä: &lt;k0&gt;&lt;k1&gt;Command&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T142320Z" creationid="piav" creationdate="20221102T142222Z">
+        <seg>MacOS:ssä: &lt;k0&gt;&lt;k1&gt;Vaihto&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23853,6 +23901,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T142638Z" creationid="piav" creationdate="20191202T142638Z">
         <seg>Avaa…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;O&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T142333Z" creationid="piav" creationdate="20221102T142333Z">
+        <seg>Avaa... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;O&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
