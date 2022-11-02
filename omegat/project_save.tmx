@@ -41424,6 +41424,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>clicking a column header changes the sort order for that column,</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T144936Z" creationid="piav" creationdate="20221102T144858Z">
+        <seg>Napsauta sarakkeen otsikkoa, niin sarakkeen esitysjärjestys muuttuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>clicking a column header changes the sort order for the column,</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T150310Z" creationid="piav" creationdate="20191202T150310Z">
@@ -41650,8 +41658,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>double-clicking a row activates the corresponding segment in the Editor pane,</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191203T135225Z" creationid="piav" creationdate="20191202T150239Z">
-        <seg>Kaksoisnapsauttamalla taulukon riviä vastaava editoriruudun segmentti aktivoituu.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T145008Z" creationid="piav" creationdate="20191202T150239Z">
+        <seg>Kaksoisnapsauta taulukon riviä, niin vastaava editoriruudun segmentti aktivoituu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45326,6 +45334,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T134908Z" creationid="piav" creationdate="20191127T134908Z">
         <seg>valitse se käännösmuistin varmuuskopio, jossa etsimäsi data todennäköisimmin on</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>selecting a row, or moving the mouse over it, displays a context menu icon in the last column; clicking that icon presents actions available to correct or ignore the error.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T145220Z" creationid="piav" creationdate="20221102T144955Z">
+        <seg>Valitse rivi tai vie hiiren osoitin rivin yläpuolelle, niin viimeiseen sarakkeeseen ilmestyy ponnahdusikkuna. Ikonia napsauttamalla saat näkyviin toimenpiteitä virheen korjaamiseksi tai sen huomioimatta jättämiseksi.</seg>
       </tuv>
     </tu>
     <tu>
