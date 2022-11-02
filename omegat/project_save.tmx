@@ -9517,6 +9517,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a new project</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T160843Z" creationid="piav" creationdate="20221102T160843Z">
+        <seg>Luo uusi projekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a new, empty OmegaT project in the local repository.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T113539Z" creationid="piav" creationdate="20191128T113539Z">
@@ -11916,6 +11924,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T155415Z" creationid="piav" creationdate="20191022T155415Z">
         <seg>Joko X tai Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Either a segment is translated, or it is not.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T161002Z" creationid="piav" creationdate="20221102T161002Z">
+        <seg>Segmentti on joko käännetty tai kääntämättä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20570,6 +20586,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make it look good!</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T160913Z" creationid="piav" creationdate="20221102T160913Z">
+        <seg>Tee siitä hyvännäköinen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make regular copies of the file /omegat/project_save.tmx to backup media, such as CD or DVD.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T135137Z" creationid="piav" creationdate="20191127T135137Z">
@@ -20646,6 +20670,22 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T125429Z" creationid="piav" creationdate="20191127T122915Z">
         <seg>Oikealta vasemmalle luettavien kielien hallinta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Manage your segments</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T161026Z" creationid="piav" creationdate="20221102T161026Z">
+        <seg>Segmenttien hallinta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Manage your tags</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T161035Z" creationid="piav" creationdate="20221102T161035Z">
+        <seg>Tägien hallinta</seg>
       </tuv>
     </tu>
     <tu>
@@ -28029,6 +28069,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Review your translation</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T161056Z" creationid="piav" creationdate="20221102T161056Z">
+        <seg>Käännöksen tarkistaminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reviews</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191218T134715Z" creationid="piav" creationdate="20191218T134715Z">
@@ -29015,6 +29063,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0/&gt; and &lt;l1/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T160826Z" creationid="piav" creationdate="20221102T160826Z">
+        <seg>Lisätietoja löyty kohdista &lt;l0/&gt; ja &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0/&gt; for details.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T123751Z" creationid="piav" creationdate="20221102T123751Z">
@@ -29079,10 +29135,26 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l2/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T160904Z" creationid="piav" creationdate="20221102T160904Z">
+        <seg>Lisätietoja löytyy kohdasta &lt;l2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l2&gt;Regular expressions&lt;/l2&gt;.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T134247Z" creationid="piav" creationdate="20191030T134237Z">
         <seg>Ks. &lt;l2&gt;Säännölliset lausekkeet&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l3/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T161009Z" creationid="piav" creationdate="20221102T161009Z">
+        <seg>Lisätietoja löytyy kohdasta &lt;l3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29883,6 +29955,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T125651Z" creationid="piav" creationdate="20191030T125651Z">
         <seg>Lausetason segmentointi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sentence with decorative formatting</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T161049Z" creationid="piav" creationdate="20221102T161049Z">
+        <seg>Lause, jossa on koristeellinen muotoilu</seg>
       </tuv>
     </tu>
     <tu>
@@ -32360,6 +32440,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T125505Z" creationid="piav" creationdate="20191127T123345Z">
         <seg>Näppäinyhdistelmä &lt;k4&gt; &lt;k5&gt;vaihto&lt;/k5&gt; &lt;k6&gt;Ctrl &lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; vaihtaa kolmen tilan välillä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; dialog opens next.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T160855Z" creationid="piav" creationdate="20221102T160855Z">
+        <seg>Seuraavaksi avautuu &lt;l0/&gt;-valintaikkuna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37192,6 +37280,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T160323Z" creationid="PiaVee" creationdate="20171014T160253Z">
         <seg>Käännä tämä tiedosto OmegaT:ssä tavalliseen tapaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate your files</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T160923Z" creationid="piav" creationdate="20221102T160923Z">
+        <seg>Käännä tiedostot</seg>
       </tuv>
     </tu>
     <tu>
