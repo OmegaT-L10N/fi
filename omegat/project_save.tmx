@@ -13737,6 +13737,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Git notification: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T121739Z" creationid="piav" creationdate="20221102T121739Z">
+        <seg>Git-ilmoitus: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Give access to the ten last edited projects.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T142734Z" creationid="piav" creationdate="20191202T142734Z">
@@ -26150,8 +26158,16 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Repository</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190521T132939Z" creationid="piav" creationdate="20190521T132939Z">
-        <seg>Pakettivarasto</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T121852Z" creationid="piav" creationdate="20190521T132939Z">
+        <seg>Tietovarasto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository (type: {0}) URL not defined on path: {1}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T121748Z" creationid="piav" creationdate="20221102T121748Z">
+        <seg>Säilö (tyyppi: {0}) URL not defined on polku: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -26174,24 +26190,24 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Repository Mapping...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191127T120938Z" creationid="piav" creationdate="20190521T131935Z">
-        <seg>Pakettivarastojen määritys…</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T121846Z" creationid="piav" creationdate="20190521T131935Z">
+        <seg>Tietovarastojen määritys…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Repository {0} is already present</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190521T133208Z" creationid="piav" creationdate="20190521T133208Z">
-        <seg>Pakettivarasto {0} on jo käytössä</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T121856Z" creationid="piav" creationdate="20190521T133208Z">
+        <seg>Tietovarasto {0} on jo käytössä</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Repository {0} unknown</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190521T133221Z" creationid="piav" creationdate="20190521T133221Z">
-        <seg>Pakettivarasto {0} on tuntematon</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T121901Z" creationid="piav" creationdate="20190521T133221Z">
+        <seg>Tietovarasto {0} on tuntematon</seg>
       </tuv>
     </tu>
     <tu>
@@ -28802,6 +28818,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T070401Z" creationid="piav" creationdate="20190522T070109Z">
         <seg>Aakkosta lähdekielisten termien mukaisesti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by target term length</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T121729Z" creationid="piav" creationdate="20221102T121729Z">
+        <seg>Järjestä kohdetermin pituuden mukaan</seg>
       </tuv>
     </tu>
     <tu>
