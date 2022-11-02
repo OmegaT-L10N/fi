@@ -9926,6 +9926,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Current project configuration will be override by the remote project configuration content.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T153526Z" creationid="piav" creationdate="20221102T153526Z">
+        <seg>Etäprojektimääritykset korvaavat nykyisten projektiasetusten kokoonpanon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Current team:
 (alphabetical order)</seg>
       </tuv>
@@ -10372,6 +10380,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171219T095354Z" creationid="PiaVee" creationdate="20171219T095354Z">
         <seg>Sanakirjat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionaries Folder:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T153351Z" creationid="piav" creationdate="20221102T153351Z">
+        <seg>Sanakirjojen kansio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11044,6 +11060,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T081306Z" creationid="piav" creationdate="20190522T081306Z">
         <seg>Valmis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Done and current translations are saved as {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T153321Z" creationid="piav" creationdate="20221102T153321Z">
+        <seg>Valmiit ja nykyiset käännökset tallennetaan muodossa {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12594,6 +12618,14 @@ Virheilmoitus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T125647Z" creationid="piav" creationdate="20221102T125647Z">
         <seg>Vie valinta &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export Translation Memories Folder:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T153403Z" creationid="piav" creationdate="20221102T153403Z">
+        <seg>Vietävien käännösmuistien kansio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14221,6 +14253,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T070653Z" creationid="piav" creationdate="20191022T070653Z">
         <seg>Sanastot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries Folder:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T153348Z" creationid="piav" creationdate="20221102T153348Z">
+        <seg>Sanastojen kansio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30728,6 +30768,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start new project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T153330Z" creationid="piav" creationdate="20221102T153330Z">
+        <seg>Aloita uusi projekti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start rebase</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T130114Z" creationid="piav" creationdate="20190920T130114Z">
@@ -36948,6 +36996,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation Memories Folder:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T153340Z" creationid="piav" creationdate="20221102T153340Z">
+        <seg>Käännösmuistien kansio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation Memory Files Folder</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T131859Z" creationid="piav" creationdate="20190521T131859Z">
@@ -37911,6 +37967,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
         <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065233Z" creationid="PiaVee" creationdate="20171015T122239Z">
+        <seg>Käytä sanakirjatietueiden sumeita osumia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;Fuzzy Matching for Glossary Entries</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T153255Z" creationid="piav" creationdate="20221102T153255Z">
         <seg>Käytä sanakirjatietueiden sumeita osumia</seg>
       </tuv>
     </tu>
