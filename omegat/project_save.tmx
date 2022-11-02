@@ -5663,6 +5663,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any text selected in the &lt;l0/&gt; pane will have priority over the selected match and will replace the entire target segment.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T124239Z" creationid="piav" creationdate="20221102T123832Z">
+        <seg>&lt;l0/&gt;-ruudulta valittu (maalattu) teksti on etusijalla – kaikki kohdesegmentissä oleva teksti korvataan tällä valinnalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any text, already translated and stored in those files, will appear among the fuzzy matches, if it is sufficiently similar to the text currently being translated.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191212T080244Z" creationid="piav" creationdate="20191212T080244Z">
@@ -27546,6 +27554,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191203T141641Z" creationid="piav" creationdate="20191203T141641Z">
         <seg>Lisää tietoa löydät kohdasta &lt;e2&gt;Käännöksen muokkaaminen&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T123751Z" creationid="piav" creationdate="20221102T123751Z">
+        <seg>Lisätietoja löytyy kohdasta &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
