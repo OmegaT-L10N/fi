@@ -5253,6 +5253,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows the user to create an entry in &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T130914Z" creationid="piav" creationdate="20221102T130914Z">
+        <seg>Tämä valinta antaa käyttäjän luoda uuden termin tiedostoon &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T132221Z" creationid="piav" creationdate="20190916T132221Z">
@@ -32697,6 +32705,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The second is to select items in one of the OmegaT panes and sequentially call the dialog after each selection to have OmegaT enter it automatically in the various fields:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T131140Z" creationid="piav" creationdate="20221102T131058Z">
+        <seg>Toinen tapa on valita tekstiä jossakin OmegaT-ikkunassa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The segment is opened when either its segment call-out or segment number is entered.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T140056Z" creationid="piav" creationdate="20191202T140056Z">
@@ -33333,6 +33349,22 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T112933Z" creationid="piav" creationdate="20191201T112933Z">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt;:n voi käynnistää komentoriviltä kahdella tavalla:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are two ways to use this function.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T131014Z" creationid="piav" creationdate="20221102T130930Z">
+        <seg>On kaksi tapaa käyttää tätä toimintoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There first is to call the dialog and then manually fill in the various fields.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T131102Z" creationid="piav" creationdate="20221102T131000Z">
+        <seg>Ensimmäinen tapa on avata valintaikkuna ja täyttää eri kentät käsin.</seg>
       </tuv>
     </tu>
     <tu>
