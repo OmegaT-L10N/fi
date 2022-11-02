@@ -37397,6 +37397,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation project</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T160345Z" creationid="piav" creationdate="20221102T160345Z">
+        <seg>Käännösprojekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation unit encountered before TMX header.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190523T173608Z" creationid="piav" creationdate="20190523T140355Z">
