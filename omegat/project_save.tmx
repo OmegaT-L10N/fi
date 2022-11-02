@@ -26494,8 +26494,8 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Restores the status before the last edit made in the current segment.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T122654Z" creationid="piav" creationdate="20221102T122654Z">
-        <seg>Segmentti palautuu samanlaiseksi kuin se oli ennen edellistä muokkausta.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T123057Z" creationid="piav" creationdate="20221102T122654Z">
+        <seg>Komento palauttaa segmentin sellaiseksi kuin se oli ennen edellistä muokkausta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33589,8 +33589,8 @@ palvelimelta.</seg>
       <tuv lang="en">
         <seg>This command cannot restore that status after the user moves to a different segment.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T122815Z" creationid="piav" creationdate="20221102T122750Z">
-        <seg>Tämä komento ei enää </seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T123156Z" creationid="piav" creationdate="20221102T122750Z">
+        <seg>Tehtyä muokkausta ei voi enää kumota, kun käyttäjä on siirtynyt toiseen segmenttiin.</seg>
       </tuv>
     </tu>
     <tu>
