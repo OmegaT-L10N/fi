@@ -2022,6 +2022,16 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=[console mode name]
+	  Specify a mode other than default (GUI).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T154550Z" creationid="piav" creationdate="20221102T154427Z">
+        <seg>--mode=[konsolitilan nimi]
+	  Määrittelee muun kuin oletusmuotoisen käyttötilan (GUI).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
@@ -2048,10 +2058,34 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-pseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path&gt;
+	    The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T154630Z" creationid="piav" creationdate="20221102T154630Z">
+        <seg>--mode=console-pseudotranslatetmx
+	--pseudotranslatetmx=&lt;polku&gt;
+	  Tuottaa pseudokäännetyn TMX-tiedoston</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-translate</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T130011Z" creationid="piav" creationdate="20191201T130011Z">
         <seg>--mode=console-translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-translate
+	  --source-pattern=&lt;pattern&gt;
+	    A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T154632Z" creationid="piav" creationdate="20221102T154613Z">
+        <seg>--mode=console-translate
+	--source-pattern=&lt;lauseke&gt;
+	  Luettelo prosessoitavien lähdetiedostojen sallituista säännöllisistä lausekkeista</seg>
       </tuv>
     </tu>
     <tu>
@@ -2094,6 +2128,16 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    What to fill the pseudotranslated TMX with.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T154644Z" creationid="piav" creationdate="20221102T154644Z">
+        <seg>-pseudotranslatetype=[equal|empty]
+	    Millä pseudokäännetty TMX täytetään</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--remote-project
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
@@ -2128,6 +2172,16 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
 		Java-ominaisuuksien tiedosto ( .properties) käyttöliittymän tekstiä varten
 	--config-dir=&lt;polku&gt;
 		Hakemisto, josta OmegaT:n määritystiedostot luetaan tai johon ne kirjoitetaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for interface text</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T154358Z" creationid="piav" creationdate="20221102T154358Z">
+        <seg>--resource-bundle=&lt;polku&gt;
+	  Java-ominaisuuksien tiedosto ( .properties) käyttöliittymän tekstiä varten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8782,6 +8836,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T164823Z" creationid="piav" creationdate="20191210T164545Z">
         <seg>joka koostuu oppilaan käsikirjamallista sekä omiin tarpeisiin mukautettavissa olevista kouluttajien ohjeista. Kurssiin kuuluu myös joukko malliresursseja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console mode names and their options:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T154546Z" creationid="piav" creationdate="20221102T154546Z">
+        <seg>Konsolitilojen nimet ja niiden valinnat:</seg>
       </tuv>
     </tu>
     <tu>
