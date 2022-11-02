@@ -24161,6 +24161,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens a new window and displays project statistics such as the overall project word count or segment totals, and totals for every file in the project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T145533Z" creationid="piav" creationdate="20221102T145533Z">
+        <seg>Avautuu uusi ikkuna, joka näyttää projektin tilastotiedot eli projekti- ja tiedostokohtaiset sana- ja segmenttimäärät.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens a new window and displays the project statistics, i.e. the project totals and totals for every file in the project.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T150734Z" creationid="piav" creationdate="20191202T150734Z">
