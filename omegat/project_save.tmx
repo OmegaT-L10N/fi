@@ -5301,6 +5301,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alternative</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T122335Z" creationid="piav" creationdate="20221102T122328Z">
+        <seg>Vaihtoehtoinen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alternative Language</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T110759Z" creationid="piav" creationdate="20190916T141743Z">
@@ -14233,10 +14241,18 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Has Comment, see Comments Tab</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T122317Z" creationid="piav" creationdate="20221102T122309Z">
+        <seg>Kommentoitu, ks. Kommentit-välilehti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Has Note, see Notes Tab</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T122157Z" creationid="piav" creationdate="20221102T122157Z">
-        <seg>Tässä on muistiinpano, ks. Muistiinpano</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T122311Z" creationid="piav" creationdate="20221102T122157Z">
+        <seg>Tässä on muistiinpano, ks. Muistiinpanot-välilehti</seg>
       </tuv>
     </tu>
     <tu>
@@ -16840,6 +16856,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T121012Z" creationid="piav" creationdate="20191128T121012Z">
         <seg>Tässä tapauksessa projekti luodaan samaan tapaan, mutta projektipäällikkö ei lisää tiedostoja /source-kansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this guide: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T122500Z" creationid="piav" creationdate="20221102T122500Z">
+        <seg>Tässä oppaassa: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21055,6 +21079,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No Comment</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T122325Z" creationid="piav" creationdate="20221102T122325Z">
+        <seg>Ei kommenttia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220821T083825Z" creationid="piav" creationdate="20220821T083825Z">
@@ -21075,6 +21107,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T133743Z" creationid="piav" creationdate="20190920T133141Z">
         <seg>Ongelmallisia kohtia ei löytynyt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Note</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T122245Z" creationid="piav" creationdate="20221102T122245Z">
+        <seg>Ei muistiinpanoa</seg>
       </tuv>
     </tu>
     <tu>
@@ -21343,6 +21383,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T181608Z" creationid="PiaVee" creationdate="20171014T175038Z">
         <seg>norjan nynorsk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not Alternative</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T122340Z" creationid="piav" creationdate="20221102T122340Z">
+        <seg>Ei vaihtoehtoinen</seg>
       </tuv>
     </tu>
     <tu>
@@ -22841,6 +22889,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T122521Z" creationid="piav" creationdate="20221102T122521Z">
+        <seg>Windowsissa ja Linuxissa: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;Z&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T113511Z" creationid="piav" creationdate="20191201T113115Z">
@@ -23493,6 +23549,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T110314Z" creationid="piav" creationdate="20191201T110211Z">
         <seg>Oracle tarjoaa JRE-ympäristöjä Solaris SPARC/x86 (Java 8)-, Linux x64-, Solaris x64- sekä Windows x64 (Java 8)- käyttöjärjestelmiin osoitteessa &lt;u0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Origin</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T122356Z" creationid="piav" creationdate="20221102T122356Z">
+        <seg>Alkuperä</seg>
       </tuv>
     </tu>
     <tu>
