@@ -5663,6 +5663,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any text selected in the &lt;l0/&gt; pane will have priority over the selected match and be inserted at the cursor position.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T124353Z" creationid="piav" creationdate="20221102T124353Z">
+        <seg>&lt;l0/&gt;-ruudulta valittu (maalattu) teksti on etusijalla – teksti lisätää .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any text selected in the &lt;l0/&gt; pane will have priority over the selected match and will replace the entire target segment.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T124239Z" creationid="piav" creationdate="20221102T123832Z">
@@ -17096,6 +17104,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T062522Z" creationid="piav" creationdate="20191023T062522Z">
         <seg>Lisää osuma tai valinta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Match or Selection &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;I&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T124254Z" creationid="piav" creationdate="20221102T124254Z">
+        <seg>Lisää osuma tai valinta &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
