@@ -9838,6 +9838,22 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Current Source Document</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143833Z" creationid="piav" creationdate="20221102T143833Z">
+        <seg>Nykyinen lähdeasiakirja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current Target Document</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143910Z" creationid="piav" creationdate="20221102T143910Z">
+        <seg>Nykyinen lähdeasiakirja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T100425Z" creationid="PiaVee" creationdate="20171015T100425Z">
@@ -14097,6 +14113,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Gives access to the various project folders.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143640Z" creationid="piav" creationdate="20221102T143640Z">
+        <seg>Tässä pääset käsittelemään projektin kansioita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T171621Z" creationid="piav" creationdate="20190527T171621Z">
@@ -16760,6 +16784,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T144921Z" creationid="piav" creationdate="20191022T081533Z">
         <seg>Vain lukukelpoisen sanastotiedoston muodoksi sopii vain teksti -muoto sekä termitiedostomuoto TBX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition, there are three menu entries that directly open the current source or target documents, or the writable glossary.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143744Z" creationid="piav" creationdate="20221102T143744Z">
+        <seg>Kohdassa on kolme alivalintaa, jotka avaavat suoraan senhetkisen lähde- tai kohdeasiakirjan tai kirjoituskelpoisen sanaston.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24105,6 +24137,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0/&gt; window.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143635Z" creationid="piav" creationdate="20221102T143635Z">
+        <seg>Avaa &lt;l0/&gt;-ikkunan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T152310Z" creationid="piav" creationdate="20191202T152310Z">
@@ -28374,6 +28414,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0/&gt; for more details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143705Z" creationid="piav" creationdate="20221102T143648Z">
+        <seg>Lisää yksityiskohtia löytyy kohdasta &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;Dictionaries&lt;/l0&gt; for more on this subject.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T124654Z" creationid="piav" creationdate="20191208T124642Z">
@@ -32327,6 +32375,22 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The current source document is located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143919Z" creationid="piav" creationdate="20221102T143856Z">
+        <seg>Nykyinen lähdeasiakirja löytyy &lt;l0/&gt;-kansiosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The current target document is located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143932Z" creationid="piav" creationdate="20221102T143914Z">
+        <seg>Nykyinen kohdeasiakirja löytyy &lt;l0/&gt;-kansiosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The data are exported when the segment is opened.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T144947Z" creationid="piav" creationdate="20191030T144947Z">
@@ -32451,6 +32515,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T145122Z" creationid="piav" creationdate="20191202T145122Z">
         <seg>Asiakirjat avautuvat käyttöjärjestelmän valitsemassa ohjelmassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The documents are opened in the default application set by the operating system.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143808Z" creationid="piav" creationdate="20221102T143808Z">
+        <seg>Asiakirjat avataan käyttöjärjestelmän mukaisessa oletusasetuksessa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33101,6 +33173,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210414T163525Z" creationid="piav" creationdate="20210414T163525Z">
         <seg>Tämä vaihtoehto näkyy vain, kun tällainen valinta on mahdollista tehdä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The options are grayed out if the documents do not exist yet.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T143829Z" creationid="piav" creationdate="20221102T143829Z">
+        <seg>Jos kyseisiä asiakirjoja ei vielä ole, vaihtoehdot näkyvät harmaina.</seg>
       </tuv>
     </tu>
     <tu>
