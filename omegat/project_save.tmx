@@ -13377,6 +13377,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Force escaping Unicode literals as compatible to Java 8 to write</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T121703Z" creationid="piav" creationdate="20221102T121419Z">
+        <seg>Pakota Unicode-literaalien pakomerkit Java-8-kelpoisiksi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Format, extensions and expected encoding</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T123525Z" creationid="piav" creationdate="20210415T123525Z">
