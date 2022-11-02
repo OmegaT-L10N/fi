@@ -3175,6 +3175,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional): detects grammatical or typographical issues.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T144824Z" creationid="piav" creationdate="20221102T144755Z">
+        <seg>&lt;g0&gt;LanguageTool-virheet&lt;/g0&gt; (valinnainen): kieliopilliset tai typografiset virheet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Preserve spaces for all tags&lt;/g0&gt;: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220906T192629Z" creationid="piav" creationdate="20220906T192629Z">
@@ -3279,6 +3287,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional): detects spelling mistakes.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T144659Z" creationid="piav" creationdate="20221102T144659Z">
+        <seg>&lt;g0&gt;Oikeinkirjoitusvirheet&lt;/g0&gt; (valinnainen): väärin kirjoitetut ilmaukset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Start a new paragraph on&lt;/g0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220906T193019Z" creationid="piav" creationdate="20220906T193019Z">
@@ -3299,6 +3315,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20200704T142813Z" creationid="piav" creationdate="20191202T145816Z">
         <seg>&lt;g0&gt;Terminologiaongelmat&lt;/g0&gt; (valinnainen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional): detects all the glossary items that are not properly translated.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T144738Z" creationid="piav" creationdate="20221102T144738Z">
+        <seg>&lt;g0&gt;Termivirheet&lt;/g0&gt; (valinnainen): kaikki sanastossa olevat termit, joita ei ole käännetty oikein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33241,6 +33265,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The option is always selected.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T144630Z" creationid="piav" creationdate="20221102T144630Z">
+        <seg>Tämä kohta on aina valittuna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The option only appears when such a selection is possible.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210414T163525Z" creationid="piav" creationdate="20210414T163525Z">
@@ -33573,6 +33605,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T143556Z" creationid="piav" creationdate="20221102T143556Z">
         <seg>Tämä uusi asiakirja löytyy &lt;l0/&gt;-kansiosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The results are presented as a table in which:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T144856Z" creationid="piav" creationdate="20221102T144856Z">
+        <seg>Tulokset näkyvät omassa ikkunassaan, ja tulostaulukko toimii näin:</seg>
       </tuv>
     </tu>
     <tu>
