@@ -3273,8 +3273,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190920T125343Z" creationid="piav" creationdate="20190920T125343Z">
-        <seg>&lt;html&gt;Pakettivaraston URL:&lt;/html&gt;</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T121911Z" creationid="piav" creationdate="20190920T125343Z">
+        <seg>&lt;html&gt;Tietovaraston URL:&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10656,6 +10656,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Don't you forget a first commit?</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T122122Z" creationid="piav" creationdate="20221102T122122Z">
+        <seg>Unohditko ensimmäisen commitin?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Donations</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T183633Z" creationid="piav" creationdate="20191210T183633Z">
@@ -10940,6 +10948,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T101808Z" creationid="PiaVee" creationdate="20171015T124358Z">
         <seg>Toistetut segmentit: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Duplicated</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T122127Z" creationid="piav" creationdate="20221102T122127Z">
+        <seg>Kaksoiskappale</seg>
       </tuv>
     </tu>
     <tu>
@@ -14213,6 +14229,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T181050Z" creationid="PiaVee" creationdate="20171014T174222Z">
         <seg>haiti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Has Note, see Notes Tab</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T122157Z" creationid="piav" creationdate="20221102T122157Z">
+        <seg>Tässä on muistiinpano, ks. Muistiinpano</seg>
       </tuv>
     </tu>
     <tu>
@@ -21015,6 +21039,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T122131Z" creationid="piav" creationdate="20221102T122131Z">
+        <seg>Ei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No .DOCX files to clean.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T093042Z" creationid="piav" creationdate="20191211T093042Z">
@@ -24064,6 +24096,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please check your repository has correct commits and files.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T122112Z" creationid="piav" creationdate="20221102T122112Z">
+        <seg>Tarkista, että tietovarastosi commitit ja tiedostot ovat oikein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please close search window.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T142946Z" creationid="piav" creationdate="20190521T142946Z">
@@ -26166,16 +26206,16 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Repository (type: {0}) URL not defined on path: {1}</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T121748Z" creationid="piav" creationdate="20221102T121748Z">
-        <seg>Säilö (tyyppi: {0}) URL not defined on polku: {1}</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T121951Z" creationid="piav" creationdate="20221102T121951Z">
+        <seg>Tietovaraston (tyyppi: {0}) URL-osoitetta ei ole määritetty polulla {1}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Repository Credentials</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190920T130832Z" creationid="piav" creationdate="20190920T130811Z">
-        <seg>Pakettivaraston tunnistetiedot</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T121920Z" creationid="piav" creationdate="20190920T130811Z">
+        <seg>Tietovaraston tunnistetiedot</seg>
       </tuv>
     </tu>
     <tu>
@@ -32169,6 +32209,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project conversion was failed.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T122003Z" creationid="piav" creationdate="20221102T122003Z">
+        <seg>Projektin muuntaminen ei onnistunut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project default writable glossary is always a TSV file saved in UTF-8 encoding.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T123304Z" creationid="piav" creationdate="20210415T123304Z">
@@ -38158,6 +38206,14 @@ ei enää löydy.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20200704T140749Z" creationid="piav" creationdate="20200704T140749Z">
         <seg>Yandex.Cloud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T122130Z" creationid="piav" creationdate="20221102T122130Z">
+        <seg>Kyllä</seg>
       </tuv>
     </tu>
     <tu>
