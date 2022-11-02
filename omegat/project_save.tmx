@@ -9952,6 +9952,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Define the translation as empty.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133642Z" creationid="piav" creationdate="20221102T133642Z">
+        <seg>Käännös merkitään tyhjäksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Defines the project-specific external search resources.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T121328Z" creationid="piav" creationdate="20191127T121328Z">
@@ -9980,6 +9988,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T081419Z" creationid="piav" creationdate="20190522T081419Z">
         <seg>Poistettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deletes the current translation and sets the segment as untranslated.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133635Z" creationid="piav" creationdate="20221102T133635Z">
+        <seg>Käännös poistetaan ja segmentti merkitään kääntämättömäksi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15596,6 +15612,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the current translation does not apply, select this menu item and enter the alternative translation.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133629Z" creationid="piav" creationdate="20221102T133629Z">
+        <seg>Jos senhetkinen käännös ei sovi segmenttiin, valitse tämä valikkokohta ja luo vaihtoehtoinen käännös.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the current translation of the segment does not fit, the user can select &lt;g0&gt;Edit → Create Alternative Translation&lt;/g0&gt;.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T112909Z" creationid="piav" creationdate="20191208T112857Z">
@@ -16900,6 +16924,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the Editor, the translation is displayed as &lt;g0&gt;&lt;EMPTY&gt;&lt;/g0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133714Z" creationid="piav" creationdate="20221102T133714Z">
+        <seg>Editorissa tyhjän käännöksen kohdalla lukee &lt;TYHJÄ&gt;&lt;g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the Exclusion patterns dialog, it is possible to Add or Remove a pattern, or edit one by selecting a line and pressing F2.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T122136Z" creationid="piav" creationdate="20191127T121951Z">
@@ -17032,6 +17064,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T121012Z" creationid="piav" creationdate="20191128T121012Z">
         <seg>Tässä tapauksessa projekti luodaan samaan tapaan, mutta projektipäällikkö ei lisää tiedostoja /source-kansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this guide: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T134941Z" creationid="piav" creationdate="20221102T134941Z">
+        <seg>Tässä oppaassa: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25978,6 +26018,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Register Identical Translation &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133732Z" creationid="piav" creationdate="20221102T133732Z">
+        <seg>Kirjaa sama käännös &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expression</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T160541Z" creationid="piav" creationdate="20191022T160541Z">
@@ -28206,6 +28254,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segments that are one and the same segment may, depending on the context, require different translations.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133546Z" creationid="piav" creationdate="20221102T133546Z">
+        <seg>Yksi ja sama segmentti voi vaatia erilaisia käännöksiä, kontekstista riippuen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segments with notes</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T084233Z" creationid="piav" creationdate="20190522T084233Z">
@@ -28714,6 +28770,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T135246Z" creationid="piav" creationdate="20190920T135246Z">
         <seg>Asetettu &amp; laitettu talteen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set Empty Translation</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133637Z" creationid="piav" creationdate="20221102T133637Z">
+        <seg>Aseta tyhjä käännös</seg>
       </tuv>
     </tu>
     <tu>
@@ -31907,6 +31971,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T142740Z" creationid="piav" creationdate="20191030T142614Z">
         <seg>Samassa ponnahdusvalikossa on vaihtoehto &lt;e3&gt;Poista käännös&lt;/e3&gt;, jonka avulla poistat segmentissä olevan käännöksen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The entry will be greyed if only one translation is available.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133534Z" creationid="piav" creationdate="20221102T133534Z">
+        <seg>Jos käännösvaihtoehtoja on vain yksi, käännös kirjoitetaan harmaalla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37064,6 +37136,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T115054Z" creationid="piav" creationdate="20191127T114846Z">
         <seg>Avaa valintaikkuna napsauttamalla tätä painiketta, laita rasti &lt;g0&gt;Projektikohtaiset segmentointisäännöt&lt;/g0&gt; -ruutuun ja muokkaa segmentointisääntöjä toivotun laisiksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this command to register a translation as identical to the source, even if Preferences – &lt;l0/&gt; is not checked.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T133810Z" creationid="piav" creationdate="20221102T133810Z">
+        <seg>Käytä tätä komentoa merkitsemään käännös samaksi kuin lähdeteksti silloinkin, kun Asetus-valikon kohtaa &lt;l0/&gt; ei ole valittu.</seg>
       </tuv>
     </tu>
     <tu>
