@@ -8860,6 +8860,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copies the selected files to the &lt;l0/&gt; folder and reloads the project to take the new files into account.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T142422Z" creationid="piav" creationdate="20221102T142422Z">
+        <seg>Valitut tiedostot kopioidaan &lt;l0/&gt;-kansioon ja projekti ladataan uudelleen, jolloin uudet tiedostot tulevat näkyviin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T141717Z" creationid="piav" creationdate="20190916T141717Z">
@@ -23953,6 +23961,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens a dialog where you can paste the URL of the Mediawiki page you want to translate.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T142610Z" creationid="piav" creationdate="20221102T142610Z">
+        <seg>Avaa valintaikkunan, jonne voit liittää URL-osoitteen Mediawiki-sivulle, jonka haluat kääntää.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens a new &lt;l0/&gt;.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T132129Z" creationid="piav" creationdate="20221102T132129Z">
@@ -33509,6 +33525,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T152039Z" creationid="piav" creationdate="20191202T151733Z">
         <seg>Lähde- ja kohdetiedostojen tiedostomuotojen ei tarvitse olla samat (voit esim. kohdistaa &lt;f0&gt;.docx&lt;/f0&gt;-tiedoston ja &lt;f1&gt;.pdf&lt;/f1&gt;-tiedoston).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source data of the page will be copied into the &lt;l0/&gt; folder, as a text file, with the &lt;f1&gt;.utf8&lt;/f1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T142720Z" creationid="piav" creationdate="20221102T142720Z">
+        <seg>Sivun lähdetiedot kopioidaan &lt;l0/&gt;-kansioon tekstitiedostoksi, jonka tiedostopääte on &lt;f1&gt;.utf8&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
