@@ -3441,8 +3441,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;TAB&lt;/k2&gt;&lt;/k0&gt; can be used as an alternate shortcut if Preferences – &lt;l3/&gt; is selected.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T140103Z" creationid="piav" creationdate="20221102T135921Z">
-        <seg>Jos Asetukset-valikon kohta &lt;l3/&gt; on valittuna, vaihtoehtoisena pikanäppäimenä voi käyttää näppäinyhdistelmää &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;TAB&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150735Z" creationid="piav" creationdate="20221102T135921Z">
+        <seg>Jos kohta Asetukset – &lt;l3/&gt; on valittuna, vaihtoehtoisena pikanäppäimenä voi käyttää näppäinyhdistelmää &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;TAB&lt;/k2&gt;&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3465,8 +3465,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>&lt;k0&gt;TAB&lt;/k0&gt; can be used as an alternate shortcut if Preferences – &lt;l1/&gt; is selected.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T135736Z" creationid="piav" creationdate="20221102T135704Z">
-        <seg>Jos Asetukset-valikon kohta &lt;l1/&gt; on valittuna, vaihtoehtoisena pikanäppäimenä voi käyttää myös &lt;k0&gt;TAB&lt;/k0&gt;-näppäintä.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150715Z" creationid="piav" creationdate="20221102T135704Z">
+        <seg>Jos kohta Asetukset – &lt;l1/&gt; on valittuna, vaihtoehtoisena pikanäppäimenä voi käyttää myös &lt;k0&gt;TAB&lt;/k0&gt;-näppäintä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15635,8 +15635,8 @@ polulla, koko polkua ei tarvitse kirjoittaa.)</seg>
       <tuv lang="en">
         <seg>If commands to perform external searches have been defined in Preferences – &lt;l0/&gt;, they are listed and accessible here.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T150202Z" creationid="piav" creationdate="20221102T150202Z">
-        <seg>Jos Asetukset-valikon kohdassa &lt;l0/&gt; on määritelty ulkoisia hakukomentoja, ne näkyvät ja voit käyttää niitä tässä.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150814Z" creationid="piav" creationdate="20221102T150202Z">
+        <seg>Jos kohdassa Asetukset – &lt;l0/&gt; on määritelty ulkoisia hakukomentoja, ne näkyvät ja voit käyttää niitä tässä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22099,6 +22099,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Normal translations inserted from the &lt;f0&gt;tm/auto&lt;/f0&gt; folder are marked in orange.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150933Z" creationid="piav" creationdate="20221102T150933Z">
+        <seg>Tavalliset &lt;f0&gt;tm/auto&lt;/f0&gt;-kansiosta lisätyt käännökset merkitään oranssilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Normally, it is not necessary to start &lt;a0&gt;OmegaT&lt;/a0&gt; from the command line.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T112823Z" creationid="piav" creationdate="20191201T112823Z">
@@ -24613,6 +24621,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T110437Z" creationid="piav" creationdate="20191129T110437Z">
         <seg>Myös muita vain teksti -tiedostoja tai tekstimuotoiluja sisältäviä tiedostoja voi olla mahdollista käyttää OmegaT:ssä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other translations specifically identified in the TMX, can be marked in different colors.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T151026Z" creationid="piav" creationdate="20221102T151026Z">
+        <seg>Muut käännökset, jotka on erityisesti merkitty TMX-tiedostoon, voidaan merkitä eri väreillä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28776,8 +28792,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>See Preferences – &lt;l0/&gt;.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T150244Z" creationid="piav" creationdate="20221102T150244Z">
-        <seg>Katso Asetukset-valikon kohtaa &lt;l0/&gt;.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150823Z" creationid="piav" creationdate="20221102T150244Z">
+        <seg>Katso kohtaa Asetukset – &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29168,8 +29184,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Select Preferences – &lt;l0/&gt; to activate it.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T141622Z" creationid="piav" creationdate="20221102T141622Z">
-        <seg>Aktivoi tämä valitsemalla Asetukset-valikon kohta &lt;l0/&gt;.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150749Z" creationid="piav" creationdate="20221102T141622Z">
+        <seg>Aktivoi tämä valitsemalla kohta Asetukset – &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31764,8 +31780,8 @@ Tekstin korvaus tapahtuu projektin lähdekielisissä segmenteissä riippumatta s
       <tuv lang="en">
         <seg>That color marking is shown as long as Preferences – &lt;l0/&gt; is checked.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T150543Z" creationid="piav" creationdate="20221102T150543Z">
-        <seg>Värimerkintä on näkyvissä niin kauan, kuin Asetukset-valikon kohta &lt;l0/&gt; on valitttuna.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150833Z" creationid="piav" creationdate="20221102T150543Z">
+        <seg>Värimerkintä on näkyvissä niin kauan, kuin kohta Asetukset – &lt;l0/&gt; on valitttuna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34171,8 +34187,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="en">
         <seg>The supported file formats are the same as those listed in Preferences – &lt;l0/&gt;.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T145751Z" creationid="piav" creationdate="20221102T145751Z">
-        <seg>Tuetut tiedostomuodot ovat samat kuin Asetukset-valikon kohdassa &lt;l0/&gt; luetellut tiedostomuodot.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20221102T150805Z" creationid="piav" creationdate="20221102T145751Z">
+        <seg>Tuetut tiedostomuodot ovat samat kuin kohdassa Asetukset – &lt;l0/&gt; luetellut tiedostomuodot.</seg>
       </tuv>
     </tu>
     <tu>
