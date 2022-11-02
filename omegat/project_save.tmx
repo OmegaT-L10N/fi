@@ -2088,12 +2088,12 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
 	  --output-file=[stats-output-file]
 	    Prints to that file, or to standard output if absent.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T154930Z" creationid="piav" creationdate="20221102T154930Z">
+      <tuv lang="fi" changeid="piav" changedate="20221102T155204Z" creationid="piav" creationdate="20221102T154930Z">
         <seg>--mode=console-stats
 	  project_path
 	    Projektipolku
 	  --output-file=[tilastotiedosto]
-	    Tulostaa tilaston kyseiseen tiedostoon. Jos tilastoa ei ole annettu, tulostaa tilastotiedot näytölle.</seg>
+	    Tulostaa tilaston kyseiseen tiedostoon. Jos tilastoa ei ole annettu, tulostaa tilastotiedot stdput-tulosteeseen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2166,6 +2166,16 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--quiet
+	  Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T155234Z" creationid="piav" creationdate="20221102T155157Z">
+        <seg>--quiet
+	  Pienentää komentorivitulosteen sisältöä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--remote-project
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
@@ -2224,6 +2234,16 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--script=&lt;path&gt;
+	  A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T155247Z" creationid="piav" creationdate="20221102T155206Z">
+        <seg>--script=&lt;polku&gt;
+	  Projektitapahtumissa suoritettava komentosarjatiedosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--source-pattern=&lt;p0&gt;regexp&lt;/p0&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T131241Z" creationid="piav" creationdate="20191201T131241Z">
@@ -2236,6 +2256,16 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T124843Z" creationid="piav" creationdate="20191201T124843Z">
         <seg>--source-pattern=&lt;p4&gt;regexp&lt;/p4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--stats-type=[xml|text][txt][json]]]
+	    Specifies the output format.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T155124Z" creationid="piav" creationdate="20221102T155124Z">
+        <seg>--stats-type=[xml|text][txt][json]]]
+	    Määrittelee tuotoksen muodon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8876,6 +8906,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Console only options:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T155134Z" creationid="piav" creationdate="20221102T155134Z">
+        <seg>Vain konsolia koskevat valinnat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
@@ -10331,6 +10369,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T061830Z" creationid="piav" creationdate="20191023T061830Z">
         <seg>Oletusmuotoinen pikanäppäin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Defaults to xml.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T155042Z" creationid="piav" creationdate="20221102T155042Z">
+        <seg>Oletusasetuksena on xml.</seg>
       </tuv>
     </tu>
     <tu>
