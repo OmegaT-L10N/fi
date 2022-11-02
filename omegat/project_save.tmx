@@ -14557,6 +14557,14 @@ lopullisesti.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hit &lt;k0&gt;Enter&lt;/k0&gt; or click on &lt;g1&gt;OK&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T132109Z" creationid="piav" creationdate="20221102T132053Z">
+        <seg>Paina &lt;k0&gt;Enter&lt;/k0&gt;-näppäintä tai napsauta &lt;g1&gt;OK&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Home*</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171218T123619Z" creationid="PiaVee" creationdate="20171218T123428Z">
@@ -16101,6 +16109,14 @@ avulla.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T102444Z" creationid="piav" creationdate="20191208T102054Z">
         <seg>Kun napsautat editoriruutua hiiren kakkospainikkeella, näytölle avautuu ponnahdusvalikko, jossa on toiminnot &lt;e0&gt;Leikkaa, Kopioi, Liitä&lt;/e0&gt; (siis samat toiminnot kuin näppäinyhdistelmillä &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; ja &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;Mene segmenttiin&lt;/e10&gt; sekä &lt;e11&gt;Lisää sanaston termi&lt;/e11&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you select a text string (in any pane) before calling the function, the text will be pasted by default in the &lt;g0&gt;Search for:&lt;/g0&gt; field.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T132332Z" creationid="piav" creationdate="20221102T132156Z">
+        <seg>Jos valitset ensin pätkän tekstiä (mistä tahansa ruudusta) ja painat sitten näppäinyhdistelmää, näytölle avautuu hakuikkuna ja valintasi siirtyy hakuikkunan kenttään &lt;g0&gt;Etsittävä teksti:&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23489,6 +23505,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens a new &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T132129Z" creationid="piav" creationdate="20221102T132129Z">
+        <seg>Uusi &lt;l0/&gt; avautuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens a new &lt;l0&gt;Search and replace window&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T130654Z" creationid="piav" creationdate="20191202T131305Z">
@@ -27498,6 +27522,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190913T111349Z" creationid="piav" creationdate="20190913T111346Z">
         <seg>Etsi projektista…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search Project... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T132117Z" creationid="piav" creationdate="20221102T132117Z">
+        <seg>Etsi projektista... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38720,6 +38752,14 @@ sitten suorittaa Kaptain-käynnistyskomentosarjan painamalla</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T081714Z" creationid="piav" creationdate="20191127T081654Z">
         <seg>Voit myös tehdä erilaisia tägien tarkistukseen liittyviä valintoja ja määritellä mukautettuja tägejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also enter your comment manually.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T132028Z" creationid="piav" creationdate="20221102T132028Z">
+        <seg>Kommentin voi myös lisätä käsin.</seg>
       </tuv>
     </tu>
     <tu>
