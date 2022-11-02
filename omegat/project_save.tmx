@@ -14933,6 +14933,14 @@ lopullisesti.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hovering on an underlined term displays the matching target term.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T151310Z" creationid="piav" creationdate="20221102T151229Z">
+        <seg>Kun pidät hiiren osoitinta alleviivatun termin kohdalla, saat näkyville vastaavan kohdekielisen termin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How To...</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T115211Z" creationid="piav" creationdate="20191208T115203Z">
@@ -27700,6 +27708,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-clicking on an underlined term displays the matching target term, which can be selected and inserted at the cursor position in the target text.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T151249Z" creationid="piav" creationdate="20221102T151249Z">
+        <seg>Klikkaamalla alleviivattua termiä hiiren kakkospainikkeella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-clicking on an underlined word (Artund in the figure above) opens a drop-down menu listing suggestions for the correction (Art und).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T113703Z" creationid="piav" creationdate="20191023T113703Z">
@@ -28842,6 +28858,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T112559Z" creationid="piav" creationdate="20191208T112546Z">
         <seg>Lisää tietoa niistä löydät kappaleesta &lt;l0&gt;Sanakirjat&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;u1&gt;Request For Enhancement&lt;/u1&gt; for technical details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T151113Z" creationid="piav" creationdate="20221102T151113Z">
+        <seg>Teknisiä yksityiskohtia löytyy &lt;u1&gt;Request For Enhancement&lt;/u1&gt;-listalta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37394,6 +37418,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T074936Z" creationid="piav" creationdate="20191127T074936Z">
         <seg>Poista rasti tästä kohdasta, jotta muokkaus (eli tägien osittainen poisto) ei aiheuta vahinkoja tägeille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Underlines source terms that have a match in the glossaries.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T151150Z" creationid="piav" creationdate="20221102T151150Z">
+        <seg>Lähdekieliset termit, joille löytyy vastaavuus sanastosta, alleviivataan.</seg>
       </tuv>
     </tu>
     <tu>
