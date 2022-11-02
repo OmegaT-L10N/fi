@@ -21391,6 +21391,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New translation memories placed in the &lt;l0/&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T142904Z" creationid="piav" creationdate="20221102T142831Z">
+        <seg>OmegaT ottaa käännöstyön aikana &lt;l0/&gt;-kansioon sijoitetut uudet käännösmuistit käyttöön heti kun kohdistin siirtyy yhdestä segmentistä toiseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>New users of OmegaT are encouraged to make any suggestions here.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T173910Z" creationid="piav" creationdate="20191210T173910Z">
@@ -26410,6 +26418,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reload &lt;k0&gt;&lt;k1&gt;F5&lt;/k1&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T142731Z" creationid="piav" creationdate="20221102T142731Z">
+        <seg>Lataa uudelleen &lt;k0&gt;&lt;k1&gt;F5&lt;/k1&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reload the current project to apply these changes</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220821T082301Z" creationid="piav" creationdate="20220821T082301Z">
@@ -29434,6 +29450,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T082440Z" creationid="piav" creationdate="20191127T082440Z">
         <seg>Samoin voit kirjoittaa lausekkeen &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt;, jolloin lähdetekstissä olevat HTML- ja muut tägit säilyvät sellaisenaan mukana myös käännöksessä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similarly, the contents of the &lt;l1/&gt; folder are automatically recognized and do not require reloading the project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T142956Z" creationid="piav" creationdate="20221102T142956Z">
+        <seg>Myös &lt;l1/&gt;-kansion sisältö tunnistetaan automaattisesti, projektia ei siis tarvi</seg>
       </tuv>
     </tu>
     <tu>
