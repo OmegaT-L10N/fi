@@ -3319,6 +3319,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;F&lt;/k3&gt;&lt;/k0&gt; reuses the most recent still open Search window (instead of opening a new one).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T132629Z" creationid="piav" creationdate="20221102T132629Z">
+        <seg>Näppäinyhdistelmä &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;F&lt;/k3&gt;&lt;/k0&gt; käyttää hakuun viimeksi käytössä ollutta avointa hakuikkunaa (eikä siis avaa uutta ikkunaa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; or &lt;k1&gt;Enter&lt;/k1&gt; or &lt;k2&gt;Tab&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T063207Z" creationid="piav" creationdate="20191023T063207Z">
