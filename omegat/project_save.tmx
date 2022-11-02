@@ -26180,6 +26180,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace With Match or Selection &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;R&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T123431Z" creationid="piav" creationdate="20221102T123431Z">
+        <seg>Korvaa osumalla tai valinnalla &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;R&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace With Source</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T062549Z" creationid="piav" creationdate="20191023T062535Z">
@@ -26248,6 +26256,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T134319Z" creationid="piav" creationdate="20190521T134319Z">
         <seg>Korvaa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replaces the entire target segment with the currently selected fuzzy match (by default the first match is selected).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20221102T123733Z" creationid="piav" creationdate="20221102T123733Z">
+        <seg>Kaikki kohdesegmentissä oleva teksti korvautuu valitulla sumealla osumalla. Oletusarvoisesti valittuna on ensimmäinen osuma.</seg>
       </tuv>
     </tu>
     <tu>
