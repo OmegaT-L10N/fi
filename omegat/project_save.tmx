@@ -30719,6 +30719,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some plugins can make this task easier.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T172842Z" creationid="pia" creationdate="20221109T172842Z">
+        <seg>Jotkin lisäosat </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T132008Z" creationid="piav" creationdate="20190521T132008Z">
@@ -32518,8 +32526,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The &lt;f0&gt;plugins&lt;/f0&gt; and &lt;f1&gt;scripts&lt;/f1&gt; folders might be overwritten, so you may want to create a backup before upgrading.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221109T172712Z" creationid="pia" creationdate="20221109T172712Z">
-        <seg>Päivityksen yhteydessä &lt;f0&gt;plugins&lt;/f0&gt;- ja &lt;f1&gt;scripts&lt;/f1&gt;-kansioiden sisältö saattaa muuttua, joten on hyvä idea luoda kansioista ensin varmuuskopiot ennen päivitystä.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221109T182139Z" creationid="pia" creationdate="20221109T172712Z">
+        <seg>Päivityksen yhteydessä &lt;f0&gt;plugins&lt;/f0&gt;- ja &lt;f1&gt;scripts&lt;/f1&gt;-kansioiden sisältö saattaa muuttua, joten on hyvä idea varmuuskopioida kansioit ennen päivitystä.</seg>
       </tuv>
     </tu>
     <tu>
