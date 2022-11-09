@@ -5156,10 +5156,34 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional layouts can be added as plugins.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T182501Z" creationid="pia" creationdate="20221109T182347Z">
+        <seg>Lisää asetteluja saa käyttöön laajennusten avulla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional parameter is required in this case, specifying the location of the target data:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T130942Z" creationid="piav" creationdate="20191201T130942Z">
         <seg>Tässä tapauksessa tarvitaan yksi lisäparametri, joka määrittelee kohdedatan sijainnin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additional plugins can be found on the &lt;u0&gt;OmegaT development site&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T182752Z" creationid="pia" creationdate="20221109T182752Z">
+        <seg>Lisää laajennuksia löytyy &lt;u0&gt;OmegaT-kehityssivulta&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additional themes can be added as plugins.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T182520Z" creationid="pia" creationdate="20221109T182446Z">
+        <seg>Lisää teemoja saa käyttöön laajennusten avulla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11071,6 +11095,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the list of all the installed plugins.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T182546Z" creationid="pia" creationdate="20221109T182546Z">
+        <seg>Tässä kohdassa näkyy luettelo kaikista asennetuista laajennuksista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the list of new functionalities, enhancements and bug fixes for each new release.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T141329Z" creationid="piav" creationdate="20191202T141154Z">
@@ -16377,6 +16409,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T104939Z" creationid="piav" creationdate="20190527T191221Z">
         <seg>Pääset vaihtamaan mahdollisia suodatinasetuksia napsauttamalla Valinnat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the format is not there, use third party plugins or convert the file to a format that is supported.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T182247Z" creationid="pia" creationdate="20221109T182247Z">
+        <seg>Jos tiedostomuotoa ei näy, käytä kolmannen osapuolen lisäosia tai muuta tiedosto toiseen, tuettuun muotoon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25929,6 +25969,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugins are installed either in the &lt;l0/&gt; folder under the &lt;l1/&gt;, or in the platform-specific &lt;l2/&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T182726Z" creationid="pia" creationdate="20221109T182726Z">
+        <seg>Laajennuksen asennetaan joko &lt;l0/&gt;-kansioon (löytyy kansiosta &lt;l1/&gt;) tai käyttöliittymän mukaisesti, &lt;l2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder under the OmegaT installation folder or the platform-specific OmegaT user preferences folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20201211T143516Z" creationid="piav" creationdate="20201211T143516Z">
@@ -30721,8 +30769,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Some plugins can make this task easier.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221109T172842Z" creationid="pia" creationdate="20221109T172842Z">
-        <seg>Jotkin lisäosat </seg>
+      <tuv lang="fi" changeid="pia" changedate="20221109T182159Z" creationid="pia" creationdate="20221109T172842Z">
+        <seg>Jotkin lisäosat voivat tehdä tästä helpompaa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44031,6 +44079,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191029T100841Z" creationid="piav" creationdate="20191029T100841Z">
         <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/wiki/Plugins/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T182728Z" creationid="pia" creationdate="20221109T182728Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Plugins/</seg>
       </tuv>
     </tu>
     <tu>
