@@ -4500,6 +4500,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A link to the support page.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171025Z" creationid="pia" creationdate="20221109T171025Z">
+        <seg>Linkki tukisivulle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A list of possible arguments is given below.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T115737Z" creationid="piav" creationdate="20191201T115737Z">
@@ -24092,8 +24100,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>OmegaT's distribution license.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221109T164529Z" creationid="pia" creationdate="20221109T164529Z">
-        <seg>OmegaT-ohjelman ohjelmistolisenssi.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221109T170557Z" creationid="pia" creationdate="20221109T164529Z">
+        <seg>OmegaT-ohjelman jakelulisenssi on</seg>
       </tuv>
     </tu>
     <tu>
@@ -30447,6 +30455,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simple installation and running instructions.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171111Z" creationid="pia" creationdate="20221109T171111Z">
+        <seg>Yksinkertaiset ohjelman asennus- ja käyttöohjeet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simple search and replace script</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20170910T084223Z" creationid="PiaVee" creationdate="20170910T084223Z">
@@ -32582,8 +32598,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The GPL version 3.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221109T164555Z" creationid="pia" creationdate="20221109T164555Z">
-        <seg>Gnu GPL:n versio 3.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221109T170601Z" creationid="pia" creationdate="20221109T164555Z">
+        <seg>GNU GPL:n versio 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33378,8 +33394,16 @@ instead.</seg>
       <tuv lang="en">
         <seg>The documentation distribution license.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221109T165741Z" creationid="pia" creationdate="20221109T165741Z">
-        <seg>Ohjelman dokumentaation jakelulisenssi.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221109T170948Z" creationid="pia" creationdate="20221109T165741Z">
+        <seg>Ohjelman dokumentaation jakelulisenssi on</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The documentation folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171118Z" creationid="pia" creationdate="20221109T171118Z">
+        <seg>Dokumentaatiokansio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33748,6 +33772,14 @@ ei enää ole.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The index to the multilingual user guide.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171014Z" creationid="pia" creationdate="20221109T171014Z">
+        <seg>Monikielisen käyttäjän oppaan hakemisto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The installer can create shortcuts for you in the start menu, on the desktop and
 in the quick launch area.</seg>
       </tuv>
@@ -33846,6 +33878,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221109T165044Z" creationid="pia" creationdate="20221109T164747Z">
         <seg>Luettelo ohjelman parannuksista ja ohjelmistovirheiden korjauksista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of individual contributors.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171133Z" creationid="pia" creationdate="20221109T171133Z">
+        <seg>Luettelo </seg>
       </tuv>
     </tu>
     <tu>
@@ -42459,6 +42499,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>contributors.txt</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171119Z" creationid="pia" creationdate="20221109T171119Z">
+        <seg>contributors.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>copy the files to the &lt;f0&gt;/source&lt;/f0&gt; folder</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T112533Z" creationid="piav" creationdate="20191128T114511Z">
@@ -42615,6 +42663,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221109T165711Z" creationid="pia" creationdate="20221109T165711Z">
         <seg>doc-license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>docs/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171112Z" creationid="pia" creationdate="20221109T171112Z">
+        <seg>docs/</seg>
       </tuv>
     </tu>
     <tu>
@@ -44163,6 +44219,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>index.html</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T170950Z" creationid="pia" creationdate="20221109T170950Z">
+        <seg>index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>init &lt;source language&gt; &lt;target language&gt;
 		Initialize a minimal team project with the specified languages.</seg>
       </tuv>
@@ -44305,6 +44369,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T125135Z" creationid="piav" creationdate="20191201T124756Z">
         <seg>java -jar OmegaT.jar &lt;p0&gt;/koko/projektin/projektipolku&lt;/p0&gt; \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>join.html</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171015Z" creationid="pia" creationdate="20221109T171015Z">
+        <seg>join.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -46057,6 +46129,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T081129Z" creationid="PiaVee" creationdate="20171015T081129Z">
         <seg>que</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>readme.txt</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171026Z" creationid="pia" creationdate="20221109T171026Z">
+        <seg>readme.txt</seg>
       </tuv>
     </tu>
     <tu>
