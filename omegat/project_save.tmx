@@ -11784,6 +11784,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each translated user guide comes in a different language folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171357Z" creationid="pia" creationdate="20221109T171243Z">
+        <seg>Eri kielille käännetyt käyttöoppaat ovat kukin omankielisessä kansiossaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ed&amp;it</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T140513Z" creationid="piav" creationdate="20190920T140513Z">
@@ -18271,8 +18279,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>Installed plugins:</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20200504T142609Z" creationid="pia" creationdate="20200504T142609Z">
-        <seg>Asennetut liitännäiset:</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171803Z" creationid="pia" creationdate="20200504T142609Z">
+        <seg>Asennetut laajennukset:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19138,8 +19146,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Jar used for plugins: {0}</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190523T171358Z" creationid="piav" creationdate="20190523T171358Z">
-        <seg>Liitännäisissä käytety jar-paketti: {0}</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171724Z" creationid="piav" creationdate="20190523T171358Z">
+        <seg>Laajennusten käyttämä jar-paketti: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -25130,6 +25138,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other plugins are available online.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171756Z" creationid="pia" creationdate="20221109T171756Z">
+        <seg>Lisää laajennuksia löytyy internetistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other translations specifically identified in the TMX, can be marked in different colors.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T151026Z" creationid="piav" creationdate="20221102T151026Z">
@@ -25907,8 +25923,8 @@ onko sinun tehtävä vielä muuta.</seg>
       <tuv lang="en">
         <seg>Plugins</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190920T134920Z" creationid="piav" creationdate="20190920T134920Z">
-        <seg>Liitännäiset</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171731Z" creationid="piav" creationdate="20190920T134920Z">
+        <seg>Laajennukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -32500,6 +32516,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f0&gt;plugins&lt;/f0&gt; and &lt;f1&gt;scripts&lt;/f1&gt; folders might be overwritten, so you may want to create a backup before upgrading.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T172712Z" creationid="pia" creationdate="20221109T172712Z">
+        <seg>Päivityksen yhteydessä &lt;f0&gt;plugins&lt;/f0&gt;- ja &lt;f1&gt;scripts&lt;/f1&gt;-kansioiden sisältö saattaa muuttua, joten on hyvä idea luoda kansioista ensin varmuuskopiot ennen päivitystä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the omegat folder of your project contains more detailed segment information, broken down by file.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T153920Z" creationid="piav" creationdate="20191209T153920Z">
@@ -33616,6 +33640,30 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder where images used by OmegaT are stored.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171521Z" creationid="pia" creationdate="20221109T171521Z">
+        <seg>Kansio, josta OmegaT:n käyttämät kuvat löytyvät.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where the libraries used by OmegaT are stored.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171611Z" creationid="pia" creationdate="20221109T171611Z">
+        <seg>OmegaT:n käyttämät ohjelmakirjastot löytyvät tästä kansiosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where you can install external plugins.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171644Z" creationid="pia" creationdate="20221109T171644Z">
+        <seg>Kansio, jonne voit asentaa ulkoisia ohjelmalaajennuksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following example for the INI file reserves 1 GB of memory, requests French as the user language and Canada as the country:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T120134Z" creationid="piav" creationdate="20191129T120101Z">
@@ -33774,8 +33822,8 @@ ei enää ole.</seg>
       <tuv lang="en">
         <seg>The index to the multilingual user guide.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221109T171014Z" creationid="pia" creationdate="20221109T171014Z">
-        <seg>Monikielisen käyttäjän oppaan hakemisto.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171302Z" creationid="pia" creationdate="20221109T171014Z">
+        <seg>Monikielisen käyttöoppaan hakemisto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33884,8 +33932,16 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="en">
         <seg>The list of individual contributors.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221109T171133Z" creationid="pia" creationdate="20221109T171133Z">
-        <seg>Luettelo </seg>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171217Z" creationid="pia" creationdate="20221109T171133Z">
+        <seg>Avustajien luettelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of libraries used by OmegaT.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171449Z" creationid="pia" creationdate="20221109T171449Z">
+        <seg>Luettelo OmegaT:n käyttämistä ohjelmakirjastoista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35889,6 +35945,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T124714Z" creationid="piav" creationdate="20191208T124714Z">
         <seg>Tämä kansio on aluksi tyhjä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder provides an alternative location for manually installed OmegaT extension plugins.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171914Z" creationid="pia" creationdate="20221109T171914Z">
+        <seg>Vaihtoehtoinen kansio erikseen asennetuille OmegaT-laajennuksille ja lisäosille.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42971,6 +43035,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>en/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171219Z" creationid="pia" creationdate="20221109T171219Z">
+        <seg>en/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>eng</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T174035Z" creationid="PiaVee" creationdate="20171014T174035Z">
@@ -44171,6 +44243,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>images/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171451Z" creationid="pia" creationdate="20221109T171451Z">
+        <seg>images/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>import the file into ODF writer</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T111026Z" creationid="piav" creationdate="20191129T110758Z">
@@ -44753,6 +44833,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T174813Z" creationid="PiaVee" creationdate="20171014T174813Z">
         <seg>li</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lib/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171523Z" creationid="pia" creationdate="20221109T171523Z">
+        <seg>lib/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>libraries.txt</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171401Z" creationid="pia" creationdate="20221109T171401Z">
+        <seg>libraries.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -45873,6 +45969,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T081025Z" creationid="PiaVee" creationdate="20171015T081025Z">
         <seg>pli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>plugins/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221109T171612Z" creationid="pia" creationdate="20221109T171612Z">
+        <seg>plugins/</seg>
       </tuv>
     </tu>
     <tu>
