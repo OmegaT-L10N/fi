@@ -16994,6 +16994,14 @@ näkyvät.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you do not use the default configuration folder, all modifications made in &lt;l0/&gt; will be stored in the specified configuration folder and will not appear when you resume work with the default configuration folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T145920Z" creationid="pia" creationdate="20221110T145920Z">
+        <seg>Jos et käytä oletusmuotoista asetuskansiota, kaikki &lt;l0/&gt;-valikossa tehdyt muutokset tallennetaan erikseen määritettyyn asetuskansioon. Muutokset eivät näy, kun palaat takaisin käyttämään ohjelman oletusmuotoista asetuskansiota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you enter names of folders that do not exist yet, &lt;a0&gt;OmegaT&lt;/a0&gt; creates them for you.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T121502Z" creationid="piav" creationdate="20191127T121502Z">
@@ -20844,6 +20852,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T144825Z" creationid="pia" creationdate="20221110T144825Z">
+        <seg>MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Major changes to the segmentation rules should be generally avoided, especially after completion of the first draft, but minor changes, such as the addition of a recognized abbreviation, can be advantageous.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T133331Z" creationid="piav" creationdate="20191030T133331Z">
@@ -21744,6 +21760,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20170910T084248Z" creationid="PiaVee" creationdate="20170910T084248Z">
         <seg>Muokatut segmentit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modified preferences are stored in the configuration folder used by the project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T145726Z" creationid="pia" creationdate="20221110T145726Z">
+        <seg>Muokatut asetukset tallennetaan projektin käyttämään asetuskansioon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33874,6 +33898,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The file contents are not encrypted.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T145215Z" creationid="pia" creationdate="20221110T145215Z">
+        <seg>Tiedoston sisältö ei ole salattu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The file does not need to exist when setting it, it will be created (if necessary) when adding a glossary entry.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T072604Z" creationid="piav" creationdate="20191022T072604Z">
@@ -36382,6 +36414,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder contains your spelling dictionaries.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T145517Z" creationid="pia" creationdate="20221110T145517Z">
+        <seg>Oikeinkirjoitussanastot löytyvät tästä kansiosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder is initially empty.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T124714Z" creationid="piav" creationdate="20191208T124714Z">
@@ -36814,10 +36854,50 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized autotext parameters.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T145431Z" creationid="pia" creationdate="20221110T145112Z">
+        <seg>Parametritiedosto: automaattisen tekstin mukautetut määritykset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This parameter file contains customized editor shortcuts.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221110T144822Z" creationid="pia" creationdate="20221110T144822Z">
-        <seg>Tämä parametritiedosto sisältää editori-ikkunassa käytettävät mukautetut näppäinoikotiet.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221110T145324Z" creationid="pia" creationdate="20221110T144822Z">
+        <seg>Parametritiedosto: editori-ikkunassa käytettävät mukautetut näppäinoikotiet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized external search parameters.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T145419Z" creationid="pia" creationdate="20221110T145058Z">
+        <seg>Parametritiedosto: ulkoisen haun mukautetut määritykset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized file filters.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T145345Z" creationid="pia" creationdate="20221110T144914Z">
+        <seg>Parametritiedosto: mukautetut tiedostosuodattimet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized segmentation parameters.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T145457Z" creationid="pia" creationdate="20221110T145457Z">
+        <seg>Parametritiedosto: mukautetut segmentointimääritykset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized user interface shortcuts.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T145338Z" creationid="pia" creationdate="20221110T144856Z">
+        <seg>Parametritiedosto: käyttöliittymän mukautetut näppäinoikotiet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41713,6 +41793,14 @@ sarjaa linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can specify a configuration folder other than the default when you start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T145702Z" creationid="pia" creationdate="20221110T145554Z">
+        <seg>Kun käynnistät OmegaT:n komentoriviltä, voit määritellä käytettäväksi muun kuin oletusmuotoisen asetuskansion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can still find &lt;a0&gt;older, superseded versions&lt;/a0&gt; of OmegaT.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T082748Z" creationid="piav" creationdate="20191211T082748Z">
@@ -43720,6 +43808,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T062722Z" creationid="piav" creationdate="20191023T062722Z">
         <seg>findInProjectReuseLastWindow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>finder.xml</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T145038Z" creationid="pia" creationdate="20221110T145038Z">
+        <seg>finder.xml</seg>
       </tuv>
     </tu>
     <tu>
@@ -46062,6 +46158,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>omegat.autotext</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T145100Z" creationid="pia" creationdate="20221110T145100Z">
+        <seg>omegat.autotext</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>omegat.kaptn</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T101949Z" creationid="piav" creationdate="20191211T101949Z">
@@ -47276,6 +47380,14 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T130752Z" creationid="piav" creationdate="20191030T130752Z">
         <seg>määrittelee, mitä tekstinosia EI pitäisi erottaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>spelling/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T145500Z" creationid="pia" creationdate="20221110T145500Z">
+        <seg>spelling/</seg>
       </tuv>
     </tu>
     <tu>
