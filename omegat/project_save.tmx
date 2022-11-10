@@ -1556,6 +1556,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', 'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T143328Z" creationid="pia" creationdate="20221110T143328Z">
+        <seg>fzzAsteriski * vastaa mitä tahansa merkkiä, joita voi olla nolla, yksi tai useampi: hakulauseke run* vastaa sanoja run, runs, running jne.
+Kysymysmerkki ? vastaa yhtä merkkiä: hakulauseke run? vastaa sanoja runs tai rung, mutta ei sanoja run tai running.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
@@ -4224,6 +4234,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T121151Z" creationid="piav" creationdate="20191201T121151Z">
         <seg>&lt;p4&gt;??&lt;/p4&gt; tarkoittaa määritellyn muistin määrää megatavuina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;project_files_show_on_load&gt;&lt;t0&gt;false&lt;/t0&gt;&lt;/project_files_show_on_load&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T142918Z" creationid="pia" creationdate="20221110T142918Z">
+        <seg>&lt;project_files_show_on_load&gt;&lt;t0&gt;false&lt;/t0&gt;&lt;/project_files_show_on_load&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15920,6 +15938,14 @@ polulla, koko polkua ei tarvitse kirjoittaa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If OmegaT behaves erratically, include this file, or the relevant part thereof, to your report.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T143448Z" creationid="pia" creationdate="20221110T143448Z">
+        <seg>Jos haluat ilmoittaa OmegaT:n käytössä tapahtuneesta virheestä, liitä tämä tiedosto tai sen asiaankuuluvat osat mukaan virheilmoitukseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T091719Z" creationid="piav" creationdate="20191127T091447Z">
@@ -16433,6 +16459,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T145548Z" creationid="piav" creationdate="20191209T145548Z">
         <seg>Jos näyttää siltä, että kohdistusta voisi parantaa, yritä muuttaa parametrejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the applicable functions are used, this folder can contain up to three text files:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T143646Z" creationid="pia" creationdate="20221110T143646Z">
+        <seg>Kun soveltuvia toimintoja käytetään, kansioon voi muodostua kolme tekstitiedostoa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24678,6 +24712,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T133225Z" creationid="piav" creationdate="20221102T133225Z">
         <seg>Vain ensimmäinen kirjain isolla alkukirjaimella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only this preference currently requires manual modification.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T143001Z" creationid="pia" creationdate="20221110T143001Z">
+        <seg>Tällä hetkellä ainoastaan tämä muokkaus täytyy tehdä suoraan tiedostoon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33471,6 +33513,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contents of the file can also be viewed using the &lt;l0/&gt; option in the &lt;l1/&gt; menu.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T143524Z" creationid="pia" creationdate="20221110T143524Z">
+        <seg>Tiedoston sisältöä voi tarkastella myös valitsemalla &lt;l1/&gt;-valikon kohdan &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contents of the glossary pane will be updated accordingly.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T083309Z" creationid="piav" creationdate="20191022T083224Z">
@@ -34358,6 +34408,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T103557Z" creationid="piav" creationdate="20191211T103557Z">
         <seg>Löydät ajankohtaisinta OmegaT-tietoa osoitteesta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The most current is &lt;f0&gt;OmegaT.log&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T143216Z" creationid="pia" creationdate="20221110T143216Z">
+        <seg>Uusin niistä on &lt;f0&gt;OmegaT.log&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35739,6 +35797,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These files record various internal state and program event messages generated while OmegaT is running.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T143325Z" creationid="pia" creationdate="20221110T143325Z">
+        <seg>Kun OmegaT on käytössä, tiedostoihin kirjautuu joukko sisäisiä ja ohjelman tapahtumiin liittyviä viestejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These files won't be deleted automatically on the translator's side: you must ask them to delete the files manually.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T115029Z" creationid="piav" creationdate="20191128T115004Z">
@@ -36236,10 +36302,34 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file describes the overall OmegaT layout.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T143156Z" creationid="pia" creationdate="20221110T143156Z">
+        <seg>Tämä tiedosto kuvaa OmegaT-ohjelman yleisen näkymän.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file includes a number of important user preferences.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221110T132131Z" creationid="pia" creationdate="20221110T132131Z">
         <seg>Tästä tiedostosta löytyy monia tärkeitä käyttöasetuksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file stores the currently selected text when the &lt;l0/&gt; command in the &lt;l1/&gt; menu is used.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T144206Z" creationid="pia" creationdate="20221110T144206Z">
+        <seg>Kun &lt;l1/&gt;-valikon komentoa &lt;l0/&gt; käytetään, valittu teksti tallentuu tähän tiedostoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains a number of log files.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T143208Z" creationid="pia" creationdate="20221110T143208Z">
+        <seg>Tässä kansiossa on joukko lokitiedostoja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37265,8 +37355,8 @@ palvelimelta.</seg>
       <tuv lang="en">
         <seg>To keep the Source Files list window to automatically open when a project is loaded, find &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; and replace &lt;t1&gt;true&lt;/t1&gt; to &lt;t2&gt;false&lt;/t2&gt;:</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221110T142751Z" creationid="pia" creationdate="20221110T142751Z">
-        <seg>Jos haluat, ettei lähdetiedosto</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221110T142910Z" creationid="pia" creationdate="20221110T142751Z">
+        <seg>Jos haluat, ettei lähdetiedostot listaava ikkuna tule automaattisesti näkyville, kun avaat projektin, etsi tiedostosta kohta &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; ja korvaa sana &lt;t1&gt;true&lt;/t1&gt; sanalla &lt;t2&gt;false&lt;/t2&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45244,6 +45334,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>logs/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T143157Z" creationid="pia" creationdate="20221110T143157Z">
+        <seg>logs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>long intervals for team projects hosted on external servers.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T091058Z" creationid="piav" creationdate="20191127T090909Z">
@@ -46804,6 +46902,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>script/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T143526Z" creationid="pia" creationdate="20221110T143526Z">
+        <seg>script/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>scripts/</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221110T131643Z" creationid="pia" creationdate="20221110T131643Z">
@@ -46888,6 +46994,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T150424Z" creationid="piav" creationdate="20191202T150424Z">
         <seg>Rivin valinta tai hiiren vieminen rivin yläpuolelle avaa viimeisessä sarakkeessa ponnahdusikkunan, jossa on toimepiteitä virheen korjaamiseksi tai sen huomoioimatta jättämiseksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>selection.txt</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T143647Z" creationid="pia" creationdate="20221110T143647Z">
+        <seg>selection.txt</seg>
       </tuv>
     </tu>
     <tu>
