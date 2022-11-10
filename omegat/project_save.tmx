@@ -12363,6 +12363,14 @@ kaukana, poissa.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the URL provided by the team project manager in the &lt;g0&gt;Repository URL:&lt;/g0&gt; field at the top of the dialog, and specify a folder for the project in the &lt;g1&gt;New Local Project Folder:&lt;/g1&gt; field.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T141313Z" creationid="pia" creationdate="20221110T141046Z">
+        <seg>Kirjoita ryhmäprojektin päälliköltä saamasi URL-osoite valintaikkunan yläosassa olevaan &lt;g0&gt;Tietovaraston URL:&lt;/g0&gt;-kenttään ja määrittele käytettävä projektikansio &lt;g1&gt;Uusi paikallisen projektin kansio:&lt;/g1&gt;-kenttään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T130954Z" creationid="PiaVee" creationdate="20171014T094747Z">
@@ -13986,6 +13994,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T061132Z" creationid="piav" creationdate="20191023T060822Z">
         <seg>Oletusmuotoisista OmegaT-pikanäppäimistä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, many hosting services support access to the same repository using either the SSH +Git or https protocol.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T141721Z" creationid="pia" creationdate="20221110T141721Z">
+        <seg>Monet palveluntarjoajat tukevat pääsyä samaan tietovarastoon joko SSH+Git- tai https-yhteyden avulla.</seg>
       </tuv>
     </tu>
     <tu>
