@@ -8868,6 +8868,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Configuration Folder</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T131719Z" creationid="pia" creationdate="20221110T131719Z">
+        <seg>Määrityskansio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T095044Z" creationid="PiaVee" creationdate="20171015T095044Z">
@@ -10423,6 +10431,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default contents</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T132045Z" creationid="pia" creationdate="20221110T132045Z">
+        <seg>Oletussisältö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default encoding</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171219T110644Z" creationid="PiaVee" creationdate="20171219T110644Z">
@@ -11163,6 +11179,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T101347Z" creationid="piav" creationdate="20190916T130227Z">
         <seg>Käännettyjä asiakirjoja, joissa on tägiongelmia, ei voida luoda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not automatically display the Source Files list</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T132340Z" creationid="pia" creationdate="20221110T132340Z">
+        <seg>Ei automaattista lähdetiedostojen listaa</seg>
       </tuv>
     </tu>
     <tu>
@@ -29231,6 +29255,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0/&gt; for details</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T132040Z" creationid="pia" creationdate="20221110T132040Z">
+        <seg>Lisätietoja löytyy kohdasta &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0/&gt; for details.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T123751Z" creationid="piav" creationdate="20221102T123751Z">
@@ -30771,6 +30803,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221109T182159Z" creationid="pia" creationdate="20221109T172842Z">
         <seg>Jotkin lisäosat voivat tehdä tästä helpompaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some preference do not have an equivalent in the user interface.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T132207Z" creationid="pia" creationdate="20221110T132202Z">
+        <seg>Kaikilla asetuksilla ei ole vastaavuuksia käyttöliittymässä,</seg>
       </tuv>
     </tu>
     <tu>
@@ -33230,6 +33270,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The configuration folder stores the majority of the OmegaT parameters and preferences for the user.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T131830Z" creationid="pia" creationdate="20221110T131830Z">
+        <seg>Määrityskansio on paikka, josta suurin osa OmegaT-parametreistä ja käyttöasetuksista löytyy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
@@ -33696,6 +33744,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder where distributed scripts are located.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T131710Z" creationid="pia" creationdate="20221110T131710Z">
+        <seg>Kansio, jossa jakelun mukana tulleet komentosarjat ovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder where images used by OmegaT are stored.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221109T171521Z" creationid="pia" creationdate="20221109T171521Z">
@@ -34038,6 +34094,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T081652Z" creationid="piav" creationdate="20191022T081652Z">
         <seg>&lt;f0&gt;.tbx&lt;/f0&gt;-tiedoston on oltava &lt;f1&gt;/glossary&lt;/f1&gt;-kansiossa, mutta voit käyttää myös alikansiota (esim. &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The location of the default configuration folder varies by system (the &lt;e0&gt;~&lt;/e0&gt; character represents your home directory):</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T132005Z" creationid="pia" creationdate="20221110T132005Z">
+        <seg>Oletusmuotoisen määrityskansion sijainti riippuu käyttöjärjestelmästä (tildemerkki &lt;e0&gt;~&lt;/e0&gt; edustaa kotikansiotasi):</seg>
       </tuv>
     </tu>
     <tu>
@@ -35631,6 +35695,14 @@ kadonnut sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They must be modified manually.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T132247Z" creationid="pia" creationdate="20221110T132247Z">
+        <seg>vaan niitä pitää muokata manuaalisesti eli tekemällä muutoksia suoraan tiedostoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They will appear as separate segments in the translation.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T100219Z" creationid="piav" creationdate="20191030T100219Z">
@@ -35993,6 +36065,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20201211T141806Z" creationid="piav" creationdate="20201211T141806Z">
         <seg>Tämä ominaisuus on tarkoitettu kokoamaan lähdetiedostoja, mutta yhdistämistä voi käyttää muihinkin tiedostoihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file includes a number of important user preferences.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T132131Z" creationid="pia" creationdate="20221110T132131Z">
+        <seg>Tästä tiedostosta löytyy monia tärkeitä käyttöasetuksia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41027,6 +41107,22 @@ käynnistysvalikkoon, työpöydälle tai pikakäynnistysalueelle.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also use non default configuration folders by starting OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T132037Z" creationid="pia" creationdate="20221110T132037Z">
+        <seg>Voit myös käyttää muita määrityskansioita käynnistämällä OmegaT:n komentoriviltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can always access it directly from &lt;l0/&gt; in the &lt;l1/&gt; menu.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T131910Z" creationid="pia" creationdate="20221110T131910Z">
+        <seg>Pääset kansioon milloin tahansa käyttämällä &lt;l1/&gt;-valikosta löytyvää kohtaa &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can ask the user group for advice if you have problems.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T081334Z" creationid="piav" creationdate="20191128T081334Z">
@@ -45637,6 +45733,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>omegat.prefs</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T132048Z" creationid="pia" creationdate="20221110T132048Z">
+        <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>omegat.project (file)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T125857Z" creationid="piav" creationdate="20191208T125857Z">
@@ -46513,6 +46617,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T081312Z" creationid="PiaVee" creationdate="20171015T081312Z">
         <seg>sc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>scripts/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T131643Z" creationid="pia" creationdate="20221110T131643Z">
+        <seg>scripts/</seg>
       </tuv>
     </tu>
     <tu>
@@ -48005,6 +48117,30 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T161204Z" creationid="piav" creationdate="20191209T161204Z">
         <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~/.omegat</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T132007Z" creationid="pia" creationdate="20221110T132007Z">
+        <seg>~/.omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~/Library/Preferences/OmegaT</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T132010Z" creationid="pia" creationdate="20221110T132010Z">
+        <seg>~/Library/Preferences/OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~\AppData\Roaming\OmegaT</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T132012Z" creationid="pia" creationdate="20221110T132012Z">
+        <seg>~\AppData\Roaming\OmegaT</seg>
       </tuv>
     </tu>
     <tu>
