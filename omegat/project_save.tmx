@@ -2588,6 +2588,16 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/mapping&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T135344Z" creationid="pia" creationdate="20221110T135344Z">
+        <seg>&lt;/mapping&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/repository&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T122126Z" creationid="piav" creationdate="20191128T122126Z">
@@ -3910,10 +3920,30 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="" repository=""/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T135254Z" creationid="pia" creationdate="20221110T135254Z">
+        <seg>&lt;mapping local="" repository=""/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20201211T132438Z" creationid="piav" creationdate="20191128T122049Z">
         <seg>&lt;mapping local="" repository="En-US_DE-projekti"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T135305Z" creationid="pia" creationdate="20221110T135305Z">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;
+&lt;/repository&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20882,6 +20912,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mapping for additional sources from a remote repository, with filters:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T135338Z" creationid="pia" creationdate="20221110T135338Z">
+        <seg>Paikallisten kansioiden yhdistäminen etäkansioiden tiedostoihin, jotka sopivat tiettyyn suodattimeen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mapping for additional sources from remote repository, with filters:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20201211T140323Z" creationid="piav" creationdate="20201211T133526Z">
@@ -27977,6 +28015,22 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221110T134609Z" creationid="piav" creationdate="20190521T131935Z">
         <seg>Tietovarastojen määritys…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository credentials are stored in &lt;l0/&gt; and can be deleted from &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T135721Z" creationid="pia" creationdate="20221110T135721Z">
+        <seg>Tietovaraston käyttäjätiedot on tallennettu kohtaan &lt;l0/&gt; ja ne voi poistaa kohdasta &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository mappings</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T135243Z" creationid="pia" creationdate="20221110T135243Z">
+        <seg>Pakettivarastojen määritys</seg>
       </tuv>
     </tu>
     <tu>
