@@ -5238,6 +5238,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional contents</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T144714Z" creationid="pia" creationdate="20221110T144714Z">
+        <seg>Muuta sisältöä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional layouts can be added as plugins.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221109T182501Z" creationid="pia" creationdate="20221109T182347Z">
@@ -12134,6 +12142,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T142528Z" creationid="piav" creationdate="20191202T142528Z">
         <seg>Editori…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EditorShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T144715Z" creationid="pia" creationdate="20221110T144715Z">
+        <seg>EditorShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -35356,6 +35372,22 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The text in the file is replaced each time a new segment is entered.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T144444Z" creationid="pia" creationdate="20221110T144403Z">
+        <seg>Joka kerta kun siirrytään uuteen segmenttiin, tiedoston teksti korvautuu uudella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The text in the file is replaced each time this function is called.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T144406Z" creationid="pia" creationdate="20221110T144250Z">
+        <seg>Joka kerta kun tätä komentoa käytetään, tiedoston teksti korvautuu uudella tekstillä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The text size exceeds the maximum</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190919T131933Z" creationid="piav" creationdate="20190919T131933Z">
@@ -36294,6 +36326,22 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;original text&lt;/e0&gt; from of the current segment when &lt;l1/&gt; is active.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T144343Z" creationid="pia" creationdate="20221110T144343Z">
+        <seg>Tämä tiedosto sisältää senhetkisen segmentin &lt;e0&gt;alkukielisen tekstin&lt;/e0&gt;, kun valinta &lt;l1/&gt; on aktiivinen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;translated text&lt;/e0&gt; from the current segment when &lt;l1/&gt; is active.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T144437Z" creationid="pia" creationdate="20221110T144437Z">
+        <seg>Tämä tiedosto sisältää senhetkisen segmentin &lt;e0&gt;käännetyn tekstin&lt;/e0&gt;, kun valinta &lt;l1/&gt; on aktiivinen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file contains the login information for your team project repositories.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221110T134907Z" creationid="pia" creationdate="20221110T134039Z">
@@ -36766,6 +36814,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized editor shortcuts.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T144822Z" creationid="pia" creationdate="20221110T144822Z">
+        <seg>Tämä parametritiedosto sisältää editori-ikkunassa käytettävät mukautetut näppäinoikotiet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T185839Z" creationid="piav" creationdate="20190527T185839Z">
@@ -36930,6 +36986,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T154026Z" creationid="piav" creationdate="20191209T154026Z">
         <seg>Segmentointisääntöjä ei kuitenkaan tulisi enää muuttaa sen jälkeen, kun olen aloittanut käännöstyön.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those three files provide as a simple way to access some OmegaT content and process it with local programs such as shell scripts.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T144654Z" creationid="pia" creationdate="20221110T144654Z">
+        <seg>Nämä kolme tiedostoa tarjoavat yksinkertaisen tavan päästä käsiksi tiettyyn  OmegaT-projektin sisältöön, jota voi käsitellä edelleen esimerkiksi komentosarjoissa tai muissa paikallisissa ohjelmissa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47192,6 +47256,14 @@ tai</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>source.txt</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T144252Z" creationid="pia" creationdate="20221110T144252Z">
+        <seg>source.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>spa</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T081556Z" creationid="PiaVee" creationdate="20171015T081556Z">
@@ -47372,6 +47444,14 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T161202Z" creationid="piav" creationdate="20191209T161202Z">
         <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target.txt</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T144424Z" creationid="pia" creationdate="20221110T144424Z">
+        <seg>target.txt</seg>
       </tuv>
     </tu>
     <tu>
