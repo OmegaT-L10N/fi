@@ -2398,6 +2398,14 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>.repositories</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T142057Z" creationid="pia" creationdate="20221110T142057Z">
+        <seg>.repositories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>/Applications/OmegaT.app/Contents/Java/</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221109T164229Z" creationid="pia" creationdate="20221109T164229Z">
@@ -2594,6 +2602,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="fi" changeid="pia" changedate="20221110T135344Z" creationid="pia" creationdate="20221110T135344Z">
         <seg>&lt;/mapping&gt;
 &lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/repositories&gt;
+&lt;/project&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T142055Z" creationid="pia" creationdate="20221110T142055Z">
+        <seg>&lt;/repositories&gt;
+&lt;/project&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3948,6 +3966,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="/" repository="/"/&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T142054Z" creationid="pia" creationdate="20221110T142054Z">
+        <seg>&lt;mapping local="/" repository="/"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T122125Z" creationid="piav" creationdate="20191128T122125Z">
@@ -4230,6 +4256,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20201211T141038Z" creationid="piav" creationdate="20201211T141038Z">
         <seg>&lt;repository type="file" url="/koti/minae/omat_tiedostoni"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="git" url="https://URL/OF/THE/REMOTE/PROJECT/REPOSITORY"&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T142052Z" creationid="pia" creationdate="20221110T142052Z">
+        <seg>&lt;repository type="git" url="https://projektin/etaevaraston/URL/osoite"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11239,8 +11273,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Do not automatically display the Source Files list</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221110T132340Z" creationid="pia" creationdate="20221110T132340Z">
-        <seg>Ei automaattista lähdetiedostojen listaa</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221110T142726Z" creationid="pia" creationdate="20221110T132340Z">
+        <seg>Ei automaattisesti näkyville tulevaa lähdetiedostojen listaa</seg>
       </tuv>
     </tu>
     <tu>
@@ -16507,6 +16541,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the folder is an empty repository and the &lt;f0&gt;omegat.project&lt;/f0&gt; file contains remote repository information, the project will be recognized as a team project by OmegaT:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T141957Z" creationid="pia" creationdate="20221110T141914Z">
+        <seg>Jos kansio on tyhjä tietovarasto ja etävarastotiedot löytyvät &lt;f0&gt;omegat.project&lt;/f0&gt;-tiedostosta, OmegaT tunnistaa projektin ryhmäprojektiksi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the format is not there, use third party plugins or convert the file to a format that is supported.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221109T182247Z" creationid="pia" creationdate="20221109T182247Z">
@@ -20538,8 +20580,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Localization TMX repository</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191210T165307Z" creationid="piav" creationdate="20191210T164956Z">
-        <seg>TMX-tietovarasto lokalisoinnin tarpeisiin, josta löytyvät</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221110T142215Z" creationid="piav" creationdate="20191210T164956Z">
+        <seg>TMX-tietovarasto lokalisoinnin tarpeisiin</seg>
       </tuv>
     </tu>
     <tu>
@@ -31903,6 +31945,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Synchronization of repositories</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T141748Z" creationid="pia" creationdate="20221110T141748Z">
+        <seg>Tietovarastojen synkronointi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>System requirements</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T075842Z" creationid="piav" creationdate="20191211T075842Z">
@@ -31993,8 +32043,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>TMX files of localizations of the OmegaT documentation and of this site, for use by localizers.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191210T165312Z" creationid="piav" creationdate="20191210T165039Z">
-        <seg>OmegaT-dokumentaation ja tämän sivuston TMX-tiedostot.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221110T142228Z" creationid="piav" creationdate="20191210T165039Z">
+        <seg>Täältä löytyvät OmegaT-dokumentaation ja tämän sivuston TMX-tiedostot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35820,7 +35870,6 @@ kadonnut sivu.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>	</note>
       <tuv lang="en">
         <seg>Third-party software</seg>
       </tuv>
@@ -37210,6 +37259,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171219T095805Z" creationid="PiaVee" creationdate="20171219T095712Z">
         <seg>Asenna StarDict-muodon vaatimat tiedostot seuraavalla tavalla:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To keep the Source Files list window to automatically open when a project is loaded, find &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; and replace &lt;t1&gt;true&lt;/t1&gt; to &lt;t2&gt;false&lt;/t2&gt;:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T142751Z" creationid="pia" creationdate="20221110T142751Z">
+        <seg>Jos haluat, ettei lähdetiedosto</seg>
       </tuv>
     </tu>
     <tu>
@@ -48307,6 +48364,14 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T081521Z" creationid="piav" creationdate="20190522T081521Z">
         <seg>← Edellinen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT is opening a team project and synchronizes with the remote repository.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T141819Z" creationid="pia" creationdate="20221110T141819Z">
+        <seg>→ OmegaT avaa ryhmäprojektin ja synkronoi sen etävaraston kanssa.</seg>
       </tuv>
     </tu>
     <tu>
