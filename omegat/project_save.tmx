@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.6.0_0_203361b5" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3608,8 +3608,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T121911Z" creationid="piav" creationdate="20190920T125343Z">
-        <seg>&lt;html&gt;Tietovaraston URL:&lt;/html&gt;</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221110T133857Z" creationid="piav" creationdate="20190920T125343Z">
+        <seg>&lt;html&gt;Pakettivaraston URL:&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8220,6 +8220,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check whether your repository has correct commits and files.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T133853Z" creationid="pia" creationdate="20221110T133853Z">
+        <seg>Tarkista, ovatko pakettivarastosi viennit ja tiedostot oikein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check whole project</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T092646Z" creationid="PiaVee" creationdate="20171014T092646Z">
@@ -12079,8 +12087,8 @@ kaukana, poissa.
       <tuv lang="en">
         <seg>Empty repository URL in the mapping</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191128T110232Z" creationid="piav" creationdate="20190521T132934Z">
-        <seg>Yhdistäminen: tietovaraston URL on tyhjä</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221110T133744Z" creationid="piav" creationdate="20190521T132934Z">
+        <seg>Yhdistäminen: pakettivaraston URL on tyhjä</seg>
       </tuv>
     </tu>
     <tu>
@@ -12555,8 +12563,8 @@ kukaan ei kuule.</seg>
       <tuv lang="en">
         <seg>Error updating repository.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191128T110309Z" creationid="piav" creationdate="20190920T131111Z">
-        <seg>Tietovaraston päivityksessä tapahtui virhe.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221110T133941Z" creationid="piav" creationdate="20190920T131111Z">
+        <seg>Pakettivaraston päivityksessä tapahtui virhe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18599,8 +18607,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>Invalid repository type: {0}</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191128T110216Z" creationid="piav" creationdate="20190521T133150Z">
-        <seg>Kelpaamaton tietovaraston tyyppi: {0}</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221110T133734Z" creationid="piav" creationdate="20190521T133150Z">
+        <seg>Kelpaamaton pakettivaraston tyyppi: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -20884,8 +20892,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191128T110448Z" creationid="piav" creationdate="20190521T132754Z">
-        <seg>Paikallisten kansioiden yhdistäminen tietovarastojen etäkansioihin</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221110T133727Z" creationid="piav" creationdate="20190521T132754Z">
+        <seg>Paikallisten kansioiden yhdistäminen pakettivarastojen etäkansioihin</seg>
       </tuv>
     </tu>
     <tu>
@@ -27919,24 +27927,24 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Repository</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T121852Z" creationid="piav" creationdate="20190521T132939Z">
-        <seg>Tietovarasto</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221110T133730Z" creationid="piav" creationdate="20190521T132939Z">
+        <seg>Pakettivarasto</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Repository (type: {0}) URL not defined on path: {1}</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T121951Z" creationid="piav" creationdate="20221102T121951Z">
-        <seg>Tietovaraston (tyyppi: {0}) URL-osoitetta ei ole määritetty polulla {1}</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221110T133748Z" creationid="piav" creationdate="20221102T121951Z">
+        <seg>Pakettivaraston (tyyppi: {0}) URL-osoitetta ei ole määritetty polulla {1}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Repository Credentials</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T121920Z" creationid="piav" creationdate="20190920T130811Z">
-        <seg>Tietovaraston tunnistetiedot</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221110T133920Z" creationid="piav" creationdate="20190920T130811Z">
+        <seg>Pakettivaraston tunnistetiedot</seg>
       </tuv>
     </tu>
     <tu>
@@ -27951,24 +27959,24 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Repository Mapping...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T121846Z" creationid="piav" creationdate="20190521T131935Z">
-        <seg>Tietovarastojen määritys…</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221110T133712Z" creationid="piav" creationdate="20190521T131935Z">
+        <seg>Pakettivarastojen määritys…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Repository {0} is already present</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T121856Z" creationid="piav" creationdate="20190521T133208Z">
-        <seg>Tietovarasto {0} on jo käytössä</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221110T133737Z" creationid="piav" creationdate="20190521T133208Z">
+        <seg>Pakettivarasto {0} on jo käytössä</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Repository {0} unknown</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T121901Z" creationid="piav" creationdate="20190521T133221Z">
-        <seg>Tietovarasto {0} on tuntematon</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221110T133741Z" creationid="piav" creationdate="20190521T133221Z">
+        <seg>Pakettivarasto {0} on tuntematon</seg>
       </tuv>
     </tu>
     <tu>
@@ -32227,8 +32235,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Team Mode Repository Mapping</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20201211T143626Z" creationid="piav" creationdate="20201211T143626Z">
-        <seg>Ryhmätyöprojektien tietovarastojen yhdistämismääritykset</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221110T133718Z" creationid="piav" creationdate="20201211T143626Z">
+        <seg>Ryhmätyöprojektien pakettivarastojen yhdistämismääritykset</seg>
       </tuv>
     </tu>
     <tu>
@@ -34914,6 +34922,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source code for the current version can be either be downloaded directly from the OmegaT &lt;u0&gt;download page.&lt;/u0&gt;, or cloned from the &lt;u1&gt;Sourceforge&lt;/u1&gt; or &lt;u2&gt;GitHub&lt;/u2&gt; repositories.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T134155Z" creationid="pia" creationdate="20221110T134155Z">
+        <seg>Nykyisen version lähdekoodin voi joko ladata suoraan OmegaT-projektin &lt;u0&gt;lataussivulta&lt;/u0&gt; tai kloonata &lt;u1&gt;Sourceforge&lt;/u1&gt;- tai &lt;u2&gt;GitHub&lt;/u2&gt;-pakettivarastoista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source data of the page will be copied into the &lt;l0/&gt; folder, as a text file, with the &lt;f1&gt;.utf8&lt;/f1&gt; extension.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T142720Z" creationid="piav" creationdate="20221102T142720Z">
@@ -36069,6 +36085,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the login information for your team project repositories.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T134039Z" creationid="pia" creationdate="20221110T134039Z">
+        <seg>Tässä tiedostossa on käyttämiesi ryhmäprojektien pakettivarastojen kirjautumistiedot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file includes a number of important user preferences.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221110T132131Z" creationid="pia" creationdate="20221110T132131Z">
@@ -36143,16 +36167,16 @@ palvelimelta.</seg>
       <tuv lang="en">
         <seg>This is a Git repository.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191128T110252Z" creationid="piav" creationdate="20190920T125841Z">
-        <seg>Tämä on Git-tietovarasto.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221110T133905Z" creationid="piav" creationdate="20190920T125841Z">
+        <seg>Tämä on Git-pakettivarasto.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This is a Subversion repository.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191128T110259Z" creationid="piav" creationdate="20190920T125853Z">
-        <seg>Tämä on aliversioiden tietovarasto.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221110T133908Z" creationid="piav" creationdate="20190920T125853Z">
+        <seg>Tämä on aliversioiden pakettivarasto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46465,6 +46489,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T134837Z" creationid="piav" creationdate="20191127T134837Z">
         <seg>nimeä nykyiunen &lt;f0&gt;project_save.tmx&lt;/f0&gt;-tiedosto uudelleen (esim. &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>repositories.properties</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221110T133948Z" creationid="pia" creationdate="20221110T133948Z">
+        <seg>repositories.properties</seg>
       </tuv>
     </tu>
     <tu>
