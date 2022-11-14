@@ -7398,6 +7398,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, OmegaT removes any leading and trailing whitespace from the translatable contents.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T082701Z" creationid="pia" creationdate="20221114T082523Z">
+        <seg>OmegaT:n oletusasetuksena on, että kaikki käännettävän sisällön alussa ja lopussa olevat tyhjätilamerkit poistetaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, all files that are not excluded are included.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20200704T140652Z" creationid="piav" creationdate="20200704T140506Z">
@@ -11381,6 +11389,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190913T084714Z" creationid="piav" creationdate="20190913T082602Z">
         <seg>Älä käännä sellaisten meta-tägien sisältöattribuuttia, joissa attribuutilla on seuraavat avain–arvo-parit (erota pilkuilla): </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not use the file name to identify alternate translations</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T083211Z" creationid="pia" creationdate="20221114T083211Z">
+        <seg>Älä käytä tiedostonimeä vaihtoehtoisten käännösten tunnisteena</seg>
       </tuv>
     </tu>
     <tu>
@@ -16719,6 +16735,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the source documents contain whitespace used to control the layout, the whitespace that must be will retained in the translated document.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T083137Z" creationid="pia" creationdate="20221114T083137Z">
+        <seg>Jos lähdekielisessä asiakirjassa käytetään tyhjätilamerkkejä asiakirjamuotoilujen aikaansaamiseksi, samat tyhjätilamerkit jätetään jäljelle myös käännösasiakirjaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the source file is modified after you have begun translating, &lt;a1&gt;OmegaT&lt;/a1&gt; may be unable to find a segment that you have already translated.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T135515Z" creationid="piav" creationdate="20191127T135515Z">
@@ -16819,6 +16843,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T061807Z" creationid="piav" creationdate="20191023T061807Z">
         <seg>Jos ne eivät ole ristiriidassa järjestelmän omien pikanäppäinten kanssa, voit käyttää niitä OmegaT:ssä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this option is checked, only the previous/next segments or a segment identifier will be used to characterize an alternative translation.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T083416Z" creationid="pia" creationdate="20221114T083416Z">
+        <seg>Jos tämä kohta on rastitettu, vaihtoehtoisen käännöksen tunnisteena käytetään ainoastaan edellistä/seuraavaa segmenttiä tai segmentin tunnistetta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17174,8 +17206,8 @@ avulla.</seg>
       <tuv lang="en">
         <seg>If you keep the leading and trailing tags, make sure that they are leading and trailing as well in the translation.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T082306Z" creationid="pia" creationdate="20221114T082306Z">
-        <seg>Jos pidät alussa ja lopussa olevat tägit näkyvissä</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T082430Z" creationid="pia" creationdate="20221114T082306Z">
+        <seg>Jos pidät segmentin alussa ja lopussa olevat tägit näkyvissä, niin katso, että ne löytyvät myös käännöksen alusta ja lopusta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17755,6 +17787,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T110939Z" creationid="piav" creationdate="20191201T110939Z">
         <seg>Useimmissa järjestelmissä OmegaT-projektin voi avata vetämällä ja pudottamalla &lt;f0&gt;omegat.project&lt;/f0&gt;-tiedoston työpöydällä olevaan OmegaT-ikoniin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In non-segmented projects, disable this option to make leading and trailing whitespace modifiable in the translation.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T082821Z" creationid="pia" creationdate="20221114T082821Z">
+        <seg>Kun projektia ei ole jaettu segmentteihin, tämän kohdan voi jättää rastittamatta, niin alun ja lopun tyhjätilamerkkejä voi muokata käännöksessä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20300,8 +20340,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Leading and trailing tags are generally required by OmegaT to properly recreate the translated segment.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T082138Z" creationid="pia" creationdate="20221114T082138Z">
-        <seg>OmegaT tarvitsee alussa ja lopussa olevia tägejä voidakseen luoda käännetyn segmentin kunnollisesti.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T082332Z" creationid="pia" creationdate="20221114T082138Z">
+        <seg>OmegaT tarvitsee segmentin alussa ja lopussa olevia tägejä voidakseen luoda käännetyn segmentin kunnollisesti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26453,6 +26493,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preserve spaces for all tags</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T082918Z" creationid="pia" creationdate="20221114T082918Z">
+        <seg>Jätä kaikkien tägien välilyönnit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T101923Z" creationid="piav" creationdate="20191030T081441Z">
@@ -27913,6 +27961,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T101913Z" creationid="piav" creationdate="20191030T080614Z">
         <seg>Poista alussa ja lopussa olevat tägit: Jätä tämä kohta rastittamatta, niin kaikki, myös segmentin alussa ja lopussa olevat tägit, ovat näkyvissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove leading and trailing whitespace in non-segmented projects</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T082455Z" creationid="pia" creationdate="20221114T082455Z">
+        <seg>Poista alussa ja lopussa olevat tyhjätilamerkit</seg>
       </tuv>
     </tu>
     <tu>
@@ -35312,6 +35368,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T073146Z" creationid="piav" creationdate="20190521T133247Z">
         <seg>Annettu lähdetiedoston kieli ei kelpaa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source file name is one of the elements that characterize an alternative translation.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T083238Z" creationid="pia" creationdate="20221114T083238Z">
+        <seg>Kohdetiedoston nimi on eräs elementti, jota käytetään vaihtoehtoisen käännöksen tunnisteena.</seg>
       </tuv>
     </tu>
     <tu>
