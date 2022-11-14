@@ -30089,6 +30089,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segments with the same characteristics located in other files will be translated the same way.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T092806Z" creationid="pia" creationdate="20221114T092806Z">
+        <seg>Muista tiedostoista löytyvät ja ominaisuuksiltaan samanlaiset segmentit käännetään samalla tavalla. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T104303Z" creationid="PiaVee" creationdate="20171015T094344Z">
