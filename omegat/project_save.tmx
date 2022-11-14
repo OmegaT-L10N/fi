@@ -4558,6 +4558,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;span translate="no"&gt;This content is not translatable&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T144843Z" creationid="pia" creationdate="20221114T144843Z">
+        <seg>&lt;span translate="no"&gt;Tätä sisältöä ei tarvitse kääntää&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0&gt; &lt;t1&gt;TSV&lt;/t1&gt; &lt;t2&gt; &lt;f3&gt;.txt&lt;/f3&gt; &lt;/t2&gt; &lt;t4&gt;UTF-8&lt;/t4&gt; &lt;/t0&gt; &lt;t5&gt; &lt;t6&gt;TSV&lt;/t6&gt; &lt;t7&gt; &lt;f8&gt;.utf8&lt;/f8&gt; &lt;/t7&gt; &lt;t9&gt;UTF-8&lt;/t9&gt; &lt;/t5&gt; &lt;t10&gt; &lt;t11&gt;TSV&lt;/t11&gt; &lt;t12&gt; &lt;f13&gt;.tab&lt;/f13&gt; &lt;/t12&gt; &lt;t14&gt;OS default encoding&lt;/t14&gt; &lt;/t10&gt; &lt;t15&gt; &lt;t16&gt;TSV&lt;/t16&gt; &lt;t17&gt; &lt;f18&gt;.tsv&lt;/f18&gt; &lt;/t17&gt; &lt;t19&gt;OS default encoding&lt;/t19&gt; &lt;/t15&gt; &lt;t20&gt; &lt;t21&gt;CSV&lt;/t21&gt; &lt;t22&gt; &lt;f23&gt;.csv&lt;/f23&gt; &lt;/t22&gt; &lt;t24&gt;UTF-8&lt;/t24&gt; &lt;/t20&gt; &lt;t25&gt; &lt;t26&gt;TBX&lt;/t26&gt; &lt;t27&gt; &lt;f28&gt;.tbx&lt;/f28&gt; &lt;/t27&gt; &lt;t29&gt;UTF-8&lt;/t29&gt; &lt;/t25&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T123647Z" creationid="piav" creationdate="20210415T123647Z">
@@ -5858,6 +5866,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T161026Z" creationid="piav" creationdate="20191209T161026Z">
         <seg>Kaikilla kielillä on pääsy OmegaT-objektimalliin, jossa projekti on ylimmän tason objekti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the tags that are marked with &lt;c0&gt;translate="no"&lt;/c0&gt; will be ignored.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T145148Z" creationid="pia" creationdate="20221114T145148Z">
+        <seg>Kaikki tägit, joissa on merkintä &lt;c0&gt;translate="no"&lt;/c0&gt;, jätetään huomiotta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11608,7 +11624,6 @@ bittiavaruus.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>	</note>
       <tuv lang="en">
         <seg>Do not add quotation marks and separate the values with a comma.</seg>
       </tuv>
@@ -17848,6 +17863,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore tags that contain translate="no"</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T144827Z" creationid="pia" creationdate="20221114T144827Z">
+        <seg>Jätä huomiotta tägit, jotka sisältävät parin translate="no"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore the content part of &lt;meta name="robots" content="index, follow"&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T143231Z" creationid="pia" creationdate="20221114T142547Z">
@@ -22341,6 +22364,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modify encoding declaration</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T145313Z" creationid="pia" creationdate="20221114T145313Z">
+        <seg>Muokkaa mainintaa merkistökoodauksesta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modifying the segmentation rules may have the effect of modifying the number of segments/unique segments.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T153959Z" creationid="piav" creationdate="20191209T153959Z">
@@ -25369,6 +25400,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T133225Z" creationid="piav" creationdate="20221102T133225Z">
         <seg>Vain ensimmäinen kirjain isolla alkukirjaimella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the options not available under the XHTML files filter (see above) are described here.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T145250Z" creationid="pia" creationdate="20221114T145250Z">
+        <seg>Tässä kuvataan vain ne valinnat, jotka eivät ole käytössä XHTML-tiedostosuodattimen (ks- yllä)  kohdalla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34651,6 +34690,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The encoding of an HTML document is generally declared within a &lt;meta&gt; element situated in the &lt;head&gt; element.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T145534Z" creationid="pia" creationdate="20221114T145534Z">
+        <seg>Yleensä HTML-asiakirjan merkistökoodaus annetaan &lt;meta&gt;-elementissä, joka esiintyy &lt;head&gt;-elementin sisällä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The encoding of glossaries is determined automatically.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T080931Z" creationid="piav" creationdate="20191022T080900Z">
@@ -38388,8 +38435,8 @@ palvelimelta.</seg>
       <tuv lang="en">
         <seg>To ignore this content:</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T143122Z" creationid="pia" creationdate="20221114T142613Z">
-        <seg>Tägi näyttää tältä:</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T144957Z" creationid="pia" creationdate="20221114T142613Z">
+        <seg>Tägi, jonka sisältöä ei tarvitse kääntää:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49197,8 +49244,16 @@ tai</seg>
       <tuv lang="en">
         <seg>use:</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T143313Z" creationid="pia" creationdate="20221114T142735Z">
-        <seg>Jätä content-attribuutin arvot huomiotta käyttämällä seuraavaa:</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T145052Z" creationid="pia" creationdate="20221114T142735Z">
+        <seg>Käytä merkintää:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use: &lt;l0&gt;translate=no&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T145047Z" creationid="pia" creationdate="20221114T145047Z">
+        <seg>Käytä merkintää: &lt;l0&gt;translate=no&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
