@@ -14146,6 +14146,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a source file named Document.xx.docx, using the variable variants below will produce the following results:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T104540Z" creationid="pia" creationdate="20221114T104540Z">
+        <seg>Erilaisia kohdetiedostojen nimeämiskuvioita käyttämällä samasta Document.xx.docx-nimisestä lähdetiedostosta saadaan erilaisia kohdetiedostoja:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For advocates of open-source software, this freedom is even more important than the exemption from having to pay anything.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T182447Z" creationid="piav" creationdate="20191210T182447Z">
@@ -16827,6 +16835,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20201211T142450Z" creationid="piav" creationdate="20201211T142342Z">
         <seg>Jos tiedostossa ei ole yhdistämismäärityksiä, käyttöön otetaan vain ja ainoastaan olemassa olevat paikalliset yhdistämismääritykset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the file name is ambiguous, variables of the form &lt;l0&gt;${nameonly&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt; can be used.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T103644Z" creationid="pia" creationdate="20221114T103644Z">
+        <seg>Epäselvän tiedostonimen yhteydessä voi käyttää myös variantteja &lt;l0&gt;${nameonly&lt;/l0&gt;&lt;e1&gt;-laajennuksen numero&lt;/e1&gt;} ja &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;laajennuksen numero} &lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32831,6 +32847,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T081835Z" creationid="piav" creationdate="20190522T081830Z">
         <seg>Kohdelukema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target file names</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T103738Z" creationid="pia" creationdate="20221114T103738Z">
+        <seg>Kohdetiedostojen nimet</seg>
       </tuv>
     </tu>
     <tu>
