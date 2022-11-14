@@ -8606,6 +8606,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click the &lt;g0&gt;Restore Defaults&lt;/g0&gt; button to reset the file filters to their default settings.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T081317Z" creationid="pia" creationdate="20221114T081317Z">
+        <seg>Pääset takaisin käyttämään suodattimen oletusasetuksia napsauttamalla &lt;g0&gt;Palauta oletukset&lt;/g0&gt;-painiketta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click the dropdown arrow of the &lt;e0&gt;Search for&lt;/e0&gt; box to access the last 10 searches.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T161851Z" creationid="piav" creationdate="20191209T161800Z">
@@ -10989,6 +10997,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171219T094200Z" creationid="PiaVee" creationdate="20171219T094200Z">
         <seg>Diptik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disable a filter by unchecking its box if you prefer not to translate the files that are associated to it.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T080817Z" creationid="pia" creationdate="20221114T080817Z">
+        <seg>Jos et halua kääntää tietyn suodattimen mukaisia tiedostoja, ota suodatin pois käytöstä poistamalla rasti sen viereisestä ruudusta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13577,8 +13593,8 @@ Virheilmoitus.</seg>
       <tuv lang="en">
         <seg>File filters are either local and specific to a given project, or global and available to all the projects that share a configuration folder.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T080025Z" creationid="pia" creationdate="20221114T080025Z">
-        <seg>Tiedostosuodattimet ovat joko paikallisia ja projektikohtaisia tai globaaleja, kaikkien samaa  </seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T080529Z" creationid="pia" creationdate="20221114T080025Z">
+        <seg>Tiedostosuodattimet ovat joko paikallisia ja projektikohtaisia tai globaaleja, jolloin ne ovat kaikkien samaa määrityskansiota käyttävien projektien saatavilla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13739,6 +13755,14 @@ Virheilmoitus.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171218T072548Z" creationid="PiaVee" creationdate="20171218T072548Z">
         <seg>Suodatin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filters in bold are used in the current project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T080709Z" creationid="pia" creationdate="20221114T080709Z">
+        <seg>Lihavoidut tiedostosuodattimet ovat käytössä nykyisessä projektissa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17004,8 +17028,8 @@ näkyvät.</seg>
       <tuv lang="en">
         <seg>If you do not use the default configuration folder, all modifications made in &lt;l0/&gt; will be stored in the specified configuration folder and will not appear when you resume work with the default configuration folder.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T080305Z" creationid="pia" creationdate="20221110T145920Z">
-        <seg>Jos et käytä oletusmuotoista määrityskansiota, kaikki &lt;l0/&gt;-valikossa tehdyt muutokset tallennetaan erikseen määritettyyn määrityskansioon. Muutokset eivät näy, kun palaat takaisin käyttämään ohjelman oletusmuotoista määrityskansiota.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T080411Z" creationid="pia" creationdate="20221110T145920Z">
+        <seg>Jos et käytä oletusmuotoista määrityskansiota, kaikki &lt;l0/&gt;-valikossa tehdyt muutokset tallennetaan erikseen määritettyyn määrityskansioon. Näin tekemäsi muutokset eivät näy, kun palaat takaisin käyttämään ohjelman oletusmuotoista määrityskansiota.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29769,6 +29793,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T080634Z" creationid="pia" creationdate="20221114T080533Z">
+        <seg>Löydät lisätietoja kohdasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T092600Z" creationid="PiaVee" creationdate="20171014T092600Z">
@@ -31005,6 +31037,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T132832Z" creationid="piav" creationdate="20190920T132832Z">
         <seg>Jotkin kohdistukset on vielä tarkastettava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some filters provide a &lt;g0&gt;Options...&lt;/g0&gt; button to further customize their settings.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T081153Z" creationid="pia" creationdate="20221114T081153Z">
+        <seg>Joidenkin tiedostosuodattimien yhteydessä on &lt;g0&gt;Valinnat...&lt;/g0&gt;-painike, jonka kautta pääset muokkaamaan suodattimen asetuksia edelleen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35636,6 +35676,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Their contents will not be displayed for translation.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T080857Z" creationid="pia" creationdate="20221114T080857Z">
+        <seg>Silloin kyseisten tiedostotyyppien sisältöä ei näy käännettävä tekstin joukossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Theme</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220906T190945Z" creationid="piav" creationdate="20220906T190945Z">
@@ -37565,6 +37613,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T105709Z" creationid="piav" creationdate="20191030T103729Z">
         <seg>Muokkaa tiedostonimen muotoa joko kirjoittamalla suoraan eri kenttiin tai napsauttamalla &lt;e0&gt;Muokkaa&lt;/e0&gt;-painiketta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify the file extensions, target file name and encodings associated to a filter, select it in the list and click the &lt;g0&gt;Edit...&lt;/g0&gt; button.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T081100Z" creationid="pia" creationdate="20221114T080920Z">
+        <seg>Kun haluat muokata tiedostopäätteitä, kohdetiedoston nimeä ja suodattimeen liittyviä koodauksia, valitse suodatin listasta ja napsauta sitten &lt;g0&gt;Muokkaa...&lt;/g0&gt;-painiketta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43856,6 +43912,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T161155Z" creationid="piav" creationdate="20191209T161155Z">
         <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T080621Z" creationid="pia" creationdate="20221114T080621Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
