@@ -188,6 +188,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${file-source-encoding}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T103132Z" creationid="pia" creationdate="20221114T103132Z">
+        <seg>${file-source-encoding}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${file-target-encoding}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T103145Z" creationid="pia" creationdate="20221114T103145Z">
+        <seg>${file-target-encoding}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${filename}</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T101332Z" creationid="pia" creationdate="20221114T101332Z">
@@ -244,10 +260,58 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${system-host-name}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T103120Z" creationid="pia" creationdate="20221114T103120Z">
+        <seg>${system-host-name}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${system-os-name}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T103105Z" creationid="pia" creationdate="20221114T103105Z">
+        <seg>${system-os-name}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${system-user-name}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T103114Z" creationid="pia" creationdate="20221114T103114Z">
+        <seg>${system-user-name}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetCountryCode}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T103014Z" creationid="pia" creationdate="20221114T103014Z">
+        <seg>${targetCountryCode}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLanguageCode}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T103004Z" creationid="pia" creationdate="20221114T103004Z">
+        <seg>${targetLanguageCode}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${targetLanguage}</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T101731Z" creationid="pia" creationdate="20221114T101731Z">
         <seg>${targetLanguage}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLocaleLCID}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T103158Z" creationid="pia" creationdate="20221114T103158Z">
+        <seg>${targetLocaleLCID}</seg>
       </tuv>
     </tu>
     <tu>
@@ -264,6 +328,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T084414Z" creationid="piav" creationdate="20191127T084414Z">
         <seg>${targetText}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${timestamp-????}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T103026Z" creationid="pia" creationdate="20221114T103026Z">
+        <seg>${timestamp-????}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5314,6 +5386,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221109T182520Z" creationid="pia" creationdate="20221109T182446Z">
         <seg>Lisää teemoja saa käyttöön laajennusten avulla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additional variants are available for &lt;l0&gt;${nameOnly}&lt;/l0&gt; and &lt;l1&gt;${Extension}&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T103421Z" creationid="pia" creationdate="20221114T103316Z">
+        <seg>Muuttujista ${nameOnly} ja ${Extension} on olemassa myös lisävariantteja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21836,6 +21916,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Microsoft target locale</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T103211Z" creationid="pia" creationdate="20221114T103211Z">
+        <seg>Microsoftin kohdelokaali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mine</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T094551Z" creationid="piav" creationdate="20190522T080823Z">
@@ -30037,6 +30125,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T112559Z" creationid="piav" creationdate="20191208T112546Z">
         <seg>Lisää tietoa niistä löydät kappaleesta &lt;l0&gt;Sanakirjat&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;u0&gt; Oracle documentation&lt;/u0&gt; for examples.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T103104Z" creationid="pia" creationdate="20221114T103104Z">
+        <seg>Esimerkkejä löydät &lt;u0&gt;Oraclen dokumentaatiosta&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44092,6 +44188,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>encoding of the source file</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T103144Z" creationid="pia" creationdate="20221114T103144Z">
+        <seg>lähdetiedoston merkistökoodaus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>encoding of the target file</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T103157Z" creationid="pia" creationdate="20221114T103157Z">
+        <seg>kohdetiedoston merkistökoodaus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>eng</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T174035Z" creationid="PiaVee" creationdate="20171014T174035Z">
@@ -44740,6 +44852,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>host name on the system</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T103130Z" creationid="pia" creationdate="20221114T103130Z">
+        <seg>järjestelmän isäntänimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>hr</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T173954Z" creationid="PiaVee" creationdate="20171014T173954Z">
@@ -44936,6 +45056,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T121939Z" creationid="piav" creationdate="20191201T121939Z">
         <seg>https://datamarket.azure.com/account</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T103049Z" creationid="pia" creationdate="20221114T103049Z">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -46394,6 +46522,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T153127Z" creationid="PiaVee" creationdate="20171014T153127Z">
         <seg>najlepših – superlatiivi, monikko, genetiivi (m, f. ja n.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>name of the operating system</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T103113Z" creationid="pia" creationdate="20221114T103113Z">
+        <seg>käyttöjärjestelmän nimi</seg>
       </tuv>
     </tu>
     <tu>
@@ -48032,6 +48168,14 @@ tai</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>system time when the file is was created</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T103046Z" creationid="pia" creationdate="20221114T103046Z">
+        <seg>järjestelmän mukainen ajankohta, jolloin tiedosto muodostettiin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ta</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T081642Z" creationid="PiaVee" creationdate="20171015T081642Z">
@@ -48064,18 +48208,34 @@ tai</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>target language code (xx)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T103012Z" creationid="pia" creationdate="20221114T103012Z">
+        <seg>kohdekielen koodi (xx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>target language+region (xx-YY)</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T102930Z" creationid="pia" creationdate="20221114T102930Z">
-        <seg>kohdekieli</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T102947Z" creationid="pia" creationdate="20221114T102930Z">
+        <seg>kohdekieli+alue (xx-YY)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>target language+region code (xx_YY)</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T101729Z" creationid="pia" creationdate="20221114T101702Z">
-        <seg>kohdekieli + aluekoodi (xx_YY)</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T102952Z" creationid="pia" creationdate="20221114T101702Z">
+        <seg>kohdekieli+aluekoodi (xx_YY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target region code (YY)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T103024Z" creationid="pia" creationdate="20221114T103024Z">
+        <seg>kohdealueen koodi (YY)</seg>
       </tuv>
     </tu>
     <tu>
@@ -48582,6 +48742,14 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T112540Z" creationid="piav" creationdate="20191128T114533Z">
         <seg>Valitse &lt;m0&gt; &lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;Lähetä lähdetiedostot&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>user’s login name</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T103118Z" creationid="pia" creationdate="20221114T103118Z">
+        <seg>käyttäjän nimi</seg>
       </tuv>
     </tu>
     <tu>
