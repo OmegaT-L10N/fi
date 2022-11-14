@@ -40533,8 +40533,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="en">
         <seg>User can select from three options, Previous and next paragraphs, &lt;trans unit&gt; ID, or, &lt;trans-unit&gt; resname attribute when available, when unavailable, the ID will be used as a fallback.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T134749Z" creationid="pia" creationdate="20221114T133102Z">
-        <seg>Tunnuksen voi valita kolmesta vaihtoehdosta: edelliset ja seuraavat kappaleet, &lt;trans unit&gt; ID </seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T144709Z" creationid="pia" creationdate="20221114T133102Z">
+        <seg>Tunnuksen voi valita kolmesta vaihtoehdosta: edelliset ja seuraavat kappaleet, &lt;trans-unit&gt;-ID-arvo tai &lt;trans-unit&gt;-resname-attribuutti, mikäli tämä on käytössä. Mikäli sitä ei ole, tunnuksena käytetään ID-arvoa.</seg>
       </tuv>
     </tu>
     <tu>
