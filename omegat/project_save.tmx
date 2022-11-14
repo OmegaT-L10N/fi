@@ -15790,6 +15790,14 @@ lopullisesti.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here, you can decide whether to add or modify the declaration of the target file</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T145714Z" creationid="pia" creationdate="20221114T145651Z">
+        <seg>Tässä kohdassa voit päättää, lisätäänkö kohdetiedostoon maininta merkistökoodauksesta tai onko mainintaa syytä muokata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Herero</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T174242Z" creationid="PiaVee" creationdate="20171014T174242Z">
@@ -31961,6 +31969,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source and target files sometimes require a different encoding.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T145603Z" creationid="pia" creationdate="20221114T145603Z">
+        <seg>Toisinaan lähde- ja kohdetiedostoissa tarvitaan erilaisia merkistökoodauksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source and translated file encoding</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T095502Z" creationid="pia" creationdate="20221114T095502Z">
@@ -43628,6 +43644,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>always, based on the file filter settings,</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T145729Z" creationid="pia" creationdate="20221114T145710Z">
+        <seg>aina, suodatinasetusten mukaisesti,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>am</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T173500Z" creationid="PiaVee" creationdate="20171014T173500Z">
@@ -47354,6 +47378,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171218T123300Z" creationid="PiaVee" creationdate="20171218T123300Z">
         <seg>yhden sanan verran oikealle, kuitenkin korkeintaan segmentin loppuun saakka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>only if the file already has a &lt;head&gt; tag,</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T150036Z" creationid="pia" creationdate="20221114T150036Z">
+        <seg>vain, jos tiedostossa on jo &lt;head&gt;-tägi,</seg>
       </tuv>
     </tu>
     <tu>
