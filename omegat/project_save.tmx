@@ -4902,6 +4902,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A value of 0 sets no limits.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T140119Z" creationid="pia" creationdate="20221114T140119Z">
+        <seg>Kun arvona on 0, rivin pituutta ei ole rajoitettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T182002Z" creationid="piav" creationdate="20191210T182002Z">
@@ -5578,6 +5586,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T132058Z" creationid="piav" creationdate="20191201T132058Z">
         <seg>Huomaathan, että myös kenoviivamerkki täytyy ilmoittaa pakomerkin avulla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aggregate tags</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T140612Z" creationid="pia" creationdate="20221114T140612Z">
+        <seg>Yhdistä tägit</seg>
       </tuv>
     </tu>
     <tu>
@@ -8622,6 +8638,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose here the way OmegaT creates paragraphs in your text files.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T135903Z" creationid="pia" creationdate="20221114T135903Z">
+        <seg>Valitse tässä, millä perusteella OmegaT jakaa tekstitiedoston kappaleiksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Choose the one that provides the best results.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T150058Z" creationid="piav" creationdate="20191209T150058Z">
@@ -9058,6 +9082,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T132537Z" creationid="piav" creationdate="20190916T132537Z">
         <seg>Kommentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comments and sheet names.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T140453Z" creationid="pia" creationdate="20221114T140453Z">
+        <seg>Kommentit ja arkkien nimet</seg>
       </tuv>
     </tu>
     <tu>
@@ -9963,6 +9995,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T093420Z" creationid="piav" creationdate="20191211T093420Z">
         <seg>Luo alkuperäisestä DOCX-asiakirjata varmuuskopiot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create paragraphs on:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T135752Z" creationid="pia" creationdate="20221114T135752Z">
+        <seg>Kappalejako tulee kohtaan:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13547,6 +13587,14 @@ Virheilmoitus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T090600Z" creationid="piav" creationdate="20191211T090600Z">
         <seg>Ulkoinen dokumentaatio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External links, charts, diagrams, drawings, and WordArt.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T140604Z" creationid="pia" creationdate="20221114T140604Z">
+        <seg>Ulkoiset linkit, kaaviot, kuviot, piirrokset ja WordArt-elementit</seg>
       </tuv>
     </tu>
     <tu>
@@ -20812,6 +20860,22 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Line length</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T135935Z" creationid="pia" creationdate="20221114T135935Z">
+        <seg>Rivin pituus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line length in target files (0 = no limit)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T135928Z" creationid="pia" creationdate="20221114T135928Z">
+        <seg>Kohdetiedostojen rivien pituus (0 = rajaton)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line length:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T180056Z" creationid="piav" creationdate="20190521T180056Z">
@@ -21848,6 +21912,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T133111Z" creationid="piav" creationdate="20190916T133111Z">
         <seg>Suurenne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maximum line length</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T140124Z" creationid="pia" creationdate="20221114T140124Z">
+        <seg>Pisin rivin pituus</seg>
       </tuv>
     </tu>
     <tu>
@@ -23218,6 +23290,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T113823Z" creationid="piav" creationdate="20191127T113823Z">
         <seg>Näkymätön muotoilu (mikä ei siis näy tägeinä OmegaT-editorissa) säilyy ennallaan kohdeasiakirjoissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-visible instruction text, comments, footnotes, endnotes, footers, duplicate fallback text, and document properties.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T140503Z" creationid="pia" creationdate="20221114T140440Z">
+        <seg>Näkymättömät ohjetekstit, kommentit, alaviitteet, loppuviitteet, alatunnisteet, kaksinkertainen oletusteksti ja asiakirjan ominaisuudet</seg>
       </tuv>
     </tu>
     <tu>
@@ -31457,6 +31537,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Slide comments, slide masters, and slide layouts.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T140540Z" creationid="pia" creationdate="20221114T140540Z">
+        <seg>Dian kommentit, dian perustyylit ja dian asettelut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Slovak</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T081515Z" creationid="PiaVee" creationdate="20171015T081515Z">
@@ -32883,6 +32971,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tags that do not enclose translatable text will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T140633Z" creationid="pia" creationdate="20221114T140633Z">
+        <seg>Tägit, jotka eivät ympäröi käännettävää tekstiä, yhdistetään yhdeksi tägiksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tagwipe</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T092723Z" creationid="piav" creationdate="20191211T092723Z">
@@ -33265,6 +33361,14 @@ Tekstin korvaus tapahtuu projektin lähdekielisissä segmenteissä riippumatta s
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T082300Z" creationid="piav" creationdate="20191030T082300Z">
         <seg>Tekstitiedostot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text files do not have generic paragraph markers.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T135819Z" creationid="pia" creationdate="20221114T135819Z">
+        <seg>Tekstitiedostoissa ei ole yleispäteviä kappalejaon merkkejä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36661,6 +36765,14 @@ kadonnut sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221110T132247Z" creationid="pia" creationdate="20221110T132247Z">
         <seg>vaan niitä pitää muokata manuaalisesti eli tekemällä muutoksia suoraan tiedostoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They will appear as separate segments in the editor.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T140342Z" creationid="pia" creationdate="20221114T140342Z">
+        <seg>Nämä näkyvät editoriruudulla omina segmentteinään.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41400,6 +41512,14 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Whitespace (i.e., spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T140729Z" creationid="pia" creationdate="20221114T140729Z">
+        <seg>Jos tämä on valittu, tyhjätilamerkit (eli välilyönnit ja rivinvaihdot) säilytetään, vaikka asiakirjassa tätä ei olisi määritelty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Whitespace - leading</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T093739Z" creationid="piav" creationdate="20191211T093739Z">
@@ -41624,8 +41744,8 @@ ei enää löydy.</seg>
       <tuv lang="en">
         <seg>Word</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190920T132959Z" creationid="piav" creationdate="20190521T180737Z">
-        <seg>Sana</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T140459Z" creationid="piav" creationdate="20190521T180737Z">
+        <seg>Word</seg>
       </tuv>
     </tu>
     <tu>
@@ -42312,6 +42432,14 @@ käynnistysvalikkoon, työpöydälle tai pikakäynnistysalueelle.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T112058Z" creationid="piav" creationdate="20191030T112058Z">
         <seg>Voit asettaa jokaiselle erilaiselle lähdetiedoston nimen kuviolle oman merkistökoodauksensa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can choose additional document elements to translate.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T140236Z" creationid="pia" creationdate="20221114T140236Z">
+        <seg>Voit valita, mitä muita asiakirjan elementtejä käännetään.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48172,6 +48300,22 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T081556Z" creationid="PiaVee" creationdate="20171015T081556Z">
         <seg>spa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>specifies the maximum number of characters before breaking a long line.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T140028Z" creationid="pia" creationdate="20221114T140028Z">
+        <seg>määrittelee, montako merkkiä riville mahtuu, ennen kuin pitkä rivi jaetaan kahtia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>specifies the maximum number of characters before cutting a line and ignoring the rest.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T140154Z" creationid="pia" creationdate="20221114T140154Z">
+        <seg>määrittelee, montako merkkiä riville mahtuu, ennen kuin pitkä rivi jaetaan kahtia ja loput merkit jätetään huomiotta.</seg>
       </tuv>
     </tu>
     <tu>
