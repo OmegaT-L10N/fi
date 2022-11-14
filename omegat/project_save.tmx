@@ -4568,8 +4568,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190527T165744Z" creationid="piav" creationdate="20190527T165744Z">
-        <seg>&lt;trans-unit&gt;-resname-attribuutti, mikäli käytössä</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T134814Z" creationid="piav" creationdate="20190527T165744Z">
+        <seg>&lt;trans-unit&gt;-resname-attribuutti, mikäli tämä on käytössä</seg>
       </tuv>
     </tu>
     <tu>
@@ -32811,6 +32811,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tag shortcuts</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T135254Z" creationid="pia" creationdate="20221114T135001Z">
+        <seg>Tägien pikanäppäimet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag shortcuts (do not apply to OmegaT 2.6 compatible files):</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T135238Z" creationid="pia" creationdate="20221114T135238Z">
+        <seg>Tägien oiko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tag validation failed</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T064008Z" creationid="piav" creationdate="20190522T063954Z">
@@ -32975,6 +32991,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T093912Z" creationid="piav" creationdate="20191211T093831Z">
         <seg>Kohde pitempi kuin alkuperäinen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target segment status</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T135100Z" creationid="pia" creationdate="20221114T135100Z">
+        <seg>Kohdesegmentin tila</seg>
       </tuv>
     </tu>
     <tu>
@@ -36513,6 +36537,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T115029Z" creationid="piav" creationdate="20191128T115004Z">
         <seg>Nämä tiedostot eivät poistu automaattisesti myös kääntäjältä, vaan sinun on pyydettävä häntä poistamaan tiedostot käsin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These option specify the way OmegaT creates tags from the XLIFF contents.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T135050Z" creationid="pia" creationdate="20221114T135050Z">
+        <seg>Nämä valinnat määrittelevät sen, miten OmegaT luo XLIFF-sisällöstä tägejä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40252,8 +40284,8 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="en">
         <seg>User can select from three options, Previous and next paragraphs, &lt;trans unit&gt; ID, or, &lt;trans-unit&gt; resname attribute when available, when unavailable, the ID will be used as a fallback.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T133959Z" creationid="pia" creationdate="20221114T133102Z">
-        <seg>Käyttäjä voi valita kolmesta vaihtoehdosta: Edelliset ja seuraavat kappaleet, &lt;trans unit&gt; ID </seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T134749Z" creationid="pia" creationdate="20221114T133102Z">
+        <seg>Tunnuksen voi valita kolmesta vaihtoehdosta: edelliset ja seuraavat kappaleet, &lt;trans unit&gt; ID </seg>
       </tuv>
     </tu>
     <tu>
@@ -41178,8 +41210,8 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
       <tuv lang="en">
         <seg>When unavailable, the ID will be used as a fallback</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190527T171247Z" creationid="piav" creationdate="20190527T165934Z">
-        <seg>Jos sitä ei ole, varana on tunniste.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T135224Z" creationid="piav" creationdate="20190527T165934Z">
+        <seg>Jos sitä ei ole, varana käytetään tunnistetta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45472,6 +45504,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T161158Z" creationid="piav" creationdate="20191209T161158Z">
         <seg>if (project.getTranslationInfo(currSegment))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if checked, OmegaT changes the state of the XLIFF target part to "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T135650Z" creationid="pia" creationdate="20221114T135650Z">
+        <seg>Jos tässä kohdassa on rasti, OmegaT muuttaa XLIFF-kohdesegmentin tilaksi "needs-review-translation" (ei siis "translated").</seg>
       </tuv>
     </tu>
     <tu>
