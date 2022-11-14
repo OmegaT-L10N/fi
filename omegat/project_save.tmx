@@ -7118,6 +7118,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Both dialogs allow you to customize the filename patterns for the source and target files associated to this the filter, and select their respective encoding.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T093339Z" creationid="pia" creationdate="20221114T093339Z">
+        <seg>Molemmissa ikkunoissa pääset muokkaamaan kyseiseen tiedostosuodattimeen liittyvien lähde- ja kohdetiedostojen tiedostonimien muotoja ja valitsemaan niiden merkistökoodaukset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Break rule</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T130406Z" creationid="piav" creationdate="20191030T130406Z">
@@ -11613,6 +11621,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T101434Z" creationid="piav" creationdate="20191211T101434Z">
         <seg>Kaksoisnapsauta OmegaT-appia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-click the editable fields to make simple modifications or click on the &lt;g0&gt;Edit...&lt;/g0&gt; button to access the modification dialog.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T092944Z" creationid="pia" creationdate="20221114T092944Z">
+        <seg>Pääset tekemään yksinkertaisia muokkauksia kaksoisnapsauttamalla muokattavissa olevia kenttiä. Muokkausikkunaan pääset napsauttamalla &lt;g0&gt;Muokkaa...&lt;/g0&gt;-painiketta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37354,6 +37370,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T145454Z" creationid="piav" creationdate="20191209T145454Z">
         <seg>Avaa tämä ikkuna valitsemalla &lt;m0&gt; &lt;g1&gt;Työkalut&lt;/g1&gt; &lt;g2&gt;Kohdista tiedostoja…&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add a filter pattern, click on &lt;g0&gt;Add...&lt;/g0&gt; to open a similar dialog.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T093121Z" creationid="pia" creationdate="20221114T093057Z">
+        <seg>Lisää suodatinkuvio napsauttamalla &lt;g0&gt;Lisää...&lt;/g0&gt;-painiketta. Tällöin näytölle ilmestyy vastaava valintaikkuna.</seg>
       </tuv>
     </tu>
     <tu>
