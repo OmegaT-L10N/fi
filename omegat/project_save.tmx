@@ -13769,8 +13769,8 @@ Virheilmoitus.</seg>
       <tuv lang="en">
         <seg>Files in the &lt;l0/&gt; folder are overwritten everytime you create them if they are created with the same name.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T100522Z" creationid="pia" creationdate="20221114T100522Z">
-        <seg>Aina kun luot uusia käännettyjä, kansiossa &lt;l0/&gt; olevat samannimiset tiedostot korvataan näillä uusilla tiedostoilla.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T100559Z" creationid="pia" creationdate="20221114T100522Z">
+        <seg>Aina kun luot uusia käännettyjä, kansiossa &lt;l0/&gt; olevat samannimiset tiedostot korvataan näillä uusilla versioilla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23926,6 +23926,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT can automatically create new file names for the files you create, by adding a language code or a time stamp, for example.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T100746Z" creationid="pia" creationdate="20221114T100546Z">
+        <seg>OmegaT voi nimetä kohdetiedostot automaattisesti uudelleen lisäämällä niihin esimerkiksi kielikoodin tai aikaleiman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T134712Z" creationid="piav" creationdate="20190920T134712Z">
@@ -34026,6 +34034,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The dialog offers various options:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T101329Z" creationid="pia" creationdate="20221114T101329Z">
+        <seg>Vaihtoehtoja on monia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The difference between "Number of segments" and "Number of unique segments" provides an approximate idea of the number of repetitions in the text.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191212T075730Z" creationid="piav" creationdate="20191212T075730Z">
@@ -34126,6 +34142,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T083251Z" creationid="piav" creationdate="20191211T083225Z">
         <seg>Lataaminen käy nopeasti, ja asennus vaatii vain vähän tilaa kovalevyllä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The easiest way to modify it is to use the &lt;g0&gt;Edit Pattern&lt;/g0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T101216Z" creationid="pia" creationdate="20221114T101216Z">
+        <seg>Sitä on helpointa muokata &lt;g0&gt;Muokkaa kuviota&lt;/g0&gt;-valintaikkunassa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35704,6 +35728,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T120828Z" creationid="piav" creationdate="20191030T120704Z">
         <seg>Kohdetiedoston nimessä käytetään erityistä syktaksia, joten jos haluat muuttaa tätä kenttää, napsauta &lt;e0&gt;Muokkaa…&lt;/e0&gt;-painiketta ja siirry kohtaan Muokkaa muotoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The target filename pattern uses a special syntax.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T100853Z" creationid="pia" creationdate="20221114T100847Z">
+        <seg>Kohdetiedostojen nimissä käytetään erityistä muotoilua.</seg>
       </tuv>
     </tu>
     <tu>
