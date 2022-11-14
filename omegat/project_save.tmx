@@ -13575,6 +13575,14 @@ Virheilmoitus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File filters are either local and specific to a given project, or global and available to all the projects that share a configuration folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T080025Z" creationid="pia" creationdate="20221114T080025Z">
+        <seg>Tiedostosuodattimet ovat joko paikallisia ja projektikohtaisia tai globaaleja, kaikkien samaa  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File format</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T080444Z" creationid="piav" creationdate="20191022T080444Z">
@@ -16996,8 +17004,8 @@ näkyvät.</seg>
       <tuv lang="en">
         <seg>If you do not use the default configuration folder, all modifications made in &lt;l0/&gt; will be stored in the specified configuration folder and will not appear when you resume work with the default configuration folder.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221110T145920Z" creationid="pia" creationdate="20221110T145920Z">
-        <seg>Jos et käytä oletusmuotoista asetuskansiota, kaikki &lt;l0/&gt;-valikossa tehdyt muutokset tallennetaan erikseen määritettyyn asetuskansioon. Muutokset eivät näy, kun palaat takaisin käyttämään ohjelman oletusmuotoista asetuskansiota.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T080305Z" creationid="pia" creationdate="20221110T145920Z">
+        <seg>Jos et käytä oletusmuotoista määrityskansiota, kaikki &lt;l0/&gt;-valikossa tehdyt muutokset tallennetaan erikseen määritettyyn määrityskansioon. Muutokset eivät näy, kun palaat takaisin käyttämään ohjelman oletusmuotoista määrityskansiota.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19210,8 +19218,8 @@ kaksoisnapsauta sitä.</seg>
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190916T133842Z" creationid="piav" creationdate="20190916T133842Z">
-        <seg>Komentosarjakansion luonti asennuskansion sisälle ei onnistunut.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T080121Z" creationid="piav" creationdate="20190916T133842Z">
+        <seg>Komentosarjakansion luonti määrityskansion sisälle ei onnistunut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21766,8 +21774,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Modified preferences are stored in the configuration folder used by the project.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221110T145726Z" creationid="pia" creationdate="20221110T145726Z">
-        <seg>Muokatut asetukset tallennetaan projektin käyttämään asetuskansioon.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T080229Z" creationid="pia" creationdate="20221110T145726Z">
+        <seg>Muokatut asetukset tallennetaan projektin käyttämään määrityskansioon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33507,8 +33515,8 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190916T133859Z" creationid="piav" creationdate="20190916T133859Z">
-        <seg>Sen sijaan käytetään asennuskansiota.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T080127Z" creationid="piav" creationdate="20190916T133859Z">
+        <seg>Sen sijaan käytetään määrityskansiota.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35847,8 +35855,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
         <seg>Therefore, the location of OmegaT's
 configuration folder cannot be reliably determined.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190916T133446Z" creationid="piav" creationdate="20190916T133446Z">
-        <seg>Siksi OmegaT:n asetuskansiota ei voi määrittää luotettavasti.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T080112Z" creationid="piav" creationdate="20190916T133446Z">
+        <seg>Siksi OmegaT:n määrityskansiota ei voi määrittää luotettavasti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41795,8 +41803,8 @@ sarjaa linux-install.sh.</seg>
       <tuv lang="en">
         <seg>You can specify a configuration folder other than the default when you start OmegaT from the command line.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221110T145702Z" creationid="pia" creationdate="20221110T145554Z">
-        <seg>Kun käynnistät OmegaT:n komentoriviltä, voit määritellä käytettäväksi muun kuin oletusmuotoisen asetuskansion.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T080223Z" creationid="pia" creationdate="20221110T145554Z">
+        <seg>Kun käynnistät OmegaT:n komentoriviltä, voit määritellä, että ohjelma käyttää muuta kuin oletusmuotoista määrityskansiota.</seg>
       </tuv>
     </tu>
     <tu>
