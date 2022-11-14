@@ -12513,8 +12513,8 @@ kaukana, poissa.
       <tuv lang="en">
         <seg>Enable this option if you need to work with XLIFF files created with OmegaT 2.6.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T105024Z" creationid="pia" creationdate="20221114T105024Z">
-        <seg>Rastita </seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T133212Z" creationid="pia" creationdate="20221114T105024Z">
+        <seg>Rastita tämä vaihtoehto, jos olet työskentelemässä OmegaT 2.6:lla luotujen XLIFF-tiedostojen parissa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40246,6 +40246,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T064801Z" creationid="piav" creationdate="20191023T064801Z">
         <seg>Käsikirja…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User can select from three options, Previous and next paragraphs, &lt;trans unit&gt; ID, or, &lt;trans-unit&gt; resname attribute when available, when unavailable, the ID will be used as a fallback.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T133959Z" creationid="pia" creationdate="20221114T133102Z">
+        <seg>Käyttäjä voi valita kolmesta vaihtoehdosta: Edelliset ja seuraavat kappaleet, &lt;trans unit&gt; ID </seg>
       </tuv>
     </tu>
     <tu>
