@@ -6458,6 +6458,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Associating a file extension to a filter is not sufficient to have the filter properly handle the file.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T094256Z" creationid="pia" creationdate="20221114T094256Z">
+        <seg>Pelkkä tiedostopäätteen lisääminen suodattimen kohdalle ei riitä siihen, että tiedostosuodatin osaa käsitellä tiedostoa oikein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T151852Z" creationid="piav" creationdate="20191030T130118Z">
@@ -14194,6 +14202,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, the pattern &lt;l0&gt;.xhtml&lt;/l0&gt; registered in the XHTML filter matches any file with the &lt;f1&gt;xhtml&lt;/f1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T093914Z" creationid="pia" creationdate="20221114T093736Z">
+        <seg>Esimerkiksi XHTML-suodattimen kohdalla mainittu &lt;l0&gt;.xhtml&lt;/l0&gt; yhdistetään kaikkiin tiedostoihin, joissa käytetään &lt;f1&gt;xhtml&lt;/f1&gt;-tiedostopäätettä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T085557Z" creationid="piav" creationdate="20191210T172250Z">
@@ -16551,6 +16567,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If such a file is found in the &lt;l2/&gt; folder, the file will be handled by the XHTML filter.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T093959Z" creationid="pia" creationdate="20221114T093959Z">
+        <seg>Jos &lt;l2/&gt;-kansiosta löytyy tällainen tiedosto, sitä käsitellään XHTML-suodattimen mukaisesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T112725Z" creationid="piav" creationdate="20191127T112532Z">
@@ -18283,6 +18307,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T094151Z" creationid="piav" creationdate="20191211T094151Z">
         <seg>Epäyhtenäiset numerot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), and sheet names.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T093752Z" creationid="pia" creationdate="20221114T093752Z">
+        <seg>fzz hakemiston hakusanat, kirjanmerkit, kirjanmerkkiviitteet, muistiinpanot, kommentit, esitysmuistiinpanot, linkit (URL), arkkien nimet</seg>
       </tuv>
     </tu>
     <tu>
@@ -31449,6 +31481,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source filename pattern</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T093457Z" creationid="pia" creationdate="20221114T093457Z">
+        <seg>Lähdetiedoston nimen muoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source filename patterns use wild card characters similar to those used in &lt;e2&gt;Searches.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T162609Z" creationid="piav" creationdate="20191030T110743Z">
@@ -34118,6 +34158,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210414T165202Z" creationid="piav" creationdate="20210414T165202Z">
         <seg>Kun määrität käytettävän sanastotiedoston, sitä ei vielä tarvitse edes olla. Tiedosto luodaan automaattisesti, kun lisäät sanastoon ensimmäisen termin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The file structure must also be compatible with the filter: even if you associate &lt;l0&gt;.odt&lt;/l0&gt; to the XHMTL filter, the filter will not be able to understand the contents of a LibreOffice Writer file.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T094408Z" creationid="pia" creationdate="20221114T094408Z">
+        <seg>Myös tiedostorakenteen tulee sopia suodattimeen: Vaikka yhdistäisit &lt;l0&gt;.odt&lt;/l0&gt;-päätteen XHTML-suodattimeen, suodatin ei ymmärrä LibreOffice Writer -tiedoston sisältöä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37463,6 +37511,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To associate a filter to a file, OmegaT checks its file extension and attempts to match it to a source filename patterns in a filter.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T093630Z" creationid="pia" creationdate="20221114T093630Z">
+        <seg>Kun OmegaT yhdistää tiedostosuodattimen ja tiedoston, se tarkistaa tiedostopäätteen ja yrittää yhdistää sen suodattimen kohdalla mainittuihin lähdetiedoston tiedostonimien muotoihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To associate a script with a number:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T152426Z" creationid="piav" creationdate="20191202T152413Z">
@@ -39688,6 +39744,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;g0&gt;Filename Variables&lt;/g0&gt; drop-down menu to customize the target file name.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T093453Z" creationid="pia" creationdate="20221114T093420Z">
+        <seg>&lt;g0&gt;Tiedostonimen muuttujat&lt;/g0&gt;-pudotusvalikossa pääset muokkaamaan kohdetiedoston nimeä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;g0&gt;ID&lt;/g0&gt; comparison mode to align Key=Value texts.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210414T163536Z" creationid="piav" creationdate="20210414T163536Z">
@@ -41784,6 +41848,14 @@ käynnistysvalikkoon, työpöydälle tai pikakäynnistysalueelle.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T110709Z" creationid="piav" creationdate="20191030T110709Z">
         <seg>Voit muuttaa kunkin tiedostosuodattimen käsittelemien tiedostonimien muotoja tai lisätä niitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change or add filename patterns to associate different files to a filter.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T094120Z" creationid="pia" creationdate="20221114T094120Z">
+        <seg>Kun haluat yhdistää tiettyjä tiedostoja tiettyihin suodattimiin, voit muuttaa tai lisätä suodattimen käyttämiä tiedostonimen muotoja.</seg>
       </tuv>
     </tu>
     <tu>
