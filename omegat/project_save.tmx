@@ -3852,9 +3852,25 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt;: &lt;f1&gt;docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T104757Z" creationid="pia" creationdate="20221114T104757Z">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt;: &lt;f1&gt;docx&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T123042Z" creationid="piav" creationdate="20191030T123042Z">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt;: &lt;f1&gt;xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T104800Z" creationid="pia" creationdate="20221114T104800Z">
         <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
       </tuv>
     </tu>
@@ -3864,6 +3880,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T123043Z" creationid="piav" creationdate="20191030T123043Z">
         <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt;: &lt;f1&gt;Document.xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T104803Z" creationid="pia" creationdate="20221114T104803Z">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt;: &lt;f1&gt;Document.xx.docx&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3900,6 +3924,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt;: &lt;f1&gt;Document&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T104748Z" creationid="pia" creationdate="20221114T104546Z">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T123038Z" creationid="piav" creationdate="20191030T123038Z">
@@ -3908,9 +3940,25 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt;: &lt;f1&gt;Document.xx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T104751Z" creationid="pia" creationdate="20221114T104751Z">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt;: &lt;f1&gt;Document.xx&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T123039Z" creationid="piav" creationdate="20191030T123039Z">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt;: &lt;f1&gt;Document.xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T104754Z" creationid="pia" creationdate="20221114T104754Z">
         <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
       </tuv>
     </tu>
@@ -9102,6 +9150,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Compatibility with OmegaT 2.6</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T105004Z" creationid="pia" creationdate="20221114T105004Z">
+        <seg>Yhteensopivuus OmegaT 2.6:n kanssa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T180544Z" creationid="piav" creationdate="20191210T180544Z">
@@ -12455,6 +12511,14 @@ kaukana, poissa.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable this option if you need to work with XLIFF files created with OmegaT 2.6.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T105024Z" creationid="pia" creationdate="20221114T105024Z">
+        <seg>Rastita </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T175534Z" creationid="piav" creationdate="20190521T175534Z">
@@ -14148,8 +14212,8 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For a source file named Document.xx.docx, using the variable variants below will produce the following results:</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T104540Z" creationid="pia" creationdate="20221114T104540Z">
-        <seg>Erilaisia kohdetiedostojen nimeämiskuvioita käyttämällä samasta Document.xx.docx-nimisestä lähdetiedostosta saadaan erilaisia kohdetiedostoja:</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T104744Z" creationid="pia" creationdate="20221114T104540Z">
+        <seg>Erilaiset kohdetiedoston nimeämiskuviot tuottavat lähdetiedoston Document.xx.docx nimen perusteella erilaisia kohdetiedostoja:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22144,6 +22208,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T175839Z" creationid="piav" creationdate="20190521T175839Z">
         <seg>Yksikielinen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Monolingual XLIFF</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T104951Z" creationid="pia" creationdate="20221114T104951Z">
+        <seg>Monolingual XLIFF</seg>
       </tuv>
     </tu>
     <tu>
@@ -30641,6 +30713,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the filter in the list and click &lt;g0&gt;Options...&lt;/g0&gt; to modify them.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T104910Z" creationid="pia" creationdate="20221114T104910Z">
+        <seg>Valitse listalta suodatin ja napsauta &lt;g0&gt;Valinnat...&lt;/g0&gt;-painiketta, niin pääset muokkaamaan niitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the first segment.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T150328Z" creationid="piav" creationdate="20191209T150328Z">
@@ -31029,6 +31109,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T082133Z" creationid="piav" creationdate="20191030T082133Z">
         <seg>Useissa suodattimissa (tekstitiedostoja, XHTML-tiedostoja, HTML- ja XHTML-tiedostoja, OpenDocument-tiedostoja ja Microsoft Open XML -tiedostoja varten) on yksi tai useampi erityinen asetus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Several filters offer options.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T104820Z" creationid="pia" creationdate="20221114T104820Z">
+        <seg>Useisiin suodattimiin liittyy erilaisia valintoja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33794,8 +33882,8 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
       <tuv lang="en">
         <seg>The available options are:</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191030T082257Z" creationid="piav" creationdate="20191030T082257Z">
-        <seg>Käytettävissä ovat seuraavat asetukset:</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T104924Z" creationid="piav" creationdate="20191030T082257Z">
+        <seg>Käytettävissä ovat seuraavat valinnat:</seg>
       </tuv>
     </tu>
     <tu>
