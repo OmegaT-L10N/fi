@@ -4206,6 +4206,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;meta name="robots" content="index, follow"&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T142934Z" creationid="pia" creationdate="20221114T142934Z">
+        <seg>&lt;meta name="robots" content="index, follow"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T102131Z" creationid="piav" creationdate="20191211T102103Z">
@@ -10875,8 +10883,16 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Define the &lt;meta&gt; tag attribute values for which the associated "content" attribute will not be translated.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T142050Z" creationid="pia" creationdate="20221114T141723Z">
-        <seg>Määrittele tässä ne &lt;meta&gt;-tägien nimiattribuutit, joihin kuuluvia "content"-attribuutteja ei tarvitse kääntää.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T143258Z" creationid="pia" creationdate="20221114T141723Z">
+        <seg>Tähän määritellään ne &lt;meta&gt;-tägien nimiattribuutit, joihin kuuluvia "content"-attribuuttien arvoja ei tarvitse kääntää.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Define the attribute values that make a tag non-translatable.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T143431Z" creationid="pia" creationdate="20221114T142917Z">
+        <seg>Tähän määritellään ne attribuutti–arvo-parit, jotka tekevät tägistä kääntämättömön</seg>
       </tuv>
     </tu>
     <tu>
@@ -11592,7 +11608,7 @@ bittiavaruus.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>EPÄSELVÄÄ</note>
+      <note>	</note>
       <tuv lang="en">
         <seg>Do not add quotation marks and separate the values with a comma.</seg>
       </tuv>
@@ -17834,8 +17850,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>Ignore the content part of &lt;meta name="robots" content="index, follow"&gt;</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T142547Z" creationid="pia" creationdate="20221114T142547Z">
-        <seg>Jätä tägin &lt;meta name="robots" content="index, follow"&gt; content-attribuutit huomiotta.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T143231Z" creationid="pia" creationdate="20221114T142547Z">
+        <seg>Jätä tägin &lt;meta name="robots" content="index, follow"&gt; content-attribuutin arvot huomiotta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17858,8 +17874,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>Ignored &lt;meta&gt; tags "content" attribute</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T141629Z" creationid="pia" creationdate="20221114T141629Z">
-        <seg>Sellaiset &lt;meta&gt;-tägit, joiden "content"-attribuutit jätetään huomiotta</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T143250Z" creationid="pia" creationdate="20221114T141629Z">
+        <seg>Sellaiset &lt;meta&gt;-tägit, joiden "content"-attribuutin arvot jätetään huomiotta</seg>
       </tuv>
     </tu>
     <tu>
@@ -17868,6 +17884,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T140948Z" creationid="pia" creationdate="20221114T140948Z">
         <seg>Ladattaessa huomiotta jätetyt kappaleet (säännölliset lausekkeet)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignored tags (attribute=value)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T142806Z" creationid="pia" creationdate="20221114T142806Z">
+        <seg>Huomiotta jätetyt tägit (attribuutti=arvo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38364,7 +38388,7 @@ palvelimelta.</seg>
       <tuv lang="en">
         <seg>To ignore this content:</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T142705Z" creationid="pia" creationdate="20221114T142613Z">
+      <tuv lang="fi" changeid="pia" changedate="20221114T143122Z" creationid="pia" creationdate="20221114T142613Z">
         <seg>Tägi näyttää tältä:</seg>
       </tuv>
     </tu>
@@ -46943,6 +46967,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>name=robots</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T142737Z" creationid="pia" creationdate="20221114T142737Z">
+        <seg>name=robots</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>nau</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T174958Z" creationid="PiaVee" creationdate="20171014T174958Z">
@@ -49159,6 +49191,14 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T112540Z" creationid="piav" creationdate="20191128T114533Z">
         <seg>Valitse &lt;m0&gt; &lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;Lähetä lähdetiedostot&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T143313Z" creationid="pia" creationdate="20221114T142735Z">
+        <seg>Jätä content-attribuutin arvot huomiotta käyttämällä seuraavaa:</seg>
       </tuv>
     </tu>
     <tu>
