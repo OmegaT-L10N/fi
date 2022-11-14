@@ -4952,8 +4952,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>Access Project Contents/Current Target Document</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T064312Z" creationid="piav" creationdate="20191023T062407Z">
-        <seg>Avaa projektin sisältö / Nykyinen lähdeasiakirja</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T100018Z" creationid="piav" creationdate="20191023T062407Z">
+        <seg>Avaa projektin sisältö / Nykyinen kohdeasiakirja</seg>
       </tuv>
     </tu>
     <tu>
@@ -7466,6 +7466,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T083631Z" creationid="piav" creationdate="20191127T083228Z">
         <seg>Oletusarvona on, että &lt;g0&gt;Sumeat osumat&lt;/g0&gt; -ruudussa näkyy vartalonmuodostuksen perusteella saatuja lähimpiä osumat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, the encoding of the translated file is the same as that of the source file.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T095650Z" creationid="pia" creationdate="20221114T095650Z">
+        <seg>OmegaT-oletusasetuksena on, että käännetyn tiedoston merkistökoodaus on sama kuin lähdetiedoston merkistökoodaus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13759,6 +13767,14 @@ Virheilmoitus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files in the &lt;l0/&gt; folder are overwritten everytime you create them if they are created with the same name.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T100522Z" creationid="pia" creationdate="20221114T100522Z">
+        <seg>Aina kun luot uusia käännettyjä, kansiossa &lt;l0/&gt; olevat samannimiset tiedostot korvataan näillä uusilla tiedostoilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files must be deleted by the project manager.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20201211T144336Z" creationid="piav" creationdate="20201211T144336Z">
@@ -14222,6 +14238,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T152918Z" creationid="piav" creationdate="20191022T152918Z">
         <seg>Esimerkiksi tämä on kenoviiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, use the pattern &lt;l0&gt;read*&lt;/l0&gt; if you want to have the text filter handle readme files (&lt;l1&gt;readme, read.me&lt;/l1&gt;, or &lt;l2&gt;readme.txt&lt;/l2&gt;).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T095458Z" creationid="pia" creationdate="20221114T095458Z">
+        <seg>Käytä esimerkiksi muotoa &lt;l0&gt;read*&lt;/l0&gt;, kun haluat, että tekstisuodatin käsittelee readme-tiedostoja (&lt;l1&gt;readme, read.me&lt;/l1&gt; tai &lt;l2&gt;readme.txt&lt;/l2&gt;)-</seg>
       </tuv>
     </tu>
     <tu>
@@ -22036,6 +22060,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Most file formats allow various possible encodings.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T095601Z" creationid="pia" creationdate="20221114T095601Z">
+        <seg>Useimmissa tiedostomuodoissa voi käyttää monia eri merkistökoodauksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T052523Z" creationid="piav" creationdate="20191023T052523Z">
@@ -24205,6 +24237,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties, for example).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T100244Z" creationid="pia" creationdate="20221114T100203Z">
+        <seg>Tietyt tiedostomuodot (esim. Java-ominaisuudet) käyttävät pakollista merkistökoodausta, ja OmegaT käyttää tätä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T080614Z" creationid="piav" creationdate="20191211T080614Z">
@@ -24406,6 +24446,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T120428Z" creationid="piav" creationdate="20191030T120406Z">
         <seg>Tekstitiedostojen merkistökoodauksena OmegaT käyttää käyttöjärjestelmän oletuskoodausta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT uses the encoding declaration in the source file, if present, to identify the encoding (HTML or XML based files).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T100155Z" creationid="pia" creationdate="20221114T095946Z">
+        <seg>Jos lähdetiedostossa on maininta merkistökoodauksesta, OmegaT käyttää samaa myös kohdetiedostossa (HTML- ja XHTML-pohjaiset tiedostot).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30545,6 +30593,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selecting the &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; option leaves the choice of encoding to OmegaT, based on the following criteria:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T095921Z" creationid="pia" creationdate="20221114T095921Z">
+        <seg>Vaihtoehto &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; jättää merkistökoodauksen valinnan &lt;a1&gt;OmegaT&lt;/a1&gt;:n tehtäväksi. Ohjelma valitsee merkistökoodauksen seuraavien sääntöjen perusteella:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selection of alternative icons for use with OmegaT.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T164842Z" creationid="piav" creationdate="20191210T164842Z">
@@ -31436,6 +31492,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
         <seg>Source and Translated file encoding</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T111123Z" creationid="piav" creationdate="20191030T111104Z">
+        <seg>Lähdetiedoston ja käännetyn tiedoston merkistökoodaukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source and translated file encoding</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T095502Z" creationid="pia" creationdate="20221114T095502Z">
         <seg>Lähdetiedoston ja käännetyn tiedoston merkistökoodaukset</seg>
       </tuv>
     </tu>
@@ -35415,6 +35479,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
         <seg>The source and target encoding fields use drop-down menus containing all the supported encodings.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T112429Z" creationid="piav" creationdate="20191030T112429Z">
+        <seg>Kaikki tuetut merkistökoodaukset löytyvät lähde- ja kohdetiedostojen merkistökoodauskenttien pudotusvalikosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source and target encoding fields use drop-down menus listing all supported encodings.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T095708Z" creationid="pia" creationdate="20221114T095708Z">
         <seg>Kaikki tuetut merkistökoodaukset löytyvät lähde- ja kohdetiedostojen merkistökoodauskenttien pudotusvalikosta.</seg>
       </tuv>
     </tu>
