@@ -10875,8 +10875,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Define the &lt;meta&gt; tag attribute values for which the associated "content" attribute will not be translated.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T141723Z" creationid="pia" creationdate="20221114T141723Z">
-        <seg>Määrittele niiden &lt;meta&gt;-tägien määritteiden arvot </seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T142050Z" creationid="pia" creationdate="20221114T141723Z">
+        <seg>Määrittele tässä ne &lt;meta&gt;-tägien nimiattribuutit, joihin kuuluvia "content"-attribuutteja ei tarvitse kääntää.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11589,6 +11589,15 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T180708Z" creationid="PiaVee" creationdate="20171014T174013Z">
         <seg>divehi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>EPÄSELVÄÄ</note>
+      <tuv lang="en">
+        <seg>Do not add quotation marks and separate the values with a comma.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T142501Z" creationid="pia" creationdate="20221114T142501Z">
+        <seg>Älä käytä lainausmerkkejä, mutta erota arvot toisistaan pilkulla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17819,6 +17828,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191029T102105Z" creationid="piav" creationdate="20191029T102037Z">
         <seg>Ohita osumat, joissa isoja kirjaimia käytetään eri tavoin (esim. FOO ja foo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore the content part of &lt;meta name="robots" content="index, follow"&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T142547Z" creationid="pia" creationdate="20221114T142547Z">
+        <seg>Jätä tägin &lt;meta name="robots" content="index, follow"&gt; content-attribuutit huomiotta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38341,6 +38358,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T180754Z" creationid="piav" creationdate="20191210T180754Z">
         <seg>Löydät parhaiten sinulle sopivan version seuraamalla alla olevaa linkkiä latausvalitsimeen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To ignore this content:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T142705Z" creationid="pia" creationdate="20221114T142613Z">
+        <seg>Tägi näyttää tältä:</seg>
       </tuv>
     </tu>
     <tu>
