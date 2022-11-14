@@ -6658,6 +6658,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At loading, any paragraph matching the regular expression will be ignored and will not be displayed for translation.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T141331Z" creationid="pia" creationdate="20221114T141015Z">
+        <seg>Kun projekti latautuu, kaikki säännöllistä lauseketta vastaavat kappaleet jätetään huomiotta eivätkä ne näy käännettävänä tekstinä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the beginning of the installation you can select the language to be used during the installation.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T113939Z" creationid="piav" creationdate="20191129T113939Z">
@@ -10865,6 +10873,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Define the &lt;meta&gt; tag attribute values for which the associated "content" attribute will not be translated.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T141723Z" creationid="pia" creationdate="20221114T141723Z">
+        <seg>Määrittele niiden &lt;meta&gt;-tägien määritteiden arvot </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Define the translation as being empty.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T135039Z" creationid="piav" creationdate="20191202T135017Z">
@@ -12547,6 +12563,14 @@ kaukana, poissa.
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T121451Z" creationid="PiaVee" creationdate="20171218T092146Z">
         <seg>Ota ne käyttöön kohdassa &lt;b&gt;Asetukset &gt; Tallentaminen ja tuotos…&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable this option if soft-returns are intended to be paragraph starters.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T140813Z" creationid="pia" creationdate="20221114T140813Z">
+        <seg>Ota tämä valinta käyttöön, mikäli pehmeiden rivinvaihtojen on tarkoitus aloittaa uusia kappaleita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17815,6 +17839,22 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignored &lt;meta&gt; tags "content" attribute</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T141629Z" creationid="pia" creationdate="20221114T141629Z">
+        <seg>Sellaiset &lt;meta&gt;-tägit, joiden "content"-attribuutit jätetään huomiotta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignored paragraphs at loading (regular expression)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T140948Z" creationid="pia" creationdate="20221114T140948Z">
+        <seg>Ladattaessa huomiotta jätetyt kappaleet (säännölliset lausekkeet)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T105648Z" creationid="piav" creationdate="20191129T105648Z">
@@ -21006,16 +21046,16 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Loading TMX files...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190523T094459Z" creationid="PiaVee" creationdate="20171218T084452Z">
-        <seg>Ladataan TMX-tiedostoja…</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T141115Z" creationid="PiaVee" creationdate="20171218T084452Z">
+        <seg>TMX-tiedostot latautuvat…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Loading glossaries</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191022T074447Z" creationid="PiaVee" creationdate="20171218T083050Z">
-        <seg>Ladataan sanastoja…</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T141046Z" creationid="PiaVee" creationdate="20171218T083050Z">
+        <seg>Sanastot latautuvat…</seg>
       </tuv>
     </tu>
     <tu>
@@ -21038,8 +21078,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Loading: {0}</seg>
       </tuv>
-      <tuv lang="fi" changeid="PiaVee" changedate="20171218T084005Z" creationid="PiaVee" creationdate="20171218T084005Z">
-        <seg>Ladattavana: {0}</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T141106Z" creationid="PiaVee" creationdate="20171218T084005Z">
+        <seg>Latautumassa: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -32275,6 +32315,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start a new paragraph on</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T140847Z" creationid="pia" creationdate="20221114T140847Z">
+        <seg>Merkki, joka aloittaa uuden kappaleen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new paragraph on Word soft-returns</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T140736Z" creationid="pia" creationdate="20221114T140736Z">
+        <seg>Wordin pehmeä rivinvaihto aloittaa uuden kappaleen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start a new paragraph on:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190913T100007Z" creationid="piav" creationdate="20190913T100007Z">
@@ -32989,8 +33045,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Tagwipe finished, reloading project...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T093055Z" creationid="piav" creationdate="20191211T093055Z">
-        <seg>Tagwipe on valmis, projekti ladataan uudestaan…</seg>
+      <tuv lang="fi" changeid="pia" changedate="20221114T141213Z" creationid="piav" creationdate="20191211T093055Z">
+        <seg>Tagwipe on valmis, projekti latautuu uudestaan…</seg>
       </tuv>
     </tu>
     <tu>
@@ -33530,6 +33586,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171220T111914Z" creationid="PiaVee" creationdate="20171220T111914Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;-ratkaisu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T140902Z" creationid="pia" creationdate="20221114T140902Z">
+        <seg>Segmentoinnissa kappaleen vaihdon merkkinä käytetään HTML-tägiä &lt;br&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35796,6 +35860,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The selected attributes will appear as translatable segments in the &lt;g0&gt;Editor&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T140844Z" creationid="pia" creationdate="20221114T140844Z">
+        <seg>Valitut attribuutit näkyvät käännettävinä segmentteinä &lt;g0&gt;Editori&lt;/g0&gt;-ikkunassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T105724Z" creationid="piav" creationdate="20191208T105724Z">
@@ -37598,6 +37670,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option is convenient when dealing with HTML parts that only contain non translatable text.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T141444Z" creationid="pia" creationdate="20221114T141444Z">
+        <seg>Tästä valinnasta on hyötyä silloin, kun käsiteltävänä on HTML-kielisiä osuuksia, joissa ei ole lainkaan käännettävää tekstiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option is useful for some Chinese, Japanese or Korean character input systems.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T120222Z" creationid="piav" creationdate="20191023T120222Z">
@@ -38849,6 +38929,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T113158Z" creationid="piav" creationdate="20191202T113158Z">
         <seg>Käännä tiedosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate the following attributes</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20221114T140818Z" creationid="pia" creationdate="20221114T140818Z">
+        <seg>Käännä seuraavat attribuutit:</seg>
       </tuv>
     </tu>
     <tu>
