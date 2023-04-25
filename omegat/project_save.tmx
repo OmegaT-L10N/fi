@@ -8930,6 +8930,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check whether this is intentional.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T124620Z" creationid="piav" creationdate="20230425T124620Z">
+        <seg>Tarkista, onko tämä tarkoituksellista vai vahinko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check whether your repository has correct commits and files.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221110T134814Z" creationid="pia" creationdate="20221110T133853Z">
@@ -37580,6 +37588,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are no Git settings in the remote project file.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T124553Z" creationid="piav" creationdate="20230425T124553Z">
+        <seg>Etäprojektitiedostossa ei ole git-asetuksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are no local working copies in {0}.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20170930T060407Z" creationid="PiaVee" creationdate="20170930T060407Z">
@@ -40552,6 +40568,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to create the translated files due to missing or damaged tags.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T124359Z" creationid="piav" creationdate="20230425T124359Z">
+        <seg>Käännettyjä tiedostoja ei voitu luoda, sillä niissä oli puuttuvia tai viallisia tägejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to download team project!</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T132457Z" creationid="piav" creationdate="20190521T132457Z">
@@ -41305,6 +41329,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T073234Z" creationid="piav" creationdate="20191023T063932Z">
         <seg>Käytä lähdetekstissä olevia yksittäisiä termejä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T124529Z" creationid="piav" creationdate="20230425T124529Z">
+        <seg>Korjaa tägivirheet kohdassa Työkalut &gt; Tarkista ongelmakohdat… ja yritä sitten uudelleen.</seg>
       </tuv>
     </tu>
     <tu>
