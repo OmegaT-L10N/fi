@@ -2184,6 +2184,16 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=[console mode name] &lt;project path&gt; &lt;mode options&gt;
+	  Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T112253Z" creationid="piav" creationdate="20230425T112253Z">
+        <seg>--mode=[konsolitilan nimi]
+	  Ota käyttöön muu kuin oletusmuotoinen graafinen käyttöliittymä (GUI).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
@@ -2214,10 +2224,34 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    The folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T112347Z" creationid="piav" creationdate="20230425T112347Z">
+        <seg>--mode=console-align
+	--alignDir=&lt;polku&gt;
+	    Hakemisto, jossa käännetyt tiedostot ovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T130423Z" creationid="piav" creationdate="20191201T130423Z">
         <seg>--mode=console-createpseudotranslatetmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path&gt;
+	    The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T112312Z" creationid="piav" creationdate="20230425T112312Z">
+        <seg>--mode=console-pseudotranslatetmx
+	--pseudotranslatetmx=&lt;polku&gt;
+	  Pseudokäännetyn TMX-tiedoston sijainti</seg>
       </tuv>
     </tu>
     <tu>
@@ -2230,6 +2264,21 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
         <seg>--mode=console-pseudotranslatetmx
 	--pseudotranslatetmx=&lt;polku&gt;
 	  Tuottaa pseudokäännetyn TMX-tiedoston</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats
+	  --output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T112519Z" creationid="piav" creationdate="20230425T112519Z">
+        <seg>--mode=console-stats
+	  project_path
+	    Projektipolku
+	  --output-file=[tilastotiedosto]
+	    Tulostaa tilaston kyseiseen tiedostoon. Jos tilastoa ei ole annettu, tulostaa tilastotiedot stdput-tulosteeseen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2313,6 +2362,16 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T154644Z" creationid="piav" creationdate="20221102T154644Z">
         <seg>-pseudotranslatetype=[equal|empty]
+	    Millä pseudokäännetty TMX täytetään</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    What to put in the pseudotranslated TMX.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T112337Z" creationid="piav" creationdate="20230425T112337Z">
+        <seg>--pseudotranslatetype=[equal|empty]
 	    Millä pseudokäännetty TMX täytetään</seg>
       </tuv>
     </tu>
