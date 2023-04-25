@@ -22371,6 +22371,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Main Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T133450Z" creationid="piav" creationdate="20230425T133418Z">
+        <seg>Ykköskäännösmuisti (&amp;Y)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Main Window - counters</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T114159Z" creationid="piav" creationdate="20191208T114159Z">
@@ -29199,6 +29207,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reference T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T133434Z" creationid="piav" creationdate="20230425T133434Z">
+        <seg>Apukäännösmuistit (&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>References:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T115946Z" creationid="piav" creationdate="20190920T115946Z">
@@ -30707,8 +30723,8 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065344Z" creationid="piav" creationdate="20190521T134953Z">
-        <seg>Välilyönti vastaa nbsp:tä</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T133405Z" creationid="piav" creationdate="20190521T134953Z">
+        <seg>Välilyönti vastaa nbsp:tä (&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31069,6 +31085,16 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T105529Z" creationid="piav" creationdate="20190527T105529Z">
         <seg>Schematron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scope:
+Searches apply to the project and cover its source and target text, reference TMs, glossaries, notes, and comments by default.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T133633Z" creationid="piav" creationdate="20230425T133633Z">
+        <seg>Laajuus:
+Haut ovat projektikohtaisia, ja ne etsivät projektin lähde- ja kohdetksteistä, apukäännösmuisteista, sanastoista, muistiinpanoista ja kommenteista.</seg>
       </tuv>
     </tu>
     <tu>
