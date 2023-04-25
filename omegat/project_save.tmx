@@ -878,8 +878,8 @@
       <tuv lang="en">
         <seg>&amp;Go To</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065108Z" creationid="PiaVee" creationdate="20171015T110428Z">
-        <seg>Siirry</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T121810Z" creationid="PiaVee" creationdate="20171015T110428Z">
+        <seg>Siirry (&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1134,8 +1134,8 @@
       <tuv lang="en">
         <seg>&amp;Next Segment</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065110Z" creationid="PiaVee" creationdate="20171015T110431Z">
-        <seg>Seuraavaan segmenttiin</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T121836Z" creationid="PiaVee" creationdate="20171015T110431Z">
+        <seg>Seuraavaan segmenttiin (&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1214,8 +1214,8 @@
       <tuv lang="en">
         <seg>&amp;Previous Segment</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065117Z" creationid="PiaVee" creationdate="20171015T110538Z">
-        <seg>Edelliseen segmenttiin</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T121840Z" creationid="PiaVee" creationdate="20171015T110538Z">
+        <seg>Edelliseen segmenttiin (&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10159,6 +10159,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T120903Z" creationid="piav" creationdate="20230425T120239Z">
         <seg>Luo käännetyt tiedostot (&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create A&amp;lternative Translation</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T121731Z" creationid="piav" creationdate="20230425T121731Z">
+        <seg>Luo vaihtoehtoinen käännös (&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21193,8 +21201,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T121552Z" creationid="piav" creationdate="20230425T121552Z">
-        <seg>Upotusmerkki vasemmalta oikealle (LRE U+202&amp;A)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T121641Z" creationid="piav" creationdate="20230425T121552Z">
+        <seg>Upotus vasemmalta oikealle -merkki (LRE U+202&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23409,24 +23417,24 @@ Apit-kansioon.</seg>
       <tuv lang="en">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065116Z" creationid="PiaVee" creationdate="20171015T110530Z">
-        <seg>Seuraavaan käännettyyn segmenttiin</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T121832Z" creationid="PiaVee" creationdate="20171015T110530Z">
+        <seg>Seuraavaan käännettyyn segmenttiin (&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Next &amp;Untranslated Segment</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190521T171607Z" creationid="PiaVee" creationdate="20171015T110522Z">
-        <seg>Seuraavaan k&amp;ääntämättömään segmenttiin</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T121827Z" creationid="PiaVee" creationdate="20171015T110522Z">
+        <seg>Seuraavaan kääntämättömään segmenttiin (&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Next N&amp;ote</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065113Z" creationid="PiaVee" creationdate="20171015T110510Z">
-        <seg>Seuraavaan muistiinpanoon</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T121843Z" creationid="PiaVee" creationdate="20171015T110510Z">
+        <seg>Seuraavaan muistiinpanoon (&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27336,6 +27344,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pop Directional Formatting (PDF U+202&amp;C)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T121708Z" creationid="piav" creationdate="20230425T121708Z">
+        <seg>Suuntaa kääntävä ohjausmerkki (PDF U-202&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pop Directional Formatting (PDF U+202C)</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T110422Z" creationid="PiaVee" creationdate="20171015T110422Z">
@@ -27380,6 +27396,14 @@ onko sinun tehtävä vielä muuta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T180232Z" creationid="piav" creationdate="20191210T180232Z">
         <seg>Tehokkaat työkalut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pre&amp;vious Note</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T121851Z" creationid="piav" creationdate="20230425T121851Z">
+        <seg>Edelliseen muistiinpanoon (&amp;V)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28618,6 +28642,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Register I&amp;dentical Translation</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T121749Z" creationid="piav" creationdate="20230425T121749Z">
+        <seg>Kirjaa sama käännös (&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T103903Z" creationid="PiaVee" creationdate="20171015T103831Z">
@@ -28774,6 +28806,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T140511Z" creationid="piav" creationdate="20190920T140511Z">
         <seg>Poista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remo&amp;ve Translation</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T121743Z" creationid="piav" creationdate="20230425T121743Z">
+        <seg>Poista käännös (&amp;V)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29712,6 +29752,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T113703Z" creationid="piav" creationdate="20191023T113703Z">
         <seg>Napsauta alleviivattua sanaa hiiren kakkospainikkeella (yllä olevassa kuvassa sana Artund) ja valitse oikea korjaus pudotusvalikosta (esimerkissä Art und).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-to-Left Embedding (RLE U+202&amp;B)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T121651Z" creationid="piav" creationdate="20230425T121607Z">
+        <seg>Upotus oikealta vasemmalle -merkki (RLE U+202&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40942,6 +40990,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T114802Z" creationid="piav" creationdate="20191128T114430Z">
         <seg>Lisää käännettävät tiedostot SVN- tai Git-asiakasohjelmassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use as Default Translati&amp;on</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T121722Z" creationid="piav" creationdate="20230425T121722Z">
+        <seg>Käytä oletuskäännöksenä (&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
