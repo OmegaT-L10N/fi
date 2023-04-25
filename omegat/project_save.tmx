@@ -11693,6 +11693,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displa&amp;y Whitespace</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T122527Z" creationid="piav" creationdate="20230425T122527Z">
+        <seg>Näytä tyhjätilamerkit (&amp;Y)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065504Z" creationid="piav" creationdate="20190522T065113Z">
@@ -11705,6 +11713,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T073808Z" creationid="piav" creationdate="20190522T073808Z">
         <seg>Näyttötapa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Bidi Control Characters</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T122603Z" creationid="piav" creationdate="20230425T122603Z">
+        <seg>Näytä kaksisuuntaisen tekstin ohjausmerkit (&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11735,7 +11751,7 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T122405Z" creationid="piav" creationdate="20190916T141027Z">
+      <tuv lang="fi" changeid="piav" changedate="20230425T122508Z" creationid="piav" creationdate="20190916T141027Z">
         <seg>Näytä lähdesegmentit (&amp;S)</seg>
       </tuv>
     </tu>
@@ -16228,8 +16244,8 @@ lopullisesti.</seg>
       <tuv lang="en">
         <seg>Highlight &amp;Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T122015Z" creationid="piav" creationdate="20230425T122015Z">
-        <seg>fzzMerkitse automaattisesti täytetyt segmentit</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T122611Z" creationid="piav" creationdate="20230425T122015Z">
+        <seg>Väritä automaattisesti täytetyt segmentit (&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22193,6 +22209,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark &amp;Language Checker Issues</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T122636Z" creationid="piav" creationdate="20230425T122636Z">
+        <seg>Merkitse kielentarkistimen löydökset (&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark &amp;Non-breakable Spaces</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T184224Z" creationid="piav" creationdate="20190916T141143Z">
@@ -22245,6 +22269,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T063638Z" creationid="piav" creationdate="20191023T063638Z">
         <seg>Merkitse kaksisuuntaisen algoritmin kontrollimerkit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Gl&amp;ossary Matches</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T122617Z" creationid="piav" creationdate="20230425T122617Z">
+        <seg>Merkitse sanasto-osumat (&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41022,6 +41054,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T133419Z" creationid="piav" creationdate="20191202T133419Z">
         <seg>Näppäinyhdistelmällä &lt;k0&gt; &lt;k1&gt;vaihto&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; voit kiertää näiden neljän vaihtoehdon välillä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T122904Z" creationid="piav" creationdate="20230425T122904Z">
+        <seg>Aktiivinen fontin varmistus (&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
