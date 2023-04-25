@@ -558,8 +558,8 @@
       <tuv lang="en">
         <seg>&amp;Cancel</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T064939Z" creationid="PiaVee" creationdate="20171015T094303Z">
-        <seg>Peruuta</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120620Z" creationid="PiaVee" creationdate="20171015T094303Z">
+        <seg>Peruuta (&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -582,8 +582,8 @@
       <tuv lang="en">
         <seg>&amp;Close</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T064940Z" creationid="PiaVee" creationdate="20171015T094306Z">
-        <seg>Sulje</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120626Z" creationid="PiaVee" creationdate="20171015T094306Z">
+        <seg>Sulje (&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -616,6 +616,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065041Z" creationid="PiaVee" creationdate="20171015T102804Z">
         <seg>Nykyinen lähdeasiakirja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Current Source File</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120524Z" creationid="piav" creationdate="20230425T120524Z">
+        <seg>Nykyinen lähdetiedosto</seg>
       </tuv>
     </tu>
     <tu>
@@ -764,6 +772,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Exported TMs</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120517Z" creationid="piav" creationdate="20230425T120517Z">
+        <seg>Viedyt käännösmuistit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;File</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190919T132546Z" creationid="piav" creationdate="20190919T132541Z">
@@ -782,8 +798,8 @@
       <tuv lang="en">
         <seg>&amp;Filter</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T064942Z" creationid="PiaVee" creationdate="20171015T094308Z">
-        <seg>Suodatin</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120637Z" creationid="PiaVee" creationdate="20171015T094308Z">
+        <seg>Suodatin (&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1134,8 +1150,8 @@
       <tuv lang="en">
         <seg>&amp;OK</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T064938Z" creationid="PiaVee" creationdate="20171015T094259Z">
-        <seg>OK</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120614Z" creationid="PiaVee" creationdate="20171015T094259Z">
+        <seg>&amp;OK</seg>
       </tuv>
     </tu>
     <tu>
@@ -1398,8 +1414,8 @@
       <tuv lang="en">
         <seg>&amp;Search</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T064950Z" creationid="PiaVee" creationdate="20171015T094411Z">
-        <seg>Etsi</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120631Z" creationid="PiaVee" creationdate="20171015T094411Z">
+        <seg>Etsi (&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1672,6 +1688,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065502Z" creationid="PiaVee" creationdate="20171015T111121Z">
         <seg>Näkymä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Writable Glossary</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120534Z" creationid="piav" creationdate="20230425T120534Z">
+        <seg>Kirjoituskelpoinen sanasto</seg>
       </tuv>
     </tu>
     <tu>
@@ -7957,6 +7981,14 @@ bittiavaruus.</seg>
         <seg>C&amp;urrent Target Document</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065042Z" creationid="PiaVee" creationdate="20171015T102820Z">
+        <seg>Nykyinen kohdetiedosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C&amp;urrent Target File</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120529Z" creationid="piav" creationdate="20230425T120529Z">
         <seg>Nykyinen kohdetiedosto</seg>
       </tuv>
     </tu>
@@ -26457,6 +26489,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>P&amp;roject Folder</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120508Z" creationid="piav" creationdate="20230425T120508Z">
+        <seg>Projektikansio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PDF Input</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190523T172030Z" creationid="piav" creationdate="20190523T172030Z">
@@ -30282,6 +30322,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T170733Z" creationid="piav" creationdate="20191210T170537Z">
         <seg>Komento- ja toimintosarjojen avulla sinun on mahdollista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Se&amp;lect Source Text</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120546Z" creationid="piav" creationdate="20230425T120546Z">
+        <seg>fzzLisää lähdeteksti</seg>
       </tuv>
     </tu>
     <tu>
