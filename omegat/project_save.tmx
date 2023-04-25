@@ -5082,6 +5082,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A language pattern that matches the source language of the project will apply to that project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T132155Z" creationid="piav" creationdate="20230425T132155Z">
+        <seg>Projektissa käytetään sääntöjä, jotka vastaavat projektin lähdekielen kielikuviota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A link to the support page.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221109T171025Z" creationid="pia" creationdate="20221109T171025Z">
@@ -40898,6 +40906,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T092553Z" creationid="piav" creationdate="20191211T092553Z">
         <seg>Twitter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Two regular expressions are required to define that position: a “before” expression to define the text pattern ahead of where the rule should apply, and an “after” expression to define the text pattern following that position.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T132034Z" creationid="piav" creationdate="20230425T132034Z">
+        <seg>Tässä tarvitaan kahta säännöllistä lauseketta: Ensimmäinen lauseke määrittelee tekstikuvion ENNEN kohtaa, jossa käytetään tiettyä sääntöä, ja toinen lauseke määrittelee tekstikuvion tämän kohdan JÄLKEEN.</seg>
       </tuv>
     </tu>
     <tu>
