@@ -42523,6 +42523,14 @@ Nykyinen asetus on {0} MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access this tool.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T142826Z" creationid="piav" creationdate="20230425T142826Z">
+        <seg>fzzPääset tähän valikkoon valitsemalla &lt;m0&gt;&lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;Komentosarjat…&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T122904Z" creationid="piav" creationdate="20230425T122904Z">
