@@ -26365,6 +26365,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT's main purpose is to help you create a good translation the fastest possible by giving you access to your translation ressources in the most reliable way possible.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T142248Z" creationid="piav" creationdate="20230425T141927Z">
+        <seg>OmegaT antaa käyttöösi käännösresursseja nopeasti ja luotettavasti, jotta sinä voit laatia hyviä käännöksiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T114212Z" creationid="piav" creationdate="20191202T114212Z">
@@ -39245,8 +39253,8 @@ palvelimelta.</seg>
       <tuv lang="en">
         <seg>This document is the official user manual to OmegaT, the free Computer-Assisted Translation tool.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T141920Z" creationid="piav" creationdate="20230425T141920Z">
-        <seg>Olet löytänyt tiesi virallisen OmegaT-käsikirjan äärelle, tervetuloa!</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T141942Z" creationid="piav" creationdate="20230425T141920Z">
+        <seg>Olet löytänyt tiesi virallisen OmegaT-käsikirjan äärelle, tervetuloa! OmegaT on vapaa työkalu tietokoneavusteista kääntämistä varten.</seg>
       </tuv>
     </tu>
     <tu>
