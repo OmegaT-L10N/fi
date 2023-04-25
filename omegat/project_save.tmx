@@ -2014,11 +2014,11 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
 	- use your file manager to copy files to the 'source' folder,
 	  and then use Project &gt; Reload to reload the project.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T114821Z" creationid="piav" creationdate="20230425T114239Z">
-        <seg>- raahamalla ja pudottamalla tiedostoja editoriruutuun
-- kohdassa Projekti &gt; Kopioi tiedostoja lähdekansioon...
-- kohdassa Projekti &gt; Projektin tiedostot... (napsauta kohtaa Kopioi tiedostoja lähdekansioon…)
-- tiedostonhallintaohjelmassa: kopioi tiedostoja projektin /source-kansioon ja lataa projekti uudelleen (Projekti &gt; Lataa uudelleen).
+      <tuv lang="fi" changeid="piav" changedate="20230425T114915Z" creationid="piav" creationdate="20230425T114239Z">
+        <seg>– raahamalla ja pudottamalla tiedostoja editoriruutuun
+– kohdassa Projekti &gt; Kopioi tiedostoja lähdekansioon...
+– kohdassa Projekti &gt; Projektin tiedostot... (napsauta kohtaa Kopioi tiedostoja lähdekansioon…)
+– tiedostonhallintaohjelmassa: kopioi tiedostoja projektin /source-kansioon ja lataa projekti uudelleen (Projekti &gt; Lataa uudelleen).
 </seg>
       </tuv>
     </tu>
@@ -2028,6 +2028,22 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171220T115759Z" creationid="PiaVee" creationdate="20171220T115010Z">
         <seg>Tämä koskee tiedostoja, joiden tiedostotunnisteena on &lt;f0&gt;.txt&lt;/f0&gt;: Valitse valikko Asetukset &gt; Tiedostosuodattimet &gt; valintaikkunan Tiedostomuodot-listalta &lt;e1&gt;Teksti&lt;/e1&gt;. Paina Muokkaa-painiketta, jolloin avautuu uusi ikkuna. Valitse &lt;e2&gt;Lähdetiedostojen merkistökoodaus&lt;/e2&gt; -kohdan pudotusvalikosta lähde-&lt;f3&gt;.txt&lt;/f3&gt;tiedostoon sopiva merkistökoodaus – edellä mainitussa tapauksessa &lt;auto&gt; vaihdetaan vaikkapa ISO-2022-JP-merkistökoodaukseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
+	  if per-project filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T115820Z" creationid="piav" creationdate="20230425T114904Z">
+        <seg>– tarkista, että OmegaT tukee niiden muotoa
+	  joko kohdassa Projekti &gt; Ominaisuudet... &gt; Paikalliset tiedostosuodattimet...
+	  (kun suodatinasetukset ovat projektikohtaisia)
+	  tai kohdassa Asetukset &gt; Yleiset tiedostosuodattimet...;
+	– avaa tiedostot alkuperäissovelluksessaan ja tarkista, että ne eivät ole tyhjiä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17278,8 +17294,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If the project contains files but their content is not displayed here:</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T114847Z" creationid="piav" creationdate="20230425T114352Z">
-        <seg>Jos projektissa on tiedostoja, mutta niiden sisältö ei näy tässä:</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T114931Z" creationid="piav" creationdate="20230425T114352Z">
+        <seg>Jos projektissa on tiedostoja, mutta niiden sisältö ei näy tässä,</seg>
       </tuv>
     </tu>
     <tu>
