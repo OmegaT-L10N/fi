@@ -492,6 +492,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Auto-propagation of translations</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125807Z" creationid="piav" creationdate="20230425T125740Z">
+        <seg>Automaattiset käännösehdotukset (&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Automatically Fetch Translations</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T141730Z" creationid="piav" creationdate="20190916T141730Z">
@@ -7218,6 +7226,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T112043Z" creationid="piav" creationdate="20191127T111601Z">
         <seg>Käytä käännösehdotuksia automaattisesti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-propagation of translations</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125802Z" creationid="piav" creationdate="20230425T125802Z">
+        <seg>Automaattiset käännösehdotukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -33137,6 +33153,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files language:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125552Z" creationid="piav" creationdate="20230425T125552Z">
+        <seg>Lähdetiedostojen kieli:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T124847Z" creationid="piav" creationdate="20230425T124847Z">
@@ -33149,6 +33173,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T120657Z" creationid="piav" creationdate="20190920T120657Z">
         <seg>Lähdekansiota {0} ei ole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source language tokenizer:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125605Z" creationid="piav" creationdate="20230425T125605Z">
+        <seg>Lähdekielen saneistin:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34319,6 +34351,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T120708Z" creationid="piav" creationdate="20190920T120708Z">
         <seg>Kohdekansiota {0} ei ole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target language tokenizer:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125608Z" creationid="piav" creationdate="20230425T125608Z">
+        <seg>Kohdekielen saneistin:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40298,6 +40338,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T125510Z" creationid="piav" creationdate="20230425T125510Z">
         <seg>Käännettyjen tiedostojen kansio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files language:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125558Z" creationid="piav" creationdate="20230425T125558Z">
+        <seg>Käännettyjen tiedostojen kieli:</seg>
       </tuv>
     </tu>
     <tu>
