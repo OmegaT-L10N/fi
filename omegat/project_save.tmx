@@ -10619,6 +10619,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating translated files: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T124954Z" creationid="piav" creationdate="20230425T124954Z">
+        <seg>Luomassa käännettyjä tiedostoja: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creation date</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T081545Z" creationid="piav" creationdate="20190522T081545Z">
@@ -13527,6 +13535,14 @@ kukaan ei kuule.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error starting post-processing commands: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125137Z" creationid="piav" creationdate="20230425T125137Z">
+        <seg>Ulkoisten jälkikäsittelykomentojen käynnistämisessä tapahtui virhe: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191212T055849Z" creationid="piav" creationdate="20190523T170510Z">
@@ -13911,6 +13927,14 @@ Virheilmoitus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190523T094508Z" creationid="PiaVee" creationdate="20171218T085622Z">
         <seg>Suoritetaan ulkoinen komento…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Executing post-processing commands...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125040Z" creationid="piav" creationdate="20230425T125040Z">
+        <seg>Ulkoiset jälkikäsittelykomennot käynnissä…</seg>
       </tuv>
     </tu>
     <tu>
@@ -27707,6 +27731,22 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Post-processing commands completed.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125201Z" creationid="piav" creationdate="20230425T125201Z">
+        <seg>Ulkoiset jälkikäsittelykomennot suoritettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands failed.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125227Z" creationid="piav" creationdate="20230425T125227Z">
+        <seg>Ulkoiset jälkikäsittelykomennot eivät onnistuneet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Power Point</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T171406Z" creationid="piav" creationdate="20190527T171406Z">
@@ -40149,6 +40189,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated file created</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125021Z" creationid="piav" creationdate="20230425T125021Z">
+        <seg>Käännetty tiedosto on luotu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
@@ -40162,6 +40210,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T120433Z" creationid="piav" creationdate="20191030T120433Z">
         <seg>Käännetty tiedoston nimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files created</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125011Z" creationid="piav" creationdate="20230425T125011Z">
+        <seg>Käännetyt tiedostot on luotu</seg>
       </tuv>
     </tu>
     <tu>
