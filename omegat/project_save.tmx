@@ -2273,12 +2273,11 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
 	    Prints to the specified file, or to standard output
 	    if no file is given or the option is not used.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T112942Z" creationid="piav" creationdate="20230425T112519Z">
+      <tuv lang="fi" changeid="piav" changedate="20230425T113022Z" creationid="piav" creationdate="20230425T112519Z">
         <seg>--mode=console-stats
 	  --output-file=[tilastotiedosto]
 	    Tulosta tilastotiedot mainittuun tiedostoon.
-Jos tiedostoa ei ole nimetty, tilastotiedot tulostetaan standardivirtaan (stdout-tulosteeseen.Prints to the specified tiedosto, or to vakio tuotos
-	    if ei tiedosto is given or the option is not used.</seg>
+	    Jos tiedostoa ei ole nimetty, tilastotiedot tulostetaan standardivirtaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2486,6 +2485,16 @@ Jos tiedostoa ei ole nimetty, tilastotiedot tulostetaan standardivirtaan (stdout
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T155124Z" creationid="piav" creationdate="20221102T155124Z">
         <seg>--stats-type=[xml|text][txt][json]]]
+	    Määrittelee tuotoksen muodon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--stats-type=[xml|text|txt|json]
+	    Specifies the output format.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T112945Z" creationid="piav" creationdate="20230425T112945Z">
+        <seg>fzz--stats-type=[xml|text][txt][json]]]
 	    Määrittelee tuotoksen muodon.</seg>
       </tuv>
     </tu>
