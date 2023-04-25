@@ -11277,6 +11277,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Customize the processed source filename patterns, the translated file names and their respective encodings.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130742Z" creationid="piav" creationdate="20230425T130742Z">
+        <seg>Muokkaa lähdetiedoston ja käännetyn tiedoston nimien muotoja, joita käsitellään, sekä niiden merkistökoodauksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cut</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T141714Z" creationid="piav" creationdate="20190916T141714Z">
@@ -12273,6 +12281,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T124743Z" creationid="PiaVee" creationdate="20171015T124743Z">
         <seg>Haluatko todella lopettaa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you really want to remove pattern {0}?</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130533Z" creationid="piav" creationdate="20230425T130533Z">
+        <seg>Haluatko todella poistaa kuvion {0}?</seg>
       </tuv>
     </tu>
     <tu>
@@ -14007,6 +14023,14 @@ Virheilmoitus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T142413Z" creationid="piav" creationdate="20190521T142413Z">
         <seg>Älä sisällytä yksinäisiä segmenttejä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exclude pattern</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130504Z" creationid="piav" creationdate="20230425T130454Z">
+        <seg>Älä sisällytä kuviota</seg>
       </tuv>
     </tu>
     <tu>
@@ -19412,6 +19436,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include pattern</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130512Z" creationid="piav" creationdate="20230425T130512Z">
+        <seg>Sisällytä kuvio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T123043Z" creationid="piav" creationdate="20190522T084623Z">
@@ -22484,6 +22516,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221110T134621Z" creationid="piav" creationdate="20190521T132754Z">
+        <seg>Paikallisten kansioiden yhdistäminen tietovarastojen etäkansioihin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping of local folders to remote folders in repositories</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130438Z" creationid="piav" creationdate="20230425T130438Z">
         <seg>Paikallisten kansioiden yhdistäminen tietovarastojen etäkansioihin</seg>
       </tuv>
     </tu>
@@ -29397,6 +29437,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote file/folder</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130441Z" creationid="piav" creationdate="20230425T130441Z">
+        <seg>Etätiedosto/etäkansio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote location of the files to translate.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T121316Z" creationid="piav" creationdate="20191128T121153Z">
@@ -29417,6 +29465,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220906T180559Z" creationid="piav" creationdate="20220906T180559Z">
         <seg>Etäprojektin tiedostossa ei ole git-asetusta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote repositories</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130430Z" creationid="piav" creationdate="20230425T130430Z">
+        <seg>Etävarastot</seg>
       </tuv>
     </tu>
     <tu>
@@ -29585,6 +29641,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T093307Z" creationid="PiaVee" creationdate="20171014T093307Z">
         <seg>Poista muistisäännöt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove pattern</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130539Z" creationid="piav" creationdate="20230425T130539Z">
+        <seg>Poista kuvio</seg>
       </tuv>
     </tu>
     <tu>
@@ -40434,6 +40498,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T120433Z" creationid="piav" creationdate="20191030T120433Z">
         <seg>Käännetty tiedoston nimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated filename pattern</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130520Z" creationid="piav" creationdate="20230425T130520Z">
+        <seg>Käännetyn tiedoston nimen muoto</seg>
       </tuv>
     </tu>
     <tu>
