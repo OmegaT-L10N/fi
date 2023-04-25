@@ -502,8 +502,8 @@
       <tuv lang="en">
         <seg>&amp;Back in History</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065125Z" creationid="PiaVee" creationdate="20171015T110620Z">
-        <seg>Siirry historiassa taaksepäin</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T121933Z" creationid="PiaVee" creationdate="20171015T110620Z">
+        <seg>Historiassa taaksepäin (&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -854,8 +854,8 @@
       <tuv lang="en">
         <seg>&amp;Forward in History</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065122Z" creationid="PiaVee" creationdate="20171015T110607Z">
-        <seg>Siirry historiassa eteenpäin</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T121941Z" creationid="PiaVee" creationdate="20171015T110607Z">
+        <seg>Historiassa eteenpäin (&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1136,6 +1136,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T121836Z" creationid="PiaVee" creationdate="20171015T110431Z">
         <seg>Seuraavaan segmenttiin (&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Next Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T122123Z" creationid="piav" creationdate="20230425T122123Z">
+        <seg>Seuraavaan tm/auto/-segmenttiin (&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1446,8 +1454,8 @@
       <tuv lang="en">
         <seg>&amp;Segment Number...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065120Z" creationid="PiaVee" creationdate="20171015T110554Z">
-        <seg>Segmentin nro…</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T121859Z" creationid="PiaVee" creationdate="20171015T110554Z">
+        <seg>Segmenttiin nro… (&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7074,6 +7082,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T122446Z" creationid="PiaVee" creationdate="20171015T122446Z">
         <seg>Automaattinen täydennys</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-Popu&amp;lated Segments</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T122039Z" creationid="piav" creationdate="20230425T122009Z">
+        <seg>Automaattisesti täydennetyt segmentit (&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16186,6 +16202,14 @@ lopullisesti.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T122015Z" creationid="piav" creationdate="20230425T122015Z">
+        <seg>fzzMerkitse automaattisesti täytetyt segmentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight Pattern...</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T105612Z" creationid="piav" creationdate="20190913T102135Z">
@@ -23481,8 +23505,8 @@ Apit-kansioon.</seg>
       <tuv lang="en">
         <seg>Next Uni&amp;que Segment</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065144Z" creationid="PiaVee" creationdate="20171015T110831Z">
-        <seg>Seuraavaan uniikkiin segmenttiin</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T121904Z" creationid="PiaVee" creationdate="20171015T110831Z">
+        <seg>Seuraavaan uniikkiin segmenttiin (&amp;Q)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32656,8 +32680,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Source of Selected &amp;Match</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065135Z" creationid="PiaVee" creationdate="20171015T110823Z">
-        <seg>Valitun osuman lähteeseen</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T121909Z" creationid="PiaVee" creationdate="20171015T110823Z">
+        <seg>Valitun osuman lähteeseen (&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
