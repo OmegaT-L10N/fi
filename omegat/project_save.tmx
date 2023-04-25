@@ -29317,6 +29317,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expressions use a combination of letters, digits, and symbols (collectively known as &lt;e0&gt;characters&lt;/e0&gt;) to define an &lt;e1&gt;expression&lt;/e1&gt; that represents a specific text pattern.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T131749Z" creationid="piav" creationdate="20230425T131749Z">
+        <seg>Säännöllisissä lausekkeissa käytetään &lt;e0&gt;merkkien&lt;/e0&gt; eli kirjainten, numeroiden ja symbolien yhdistelmiä kuvaamaan &lt;e1&gt;ilmausta&lt;/e1&gt;, joka vastaa tiettyä tekstikuviota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reload</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T131757Z" creationid="piav" creationdate="20190920T131757Z">
@@ -31829,6 +31837,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T125735Z" creationid="piav" creationdate="20191030T125735Z">
         <seg>Segmentointisäännöt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segmentation rules and language patterns are defined with regular expressions.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T131838Z" creationid="piav" creationdate="20230425T131838Z">
+        <seg>Eri segmentointisäännöt ja kielikuviot määritellään käyttämällä säännöllisiä lausekkeita.</seg>
       </tuv>
     </tu>
     <tu>
