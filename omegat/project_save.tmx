@@ -5482,6 +5482,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add MediaWiki Pa&amp;ge...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120040Z" creationid="piav" creationdate="20230425T120040Z">
+        <seg>Lisää MediaWiki-sivu…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120047Z" creationid="piav" creationdate="20230425T120047Z">
+        <seg>Lisää MediaWiki-sivu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Pattern</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T105502Z" creationid="piav" creationdate="20190522T083305Z">
@@ -9164,6 +9180,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Co&amp;mmit Source Files</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120226Z" creationid="piav" creationdate="20230425T120123Z">
+        <seg>Vie (commit) lähdetiedostot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Code has been contributed by:
 {0}</seg>
       </tuv>
@@ -9186,6 +9210,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190523T171655Z" creationid="piav" creationdate="20190523T171655Z">
         <seg>Sarakeindeksin on oltava 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comm&amp;it Target Files</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120234Z" creationid="piav" creationdate="20230425T120234Z">
+        <seg>Vie (commit) kohdetiedostot</seg>
       </tuv>
     </tu>
     <tu>
@@ -10059,10 +10091,26 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create &amp;Translated Files</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120239Z" creationid="piav" creationdate="20230425T120239Z">
+        <seg>Luo käännetyt tiedostot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Alternative Translation</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T063024Z" creationid="piav" creationdate="20190919T132434Z">
         <seg>Luo vaihtoehtoinen käännös</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Current Translate&amp;d File</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120243Z" creationid="piav" creationdate="20230425T120243Z">
+        <seg>Luo nykyinen käännetty tiedosto</seg>
       </tuv>
     </tu>
     <tu>
@@ -13987,10 +14035,26 @@ Virheilmoitus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to copy files</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120110Z" creationid="piav" creationdate="20230425T120110Z">
+        <seg>Tiedostojen kopiointi ei onnistunut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to create project!</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171218T084724Z" creationid="PiaVee" creationdate="20171218T084724Z">
         <seg>Projektin luominen ei onnistunut!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to download page</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120056Z" creationid="piav" creationdate="20230425T120056Z">
+        <seg>Sivun luominen ei onnistunut</seg>
       </tuv>
     </tu>
     <tu>
@@ -26744,17 +26808,6 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Place source files in ./source and supplementary
-material in ./tm, ./glossary, and ./dictionary as required, then commit
-everything.</seg>
-      </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T113407Z" creationid="piav" creationdate="20230425T113407Z">
-        <seg>Lisää lähdetiedostot kansioon ./source, apumateriaali kansioihin ./tm, ./glossary ja ./dictionary ja vie (commit) kaikki versionhallintaan.
-</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Place the archive in any suitable folder and unpack it.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T100220Z" creationid="piav" creationdate="20191211T100220Z">
@@ -28217,6 +28270,14 @@ These words: 'Page not found'</seg>
         <seg>Pois netistä, pois
 koneen välimuistista
 katosi sivu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re&amp;load</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120116Z" creationid="piav" creationdate="20230425T120116Z">
+        <seg>Lataa uudelleen</seg>
       </tuv>
     </tu>
     <tu>
@@ -32037,6 +32098,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T080324Z" creationid="piav" creationdate="20191022T080324Z">
         <seg>Lisätty termi "pojavni menu" on nominatiivissa mutta se on muutettava lokatiivimuotoon "pojavnem meniju".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>So&amp;urce Files...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120251Z" creationid="piav" creationdate="20230425T120251Z">
+        <seg>Lähdetiedostot...</seg>
       </tuv>
     </tu>
     <tu>
