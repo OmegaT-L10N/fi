@@ -10113,6 +10113,22 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contribution Guide</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T141522Z" creationid="piav" creationdate="20230425T141448Z">
+        <seg>Apukäsien opas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contribution Guide source text</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T141545Z" creationid="piav" creationdate="20230425T141545Z">
+        <seg>Apukäsien oppaan lähdeteksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T103204Z" creationid="piav" creationdate="20191211T102950Z">
@@ -25978,8 +25994,8 @@ your home folder.</seg>
       <tuv lang="en">
         <seg>OmegaT is supplied with a comprehensive user manual.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T085701Z" creationid="piav" creationdate="20191211T085701Z">
-        <seg>OmegaT:n käsikirja on kattava.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T141326Z" creationid="piav" creationdate="20191211T085701Z">
+        <seg>OmegaT:n mukana saat kattavan käyttäjän käsikirjan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35588,6 +35604,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Contribution Guide source text in the OmegaT repository.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T141606Z" creationid="piav" creationdate="20230425T141558Z">
+        <seg>Apukäsien oppaan lähdeteksti OmegaT-tietovarastossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Déjà Vu "External View" file format is a feature of Déjà Vu DVX.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T161150Z" creationid="PiaVee" creationdate="20171014T154920Z">
@@ -35720,6 +35744,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20200504T142450Z" creationid="pia" creationdate="20200504T142450Z">
         <seg>Mozilla FTL -suodatin aiheutti poikkeuksen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT Contribution Guide.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T141535Z" creationid="piav" creationdate="20230425T141535Z">
+        <seg>OmegaT-projektin apukäsien opas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40415,6 +40447,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To find out how to help, have a look at our documentation for developers:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T141430Z" creationid="piav" creationdate="20230425T141430Z">
+        <seg>Kannattaa aloittaa tutkimalla dokumentaatiota kehittäjille:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T180754Z" creationid="piav" creationdate="20191210T180754Z">
@@ -42791,8 +42831,8 @@ Nykyinen asetus on {0} MB;</seg>
       <tuv lang="en">
         <seg>User manuals</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T141304Z" creationid="PiaVee" creationdate="20171219T093754Z">
-        <seg>Käyttöoppaat</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T141331Z" creationid="PiaVee" creationdate="20171219T093754Z">
+        <seg>Käsikirjat</seg>
       </tuv>
     </tu>
     <tu>
