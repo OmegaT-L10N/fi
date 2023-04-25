@@ -1148,6 +1148,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;None</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123022Z" creationid="piav" creationdate="20230425T122938Z">
+        <seg>(ei lainkaan)  (&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Notes</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065411Z" creationid="piav" creationdate="20190521T180336Z">
@@ -11721,6 +11729,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T122603Z" creationid="piav" creationdate="20230425T122603Z">
         <seg>Näytä kaksisuuntaisen tekstin ohjausmerkit (&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Modification Info</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T122929Z" creationid="piav" creationdate="20230425T122929Z">
+        <seg>Näytä muokkaustiedot (&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
