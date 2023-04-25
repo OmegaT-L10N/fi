@@ -2273,12 +2273,12 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
 	    Prints to the specified file, or to standard output
 	    if no file is given or the option is not used.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T112519Z" creationid="piav" creationdate="20230425T112519Z">
+      <tuv lang="fi" changeid="piav" changedate="20230425T112942Z" creationid="piav" creationdate="20230425T112519Z">
         <seg>--mode=console-stats
-	  project_path
-	    Projektipolku
 	  --output-file=[tilastotiedosto]
-	    Tulostaa tilaston kyseiseen tiedostoon. Jos tilastoa ei ole annettu, tulostaa tilastotiedot stdput-tulosteeseen.</seg>
+	    Tulosta tilastotiedot mainittuun tiedostoon.
+Jos tiedostoa ei ole nimetty, tilastotiedot tulostetaan standardivirtaan (stdout-tulosteeseen.Prints to the specified tiedosto, or to vakio tuotos
+	    if ei tiedosto is given or the option is not used.</seg>
       </tuv>
     </tu>
     <tu>
