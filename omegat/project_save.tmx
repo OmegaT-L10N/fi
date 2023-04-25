@@ -7374,6 +7374,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>B&amp;rowse...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130130Z" creationid="piav" creationdate="20230425T130130Z">
+        <seg>B&amp;rowse... (&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Back in history...</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190913T111508Z" creationid="piav" creationdate="20190913T111508Z">
@@ -7778,10 +7786,26 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Brow&amp;se...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130125Z" creationid="piav" creationdate="20230425T130125Z">
+        <seg>Brow&amp;se... (&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Brows&amp;e</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065334Z" creationid="piav" creationdate="20190521T131716Z">
         <seg>Selaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brows&amp;e...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130138Z" creationid="piav" creationdate="20230425T130138Z">
+        <seg>Brows&amp;e... (&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10403,6 +10427,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create Project Folder</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130227Z" creationid="piav" creationdate="20230425T130227Z">
+        <seg>Luo projektikansio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Translated Documents</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T061939Z" creationid="piav" creationdate="20191023T061939Z">
@@ -11127,6 +11159,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T100425Z" creationid="PiaVee" creationdate="20171015T100425Z">
         <seg>Virtuaalisen koneen tämänhetkinen muistin käyttö: {0} MB, josta vapaata muistia {1} MB. Käytettävissä: {2} MB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current project configuration will be overridden by the remote project configuration.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130407Z" creationid="piav" creationdate="20230425T130407Z">
+        <seg>Etäprojektimääritykset korvaavat nykyiset projektiasetukset.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21897,6 +21937,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local External Searc&amp;hes...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130221Z" creationid="piav" creationdate="20230425T130221Z">
+        <seg>Erityiset ulkoiset haut… (&amp;H)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File &amp;Filters...</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T123721Z" creationid="piav" creationdate="20230425T123721Z">
@@ -28913,6 +28961,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065057Z" creationid="PiaVee" creationdate="20171015T103633Z">
         <seg>Korvaa lähdetekstillä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re&amp;pository Mapping...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130152Z" creationid="piav" creationdate="20230425T130152Z">
+        <seg>Tietovarastojen määritys… (&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36676,6 +36732,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The original file is backed up as: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130424Z" creationid="piav" creationdate="20230425T130424Z">
+        <seg>Alkuperäisestä tiedostosta tallennetaan varmuuskopio: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The original file is saved as backup: {0}</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T153607Z" creationid="piav" creationdate="20221102T153607Z">
@@ -40630,6 +40694,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Trying with backup file</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130339Z" creationid="piav" creationdate="20230425T130339Z">
+        <seg>Yritetään käyttää varmuuskopiota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tsonga</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T082133Z" creationid="PiaVee" creationdate="20171015T082133Z">
@@ -40868,6 +40940,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T132446Z" creationid="piav" creationdate="20190521T132446Z">
         <seg>Projektin muuntaminen ei onnistu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to create a backup file of {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130312Z" creationid="piav" creationdate="20230425T130312Z">
+        <seg>Tiedoston {0} varmuuskopiota ei voi luoda</seg>
       </tuv>
     </tu>
     <tu>
@@ -43351,6 +43431,14 @@ ei enää löydy.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T143939Z" creationid="piav" creationdate="20221102T143939Z">
         <seg>Kirjoituskelpoinen sanasto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130143Z" creationid="piav" creationdate="20230425T130143Z">
+        <seg>Kirjoituskelpoinen sanastotiedosto</seg>
       </tuv>
     </tu>
     <tu>
