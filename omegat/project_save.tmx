@@ -7762,6 +7762,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Break/exception</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T132727Z" creationid="piav" creationdate="20230425T132727Z">
+        <seg>Katkaisu/poikkeus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Breton</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T173732Z" creationid="PiaVee" creationdate="20171014T173732Z">
@@ -24651,6 +24659,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that the &lt;l0&gt;Pattern After&lt;/l0&gt; field can be empty.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T132709Z" creationid="piav" creationdate="20230425T132456Z">
+        <seg>Huomaa, että &lt;l0&gt;Kuvio jälkeen&lt;/l0&gt; voi olla tyhjä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that the TMX files in the tm folder can be compressed with gzip.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T122618Z" creationid="piav" creationdate="20191208T122618Z">
@@ -27343,7 +27359,7 @@ Lähdetään kalaan.</seg>
       <tuv lang="en">
         <seg>Pattern after</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T130959Z" creationid="piav" creationdate="20230425T130820Z">
+      <tuv lang="fi" changeid="piav" changedate="20230425T132658Z" creationid="piav" creationdate="20230425T130820Z">
         <seg>Kuvio jälkeen</seg>
       </tuv>
     </tu>
