@@ -11877,6 +11877,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Directional Formatting Characters</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T134749Z" creationid="piav" creationdate="20230425T134749Z">
+        <seg>fzzSuuntaa kääntävä ohjainmerkki (PDF U-202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Disable a filter by unchecking its box if you prefer not to translate the files that are associated to it.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T080817Z" creationid="pia" creationdate="20221114T080817Z">
@@ -31813,10 +31821,18 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; window for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T134742Z" creationid="piav" creationdate="20230425T134659Z">
+        <seg>Lisätietoja löytyy ikkunasta &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l2/&gt; preferences for details.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T134610Z" creationid="piav" creationdate="20230425T134610Z">
-        <seg>Yksityiskohtia löytyy aista tietoa löytyy kohdasta Asetukset – &lt;l1/&gt;.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T134727Z" creationid="piav" creationdate="20230425T134610Z">
+        <seg>Lisätietoja löytyy asetusvalikosta &lt;l2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
