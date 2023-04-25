@@ -1968,8 +1968,8 @@ Lisää projektitiedostoja napsauttamalla Projektin tiedostot -ikkunan tai Proje
       <tuv lang="en">
         <seg>(Software that does this is called "machine translation".</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T140251Z" creationid="piav" creationdate="20230425T140251Z">
-        <seg>(Sellaista ohjemistoa sanotaan konekääntimeksi.)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T140420Z" creationid="piav" creationdate="20230425T140251Z">
+        <seg>(Sellaista ohjelmistoa sanotaan konekääntimeksi ja niiden tuotosta konekäännökseksi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5032,6 +5032,22 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T161229Z" creationid="PiaVee" creationdate="20171014T155925Z">
         <seg>Käännetty versio External View -tiedostosta luodaan kirjoittamalla käännös kohdesarakkeeseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A &lt;e0&gt;dialog&lt;/e0&gt; requires you to take action and close it before you can go back to translating.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T140705Z" creationid="piav" creationdate="20230425T140705Z">
+        <seg>&lt;e0&gt;Valintaikkuna&lt;/e0&gt; on paikka, jossa käyttäjä pääsee valitsemaan asetuksia, ja joka täytyy sitten sulkea pois käännöstyön tieltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A &lt;e0&gt;window&lt;/e0&gt; can be kept open next to the editor and lets you interact with both.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T140534Z" creationid="piav" creationdate="20230425T140534Z">
+        <seg>Näiden kahden ero on hiuksenhieno: &lt;e0&gt;ikkuna&lt;/e0&gt; on avoinna editorin vieressä ja on vuorovaikutuksessa sen kanssa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43893,6 +43909,14 @@ ei enää löydy.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T113345Z" creationid="piav" creationdate="20191129T113345Z">
         <seg>Windows-käyttäjät</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows and Dialogs</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T140445Z" creationid="piav" creationdate="20230425T140445Z">
+        <seg>Ikkunat ja valintaikkunat</seg>
       </tuv>
     </tu>
     <tu>
