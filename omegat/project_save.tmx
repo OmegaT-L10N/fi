@@ -2014,12 +2014,11 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
 	- use your file manager to copy files to the 'source' folder,
 	  and then use Project &gt; Reload to reload the project.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T114239Z" creationid="piav" creationdate="20230425T114239Z">
-        <seg>fzzVoit lisätä käännettäviä tiedostoja projektiin eri tavoin:
-- raahaa ja pudota tiedostoja editoriruutuun.
-- Valitse Projekti &gt; Kopioi tiedostoja lähdekansioon...
-- Napsauta Projektitiedostot-ikkunassa kohtaa "Kopioi tiedostoja lähdekansioon…"
-- Käytä tiedostonhallintaohjelmaa ja kopioi tiedostoja projektin /source-kansioon, lataa sitten projekti uudelleen kohdasta Projekti &gt; Lataa uudelleen.
+      <tuv lang="fi" changeid="piav" changedate="20230425T114821Z" creationid="piav" creationdate="20230425T114239Z">
+        <seg>- raahamalla ja pudottamalla tiedostoja editoriruutuun
+- kohdassa Projekti &gt; Kopioi tiedostoja lähdekansioon...
+- kohdassa Projekti &gt; Projektin tiedostot... (napsauta kohtaa Kopioi tiedostoja lähdekansioon…)
+- tiedostonhallintaohjelmassa: kopioi tiedostoja projektin /source-kansioon ja lataa projekti uudelleen (Projekti &gt; Lataa uudelleen).
 </seg>
       </tuv>
     </tu>
@@ -17273,6 +17272,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T131354Z" creationid="piav" creationdate="20191201T131354Z">
         <seg>Jos parametriä ei ole määritelty, kaikki tiedostot käsitellään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the project contains files but their content is not displayed here:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T114352Z" creationid="piav" creationdate="20230425T114352Z">
+        <seg>fzzProjektissa ei ole tiedostoja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38426,8 +38433,8 @@ palvelimelta.</seg>
       <tuv lang="en">
         <seg>To add files to the project you can:</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T114219Z" creationid="piav" creationdate="20230425T114219Z">
-        <seg>Lisää projektiin tiedostoja</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T114306Z" creationid="piav" creationdate="20230425T114219Z">
+        <seg>Lisää käännettäviä tiedostoja projektiin</seg>
       </tuv>
     </tu>
     <tu>
