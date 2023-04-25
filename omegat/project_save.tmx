@@ -2738,6 +2738,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2) Increase the amount of memory available to OmegaT.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T113647Z" creationid="piav" creationdate="20230425T113647Z">
+        <seg>2) Kasvata OmegaT:n käytettävissä olevan muistin määrää.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>2.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T160013Z" creationid="PiaVee" creationdate="20171014T160013Z">
@@ -29543,6 +29551,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run OmegaT" in the user manual.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T113930Z" creationid="piav" creationdate="20230425T113930Z">
+        <seg>saada OmegaT käyntiin".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T114445Z" creationid="piav" creationdate="20190920T114445Z">
@@ -30325,6 +30341,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190523T175048Z" creationid="PiaVee" creationdate="20171015T095632Z">
         <seg>Lisätietoja käsikirjan luvussa 3,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See "How To...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T113905Z" creationid="piav" creationdate="20230425T113838Z">
+        <seg>Ks. kohtaa "Miten…</seg>
       </tuv>
     </tu>
     <tu>
@@ -40430,6 +40454,17 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T154854Z" creationid="piav" creationdate="20191209T154854Z">
         <seg>Käyttö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" from the command 
+line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T113818Z" creationid="piav" creationdate="20230425T113818Z">
+        <seg>Käytä joko komentorivikomentoa "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" tai OmegaT-käynnistysskriptiä.
+Nykyinen asetus on {0} MB;</seg>
       </tuv>
     </tu>
     <tu>
