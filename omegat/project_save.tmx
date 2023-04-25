@@ -21191,10 +21191,26 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T121552Z" creationid="piav" creationdate="20230425T121552Z">
+        <seg>Upotusmerkki vasemmalta oikealle (LRE U+202&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T121239Z" creationid="PiaVee" creationdate="20171015T104225Z">
         <seg>Upotusmerkki vasemmalta oikealle (LRE U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T121518Z" creationid="piav" creationdate="20230425T121518Z">
+        <seg>Vasemmalta oikealle -merkki (LRM U+200&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29704,6 +29720,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T121247Z" creationid="PiaVee" creationdate="20171015T110311Z">
         <seg>Upotusmerkki oikealta vasemmalle (RLE U+200F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T121525Z" creationid="piav" creationdate="20230425T121525Z">
+        <seg>Oikealta vasemmalle -merkki (RLM U+200&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
