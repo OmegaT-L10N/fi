@@ -8046,8 +8046,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>By Susan Welsh (Open Document Format).</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T090357Z" creationid="piav" creationdate="20191211T090326Z">
-        <seg>Laatijana Susan Welsh</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T135955Z" creationid="piav" creationdate="20191211T090326Z">
+        <seg>Laatijana Susan Welsh (Open Document Format)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12471,6 +12471,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Documentation for developers</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T140017Z" creationid="piav" creationdate="20230425T140017Z">
+        <seg>Dokumentaatio kehittäjille</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Documentation manager</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T102816Z" creationid="PiaVee" creationdate="20171219T083838Z">
@@ -15374,6 +15382,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T073252Z" creationid="piav" creationdate="20191211T073252Z">
         <seg>Windows-käyttöjärjestelmään asennettava versio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For installation on macOS.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T140110Z" creationid="piav" creationdate="20230425T140110Z">
+        <seg>MacOS-järjestelmään asennettava versio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25631,10 +25647,26 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT for Beginners tutorial (2014 edition)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T135925Z" creationid="piav" creationdate="20230425T135925Z">
+        <seg>OmegaT for CAT beginners tutorial (vuoden 2014 versio)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT for CAT beginners (2020, in Japanese)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T135855Z" creationid="piav" creationdate="20230425T135809Z">
+        <seg>OmegaT for CAT beginners (2020, japaniksi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT for CAT beginners tutorial (2020 edition)</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T135742Z" creationid="piav" creationdate="20230425T135742Z">
-        <seg>OmegaT-opas CAT-aloittelijoille (vuoden 2020 versio)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T135840Z" creationid="piav" creationdate="20230425T135742Z">
+        <seg>OmegaT for CAT beginners tutorial (vuoden 2020 versio)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26055,6 +26087,22 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T111538Z" creationid="piav" creationdate="20191129T111538Z">
         <seg>OmegaT-ryhmäprojektit on ensi alkuun &lt;l0&gt;määritettävä&lt;/l0&gt; palvelimella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT the CAT power tools</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T135907Z" creationid="piav" creationdate="20230425T135832Z">
+        <seg>OmegaT the CAT power tools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT the CAT power tools(in Japanese)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T135919Z" creationid="piav" creationdate="20230425T135919Z">
+        <seg>OmegaT the CAT power tools (japaniksi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -43233,6 +43281,14 @@ Nykyinen asetus on {0} MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We always welcome new contributors!</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T140045Z" creationid="piav" creationdate="20230425T140045Z">
+        <seg>Uudet avustajat ovat aina tervetulleita!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We could not find the page you are looking for.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20170908T124921Z" creationid="PiaVee" creationdate="20170908T124921Z">
@@ -46011,6 +46067,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T173740Z" creationid="PiaVee" creationdate="20171014T173740Z">
         <seg>bul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by Hiroshi Miura</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T135912Z" creationid="piav" creationdate="20230425T135912Z">
+        <seg>laatijana Hiroshi Miura</seg>
       </tuv>
     </tu>
     <tu>
