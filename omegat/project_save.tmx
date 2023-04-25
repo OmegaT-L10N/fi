@@ -1228,6 +1228,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Previous Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T122218Z" creationid="piav" creationdate="20230425T122218Z">
+        <seg>Edelliseen tm/auto/-segmenttiin (&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Project</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T120806Z" creationid="PiaVee" creationdate="20171015T101307Z">
@@ -1718,8 +1726,8 @@
       <tuv lang="en">
         <seg>&amp;View</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065502Z" creationid="PiaVee" creationdate="20171015T111121Z">
-        <seg>Näkymä</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T122253Z" creationid="PiaVee" creationdate="20171015T111121Z">
+        <seg>Näkymä (&amp;V)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11701,6 +11709,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display &amp;Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T122452Z" creationid="piav" creationdate="20230425T122452Z">
+        <seg>Näytä sitovat välilyönnit (&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;None</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T141054Z" creationid="piav" creationdate="20190916T141054Z">
@@ -11709,10 +11725,18 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T122348Z" creationid="piav" creationdate="20230425T122348Z">
+        <seg>Merkitse kappalejaot (&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190916T141027Z" creationid="piav" creationdate="20190916T141027Z">
-        <seg>Näytä lähdesegmentit</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T122405Z" creationid="piav" creationdate="20190916T141027Z">
+        <seg>Näytä lähdesegmentit (&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16210,10 +16234,42 @@ lopullisesti.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T122322Z" creationid="piav" creationdate="20230425T122322Z">
+        <seg>Väritä käännetyt segmentit (&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T122338Z" creationid="piav" creationdate="20230425T122338Z">
+        <seg>Väritä kääntämättömät segmentit (&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight Pattern...</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T105612Z" creationid="piav" creationdate="20190913T102135Z">
         <seg>Maalaa muoto…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Repeated Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T122415Z" creationid="piav" creationdate="20230425T122415Z">
+        <seg>Väritä toistuvat segmentit (&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Segments &amp;with Notes</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T122428Z" creationid="piav" creationdate="20230425T122428Z">
+        <seg>Väritä segmentit, joissa on muistiinpanoja (&amp;W)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23215,6 +23271,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>N&amp;ext Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T122237Z" creationid="piav" creationdate="20230425T122237Z">
+        <seg>Seuraavaan tm/enforce/-segmenttiin (&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>NB:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T172102Z" creationid="piav" creationdate="20191209T172102Z">
@@ -26581,6 +26645,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T101947Z" creationid="piav" creationdate="20190521T101902Z">
         <seg>Korvaustila</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;revious Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T122249Z" creationid="piav" creationdate="20230425T122249Z">
+        <seg>Edelliseen tm/enforce/-segmenttiin (&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
