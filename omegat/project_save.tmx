@@ -25455,6 +25455,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 6.0.0 - User Manual</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T141643Z" creationid="piav" creationdate="20230425T141643Z">
+        <seg>OmegaT 6.0.0 - Käyttäjän käsikirja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20200328T110119Z" creationid="piav" creationdate="20191210T175454Z">
@@ -35427,6 +35435,14 @@ Tekstin korvaus tapahtuu projektin lähdekielisissä segmenteissä riippumatta s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That means that users like you can download and use it with no restrictions.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T141628Z" creationid="piav" creationdate="20230425T141628Z">
+        <seg>fzzSe tarkoittaa, että kääntäjät kuten sinä voivat ladata sen vapaasti ja käyttää sitä vain pienin rajoituksin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That means there are only a few thousand left!</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T183150Z" creationid="piav" creationdate="20191210T183150Z">
@@ -39223,6 +39239,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T104142Z" creationid="piav" creationdate="20191030T075634Z">
         <seg>Tässä kohdassa näkyvät käytössä olevat tiedostosuodattimet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This document is the official user manual to OmegaT, the free Computer-Assisted Translation tool.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T141920Z" creationid="piav" creationdate="20230425T141920Z">
+        <seg>Olet löytänyt tiesi virallisen OmegaT-käsikirjan äärelle, tervetuloa!</seg>
       </tuv>
     </tu>
     <tu>
