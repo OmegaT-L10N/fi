@@ -12934,6 +12934,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each translated user manual comes in a different language folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T134345Z" creationid="piav" creationdate="20230425T134345Z">
+        <seg>Eri kielille käännetyt käyttöoppaat ovat kukin omankielisessä kansiossaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ed&amp;it</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T140513Z" creationid="piav" creationdate="20190920T140513Z">
@@ -31797,6 +31805,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; chapter for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T134328Z" creationid="piav" creationdate="20230425T134328Z">
+        <seg>Lisätietoja löytyy kappaleesta &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l2/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T134610Z" creationid="piav" creationdate="20230425T134610Z">
+        <seg>Yksityiskohtia löytyy aista tietoa löytyy kohdasta Asetukset – &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;u0&gt; Oracle documentation&lt;/u0&gt; for examples.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T103104Z" creationid="pia" creationdate="20221114T103104Z">
@@ -36618,6 +36642,14 @@ ei enää ole.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The index to the multilingual user manual.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T134337Z" creationid="piav" creationdate="20230425T134337Z">
+        <seg>Monikielisen käyttöoppaan hakemisto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The installer can create shortcuts for you in the start menu, on the desktop and
 in the quick launch area.</seg>
       </tuv>
@@ -37124,6 +37156,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T115435Z" creationid="piav" creationdate="20191127T110701Z">
         <seg>Lausetason segmentointi on tavallisin lähdetiedostojen segmentointitapa, joten tähän ruutuun on tavallisesti syytä jättää rasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The prefered location for plugin manual installs is the &lt;l0/&gt; folder located in the &lt;l1&gt;configuration&lt;/l1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T134534Z" creationid="piav" creationdate="20230425T134534Z">
+        <seg>Manuaalisesti asennettavat ohjelmalaajennukset suositellaan asennettavaksi kansioon &lt;l0/&gt;, joka löytyy &lt;l1&gt;määrityskansiosta&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
