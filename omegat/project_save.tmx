@@ -17278,8 +17278,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If the project contains files but their content is not displayed here:</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T114352Z" creationid="piav" creationdate="20230425T114352Z">
-        <seg>fzzProjektissa ei ole tiedostoja.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T114847Z" creationid="piav" creationdate="20230425T114352Z">
+        <seg>Jos projektissa on tiedostoja, mutta niiden sisältö ei näy tässä:</seg>
       </tuv>
     </tu>
     <tu>
