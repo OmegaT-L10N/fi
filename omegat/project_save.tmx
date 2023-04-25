@@ -20581,6 +20581,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It will also find patterns such as “5136/36/71”.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T132416Z" creationid="piav" creationdate="20230425T132348Z">
+        <seg>Esimerkiksi 5136/36/71 on lausekkeen mukainen kuvio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It will be used automatically by OmegaT if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T145816Z" creationid="PiaVee" creationdate="20171014T145709Z">
@@ -38710,6 +38718,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This expression finds number and separator patterns matching possible dates, but does not validate them.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T132355Z" creationid="piav" creationdate="20230425T132326Z">
+        <seg>Tämä lauseke löytää numeroiden ja erotusmerkkien yhdistelmiä, jotka sopivat päivämääriksi, mutta ei tarkista niiden oikeellisuutta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This external command cannot include "pipes", etc., which is why calling a script is recommended.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T114650Z" creationid="piav" creationdate="20191127T114236Z">
@@ -47149,6 +47165,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T121939Z" creationid="piav" creationdate="20191201T121939Z">
         <seg>https://datamarket.azure.com/account</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T132428Z" creationid="piav" creationdate="20230425T132428Z">
+        <seg>https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/regex/Pattern.html</seg>
       </tuv>
     </tu>
     <tu>
