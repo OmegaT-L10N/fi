@@ -4040,6 +4040,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant format): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T131041Z" creationid="piav" creationdate="20230425T131003Z">
+        <seg>&lt;html&gt;Lisää kuvioita käyttämällä yleismerkkejä (Apache Ant -tyyliin): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Esimerkki: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T121505Z" creationid="piav" creationdate="20190522T083030Z">
@@ -7724,8 +7732,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Both dialogs allow you to customize the filename patterns for the source and target files associated to this the filter, and select their respective encoding.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T093339Z" creationid="pia" creationdate="20221114T093339Z">
-        <seg>Molemmissa ikkunoissa pääset muokkaamaan kyseiseen tiedostosuodattimeen liittyvien lähde- ja kohdetiedostojen tiedostonimien muotoja ja valitsemaan niiden merkistökoodaukset.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T131121Z" creationid="pia" creationdate="20221114T093339Z">
+        <seg>Molemmissa ikkunoissa pääset muokkaamaan kyseiseen tiedostosuodattimeen liittyvien lähde- ja kohdetiedostojen nimikuvioita ja valitsemaan niiden merkistökoodaukset.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8308,8 +8316,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Cannot reset the filter to default patterns.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T130904Z" creationid="piav" creationdate="20190522T083251Z">
-        <seg>Suodattimen nollaaminen kää´´oletuskuvioita ei onnistu.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130920Z" creationid="piav" creationdate="20190522T083251Z">
+        <seg>Suodattimen nollaaminen oletuskuvioihin ei onnistu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11279,8 +11287,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Customize the processed source filename patterns, the translated file names and their respective encodings.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T130742Z" creationid="piav" creationdate="20230425T130742Z">
-        <seg>Muokkaa lähdetiedoston ja käännetyn tiedoston nimien muotoja, joita käsitellään, sekä niiden merkistökoodauksia.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130946Z" creationid="piav" creationdate="20230425T130742Z">
+        <seg>Muokkaa lähdetiedoston ja käännetyn tiedoston käsiteltäviä nimikuvioita tiedostojen merkistökoodauksia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12992,8 +13000,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="en">
         <seg>Edit Highlight Pattern</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191030T105624Z" creationid="piav" creationdate="20190913T102301Z">
-        <seg>Muokkaa kohtaa Maalaa muoto</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T131059Z" creationid="piav" creationdate="20190913T102301Z">
+        <seg>Muokkaa kohtaa Väritä kuvio</seg>
       </tuv>
     </tu>
     <tu>
@@ -14037,8 +14045,8 @@ Virheilmoitus.</seg>
       <tuv lang="en">
         <seg>Exclusion Patterns</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191030T105603Z" creationid="piav" creationdate="20190522T082849Z">
-        <seg>Älä sisällytä muotoja</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T131006Z" creationid="piav" creationdate="20190522T082849Z">
+        <seg>Älä sisällytä kuvioita</seg>
       </tuv>
     </tu>
     <tu>
@@ -16556,8 +16564,8 @@ lopullisesti.</seg>
       <tuv lang="en">
         <seg>Highlight Pattern...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191030T105612Z" creationid="piav" creationdate="20190913T102135Z">
-        <seg>Maalaa muoto…</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T131047Z" creationid="piav" creationdate="20190913T102135Z">
+        <seg>Väritä kuvio…</seg>
       </tuv>
     </tu>
     <tu>
@@ -27319,8 +27327,8 @@ Lähdetään kalaan.</seg>
       <tuv lang="en">
         <seg>Pattern after</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T130820Z" creationid="piav" creationdate="20230425T130820Z">
-        <seg>fzzMuoto jälkeen</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130959Z" creationid="piav" creationdate="20230425T130820Z">
+        <seg>Kuvio jälkeen</seg>
       </tuv>
     </tu>
     <tu>
@@ -27335,8 +27343,8 @@ Lähdetään kalaan.</seg>
       <tuv lang="en">
         <seg>Pattern...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191030T105619Z" creationid="piav" creationdate="20190522T083555Z">
-        <seg>Muoto…</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T131050Z" creationid="piav" creationdate="20190522T083555Z">
+        <seg>Kuvio…</seg>
       </tuv>
     </tu>
     <tu>
@@ -33315,8 +33323,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Source filename pattern:</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T130807Z" creationid="piav" creationdate="20230425T130807Z">
-        <seg>Lähdetiedoston nimen muoto:</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130954Z" creationid="piav" creationdate="20230425T130807Z">
+        <seg>Lähdetiedoston nimikuvio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -39585,8 +39593,8 @@ palvelimelta.</seg>
       <tuv lang="en">
         <seg>To associate a filter to a file, OmegaT checks its file extension and attempts to match it to a source filename patterns in a filter.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T093630Z" creationid="pia" creationdate="20221114T093630Z">
-        <seg>Kun OmegaT yhdistää tiedostosuodattimen ja tiedoston, se tarkistaa tiedostopäätteen ja yrittää yhdistää sen suodattimen kohdalla mainittuihin lähdetiedoston tiedostonimien muotoihin.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T131259Z" creationid="pia" creationdate="20221114T093630Z">
+        <seg>Kun OmegaT yhdistää tiedostosuodattimen ja tiedoston, se tarkistaa lähdetiedoston tiedostopäätteen ja yrittää yhdistää sen suodattimen kohdalla mainittuihin nimikuvioihin.</seg>
       </tuv>
     </tu>
     <tu>
