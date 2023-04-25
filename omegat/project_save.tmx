@@ -25950,6 +25950,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is distributed under the terms of the &lt;e0&gt;GNU General Public License, version 3.0&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T142351Z" creationid="piav" creationdate="20230425T142351Z">
+        <seg>OmegaT-jakelu perustuu &lt;e0&gt;GNU General Public Licencen&lt;/e0&gt; (GNU GPL) eli GNU-hankkeen yleiseen lisenssiin, versionumero 3.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is free software.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T182041Z" creationid="piav" creationdate="20191210T182041Z">
@@ -36888,6 +36896,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The freedom to run OmegaT as you wish, for any purpose.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T142509Z" creationid="piav" creationdate="20230425T142403Z">
+        <seg>Vapauden suorittaa OmegaT-ohjelmaa haluamallasi tavalla mihin tahansa tarkoitukseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T054643Z" creationid="piav" creationdate="20191023T053936Z">
@@ -37060,6 +37076,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T081806Z" creationid="piav" creationdate="20191128T081806Z">
         <seg>Kakkostason TMX-tiedoston vienti ei aivan ole kakkostason standardin mukainen, mutta kuitenkin niin lähellä sitä, että siitä löytyy oikeanlaisia osumia muissa kakkostason käännösmuistitiedostoja tukevissa ohjelmissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The license grants you the following freedoms:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T142426Z" creationid="piav" creationdate="20230425T142400Z">
+        <seg>Lisenssi antaa sinulle seuraavat vapaudet:</seg>
       </tuv>
     </tu>
     <tu>
