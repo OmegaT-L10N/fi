@@ -35998,6 +35998,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The best way for developers to have a smooth experience when proposing such changes is to follow the guidelines defined on the &lt;a0&gt;Contributing to OmegaT page&lt;/a0&gt;, which is part of the larger &lt;a1&gt;Documentation for developers&lt;/a1&gt; OmegaT offers.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T141007Z" creationid="piav" creationdate="20230425T141007Z">
+        <seg>Jouhevimmin muutosehdotuksia saa tehtyä seuraamalla &lt;a0&gt;Kanna kortesi kekoon!&lt;/a0&gt; -sivulta löytyviä ohjeita. Sivu on osa OmegaT:n laajempaa &lt;a1&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The carriage-return character ('\u000D')</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T151055Z" creationid="piav" creationdate="20191022T150814Z">
