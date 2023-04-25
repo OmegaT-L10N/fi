@@ -4024,6 +4024,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;User Manual...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;F1&lt;/k2&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T135143Z" creationid="piav" creationdate="20230425T135143Z">
+        <seg>&lt;g0&gt;Käyttöopas...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;F1&lt;/k2&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T105012Z" creationid="piav" creationdate="20190913T110941Z">
@@ -10011,6 +10019,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T164215Z" creationid="piav" creationdate="20191210T163953Z">
         <seg>Resurssin on antanut käyttöön Marc Prior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contributing</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T134927Z" creationid="piav" creationdate="20230425T134927Z">
+        <seg>Kanna kortesi kekoon!</seg>
       </tuv>
     </tu>
     <tu>
@@ -21121,6 +21137,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keyword searches match all space-separated keywords in any order.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T134949Z" creationid="piav" creationdate="20230425T134949Z">
+        <seg>fzzAvainsanahaku etsii kaikkia välilyönnein erotettuja avainsanoja riippumatta niiden järjestyksestä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T140325Z" creationid="piav" creationdate="20190521T140325Z">
@@ -28009,6 +28033,14 @@ onko sinun tehtävä vielä muuta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T132957Z" creationid="piav" creationdate="20190920T132957Z">
         <seg>Poisson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Policies</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T134935Z" creationid="piav" creationdate="20230425T134935Z">
+        <seg>Käytännöt</seg>
       </tuv>
     </tu>
     <tu>
@@ -39358,6 +39390,22 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T121048Z" creationid="piav" creationdate="20191202T121048Z">
         <seg>Tämän valikon kohdat näkyvät vain silloin, kun projekti on avoinna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This menu gives quick access to a few frequently used preferences.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T135157Z" creationid="piav" creationdate="20230425T135157Z">
+        <seg>fzzTästä valikosta löydät tietoja, joiden avulla saat OmegaT:n tehokkaaseen käyttön.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This menu gives you access to information that will help you make the best of OmegaT.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T135131Z" creationid="piav" creationdate="20230425T135131Z">
+        <seg>Tästä valikosta löydät tietoja, joiden avulla saat OmegaT:n tehokkaaseen käyttön.</seg>
       </tuv>
     </tu>
     <tu>
