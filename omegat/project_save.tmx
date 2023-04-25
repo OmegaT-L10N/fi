@@ -2116,6 +2116,56 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Anthony Baldwin (localisation manager)
+- Vincent Bidaux (documentation manager)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Aaron Madlon-Kay (project manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T135505Z" creationid="piav" creationdate="20230425T135505Z">
+        <seg>– Anthony Baldwin (lokalisointikoordinaattori)
+– Vincent Bidaux (dokumentaatiovastaava)
+– Didier Briel (projektipäällikkö)
+– Alex Buloichik (pääkehittäjä)
+– Sabine Cretella
+– Dmitri Gabinski
+– Aaron Madlon-Kay (projektipäällikkö)
+– Maxym Mykhalchuk (pääkehittäjä)
+– Samuel Murray
+– Henry Pijffers (jakelukoordinaattori)
+– Marc Prior (projektin apukoordinaattori, sivustovastaava)
+– Vito Smolej (dokumentaatiovastaava)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsov (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Hiroshi Miura (lead developer)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T135305Z" creationid="piav" creationdate="20230425T135305Z">
+        <seg>– Marco Cevoli (Telegram-yhteisön koordinaattori)
+– Jean-Christophe Helary (Twitter-yhteisön koordinaattori)
+– Kos Ivantsof (lokalisaatiokoordinaattori)
+– Concepción Martin (Facebook-yhteisön koordinaattori)
+– Hiroshi Miura (pääkehittäjä)
+– Briac Pilpré (sivustovastaava)
+– Lucie Vecerova (Facebook-yhteisön koordinaattori)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- Vincent Bidaux (documentation manager)
 - Marco Cevoli (Telegram community manager)
 - Jean-Christophe Helary (Twitter community manager)
@@ -4956,8 +5006,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191218T133128Z" creationid="piav" creationdate="20191211T094757Z">
-        <seg>Kääntäjä: Pia Vinkki © 2019</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T135206Z" creationid="piav" creationdate="20191211T094757Z">
+        <seg>Kääntäjä: Pia Vinkki © 2019 &amp; 2023</seg>
       </tuv>
     </tu>
     <tu>
