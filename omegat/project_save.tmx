@@ -11629,6 +11629,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries folder:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125508Z" creationid="piav" creationdate="20230425T125508Z">
+        <seg>Sanakirjojen kansio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171219T095723Z" creationid="PiaVee" creationdate="20171219T095702Z">
@@ -13479,6 +13487,14 @@ kukaan ei kuule.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error monitoring post-processing commands!</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125358Z" creationid="piav" creationdate="20230425T125358Z">
+        <seg>Ulkoisia jälkikäsittelykomentoja tarkkaillessa tapahtui virhe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error on application startup</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T141617Z" creationid="piav" creationdate="20190916T141617Z">
@@ -14031,6 +14047,14 @@ Virheilmoitus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T144736Z" creationid="piav" creationdate="20191030T144736Z">
         <seg>Vie segmentti tekstitiedostoihin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export translation memories folder:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125549Z" creationid="piav" creationdate="20230425T125549Z">
+        <seg>Kansio, jonne käännösmuistit viedään:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15778,6 +15802,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210414T164031Z" creationid="piav" creationdate="20210414T164031Z">
         <seg>Sanastot ovat terminologiatiedostoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries folder:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125449Z" creationid="piav" creationdate="20230425T125449Z">
+        <seg>Sanastojen kansio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21849,6 +21881,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local Segmentation R&amp;ules...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125411Z" creationid="piav" creationdate="20230425T125411Z">
+        <seg>Erityiset segmentointisäännöt… (&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local file mapping:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20201211T140952Z" creationid="piav" creationdate="20201211T140952Z">
@@ -27731,6 +27771,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Post-processing command failed.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125256Z" creationid="piav" creationdate="20230425T125256Z">
+        <seg>Ulkoinen jälkikäsittelykomento ei toiminut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Post-processing commands completed.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T125201Z" creationid="piav" creationdate="20230425T125201Z">
@@ -27741,8 +27789,16 @@ onko sinun tehtävä vielä muuta.</seg>
       <tuv lang="en">
         <seg>Post-processing commands failed.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T125227Z" creationid="piav" creationdate="20230425T125227Z">
-        <seg>Ulkoiset jälkikäsittelykomennot eivät onnistuneet.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125302Z" creationid="piav" creationdate="20230425T125227Z">
+        <seg>Ulkoiset jälkikäsittelykomennot eivät toimineet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands were interrupted.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125318Z" creationid="piav" creationdate="20230425T125318Z">
+        <seg>Ulkoiset jälkikäsittelykomennot keskeytyivät.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33069,6 +33125,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T133727Z" creationid="piav" creationdate="20190521T133727Z">
         <seg>Annettua lähdetiedostojen kansiota ei ole!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files folder:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125443Z" creationid="piav" creationdate="20230425T125443Z">
+        <seg>Lähdetiedostojen kansio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40230,6 +40294,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated files folder:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125510Z" creationid="piav" creationdate="20230425T125510Z">
+        <seg>Käännettyjen tiedostojen kansio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated files location not defined</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T120453Z" creationid="piav" creationdate="20190920T120453Z">
@@ -40346,6 +40418,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T160659Z" creationid="piav" creationdate="20221102T160659Z">
         <seg>Käännösmuistit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories folder:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125447Z" creationid="piav" creationdate="20230425T125447Z">
+        <seg>Käännösmuistien kansio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41553,6 +41633,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T132708Z" creationid="piav" creationdate="20191201T132708Z">
         <seg>Käytä tätä, jos OmegaT:n ei tule synkronoida projektin sisältöä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use local &amp;segmentation rules</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125440Z" creationid="piav" creationdate="20230425T125440Z">
+        <seg>Käytä erityisiä segmentointisääntöjä (&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -43159,6 +43247,14 @@ ei enää löydy.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T143939Z" creationid="piav" creationdate="20221102T143939Z">
         <seg>Kirjoituskelpoinen sanasto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writable glossary file:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125505Z" creationid="piav" creationdate="20230425T125505Z">
+        <seg>Kirjoituskelpoinen sanastotiedosto:</seg>
       </tuv>
     </tu>
     <tu>
