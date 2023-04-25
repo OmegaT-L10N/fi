@@ -15224,8 +15224,8 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, use the pattern &lt;l0&gt;read*&lt;/l0&gt; if you want to have the text filter handle readme files (&lt;l1&gt;readme, read.me&lt;/l1&gt;, or &lt;l2&gt;readme.txt&lt;/l2&gt;).</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T095458Z" creationid="pia" creationdate="20221114T095458Z">
-        <seg>Käytä esimerkiksi muotoa &lt;l0&gt;read*&lt;/l0&gt;, kun haluat, että tekstisuodatin käsittelee readme-tiedostoja (&lt;l1&gt;readme, read.me&lt;/l1&gt; tai &lt;l2&gt;readme.txt&lt;/l2&gt;)-</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T131402Z" creationid="pia" creationdate="20221114T095458Z">
+        <seg>Käytä esimerkiksi kuviota &lt;l0&gt;read*&lt;/l0&gt;, kun haluat, että tekstisuodatin käsittelee readme-tiedostoja (&lt;l1&gt;readme, read.me&lt;/l1&gt; tai &lt;l2&gt;readme.txt&lt;/l2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33329,6 +33329,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source filename patterns use wild card characters : The &lt;l0&gt;*&lt;/l0&gt; character matches zero or more characters, while the &lt;l1&gt;?&lt;/l1&gt; character matches exactly one character.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T131344Z" creationid="piav" creationdate="20230425T131344Z">
+        <seg>Lähdetiedoston nimikuvioissa voi käyttää jokerimerkkejä: asteriski eli &lt;l0&gt;*&lt;/l0&gt; vastaa nollaa tai useampaa merkkiä, kun taas kysymysmerkki &lt;l1&gt;?&lt;/l1&gt; vastaa tasan yhtä merkkiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source filename patterns use wild card characters : the &lt;l0&gt;*&lt;/l0&gt; character matches zero or more characters, while the &lt;l1&gt;?&lt;/l1&gt; character matches exactly one character.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T095406Z" creationid="pia" creationdate="20221114T095406Z">
@@ -36190,6 +36198,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T165246Z" creationid="piav" creationdate="20191210T165246Z">
         <seg>Tämän sivun tiedostot siistissä paketissa sivun lokalisoijan käyttöön.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The filter checks Java MessageFormat patterns (e.g. \{0\}) by default.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T131516Z" creationid="piav" creationdate="20230425T131516Z">
+        <seg>Oletusasetuksensa mukaisesti suodatin tarkistaa Javan yksinkertaiset MessageFormat-muodot (esim. {0}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44131,8 +44147,8 @@ käynnistysvalikkoon, työpöydälle tai pikakäynnistysalueelle.</seg>
       <tuv lang="en">
         <seg>You can change or add filename patterns to associate different files to a filter.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T094120Z" creationid="pia" creationdate="20221114T094120Z">
-        <seg>Kun haluat yhdistää tiettyjä tiedostoja tiettyihin suodattimiin, voit muuttaa tai lisätä suodattimen käyttämiä tiedostonimen muotoja.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T131329Z" creationid="pia" creationdate="20221114T094120Z">
+        <seg>Kun haluat yhdistää tiettyjä tiedostoja tiettyihin suodattimiin, voit muuttaa tai lisätä suodattimen käyttämiä tiedostonimikuvioita.</seg>
       </tuv>
     </tu>
     <tu>
