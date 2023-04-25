@@ -1206,8 +1206,8 @@
       <tuv lang="en">
         <seg>&amp;OK</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T120614Z" creationid="PiaVee" creationdate="20171015T094259Z">
-        <seg>&amp;OK</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T124006Z" creationid="PiaVee" creationdate="20171015T094259Z">
+        <seg>OK (&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2166,9 +2166,9 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
 	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T115820Z" creationid="piav" creationdate="20230425T114904Z">
+      <tuv lang="fi" changeid="piav" changedate="20230425T123733Z" creationid="piav" creationdate="20230425T114904Z">
         <seg>– tarkista, että OmegaT tukee niiden muotoa
-	  joko kohdassa Projekti &gt; Ominaisuudet... &gt; Paikalliset tiedostosuodattimet...
+	  joko kohdassa Projekti &gt; Ominaisuudet... &gt; Erityiset tiedostosuodattimet...
 	  (kun suodatinasetukset ovat projektikohtaisia)
 	  tai kohdassa Asetukset &gt; Yleiset tiedostosuodattimet...;
 	– avaa tiedostot alkuperäissovelluksessaan ja tarkista, että ne eivät ole tyhjiä.</seg>
@@ -21777,6 +21777,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local File Filters</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123749Z" creationid="piav" creationdate="20230425T123749Z">
+        <seg>Erityiset tiedostosuodattimet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File/Folder</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T132947Z" creationid="piav" creationdate="20190521T132947Z">
@@ -21789,6 +21797,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20201211T140952Z" creationid="piav" creationdate="20201211T140952Z">
         <seg>Paikallisten tiedostojen yhdistäminen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local file/folder</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123741Z" creationid="piav" creationdate="20230425T123741Z">
+        <seg>Paikallinen tiedosto/kansio</seg>
       </tuv>
     </tu>
     <tu>
@@ -27168,6 +27184,17 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place source files in ./source and supplementary
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123956Z" creationid="piav" creationdate="20230425T123900Z">
+        <seg>Lisää lähdetiedostot kansioon ./source, lisämateriaali kansioihin ./tm, ./glossary ja ./dictionary ja vie (commit) kaikki.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the archive in any suitable folder and unpack it.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T100220Z" creationid="piav" creationdate="20191211T100220Z">
@@ -31674,6 +31701,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T114200Z" creationid="piav" creationdate="20190920T114200Z">
         <seg>Valitse komentosarjatiedosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a filter and click on Edit... or Options... to customize it.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123817Z" creationid="piav" creationdate="20230425T123817Z">
+        <seg>fzzValitse listalta suodatin ja napsauta &lt;g0&gt;Valinnat...&lt;/g0&gt;-painiketta, niin pääset muokkaamaan niitä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41318,6 +41353,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T132708Z" creationid="piav" creationdate="20191201T132708Z">
         <seg>Käytä tätä, jos OmegaT:n ei tule synkronoida projektin sisältöä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use local file fil&amp;ter settings</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123805Z" creationid="piav" creationdate="20230425T123805Z">
+        <seg>Käytä erityisiä suodatinasetuksia</seg>
       </tuv>
     </tu>
     <tu>
