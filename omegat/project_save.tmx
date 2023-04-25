@@ -788,6 +788,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Find Next</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T113436Z" creationid="piav" creationdate="20230425T113436Z">
+        <seg>Etsi seuraava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Find...</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190913T110600Z" creationid="piav" creationdate="20190913T110600Z">
@@ -1292,6 +1300,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Replace and Find Next</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T113444Z" creationid="piav" creationdate="20230425T113444Z">
+        <seg>Korvaa ja etsi seuraava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Replace...</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190913T110608Z" creationid="piav" creationdate="20190913T110608Z">
@@ -1456,6 +1472,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065241Z" creationid="PiaVee" creationdate="20171015T122333Z">
         <seg>Näytä sopivia ehdotuksia automaattisesti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Show Replacements</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T113428Z" creationid="piav" creationdate="20230425T113428Z">
+        <seg>Näytä korvaukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -2664,6 +2688,14 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T081009Z" creationid="piav" creationdate="20190522T081009Z">
         <seg>1 segmentti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1) Reduce the number of files in the source folder;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T113626Z" creationid="piav" creationdate="20230425T113626Z">
+        <seg>1) Vähennä lähdetiedostokansiossa olevien tiedostojen lukumäärää.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24918,6 +24950,14 @@ käynnistettäväksi.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT ran out of memory and will close when you click OK.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T113506Z" creationid="piav" creationdate="20230425T113506Z">
+        <seg>OmegaT:n käytettävissä oleva muisti on täysi. Paina OK, niin ohjelma sulkeutuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T081040Z" creationid="PiaVee" creationdate="20171015T095118Z">
@@ -27055,6 +27095,14 @@ onko sinun tehtävä vielä muuta.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T081115Z" creationid="PiaVee" creationdate="20171015T081115Z">
         <seg>portugali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Possible solutions:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T113526Z" creationid="piav" creationdate="20230425T113526Z">
+        <seg>Muutamia ratkaisuja:</seg>
       </tuv>
     </tu>
     <tu>
