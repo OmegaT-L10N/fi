@@ -374,8 +374,8 @@
       <tuv lang="en">
         <seg>&amp;Align Files...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065154Z" creationid="PiaVee" creationdate="20171015T111355Z">
-        <seg>Kohdista tiedostoja…</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123210Z" creationid="PiaVee" creationdate="20171015T111355Z">
+        <seg>Kohdista tiedostoja… (&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -448,6 +448,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065537Z" creationid="piav" creationdate="20190522T094404Z">
         <seg>Käytä kaikkiin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Auto-Completion</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123251Z" creationid="piav" creationdate="20230425T123251Z">
+        <seg>Automaattinen täydennys (&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -694,8 +702,8 @@
       <tuv lang="en">
         <seg>&amp;Editor...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065209Z" creationid="PiaVee" creationdate="20171015T111556Z">
-        <seg>Editori…</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123401Z" creationid="PiaVee" creationdate="20171015T111556Z">
+        <seg>Editori… (&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1052,6 +1060,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123225Z" creationid="piav" creationdate="20230425T123225Z">
+        <seg>Konekäännös (&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Make the file filter settings project specific</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T190631Z" creationid="piav" creationdate="20190527T190631Z">
@@ -1070,8 +1086,8 @@
       <tuv lang="en">
         <seg>&amp;Match Statistics</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065150Z" creationid="PiaVee" creationdate="20171015T111331Z">
-        <seg>Osumatilastot</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123200Z" creationid="PiaVee" creationdate="20171015T111331Z">
+        <seg>Osumatilastot (&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1190,16 +1206,16 @@
       <tuv lang="en">
         <seg>&amp;Options</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191030T104910Z" creationid="PiaVee" creationdate="20171015T111221Z">
-        <seg>Valinnat</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123216Z" creationid="PiaVee" creationdate="20171015T111221Z">
+        <seg>Valinnat (&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&amp;Preferences...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191208T121454Z" creationid="PiaVee" creationdate="20171015T123011Z">
-        <seg>Asetukset…</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123220Z" creationid="PiaVee" creationdate="20171015T123011Z">
+        <seg>Asetukset… (&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1390,8 +1406,8 @@
       <tuv lang="en">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065254Z" creationid="PiaVee" creationdate="20171015T122710Z">
-        <seg>Palauta pääikkuna</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123129Z" creationid="PiaVee" creationdate="20171015T122710Z">
+        <seg>Palauta pääikkuna (&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1526,8 +1542,8 @@
       <tuv lang="en">
         <seg>&amp;Show Relevant Suggestions Automatically</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065241Z" creationid="PiaVee" creationdate="20171015T122333Z">
-        <seg>Näytä sopivia ehdotuksia automaattisesti</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123301Z" creationid="PiaVee" creationdate="20171015T122333Z">
+        <seg>Näytä sopivia ehdotuksia automaattisesti (&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1606,8 +1622,8 @@
       <tuv lang="en">
         <seg>&amp;Statistics</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065149Z" creationid="PiaVee" creationdate="20171015T111322Z">
-        <seg>Tilastot</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123158Z" creationid="PiaVee" creationdate="20171015T111322Z">
+        <seg>Tilastot (&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1654,8 +1670,8 @@
       <tuv lang="en">
         <seg>&amp;Tools</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065145Z" creationid="PiaVee" creationdate="20171015T110910Z">
-        <seg>Työkalut</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123133Z" creationid="PiaVee" creationdate="20171015T110910Z">
+        <seg>Työkalut (&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8476,8 +8492,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Check &amp;Issues...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065146Z" creationid="PiaVee" creationdate="20171015T111247Z">
-        <seg>Tarkista ongelmakohdat…</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123135Z" creationid="PiaVee" creationdate="20171015T111247Z">
+        <seg>Tarkista ongelmakohdat… (&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8542,6 +8558,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065148Z" creationid="PiaVee" creationdate="20171015T111303Z">
         <seg>Tarkista nykyisen asiakirjan ongelmakohdat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Issues for &amp;Current File</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123156Z" creationid="piav" creationdate="20230425T123156Z">
+        <seg>Tarkista nykyisen asiakirjan ongelmakohdat (&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15606,6 +15630,22 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global &amp;Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123330Z" creationid="piav" creationdate="20230425T123330Z">
+        <seg>Yleiset segmentointisäännöt… (&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123321Z" creationid="piav" creationdate="20230425T123321Z">
+        <seg>Yleiset tiedostosuodattimet… (&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global spell checking</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T092459Z" creationid="PiaVee" creationdate="20171014T092459Z">
@@ -16342,6 +16382,22 @@ lopullisesti.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T122605Z" creationid="PiaVee" creationdate="20171015T122605Z">
         <seg>Historia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Completion</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123306Z" creationid="piav" creationdate="20230425T123306Z">
+        <seg>Syöttöhistoriaan perustuva täydennys (&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Prediction</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123311Z" creationid="piav" creationdate="20230425T123311Z">
+        <seg>Syöttöhistoriaan perustuva ennakointi (&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22451,8 +22507,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Match Statistics per &amp;File</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065153Z" creationid="PiaVee" creationdate="20171015T111345Z">
-        <seg>Osumatilastot per tiedosto</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123203Z" creationid="PiaVee" creationdate="20171015T111345Z">
+        <seg>Osumatilastot per tiedosto (&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30536,8 +30592,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Scriptin&amp;g...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065155Z" creationid="PiaVee" creationdate="20171015T111420Z">
-        <seg>Komentosarjat…</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123214Z" creationid="PiaVee" creationdate="20171015T111420Z">
+        <seg>Komentosarjat… (&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40994,6 +41050,14 @@ Nykyinen asetus on {0} MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;Fuzzy Matching</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123246Z" creationid="piav" creationdate="20230425T123246Z">
+        <seg>Käytä sumeita osumia (&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065233Z" creationid="PiaVee" creationdate="20171015T122239Z">
@@ -45694,6 +45758,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>for &amp;All Segments</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123126Z" creationid="piav" creationdate="20230425T123126Z">
+        <seg>kaikissa segmenteissä (&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>for (i in 0 ..&lt; files.size())</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T161153Z" creationid="piav" creationdate="20191209T161153Z">
@@ -45706,6 +45778,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T161155Z" creationid="piav" creationdate="20191209T161155Z">
         <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for Current &amp;Segment</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T123117Z" creationid="piav" creationdate="20230425T123117Z">
+        <seg>nykyisessä segmentissä (&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
