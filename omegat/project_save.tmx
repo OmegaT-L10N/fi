@@ -2099,9 +2099,9 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
         <seg>--config-file=&lt;path&gt;
 	  A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T111759Z" creationid="piav" creationdate="20221102T154311Z">
+      <tuv lang="fi" changeid="piav" changedate="20230425T112108Z" creationid="piav" creationdate="20221102T154311Z">
         <seg>--config-file=&lt;polku&gt;
-	  Java-ominaisuuksien tiedosto (.properties), jonka perusteella oletusasetukset ladataan</seg>
+	  Java.properties-tiedosto, jonka perusteella oletusominaisuudet ladataan</seg>
       </tuv>
     </tu>
     <tu>
@@ -2379,9 +2379,9 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
         <seg>--resource-bundle=&lt;path&gt;
 	  A Java .properties file to use for the interface text.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T111922Z" creationid="piav" creationdate="20230425T111532Z">
+      <tuv lang="fi" changeid="piav" changedate="20230425T112136Z" creationid="piav" creationdate="20230425T111532Z">
         <seg>--resource-bundle=&lt;polku&gt;
-	  Java-ominaisuuksien tiedosto ( .properties) käyttöliittymän tekstiä varten</seg>
+	  Java.properties-tiedosto, joka määrittelee käyttöliittymän tekstin</seg>
       </tuv>
     </tu>
     <tu>
