@@ -7136,8 +7136,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Aut&amp;hor:</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190521T174332Z" creationid="piav" creationdate="20190521T134613Z">
-        <seg>Tekijä:</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T133305Z" creationid="piav" creationdate="20190521T134613Z">
+        <seg>Tekijä: (&amp;H)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8148,8 +8148,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065341Z" creationid="piav" creationdate="20190521T134819Z">
-        <seg>Erottele kirjainkoko</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T133318Z" creationid="piav" creationdate="20190521T134819Z">
+        <seg>Erottele kirjainkoko (&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8428,8 +8428,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Changed &amp;before:</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190521T174137Z" creationid="piav" creationdate="20190521T134637Z">
-        <seg>Muutettu ennen:</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T133312Z" creationid="piav" creationdate="20190521T134637Z">
+        <seg>Muutettu ennen: (&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14207,8 +14207,8 @@ Virheilmoitus.</seg>
       <tuv lang="en">
         <seg>Export translation memory folder {0} does not exist.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20220906T181207Z" creationid="piav" creationdate="20220906T181207Z">
-        <seg>Käännettävien tiedostojen kansiota {0} ei ole.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T133146Z" creationid="piav" creationdate="20220906T181207Z">
+        <seg>Vietävien käännösmuistien kansiota {0} ei ole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14933,6 +14933,14 @@ Virheilmoitus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Folder exists and is not empty.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T133218Z" creationid="piav" creationdate="20230425T133218Z">
+        <seg>Kansio on jo olemassa eikä se ole tyhjä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Folder {0} was automatically created for team mode project</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171218T083954Z" creationid="PiaVee" creationdate="20171218T083954Z">
@@ -15652,6 +15660,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T174204Z" creationid="piav" creationdate="20190521T134929Z">
         <seg>Ei erottele täys- ja puolileveitä merkkejä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full/half-&amp;width char insensitive</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T133357Z" creationid="piav" creationdate="20230425T133255Z">
+        <seg>Ei eroa täys- ja puolileveissä merkeissä (&amp;W)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16536,6 +16552,14 @@ lopullisesti.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T174242Z" creationid="PiaVee" creationdate="20171014T174242Z">
         <seg>herero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide &amp;Options</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T133253Z" creationid="piav" creationdate="20230425T133253Z">
+        <seg>Piilota valinnat (&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25413,6 +25437,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not have read and write permissions for this folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T133226Z" creationid="piav" creationdate="20230425T133226Z">
+        <seg>OmegaT:llä ei ole luku- ja kirjoitusoikeuksia tähän kansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have read and write permissions to this folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T134211Z" creationid="piav" creationdate="20190521T134211Z">
@@ -32171,6 +32203,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a different folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T133221Z" creationid="piav" creationdate="20230425T133221Z">
+        <seg>Valitse toinen kansio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a filter and click on Edit... or Options... to customize it.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T123817Z" creationid="piav" creationdate="20230425T123817Z">
@@ -34309,6 +34349,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TM Search &amp;Options</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T133233Z" creationid="piav" creationdate="20230425T133233Z">
+        <seg>TM-osumien asetukset (&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TMX Level 1</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220906T181009Z" creationid="piav" creationdate="20220906T181009Z">
@@ -36012,6 +36060,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The dictionary files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T133211Z" creationid="piav" creationdate="20230425T133211Z">
+        <seg>Sanakirjojen kansiota ei ole!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The difference between "Number of segments" and "Number of unique segments" provides an approximate idea of the number of repetitions in the text.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191212T075730Z" creationid="piav" creationdate="20191212T075730Z">
@@ -36176,6 +36232,14 @@ instead.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T152139Z" creationid="piav" creationdate="20191022T152139Z">
         <seg>Koodinvaihtomerkki (\u001b)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The export translation memory folder does not exist!</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T133114Z" creationid="piav" creationdate="20230425T133039Z">
+        <seg>Vietävien käännösmuistien kansiota ei ole!</seg>
       </tuv>
     </tu>
     <tu>
