@@ -9626,6 +9626,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Completed and current translations saved as {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T124923Z" creationid="piav" creationdate="20230425T124923Z">
+        <seg>Valmiit ja nykyiset käännökset tallennettiin nimellä {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T102413Z" creationid="piav" creationdate="20190522T085333Z">
@@ -15962,6 +15970,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T121350Z" creationid="piav" creationdate="20190920T135501Z">
         <seg>Ota ne käyttöön kohdassa Asetukset &gt; Ulkoinen haku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Segment</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T124624Z" creationid="piav" creationdate="20230425T124624Z">
+        <seg>Siirry segmenttiin</seg>
       </tuv>
     </tu>
     <tu>
@@ -29045,6 +29061,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reload the project?</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T124639Z" creationid="piav" creationdate="20230425T124639Z">
+        <seg>Ladataanko projekti uudelleen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reloads the project to take external changes in source files and project settings into account.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T143312Z" creationid="piav" creationdate="20191202T143312Z">
@@ -29425,6 +29449,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T124638Z" creationid="PiaVee" creationdate="20171015T124638Z">
         <seg>Avataanko projekti uudelleen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated segments: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T124633Z" creationid="piav" creationdate="20230425T124633Z">
+        <seg>Toistuvat segmentit: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -32865,6 +32897,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source Files ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T124706Z" creationid="piav" creationdate="20230425T124706Z">
+        <seg>Lähdetiedostot ({0}/{1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files ({0})</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T124653Z" creationid="piav" creationdate="20230425T124653Z">
+        <seg>Lähdetiedostot ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source Files Folder</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T131802Z" creationid="piav" creationdate="20190521T131747Z">
@@ -32985,6 +33033,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T124847Z" creationid="piav" creationdate="20230425T124847Z">
+        <seg>Lähdetiedostojen lataus onnistui, mutta tiedosto(ja) ohitetaan suodatinvirhe(id)en vuoksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source folder {0} does not exist.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T120657Z" creationid="piav" creationdate="20190920T120657Z">
@@ -33061,6 +33117,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T084409Z" creationid="piav" creationdate="20191127T084409Z">
         <seg>Osuman lähdeteksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source/translation length (characters)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T124645Z" creationid="piav" creationdate="20230425T124645Z">
+        <seg>Lähteen/käännöksen pituus (merkkiä)</seg>
       </tuv>
     </tu>
     <tu>
