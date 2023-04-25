@@ -5644,8 +5644,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>Add Pattern</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191030T105502Z" creationid="piav" creationdate="20190522T083305Z">
-        <seg>Lisää muoto</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130757Z" creationid="piav" creationdate="20190522T083305Z">
+        <seg>Lisää kuvio</seg>
       </tuv>
     </tu>
     <tu>
@@ -8308,8 +8308,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Cannot reset the filter to default patterns.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191030T105447Z" creationid="piav" creationdate="20190522T083251Z">
-        <seg>Suodattimen nollaaminen oletusmuotoihin ei onnistu.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130904Z" creationid="piav" creationdate="20190522T083251Z">
+        <seg>Suodattimen nollaaminen kää´´oletuskuvioita ei onnistu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12984,8 +12984,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="en">
         <seg>Edit Filter Patterns</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191030T105500Z" creationid="piav" creationdate="20190522T083301Z">
-        <seg>Muokkaa suodatusmuotoja</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130754Z" creationid="piav" creationdate="20190522T083301Z">
+        <seg>Muokkaa suodatuskuvioita</seg>
       </tuv>
     </tu>
     <tu>
@@ -13008,8 +13008,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="en">
         <seg>Edit Pattern</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191030T105505Z" creationid="piav" creationdate="20190522T083121Z">
-        <seg>Muokkaa muotoa</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130803Z" creationid="piav" creationdate="20190522T083121Z">
+        <seg>Muokkaa kuviota</seg>
       </tuv>
     </tu>
     <tu>
@@ -21215,6 +21215,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language pattern</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130810Z" creationid="piav" creationdate="20230425T130810Z">
+        <seg>Kielikuvio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LanguageTool</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T140825Z" creationid="piav" creationdate="20190916T140825Z">
@@ -27309,6 +27317,22 @@ Lähdetään kalaan.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pattern after</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130820Z" creationid="piav" creationdate="20230425T130820Z">
+        <seg>fzzMuoto jälkeen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pattern before</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130814Z" creationid="piav" creationdate="20230425T130814Z">
+        <seg>Kuvio ennen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pattern...</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T105619Z" creationid="piav" creationdate="20190522T083555Z">
@@ -33283,8 +33307,16 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Source filename pattern</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T093457Z" creationid="pia" creationdate="20221114T093457Z">
-        <seg>Lähdetiedoston nimen muoto</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130832Z" creationid="pia" creationdate="20221114T093457Z">
+        <seg>Lähdetiedoston nimikuvio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename pattern:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130807Z" creationid="piav" creationdate="20230425T130807Z">
+        <seg>Lähdetiedoston nimen muoto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40504,8 +40536,8 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Translated filename pattern</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T130520Z" creationid="piav" creationdate="20230425T130520Z">
-        <seg>Käännetyn tiedoston nimen muoto</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130837Z" creationid="piav" creationdate="20230425T130520Z">
+        <seg>Käännetyn tiedoston nimikuvio</seg>
       </tuv>
     </tu>
     <tu>
