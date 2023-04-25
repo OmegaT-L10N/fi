@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2068,6 +2068,16 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The folder used to read or write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T110608Z" creationid="piav" creationdate="20230425T110608Z">
+        <seg>--config-dir=&lt;polku&gt;
+	  Tämä on hakemisto, josta OmegaT:n määritystiedostot luetaan tai johon ne kirjoitetaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T125228Z" creationid="piav" creationdate="20191201T124840Z">
@@ -2116,12 +2126,32 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--disable-location-save
+	  Do not remember the last folder opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T110550Z" creationid="piav" creationdate="20230425T110509Z">
+        <seg>--disable-location-save
+	  Viimeksi avattu hakemisto ei jää tiedostovalitsimeen näkyviin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T080228Z" creationid="PiaVee" creationdate="20171015T083837Z">
         <seg>--disable-project-locking
 		Ei lukitse projektin omegat.project-tiedostoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-project-locking
+	  Do not attempt to lock the omegat.project file.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T110502Z" creationid="piav" creationdate="20230425T110502Z">
+        <seg>--disable-project-locking
+	  Ei lukitse projektin omegat.project-tiedostoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23290,6 +23320,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No option: Launch GUI.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T110432Z" creationid="piav" creationdate="20230425T110432Z">
+        <seg>Ei valintoja: Käynnistä GUI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No options: Launch GUI</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T153900Z" creationid="piav" creationdate="20221102T153900Z">
@@ -27609,6 +27647,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project path only: Launch GUI and load specified project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T110445Z" creationid="piav" creationdate="20230425T110445Z">
+        <seg>Vain projektipolku: Käynnistä GUI ja lataa annettu projekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project saved</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171218T083031Z" creationid="PiaVee" creationdate="20171015T124710Z">
@@ -30317,6 +30363,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20200504T142749Z" creationid="pia" creationdate="20200504T142749Z">
         <seg>Lisätietoja: &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Help &gt; User Manual for details, including available Java options.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T110426Z" creationid="piav" creationdate="20230425T110426Z">
+        <seg>Löydät lisätietoja muun muassa Java-asetuksista kohdasta Ohje &gt; Käyttäjän käsikirja.</seg>
       </tuv>
     </tu>
     <tu>
