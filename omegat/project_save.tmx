@@ -2493,8 +2493,8 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
         <seg>--stats-type=[xml|text|txt|json]
 	    Specifies the output format.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T112945Z" creationid="piav" creationdate="20230425T112945Z">
-        <seg>fzz--stats-type=[xml|text][txt][json]]]
+      <tuv lang="fi" changeid="piav" changedate="20230425T113057Z" creationid="piav" creationdate="20230425T112945Z">
+        <seg>--stats-type=[xml|text|txt|json]
 	    Määrittelee tuotoksen muodon.</seg>
       </tuv>
     </tu>
@@ -16454,6 +16454,15 @@ polulla, koko polkua ei tarvitse kirjoittaa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If --stats-type is not specified, the format is
+	    detected from the file extension.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T113138Z" creationid="piav" creationdate="20230425T113138Z">
+        <seg>Kun --stats-type-määritelmä puuttuu, tiedostomuoto tunnistetaan tiedostopäätteen perusteella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;e0&gt;Show Relevant Suggestions Automatically&lt;/e0&gt; option is checked, Auto-completer is launched automatically by typing the first letter of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T142054Z" creationid="piav" creationdate="20191030T135943Z">
@@ -26586,6 +26595,17 @@ everything.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T114627Z" creationid="PiaVee" creationdate="20171015T094257Z">
         <seg>Lisää lähdetiedostot kansioon ./source, apumateriaali kansioihin ./tm, ./glossary ja ./dictionary ja lähetä kaikki.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place source files in ./source and supplementary
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T113407Z" creationid="piav" creationdate="20230425T113407Z">
+        <seg>Lisää lähdetiedostot kansioon ./source, apumateriaali kansioihin ./tm, ./glossary ja ./dictionary ja vie (commit) kaikki versionhallintaan.
 </seg>
       </tuv>
     </tu>
@@ -40344,6 +40364,16 @@ rivillä {1}, sarakkeessa {2}.</seg>
       <tuv lang="fi" changeid="piav" changedate="20221102T155317Z" creationid="piav" creationdate="20221102T155317Z">
         <seg>Käyttö: ryhmä init &lt;lähdekieli&gt; &lt;kohdekieli&gt;
 	Ks. --help</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
+	See --help.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T113242Z" creationid="piav" creationdate="20230425T113242Z">
+        <seg>Käyttö: team init &lt;lähdekieli&gt; &lt;kohdekieli&gt;
+	Ks. --help.</seg>
       </tuv>
     </tu>
     <tu>
