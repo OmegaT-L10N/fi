@@ -7280,8 +7280,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Automatically fetch translations</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T120250Z" creationid="piav" creationdate="20191023T120250Z">
-        <seg>Hakee käännöksiä automaattisesti.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125918Z" creationid="piav" creationdate="20191023T120250Z">
+        <seg>Hae käännöksiä automaattisesti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7770,6 +7770,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bro&amp;wse...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130117Z" creationid="piav" creationdate="20230425T130117Z">
+        <seg>Selaa… (&amp;W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Brows&amp;e</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065334Z" creationid="piav" creationdate="20190521T131716Z">
@@ -7790,6 +7798,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191029T103351Z" creationid="piav" creationdate="20191029T103351Z">
         <seg>Selaa TaaS-kokoelmia…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browse&amp;...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130108Z" creationid="piav" creationdate="20230425T130108Z">
+        <seg>Selaa…</seg>
       </tuv>
     </tu>
     <tu>
@@ -13119,6 +13135,14 @@ kaukana, poissa.
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T121451Z" creationid="PiaVee" creationdate="20171218T092146Z">
         <seg>Ota ne käyttöön kohdassa &lt;b&gt;Asetukset &gt; Tallentaminen ja tuotos…&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable them in Preferences &gt; Saving and Output....</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130053Z" creationid="piav" creationdate="20230425T130053Z">
+        <seg>Ota komennot käyttöön kohdassa Asetukset &gt; Tallentaminen ja tuotos…</seg>
       </tuv>
     </tu>
     <tu>
@@ -21929,6 +21953,30 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local post-processing commands</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125950Z" creationid="piav" creationdate="20230425T125950Z">
+        <seg>Erityiset jälkikäsittelykomennot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands (disabled):</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130003Z" creationid="piav" creationdate="20230425T130003Z">
+        <seg>Erityiset jälkikäsittelykomennot (pois käytöstä):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands are disabled and will not be executed.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T130019Z" creationid="piav" creationdate="20230425T130019Z">
+        <seg>Erityiset jälkikäsittelykomennot ovat pois käytöstä, niitä ei siis suoriteta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T130921Z" creationid="piav" creationdate="20190920T125519Z">
@@ -29489,6 +29537,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T105431Z" creationid="piav" creationdate="20190522T083210Z">
         <seg>Poistetaanko muoto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove ta&amp;gs</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T125940Z" creationid="piav" creationdate="20230425T125940Z">
+        <seg>Poista tägit (&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
