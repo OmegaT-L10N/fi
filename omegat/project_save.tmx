@@ -2034,10 +2034,10 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
 	  Source- or target-language tokenizer to use (overrides project
 	  settings).</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T154259Z" creationid="piav" creationdate="20221102T154259Z">
+      <tuv lang="fi" changeid="piav" changedate="20230425T111749Z" creationid="piav" creationdate="20221102T154259Z">
         <seg>--ITokenizer=&lt;luokan nimi&gt;
 	--ITokenizerTarget=&lt;luokan nimi&gt;
-	  Projektissa käytettävä lähde- tai kohdekielen saneistin (korvaa projektin asetukset).</seg>
+	  Projektissa käytettävä lähde- tai kohdekielen saneistin (korvaa projektin asetukset)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2071,9 +2071,9 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
         <seg>--config-dir=&lt;path&gt;
 	  The folder used to read or write OmegaT configuration files.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T110608Z" creationid="piav" creationdate="20230425T110608Z">
+      <tuv lang="fi" changeid="piav" changedate="20230425T111804Z" creationid="piav" creationdate="20230425T110608Z">
         <seg>--config-dir=&lt;polku&gt;
-	  Tämä on hakemisto, josta OmegaT:n määritystiedostot luetaan tai johon ne kirjoitetaan.</seg>
+	  Hakemisto, josta OmegaT:n määritystiedostot luetaan tai johon ne kirjoitetaan</seg>
       </tuv>
     </tu>
     <tu>
@@ -2099,9 +2099,9 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
         <seg>--config-file=&lt;path&gt;
 	  A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T154311Z" creationid="piav" creationdate="20221102T154311Z">
+      <tuv lang="fi" changeid="piav" changedate="20230425T111759Z" creationid="piav" creationdate="20221102T154311Z">
         <seg>--config-file=&lt;polku&gt;
-	  Java-ominaisuuksien tiedosto (.properties), jonka perusteella oletusasetukset ladataan.</seg>
+	  Java-ominaisuuksien tiedosto (.properties), jonka perusteella oletusasetukset ladataan</seg>
       </tuv>
     </tu>
     <tu>
@@ -2149,9 +2149,9 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
         <seg>--disable-project-locking
 	  Do not attempt to lock the omegat.project file.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T110502Z" creationid="piav" creationdate="20230425T110502Z">
+      <tuv lang="fi" changeid="piav" changedate="20230425T111737Z" creationid="piav" creationdate="20230425T110502Z">
         <seg>--disable-project-locking
-	  Ei lukitse projektin omegat.project-tiedostoa.</seg>
+	  Älä lukitse projektin omegat.project-tiedostoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2283,9 +2283,9 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
         <seg>--no-team
 	  Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T154114Z" creationid="piav" creationdate="20221102T154114Z">
+      <tuv lang="fi" changeid="piav" changedate="20230425T111721Z" creationid="piav" creationdate="20221102T154114Z">
         <seg>--no-team
-	  Ryhmäprojektiominaisuus pois käytöstä</seg>
+	  Ota ryhmäprojektiominaisuus pois käytöstä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2344,10 +2344,10 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
 	  Download an omegat.project file from the URL given as &lt;project
 	  path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T154119Z" creationid="piav" creationdate="20221102T154106Z">
+      <tuv lang="fi" changeid="piav" changedate="20230425T111655Z" creationid="piav" creationdate="20221102T154106Z">
         <seg>--remote-project
-	  Noutaa omegat.project-tiedoston osoitteesta &lt;projektipolku&gt;
-	  ja lataa projektin.</seg>
+	  Nouda omegat.project-tiedosto osoitteesta &lt;projektipolku&gt;
+	  ja lataa projekti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2379,9 +2379,9 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
         <seg>--resource-bundle=&lt;path&gt;
 	  A Java .properties file to use for the interface text.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T111532Z" creationid="piav" creationdate="20230425T111532Z">
-        <seg>fzz--resource-bundle=&lt;polku&gt;
-	  Java-ominaisuuksien tiedosto ( .properties) käyttöliittymän tekstiä varten.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T111922Z" creationid="piav" creationdate="20230425T111532Z">
+        <seg>--resource-bundle=&lt;polku&gt;
+	  Java-ominaisuuksien tiedosto ( .properties) käyttöliittymän tekstiä varten</seg>
       </tuv>
     </tu>
     <tu>
@@ -2497,9 +2497,9 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
         <seg>-h, --help
 	  Print this help message.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T154003Z" creationid="piav" creationdate="20221102T154003Z">
+      <tuv lang="fi" changeid="piav" changedate="20230425T111641Z" creationid="piav" creationdate="20221102T154003Z">
         <seg>-h, --help
-	  Näyttää tarkempaa tietoa käytöstä.</seg>
+	  Näytä käyttöohjeet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48859,9 +48859,9 @@ tai</seg>
         <seg>team init &lt;source language&gt; &lt;target language&gt;
 	  Team project tool.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T154138Z" creationid="piav" creationdate="20221102T154138Z">
+      <tuv lang="fi" changeid="piav" changedate="20230425T111709Z" creationid="piav" creationdate="20221102T154138Z">
         <seg>team init &lt;lähdekieli&gt; &lt;kohdekieli&gt;
-	  Ryhmäprojektityökalu.</seg>
+	  Ryhmäprojektityökalu</seg>
       </tuv>
     </tu>
     <tu>
