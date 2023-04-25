@@ -5458,6 +5458,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add &amp;Files...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120029Z" creationid="piav" creationdate="20230425T120029Z">
+        <seg>Lisää tiedostoja…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120035Z" creationid="piav" creationdate="20230425T120035Z">
+        <seg>Lisää tiedostoja lähdekansioon…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Glossary Entry</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T074724Z" creationid="piav" creationdate="20190916T131033Z">
@@ -9851,6 +9867,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy error to clipboard</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T115839Z" creationid="piav" creationdate="20230425T115839Z">
+        <seg>Kopioi virhe leikepöydälle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the URL of the page (ending with &lt;g0&gt;action=edit&lt;/g0&gt;) and paste it into &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T143118Z" creationid="piav" creationdate="20191202T143118Z">
@@ -11921,6 +11945,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T094348Z" creationid="piav" creationdate="20190522T094348Z">
         <seg>Haluatko korvata sen nimekkeellä, jota olet siirtämässä?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do&amp;wnload Team Project...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T115931Z" creationid="piav" creationdate="20230425T115931Z">
+        <seg>Lataa ryhmäprojekti…</seg>
       </tuv>
     </tu>
     <tu>
@@ -14071,6 +14103,14 @@ Virheilmoitus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T185904Z" creationid="piav" creationdate="20190527T185904Z">
         <seg>Tiedostomuoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File (segs):</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T115925Z" creationid="piav" creationdate="20230425T115925Z">
+        <seg>Tiedosto (segmentit):</seg>
       </tuv>
     </tu>
     <tu>
@@ -24523,6 +24563,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT automatically chose the 'Yes' option.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T115901Z" creationid="piav" creationdate="20230425T115901Z">
+        <seg>OmegaT valitsi automaattisesti vaihtoehdon Kyllä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220906T183302Z" creationid="piav" creationdate="20220906T183302Z">
@@ -25645,6 +25693,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T145808Z" creationid="piav" creationdate="20191202T145808Z">
         <seg>Valinta toimii vain silloin, kun oikeinkirjoitussanasto on asennettuna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Op&amp;en Recent...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T120022Z" creationid="piav" creationdate="20230425T120022Z">
+        <seg>Avaa äskeinen...</seg>
       </tuv>
     </tu>
     <tu>
@@ -27893,6 +27949,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T125525Z" creationid="piav" creationdate="20190920T125525Z">
         <seg>Projektia ei päivitetä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T115904Z" creationid="piav" creationdate="20230425T115904Z">
+        <seg>Projekti:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35960,6 +36024,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T114837Z" creationid="piav" creationdate="20191208T114837Z">
         <seg>On selvää, että esimerkin projekti on valmistunut, sillä kaikki uniikit segmentit on käännetty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project is empty</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T115824Z" creationid="piav" creationdate="20230425T115824Z">
+        <seg>Projekti on tyhjä</seg>
       </tuv>
     </tu>
     <tu>
