@@ -22011,6 +22011,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>License</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T141249Z" creationid="piav" creationdate="20230425T141249Z">
+        <seg>fzzLisenssi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Licensing information
 =====================</seg>
       </tuv>
@@ -26657,6 +26665,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190913T084951Z" creationid="piav" creationdate="20190913T084951Z">
         <seg>Vain kun (X)HTML-tiedostossa on maininta merkistökoodauksesta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only if these changes are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T141129Z" creationid="piav" creationdate="20230425T141129Z">
+        <seg>Mikäli ehdotettuja muutoksia pidetään hyödyllisinä OmegaT-käyttäjille, kehitystiimi sisällyttää ne OmegaT-ohjelmaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36000,8 +36016,8 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
       <tuv lang="en">
         <seg>The best way for developers to have a smooth experience when proposing such changes is to follow the guidelines defined on the &lt;a0&gt;Contributing to OmegaT page&lt;/a0&gt;, which is part of the larger &lt;a1&gt;Documentation for developers&lt;/a1&gt; OmegaT offers.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T141007Z" creationid="piav" creationdate="20230425T141007Z">
-        <seg>Jouhevimmin muutosehdotuksia saa tehtyä seuraamalla &lt;a0&gt;Kanna kortesi kekoon!&lt;/a0&gt; -sivulta löytyviä ohjeita. Sivu on osa OmegaT:n laajempaa &lt;a1&gt; </seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T141042Z" creationid="piav" creationdate="20230425T141007Z">
+        <seg>Jouhevimmin muutosehdotuksia saa tehtyä seuraamalla &lt;a0&gt;Kanna kortesi kekoon!&lt;/a0&gt; -sivulta löytyviä ohjeita. Sivu on osa laajempaa OmegaT:n &lt;a1&gt;Dokumentaatio kehittäjille&lt;/a1&gt;-kokonaisuutta</seg>
       </tuv>
     </tu>
     <tu>
@@ -39208,6 +39224,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T173709Z" creationid="piav" creationdate="20191210T173017Z">
         <seg>Näin varmistetaan, että käyttäjien edut pysyvät yllä, mikä on johtanut siihen, että OmegaT on saanut &lt;a0&gt;Softpedian 100 % FREE -takuun&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This ensures that the users' interests are protected, and has also resulted in OmegaT being awarded the &lt;a2&gt;Softpedia "100% FREE" guarantee&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T141227Z" creationid="piav" creationdate="20230425T141227Z">
+        <seg>Näin varmistetaan, että käyttäjien edut pysyvät yllä, minkä ansiosta OmegaT on saanut &lt;a2&gt;Softpedian 100 % FREE -takuun&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42767,8 +42791,8 @@ Nykyinen asetus on {0} MB;</seg>
       <tuv lang="en">
         <seg>User manuals</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T085617Z" creationid="PiaVee" creationdate="20171219T093754Z">
-        <seg>Käsikirjat</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T141304Z" creationid="PiaVee" creationdate="20171219T093754Z">
+        <seg>Käyttöoppaat</seg>
       </tuv>
     </tu>
     <tu>
