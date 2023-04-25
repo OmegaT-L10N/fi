@@ -2008,6 +2008,23 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- drag and drop files on this pane;
+	- use Project &gt; Add Files...;
+	- use Project &gt; Source Files... and click on Add Files...;
+	- use your file manager to copy files to the 'source' folder,
+	  and then use Project &gt; Reload to reload the project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T114239Z" creationid="piav" creationdate="20230425T114239Z">
+        <seg>fzzVoit lisätä käännettäviä tiedostoja projektiin eri tavoin:
+- raahaa ja pudota tiedostoja editoriruutuun.
+- Valitse Projekti &gt; Kopioi tiedostoja lähdekansioon...
+- Napsauta Projektitiedostot-ikkunassa kohtaa "Kopioi tiedostoja lähdekansioon…"
+- Käytä tiedostonhallintaohjelmaa ja kopioi tiedostoja projektin /source-kansioon, lataa sitten projekti uudelleen kohdasta Projekti &gt; Lataa uudelleen.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- i.e. files with a &lt;f0&gt;.txt &lt;/f0&gt;extension - : in the &lt;e1&gt;Text files &lt;/e1&gt;section of the file filters dialog, change the &lt;e2&gt;Source File Encoding&lt;/e2&gt; from &lt;auto&gt; to the encoding that corresponds to your source &lt;f3&gt;.txt&lt;/f3&gt; file, for instance to .jp for the above example.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171220T115759Z" creationid="PiaVee" creationdate="20171220T115010Z">
@@ -29585,8 +29602,8 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Running on Java {0} ({1}-bit)</seg>
       </tuv>
-      <tuv lang="fi" changeid="PiaVee" changedate="20171015T100212Z" creationid="PiaVee" creationdate="20171015T100212Z">
-        <seg>Java {0} -käyttö ({1}-bit)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T114057Z" creationid="PiaVee" creationdate="20171015T100212Z">
+        <seg>Java {0} ({1}-bitin) -käyttö</seg>
       </tuv>
     </tu>
     <tu>
@@ -30347,8 +30364,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>See "How To...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T113905Z" creationid="piav" creationdate="20230425T113838Z">
-        <seg>Ks. kohtaa "Miten…</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230425T114009Z" creationid="piav" creationdate="20230425T113838Z">
+        <seg>Lisätietoja löytyy käyttäjän käsikirjasta: "Miten…</seg>
       </tuv>
     </tu>
     <tu>
@@ -38407,6 +38424,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add files to the project you can:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T114219Z" creationid="piav" creationdate="20230425T114219Z">
+        <seg>Lisää projektiin tiedostoja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add new terms to reference glossaries, edit them in an external text editor.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210414T165518Z" creationid="piav" creationdate="20210414T165518Z">
@@ -43373,6 +43398,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T082045Z" creationid="PiaVee" creationdate="20171015T100511Z">
         <seg>Projektissa ei ole tiedostoja, joiden tiedostomuotoja tuetaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your project does not seem to contain translatable files.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T114201Z" creationid="piav" creationdate="20230425T114201Z">
+        <seg>Näyttää siltä, että projektissa ei ole käännettäviä tiedostoja.</seg>
       </tuv>
     </tu>
     <tu>
