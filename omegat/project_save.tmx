@@ -13419,6 +13419,16 @@ kaukana, poissa.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter a language code in xx-YY, xxx-YY, xx_YY or xxx_YY format, where xx or xxx 
+is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T132902Z" creationid="piav" creationdate="20230425T132902Z">
+        <seg>Lisää kielikoodi, joka on muodossa xx-YY, xxx-YY, xx_YY tai xxx_YY.
+Kielikoodin xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T124526Z" creationid="piav" creationdate="20190916T124526Z">
@@ -20128,6 +20138,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221110T134631Z" creationid="piav" creationdate="20190521T133150Z">
         <seg>Kelpaamaton tietovaraston tyyppi: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invalid translated file language!</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T132913Z" creationid="piav" creationdate="20230425T132913Z">
+        <seg>Käännettyjen tiedostojen kieli ei kelpaa!</seg>
       </tuv>
     </tu>
     <tu>
@@ -36434,6 +36452,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The glossary files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T132941Z" creationid="piav" creationdate="20230425T132941Z">
+        <seg>Sanastotiedostojen kansiota ei ole!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T075232Z" creationid="piav" creationdate="20191022T075146Z">
@@ -37548,6 +37574,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T132921Z" creationid="piav" creationdate="20230425T132921Z">
+        <seg>Lähdetiedostojen kansiota ei ole!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source segment and the fuzzy matches must contain the same list of numbers</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T143743Z" creationid="piav" creationdate="20191030T143743Z">
@@ -37836,6 +37870,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The translated files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T132928Z" creationid="piav" creationdate="20230425T132928Z">
+        <seg>Käännettyjen tiedostojen kansiota ei ole!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translated files will then need to be converted back to the original format.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T110534Z" creationid="piav" creationdate="20191129T110534Z">
@@ -37848,6 +37890,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T063851Z" creationid="piav" creationdate="20190522T063851Z">
         <seg>Käännös on muuttunut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translation memory files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T133028Z" creationid="piav" creationdate="20230425T133028Z">
+        <seg>Käännösmuistitiedostojen kansiota ei ole!</seg>
       </tuv>
     </tu>
     <tu>
@@ -37960,6 +38010,22 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T161815Z" creationid="piav" creationdate="20191209T161459Z">
         <seg>Sana tai lauseke siirtyy automaattisesti &lt;e3&gt;Etsittävä teksti&lt;/e3&gt; -kenttään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The writable glossary file folder does not exist!</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T133002Z" creationid="piav" creationdate="20230425T133002Z">
+        <seg>Kirjoituskelpoisen sanastotiedoston kansiota ei ole!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The writable glossary file must be inside the glossary folder</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T133019Z" creationid="piav" creationdate="20230425T133019Z">
+        <seg>Kirjoituskelpoisen sanastotiedoston on oltava sanastokansiossa.</seg>
       </tuv>
     </tu>
     <tu>
