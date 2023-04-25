@@ -2376,6 +2376,16 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for the interface text.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T111532Z" creationid="piav" creationdate="20230425T111532Z">
+        <seg>fzz--resource-bundle=&lt;polku&gt;
+	  Java-ominaisuuksien tiedosto ( .properties) käyttöliittymän tekstiä varten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
