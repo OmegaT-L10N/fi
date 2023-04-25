@@ -31092,9 +31092,9 @@ katosi sivu.</seg>
         <seg>Scope:
 Searches apply to the project and cover its source and target text, reference TMs, glossaries, notes, and comments by default.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T133633Z" creationid="piav" creationdate="20230425T133633Z">
+      <tuv lang="fi" changeid="piav" changedate="20230425T133702Z" creationid="piav" creationdate="20230425T133633Z">
         <seg>Laajuus:
-Haut ovat projektikohtaisia, ja ne etsivät projektin lähde- ja kohdetksteistä, apukäännösmuisteista, sanastoista, muistiinpanoista ja kommenteista.</seg>
+Haut ovat oletusarvoisesti projektikohtaisia, ja ne etsivät projektin lähde- ja kohdekansioista, apukäännösmuisteista, sanastoista, muistiinpanoista ja kommenteista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31441,6 +31441,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T093650Z" creationid="PiaVee" creationdate="20171014T093650Z">
         <seg>Hakuikkuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searches can also be performed on a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T133836Z" creationid="piav" creationdate="20230425T133836Z">
+        <seg>Hakuja voidaan tehdä myös kaikista tietyn kansiohierarkian tiedostoista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39670,6 +39678,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T081928Z" creationid="PiaVee" creationdate="20171015T081928Z">
         <seg>tiibet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tick or untick the appropriate boxes to change these settings.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230425T133800Z" creationid="piav" creationdate="20230425T133800Z">
+        <seg>Muuta asetuksia rastittamalla sopivat kohdat tai poistamalla rasti ruudusta.</seg>
       </tuv>
     </tu>
     <tu>
