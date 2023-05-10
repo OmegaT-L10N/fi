@@ -6378,6 +6378,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All sets that match the project source language are applied.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T134417Z" creationid="piav" creationdate="20230510T134417Z">
+        <seg>Projektissa käytetään kaikkia säännöstöjä, jotka vastaavat projektin lähdekielen kielikuviota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the changes will be synchronised the next time a connection is available.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T113047Z" creationid="piav" creationdate="20191129T113047Z">
@@ -7048,6 +7056,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T173512Z" creationid="PiaVee" creationdate="20171014T173512Z">
         <seg>aragonia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Are you sure you want to remove the {0} segmentation rules set?</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T134554Z" creationid="piav" creationdate="20230510T134554Z">
+        <seg>Haluatko varmasti poistaa {0}-segmentointisäännöt?</seg>
       </tuv>
     </tu>
     <tu>
@@ -21780,6 +21796,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language sets</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T134523Z" creationid="piav" creationdate="20230510T134523Z">
+        <seg>Kielisäännöstöt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LanguageTool</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T140825Z" creationid="piav" creationdate="20190916T140825Z">
@@ -23814,6 +23838,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mo&amp;ve Up</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T134447Z" creationid="piav" creationdate="20230510T134447Z">
+        <seg>Siirrä ylös (&amp;V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Model Id:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T142113Z" creationid="piav" creationdate="20190916T142113Z">
@@ -24110,6 +24142,14 @@ paratiisista.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T134026Z" creationid="piav" creationdate="20190920T131808Z">
         <seg>Siirrä alaspäin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move F&amp;irst</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T134439Z" creationid="piav" creationdate="20230510T134439Z">
+        <seg>Siirrä ensimmäiseksi (&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24488,6 +24528,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T125359Z" creationid="piav" creationdate="20190920T125359Z">
         <seg>Uusi paikallisen projektin kansio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New language and country</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T134600Z" creationid="piav" creationdate="20230510T134600Z">
+        <seg>Uusi kieli ja alue</seg>
       </tuv>
     </tu>
     <tu>
@@ -33436,6 +33484,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T134903Z" creationid="piav" creationdate="20191030T134903Z">
         <seg>Aloita segmentti merkkien"。" (japanin kielen piste) jälkeen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set contents</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T134542Z" creationid="piav" creationdate="20230510T134542Z">
+        <seg>Sääntöjen sisältö</seg>
       </tuv>
     </tu>
     <tu>
@@ -46112,6 +46168,14 @@ käynnistää ohjelman mistä tahansa.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T085146Z" creationid="piav" creationdate="20191211T085146Z">
         <seg>Käyttämäsi asiakirjat ja käännösmuistit pysyvät omalla koneellasi, eikä OmegaT-projektilla ole pääsyä työhösi tai tietoihisi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your name/ID is used to identify your translations.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T134748Z" creationid="piav" creationdate="20230510T134748Z">
+        <seg>Tekemäsi käännökset merkitään nimelläsi/ID-tunnisteella.</seg>
       </tuv>
     </tu>
     <tu>
