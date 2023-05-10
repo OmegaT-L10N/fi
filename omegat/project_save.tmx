@@ -620,6 +620,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Check issues when leaving a segment</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T135120Z" creationid="piav" creationdate="20230510T135120Z">
+        <seg>Tarkista tägit segmentistä poistuttaessa (&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Clear Menu</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T120829Z" creationid="piav" creationdate="20190521T093221Z">
@@ -6452,8 +6460,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190916T104323Z" creationid="piav" creationdate="20190916T104323Z">
-        <seg>Salli tägien muokkaus</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T135107Z" creationid="piav" creationdate="20190916T104323Z">
+        <seg>Salli tägien muokkaus (&amp;W)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7330,6 +7338,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T143427Z" creationid="piav" creationdate="20191030T143427Z">
         <seg>Yritä muuntaa sumean osuman numeroita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Attempt to replace fuzzy match &amp;numbers</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T135056Z" creationid="piav" creationdate="20230510T135056Z">
+        <seg>Yritä muuttaa sumean osuman numeroita (&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31798,8 +31814,8 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Save aut&amp;o-populated status</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190916T104546Z" creationid="piav" creationdate="20190916T104546Z">
-        <seg>Tallenna automaattisen lisäyksen tila</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T135230Z" creationid="piav" creationdate="20190916T104546Z">
+        <seg>Tallenna automaattisen täytön tila(&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
