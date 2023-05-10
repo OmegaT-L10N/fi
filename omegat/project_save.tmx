@@ -33461,6 +33461,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped translation units for which no source segment was found.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T130224Z" creationid="piav" creationdate="20230510T130138Z">
+        <seg>Ohitettiin ne käännösyksiköt, joita vastaavia lähdesegmenttejä ei löydy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191212T055858Z" creationid="piav" creationdate="20190523T171444Z">
@@ -36002,6 +36010,22 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="fi" changeid="piav" changedate="20190523T102924Z" creationid="piav" creationdate="20190523T102924Z">
         <seg>TMX-tiedostoa ei ladata.
 Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TMX file will still be loaded.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T130250Z" creationid="piav" creationdate="20230510T130250Z">
+        <seg>Jatketaan TMX-tiedoston lataamista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TMX source language ({0}) differs from the project source language ({1}).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T130243Z" creationid="piav" creationdate="20230510T130243Z">
+        <seg>TMX-tiedoston lähdekieli ({0}) on eri kuin projektin lähdekieli ({1}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45480,6 +45504,14 @@ käynnistää ohjelman mistä tahansa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Your current project uses sentence segmentation, but the TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T130403Z" creationid="piav" creationdate="20230510T130403Z">
+        <seg>Tämänhetkinen projekti on segmentoitu lauseittain, mutta TMX-tiedostossa teksti on segmentoitu kappale kappaleelta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Your documents and translation memories remain on your computer, and the &lt;a2&gt;OmegaT&lt;/a2&gt; project will have no access to your work or information.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T112536Z" creationid="piav" creationdate="20191201T112536Z">
@@ -49039,6 +49071,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T174715Z" creationid="piav" creationdate="20190521T174715Z">
         <seg>ladattu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>loaded {0} attributes.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T130058Z" creationid="piav" creationdate="20230510T130058Z">
+        <seg>yhteensä {0} attribuuttia ladattu.</seg>
       </tuv>
     </tu>
     <tu>
