@@ -708,6 +708,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Do not insert the source text</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T134839Z" creationid="piav" creationdate="20230510T134839Z">
+        <seg>Älä lisää lähdetekstiä (&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190523T174912Z" creationid="piav" creationdate="20190523T174912Z">
@@ -1688,6 +1696,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T123158Z" creationid="PiaVee" creationdate="20171015T111322Z">
         <seg>Tilastot (&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Stop at segments that are untranslated or have alternative translations</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T135021Z" creationid="piav" creationdate="20230510T135021Z">
+        <seg>Pysähdy segmenttiin, jota ei ole käännetty tai jolle on vaihtoehtoisia käännöksiä (&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13190,6 +13206,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>E&amp;xport the segment to a text file</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T134900Z" creationid="piav" creationdate="20230510T134900Z">
+        <seg>Vie segmentti tekstitiedostoihin (&amp;X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>E&amp;xport the segment to text files</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T104022Z" creationid="piav" creationdate="20190916T104022Z">
@@ -20259,16 +20283,16 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>Insert the &amp;best fuzzy match</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190916T103705Z" creationid="piav" creationdate="20190916T103705Z">
-        <seg>Lisää paras sumea osuma</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T134849Z" creationid="piav" creationdate="20190916T103705Z">
+        <seg>Lisää paras sumea osuma (&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert the &amp;source text</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191128T073207Z" creationid="piav" creationdate="20190916T103646Z">
-        <seg>Lisää lähdeteksti</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T134827Z" creationid="piav" creationdate="20190916T103646Z">
+        <seg>Lisää lähdeteksti (&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44395,6 +44419,14 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T113211Z" creationid="piav" creationdate="20191127T112740Z">
         <seg>Kun tässä ruudussa on rasti, ohjelma poistaa lähdesegmenteistä kaikki muotoilutägit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When entering an empty segment:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T134815Z" creationid="piav" creationdate="20230510T134815Z">
+        <seg>Kun segmentti on tyhjä:</seg>
       </tuv>
     </tu>
     <tu>
