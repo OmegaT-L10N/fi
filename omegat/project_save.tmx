@@ -1230,8 +1230,8 @@
       <tuv lang="en">
         <seg>&amp;None</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T123022Z" creationid="piav" creationdate="20230425T122938Z">
-        <seg>(ei lainkaan)  (&amp;N)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T140320Z" creationid="piav" creationdate="20230425T122938Z">
+        <seg>(ei lainkaa&amp;n)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1648,6 +1648,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T123530Z" creationid="PiaVee" creationdate="20171015T122355Z">
         <seg>Näytä sopivia ehdotuksia automaattisesti (&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Simple variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T140325Z" creationid="piav" creationdate="20230510T140302Z">
+        <seg>Yksinkertai&amp;set muuttujat (esim. %s, %d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6458,6 +6466,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All variables (e.g., %s, %-s)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T140336Z" creationid="piav" creationdate="20230510T140336Z">
+        <seg>Kaikki muuttujat (esim. %s, %-s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230510T135107Z" creationid="piav" creationdate="20190916T104323Z">
@@ -8866,6 +8882,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check &amp;Java MessageFormat placeholders (e.g. {0})</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T140402Z" creationid="piav" creationdate="20230510T140402Z">
+        <seg>Tarkista yksinkertaiset Java-kielen MessageFormat-muodot (esim. {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T125449Z" creationid="piav" creationdate="20190916T125449Z">
@@ -9126,6 +9150,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T140523Z" creationid="piav" creationdate="20191030T140523Z">
         <seg>Merkitse tai jätä merkitsemättä sääntöjä sen mukaan, sopivatko ne tektiin, jota olet kääntämässä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check printf function variables:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T140239Z" creationid="piav" creationdate="20230510T140239Z">
+        <seg>Tarkista printf-muuttujat:</seg>
       </tuv>
     </tu>
     <tu>
