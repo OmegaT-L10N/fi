@@ -2434,6 +2434,16 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=[console mode name]
+	  Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T125350Z" creationid="piav" creationdate="20230510T125350Z">
+        <seg>fzz--mode=[konsolitilan nimi]
+	  Määrittelee muun kuin oletusmuotoisen käyttötilan (GUI).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=[console mode name] &lt;project path&gt; &lt;mode options&gt;
 	  Specify a mode other than the GUI default.</seg>
       </tuv>
@@ -2467,6 +2477,18 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
 	    A directory containing the translated files.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T154656Z" creationid="piav" creationdate="20221102T154656Z">
+        <seg>--mode=console-align
+	--alignDir=&lt;polku&gt;
+	    Hakemisto, jossa käännetyt tiedostot ovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    A folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T125436Z" creationid="piav" creationdate="20230510T125409Z">
         <seg>--mode=console-align
 	--alignDir=&lt;polku&gt;
 	    Hakemisto, jossa käännetyt tiedostot ovat</seg>
@@ -2540,6 +2562,20 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T155204Z" creationid="piav" creationdate="20221102T154930Z">
         <seg>--mode=console-stats
+	  project_path
+	    Projektipolku
+	  --output-file=[tilastotiedosto]
+	    Tulostaa tilaston kyseiseen tiedostoon. Jos tilastoa ei ole annettu, tulostaa tilastotiedot stdput-tulosteeseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats
+	  project_path
+	    The path to the project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T125422Z" creationid="piav" creationdate="20230510T125422Z">
+        <seg>fzz--mode=console-stats
 	  project_path
 	    Projektipolku
 	  --output-file=[tilastotiedosto]
