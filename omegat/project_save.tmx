@@ -12533,6 +12533,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not use the file name to &amp;identify alternate translations</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133829Z" creationid="piav" creationdate="20230510T133829Z">
+        <seg>Älä käytä tiedostonimeä vaihtoehtoisten käännösten tunnisteena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not use the file name to identify alternate translations</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T083211Z" creationid="pia" creationdate="20221114T083211Z">
@@ -15080,6 +15088,14 @@ Virheilmoitus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filename variables:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133841Z" creationid="piav" creationdate="20230510T133841Z">
+        <seg>Tiedostonimen muuttujat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files containing formatting (ODF documents, HTML documents, etc.) are segmented on the block-level (paragraph) tags.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T125529Z" creationid="piav" creationdate="20191030T125529Z">
@@ -16707,6 +16723,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HTML file too big!</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133910Z" creationid="piav" creationdate="20230510T133910Z">
+        <seg>HTML-tiedosto on liian iso!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTML user manual online</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T090203Z" creationid="piav" creationdate="20191211T090203Z">
@@ -16931,6 +16955,14 @@ lopullisesti.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T133253Z" creationid="piav" creationdate="20230425T133253Z">
         <seg>Piilota valinnat (&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133818Z" creationid="piav" creationdate="20230510T133818Z">
+        <seg>Poista alussa ja lopussa olevat tägit</seg>
       </tuv>
     </tu>
     <tu>
@@ -18401,6 +18433,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there is a declaration, that encoding will be used regardless of the setting specified here.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133948Z" creationid="piav" creationdate="20230510T133948Z">
+        <seg>Jos merkistökoodaus on mainittu, ohjelma käyttää sitä riippumatta tämän kohdan arvosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T110503Z" creationid="piav" creationdate="20191208T110503Z">
@@ -19133,6 +19173,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="pia" creationdate="20221114T141629Z">
         <seg>Sellaiset &lt;meta&gt;-tägit, joiden ”content”-attribuutin arvot jätetään huomiotta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignored paragraphs (regular expression)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133958Z" creationid="piav" creationdate="20230510T133958Z">
+        <seg>Huomiotta jätetyt kappaleet (säännölliset lausekkeet)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25328,6 +25376,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: The Source file encoding setting only affects HTML files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133922Z" creationid="piav" creationdate="20230510T133922Z">
+        <seg>Huom.: Lähdetiedoston merkistökoodauksen asetukset koskevat ainoastaan HTML-tiedostoja, joissa ei ole mainintaa merkistökoodauksesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: filenames (in first column) can be sorted alphabetically by clicking in the header.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191212T075515Z" creationid="piav" creationdate="20191212T075515Z">
@@ -28818,6 +28874,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preserve &amp;spaces for all tags</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133822Z" creationid="piav" creationdate="20230510T133822Z">
+        <seg>Jätä kaikkien tägien välilyönnit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preserve spaces &amp;for all tags</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T191252Z" creationid="piav" creationdate="20190527T191252Z">
@@ -29258,6 +29322,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171218T085924Z" creationid="PiaVee" creationdate="20171218T085924Z">
         <seg>Projektitilastot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project autosaved at {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133904Z" creationid="piav" creationdate="20230510T133904Z">
+        <seg>Projekti tallennettu automaattisesti klo {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -32946,8 +33018,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Select a filter and click on Edit... or Options... to customize it.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T123817Z" creationid="piav" creationdate="20230425T123817Z">
-        <seg>fzzValitse listalta suodatin ja napsauta &lt;g0&gt;Valinnat...&lt;/g0&gt;-painiketta, niin pääset muokkaamaan niitä.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133753Z" creationid="piav" creationdate="20230425T123817Z">
+        <seg>Valitse suodatin ja napsauta joko Muokkaa… tai Valinnat..., niin pääset muokkaamaan sen asetuksia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34172,6 +34244,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230510T131557Z" creationid="piav" creationdate="20230510T131557Z">
         <seg>Lähdetiedoston merkistökoodaus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source file encoding:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133833Z" creationid="piav" creationdate="20230510T133833Z">
+        <seg>Lähdetiedoston merkistökoodaus:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41750,6 +41830,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated file encoding:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133836Z" creationid="piav" creationdate="20230510T133836Z">
+        <seg>Käännetyn tiedoston merkistökoodaus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
@@ -42411,8 +42499,8 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       <tuv lang="en">
         <seg>Uncheck the box to disable it.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T133659Z" creationid="piav" creationdate="20230510T133659Z">
-        <seg>fzzJos et halua kääntää tietyn suodattimen mukaisia tiedostoja, ota suodatin pois käytöstä poistamalla rasti sen viereisestä ruudusta.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133811Z" creationid="piav" creationdate="20230510T133659Z">
+        <seg>Ota suodatin pois käytöstä poistamalla rasti sen viereisestä ruudusta.</seg>
       </tuv>
     </tu>
     <tu>
