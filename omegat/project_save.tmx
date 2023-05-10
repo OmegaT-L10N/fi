@@ -2574,12 +2574,10 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
 	  project_path
 	    The path to the project.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T125422Z" creationid="piav" creationdate="20230510T125422Z">
-        <seg>fzz--mode=console-stats
+      <tuv lang="fi" changeid="piav" changedate="20230510T125459Z" creationid="piav" creationdate="20230510T125422Z">
+        <seg>--mode=console-stats
 	  project_path
-	    Projektipolku
-	  --output-file=[tilastotiedosto]
-	    Tulostaa tilaston kyseiseen tiedostoon. Jos tilastoa ei ole annettu, tulostaa tilastotiedot stdput-tulosteeseen.</seg>
+	    Projektipolku</seg>
       </tuv>
     </tu>
     <tu>
@@ -2620,6 +2618,18 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
       <tuv lang="fi" changeid="piav" changedate="20230425T111721Z" creationid="piav" creationdate="20221102T154114Z">
         <seg>--no-team
 	  Ota ryhmäprojektiominaisuus pois käytöstä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T125554Z" creationid="piav" creationdate="20230510T125554Z">
+        <seg>--output-file=[tilastotiedosto]
+	    Tilastotiedot tulostetaan mainittuun tiedostoon.
+	    Ilman tätä valintaa tai jos tiedostoa ei ole nimetty, tilastotiedot tulostetaan standardivirtaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44048,6 +44058,16 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
     <tu>
       <tuv lang="en">
         <seg>Wildcards:
+Both exact and keyword searches support the * and ?</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T125732Z" creationid="piav" creationdate="20230510T125656Z">
+        <seg>Jokerimerkit:
+Sekä täsmähaussa että avainsanahaussa voidaan käyttää merkkejä * ja ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wildcards:
 Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T121529Z" creationid="piav" creationdate="20190521T140527Z">
@@ -51869,6 +51889,14 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T114457Z" creationid="piav" creationdate="20191201T114457Z">
         <seg>jossa &lt;p0&gt;kansio&lt;/p0&gt; on sen kansion koko polku, jonne olet tallentanut &lt;a1&gt;OmegaT&lt;/a1&gt; ohjelman, eli tarkemmin sanottuna &lt;f2&gt;OmegaT.jar&lt;/f2&gt;-tiedoston sijainti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>wildcards.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T125739Z" creationid="piav" creationdate="20230510T125659Z">
+        <seg>jokerimerkkeinä.</seg>
       </tuv>
     </tu>
     <tu>
