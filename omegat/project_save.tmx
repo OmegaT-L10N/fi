@@ -6682,6 +6682,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although seen as daunting and complex, even the simplest regular expressions (often abbreviated &lt;e0&gt;regex&lt;/e0&gt; or &lt;e1&gt;regexp&lt;/e1&gt;) are extremely useful, not only in OmegaT, but in many other applications you might use on a day-to-day basis, with some variations.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T141542Z" creationid="piav" creationdate="20230510T141542Z">
+        <seg>fzzHakutoiminnoissa ja segmentointisäännöissä käytetään Java-ohjelmointikielen tukemia säännöllisiä lausekkeita (lyhyesti: regex).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T063914Z" creationid="piav" creationdate="20191023T063914Z">
@@ -10677,8 +10685,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Count &amp;flagged text and custom tags in statistics</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T140734Z" creationid="piav" creationdate="20230510T140720Z">
-        <seg>Laske merkitty teksti ja mukautetut tägit mukaan tilastoihin</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T141342Z" creationid="piav" creationdate="20230510T140720Z">
+        <seg>Laske merkityt tekstinpätkät ja mukautetut tägit mukaan tilastoihin</seg>
       </tuv>
     </tu>
     <tu>
@@ -11657,6 +11665,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T075110Z" creationid="piav" creationdate="20190522T074843Z">
         <seg>Oma merkkitaulukko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom tags (regular expression):</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T141439Z" creationid="piav" creationdate="20230510T141439Z">
+        <seg>Mukautetut tägit (säännöllisinä lausekkeina):</seg>
       </tuv>
     </tu>
     <tu>
@@ -15402,16 +15418,16 @@ Virheilmoitus.</seg>
       <tuv lang="en">
         <seg>Flagged text</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T140803Z" creationid="piav" creationdate="20230510T140803Z">
-        <seg>Merkitty teksti</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T141358Z" creationid="piav" creationdate="20230510T140803Z">
+        <seg>Merkitty tekstinpätkä</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Flagged text (regular expression):</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T140756Z" creationid="piav" creationdate="20230510T140756Z">
-        <seg>Merkittty teksti (säännöllinen testi):</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T141532Z" creationid="piav" creationdate="20230510T140756Z">
+        <seg>Huomioliputetut tekstinpätkät (säännöllisinä lausekkeina):</seg>
       </tuv>
     </tu>
     <tu>
@@ -19347,8 +19363,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>Ignored paragraphs (regular expression)</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T134012Z" creationid="piav" creationdate="20230510T133958Z">
-        <seg>Huomiotta jätetyt kappaleet (säännöllinen lauseke)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T141449Z" creationid="piav" creationdate="20230510T133958Z">
+        <seg>Huomiotta jätetyt kappaleet (säännöllisinä lausekkeina)</seg>
       </tuv>
     </tu>
     <tu>
