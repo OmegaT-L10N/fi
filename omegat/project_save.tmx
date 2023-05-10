@@ -7366,6 +7366,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Authenticated proxy credentials:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T140021Z" creationid="piav" creationdate="20230510T140021Z">
+        <seg>välityspalvelimen tunnistetiedot:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Authentication</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T125308Z" creationid="piav" creationdate="20190920T125308Z">
@@ -11593,6 +11601,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065518Z" creationid="piav" creationdate="20190522T074419Z">
         <seg>Mukauta merkkitaulukkoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Customize segment modification &amp;information</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T135939Z" creationid="piav" creationdate="20230510T135914Z">
+        <seg>Mukauta segmentin muokkaustietoja (&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -34873,6 +34889,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard template</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T135827Z" creationid="piav" creationdate="20230510T135827Z">
+        <seg>Oletusmalli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
@@ -35911,6 +35935,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T081651Z" creationid="PiaVee" creationdate="20171015T081651Z">
         <seg>telugu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Template for segments without date</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T135906Z" creationid="piav" creationdate="20230510T135906Z">
+        <seg>Muokkaustietojen malli (käytetään segmenteissä, joissa ei ole päivämäärää)</seg>
       </tuv>
     </tu>
     <tu>
