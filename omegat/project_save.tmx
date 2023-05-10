@@ -388,6 +388,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow blank target segments</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T131903Z" creationid="piav" creationdate="20230510T131903Z">
+        <seg>Kohdesegmentit voivat olla tyhjiä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190523T171744Z" creationid="piav" creationdate="20190523T171724Z">
@@ -1276,6 +1284,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Preserve whitespace for all tags</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T131804Z" creationid="piav" creationdate="20230510T131804Z">
+        <seg>Jätä kaikkien tägien tyhjätilamerkit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Previous Segment</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T121840Z" creationid="PiaVee" creationdate="20171015T110538Z">
@@ -1559,6 +1575,14 @@
         <seg>&amp;Sheet Names</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T171404Z" creationid="piav" creationdate="20190521T180408Z">
+        <seg>Arkkien nimet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Sheet names</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T131658Z" creationid="piav" creationdate="20230510T131658Z">
         <seg>Arkkien nimet</seg>
       </tuv>
     </tu>
@@ -5437,6 +5461,14 @@ Nykyinen asetus on {0} MB.</seg>
         <seg>A&amp;ggregate Tags</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T172006Z" creationid="piav" creationdate="20190527T172006Z">
+        <seg>Yhdistä tägit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A&amp;ggregate tags</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T131755Z" creationid="piav" creationdate="20230510T131755Z">
         <seg>Yhdistä tägit</seg>
       </tuv>
     </tu>
@@ -12565,6 +12597,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DocBook files must have a proper DOCTYPE declaration.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T131653Z" creationid="piav" creationdate="20230510T131635Z">
+        <seg>DocBook-tiedostoissa on käytettävä kunnollista DOCTYPE-mainintaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dock</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T133120Z" creationid="piav" creationdate="20190916T133105Z">
@@ -12968,6 +13008,14 @@ bittiavaruus.</seg>
         <seg>Duplicate Fallbac&amp;k Text</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T171334Z" creationid="piav" creationdate="20190527T171018Z">
+        <seg>Kaksinkertainen varateksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Duplicate fallbac&amp;k text</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T131731Z" creationid="piav" creationdate="20230510T131731Z">
         <seg>Kaksinkertainen varateksti</seg>
       </tuv>
     </tu>
@@ -14564,6 +14612,14 @@ Virheilmoitus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T090600Z" creationid="piav" creationdate="20191211T090600Z">
         <seg>Ulkoinen dokumentaatio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External lin&amp;ks</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T131748Z" creationid="piav" creationdate="20230510T131748Z">
+        <seg>Ulkoiset linkit</seg>
       </tuv>
     </tu>
     <tu>
@@ -23454,6 +23510,22 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Microsoft Office Open XML</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T131702Z" creationid="piav" creationdate="20230510T131702Z">
+        <seg>Microsoft Office Open XML -tiedostot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Microsoft Office Open XML (legacy filter)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T131720Z" creationid="piav" creationdate="20230510T131720Z">
+        <seg>Microsoft Office Open XML (vanha suodatin)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Microsoft Office Open XML files</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T100136Z" creationid="piav" creationdate="20191030T100136Z">
@@ -24740,6 +24812,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T113823Z" creationid="piav" creationdate="20191127T113823Z">
         <seg>Näkymätön muotoilu (mikä ei siis näy tägeinä OmegaT-editorissa) säilyy ennallaan kohdeasiakirjoissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-visible instruction te&amp;xt</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T131724Z" creationid="piav" creationdate="20230510T131724Z">
+        <seg>Näkymätön ohjeteksti</seg>
       </tuv>
     </tu>
     <tu>
@@ -27534,6 +27614,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other options:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T131752Z" creationid="piav" creationdate="20230510T131752Z">
+        <seg>Muut asetukset:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other plain text or formatted text file formats suitable for processing in OmegaT may also exist.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T110437Z" creationid="piav" creationdate="20191129T110437Z">
@@ -27626,6 +27714,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T122306Z" creationid="piav" creationdate="20191128T122306Z">
         <seg>PDF-tiedostot ovat erikoisia tapauksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PDF text contents</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T131837Z" creationid="piav" creationdate="20230510T131837Z">
+        <seg>PDF:n tekstisisältö</seg>
       </tuv>
     </tu>
     <tu>
@@ -28508,6 +28604,14 @@ onko sinun tehtävä vielä muuta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T171406Z" creationid="piav" creationdate="20190527T171406Z">
         <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PowerPoint</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T131734Z" creationid="piav" creationdate="20230510T131734Z">
+        <seg>PowerPoint</seg>
       </tuv>
     </tu>
     <tu>
@@ -31156,6 +31260,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>S&amp;lide comments</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T131739Z" creationid="piav" creationdate="20230510T131739Z">
+        <seg>Dian kommentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T133405Z" creationid="piav" creationdate="20190521T134953Z">
@@ -33528,6 +33640,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sli&amp;de masters</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T131742Z" creationid="piav" creationdate="20230510T131742Z">
+        <seg>Dian perustyylit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Slide La&amp;youts</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T171617Z" creationid="piav" creationdate="20190527T171617Z">
@@ -33540,6 +33660,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T140540Z" creationid="pia" creationdate="20221114T140540Z">
         <seg>Dian kommentit, dian perustyylit ja dian asettelut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slide la&amp;youts</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T131745Z" creationid="piav" creationdate="20230510T131745Z">
+        <seg>Dian rakenteet</seg>
       </tuv>
     </tu>
     <tu>
@@ -33900,6 +34028,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T081833Z" creationid="piav" creationdate="20190522T081822Z">
         <seg>Lähdelukema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source file encoding</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T131557Z" creationid="piav" creationdate="20230510T131557Z">
+        <seg>Lähdetiedoston merkistökoodaus</seg>
       </tuv>
     </tu>
     <tu>
@@ -34357,6 +34493,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
         <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T172740Z" creationid="piav" creationdate="20190527T172740Z">
+        <seg>Wordin pehmeä rivinvaihto aloittaa uuden kappaleen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new paragraph &amp;on Word soft return</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T131823Z" creationid="piav" creationdate="20230510T131823Z">
         <seg>Wordin pehmeä rivinvaihto aloittaa uuden kappaleen</seg>
       </tuv>
     </tu>
@@ -41386,6 +41530,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T125021Z" creationid="piav" creationdate="20230425T125021Z">
         <seg>Käännetty tiedosto on luotu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated file encoding</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T131604Z" creationid="piav" creationdate="20230510T131604Z">
+        <seg>Käännetyn tiedoston merkistökoodaus</seg>
       </tuv>
     </tu>
     <tu>
