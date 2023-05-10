@@ -9930,6 +9930,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Compress whitespace in translated file</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T134004Z" creationid="piav" creationdate="20230510T134004Z">
+        <seg>fzzTiivistä käännetyn asiakirjan tyhjätila</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Con&amp;figure</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T135017Z" creationid="piav" creationdate="20190920T135017Z">
@@ -16299,6 +16307,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T134107Z" creationid="piav" creationdate="20230510T134107Z">
+        <seg>Yleiset segmentointisäännöt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global spell checking</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T092459Z" creationid="PiaVee" creationdate="20171014T092459Z">
@@ -19179,8 +19195,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>Ignored paragraphs (regular expression)</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T133958Z" creationid="piav" creationdate="20230510T133958Z">
-        <seg>Huomiotta jätetyt kappaleet (säännölliset lausekkeet)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T134012Z" creationid="piav" creationdate="20230510T133958Z">
+        <seg>Huomiotta jätetyt kappaleet (säännöllinen lauseke)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22574,6 +22590,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T134135Z" creationid="piav" creationdate="20230510T134135Z">
+        <seg>Erityiset segmentointisäännöt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local file mapping:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20201211T140952Z" creationid="piav" creationdate="20201211T140952Z">
@@ -25372,6 +25396,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190913T085001Z" creationid="piav" creationdate="20190913T075815Z">
         <seg>Huom.: Lähdetiedoston merkistökoodauksen asetukset koskevat ainoastaan HTML-tiedostoja, joissa ei ole mainintaa merkistökoodauksesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: The Source File Encoding setting only affects HHC and HHK files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T134046Z" creationid="piav" creationdate="20230510T134046Z">
+        <seg>Huom.: Lähdetiedoston merkistökoodauksen asetukset koskevat ainoastaan HHC- ja HHK-tiedostoja, joissa ei ole mainintaa merkistökoodauksesta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30354,6 +30386,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove HTML comments</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T134022Z" creationid="piav" creationdate="20230510T134022Z">
+        <seg>Poista HTML-kommentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T101337Z" creationid="piav" creationdate="20190913T095947Z">
@@ -34512,6 +34552,15 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specific sets should be put above general sets:
+"FR-CA" should be above "FR.*", which should be above ".*".</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T134352Z" creationid="piav" creationdate="20230510T134352Z">
+        <seg>Erityiset säännöt tulisi mainita ennen yleisiä sääntöjä: esimerkiksi FR-CA pitäisi olla kohdan FR.* yläpuolella, jonka puolestaan pitäisi olla kohdan .* yläpuolella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T140447Z" creationid="piav" creationdate="20190920T140447Z">
@@ -34749,6 +34798,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
         <seg>Start a new paragraph on:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190913T100007Z" creationid="piav" creationdate="20190913T100007Z">
+        <seg>Merkki, joka aloittaa uuden kappaleen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new segment on:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T134026Z" creationid="piav" creationdate="20230510T134026Z">
         <seg>Merkki, joka aloittaa uuden kappaleen:</seg>
       </tuv>
     </tu>
