@@ -7946,6 +7946,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Block the creation of translated files with tag &amp;issues</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T140706Z" creationid="piav" creationdate="20230510T140706Z">
+        <seg>Poista mahdollisuus luoda käännettyjä asiakirjoja, joissa on tägiongelmia (&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Blog pages on OmegaT.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T092240Z" creationid="piav" creationdate="20191211T092240Z">
@@ -8766,6 +8774,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T111355Z" creationid="piav" creationdate="20191127T111355Z">
         <seg>Segmentointisääntöjen muuttaminen saattaa jakaa tai yhdistää joitakin jo käännettyjä segmenttejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing the tag order may break the translated file!</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T140617Z" creationid="piav" creationdate="20230510T140617Z">
+        <seg>Tägijärjestyksen muuttaminen voi rikkoa käännetyn asiakirjan!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10647,6 +10663,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T125721Z" creationid="piav" creationdate="20190920T125721Z">
         <seg>Tunnistetietojen tallentaminen tekstitiedostoon ei onnistunut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Count &amp;flagged text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T140720Z" creationid="piav" creationdate="20230510T140720Z">
+        <seg>Laske suojeltu teksti ja mukautetut tägit mukaan tilastoihin</seg>
       </tuv>
     </tu>
     <tu>
