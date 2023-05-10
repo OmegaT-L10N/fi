@@ -892,6 +892,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132315Z" creationid="piav" creationdate="20230510T132315Z">
+        <seg>Pakota &lt;it pos="end"&gt; -tägien pikanäppäimeksi "&lt;f &gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T130240Z" creationid="piav" creationdate="20190527T170556Z">
@@ -35202,6 +35210,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tag handling compatibility</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132232Z" creationid="piav" creationdate="20230510T132211Z">
+        <seg>Tägien käsittelyn yhteensopivuus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tag name:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T143254Z" creationid="piav" creationdate="20190521T143254Z">
@@ -35220,8 +35236,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Tag shortcuts (do not apply to OmegaT 2.6 compatible files):</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T135238Z" creationid="pia" creationdate="20221114T135238Z">
-        <seg>Tägien oiko</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132522Z" creationid="pia" creationdate="20221114T135238Z">
+        <seg>Tägien pikanäppäimet (eivät käytössä OmegaT 2.6 -yhteensopiville tiedostoille):</seg>
       </tuv>
     </tu>
     <tu>
@@ -44906,6 +44922,14 @@ ei enää löydy.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T180111Z" creationid="piav" creationdate="20190521T180111Z">
         <seg>XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF (legacy filter)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132158Z" creationid="piav" creationdate="20230510T132158Z">
+        <seg>XLIFF (vanha suodatin)</seg>
       </tuv>
     </tu>
     <tu>
