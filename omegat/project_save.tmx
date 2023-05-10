@@ -10491,6 +10491,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copyright © 2000-2022 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133326Z" creationid="piav" creationdate="20230510T133326Z">
+        <seg>Copyright © 2000–2022 Keith Godfrey, Maxym Mykhalchuk sekä muut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T173922Z" creationid="PiaVee" creationdate="20171014T173917Z">
@@ -15218,7 +15226,7 @@ Virheilmoitus.</seg>
       <tuv lang="en">
         <seg>Flash XML Export</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190527T105906Z" creationid="piav" creationdate="20190527T105903Z">
+      <tuv lang="fi" changeid="piav" changedate="20230510T133301Z" creationid="piav" creationdate="20190527T105903Z">
         <seg>Flash XML Export</seg>
       </tuv>
     </tu>
@@ -26165,6 +26173,14 @@ resursseineen käännösprojekteiksi, joita on helppo hallita ja päivittää.</
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a free and open source multiplatform computer-assisted translation (CAT) tool offering fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133603Z" creationid="piav" creationdate="20230510T133603Z">
+        <seg>fzzOmegaT on vapaa ja avoin CAT-työkalu (CAT = computer-assisted translation, tietokoneavusteinen kääntäminen), joka toimii eri käyttöjärjestelmissä. OmegaT tarjoaa käännöstyön avuksi käännösmuistin, erilaisia sanastoja ja sumeita käännösosumia sekä kokoaa käännökset resursseineen käännösprojekteiksi, joita on helppo hallita ja päivittää.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191218T134541Z" creationid="piav" creationdate="20191218T134508Z">
@@ -31376,6 +31392,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T185045Z" creationid="piav" creationdate="20190527T185045Z">
         <seg>SQLJet (lisenssi: GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SVG / Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133310Z" creationid="piav" creationdate="20230510T133200Z">
+        <seg>SVG / Adobe Illustrator Export</seg>
       </tuv>
     </tu>
     <tu>
@@ -44722,6 +44746,14 @@ ei enää löydy.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T180129Z" creationid="piav" creationdate="20190521T180129Z">
         <seg>Wordpress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wordpress XML export</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133317Z" creationid="piav" creationdate="20230510T133215Z">
+        <seg>Wordpress XML export</seg>
       </tuv>
     </tu>
     <tu>
