@@ -4168,6 +4168,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Tag Issues&lt;/g0&gt; (always selected): detects missing or misplaced tags, including custom tags and flagged text.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T141331Z" creationid="piav" creationdate="20230510T141331Z">
+        <seg>&lt;g0&gt;Tägivirheet&lt;/g0&gt; (aina valittuna): puuttuvat tai väärin sijoitetut tavanomaiset ja mukautetut tägit sekä merkityt tekstinpätkät.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20200704T142813Z" creationid="piav" creationdate="20191202T145816Z">
@@ -10669,8 +10677,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Count &amp;flagged text and custom tags in statistics</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T140720Z" creationid="piav" creationdate="20230510T140720Z">
-        <seg>Laske suojeltu teksti ja mukautetut tägit mukaan tilastoihin</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T140734Z" creationid="piav" creationdate="20230510T140720Z">
+        <seg>Laske merkitty teksti ja mukautetut tägit mukaan tilastoihin</seg>
       </tuv>
     </tu>
     <tu>
@@ -15388,6 +15396,22 @@ Virheilmoitus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T081321Z" creationid="piav" creationdate="20191128T081225Z">
         <seg>Vaaditut korjaukset ovat pikkutoimia, ja OmegaT:n antama virheilmoitus on apuna vianmäärityksessä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Flagged text</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T140803Z" creationid="piav" creationdate="20230510T140803Z">
+        <seg>Merkitty teksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Flagged text (regular expression):</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T140756Z" creationid="piav" creationdate="20230510T140756Z">
+        <seg>Merkittty teksti (säännöllinen testi):</seg>
       </tuv>
     </tu>
     <tu>
