@@ -4170,8 +4170,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Tag Issues&lt;/g0&gt; (always selected): detects missing or misplaced tags, including custom tags and flagged text.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T141331Z" creationid="piav" creationdate="20230510T141331Z">
-        <seg>&lt;g0&gt;Tägivirheet&lt;/g0&gt; (aina valittuna): puuttuvat tai väärin sijoitetut tavanomaiset ja mukautetut tägit sekä merkityt tekstinpätkät.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T141644Z" creationid="piav" creationdate="20230510T141331Z">
+        <seg>&lt;g0&gt;Tägivirheet&lt;/g0&gt; (aina valittuna): puuttuvat tai väärin sijoitetut tavanomaiset ja mukautetut tägit sekä huomioliputetut tekstinpätkät.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10685,8 +10685,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Count &amp;flagged text and custom tags in statistics</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T141342Z" creationid="piav" creationdate="20230510T140720Z">
-        <seg>Laske merkityt tekstinpätkät ja mukautetut tägit mukaan tilastoihin</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T141658Z" creationid="piav" creationdate="20230510T140720Z">
+        <seg>Laske huomioliputetut tekstinpätkät ja mukautetut tägit mukaan tilastoihin</seg>
       </tuv>
     </tu>
     <tu>
@@ -11673,6 +11673,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230510T141439Z" creationid="piav" creationdate="20230510T141439Z">
         <seg>Mukautetut tägit (säännöllisinä lausekkeina):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom tags and flagged text: as with OmegaT tags, they are not counted by default in the statistics, but you can have OmegaT count them as words.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T142034Z" creationid="piav" creationdate="20230510T141830Z">
+        <seg>Mukautetut tägit ja huomioliputetut tekstinpätkät: Oletusarvona on että näitä, kuten muitakaan OmegaT-tägejä, ei lasketa mukaan tilastoihin, mutta voit saada OmegaT:n laskemaan ne sanoiksi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15418,8 +15426,8 @@ Virheilmoitus.</seg>
       <tuv lang="en">
         <seg>Flagged text</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T141358Z" creationid="piav" creationdate="20230510T140803Z">
-        <seg>Merkitty tekstinpätkä</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T141707Z" creationid="piav" creationdate="20230510T140803Z">
+        <seg>Huomioliputetut tekstinpätkät</seg>
       </tuv>
     </tu>
     <tu>
