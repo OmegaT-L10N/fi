@@ -24,32 +24,32 @@
       <tuv lang="en">
         <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
       </tuv>
-      <tuv lang="fi" changeid="PiaVee" changedate="20170910T091251Z" creationid="PiaVee" creationdate="20170910T091251Z">
-        <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="PiaVee" creationdate="20170910T091251Z">
+        <seg>”Cannot launch from folder that contains a \”/\” in its name.”;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"Main class name is required.";</seg>
       </tuv>
-      <tuv lang="fi" changeid="PiaVee" changedate="20170910T091230Z" creationid="PiaVee" creationdate="20170910T091214Z">
-        <seg>"Main class name is required.";</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="PiaVee" creationdate="20170910T091214Z">
+        <seg>”Main class name is required.”;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"This application requires that Java %d or later be installed on your computer.</seg>
       </tuv>
-      <tuv lang="fi" changeid="PiaVee" changedate="20170910T091318Z" creationid="PiaVee" creationdate="20170910T090252Z">
-        <seg>"This application requires that Java %d or later be installed on your computer.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="PiaVee" creationdate="20170910T090252Z">
+        <seg>”This application requires that Java %d or later be installed on your computer.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"This application requires that a Java %d JDK or later be installed on your computer.</seg>
       </tuv>
-      <tuv lang="fi" changeid="PiaVee" changedate="20170910T091308Z" creationid="PiaVee" creationdate="20170910T090324Z">
-        <seg>"This application requires that a Java %d JDK or later be installed on your computer.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="PiaVee" creationdate="20170910T090324Z">
+        <seg>”This application requires that a Java %d JDK or later be installed on your computer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64,24 +64,24 @@
       <tuv lang="en">
         <seg>"Unable to enumerate Java directory contents.";</seg>
       </tuv>
-      <tuv lang="fi" changeid="PiaVee" changedate="20170910T091238Z" creationid="PiaVee" creationdate="20170910T091238Z">
-        <seg>"Unable to enumerate Java directory contents.";</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="PiaVee" creationdate="20170910T091238Z">
+        <seg>”Unable to enumerate Java directory contents.”;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"Unable to load Java Runtime Environment.";</seg>
       </tuv>
-      <tuv lang="fi" changeid="PiaVee" changedate="20170910T091331Z" creationid="PiaVee" creationdate="20170910T090011Z">
-        <seg>"Unable to load Java Runtime Environment.";</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="PiaVee" creationdate="20170910T090011Z">
+        <seg>”Unable to load Java Runtime Environment.”;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"Unable to load a Java %d Runtime Environment.";</seg>
       </tuv>
-      <tuv lang="fi" changeid="PiaVee" changedate="20170910T091325Z" creationid="PiaVee" creationdate="20170910T090022Z">
-        <seg>"Unable to load a Java %d Runtime Environment.";</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="PiaVee" creationdate="20170910T090022Z">
+        <seg>”Unable to load a Java %d Runtime Environment.”;</seg>
       </tuv>
     </tu>
     <tu>
@@ -894,8 +894,8 @@
       <tuv lang="en">
         <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T132315Z" creationid="piav" creationdate="20230510T132315Z">
-        <seg>Pakota &lt;it pos="end"&gt; -tägien pikanäppäimeksi "&lt;f &gt;"</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="piav" creationdate="20230510T132315Z">
+        <seg>Pakota &lt;it pos=”end”&gt; -tägien pikanäppäimeksi ”&lt;f &gt;”</seg>
       </tuv>
     </tu>
     <tu>
@@ -4676,8 +4676,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>&lt;meta name="robots" content="index, follow"&gt;</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T142934Z" creationid="pia" creationdate="20221114T142934Z">
-        <seg>&lt;meta name="robots" content="index, follow"&gt;</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="pia" creationdate="20221114T142934Z">
+        <seg>&lt;meta name=”robots” content=”index, follow”&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5036,8 +5036,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>&lt;span translate="no"&gt;This content is not translatable&lt;/span&gt;</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T144843Z" creationid="pia" creationdate="20221114T144843Z">
-        <seg>&lt;span translate="no"&gt;Tätä sisältöä ei tarvitse kääntää&lt;/span&gt;</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="pia" creationdate="20221114T144843Z">
+        <seg>&lt;span translate=”no”&gt;Tätä sisältöä ei tarvitse kääntää&lt;/span&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5876,8 +5876,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>Add numbers to all segments, making them all "unique"</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191210T171050Z" creationid="piav" creationdate="20191210T171050Z">
-        <seg>lisätä kaikkiin segmenttiin numeroita, jolloin niistä kaikista tulee "uniikkeja"</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="piav" creationdate="20191210T171050Z">
+        <seg>lisätä kaikkiin segmenttiin numeroita, jolloin niistä kaikista tulee ”uniikkeja”</seg>
       </tuv>
     </tu>
     <tu>
@@ -6420,8 +6420,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>All the tags that are marked with &lt;c0&gt;translate="no"&lt;/c0&gt; will be ignored.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T145148Z" creationid="pia" creationdate="20221114T145148Z">
-        <seg>Kaikki tägit, joissa on merkintä &lt;c0&gt;translate="no"&lt;/c0&gt;, jätetään huomiotta.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="pia" creationdate="20221114T145148Z">
+        <seg>Kaikki tägit, joissa on merkintä &lt;c0&gt;translate=”no”&lt;/c0&gt;, jätetään huomiotta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6620,8 +6620,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191210T182739Z" creationid="piav" creationdate="20191210T182643Z">
-        <seg>Vaikka monet tietävät tämän, heidän ensireaktionsa on usein: "Mutta en minä osaa ohjelmoida!"</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="piav" creationdate="20191210T182643Z">
+        <seg>Vaikka monet tietävät tämän, heidän ensireaktionsa on usein: ”Mutta en minä osaa ohjelmoida!”</seg>
       </tuv>
     </tu>
     <tu>
@@ -11679,8 +11679,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Define the &lt;meta&gt; tag attribute values for which the associated "content" attribute will not be translated.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T143258Z" creationid="pia" creationdate="20221114T141723Z">
-        <seg>Tähän määritellään ne &lt;meta&gt;-tägien nimiattribuutit, joihin kuuluvia "content"-attribuuttien arvoja ei tarvitse kääntää.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="pia" creationdate="20221114T141723Z">
+        <seg>Tähän määritellään ne &lt;meta&gt;-tägien nimiattribuutit, joihin kuuluvia ”content”-attribuuttien arvoja ei tarvitse kääntää.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14418,8 +14418,8 @@ Virheilmoitus.</seg>
       <tuv lang="en">
         <seg>Exit code {0}: "{1}"</seg>
       </tuv>
-      <tuv lang="fi" changeid="PiaVee" changedate="20171218T085808Z" creationid="PiaVee" creationdate="20171218T085808Z">
-        <seg>Lopetuskoodi: {0}: "{1}"</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="PiaVee" creationdate="20171218T085808Z">
+        <seg>Lopetuskoodi: {0}: ”{1}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -19059,16 +19059,16 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>Ignore tags that contain translate="no"</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T144827Z" creationid="pia" creationdate="20221114T144827Z">
-        <seg>Jätä huomiotta tägit, jotka sisältävät parin translate="no"</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="pia" creationdate="20221114T144827Z">
+        <seg>Jätä huomiotta tägit, jotka sisältävät parin translate=”no”</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Ignore the content part of &lt;meta name="robots" content="index, follow"&gt;</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T143231Z" creationid="pia" creationdate="20221114T142547Z">
-        <seg>Jätä tägin &lt;meta name="robots" content="index, follow"&gt; content-attribuutin arvot huomiotta.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="pia" creationdate="20221114T142547Z">
+        <seg>Jätä tägin &lt;meta name=”robots” content=”index, follow”&gt; content-attribuutin arvot huomiotta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19091,8 +19091,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>Ignored &lt;meta&gt; tags "content" attribute</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T143250Z" creationid="pia" creationdate="20221114T141629Z">
-        <seg>Sellaiset &lt;meta&gt;-tägit, joiden "content"-attribuutin arvot jätetään huomiotta</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="pia" creationdate="20221114T141629Z">
+        <seg>Sellaiset &lt;meta&gt;-tägit, joiden ”content”-attribuutin arvot jätetään huomiotta</seg>
       </tuv>
     </tu>
     <tu>
@@ -21198,8 +21198,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Java command-line script for removing "superfluous" translation units from a TMX file: deletes all TUs without target segment or in which the target segment is identical to the source segment.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191210T163230Z" creationid="piav" creationdate="20191210T163230Z">
-        <seg>Java-kielinen komentorivikomento, jolla TMX-tiedostosta saa siivottua pois ylimääräisen "sälän". Se siis poistaa kaikki käännösyksiköt, joissa ei ole lähdesegmenttiä tai joissa lähdesegmentti on sama kuin kohdesegmentti.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="piav" creationdate="20191210T163230Z">
+        <seg>Java-kielinen komentorivikomento, jolla TMX-tiedostosta saa siivottua pois ylimääräisen ”sälän”. Se siis poistaa kaikki käännösyksiköt, joissa ei ole lähdesegmenttiä tai joissa lähdesegmentti on sama kuin kohdesegmentti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24598,8 +24598,8 @@ Apit-kansioon.</seg>
       <tuv lang="en">
         <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20220821T083825Z" creationid="piav" creationdate="20220821T083825Z">
-        <seg>GPG-suoritettavaa ei löytynyt. Aseta se git-asetusten kohdassa "Committing" tai määrittele se gpg.program-ohjelmassa.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="piav" creationdate="20220821T083825Z">
+        <seg>GPG-suoritettavaa ei löytynyt. Aseta se git-asetusten kohdassa ”Committing” tai määrittele se gpg.program-ohjelmassa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28330,16 +28330,16 @@ onko sinun tehtävä vielä muuta.</seg>
       <tuv lang="en">
         <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
       </tuv>
-      <tuv lang="fi" changeid="PiaVee" changedate="20170910T091300Z" creationid="PiaVee" creationdate="20170910T090343Z">
-        <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="PiaVee" creationdate="20170910T090343Z">
+        <seg>Please download and install the latest Java JDK from Oracle.com and try again.”;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
       </tuv>
-      <tuv lang="fi" changeid="PiaVee" changedate="20170910T091313Z" creationid="PiaVee" creationdate="20170910T090316Z">
-        <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="PiaVee" creationdate="20170910T090316Z">
+        <seg>Please download and install the latest version of Java from www.java.com and try again.”;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31238,8 +31238,8 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Run OmegaT" in the user manual.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T113930Z" creationid="piav" creationdate="20230425T113930Z">
-        <seg>saada OmegaT käyntiin".</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="piav" creationdate="20230425T113930Z">
+        <seg>saada OmegaT käyntiin”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32098,8 +32098,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>See "How To...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T114009Z" creationid="piav" creationdate="20230425T113838Z">
-        <seg>Lisätietoja löytyy käyttäjän käsikirjasta: "Miten…</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="piav" creationdate="20230425T113838Z">
+        <seg>Lisätietoja löytyy käyttäjän käsikirjasta: ”Miten…</seg>
       </tuv>
     </tu>
     <tu>
@@ -35833,8 +35833,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T074456Z" creationid="piav" creationdate="20191211T074456Z">
-        <seg>OmegaT:n "paristollinen" versio, jossa oma Java Runtime Environment.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="piav" creationdate="20191211T074456Z">
+        <seg>OmegaT:n ”paristollinen” versio, jossa oma Java Runtime Environment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36853,8 +36853,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The difference between "Number of segments" and "Number of unique segments" provides an approximate idea of the number of repetitions in the text.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191212T075730Z" creationid="piav" creationdate="20191212T075730Z">
-        <seg>"Segmenttien määrän" ja "uniikkien segmenttien määrän" ero antaa aavistuksen siitä, kuinka paljon tekstissä on toistoa.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="piav" creationdate="20191212T075730Z">
+        <seg>”Segmenttien määrän” ja ”uniikkien segmenttien määrän” ero antaa aavistuksen siitä, kuinka paljon tekstissä on toistoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37887,8 +37887,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="en">
         <seg>The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T084951Z" creationid="piav" creationdate="20191211T084951Z">
-        <seg>Oikeudet, jotka annat tälle versiolle (vaikkapa "rajoittamaton tietokoneen käyttöoikeus"), ovat täsmälleen samat kuin paikallisella versiolla, eli se voi käyttää tietokoneen kovalevyä.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="piav" creationdate="20191211T084951Z">
+        <seg>Oikeudet, jotka annat tälle versiolle (vaikkapa ”rajoittamaton tietokoneen käyttöoikeus”), ovat täsmälleen samat kuin paikallisella versiolla, eli se voi käyttää tietokoneen kovalevyä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38231,8 +38231,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="en">
         <seg>The script "{0}" is running...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190913T110547Z" creationid="piav" creationdate="20190913T110547Z">
-        <seg>Komentosarja "{0}" on käynnissä…</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="piav" creationdate="20190913T110547Z">
+        <seg>Komentosarja ”{0}” on käynnissä…</seg>
       </tuv>
     </tu>
     <tu>
@@ -39841,8 +39841,8 @@ palvelimelta.</seg>
       <tuv lang="en">
         <seg>This hands-off approach is described by the current OmegaT project co-ordinator as "delegated anarchy".</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191210T172516Z" creationid="piav" creationdate="20191210T172516Z">
-        <seg>OmegaT-projektin tämänhetkinen koordinaattori kuvaa tällaista vapaat kädet antavaa lähestymistapaa "delegoiduksi anarkiaksi".</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="piav" creationdate="20191210T172516Z">
+        <seg>OmegaT-projektin tämänhetkinen koordinaattori kuvaa tällaista vapaat kädet antavaa lähestymistapaa ”delegoiduksi anarkiaksi”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39897,8 +39897,8 @@ palvelimelta.</seg>
       <tuv lang="en">
         <seg>This is described as "free as in speech", in contrast to "free as in beer".</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191210T171813Z" creationid="piav" creationdate="20191210T171641Z">
-        <seg>Englanniksi tätä ajattelutapaa kuvataan ilmaisulla "free as in speech, not free as in beer", eli vapaa kuin ilmaisunvapaus, ei ilmainen kuin olut.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="piav" creationdate="20191210T171641Z">
+        <seg>Englanniksi tätä ajattelutapaa kuvataan ilmaisulla ”free as in speech, not free as in beer”, eli vapaa kuin ilmaisunvapaus, ei ilmainen kuin olut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42807,9 +42807,17 @@ rivillä {1}, sarakkeessa {2}.</seg>
 line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T113818Z" creationid="piav" creationdate="20230425T113818Z">
-        <seg>Käytä joko komentorivikomentoa "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" tai OmegaT-käynnistysskriptiä.
+      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="piav" creationdate="20230425T113818Z">
+        <seg>Käytä joko komentorivikomentoa ”java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar” tai OmegaT-käynnistysskriptiä.
 Nykyinen asetus on {0} MB;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132748Z" creationid="piav" creationdate="20230510T132531Z">
+        <seg>Muuta ”translated” muotoon ”needs-review-translation”</seg>
       </tuv>
     </tu>
     <tu>
