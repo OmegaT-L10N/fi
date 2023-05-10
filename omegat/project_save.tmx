@@ -20105,6 +20105,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initial number of loaded segments:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T135253Z" creationid="piav" creationdate="20230510T135253Z">
+        <seg>Aluksi ladattujen segmenttien määrä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initialize a minimal team project with the specified languages.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T154151Z" creationid="piav" creationdate="20221102T154151Z">
@@ -28098,6 +28106,14 @@ Lähdetään kalaan.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paragraph delimiter:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T135447Z" creationid="piav" creationdate="20230510T135309Z">
+        <seg>Kappaleiden välinen erotin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paragraph segmentation is advantageous in certain cases, such as highly creative or stylistic translations in which the translator may wish to change the order of entire sentences; for the majority of projects, however, sentence segmentation is a choice to be preferred, since it delivers better matches from previous translations.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T123917Z" creationid="piav" creationdate="20191030T123917Z">
@@ -33612,6 +33628,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T112756Z" creationid="piav" creationdate="20191128T112611Z">
         <seg>Ryhmäprojektin määrittäminen vaatii palvelinten ja SVN- tai Git-versionhallintajärjestelmien tuntemusta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Settings for tags originating from non-OmegaT TMX files:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T135719Z" creationid="piav" creationdate="20230510T135429Z">
+        <seg>Tägiasetukset, kun TMX-tiedosto on luotu muussa kuin OmegaT:ssä:</seg>
       </tuv>
     </tu>
     <tu>
