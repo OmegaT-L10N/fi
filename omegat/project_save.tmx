@@ -14920,6 +14920,14 @@ Virheilmoitus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File &amp;format</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133611Z" creationid="piav" creationdate="20230510T133611Z">
+        <seg>Tiedostomuoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File (segs):</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T115925Z" creationid="piav" creationdate="20230425T115925Z">
@@ -15140,6 +15148,14 @@ Virheilmoitus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191212T055919Z" creationid="piav" creationdate="20190523T171555Z">
         <seg>Suodattimen {0} lataaminen kohteesta {1} ei onnistunut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter Settings</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133608Z" creationid="piav" creationdate="20230510T133608Z">
+        <seg>Suodattimen asetukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -16255,6 +16271,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T123321Z" creationid="piav" creationdate="20230425T123321Z">
         <seg>Yleiset tiedostosuodattimet… (&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global File Filters</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133653Z" creationid="piav" creationdate="20230510T133653Z">
+        <seg>Yleiset tiedostosuodattimet</seg>
       </tuv>
     </tu>
     <tu>
@@ -33864,6 +33888,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some filters do not allow encoding modifications.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133645Z" creationid="piav" creationdate="20230510T133645Z">
+        <seg>Kaikkien suodattimien merkistökoodausta ei voi muuttaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some filters provide a &lt;g0&gt;Options...&lt;/g0&gt; button to further customize their settings.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T081153Z" creationid="pia" creationdate="20221114T081153Z">
@@ -42373,6 +42405,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T082207Z" creationid="piav" creationdate="20190522T082207Z">
         <seg>Valtuuttamaton pyyntö TaaS-palvelulle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uncheck the box to disable it.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133659Z" creationid="piav" creationdate="20230510T133659Z">
+        <seg>fzzJos et halua kääntää tietyn suodattimen mukaisia tiedostoja, ota suodatin pois käytöstä poistamalla rasti sen viereisestä ruudusta.</seg>
       </tuv>
     </tu>
     <tu>
