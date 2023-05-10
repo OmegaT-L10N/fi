@@ -15787,6 +15787,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Force Unicode literals compatibility with Java 8</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132840Z" creationid="piav" creationdate="20230510T132840Z">
+        <seg>Pakota Unicode-literaalit Java-8-kelpoisiksi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Force escaping Unicode literals as compatible to Java 8 to write</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T121703Z" creationid="piav" creationdate="20221102T121419Z">
@@ -21164,6 +21172,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java Resource Bundles</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132821Z" creationid="piav" creationdate="20230510T132821Z">
+        <seg>Java-resurssiniput</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java Resource Bundles Filter Options</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190523T174121Z" creationid="piav" creationdate="20190523T174121Z">
@@ -21376,6 +21392,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T094607Z" creationid="piav" creationdate="20190522T094607Z">
         <seg>Pidä muu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep Unico&amp;de literals (\uXXXX)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132826Z" creationid="piav" creationdate="20230510T132826Z">
+        <seg>Älä käännä Unicode-literaaleja (\uXXXX)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36031,6 +36055,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The HTML parser encountered an error during file processing:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133114Z" creationid="piav" creationdate="20230510T133114Z">
+        <seg>HTML-parseri oli käsittelemässä tiedostoa, kun se törmäsi virheeseen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The HTML user manual for OmegaT standard version.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T090232Z" creationid="piav" creationdate="20191211T090232Z">
@@ -36043,6 +36075,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T080008Z" creationid="piav" creationdate="20191211T080008Z">
         <seg>Nykyisin OmegaT:n mukana saa sopivan JRE:n, eikä sitä tarvitse asentaa erikseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Java Resource Bundles filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T132902Z" creationid="piav" creationdate="20230510T132902Z">
+        <seg>Java-resurssipakettien suodatin törmäsi virheeseen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36095,6 +36135,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Moodle PHP filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133026Z" creationid="piav" creationdate="20230510T132908Z">
+        <seg>Moodle PHP -suodatin törmäsi virheeseen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190523T172946Z" creationid="piav" creationdate="20190523T172358Z">
@@ -36111,10 +36159,26 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Mozilla DTD filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133001Z" creationid="piav" creationdate="20230510T133001Z">
+        <seg>Mozilla DTD -suodatin törmäsi virheeseen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190523T172952Z" creationid="piav" creationdate="20190523T172550Z">
         <seg>Mozilla DTD -suodatin aiheutti poikkeuksen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Mozilla FTL filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133036Z" creationid="piav" creationdate="20230510T133036Z">
+        <seg>Mozilla FTL -suodatin törmäsi virheeseen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36201,8 +36265,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The PO filter encountered an error:</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T132041Z" creationid="piav" creationdate="20230510T132041Z">
-        <seg>PO-suodatin aiheutti poikkeuksen:</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T133014Z" creationid="piav" creationdate="20230510T132041Z">
+        <seg>PO-suodatin törmäsi virheeseen:</seg>
       </tuv>
     </tu>
     <tu>
