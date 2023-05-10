@@ -23430,6 +23430,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark all repeated segments</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T135742Z" creationid="piav" creationdate="20230510T135742Z">
+        <seg>Merkitse kaikki toistuvat segmentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark unknown words</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210414T154208Z" creationid="piav" creationdate="20210414T154208Z">
@@ -33864,6 +33872,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simplify tag &amp;tooltips</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T135818Z" creationid="piav" creationdate="20230510T135818Z">
+        <seg>Yksinkertaista tägien työkaluvihjeet (&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simultaneous processing of multiple-file projects</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T180027Z" creationid="piav" creationdate="20191210T180027Z">
@@ -43267,6 +43283,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T122336Z" creationid="piav" creationdate="20190916T122328Z">
         <seg>Käytä yksittäisissä tägeissä (esim. &lt;i/&gt;) XML:ää</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;XML notation for standalone tags (e.g., &lt;i/&gt;)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T135731Z" creationid="piav" creationdate="20230510T135731Z">
+        <seg>Käytä yksittäisissä tägeissä (esim. &lt;i/&gt;) XML:ää (&amp;X)</seg>
       </tuv>
     </tu>
     <tu>
