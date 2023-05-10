@@ -1831,9 +1831,9 @@
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', 'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221110T143328Z" creationid="pia" creationdate="20221110T143328Z">
-        <seg>fzzAsteriski * vastaa mitä tahansa merkkiä, joita voi olla nolla, yksi tai useampi: hakulauseke run* vastaa sanoja run, runs, running jne.
-Kysymysmerkki ? vastaa yhtä merkkiä: hakulauseke run? vastaa sanoja runs tai rung, mutta ei sanoja run tai running.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230510T125825Z" creationid="pia" creationdate="20221110T143328Z">
+        <seg>Asteriski * vastaa mitä tahansa merkkiä, joita voi olla nolla, yksi tai useampi (hakulauseke run* vastaa siis sanoja run, runs, running jne.).
+Kysymysmerkki ? vastaa tasan yhtä merkkiä (hakulauseke run? vastaa sanoja runs tai rung, mutta ei sanoja run tai running).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7398,6 +7398,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-sync with editor</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T125928Z" creationid="piav" creationdate="20230510T125928Z">
+        <seg>Automaattinen synkronisointi editorissa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-text configuration</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T073725Z" creationid="piav" creationdate="20190522T073725Z">
@@ -9552,6 +9560,14 @@ bittiavaruus.</seg>
       <tuv lang="fi" changeid="piav" changedate="20190920T121808Z" creationid="piav" creationdate="20190920T121808Z">
         <seg>Sulje nykyinen OmegaT-istunto.
 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Close the search window.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T125947Z" creationid="piav" creationdate="20230510T125947Z">
+        <seg>Sulje hakuikkuna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13852,6 +13868,14 @@ kukaan ei kuule.</seg>
         <seg>Error searching directory tree!</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T142752Z" creationid="piav" creationdate="20190521T142752Z">
+        <seg>Hakemistopuusta hakiessa tapahtui virhe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error searching folder tree!</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T125942Z" creationid="piav" creationdate="20230510T125942Z">
         <seg>Hakemistopuusta hakiessa tapahtui virhe!</seg>
       </tuv>
     </tu>
@@ -23255,6 +23279,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T130824Z" creationid="piav" creationdate="20190916T130615Z">
         <seg>Osumia etsitään sekä nykyisestä käännöksestä että /tm/-kansiossa olevista TMX-tiedostoista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T130021Z" creationid="piav" creationdate="20230510T130021Z">
+        <seg>Osuvia segmenttejä löytyi {0} kpl.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35384,6 +35416,16 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     <tu>
       <tuv lang="en">
         <seg>Text Replace:
+Replace applies to the target segments of the project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T125850Z" creationid="piav" creationdate="20230510T125850Z">
+        <seg>Tekstin korvaus:
+Kaikki kohdesegmentissä oleva teksti korvautuu lähdetekstillä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Replace:
 The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T073203Z" creationid="piav" creationdate="20190521T141620Z">
@@ -41856,6 +41898,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T143124Z" creationid="piav" creationdate="20190521T143124Z">
         <seg>XML-tiedoston luvun alustus ei onnistu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to initialize reading of XML file!</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T130035Z" creationid="piav" creationdate="20230510T130035Z">
+        <seg>XML-tiedoston lukemisen alustus ei onnistu!</seg>
       </tuv>
     </tu>
     <tu>
