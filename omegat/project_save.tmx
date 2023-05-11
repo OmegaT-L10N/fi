@@ -5402,6 +5402,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A rule ID can only contain Latin letters, underscores, and periods.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150949Z" creationid="piav" creationdate="20230511T150949Z">
+        <seg>Säännön tunnuksessa voi olla ainoastaan latinalaisia aakkosia, alaviivoja ja pisteitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A script bundled with OmegaT called Switch Colour Themes provides a default "Dark" theme.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T075622Z" creationid="piav" creationdate="20191030T075622Z">
@@ -6798,6 +6806,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T135652Z" creationid="piav" creationdate="20190916T135652Z">
         <seg>Sanakirjan lataamisessa tapahtui virhe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while downloading the spellchecking dictionary.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150926Z" creationid="piav" creationdate="20230511T150926Z">
+        <seg>Oikeinkirjoitussanakirjan lataamisessa tapahtui virhe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10122,6 +10138,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Confirm deletion</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150818Z" creationid="piav" creationdate="20230511T150818Z">
+        <seg>Vahvista poistaminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confirm removal of pattern {0}</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T105423Z" creationid="piav" creationdate="20190522T083201Z">
@@ -11985,6 +12009,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T081831Z" creationid="pia" creationdate="20221114T081805Z">
         <seg>Jos poistat tämän tiedoston, myös suodatinasetukset nollautuvat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deletion failed</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150828Z" creationid="piav" creationdate="20230511T150828Z">
+        <seg>Poisto ei onnistunut</seg>
       </tuv>
     </tu>
     <tu>
@@ -20621,6 +20653,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install failed</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150834Z" creationid="piav" creationdate="20230511T150834Z">
+        <seg>Asentaminen ei onnistunut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installation Type</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T072818Z" creationid="piav" creationdate="20191211T072818Z">
@@ -22020,6 +22060,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T090441Z" creationid="piav" creationdate="20190522T090441Z">
         <seg>Kielentarkistin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language Installer</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150959Z" creationid="piav" creationdate="20230511T150959Z">
+        <seg>Kieliasennin</seg>
       </tuv>
     </tu>
     <tu>
@@ -25188,6 +25236,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T140910Z" creationid="piav" creationdate="20190916T140910Z">
         <seg>Etäpalvelimella ei ole saatavilla uusia sanakirjoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No new languages available at the remote server.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T151033Z" creationid="piav" creationdate="20230511T151033Z">
+        <seg>Etäpalvelimella ei ole uusia kieliä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33502,6 +33558,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the desired languages and click Install.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T151021Z" creationid="piav" creationdate="20230511T151021Z">
+        <seg>Valitse halutut kielet ja napsauta Asenna-painiketta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the filter in the list and click &lt;g0&gt;Options...&lt;/g0&gt; to modify them.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T104910Z" creationid="pia" creationdate="20221114T104910Z">
@@ -39277,6 +39341,22 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The specified spellchecking dictionary folder cannot be used.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150854Z" creationid="piav" creationdate="20230511T150854Z">
+        <seg>Annettua oikeinkirjoitussanakirjojen kansiota ei voi käyttää.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified spellchecking dictionary folder does not exist.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150911Z" creationid="piav" creationdate="20230511T150911Z">
+        <seg>Annettua oikeinkirjoitussanakirjojen kansiota ei ole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The specified translation direction is not supported</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20200704T140801Z" creationid="piav" creationdate="20190919T132011Z">
@@ -42625,6 +42705,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Try again later.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150934Z" creationid="piav" creationdate="20230511T150934Z">
+        <seg>Yritä myöhemmin uudelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Trying with backup file</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T130339Z" creationid="piav" creationdate="20230425T130339Z">
@@ -42903,6 +42991,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T124359Z" creationid="piav" creationdate="20230425T124359Z">
         <seg>Käännettyjä tiedostoja ei voitu luoda, sillä niissä oli puuttuvia tai viallisia tägejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to delete the selected dictionary</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150824Z" creationid="piav" creationdate="20230511T150824Z">
+        <seg>Valitun sanakirjan poisto ei onnistu</seg>
       </tuv>
     </tu>
     <tu>
@@ -45878,6 +45974,14 @@ sitten suorittaa Kaptain-käynnistyskomentosarjan painamalla</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T144042Z" creationid="piav" creationdate="20221102T144042Z">
         <seg>Jos et ole vielä tallentanut projektia, sinua pyydetään vahvistamaan, että haluat todella lopettaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are deleting the spellchecking dictionary that your project currently uses.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150815Z" creationid="piav" creationdate="20230511T150815Z">
+        <seg>Olet poistamassa projektisi käyttämää oikeinkirjoitussanakirjaa.</seg>
       </tuv>
     </tu>
     <tu>
