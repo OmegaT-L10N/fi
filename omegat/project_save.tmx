@@ -6226,6 +6226,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the unpacking or installation is complete, you can delete the downloaded file as it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T160258Z" creationid="piav" creationdate="20230511T160258Z">
+        <seg>Kun purkaminen tai asennus on valmis, voit poistaa lataamasi tiedoston, sillä sitä ei enää tarvita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T115121Z" creationid="piav" creationdate="20191202T111925Z">
@@ -10667,6 +10675,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the folder to a suitable location (e.g. &lt;f3&gt;Applications&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T160430Z" creationid="piav" creationdate="20230511T160430Z">
+        <seg>fzzKopioi kansio sopivaan kansioon (esim. Ohjelmat).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the text and paste it into the translated version of the Wikipedia page.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T143239Z" creationid="piav" creationdate="20191202T143239Z">
@@ -13105,6 +13121,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T100042Z" creationid="piav" creationdate="20191201T100042Z">
         <seg>Pura tiedosto &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt; kaksoisnapsauttamalla sitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double click on the package you downloaded to unpack it.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T160328Z" creationid="piav" creationdate="20230511T160328Z">
+        <seg>Pura lataamaasi paketti kaksoisnapsauttamalla sitä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18593,6 +18617,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T141809Z" creationid="piav" creationdate="20221102T141744Z">
         <seg>Jos olet aktivoinut useampia konekääntimiä, voit vaihtaa niiden välillä ja lisätä viimeksi valitun näppäinyhdistelmällä &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If so desired, drag and drop &lt;f0&gt;OmegaT.app&lt;/f0&gt; onto the Dock for easier access.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T160530Z" creationid="piav" creationdate="20230511T160530Z">
+        <seg>Jos haluat, voit vetää ja pudottaa &lt;f0&gt;OmegaT.app&lt;/f0&gt;-kuvakkeen Dockiin, niin saat ohjelman avattua helpommin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38291,6 +38323,14 @@ nykyinen kansio.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder contains two files: &lt;f1&gt;index.html&lt;/f1&gt; (the user manual entry file) and &lt;f2&gt;OmegaT.app&lt;/f2&gt; (the application).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T160439Z" creationid="piav" creationdate="20230511T160429Z">
+        <seg>Kansiossa on kaksi tiedostoa, &lt;f1&gt;index.html&lt;/f1&gt; (käyttäjän käsikirjan etusivu) sekä &lt;f2&gt;OmegaT.app&lt;/f2&gt; (itse sovellus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder where distributed scripts are located.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221110T131710Z" creationid="pia" creationdate="20221110T131710Z">
@@ -40778,6 +40818,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T154324Z" creationid="piav" creationdate="20191209T154304Z">
         <seg>Tällöin valitut tiedostot kopioidaan &lt;f2&gt;source&lt;/f2&gt;-kansioon ja projekti ladataan uudelleen, jolloin uudet tiedostot tulevat näkyviin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This creates a folder called &lt;f0&gt;OmegaT&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T160340Z" creationid="piav" creationdate="20230511T160340Z">
+        <seg>Tällöin koneelle muodostuu kansio &lt;f0&gt;OmegaT&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
