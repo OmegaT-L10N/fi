@@ -6746,14 +6746,6 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Although seen as daunting and complex, even the simplest regular expressions (often abbreviated &lt;e0&gt;regex&lt;/e0&gt; or &lt;e1&gt;regexp&lt;/e1&gt;) are extremely useful, not only in OmegaT, but in many other applications you might use on a day-to-day basis, with some variations.</seg>
-      </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T141542Z" creationid="piav" creationdate="20230510T141542Z">
-        <seg>fzzHakutoiminnoissa ja segmentointisäännöissä käytetään Java-ohjelmointikielen tukemia säännöllisiä lausekkeita (lyhyesti: regex).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Although you can run OmegaT directly from the available files, you can also run the &lt;f0&gt;linux-install.sh&lt;/f0&gt; script found there to have OmegaT installed in more appropriate locations.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T155945Z" creationid="piav" creationdate="20230511T155945Z">
@@ -10677,8 +10669,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Copy the folder to a suitable location (e.g. &lt;f3&gt;Applications&lt;/f3&gt;).</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230511T160430Z" creationid="piav" creationdate="20230511T160430Z">
-        <seg>fzzKopioi kansio sopivaan kansioon (esim. Ohjelmat).</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T163929Z" creationid="piav" creationdate="20230511T160430Z">
+        <seg>Kopioi kansio sopivaan paikkaan (esim. &lt;f3&gt;Apit&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17659,14 +17651,6 @@ lopullisesti.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T115211Z" creationid="piav" creationdate="20191208T115203Z">
         <seg>Miten…</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>How can OmegaT help against such glitches?</seg>
-      </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230511T151706Z" creationid="piav" creationdate="20230511T151706Z">
-        <seg>fzzNäin lisäät &lt;a0&gt;OmegaT&lt;/a0&gt;:n valikkoihisi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37055,8 +37039,8 @@ Tekstin korvaus tapahtuu projektin lähdekielisissä segmenteissä riippumatta s
       <tuv lang="en">
         <seg>That means that users like you can download and use it with no restrictions.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T141628Z" creationid="piav" creationdate="20230425T141628Z">
-        <seg>fzzSe tarkoittaa, että kääntäjät kuten sinä voivat ladata sen vapaasti ja käyttää sitä vain pienin rajoituksin.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T164156Z" creationid="piav" creationdate="20230425T141628Z">
+        <seg>Se tarkoittaa, että kaltaisesti käyttäjät voivat ladata sen vapaasti ja käyttää sitä rajoituksitta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37538,14 +37522,6 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T155026Z" creationid="piav" creationdate="20191209T155026Z">
         <seg>Voi tuoda Komentosarjat-ikkunan tekstialueelle komentosarjan ja suorittaa sen avattuna olevassa projektissa.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>The Search function allows them to filter the Editor pane on contents translated by a given person, or on contents translated after or before a given time, for example.</seg>
-      </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230511T152350Z" creationid="piav" creationdate="20230511T152350Z">
-        <seg>fzzNäin käännät (esimerkiksi) Wikipedia-sivun sisällön:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41561,16 +41537,16 @@ palvelimelta.</seg>
       <tuv lang="en">
         <seg>This menu gives quick access to a few frequently used preferences.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T135157Z" creationid="piav" creationdate="20230425T135157Z">
-        <seg>fzzTästä valikosta löydät tietoja, joiden avulla saat OmegaT:n tehokkaaseen käyttön.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T164053Z" creationid="piav" creationdate="20230425T135157Z">
+        <seg>Tästä valikosta pääset nopeasti käsiksi muutamiin usein käytettyihin asetuksiin.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This menu gives you access to information that will help you make the best of OmegaT.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T135131Z" creationid="piav" creationdate="20230425T135131Z">
-        <seg>Tästä valikosta löydät tietoja, joiden avulla saat OmegaT:n tehokkaaseen käyttön.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T164112Z" creationid="piav" creationdate="20230425T135131Z">
+        <seg>Tästä valikosta löydät tietoja, joiden avulla saat OmegaT:n tehokkaaseen käyttöön.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44476,14 +44452,6 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T133419Z" creationid="piav" creationdate="20191202T133419Z">
         <seg>Näppäinyhdistelmällä &lt;k0&gt; &lt;k1&gt;vaihto&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; voit kiertää näiden neljän vaihtoehdon välillä.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access this tool.</seg>
-      </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T142826Z" creationid="piav" creationdate="20230425T142826Z">
-        <seg>fzzPääset tähän valikkoon valitsemalla &lt;m0&gt;&lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;Komentosarjat…&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
