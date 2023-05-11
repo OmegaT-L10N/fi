@@ -10521,6 +10521,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Conversion to the new team project format cannot be performed in console mode.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T165207Z" creationid="piav" creationdate="20230511T165207Z">
+        <seg>Muunnosta uudenlaiseksi ryhmäprojektiksi ei voi tehdä konsolitilassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Convert</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T093254Z" creationid="piav" creationdate="20191211T093254Z">
@@ -25578,8 +25586,8 @@ Apit-kansioon.</seg>
       <tuv lang="en">
         <seg>No option: Launch GUI.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T110432Z" creationid="piav" creationdate="20230425T110432Z">
-        <seg>Ei valintoja: Käynnistä GUI</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T165349Z" creationid="piav" creationdate="20230425T110432Z">
+        <seg>Ei valintoja: Käynnistä graafinen käyttöliittymä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26822,8 +26830,8 @@ Apit-kansioon.</seg>
       <tuv lang="en">
         <seg>OmegaT does not have access to the remote repository: verify your connection or your credentials.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230511T165101Z" creationid="piav" creationdate="20230511T165101Z">
-        <seg>OmegaT:llä ei ole pääsyä etävarastoon: tarkista yhteytesi tai luku- ja kirjoitusoikeuksia tähän kansioon.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T165128Z" creationid="piav" creationdate="20230511T165101Z">
+        <seg>OmegaT:llä ei ole pääsyä etävarastoon: tarkista yhteytesi tai tunnistetietosi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28144,6 +28152,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T180736Z" creationid="piav" creationdate="20190521T180736Z">
         <seg>Open XML -suodattimen asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open it in the OmegaT GUI to convert it to the new format.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T165323Z" creationid="piav" creationdate="20230511T165226Z">
+        <seg>Avaa projekti OmegaT:n graafisessa käyttöliittymässä muuntaaksesi sen uuteen muotoon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30422,8 +30438,8 @@ projektin ilman ryhmäominaisuutta.</seg>
       <tuv lang="en">
         <seg>Project path only: Launch GUI and load specified project.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T110445Z" creationid="piav" creationdate="20230425T110445Z">
-        <seg>Vain projektipolku: Käynnistä GUI ja lataa annettu projekti</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T165359Z" creationid="piav" creationdate="20230425T110445Z">
+        <seg>Vain projektipolku: Käynnistä graafinen käyttöliittymä ja lataa annettu projekti</seg>
       </tuv>
     </tu>
     <tu>
@@ -39437,6 +39453,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project is in offline mode.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T165133Z" creationid="piav" creationdate="20230511T165133Z">
+        <seg>Projekti on offline-tilassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project setting allows one to enter a name for a writable glossary file (see beginning of this chapter).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T082736Z" creationid="piav" creationdate="20191022T082736Z">
@@ -39969,6 +39993,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T164952Z" creationid="piav" creationdate="20230511T164952Z">
         <seg>Joko annettu kansio ei ole OmegaT-projekti, projektitiedosto on rikki tai pätevää varmuuskopiota ei ole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified project is an OmegaT 3.6 team project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T165142Z" creationid="piav" creationdate="20230511T165142Z">
+        <seg>Kyseinen projekti on OmegaT 3.6 -tyylinen ryhmäprojekti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44910,6 +44942,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T120519Z" creationid="piav" creationdate="20191201T120519Z">
         <seg>Käyttäjän maa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User credentials denied</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T165120Z" creationid="piav" creationdate="20230511T165120Z">
+        <seg>fzzKäsikirja netissä</seg>
       </tuv>
     </tu>
     <tu>
