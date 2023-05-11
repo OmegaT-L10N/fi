@@ -6746,6 +6746,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although you can run OmegaT directly from the available files, you can also run the &lt;f0&gt;linux-install.sh&lt;/f0&gt; script found there to have OmegaT installed in more appropriate locations.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T155945Z" creationid="piav" creationdate="20230511T155945Z">
+        <seg>Voit toki suorittaa OmegaT:n suoraan näistä tiedostoista, mutta voit myös ajaa kansiosta löytyvän &lt;f0&gt;linux-install.sh&lt;/f0&gt;-komentosarjan, niin saat OmegaT:n asennettua sopivampaan sijaintiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T063914Z" creationid="piav" creationdate="20191023T063914Z">
@@ -36821,6 +36829,14 @@ Tekstin korvaus tapahtuu projektin lähdekielisissä segmenteissä riippumatta s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That folder contains all the files needed to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T155806Z" creationid="piav" creationdate="20230511T155806Z">
+        <seg>Kaikki OmegaT-ohjelman suorittamiseen tarvittavat tiedostot löytyvät sieltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T182342Z" creationid="piav" creationdate="20191210T182342Z">
@@ -40746,6 +40762,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T100058Z" creationid="piav" creationdate="20191201T100058Z">
         <seg>Tällöin koneelle muodostuu kansio &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This creates a new folder named after the package you downloaded.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T155723Z" creationid="piav" creationdate="20230511T155723Z">
+        <seg>Tämä luo uuden kansion, joka on samanniminen kuin lataamasi paketti.</seg>
       </tuv>
     </tu>
     <tu>
