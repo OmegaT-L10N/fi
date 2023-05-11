@@ -8772,8 +8772,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Change the language codes to reflect your source and target languages.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230511T151957Z" creationid="piav" creationdate="20230511T151957Z">
-        <seg>fzzTerminologiahaku etsii lähde- ja kohdekielisiä termejä sekä julkisista että yksityisistä kokoelmista.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T152012Z" creationid="piav" creationdate="20230511T151957Z">
+        <seg>Muuta kielikoodit vastaamaan lähde- ja kohdekieliäsi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9678,6 +9678,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T135604Z" creationid="piav" creationdate="20191030T135412Z">
         <seg>Napsauta kohtaa &lt;g0&gt;Sanasto…&lt;/g0&gt;, niin pääset määrittelemään automaattista täydennystä Sanaston esikatselussa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;g0&gt;OK&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T152035Z" creationid="piav" creationdate="20230511T152035Z">
+        <seg>Napsauta &lt;g0&gt;OK&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21518,6 +21526,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It will also create an empty translation memory that it will fill in the background, one segment at as time as you type your translation.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T152144Z" creationid="piav" creationdate="20230511T152144Z">
+        <seg>Ohjelma luo myös tyhjän käännösmuistin, jota se täydentää segmentti kerrallaan sitä mukaa kun kirjoitat käännöstä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It will also find patterns such as “5136/36/71”.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T132416Z" creationid="piav" creationdate="20230425T132348Z">
@@ -23990,6 +24006,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T145216Z" creationid="piav" creationdate="20230511T145216Z">
         <seg>Osumia etsitään sekä nykyisestä käännöksestä että /tm/-kansiossa olevista TMX-tiedostoista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches for that memory will eventually appear in the &lt;g0&gt;Fuzzy Matches&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T152334Z" creationid="piav" creationdate="20230511T152334Z">
+        <seg>Muistista löytyvät osumat näkyvät &lt;g0&gt;Sumeat osumat&lt;/g0&gt; -ruudulla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53756,6 +53780,14 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221110T141819Z" creationid="pia" creationdate="20221110T141819Z">
         <seg>→ OmegaT avaa ryhmäprojektin ja synkronoi sen etävaraston kanssa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT will create a folder set that contains your files.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T152107Z" creationid="piav" creationdate="20230511T152107Z">
+        <seg>→ OmegaT luo kansiokokoelman tiedostoillesi.</seg>
       </tuv>
     </tu>
     <tu>
