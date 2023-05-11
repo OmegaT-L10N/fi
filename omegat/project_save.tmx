@@ -17535,6 +17535,14 @@ lopullisesti.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hit &lt;k0&gt;Enter&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T152720Z" creationid="piav" creationdate="20230511T152720Z">
+        <seg>Napsauta sitten &lt;k0&gt;Enter&lt;/k0&gt;-näppäintä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hit &lt;k0&gt;F1&lt;/k0&gt; or access the &lt;g1&gt;&gt; Help&lt;/g1&gt; menu to open the user manual.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T151519Z" creationid="piav" creationdate="20230511T151351Z">
@@ -43009,6 +43017,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Type the translation of the first segment.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T152703Z" creationid="piav" creationdate="20230511T152703Z">
+        <seg>Kirjoita käännöksesi ensimmäiseen segmenttiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Types:
 Exact searches match the whole search string.</seg>
       </tuv>
@@ -43940,6 +43956,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T151955Z" creationid="piav" creationdate="20230511T151955Z">
         <seg>Luo uusi projekti: valitse &lt;g0&gt;Projekti&lt;/g0&gt; &lt;g1&gt;&gt;Uusi…&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;g0&gt;&gt; Project&lt;/g0&gt;&lt;g1&gt;&gt; Create Translated Files&lt;/g1&gt; to create the translated document at any time.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T153028Z" creationid="piav" creationdate="20230511T153028Z">
+        <seg>Voit milloin tahansa luoda käännetyt tiedostot valitsemalla &lt;g0&gt;Projekti&lt;/g0&gt; &lt;g1&gt;&gt;Luo käännetyt tiedostot&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53828,6 +53852,14 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T152107Z" creationid="piav" creationdate="20230511T152107Z">
         <seg>→ OmegaT luo kansiokokoelman tiedostoillesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT will register that segment into the project translation memory and will move the cursor to the next segment.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T152756Z" creationid="piav" creationdate="20230511T152756Z">
+        <seg>→ OmegaT vie segmentin projektin käännösmuistiin ja siirtää kohdistimen seuraavaan segmenttiin.</seg>
       </tuv>
     </tu>
     <tu>
