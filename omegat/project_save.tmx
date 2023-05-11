@@ -1460,6 +1460,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Reset Colour</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170902Z" creationid="piav" creationdate="20230511T170902Z">
+        <seg>Palauta tämä väri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Reset Master Password</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T135234Z" creationid="piav" creationdate="20190920T135234Z">
@@ -6378,10 +6386,26 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner "Accepted" group</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170757Z" creationid="piav" creationdate="20230511T170757Z">
+        <seg>Kohdistaja: ”Hyväksytty”-ryhmä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aligner "Needs Review" Group</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T145300Z" creationid="piav" creationdate="20190522T093641Z">
         <seg>Kohdistaja: "Tarkistettava"-ryhmä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner "Needs Review" group</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170847Z" creationid="piav" creationdate="20230511T170847Z">
+        <seg>Kohdistaja: ”Tarkistettava”-ryhmä</seg>
       </tuv>
     </tu>
     <tu>
@@ -6397,6 +6421,22 @@ Nykyinen asetus on {0} MB.</seg>
         <seg>Aligner Table Row Highlight</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T145306Z" creationid="piav" creationdate="20190522T093733Z">
+        <seg>Kohdistaja: taulukon rivin maalaus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner highlight</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170850Z" creationid="piav" creationdate="20230511T170850Z">
+        <seg>Kohdistaja: maalaus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner table row highlight</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170855Z" creationid="piav" creationdate="20230511T170855Z">
         <seg>Kohdistaja: taulukon rivin maalaus</seg>
       </tuv>
     </tu>
@@ -15959,8 +15999,8 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For best results, install the appropriate dictionaries via Preferences &gt; Spellchecker.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230511T170451Z" creationid="piav" creationdate="20230511T170451Z">
-        <seg>fzzParhaan lopputuloksen saat asentamalla sopivat sanakirjat kohdassa Asetukset &gt; Oikeinkirjoituksen tarkistus.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170610Z" creationid="piav" creationdate="20230511T170451Z">
+        <seg>Parhaan lopputuloksen saat asentamalla sopivat sanakirjat kohdassa Asetukset &gt; Oikeinkirjoituksen tarkistus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17049,6 +17089,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220906T190227Z" creationid="piav" creationdate="20220906T190227Z">
         <seg>Sanaston asettelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary matches</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170656Z" creationid="piav" creationdate="20230511T170656Z">
+        <seg>Sanasto-osumat</seg>
       </tuv>
     </tu>
     <tu>
@@ -22490,6 +22538,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language checker</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170649Z" creationid="piav" creationdate="20230511T170649Z">
+        <seg>Kielentarkistin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language name</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T162112Z" creationid="PiaVee" creationdate="20171014T162112Z">
@@ -23612,6 +23668,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine translate highlight</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170858Z" creationid="piav" creationdate="20230511T170858Z">
+        <seg>Konekäännös: korostus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Magento CE Locale CSV</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T165144Z" creationid="piav" creationdate="20190527T165144Z">
@@ -24284,6 +24348,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches changed</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170659Z" creationid="piav" creationdate="20230511T170659Z">
+        <seg>Muutetut osumat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches come from your current translation or the TMX files placed in the /tm/ folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T145216Z" creationid="piav" creationdate="20230511T145216Z">
@@ -24292,10 +24364,50 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches deleted active</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170714Z" creationid="piav" creationdate="20230511T170714Z">
+        <seg>Aktiiviset poistetut osumat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches deleted inactive</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170719Z" creationid="piav" creationdate="20230511T170719Z">
+        <seg>Passiviset poistetut osumat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches for that memory will eventually appear in the &lt;g0&gt;Fuzzy Matches&lt;/g0&gt; pane.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T152334Z" creationid="piav" creationdate="20230511T152334Z">
         <seg>Muistista löytyvät osumat näkyvät &lt;g0&gt;Sumeat osumat&lt;/g0&gt; -ruudulla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches inserted active</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170707Z" creationid="piav" creationdate="20230511T170707Z">
+        <seg>Aktiiviset lisätyt osumat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches inserted inactive</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170711Z" creationid="piav" creationdate="20230511T170711Z">
+        <seg>Passiviset lisätyt osumat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches unchanged</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170703Z" creationid="piav" creationdate="20230511T170703Z">
+        <seg>Osumat, joita ei ole muutettu</seg>
       </tuv>
     </tu>
     <tu>
@@ -31698,6 +31810,22 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repeated segments</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170633Z" creationid="piav" creationdate="20230511T170633Z">
+        <seg>Toistuvat segmentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated segments background</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170645Z" creationid="piav" creationdate="20230511T170645Z">
+        <seg>Toistuvien segmenttien tausta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repeated segments: {0}</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T124633Z" creationid="piav" creationdate="20230425T124633Z">
@@ -32088,6 +32216,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T094432Z" creationid="piav" creationdate="20190522T094432Z">
         <seg>Ratkaise ristiriidat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resolve the conflicts by choosing a translation for each segment below.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170627Z" creationid="piav" creationdate="20230511T170627Z">
+        <seg>Ratkaise ristiriidat valitsemalla alla mainittujen segmenttien käännökset.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33256,6 +33392,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search found mark</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170731Z" creationid="piav" creationdate="20230511T170731Z">
+        <seg>Haussa löytynyt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search in</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T134956Z" creationid="piav" creationdate="20190521T134956Z">
@@ -33284,6 +33428,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T100807Z" creationid="PiaVee" creationdate="20171014T100807Z">
         <seg>Hakuasetukset ovat samantapaisia kuin &lt;l0&gt;hakuikkunassa&lt;/l0&gt; näkyvät asetukset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search replaced mark</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170739Z" creationid="piav" creationdate="20230511T170739Z">
+        <seg>Haettu ja korvattu</seg>
       </tuv>
     </tu>
     <tu>
