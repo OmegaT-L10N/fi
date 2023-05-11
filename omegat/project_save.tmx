@@ -15448,6 +15448,14 @@ Virheilmoitus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>First Steps</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150129Z" creationid="piav" creationdate="20230511T150129Z">
+        <seg>Ensiaskeleet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fixes are trivial operations and OmegaT assists troubleshooting with the related error message.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T081321Z" creationid="piav" creationdate="20191128T081225Z">
@@ -26938,6 +26946,16 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T091413Z" creationid="piav" creationdate="20191211T091333Z">
         <seg>Qabirian YouTube-kanavalla olevat OmegaT-videot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT was refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150233Z" creationid="piav" creationdate="20230511T150233Z">
+        <seg>OmegaT:llä ei ole pääsyä järjestelmäominaisuuteen, jossa on käyttöjärjestelmäsi nimi ja/tai kotikansiosi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41064,6 +41082,16 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will reset all
+settings to their defaults.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150329Z" creationid="piav" creationdate="20230511T150258Z">
+        <seg>Tämä palauttaa kaikki
+asetukset oletusarvoihinsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This window is accessible by selecting &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Scripting...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T154728Z" creationid="piav" creationdate="20191209T154703Z">
@@ -46388,6 +46416,16 @@ käynnistää ohjelman mistä tahansa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You may therefore experience
+unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150415Z" creationid="piav" creationdate="20230511T150301Z">
+        <seg>Sen vuoksi ohjelma saattaa käyttäytyä epätavallisella
+mutta kuitenkin oikealla tavalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You may try to solve this problem in one of the following ways:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T081135Z" creationid="PiaVee" creationdate="20171015T095154Z">
@@ -46529,6 +46567,16 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T133645Z" creationid="piav" creationdate="20190916T133645Z">
         <seg>Käyttöjärjestelmäsi ei antanut OmegaT:n luoda onaa asetuskansiota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your operating system refused to let OmegaT
+create the configuration folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150427Z" creationid="piav" creationdate="20230511T150427Z">
+        <seg>Käyttöjärjestelmäsi ei antanut
+OmegaT:n luoda onaa asetuskansiota.</seg>
       </tuv>
     </tu>
     <tu>
