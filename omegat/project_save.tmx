@@ -5370,6 +5370,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A note is simply a remark about the source text or its translation.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T145629Z" creationid="piav" creationdate="20230511T145629Z">
+        <seg>Muistiinpano on pieni kommentti, joka koskee lähdetekstiä tai sen käännöstä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T155533Z" creationid="piav" creationdate="20191022T155533Z">
@@ -15835,6 +15843,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For file formats and filters that support comments (e.g. PO-filter), displays the comments for the translator concerning the active segment, if any.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150122Z" creationid="piav" creationdate="20230511T150122Z">
+        <seg>Joihinkin tiedostomuotoihin (esim. PO) voi lisätä kommentteja kääntäjälle. Jos käännettävän segmentin kohdalla on kommentteja, ne näkyvät tässä kohdassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For installation on Linux.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T073353Z" creationid="piav" creationdate="20191211T073353Z">
@@ -21181,6 +21197,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T100037Z" creationid="piav" creationdate="20191030T100037Z">
         <seg>Joskus tekstissä on tägejä, joita ei saa kääntää. On hyödyllistä pystyä merkitsemään tällaiset tägit niiden attribuuttien perusteella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is stored in the TMX file.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T145642Z" creationid="piav" creationdate="20230511T145642Z">
+        <seg>Se tallennetaan TMX-tiedostoon.</seg>
       </tuv>
     </tu>
     <tu>
