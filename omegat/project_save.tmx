@@ -1044,6 +1044,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Install new language...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150654Z" creationid="piav" creationdate="20230511T150654Z">
+        <seg>Asenna uusi kieli…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Jump To Segment</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T133009Z" creationid="piav" creationdate="20190920T133009Z">
@@ -5978,6 +5986,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add to Dictionary</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150604Z" creationid="piav" creationdate="20230511T150604Z">
+        <seg>Lisää sanakirjaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190523T142058Z" creationid="piav" creationdate="20190523T142058Z">
@@ -7618,6 +7634,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T140919Z" creationid="piav" creationdate="20190916T140919Z">
         <seg>Saatavilla olevat sanakirjat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Available languages:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150630Z" creationid="piav" creationdate="20230511T150624Z">
+        <seg>Käytettävissä olevat kielet:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11729,6 +11753,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T173958Z" creationid="PiaVee" creationdate="20171014T173958Z">
         <seg>tšekki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>D&amp;elete</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150700Z" creationid="piav" creationdate="20230511T150700Z">
+        <seg>Poista</seg>
       </tuv>
     </tu>
     <tu>
@@ -17960,6 +17992,18 @@ polulla, koko polkua ei tarvitse kirjoittaa.)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T120008Z" creationid="piav" creationdate="20191201T120008Z">
         <seg>Jos käyttöliittymä tällä kielellä on olemassa, &lt;a4&gt;OmegaT&lt;/a4&gt; käyttää sitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If access to the desired location is granted later,
+that location will be used and all settings will be reset to
+their default values.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150558Z" creationid="piav" creationdate="20230511T150450Z">
+        <seg>Jos ohjelma pääsee myöhemmin haluttuun sijaintiin,
+se otetaan käyttöön, minkä seurauksena
+kaikki asetukset palautetaan oletusarvoihinsa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34995,6 +35039,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spellcheck the tr&amp;anslation</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150618Z" creationid="piav" creationdate="20230511T150618Z">
+        <seg>Tarkista käännöksen oikeinkirjoitus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spellchecker</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T092445Z" creationid="PiaVee" creationdate="20171014T092445Z">
@@ -35015,6 +35067,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T111713Z" creationid="piav" creationdate="20191023T111713Z">
         <seg>Oikeinkirjoituksen tarkistuksen asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spellchecking dictionaries location:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150646Z" creationid="piav" creationdate="20230511T150626Z">
+        <seg>Oikeinkirjoitussanakirjojen sijainti:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37368,8 +37428,9 @@ instead.</seg>
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190916T133659Z" creationid="piav" creationdate="20190916T133659Z">
-        <seg>Sen sijaan käytössä on nykyinen kansio.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150501Z" creationid="piav" creationdate="20190916T133659Z">
+        <seg>Sen sijaan käytössä on
+nykyinen kansio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42750,6 +42811,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>URL of downloadable spellchecking dictionaries:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T150745Z" creationid="piav" creationdate="20230511T150745Z">
+        <seg>Ladattavissa olevien oikeinkirjoitussanakirjojen URL-osoite:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>URL of online dictionaries:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T111704Z" creationid="piav" creationdate="20190916T135426Z">
@@ -46574,9 +46643,9 @@ create its configuration folder.</seg>
         <seg>Your operating system refused to let OmegaT
 create the configuration folder.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230511T150427Z" creationid="piav" creationdate="20230511T150427Z">
+      <tuv lang="fi" changeid="piav" changedate="20230511T150553Z" creationid="piav" creationdate="20230511T150427Z">
         <seg>Käyttöjärjestelmäsi ei antanut
-OmegaT:n luoda onaa asetuskansiota.</seg>
+OmegaT:n luoda omaa asetuskansiota.</seg>
       </tuv>
     </tu>
     <tu>
