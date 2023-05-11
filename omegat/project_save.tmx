@@ -13175,6 +13175,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-check it and try again.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170115Z" creationid="piav" creationdate="20230511T170115Z">
+        <seg>Tarkista se vielä kerran ja yritä uudelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T114118Z" creationid="piav" creationdate="20191201T100445Z">
@@ -14409,6 +14417,14 @@ kukaan ei kuule.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T130803Z" creationid="piav" creationdate="20190920T130803Z">
         <seg>{0} etäprojektitiedostona: hakuvirhe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error retrieving {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170241Z" creationid="piav" creationdate="20230511T170241Z">
+        <seg>Etäprojektitiedoston {0} hakuvirhe</seg>
       </tuv>
     </tu>
     <tu>
@@ -25634,6 +25650,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No predefined credentials passed.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170146Z" creationid="piav" creationdate="20230511T170146Z">
+        <seg>Ennalta määritellyt tunnistetiedot eivät kelvanneet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No project loaded.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T092835Z" creationid="piav" creationdate="20191211T092835Z">
@@ -30414,6 +30438,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project data saving interval</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170311Z" creationid="piav" creationdate="20230511T170311Z">
+        <seg>Projektitietojen tallennuksen aikaväli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project file should be on http protocol.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T125820Z" creationid="piav" creationdate="20190920T125743Z">
@@ -31350,6 +31382,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T130430Z" creationid="piav" creationdate="20230425T130430Z">
         <seg>Etävarastot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote repository git+ssh credential error: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170101Z" creationid="piav" creationdate="20230511T170013Z">
+        <seg>Virhe etävaraston git-ssh-tunnistetiedoissa: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -45018,8 +45058,8 @@ Nykyinen asetus on {0} MB;</seg>
       <tuv lang="en">
         <seg>User credentials denied</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230511T165120Z" creationid="piav" creationdate="20230511T165120Z">
-        <seg>fzzKäsikirja netissä</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170029Z" creationid="piav" creationdate="20230511T165120Z">
+        <seg>Käyttäjän tunnistetiedot evätty</seg>
       </tuv>
     </tu>
     <tu>
