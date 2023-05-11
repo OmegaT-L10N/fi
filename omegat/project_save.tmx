@@ -27247,6 +27247,14 @@ käynnistettäväksi.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT projects are &lt;e1&gt;not&lt;/e1&gt; stored inside OmegaT.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T163118Z" creationid="piav" creationdate="20230511T163118Z">
+        <seg>OmegaT-projektit &lt;e1&gt;eivät&lt;/e1&gt; ole tallennettuina ohjelman sisälle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT ran out of memory and will close when you click OK.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T113506Z" creationid="piav" creationdate="20230425T113506Z">
@@ -28868,6 +28876,14 @@ Lähdetään kalaan.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T133105Z" creationid="piav" creationdate="20191127T133029Z">
         <seg>Kappaleet, osat ja taulukot asetetaan kaksisuuntaisiksi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Parameter files that are included in the downloaded OmegaT package (especially the &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; for &lt;l1&gt;Windows&lt;/l1&gt; and the &lt;f2&gt;Configuration.properties&lt;/f2&gt; and &lt;f3&gt;Info.plist&lt;/f3&gt; files for &lt;l4&gt;macOS&lt;/l4&gt; packages) might be overwritten or deleted, so you may want to create a backup before upgrading, if you have been using these files to modify OmegaT’s launch parameters.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T163610Z" creationid="piav" creationdate="20230511T163610Z">
+        <seg>Ladatun OmegaT-paketin parametritiedostot (erityisesti &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt;, jota &lt;l1&gt;Windows&lt;/l1&gt; tarvitsee, sekä &lt;f2&gt;Configuration.properties&lt;/f2&gt; ja &lt;f3&gt;Info.plist&lt;/f3&gt; -tiedostot &lt;l4&gt;macOS&lt;/l4&gt;-paketeissa) saattavat muuttua tai joutua poistetuiksi. Jos olet muuttanut OmegaT:n käynnistysparametrejä näiden tiedostojen avulla, saattaa olla hyvä varmuuskopioida ne ennen päivitystä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40638,6 +40654,14 @@ kadonnut sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T114349Z" creationid="piav" creationdate="20191202T114245Z">
         <seg>Tägit ovat suojeltuja, joten et voi muokata niiden sisältöä. Voit kuitenkin poistaa tägejä, kirjoittaa niitä käsin ja siirtää niiden paikkaa kohdesegmentissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are separate objects that have no physical connection to the OmegaT application itself.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T163201Z" creationid="piav" creationdate="20230511T163201Z">
+        <seg>Ne ovat erillisiä yksiköitään, jotka eivät ole fyysisesti yhteydessä itse OmegaT-sovellukseen.</seg>
       </tuv>
     </tu>
     <tu>
