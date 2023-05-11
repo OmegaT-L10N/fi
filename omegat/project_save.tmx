@@ -10076,16 +10076,16 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Committing source files</seg>
       </tuv>
-      <tuv lang="fi" changeid="PiaVee" changedate="20171015T124241Z" creationid="PiaVee" creationdate="20171015T124230Z">
-        <seg>Lähdetiedostojen vahvistaminen</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T165620Z" creationid="PiaVee" creationdate="20171015T124230Z">
+        <seg>Lähdetiedostoja viedään (commit)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Committing target files</seg>
       </tuv>
-      <tuv lang="fi" changeid="PiaVee" changedate="20171218T072152Z" creationid="PiaVee" creationdate="20171218T072152Z">
-        <seg>Kohdetiedostojen vahvistaminen</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T165635Z" creationid="PiaVee" creationdate="20171218T072152Z">
+        <seg>Kohdetiedostojen vieminen (commit)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10370,6 +10370,16 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191218T134656Z" creationid="piav" creationdate="20191218T134656Z">
         <seg>Yhteystiedot ja tuki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T165513Z" creationid="piav" creationdate="20230511T165513Z">
+        <seg>Ota yhteyttä projektin ylläpitoon ja tarkista,
+onko sinun tehtävä vielä muuta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15194,16 +15204,16 @@ Virheilmoitus.</seg>
       <tuv lang="en">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191128T114631Z" creationid="PiaVee" creationdate="20171218T072129Z">
-        <seg>Lähdetiedostojen lähetys ei onnistunut!</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T165602Z" creationid="PiaVee" creationdate="20171218T072129Z">
+        <seg>Lähdetiedostojen vienti (commit) ei onnistunut!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Failed to commit target files!</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191128T114634Z" creationid="PiaVee" creationdate="20171218T072137Z">
-        <seg>Kohdetiedostojen lähetys ei onnistunut!</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T165609Z" creationid="PiaVee" creationdate="20171218T072137Z">
+        <seg>Kohdetiedostojen vienti (commit) ei onnistunut!</seg>
       </tuv>
     </tu>
     <tu>
@@ -29874,6 +29884,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press 'OK' to convert the project into a 4.x team project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T165443Z" creationid="piav" creationdate="20230511T165443Z">
+        <seg>Napsauta OK, niin projekti muunnetaan 4.x-tyyliseksi ryhmäprojektiksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press 'OK' to convert the project into a 4.x-style team project.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T124713Z" creationid="piav" creationdate="20190920T124713Z">
@@ -30336,6 +30354,22 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T092844Z" creationid="piav" creationdate="20191211T092841Z">
         <seg>Projektissa ei ole tiedostoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project conversion failed.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T165517Z" creationid="piav" creationdate="20230511T165517Z">
+        <seg>Projektin muuntaminen ei onnistunut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project conversion successful.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T165503Z" creationid="piav" creationdate="20230511T165503Z">
+        <seg>Projektin muuntaminen onnistui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35400,8 +35434,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Source files committed</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191128T114639Z" creationid="PiaVee" creationdate="20171015T124251Z">
-        <seg>Lähdetiedostot lähetetty</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T165627Z" creationid="PiaVee" creationdate="20171015T124251Z">
+        <seg>Lähdetiedostot viety (commit)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36691,8 +36725,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Target files committed</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191128T114641Z" creationid="PiaVee" creationdate="20171218T072159Z">
-        <seg>Kohdetiedostot lähetetty</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T165642Z" creationid="PiaVee" creationdate="20171218T072159Z">
+        <seg>Kohdetiedostot viety (commit)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41923,6 +41957,18 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T165206Z" creationid="piav" creationdate="20191210T165206Z">
         <seg>Tämä verkkosivu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will
+delete your local data and re-download the project contents from
+the server.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T165452Z" creationid="piav" creationdate="20230511T165452Z">
+        <seg>Tämä
+poistaa projektisi paikalliset tiedot ja lataa projektisisällön uudelleen
+palvelimelta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47433,6 +47479,14 @@ käynnistää ohjelman mistä tahansa.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T130426Z" creationid="piav" creationdate="20191128T075807Z">
         <seg>Voit myös poistaa kaikki ne käännösmuistit, joita et enää tarvitse &lt;f0&gt;project-save.tmx&lt;/f0&gt;-tiedoston täyttämiseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may have forgotten an initial commit.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T165538Z" creationid="piav" creationdate="20230511T165538Z">
+        <seg>Olet ehkä unohtanut alku</seg>
       </tuv>
     </tu>
     <tu>
