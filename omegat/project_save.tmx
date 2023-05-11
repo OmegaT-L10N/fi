@@ -4746,6 +4746,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;o0&gt;-h&lt;/o0&gt;, &lt;o1&gt;--help&lt;/o1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T151655Z" creationid="piav" creationdate="20230511T151655Z">
+        <seg>&lt;o0&gt;-h&lt;/o0&gt;, &lt;o1&gt;--help&lt;/o1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Britannica&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171219T102710Z" creationid="PiaVee" creationdate="20171219T102710Z">
@@ -15544,6 +15552,14 @@ Virheilmoitus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>First steps</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T151811Z" creationid="piav" creationdate="20230511T151811Z">
+        <seg>Ensiaskeleet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fixes are trivial operations and OmegaT assists troubleshooting with the related error message.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T081321Z" creationid="piav" creationdate="20191128T081225Z">
@@ -17515,6 +17531,14 @@ lopullisesti.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T115211Z" creationid="piav" creationdate="20191208T115203Z">
         <seg>Miten…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How can OmegaT help against such glitches?</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T151706Z" creationid="piav" creationdate="20230511T151706Z">
+        <seg>fzzNäin lisäät &lt;a0&gt;OmegaT&lt;/a0&gt;:n valikkoihisi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21201,6 +21225,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T125403Z" creationid="piav" creationdate="20191127T124255Z">
         <seg>Voit valita jokaisen kolmen ruudun (editori, sumeat osumat ja sanasto) näyttötilan erikseen napsauttamalla ruutua ja valitsemalla sopiva näyttötila näppäinyhdistelmällä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It comes with a thorough introduction to OmegaT.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T151857Z" creationid="piav" creationdate="20230511T151857Z">
+        <seg>Käsikirja esittelee OmegaT:n perinpohjaisesti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27238,8 +27270,8 @@ your home folder.</seg>
       <tuv lang="en">
         <seg>OmegaT's main purpose is to help you create a good translation the fastest possible by giving you access to your translation ressources in the most reliable way possible.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T142248Z" creationid="piav" creationdate="20230425T141927Z">
-        <seg>OmegaT antaa käyttöösi käännösresursseja nopeasti ja luotettavasti, jotta sinä voit laatia hyviä käännöksiä.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T151735Z" creationid="piav" creationdate="20230425T141927Z">
+        <seg>OmegaT antaa käyttöösi käännösresursseja nopeasti ja luotettavasti, niin että sinä voit laatia hyviä käännöksiä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42012,6 +42044,14 @@ asetukset oletusarvoihinsa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To start using OmegaT with minimal settings, do this:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T151919Z" creationid="piav" creationdate="20230511T151919Z">
+        <seg>Näin otat OmegaT:n käyttöön mahdollisimman vähin säädöin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220821T081039Z" creationid="piav" creationdate="20191202T111721Z">
@@ -43828,6 +43868,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T105449Z" creationid="piav" creationdate="20191129T105449Z">
         <seg>Käytä &lt;a0&gt;OmegaT&lt;/a0&gt;:n oletussuodatinta (PDF input), käännä, luo kohdetiedosto (vain teksti -tiedosto) ja lisää tarvittavat muotoilut ja muut elementit käsin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;g0&gt;&gt; Project&lt;/g0&gt; &lt;g1&gt;&gt; New...&lt;/g1&gt; to create a new project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T151955Z" creationid="piav" creationdate="20230511T151955Z">
+        <seg>Luo uusi projekti: valitse &lt;g0&gt;Projekti&lt;/g0&gt; &lt;g1&gt;&gt;Uusi…&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
