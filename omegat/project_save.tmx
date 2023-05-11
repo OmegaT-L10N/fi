@@ -13117,6 +13117,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-click on the package you downloaded.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T155251Z" creationid="piav" creationdate="20230511T155251Z">
+        <seg>Kaksoisnapsauta lataamaasi pakettia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click the editable fields to make simple modifications or click on the &lt;g0&gt;Edit...&lt;/g0&gt; button to access the modification dialog.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T092944Z" creationid="pia" creationdate="20221114T092944Z">
@@ -33142,6 +33150,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;The Eclipse Temurin™ project&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T155232Z" creationid="piav" creationdate="20230511T155232Z">
+        <seg>Lue lisää &lt;u0&gt;The Eclipse Temurin™&lt;/u0&gt; -projektista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;The Regex Coach&lt;/u0&gt; for Windows,Linux, FreeBSD versions of a stand-alone tool.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T130243Z" creationid="piav" creationdate="20191022T160204Z">
@@ -46606,6 +46622,14 @@ käynnistysvalikkoon, työpöydälle tai pikakäynnistysalueelle.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can choose the language used during the installation and the language used by OmegaT.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T155346Z" creationid="piav" creationdate="20230511T155346Z">
+        <seg>Voit valita, mitä kieltä asennusohjelma ja mitä kieltä OmegaT käyttää.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T114954Z" creationid="piav" creationdate="20191202T114954Z">
@@ -49582,6 +49606,14 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T121939Z" creationid="piav" creationdate="20191201T121939Z">
         <seg>https://datamarket.azure.com/account</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://developer.ibm.com/languages/java/semeru-runtimes/downloads/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T155234Z" creationid="piav" creationdate="20230511T155234Z">
+        <seg>https://developer.ibm.com/languages/java/semeru-runtimes/downloads/</seg>
       </tuv>
     </tu>
     <tu>
