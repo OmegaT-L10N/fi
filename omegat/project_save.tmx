@@ -17487,6 +17487,14 @@ lopullisesti.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hit &lt;k0&gt;F1&lt;/k0&gt; or access the &lt;g1&gt;&gt; Help&lt;/g1&gt; menu to open the user manual.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T151519Z" creationid="piav" creationdate="20230511T151351Z">
+        <seg>Avaa käyttäjän käsikirja: paina &lt;k0&gt;F1&lt;/k0&gt; tai navigoi &lt;g1&gt;Ohjeet&lt;/g1&gt;-valikkoon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Home*</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171218T123619Z" creationid="PiaVee" creationdate="20171218T123428Z">
@@ -19351,6 +19359,14 @@ käynnistää ohjelman komennolla</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191203T141330Z" creationid="piav" creationdate="20191203T141330Z">
         <seg>Jos haluat, että käännös on sama kuin lähdeteksti, poista muokkauskentän teksti (valitse koko teksti näppäinyhdistelmällä &lt;k0&gt;Ctrl+A&lt;/k0&gt; ja poista se &lt;k1&gt;Del&lt;/k1&gt;-näppäimellä).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to know more, read the user manual.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T151354Z" creationid="piav" creationdate="20230511T151350Z">
+        <seg>Jos haluat tietää lisää, tutki käyttäjän käsikirjaa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32790,6 +32806,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;g1&gt;&gt; Help&lt;/g1&gt; &lt;g2&gt;&gt; About&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T151637Z" creationid="piav" creationdate="20230511T151637Z">
+        <seg>Lisätietoja löytyy kohdasta &lt;g1&gt;Ohjeet&lt;/g1&gt; &lt;g2&gt;Tietoja&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0/&gt; and &lt;l1/&gt; for details.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T160826Z" creationid="piav" creationdate="20221102T160826Z">
@@ -32952,8 +32976,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>See Help &gt; User Manual for details, including available Java options.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T110426Z" creationid="piav" creationdate="20230425T110426Z">
-        <seg>Löydät lisätietoja muun muassa Java-asetuksista kohdasta Ohje &gt; Käyttäjän käsikirja.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T151531Z" creationid="piav" creationdate="20230425T110426Z">
+        <seg>Löydät lisätietoja muun muassa Java-asetuksista kohdasta Ohjeet &gt; Käyttäjän käsikirja.</seg>
       </tuv>
     </tu>
     <tu>
