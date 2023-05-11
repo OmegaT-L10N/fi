@@ -27121,8 +27121,8 @@ käynnistettäväksi.</seg>
       <tuv lang="en">
         <seg>OmegaT packages are available both in versions bundled with Java, and versions without it.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230511T154447Z" creationid="piav" creationdate="20230511T154447Z">
-        <seg>Molemmat OmegaT-versiot ovat saatavilla joko niputettuna yhteen sopivan Javan kanssa tai ilman Javaa.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T154723Z" creationid="piav" creationdate="20230511T154447Z">
+        <seg>Molemmista OmegaT-versioista on saatavilla sekä Javan sisältävä paketti että paketti ilman Javaa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28592,6 +28592,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T082546Z" creationid="piav" creationdate="20191030T082546Z">
         <seg>PO-tiedostot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Packages without Java rely on a Java 11 Runtime Environment installed systemwide.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T154702Z" creationid="piav" creationdate="20230511T154519Z">
+        <seg>Paketit, joissa ei ole Javaa, edellyttävät, että Java 11 Runtime Environment on jo asennettuna koko järjestelmäämn.</seg>
       </tuv>
     </tu>
     <tu>
