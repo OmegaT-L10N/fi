@@ -12189,6 +12189,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Developer: OmegaT Nightly</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T153725Z" creationid="piav" creationdate="20230511T153725Z">
+        <seg>Kehitysversio: OmegaT Nightly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171219T083703Z" creationid="PiaVee" creationdate="20171219T083703Z">
@@ -20789,6 +20797,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install OmegaT</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T153550Z" creationid="piav" creationdate="20230511T153550Z">
+        <seg>OmegaT:n asentaminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Install failed</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T150834Z" creationid="piav" creationdate="20230511T150834Z">
@@ -21473,6 +21489,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T083520Z" creationid="piav" creationdate="20191211T083520Z">
         <seg>Siksi JRE:llinen OmegaT on aina turvallinen asentaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is used for testing purposes.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T153758Z" creationid="piav" creationdate="20230511T153758Z">
+        <seg>Sitä käytetään testaustarkoituksiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26584,6 +26608,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220821T082337Z" creationid="piav" creationdate="20220821T082337Z">
         <seg>OmegaT:n klassinen teema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT comes in two editions:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T153606Z" creationid="piav" creationdate="20230511T153606Z">
+        <seg>OmegaT:stä on kaksi versiota:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35447,6 +35479,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard: OmegaT 6.1.0</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T153637Z" creationid="piav" creationdate="20230511T153628Z">
+        <seg>Perusversio: OmegaT 6.1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
@@ -38083,6 +38123,14 @@ nykyinen kansio.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The files are downloadable directly from &lt;u0&gt;https://omegat.org&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T153818Z" creationid="piav" creationdate="20230511T153818Z">
+        <seg>Tiedostot voi ladata suoraan osoitteesta &lt;u0&gt;https://omegat.org&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The files are unformatted plain text files.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T151609Z" creationid="piav" creationdate="20191030T151609Z">
@@ -40683,6 +40731,22 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T145039Z" creationid="PiaVee" creationdate="20170910T084447Z">
         <seg>OmegaT on vapaa työkalu tietokoneavusteista kääntämistä varten, ja tämä tiedosto on virallinen OmegaT-käsikirja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This edition is automatically generated every time new code is added to OmegaT.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T153748Z" creationid="piav" creationdate="20230511T153748Z">
+        <seg>Tämä versio luodaan automaattisesti aina, kun OmegaT-ohjelmaan lisäään uutta koodia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This edition is recommended for everyday use.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T153711Z" creationid="piav" creationdate="20230511T153634Z">
+        <seg>Tämä versio soveltuu jokapäiväiseen käyttöön.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49534,6 +49598,14 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T103558Z" creationid="piav" creationdate="20191211T103558Z">
         <seg>https://omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.org/download</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T153800Z" creationid="piav" creationdate="20230511T153800Z">
+        <seg>https://omegat.org/download</seg>
       </tuv>
     </tu>
     <tu>
