@@ -5730,6 +5730,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abort...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T173358Z" creationid="piav" creationdate="20230511T173358Z">
+        <seg>Keskeytä…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T091427Z" creationid="PiaVee" creationdate="20171015T085007Z">
@@ -7486,6 +7494,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ask again...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T173346Z" creationid="piav" creationdate="20230511T173346Z">
+        <seg>Kysy uudelleen…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Assamese</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T173523Z" creationid="PiaVee" creationdate="20171014T173518Z">
@@ -8806,6 +8822,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220821T082555Z" creationid="piav" creationdate="20220821T082519Z">
         <seg>Bash-polulta $PATH ei löydy suoritettavaa GPG:tä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot get correct answer.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T173352Z" creationid="piav" creationdate="20230511T173352Z">
+        <seg>Oikeaa vastausta ei tule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17513,6 +17537,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220821T081927Z" creationid="piav" creationdate="20220821T081927Z">
         <seg>Odottamaton MIME TYPE {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected input.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T173341Z" creationid="piav" creationdate="20230511T173341Z">
+        <seg>Odottamaton syöte.</seg>
       </tuv>
     </tu>
     <tu>
