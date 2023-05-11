@@ -16283,6 +16283,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Freedoms</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T153214Z" creationid="piav" creationdate="20230511T153214Z">
+        <seg>Vapaudet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>French</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T174108Z" creationid="PiaVee" creationdate="20171014T174108Z">
@@ -43984,6 +43992,14 @@ Nykyinen asetus on {0} MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;g1&gt;&gt; Project&lt;/g1&gt; &lt;g2&gt;&gt; Access Project Contents&lt;/g2&gt; to access the files.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T153205Z" creationid="piav" creationdate="20230511T153205Z">
+        <seg>Pääset käsiksi projektin tiedostoihin vallitsemalla &lt;g1&gt;Projekti&lt;/g1&gt; &lt;g2&gt;&gt; Avaa projektin sisältö&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; to cycle through the four alternatives.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T133419Z" creationid="piav" creationdate="20191202T133419Z">
@@ -53860,6 +53876,14 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T152756Z" creationid="piav" creationdate="20230511T152756Z">
         <seg>→ OmegaT vie segmentin projektin käännösmuistiin ja siirtää kohdistimen seuraavaan segmenttiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT will store the translated files into the &lt;g0&gt;target&lt;/g0&gt; folder of the project that was created in the first step.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T153107Z" creationid="piav" creationdate="20230511T153107Z">
+        <seg>→ OmegaT tallettaa käännetyt tiedostot ensimmäisessä vaiheessa laaditun projektin &lt;g0&gt;target&lt;/g0&gt;-kansioon.</seg>
       </tuv>
     </tu>
     <tu>
