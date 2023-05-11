@@ -13349,6 +13349,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Due to licensing considerations, the OmegaT team recommends the Eclipse Temurin Java runtime provided by the Eclipse Foundation's Adoptium Project, but any Java 8 compatible runtime environment should work.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T155109Z" creationid="piav" creationdate="20230511T155109Z">
+        <seg>Lisenssisyistä OmegaT-tiimi suosittelee Eclipse Foundationin Adoptium-projektin tarjoamaa Eclipse Temurin Java -ajoympäristöä, mutta minkä tahansa Java 8 -yhteensopivan ajoympäristön tulisi toimia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Duplicate</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T063553Z" creationid="piav" creationdate="20190522T063542Z">
@@ -26432,6 +26440,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T144922Z" creationid="piav" creationdate="20191209T144922Z">
         <seg>OmegaT 4.2 – Käyttöopas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT 5.8.0 and later can also run with Java 11 Runtime Environment on any platform.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T154814Z" creationid="piav" creationdate="20230511T154814Z">
+        <seg>OmegaT 5.8.0 ja myöhemmät toimivat siis millä tahansa alustalla, johon on asennettu Java 11 Runtime Environment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49670,6 +49686,14 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T100813Z" creationid="piav" creationdate="20191211T100813Z">
         <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://projects.eclipse.org/projects/adoptium.temurin</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T154816Z" creationid="piav" creationdate="20230511T154816Z">
+        <seg>https://projects.eclipse.org/projects/adoptium.temurin</seg>
       </tuv>
     </tu>
     <tu>
