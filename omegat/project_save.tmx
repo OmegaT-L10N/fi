@@ -21357,6 +21357,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is distributed under the terms of the &lt;e0&gt;GNU General Public License, version 3.0&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T153545Z" creationid="piav" creationdate="20230511T153545Z">
+        <seg>Jakelun pohjana on &lt;e0&gt;GNU General Public Licence&lt;/e0&gt; (GNU GPL) eli GNU-hankkeen yleinen lisenssi, versionumero 3.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T120628Z" creationid="piav" creationdate="20191202T120615Z">
@@ -26859,8 +26867,16 @@ resursseineen käännösprojekteiksi, joita on helppo hallita ja päivittää.</
       <tuv lang="en">
         <seg>OmegaT is a free and open source multiplatform computer-assisted translation (CAT) tool offering fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T133603Z" creationid="piav" creationdate="20230510T133603Z">
-        <seg>fzzOmegaT on vapaa ja avoin CAT-työkalu (CAT = computer-assisted translation, tietokoneavusteinen kääntäminen), joka toimii eri käyttöjärjestelmissä. OmegaT tarjoaa käännöstyön avuksi käännösmuistin, erilaisia sanastoja ja sumeita käännösosumia sekä kokoaa käännökset resursseineen käännösprojekteiksi, joita on helppo hallita ja päivittää.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T153407Z" creationid="piav" creationdate="20230510T133603Z">
+        <seg>OmegaT on vapaa ja avoin CAT-työkalu (CAT = computer-assisted translation, tietokoneavusteinen kääntäminen), joka toimii eri käyttöjärjestelmissä. Ohjelma tarjoaa käännöstyön avuksi käännösmuistin, erilaisia sanastoja ja sumeita käännösosumia sekä kokoaa käännökset resursseineen käännösprojekteiksi, joita on helppo hallita ja päivittää.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is a free computer-assisted translation (CAT) solution for professional translators.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T153255Z" creationid="piav" creationdate="20230511T153255Z">
+        <seg>OmegaT on ammattimaisille kääntäjille kehitetty vapaa käännöstyökalu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40656,8 +40672,8 @@ palvelimelta.</seg>
       <tuv lang="en">
         <seg>This document is the official user manual to OmegaT, the free Computer-Assisted Translation tool.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T141942Z" creationid="piav" creationdate="20230425T141920Z">
-        <seg>Olet löytänyt tiesi virallisen OmegaT-käsikirjan äärelle, tervetuloa! OmegaT on vapaa työkalu tietokoneavusteista kääntämistä varten.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T153342Z" creationid="piav" creationdate="20230425T141920Z">
+        <seg>Tervetuloa! Olet löytänyt tiesi virallisen OmegaT-käsikirjan äärelle. OmegaT on vapaa työkalu tietokoneavusteista kääntämistä varten.</seg>
       </tuv>
     </tu>
     <tu>
