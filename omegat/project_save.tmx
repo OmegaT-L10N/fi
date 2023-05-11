@@ -18076,6 +18076,14 @@ polulla, koko polkua ei tarvitse kirjoittaa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;f0&gt;.jar&lt;/f0&gt; files are properly associated with the Java 11 Runtime Environment and your PATH settings are correct, you can also simply click (or double-click) on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T161207Z" creationid="piav" creationdate="20230511T161207Z">
+        <seg>Jos &lt;f0&gt;.jar&lt;/f0&gt;-tiedostot on yhdistetty oikein Java 11 -ajoympäristöön ja PATH-asetuksesi ovat oikein, voit käynnistää &lt;f1&gt;OmegaT.jar&lt;/f1&gt;-tiedoston yksinkertaisesti napsauttamalla sitä (kahdesti).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, Auto-completer is launched automatically by typing the first letters of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20200704T142022Z" creationid="piav" creationdate="20191202T142036Z">
@@ -26502,8 +26510,8 @@ Apit-kansioon.</seg>
       <tuv lang="en">
         <seg>OmegaT 5.8.0 and later can also run with Java 11 Runtime Environment on any platform.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230511T154814Z" creationid="piav" creationdate="20230511T154814Z">
-        <seg>OmegaT 5.8.0 ja myöhemmät toimivat siis millä tahansa alustalla, johon on asennettu Java 11 Runtime Environment.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T160936Z" creationid="piav" creationdate="20230511T154814Z">
+        <seg>OmegaT 5.8.0 ja myöhemmät toimivat siis millä tahansa alustalla, johon on asennettu Java 11 -ajoympäristö.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26518,8 +26526,8 @@ Apit-kansioon.</seg>
       <tuv lang="en">
         <seg>OmegaT 6.1.0 requires a Java 11 Runtime Environment (JRE) to run.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230511T154041Z" creationid="piav" creationdate="20230511T154041Z">
-        <seg>OmegaT 6.1.0. vaatii toimiakseen, että järjestelmääsi on asennettu Java Runtime Environment (JRE) 11.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T160920Z" creationid="piav" creationdate="20230511T154041Z">
+        <seg>OmegaT 6.1.0. vaatii toimiakseen, että järjestelmääsi on asennettu Java 11 -ajoympäristö (JRE) 11.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28694,8 +28702,8 @@ your home folder.</seg>
       <tuv lang="en">
         <seg>Packages without Java rely on a Java 11 Runtime Environment installed systemwide.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230511T154702Z" creationid="piav" creationdate="20230511T154519Z">
-        <seg>Paketit, joissa ei ole Javaa, edellyttävät, että Java 11 Runtime Environment on jo asennettuna koko järjestelmäämn.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T160928Z" creationid="piav" creationdate="20230511T154519Z">
+        <seg>Paketit, joissa ei ole Javaa, edellyttävät, että Java 11 -ajoympäristö on jo asennettuna koko järjestelmäämn.</seg>
       </tuv>
     </tu>
     <tu>
