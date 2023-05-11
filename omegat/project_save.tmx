@@ -72,16 +72,16 @@
       <tuv lang="en">
         <seg>"Unable to load Java Runtime Environment.";</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="PiaVee" creationdate="20170910T090011Z">
-        <seg>”Unable to load Java Runtime Environment.”;</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T161250Z" creationid="PiaVee" creationdate="20170910T090011Z">
+        <seg>”Java-ajoympäristön lataaminen ei onnistu.”;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"Unable to load a Java %d Runtime Environment.";</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="PiaVee" creationdate="20170910T090022Z">
-        <seg>”Unable to load a Java %d Runtime Environment.”;</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T161308Z" creationid="PiaVee" creationdate="20170910T090022Z">
+        <seg>”Java %d -ajoympäristön lataaminen ei onnistu.”;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34056,8 +34056,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T073741Z" creationid="piav" creationdate="20191211T073741Z">
-        <seg>Valitse, lataatko OmegaT:n ilman Java Runtime Environmentia (JRE) vai sen kanssa.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T161408Z" creationid="piav" creationdate="20191211T073741Z">
+        <seg>Valitse, lataatko OmegaT:n ilman Java-ajoympäristöä (JRE) vai sen kanssa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36968,8 +36968,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="piav" creationdate="20191211T074456Z">
-        <seg>OmegaT:n ”paristollinen” versio, jossa oma Java Runtime Environment.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T161510Z" creationid="piav" creationdate="20191211T074456Z">
+        <seg>OmegaT:n ”paristollinen” versio, jossa on oma Java-ajoympäristönsä.</seg>
       </tuv>
     </tu>
     <tu>
