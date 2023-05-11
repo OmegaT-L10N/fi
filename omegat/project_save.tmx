@@ -13397,6 +13397,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Due to licensing considerations, the OmegaT team recommends the Java runtime Eclipse Temurin provided by the Eclipse Foundation's Adoptium Project, but any Java {{site.data.versions.standard.java_version}} compatible runtime environment should work.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T162045Z" creationid="piav" creationdate="20230511T162045Z">
+        <seg>Lisenssisyistä OmegaT-tiimi suosittelee Eclipse Foundationin Adoptium-projektin tarjoamaa Eclipse Temurin Java -ajoympäristöä, mutta minkä tahansa Java {{site.data.versions.standard.java_version}} -yhteensopivan ajoympäristön tulisi toimia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Duplicate</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T063553Z" creationid="piav" creationdate="20190522T063542Z">
@@ -27468,6 +27476,22 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT {{site.data.versions.standard.name}} and later also support Java 11 Runtime Environment on any platforms.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T162014Z" creationid="piav" creationdate="20230511T162014Z">
+        <seg>OmegaT {{site.data.versions.standard.name}} ja myöhemmät tukevat mitä tahansa alustaa, jossa on Java 11 -ajoympäristö.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT {{site.data.versions.standard.name}} requires a Java {{site.data.versions.standard.java_version}} Runtime Environment (JRE) to run.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T161824Z" creationid="piav" creationdate="20230511T161824Z">
+        <seg>OmegaT {{site.data.versions.standard.name}} vaatii toimiakseen Java {{site.data.versions.standard.java_version}} -ajoympäristön (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T175035Z" creationid="piav" creationdate="20191210T175035Z">
@@ -28704,6 +28728,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T160928Z" creationid="piav" creationdate="20230511T154519Z">
         <seg>Paketit, joissa ei ole Javaa, edellyttävät, että Java 11 -ajoympäristö on jo asennettuna koko järjestelmäämn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Packages without Java rely on a Java {{site.data.versions.standard.java_version}} Runtime Environment installed systemwide.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T161916Z" creationid="piav" creationdate="20230511T161916Z">
+        <seg>Paketit, joissa ei ole Javaa, edellyttävät, että Java {{site.data.versions.standard.java_version}} -ajoympäristö on asennettu koko järjestelmän laajuisesti.</seg>
       </tuv>
     </tu>
     <tu>
