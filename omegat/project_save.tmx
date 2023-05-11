@@ -18909,6 +18909,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there isn’t one, it installs the program in &lt;f1&gt;/opt/omegat/OmegaT_6.1.0&lt;/f1&gt; and sets it as the default version (in &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T160230Z" creationid="piav" creationdate="20230511T160230Z">
+        <seg>Jos sitä ei ole, se asentaa ohjelman kansioon &lt;f1&gt;/opt/omegat/OmegaT_6.1.0&lt;/f1&gt; ja asettaa sen oletusversioksi (kohtaan &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T110503Z" creationid="piav" creationdate="20191208T110503Z">
@@ -32154,6 +32162,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Running the script will require you to enter your &lt;f0&gt;sudo&lt;/f0&gt; password.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T160014Z" creationid="piav" creationdate="20230511T155948Z">
+        <seg>Komentosarjan ajaminen vaatii sinua syöttämään &lt;f0&gt;sudo&lt;/f0&gt;-salasanasi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Runs (text elements) are set to RTL</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T133225Z" creationid="piav" creationdate="20191127T133225Z">
@@ -39353,6 +39369,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="piav" creationdate="20190913T110547Z">
         <seg>Komentosarja ”{0}” on käynnissä…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The script checks for an existing installation of the same OmegaT version in &lt;f0&gt;/opt/omegat/&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T160059Z" creationid="piav" creationdate="20230511T160059Z">
+        <seg>Komentosarja tarkistaa, onko sama OmegaT-versio jo asennettu &lt;f0&gt;/opt/omegat/&lt;/f0&gt;-kansioon.</seg>
       </tuv>
     </tu>
     <tu>
