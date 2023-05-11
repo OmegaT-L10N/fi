@@ -9658,6 +9658,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on &lt;g0&gt;Add Files...&lt;/g0&gt; and add the files that you want to translate.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T152449Z" creationid="piav" creationdate="20230511T152449Z">
+        <seg>Napsauta kohtaa &lt;g0&gt;Lisää tiedostoja…&lt;/g0&gt;, niin pääset lisäämään käännösprojektiin tiedostot, jotka haluat kääntää.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on &lt;g0&gt;Auto-text...&lt;/g0&gt; to configure Auto-text options and to add or remove entries.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T135741Z" creationid="piav" creationdate="20191030T135616Z">
@@ -12417,6 +12425,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T113142Z" creationid="piav" creationdate="20191129T113134Z">
         <seg>Laita verkkoyhteys pois päältä ennen kuin avaat projektin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dismiss the window.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T152455Z" creationid="piav" creationdate="20230511T152455Z">
+        <seg>Sulje ikkuna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21473,6 +21489,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T123607Z" creationid="piav" creationdate="20190920T123058Z">
         <seg>Se on muunnettava uudenlaiseksi ryhmäprojektiksi, mutta sitä ei voi tehdä konsolitilassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It now displays them segment per segment for you to translate them.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T152651Z" creationid="piav" creationdate="20230511T152651Z">
+        <seg>Ohjelma näyttää tiedostot segmentti kerrallaan, niin että voit kääntää tekstin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37154,6 +37178,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T155026Z" creationid="piav" creationdate="20191209T155026Z">
         <seg>Voi tuoda Komentosarjat-ikkunan tekstialueelle komentosarjan ja suorittaa sen avattuna olevassa projektissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Search function allows them to filter the Editor pane on contents translated by a given person, or on contents translated after or before a given time, for example.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T152350Z" creationid="piav" creationdate="20230511T152350Z">
+        <seg>fzzNäin käännät (esimerkiksi) Wikipedia-sivun sisällön:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53780,6 +53812,14 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221110T141819Z" creationid="pia" creationdate="20221110T141819Z">
         <seg>→ OmegaT avaa ryhmäprojektin ja synkronoi sen etävaraston kanssa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT will copy the selected files into the project that you created in the previous step.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T152543Z" creationid="piav" creationdate="20230511T152543Z">
+        <seg>→ OmegaT kopioi valitsemasi tiedostot edellisessä kohdassa luomaasi projektiin.</seg>
       </tuv>
     </tu>
     <tu>
