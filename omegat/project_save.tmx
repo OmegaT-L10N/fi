@@ -26444,6 +26444,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 6.1.0 requires a Java 11 Runtime Environment (JRE) to run.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T154041Z" creationid="piav" creationdate="20230511T154041Z">
+        <seg>OmegaT 6.1.0. vaatii toimiakseen, että järjestelmääsi on asennettu Java Runtime Environment (JRE) 11.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20200328T110119Z" creationid="piav" creationdate="20191210T175454Z">
@@ -27107,6 +27115,14 @@ käynnistettäväksi.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T153839Z" creationid="piav" creationdate="20221102T153839Z">
         <seg>OmegaT-valinnat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT packages are available both in versions bundled with Java, and versions without it.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T154447Z" creationid="piav" creationdate="20230511T154447Z">
+        <seg>Molemmat OmegaT-versiot ovat saatavilla joko niputettuna yhteen sopivan Javan kanssa tai ilman Javaa.</seg>
       </tuv>
     </tu>
     <tu>
