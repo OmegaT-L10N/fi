@@ -32824,6 +32824,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; preference for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230510T142039Z" creationid="piav" creationdate="20230510T142039Z">
+        <seg>fzzLisätietoja löytyy asetusvalikosta &lt;l2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; window for details.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T134742Z" creationid="piav" creationdate="20230425T134659Z">
