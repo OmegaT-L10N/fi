@@ -12613,6 +12613,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the translation of the current segment provided by the machine translation services selected in Preferences &gt; Machine Translation if those services are available.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T145520Z" creationid="piav" creationdate="20230511T145520Z">
+        <seg>Näyttää senhetkisen lähdesegmentin käännöksen, jonka jokin konekäännöspalvelu on tuottanut. Kohdassa Asetukset &gt; Konekäännös voit valita saatavilla olevista palveluista ne, joita haluat käyttää.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T121431Z" creationid="piav" creationdate="20190916T131543Z">
@@ -23070,6 +23078,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine Translations</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T145421Z" creationid="piav" creationdate="20230511T145421Z">
+        <seg>Konekäännökset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Magento CE Locale CSV</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T165144Z" creationid="piav" creationdate="20190527T165144Z">
@@ -25788,6 +25804,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T093611Z" creationid="piav" creationdate="20190522T093533Z">
         <seg>Ilmoitus (pysyvä)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me Even If There Are No Search Results</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T145414Z" creationid="piav" creationdate="20230511T145414Z">
+        <seg>Näytä ilmoitus, vaikka hakutuloksia ei ole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34404,6 +34428,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065515Z" creationid="piav" creationdate="20190522T073716Z">
         <seg>Järjestä kokotekstin, ei pikanäppäimen, mukaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by Target Term Length</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T145354Z" creationid="piav" creationdate="20230511T145354Z">
+        <seg>Järjestä kohdetermin pituuden mukaan</seg>
       </tuv>
     </tu>
     <tu>
@@ -43527,6 +43559,14 @@ Nykyinen asetus on {0} MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use Create Glossary Entry in the Edit menu to add new entries.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T145349Z" creationid="piav" creationdate="20230511T145349Z">
+        <seg>Valitse Muokkaa &gt; Luo sanaston termi, niin pääset lisäämään uuden kohdan sanastoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use TAB To Advance</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T063856Z" creationid="piav" creationdate="20191023T063856Z">
@@ -44343,6 +44383,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T190716Z" creationid="piav" creationdate="20190527T190716Z">
         <seg>Tarkastele tai muokkaa tiedostosuodattimia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>View, add, remove or edit a note in the active segment.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T145551Z" creationid="piav" creationdate="20230511T145551Z">
+        <seg>Tarkastele, lisää, poista tai muokkaa aktiivisen segmentin muistiinpanoja.</seg>
       </tuv>
     </tu>
     <tu>
