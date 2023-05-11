@@ -19264,6 +19264,14 @@ näkyvät.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you decide to install a new version, keep the following in mind:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T162749Z" creationid="piav" creationdate="20230511T162740Z">
+        <seg>Jos päätät asentaa uuden version, muista seuraavat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you do not use the default configuration folder, all modifications made in &lt;l0/&gt; will be stored in the specified configuration folder and will not appear when you resume work with the default configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T080411Z" creationid="pia" creationdate="20221110T145920Z">
@@ -27572,6 +27580,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT’s preferences are stored in the configuration folder and will &lt;e0&gt;not&lt;/e0&gt; be modified by the new version.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T162854Z" creationid="piav" creationdate="20230511T162747Z">
+        <seg>OmegaT-asetukset on tallennettu määrityskansioon. Uuden version asentaminen &lt;e0&gt;ei&lt;/e0&gt; muuta niitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Linux</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T114541Z" creationid="piav" creationdate="20191201T114541Z">
@@ -30400,6 +30416,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T115904Z" creationid="piav" creationdate="20230425T115904Z">
         <seg>Projekti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Projects that you have created in the past or are currently using will &lt;e0&gt;not&lt;/e0&gt; be modified or deleted.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T163045Z" creationid="piav" creationdate="20230511T163045Z">
+        <seg>Vanhoja tai nykyisiä projektejasi &lt;e0&gt;ei&lt;/e0&gt; muuteta eikä poisteta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33458,6 +33482,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T134742Z" creationid="piav" creationdate="20230425T134659Z">
         <seg>Lisätietoja löytyy ikkunasta &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; chapter for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T162922Z" creationid="piav" creationdate="20230511T162922Z">
+        <seg>Lisätietoja löytyy kappaleesta &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
