@@ -22954,8 +22954,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>License</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T141249Z" creationid="piav" creationdate="20230425T141249Z">
-        <seg>fzzLisenssi</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T164159Z" creationid="piav" creationdate="20230425T141249Z">
+        <seg>Lisenssi</seg>
       </tuv>
     </tu>
     <tu>
@@ -28678,8 +28678,8 @@ your home folder.</seg>
       <tuv lang="en">
         <seg>Over an existing version</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230511T163707Z" creationid="piav" creationdate="20230511T163707Z">
-        <seg>Olemassa olevan version päälle</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T164333Z" creationid="piav" creationdate="20230511T163707Z">
+        <seg>Asenna olemassa olevan version päälle</seg>
       </tuv>
     </tu>
     <tu>
@@ -42284,6 +42284,14 @@ asetukset oletusarvoihinsa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T164449Z" creationid="piav" creationdate="20230511T164330Z">
+        <seg>Tämä onnistuu helposti: valitse uuden version asennuskansioksi sama, jonne jo olemassa oleva versio asennettiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210415T123421Z" creationid="piav" creationdate="20191030T080522Z">
@@ -44452,6 +44460,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T133419Z" creationid="piav" creationdate="20191202T133419Z">
         <seg>Näppäinyhdistelmällä &lt;k0&gt; &lt;k1&gt;vaihto&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; voit kiertää näiden neljän vaihtoehdon välillä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access this tool.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T164242Z" creationid="piav" creationdate="20230511T164211Z">
+        <seg>Pääset käyttämään tätä valitsemalla &lt;l0/&gt;&lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
