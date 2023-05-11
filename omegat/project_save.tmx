@@ -988,6 +988,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Go to Downloads</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T172320Z" creationid="piav" creationdate="20230511T172320Z">
+        <seg>Siirry latauksiin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Help</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T123443Z" creationid="PiaVee" creationdate="20171015T111231Z">
@@ -1072,6 +1080,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T150654Z" creationid="piav" creationdate="20230511T150654Z">
         <seg>Asenna uusi kieli…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Install plugin from disk</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T172138Z" creationid="piav" creationdate="20230511T172138Z">
+        <seg>Asenna liitännäinen levyltä</seg>
       </tuv>
     </tu>
     <tu>
@@ -15498,10 +15514,34 @@ Virheilmoitus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project due to file corruption.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T172425Z" creationid="piav" creationdate="20230511T172425Z">
+        <seg>Projektin lataaminen ei onnistunut, sillä tiedosto on virrheellinen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the specified project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T172402Z" creationid="piav" creationdate="20230511T172402Z">
+        <seg>Kyseisen projektin lataaminen ei onistunut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T124241Z" creationid="PiaVee" creationdate="20171015T123837Z">
         <seg>Projektissa käytettävän käännösmuistitiedoston {0} lataaminen ei onnistunut!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory {0} for the project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T172342Z" creationid="piav" creationdate="20230511T172342Z">
+        <seg>Projektissa käytettävän käännösmuistitiedoston {0} lataaminen ei onnistunut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21247,6 +21287,22 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install plugin file</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T172149Z" creationid="piav" creationdate="20230511T172149Z">
+        <seg>Asenna liitännäistiedosto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install plugin {0} {1}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T172245Z" creationid="piav" creationdate="20230511T172245Z">
+        <seg>Asenna liitännäinen {0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installation Type</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T072818Z" creationid="piav" creationdate="20191211T072818Z">
@@ -26302,6 +26358,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not set</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T172126Z" creationid="piav" creationdate="20230511T172126Z">
+        <seg>Ei asetettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not to mention his care and diligence, keeping repositories intact and in good order.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20170930T064856Z" creationid="PiaVee" creationdate="20170930T064833Z">
@@ -30028,6 +30092,14 @@ onko sinun tehtävä vielä muuta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T151047Z" creationid="piav" creationdate="20230511T151047Z">
         <seg>Liitännäisten asennin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin installation failed.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T172259Z" creationid="piav" creationdate="20230511T172259Z">
+        <seg>Liitännäisen asennus ei onnistunut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41889,6 +41961,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file is not a plugin archive.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T172308Z" creationid="piav" creationdate="20230511T172308Z">
+        <seg>Tiedosto ei ole liitännäisarkisto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file stores the currently selected text when the &lt;l0/&gt; command in the &lt;l1/&gt; menu is used.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221110T144206Z" creationid="pia" creationdate="20221110T144206Z">
@@ -44915,6 +44995,18 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T162540Z" creationid="piav" creationdate="20230511T162540Z">
         <seg>Päivittäminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade/override plugin {0}
+current: {1}
+new version: {2}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T172236Z" creationid="piav" creationdate="20230511T172236Z">
+        <seg>Päivitä/ohita liitännäinen {0}
+nykyinen: {1}
+uusi versio: {2}</seg>
       </tuv>
     </tu>
     <tu>
