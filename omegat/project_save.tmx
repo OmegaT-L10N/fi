@@ -1012,6 +1012,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Ignore matches with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171649Z" creationid="piav" creationdate="20230511T171649Z">
+        <seg>Ohita osumat, joissa isoja kirjaimia käytetään eri tavoin (esim. FOO ja foo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T170925Z" creationid="piav" creationdate="20190527T170803Z">
@@ -1112,6 +1120,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T140633Z" creationid="piav" creationdate="20190916T140633Z">
         <seg>Käynnistä paikallinen palvelin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Layout:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171704Z" creationid="piav" creationdate="20230511T171704Z">
+        <seg>Asettelu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17269,6 +17285,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go to Preferences &gt; Global External Searches to enable them.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171812Z" creationid="piav" creationdate="20230511T171812Z">
+        <seg>Ota ne käyttöön kohdassa Asetukset &gt; Yleiset ulkoiset haut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go to Segment</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T124624Z" creationid="piav" creationdate="20230425T124624Z">
@@ -23548,6 +23572,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171734Z" creationid="piav" creationdate="20230511T171734Z">
+        <seg>Paikalliset projektikomennot ovat turvallisuussyistä pois käytöstä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T130921Z" creationid="piav" creationdate="20190920T125519Z">
@@ -24640,6 +24672,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210414T170530Z" creationid="piav" creationdate="20210414T170530Z">
         <seg>Yhdistä saman termin selitykset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definitions of the same term</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171659Z" creationid="piav" creationdate="20230511T171659Z">
+        <seg>Yhdistä saman termin eri selitykset</seg>
       </tuv>
     </tu>
     <tu>
@@ -32084,6 +32124,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace matches when inserting source text</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171643Z" creationid="piav" creationdate="20230511T171643Z">
+        <seg>Korvaa osumat lähdetekstiä lisättäessä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190515T191307Z" creationid="PiaVee" creationdate="20170908T124309Z">
@@ -33412,6 +33460,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20170910T084233Z" creationid="PiaVee" creationdate="20170910T084233Z">
         <seg>Etsi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search &amp;automatically</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171718Z" creationid="piav" creationdate="20230511T171718Z">
+        <seg>Hae automaattisesti</seg>
       </tuv>
     </tu>
     <tu>
@@ -44998,6 +45054,14 @@ Nykyinen asetus on {0} MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;fuzzy matching</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171711Z" creationid="piav" creationdate="20230511T171711Z">
+        <seg>Käytä sumeita osumia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;fuzzy matching for dictionary entries</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065236Z" creationid="PiaVee" creationdate="20171015T122255Z">
@@ -45008,8 +45072,8 @@ Nykyinen asetus on {0} MB;</seg>
       <tuv lang="en">
         <seg>Use &amp;stemming</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230511T171521Z" creationid="piav" creationdate="20230511T171521Z">
-        <seg>Käytä perusmuotoja</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171629Z" creationid="piav" creationdate="20230511T171521Z">
+        <seg>Käytä sanavartaloita</seg>
       </tuv>
     </tu>
     <tu>
