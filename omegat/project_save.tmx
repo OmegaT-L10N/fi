@@ -18623,8 +18623,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If so desired, drag and drop &lt;f0&gt;OmegaT.app&lt;/f0&gt; onto the Dock for easier access.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230511T160530Z" creationid="piav" creationdate="20230511T160530Z">
-        <seg>Jos haluat, voit vetää ja pudottaa &lt;f0&gt;OmegaT.app&lt;/f0&gt;-kuvakkeen Dockiin, niin saat ohjelman avattua helpommin.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T160542Z" creationid="piav" creationdate="20230511T160530Z">
+        <seg>Jos haluat, voit vetää ja pudottaa &lt;f0&gt;OmegaT.app&lt;/f0&gt;-kuvakkeen Dockiin, niin saat ohjelman helpommin avattua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27232,6 +27232,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT runs on any platform that runs a Java Runtime Environment (Windows, macOS, and Linux being the most mainstream).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T160902Z" creationid="piav" creationdate="20230511T160757Z">
+        <seg>OmegaT toimii millä tahansa alustalla, jossa on Java-ajoympäristö (tavallisimmin Windows, macOS ja Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T080316Z" creationid="piav" creationdate="20191128T080133Z">
@@ -27620,6 +27628,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On other platforms</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T160610Z" creationid="piav" creationdate="20230511T160610Z">
+        <seg>Muissa käyttöjärjestelmissä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T095919Z" creationid="piav" creationdate="20191023T055312Z">
@@ -27712,6 +27728,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T100217Z" creationid="piav" creationdate="20191201T100217Z">
         <seg>Kun olet tehnyt tämän, voit poistaa &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt;-tiedoston, sillä sitä ei enää tarvita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once you have done this, you can delete the downloaded package as it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T160606Z" creationid="piav" creationdate="20230511T160533Z">
+        <seg>Kun olet tehnyt tämän, voit poistaa lataamasi paketin, sillä sitä ei enää tarvita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41091,6 +41115,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T120405Z" creationid="piav" creationdate="20191129T120405Z">
         <seg>Nämä tiedot koskevat ainoastaan "perinteisiä" OmegaT:n Windows-versioita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This information applies to any system for a Java version compatible with Java 11 Runtime Environment is available.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T160754Z" creationid="piav" creationdate="20230511T160754Z">
+        <seg>Nämä ohjeet koskevat kaikkia järjestelmiä, joihin on saatavilla Java 11 -ajoympäristön kanssa yhteensopiva Java-versio</seg>
       </tuv>
     </tu>
     <tu>
