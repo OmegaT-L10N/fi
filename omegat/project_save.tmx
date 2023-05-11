@@ -1068,6 +1068,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Jump to Segment</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171202Z" creationid="piav" creationdate="20230511T171202Z">
+        <seg>Siirry segmenttiin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Keyword search</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065335Z" creationid="piav" creationdate="20190521T134341Z">
@@ -4256,6 +4264,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171002Z" creationid="piav" creationdate="20230511T171002Z">
+        <seg>&lt;html&gt;&lt;i&gt;Asetukset&lt;/i&gt; &amp;gt; &lt;i&gt;Yleistä&lt;/i&gt; &amp;gt; &lt;i&gt;Siirry eteenpäin sarkainnäppäimellä&lt;/i&gt; on valittu&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant format): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T131041Z" creationid="piav" creationdate="20230425T131003Z">
@@ -7071,6 +7087,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
         <seg>An item of the name "{0}" already exists at this location.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T132535Z" creationid="piav" creationdate="20190920T132535Z">
+        <seg>Tässä sijainnisssa on jo nimeke {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An item with the name "{0}" already exists at this location.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171158Z" creationid="piav" creationdate="20230511T171158Z">
         <seg>Tässä sijainnisssa on jo nimeke {0}.</seg>
       </tuv>
     </tu>
@@ -14574,6 +14598,14 @@ kukaan ei kuule.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error while loading the source files.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171145Z" creationid="piav" creationdate="20230511T171145Z">
+        <seg>Lähdetiedostojen lataamisessa tapahtui virhe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while reading MT results</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T141820Z" creationid="piav" creationdate="20190916T141820Z">
@@ -17621,6 +17653,14 @@ lopullisesti.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065341Z" creationid="piav" creationdate="20190521T134606Z">
         <seg>Piilota lisäasetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide Tags</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171150Z" creationid="piav" creationdate="20230511T171150Z">
+        <seg>Piilota tägit</seg>
       </tuv>
     </tu>
     <tu>
@@ -22266,10 +22306,26 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep Remote Version</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171109Z" creationid="piav" creationdate="20230511T171109Z">
+        <seg>Pidä etäversio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep Unico&amp;de literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230510T132826Z" creationid="piav" creationdate="20230510T132826Z">
         <seg>Älä käännä Unicode-literaaleja (\uXXXX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep Your Version</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171100Z" creationid="piav" creationdate="20230511T171100Z">
+        <seg>Pidä oma versio</seg>
       </tuv>
     </tu>
     <tu>
@@ -28766,6 +28822,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Original version</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171042Z" creationid="piav" creationdate="20230511T171042Z">
+        <seg>Alkuperäinen versio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Oriya</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T080946Z" creationid="PiaVee" creationdate="20171015T080946Z">
@@ -31546,6 +31610,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote version</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171051Z" creationid="piav" creationdate="20230511T171051Z">
+        <seg>Etäversio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T132509Z" creationid="piav" creationdate="20190521T132509Z">
@@ -31806,6 +31878,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T124638Z" creationid="PiaVee" creationdate="20171015T124638Z">
         <seg>Avataanko projekti uudelleen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171139Z" creationid="piav" creationdate="20230511T171139Z">
+        <seg>Toistuva</seg>
       </tuv>
     </tu>
     <tu>
@@ -34360,6 +34440,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select appropriate version</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171010Z" creationid="piav" creationdate="20230511T171010Z">
+        <seg>Valitse sopiva versio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select issue types to check.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T134208Z" creationid="piav" creationdate="20190920T134208Z">
@@ -34516,6 +34604,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T161408Z" creationid="piav" creationdate="20191211T073741Z">
         <seg>Valitse, lataatko OmegaT:n ilman Java-ajoympäristöä (JRE) vai sen kanssa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select your version, the original version or the remote version.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171035Z" creationid="piav" creationdate="20230511T171035Z">
+        <seg>Valitse oma versiosi, alkuperäinen versio tai etäversio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43647,6 +43743,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation is</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171115Z" creationid="piav" creationdate="20230511T171115Z">
+        <seg>Käännös on</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation is fuzzy</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T131454Z" creationid="piav" creationdate="20190920T131454Z">
@@ -47960,6 +48064,14 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Your version</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171047Z" creationid="piav" creationdate="20230511T171047Z">
+        <seg>Oma versiosi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You’ll need this to be able to obtain and use Yandex Translate API key.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T122545Z" creationid="piav" creationdate="20191201T122545Z">
@@ -49836,6 +49948,14 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T174121Z" creationid="PiaVee" creationdate="20171014T174121Z">
         <seg>ful</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>fuzzy</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171117Z" creationid="piav" creationdate="20230511T171117Z">
+        <seg>sumea</seg>
       </tuv>
     </tu>
     <tu>
@@ -52094,6 +52214,14 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T175048Z" creationid="PiaVee" creationdate="20171014T175048Z">
         <seg>nor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>not fuzzy</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171128Z" creationid="piav" creationdate="20230511T171128Z">
+        <seg>täydellinen</seg>
       </tuv>
     </tu>
     <tu>
