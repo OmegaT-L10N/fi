@@ -404,6 +404,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow local post-processing commands</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170325Z" creationid="piav" creationdate="20230511T170325Z">
+        <seg>Salli erityiset jälkikäsittelykomennot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Allow only unique characters</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065520Z" creationid="piav" creationdate="20190522T074927Z">
@@ -9370,6 +9378,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the tag issues again.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170345Z" creationid="piav" creationdate="20230511T170345Z">
+        <seg>Tarkista tägiongelmat uudelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191029T100623Z" creationid="piav" creationdate="20191029T100623Z">
@@ -15941,6 +15957,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For best results, install the appropriate dictionaries via Preferences &gt; Spellchecker.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170451Z" creationid="piav" creationdate="20230511T170451Z">
+        <seg>fzzParhaan lopputuloksen saat asentamalla sopivat sanakirjat kohdassa Asetukset &gt; Oikeinkirjoituksen tarkistus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For best results, please install the appropriate dictionaries via Preferences &gt; Spell Checking.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T121427Z" creationid="piav" creationdate="20190522T080021Z">
@@ -16841,6 +16865,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230510T134107Z" creationid="piav" creationdate="20230510T134107Z">
         <seg>Yleiset segmentointisäännöt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global post-processing commands</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170319Z" creationid="piav" creationdate="20230511T170319Z">
+        <seg>Yleiset jälkikäsittelykomennot</seg>
       </tuv>
     </tu>
     <tu>
@@ -27984,8 +28016,8 @@ your home folder.</seg>
       <tuv lang="en">
         <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191210T165426Z" creationid="piav" creationdate="20191210T165426Z">
-        <seg>Verkkovarastoja, joiden oikeinkirjoitussanastoja voi käyttää OmegaT:ssä.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170557Z" creationid="piav" creationdate="20191210T165426Z">
+        <seg>Verkkovarastoja, joiden oikeinkirjoitussanakirjoja voi käyttää OmegaT:ssä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28096,8 +28128,8 @@ your home folder.</seg>
       <tuv lang="en">
         <seg>Only works if a spelling dictionary is installed.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191202T145808Z" creationid="piav" creationdate="20191202T145808Z">
-        <seg>Valinta toimii vain silloin, kun oikeinkirjoitussanasto on asennettuna.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170525Z" creationid="piav" creationdate="20191202T145808Z">
+        <seg>Valinta toimii vain silloin, kun oikeinkirjoitussanakirja on asennettuna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35835,8 +35867,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Spelling dictionaries</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191210T165336Z" creationid="piav" creationdate="20191210T165336Z">
-        <seg>Oikeinkirjoitussanastot</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170550Z" creationid="piav" creationdate="20191210T165336Z">
+        <seg>Oikeinkirjoitussanakirjat</seg>
       </tuv>
     </tu>
     <tu>
@@ -37138,6 +37170,14 @@ Tekstin korvaus tapahtuu projektin lähdekielisissä segmenteissä riippumatta s
         <seg>Text to be removed</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T063537Z" creationid="piav" creationdate="20190522T063537Z">
+        <seg>Poistettava teksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text to remove</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170329Z" creationid="piav" creationdate="20230511T170329Z">
         <seg>Poistettava teksti</seg>
       </tuv>
     </tu>
@@ -41403,8 +41443,8 @@ palvelimelta.</seg>
       <tuv lang="en">
         <seg>This folder contains your spelling dictionaries.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221110T145517Z" creationid="pia" creationdate="20221110T145517Z">
-        <seg>Oikeinkirjoitussanastot löytyvät tästä kansiosta.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170518Z" creationid="pia" creationdate="20221110T145517Z">
+        <seg>Oikeinkirjoitussanakirjat löytyvät tästä kansiosta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45862,6 +45902,14 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When checked, the items in the glossary auto-completer view will also contain the source text.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170416Z" creationid="piav" creationdate="20230511T170416Z">
+        <seg>Kun tämä on valittuna, sanaston automaattisen täydennyksen ruudussa näkyy myös lähdekielinen teksti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T074844Z" creationid="piav" creationdate="20190522T065842Z">
@@ -46964,6 +47012,14 @@ sitten suorittaa Kaptain-käynnistyskomentosarjan painamalla</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T075851Z" creationid="piav" creationdate="20190522T075851Z">
         <seg>HunspellTokenizer-jäsennystoiminto ei toimi kielessä {0}, sillä tälle kielelle ei ole asennettu oikolukusanakirjaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are trying to use the HunspellTokenizer with {0}, but no spelling dictionaries are installed for this language.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T170513Z" creationid="piav" creationdate="20230511T170441Z">
+        <seg>HunspellTokenizer-jäsennystoiminto ei toimi kielessä {0}, sillä tälle kielelle ei ole asennettu oikeinkirjoitussanakirjaa.</seg>
       </tuv>
     </tu>
     <tu>
