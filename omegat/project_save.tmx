@@ -2509,8 +2509,8 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
         <seg>--mode=[console mode name]
 	  Specify a mode other than the GUI default.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T125350Z" creationid="piav" creationdate="20230510T125350Z">
-        <seg>fzz--mode=[konsolitilan nimi]
+      <tuv lang="fi" changeid="piav" changedate="20230511T163726Z" creationid="piav" creationdate="20230510T125350Z">
+        <seg>--mode=[konsolitilan nimi]
 	  Määrittelee muun kuin oletusmuotoisen käyttötilan (GUI).</seg>
       </tuv>
     </tu>
@@ -10164,8 +10164,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Compress whitespace in translated file</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T134004Z" creationid="piav" creationdate="20230510T134004Z">
-        <seg>fzzTiivistä käännetyn asiakirjan tyhjätila</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T163745Z" creationid="piav" creationdate="20230510T134004Z">
+        <seg>Tiivistä käännetyn asiakirjan tyhjätila</seg>
       </tuv>
     </tu>
     <tu>
@@ -12431,8 +12431,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Directional Formatting Characters</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T134749Z" creationid="piav" creationdate="20230425T134749Z">
-        <seg>fzzSuuntaa kääntävä ohjainmerkki (PDF U-202C)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T163755Z" creationid="piav" creationdate="20230425T134749Z">
+        <seg>Suuntaa kääntävät ohjainmerkit</seg>
       </tuv>
     </tu>
     <tu>
@@ -20535,8 +20535,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>Index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), and sheet names.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T093752Z" creationid="pia" creationdate="20221114T093752Z">
-        <seg>fzz hakemiston hakusanat, kirjanmerkit, kirjanmerkkiviitteet, muistiinpanot, kommentit, esitysmuistiinpanot, linkit (URL), arkkien nimet</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T163848Z" creationid="pia" creationdate="20221114T093752Z">
+        <seg>hakemiston hakusanat, kirjanmerkit, kirjanmerkkiviitteet, muistiinpanot, kommentit, esitysmuistiinpanot, linkit (URL) ja arkkien nimet</seg>
       </tuv>
     </tu>
     <tu>
@@ -20735,8 +20735,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>Insert Next Missing T&amp;ag</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T120832Z" creationid="piav" creationdate="20230425T120832Z">
-        <seg>fzzLisää seuraava puuttuva tägi</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T163736Z" creationid="piav" creationdate="20230425T120832Z">
+        <seg>Lisää seuraava puuttuva tägi</seg>
       </tuv>
     </tu>
     <tu>
@@ -22202,8 +22202,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Keyword searches match all space-separated keywords in any order.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T134949Z" creationid="piav" creationdate="20230425T134949Z">
-        <seg>fzzAvainsanahaku etsii kaikkia välilyönnein erotettuja avainsanoja riippumatta niiden järjestyksestä.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T163742Z" creationid="piav" creationdate="20230425T134949Z">
+        <seg>Avainsanahaku etsii kaikkia välilyönnein erotettuja avainsanoja riippumatta niiden järjestyksestä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28692,6 +28692,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Over an existing version</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T163707Z" creationid="piav" creationdate="20230511T163707Z">
+        <seg>Olemassa olevan version päälle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Overwrite Mode</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T101947Z" creationid="piav" creationdate="20190521T101902Z">
@@ -32912,8 +32920,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Se&amp;lect Source Text</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T120546Z" creationid="piav" creationdate="20230425T120546Z">
-        <seg>fzzLisää lähdeteksti</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T163733Z" creationid="piav" creationdate="20230425T120546Z">
+        <seg>Valitse lähdeteksti</seg>
       </tuv>
     </tu>
     <tu>
@@ -33488,8 +33496,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; preference for details.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T142039Z" creationid="piav" creationdate="20230510T142039Z">
-        <seg>fzzLisätietoja löytyy asetusvalikosta &lt;l2/&gt;.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T163811Z" creationid="piav" creationdate="20230510T142039Z">
+        <seg>Lisätietoja löytyy asetusvalikosta &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
