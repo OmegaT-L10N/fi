@@ -8770,6 +8770,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change the language codes to reflect your source and target languages.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T151957Z" creationid="piav" creationdate="20230511T151957Z">
+        <seg>fzzTerminologiahaku etsii lähde- ja kohdekielisiä termejä sekä julkisista että yksityisistä kokoelmista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Change the name of the rule set and the language pattern to the language concerned and its code.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T105838Z" creationid="piav" creationdate="20190913T105253Z">
