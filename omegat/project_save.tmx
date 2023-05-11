@@ -5036,8 +5036,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T083657Z" creationid="piav" creationdate="20191211T083657Z">
-        <seg>&lt;s0&gt;Linux-käyttäjille:&lt;/s0&gt; Useimmissa Linux-jakeluissa on Java Runtime Environment, mutta joissakin avoimen lähdekoodin ympäristöissä oleva versio ei toimi kunnolla OmegaT:n kanssa (vaikka sitä ei välttämättä huomaa).</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T161740Z" creationid="piav" creationdate="20191211T083657Z">
+        <seg>&lt;s0&gt;Linux-käyttäjille:&lt;/s0&gt; Useimpien Linux-jakelujen mukana tulee Java-ajoympäristö, mutta jotkut avoimen lähdekoodin ajoympäristöt eivät toimi kunnolla OmegaT:n kanssa (vaikka sitä ei välttämättä huomaa heti).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19135,8 +19135,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T074833Z" creationid="piav" creationdate="20191211T074833Z">
-        <seg>Jos olet varma, että koneesi järjestelmätasolle on jo asennettu Java Runtime Environment, voit valita vaihtoehdon ilman JRE:tä.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T161535Z" creationid="piav" creationdate="20191211T074833Z">
+        <seg>Jos olet varma, että koneesi järjestelmätasolle on jo asennettu sopiva Java-ajoympäristö, voit valita vaihtoehdon ilman JRE:tä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20087,8 +20087,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T083058Z" creationid="piav" creationdate="20191211T083058Z">
-        <seg>Jotta OmegaT toimisi, koneellasi on oltava Java Runtime Environment (JRE).</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T161603Z" creationid="piav" creationdate="20191211T083058Z">
+        <seg>Jotta OmegaT toimisi, koneellasi on oltava Java-ajoympäristö (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27406,8 +27406,8 @@ your home folder.</seg>
       <tuv lang="en">
         <seg>OmegaT will run on any system on which the appropriate JRE (Java Runtime Environment) has been or can be installed.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T075931Z" creationid="piav" creationdate="20191211T075931Z">
-        <seg>OmegaT toimii kaikissa järjestelmissä, joihin sopiva JRE (Java Runtime Environment) joko on asennettu tai voidaan asentaa.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T161555Z" creationid="piav" creationdate="20191211T075931Z">
+        <seg>OmegaT toimii kaikissa järjestelmissä, joihin sopiva JRE (Java Runtime Environment, Java-ajoympäristö) joko on asennettu tai voidaan asentaa.</seg>
       </tuv>
     </tu>
     <tu>
