@@ -12501,6 +12501,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays entries from in glossary files located in the /glossary/ folder if they are found in the source segment.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T145244Z" creationid="piav" creationdate="20230511T145244Z">
+        <seg>Näyttää /glossary/-kansion sanastotiedostoista löytyneet termit, joita on kohdesegmentissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the &lt;l0/&gt; dialog to edit the project languages and folder locations.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T143614Z" creationid="piav" creationdate="20221102T143614Z">
@@ -12593,6 +12601,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T130524Z" creationid="piav" creationdate="20190916T130524Z">
         <seg>Näyttää lähdesegmenttiä vastaavat käännösmuistisegmentit </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the translation memory segments that match the source segment.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T145204Z" creationid="piav" creationdate="20230511T145204Z">
+        <seg>Näyttää käännösmuistista löytyvät segmentit, jotka vastaavat lähdesegmenttiä</seg>
       </tuv>
     </tu>
     <tu>
@@ -23721,6 +23737,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T130824Z" creationid="piav" creationdate="20190916T130615Z">
+        <seg>Osumia etsitään sekä nykyisestä käännöksestä että /tm/-kansiossa olevista TMX-tiedostoista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches come from your current translation or the TMX files placed in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T145216Z" creationid="piav" creationdate="20230511T145216Z">
         <seg>Osumia etsitään sekä nykyisestä käännöksestä että /tm/-kansiossa olevista TMX-tiedostoista.</seg>
       </tuv>
     </tu>
