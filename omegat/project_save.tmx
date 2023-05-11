@@ -9506,6 +9506,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the omegat directory of the project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T172444Z" creationid="piav" creationdate="20230511T172444Z">
+        <seg>Tarkista projektin omegat-kansio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the tag issues again.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T170345Z" creationid="piav" creationdate="20230511T170345Z">
@@ -14990,6 +14998,14 @@ kukaan ei kuule.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception while parsing "project_save.tmx":</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T172733Z" creationid="piav" creationdate="20230511T172733Z">
+        <seg>Tiedoston ”project_save.tmx” jäsentämisessä havaittiin poikkeus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception while parsing:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190523T101705Z" creationid="piav" creationdate="20190523T101705Z">
@@ -15514,10 +15530,18 @@ Virheilmoitus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project by a file access problem.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T172543Z" creationid="piav" creationdate="20230511T172508Z">
+        <seg>Projektin lataaminen ei onnistunut: virhe tiedoston pääsyoikeuksissa. pääsyo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load the project due to file corruption.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230511T172425Z" creationid="piav" creationdate="20230511T172425Z">
-        <seg>Projektin lataaminen ei onnistunut, sillä tiedosto on virrheellinen.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230511T172518Z" creationid="piav" creationdate="20230511T172425Z">
+        <seg>Projektin lataaminen ei onnistunut: tiedosto on virheellinen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29788,6 +29812,14 @@ everything.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T162043Z" creationid="PiaVee" creationdate="20171014T162043Z">
         <seg>Tarkempaa ja ajankohtaista tietoa kielikoodeista löytyy &lt;u0&gt;ISO 639 -kooditaulukosta&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please check you have permissions, or you can access files if there are files in cloud storage.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T172635Z" creationid="piav" creationdate="20230511T172635Z">
+        <seg>Tarkista käyttöoikeutesi, pääsysi tiedostoihin tai se, onko pilvitallentimella tiedostoja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55206,6 +55238,14 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20170908T122703Z" creationid="PiaVee" creationdate="20170908T122703Z">
         <seg>{0}_{1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} matches</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T172644Z" creationid="piav" creationdate="20230511T172644Z">
+        <seg>{0} osumaa</seg>
       </tuv>
     </tu>
     <tu>
