@@ -2022,6 +2022,14 @@ Lisää projektitiedostoja napsauttamalla Projektin tiedostot -ikkunan tai Proje
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Leave the Password empty if you are using an API key.)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T164723Z" creationid="piav" creationdate="20230511T164723Z">
+        <seg>(Älä kirjoita salasanaa, jos käytät API-avainta.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T162044Z" creationid="piav" creationdate="20191210T161923Z">
@@ -11893,6 +11901,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DeepL API key not available.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T164712Z" creationid="piav" creationdate="20230511T164712Z">
+        <seg>DeepL API -avain ei saatavilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DeepL Api key not available.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T151702Z" creationid="piav" creationdate="20190916T142000Z">
@@ -12632,6 +12648,14 @@ bittiavaruus.</seg>
         <seg>Displays alternative translations that you have created for segments that are repeated in the project.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190919T132421Z" creationid="piav" creationdate="20190919T132421Z">
+        <seg>Näyttää erilaiset käännökset, joita olet laatinut projektissa toistuviin segmentteihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays alternative translations you have created for repeated segments in the project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T164730Z" creationid="piav" creationdate="20230511T164730Z">
         <seg>Näyttää erilaiset käännökset, joita olet laatinut projektissa toistuviin segmentteihin.</seg>
       </tuv>
     </tu>
@@ -14121,6 +14145,14 @@ Kielikoodin xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen).
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221110T141313Z" creationid="pia" creationdate="20221110T141046Z">
         <seg>Kirjoita ryhmäprojektin päälliköltä saamasi URL-osoite valintaikkunan yläosassa olevaan &lt;g0&gt;Tietovaraston URL:&lt;/g0&gt;-kenttään ja määrittele käytettävä projektikansio &lt;g1&gt;Uusi paikallisen projektin kansio:&lt;/g1&gt;-kenttään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T164743Z" creationid="piav" creationdate="20230511T164743Z">
+        <seg>Anna tämän sarjan nimi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24474,6 +24506,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Model ID:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T164718Z" creationid="piav" creationdate="20230511T164718Z">
+        <seg>Mallitunnus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Model Id:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T142113Z" creationid="piav" creationdate="20190916T142113Z">
@@ -32278,6 +32318,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="piav" creationdate="20230425T113930Z">
         <seg>saada OmegaT käyntiin”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Run script in slot #{0}.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T164740Z" creationid="piav" creationdate="20230511T164740Z">
+        <seg>Käytä komentosarjaa paikassa #{0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40301,6 +40349,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The “old” version of OmegaT will be overwritten, but settings made from the OmegaT interface will be retained in the various configurations folders (see above).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T164627Z" creationid="piav" creationdate="20230511T164627Z">
+        <seg>Tiedot kirjoitetaan OmegaT:n ”vanhan” version päälle, mutta ohjelman käyttöjärjestelmästä käsin tehdyt asetukset säilyvät muuttumattomina eri asetuskansioissaan (ks. yllä).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Their contents will not be displayed for translation.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T080857Z" creationid="pia" creationdate="20221114T080857Z">
@@ -42984,6 +43040,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate this plural as a plural form #{0}.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T164820Z" creationid="piav" creationdate="20230511T164820Z">
+        <seg>Käännä tämä monikko monikkomuodossa #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate your files</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T160923Z" creationid="piav" creationdate="20221102T160923Z">
@@ -44917,6 +44981,14 @@ Nykyinen asetus on {0} MB;</seg>
         <seg>Username or API Key:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T083032Z" creationid="piav" creationdate="20190916T142019Z">
+        <seg>Käyttäjänimi tai API-avain:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Username or API key:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T164715Z" creationid="piav" creationdate="20230511T164715Z">
         <seg>Käyttäjänimi tai API-avain:</seg>
       </tuv>
     </tu>
