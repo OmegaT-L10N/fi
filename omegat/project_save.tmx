@@ -452,6 +452,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Always confirm quit</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171240Z" creationid="piav" creationdate="20230511T171240Z">
+        <seg>Pyydä aina lopetusvahvistusta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply a different font size to the dictionary pane</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T123614Z" creationid="piav" creationdate="20230425T123614Z">
@@ -6062,6 +6070,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T150604Z" creationid="piav" creationdate="20230511T150604Z">
         <seg>Lisää sanakirjaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add to Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171208Z" creationid="piav" creationdate="20230511T171208Z">
+        <seg>Lisää sanakirjaan: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12687,6 +12703,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display TBX &amp;glossaries context description</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171312Z" creationid="piav" creationdate="20230511T171312Z">
+        <seg>Näytä TBX-sanastojen kontekstitiedot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display all &amp;source segments in bold</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T122833Z" creationid="piav" creationdate="20190916T122814Z">
@@ -13251,6 +13275,14 @@ onko sinun tehtävä vielä muuta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T160328Z" creationid="piav" creationdate="20230511T160328Z">
         <seg>Pura lataamaasi paketti kaksoisnapsauttamalla sitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-check and try again.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171231Z" creationid="piav" creationdate="20230511T171231Z">
+        <seg>Tarkista se vielä kerran ja yritä uudelleen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14307,6 +14339,14 @@ Kielikoodin xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen).
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T082705Z" creationid="piav" creationdate="20191127T082705Z">
         <seg>Kirjoita oma nimesi tähän, niin se liitetään kaikkiin segmentteihin, jotka sinä olet kääntänyt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter your password again for confirmation.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171224Z" creationid="piav" creationdate="20230511T171224Z">
+        <seg>Varmista kirjoittamalla salasanasi uudelleen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20727,6 +20767,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Incorrect password.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171214Z" creationid="piav" creationdate="20230511T171214Z">
+        <seg>Salasana on väärin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), and sheet names.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T163848Z" creationid="pia" creationdate="20221114T093752Z">
@@ -24336,6 +24384,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T175948Z" creationid="piav" creationdate="20191210T175948Z">
         <seg>Osumaehdotukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match term groups even if the terms appear separately</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171500Z" creationid="piav" creationdate="20230511T171338Z">
+        <seg>Näytä osuvia termiryhmiä, vaikka termit esiintyvät yksinään</seg>
       </tuv>
     </tu>
     <tu>
@@ -39639,6 +39695,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The passwords do not match.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171227Z" creationid="piav" creationdate="20230511T171227Z">
+        <seg>Salasanat eivät ole samanlaisia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The passwords don't match.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T134535Z" creationid="piav" creationdate="20190920T134535Z">
@@ -44910,6 +44974,14 @@ Nykyinen asetus on {0} MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;TAB to advance</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171237Z" creationid="piav" creationdate="20230511T171237Z">
+        <seg>Siirry eteenpäin sarkainnäppäimellä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T122336Z" creationid="piav" creationdate="20190916T122328Z">
@@ -44930,6 +45002,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065236Z" creationid="PiaVee" creationdate="20171015T122255Z">
         <seg>Käytä sanakirjatietueiden sumeita osumia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;stemming</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T171521Z" creationid="piav" creationdate="20230511T171521Z">
+        <seg>Käytä perusmuotoja</seg>
       </tuv>
     </tu>
     <tu>
