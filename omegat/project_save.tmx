@@ -25632,6 +25632,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No writable glossary file in the glossary folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T164849Z" creationid="piav" creationdate="20230511T164849Z">
+        <seg>Sanastokansiossa ei ole kirjoituskelpoista sanastotiedostoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-ASCII Only</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T135413Z" creationid="piav" creationdate="20190920T135413Z">
@@ -26808,6 +26816,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T163844Z" creationid="piav" creationdate="20191209T163844Z">
         <seg>OmegaT näyttää luettelon segmenteistä, joissa on kaikki määritellyt sanat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT does not have access to the remote repository: verify your connection or your credentials.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T165101Z" creationid="piav" creationdate="20230511T165101Z">
+        <seg>OmegaT:llä ei ole pääsyä etävarastoon: tarkista yhteytesi tai luku- ja kirjoitusoikeuksia tähän kansioon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39949,6 +39965,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The specified folder is not an OmegaT project, or the project file is broken, or there is no valid backup.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T164952Z" creationid="piav" creationdate="20230511T164952Z">
+        <seg>Joko annettu kansio ei ole OmegaT-projekti, projektitiedosto on rikki tai pätevää varmuuskopiota ei ole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The specified project is an OmegaT 3.6-style team project.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T123443Z" creationid="piav" creationdate="20190920T123016Z">
@@ -43679,6 +43703,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171218T084707Z" creationid="PiaVee" creationdate="20171218T084707Z">
         <seg>Uuden TMX-tiedoston luominen ei onnistu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to commit because remote translation was changed.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230511T165013Z" creationid="piav" creationdate="20230511T165013Z">
+        <seg>Ei mahdollista toimittaa, sillä etäkäännöstä on muutettu.</seg>
       </tuv>
     </tu>
     <tu>
