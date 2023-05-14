@@ -366,8 +366,8 @@
       <tuv lang="en">
         <seg>&amp;Add Files...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T123631Z" creationid="piav" creationdate="20230425T123631Z">
-        <seg>Lisää tiedostoja… (&amp;A)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123058Z" creationid="piav" creationdate="20230425T123631Z">
+        <seg>Lisää tiedostoja…</seg>
       </tuv>
     </tu>
     <tu>
@@ -518,8 +518,8 @@
       <tuv lang="en">
         <seg>&amp;Auto-propagation of translations</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T125807Z" creationid="piav" creationdate="20230425T125740Z">
-        <seg>Automaattiset käännösehdotukset (&amp;A)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123115Z" creationid="piav" creationdate="20230425T125740Z">
+        <seg>Automaattiset käännösehdotukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,8 +638,8 @@
       <tuv lang="en">
         <seg>&amp;Check issues when leaving a segment</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T135120Z" creationid="piav" creationdate="20230510T135120Z">
-        <seg>Tarkista tägit segmentistä poistuttaessa (&amp;C)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123237Z" creationid="piav" creationdate="20230510T135120Z">
+        <seg>Tarkista tägit segmentistä poistuttaessa</seg>
       </tuv>
     </tu>
     <tu>
@@ -734,8 +734,8 @@
       <tuv lang="en">
         <seg>&amp;Do not insert the source text</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T134839Z" creationid="piav" creationdate="20230510T134839Z">
-        <seg>Älä lisää lähdetekstiä (&amp;D)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123224Z" creationid="piav" creationdate="20230510T134839Z">
+        <seg>Älä lisää lähdetekstiä</seg>
       </tuv>
     </tu>
     <tu>
@@ -1726,8 +1726,8 @@
       <tuv lang="en">
         <seg>&amp;Simple variables (e.g., %s, %d)</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T140325Z" creationid="piav" creationdate="20230510T140302Z">
-        <seg>Yksinkertai&amp;set muuttujat (esim. %s, %d)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123257Z" creationid="piav" creationdate="20230510T140302Z">
+        <seg>Yksinkertaiset muuttujat (esim. %s, %d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1790,8 +1790,8 @@
       <tuv lang="en">
         <seg>&amp;Stop at segments that are untranslated or have alternative translations</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T135021Z" creationid="piav" creationdate="20230510T135021Z">
-        <seg>Pysähdy segmenttiin, jota ei ole käännetty tai jolle on vaihtoehtoisia käännöksiä (&amp;S)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123231Z" creationid="piav" creationdate="20230510T135021Z">
+        <seg>Pysähdy segmenttiin, jota ei ole käännetty tai jolle on vaihtoehtoisia käännöksiä</seg>
       </tuv>
     </tu>
     <tu>
@@ -6676,8 +6676,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T135107Z" creationid="piav" creationdate="20190916T104323Z">
-        <seg>Salli tägien muokkaus (&amp;W)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123235Z" creationid="piav" creationdate="20190916T104323Z">
+        <seg>Salli tägien muokkaus</seg>
       </tuv>
     </tu>
     <tu>
@@ -7608,8 +7608,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Attempt to replace fuzzy match &amp;numbers</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T135056Z" creationid="piav" creationdate="20230510T135056Z">
-        <seg>Yritä muuttaa sumean osuman numeroita (&amp;N)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123233Z" creationid="piav" creationdate="20230510T135056Z">
+        <seg>Yritä muuttaa sumean osuman numeroita</seg>
       </tuv>
     </tu>
     <tu>
@@ -7624,8 +7624,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Aut&amp;hor:</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T133305Z" creationid="piav" creationdate="20190521T134613Z">
-        <seg>Tekijä: (&amp;H)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123151Z" creationid="piav" creationdate="20190521T134613Z">
+        <seg>Tekijä:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7912,8 +7912,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>B&amp;rowse...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T130130Z" creationid="piav" creationdate="20230425T130130Z">
-        <seg>B&amp;rowse... (&amp;R)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123132Z" creationid="piav" creationdate="20230425T130130Z">
+        <seg>Selaa...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8204,8 +8204,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Block the creation of translated files with tag &amp;issues</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T140706Z" creationid="piav" creationdate="20230510T140706Z">
-        <seg>Poista mahdollisuus luoda käännettyjä asiakirjoja, joissa on tägiongelmia (&amp;I)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123300Z" creationid="piav" creationdate="20230510T140706Z">
+        <seg>Poista mahdollisuus luoda käännettyjä asiakirjoja, joissa on tägiongelmia</seg>
       </tuv>
     </tu>
     <tu>
@@ -8332,16 +8332,16 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Bro&amp;wse...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T130117Z" creationid="piav" creationdate="20230425T130117Z">
-        <seg>Selaa… (&amp;W)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123120Z" creationid="piav" creationdate="20230425T130117Z">
+        <seg>Selaa…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Brow&amp;se...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T130125Z" creationid="piav" creationdate="20230425T130125Z">
-        <seg>Brow&amp;se... (&amp;S)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123126Z" creationid="piav" creationdate="20230425T130125Z">
+        <seg>Selaa...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8356,8 +8356,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Brows&amp;e...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T130138Z" creationid="piav" creationdate="20230425T130138Z">
-        <seg>Brows&amp;e... (&amp;E)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123136Z" creationid="piav" creationdate="20230425T130138Z">
+        <seg>Selaa...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8676,8 +8676,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T133318Z" creationid="piav" creationdate="20190521T134819Z">
-        <seg>Erottele kirjainkoko (&amp;A)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123155Z" creationid="piav" creationdate="20190521T134819Z">
+        <seg>Erottele kirjainkoko</seg>
       </tuv>
     </tu>
     <tu>
@@ -8700,8 +8700,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T123638Z" creationid="PiaVee" creationdate="20171218T090414Z">
-        <seg>Kopioi kaikki tiedot leikepöydälle (&amp;O)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123102Z" creationid="PiaVee" creationdate="20171218T090414Z">
+        <seg>Kopioi kaikki tiedot leikepöydälle</seg>
       </tuv>
     </tu>
     <tu>
@@ -8972,8 +8972,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Changed &amp;before:</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T133312Z" creationid="piav" creationdate="20190521T134637Z">
-        <seg>Muutettu ennen: (&amp;B)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123153Z" creationid="piav" creationdate="20190521T134637Z">
+        <seg>Muutettu ennen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9324,8 +9324,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Check for equal source &amp; target</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T094525Z" creationid="piav" creationdate="20191211T094525Z">
-        <seg>Tarkista, ovatko lähde&amp;kohde samat</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123337Z" creationid="piav" creationdate="20191211T094525Z">
+        <seg>Tarkista, ovatko lähde ja kohde samat</seg>
       </tuv>
     </tu>
     <tu>
@@ -9988,8 +9988,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Clo&amp;se</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T123634Z" creationid="PiaVee" creationdate="20171218T072609Z">
-        <seg>Sulje (&amp;S)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123100Z" creationid="PiaVee" creationdate="20171218T072609Z">
+        <seg>Sulje</seg>
       </tuv>
     </tu>
     <tu>
@@ -12033,8 +12033,8 @@ onko sinun tehtävä vielä muuta.</seg>
       <tuv lang="en">
         <seg>Customize segment modification &amp;information</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T135939Z" creationid="piav" creationdate="20230510T135914Z">
-        <seg>Mukauta segmentin muokkaustietoja (&amp;I)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123253Z" creationid="piav" creationdate="20230510T135914Z">
+        <seg>Mukauta segmentin muokkaustietoja</seg>
       </tuv>
     </tu>
     <tu>
@@ -13802,8 +13802,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="en">
         <seg>E&amp;xport the segment to a text file</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T134900Z" creationid="piav" creationdate="20230510T134900Z">
-        <seg>Vie segmentti tekstitiedostoihin (&amp;X)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123228Z" creationid="piav" creationdate="20230510T134900Z">
+        <seg>Vie segmentti tekstitiedostoihin</seg>
       </tuv>
     </tu>
     <tu>
@@ -16903,8 +16903,8 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Full/half-&amp;width char insensitive</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T133357Z" creationid="piav" creationdate="20230425T133255Z">
-        <seg>Ei eroa täys- ja puolileveissä merkeissä (&amp;W)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123201Z" creationid="piav" creationdate="20230425T133255Z">
+        <seg>Ei eroa täys- ja puolileveissä merkeissä</seg>
       </tuv>
     </tu>
     <tu>
@@ -17875,8 +17875,8 @@ lopullisesti.</seg>
       <tuv lang="en">
         <seg>Hide &amp;Options</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T133253Z" creationid="piav" creationdate="20230425T133253Z">
-        <seg>Piilota valinnat (&amp;O)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123144Z" creationid="piav" creationdate="20230425T133253Z">
+        <seg>Piilota valinnat</seg>
       </tuv>
     </tu>
     <tu>
@@ -21257,16 +21257,16 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>Insert the &amp;best fuzzy match</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T134849Z" creationid="piav" creationdate="20190916T103705Z">
-        <seg>Lisää paras sumea osuma (&amp;B)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123227Z" creationid="piav" creationdate="20190916T103705Z">
+        <seg>Lisää paras sumea osuma</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert the &amp;source text</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T134827Z" creationid="piav" creationdate="20190916T103646Z">
-        <seg>Lisää lähdeteksti (&amp;S)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123223Z" creationid="piav" creationdate="20190916T103646Z">
+        <seg>Lisää lähdeteksti</seg>
       </tuv>
     </tu>
     <tu>
@@ -23534,8 +23534,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Links (&amp;URL)</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190521T180355Z" creationid="piav" creationdate="20190521T180355Z">
-        <seg>Linkit (&amp;URL)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123213Z" creationid="piav" creationdate="20190521T180355Z">
+        <seg>Linkit (URL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23686,8 +23686,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Local External Searc&amp;hes...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T130221Z" creationid="piav" creationdate="20230425T130221Z">
-        <seg>Erityiset ulkoiset haut… (&amp;H)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123140Z" creationid="piav" creationdate="20230425T130221Z">
+        <seg>Erityiset ulkoiset haut…</seg>
       </tuv>
     </tu>
     <tu>
@@ -23702,8 +23702,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Local File &amp;Filters...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T123721Z" creationid="piav" creationdate="20230425T123721Z">
-        <seg>Erityiset tiedostosuodattimet… (&amp;F)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123109Z" creationid="piav" creationdate="20230425T123721Z">
+        <seg>Erityiset tiedostosuodattimet…</seg>
       </tuv>
     </tu>
     <tu>
@@ -23726,8 +23726,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Local Segmentation R&amp;ules...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T125411Z" creationid="piav" creationdate="20230425T125411Z">
-        <seg>Erityiset segmentointisäännöt… (&amp;U)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123111Z" creationid="piav" creationdate="20230425T125411Z">
+        <seg>Erityiset segmentointisäännöt…</seg>
       </tuv>
     </tu>
     <tu>
@@ -24062,8 +24062,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Main Memor&amp;y</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T133450Z" creationid="piav" creationdate="20230425T133418Z">
-        <seg>Ykköskäännösmuisti (&amp;Y)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123205Z" creationid="piav" creationdate="20230425T133418Z">
+        <seg>Ykköskäännösmuisti</seg>
       </tuv>
     </tu>
     <tu>
@@ -25094,8 +25094,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Mo&amp;ve Up</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T134447Z" creationid="piav" creationdate="20230510T134447Z">
-        <seg>Siirrä ylös (&amp;V)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123221Z" creationid="piav" creationdate="20230510T134447Z">
+        <seg>Siirrä ylös</seg>
       </tuv>
     </tu>
     <tu>
@@ -25362,32 +25362,32 @@ paratiisista.</seg>
       <tuv lang="en">
         <seg>Move &amp;Down</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T123623Z" creationid="PiaVee" creationdate="20171218T072534Z">
-        <seg>Siirrä alas (&amp;D)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123053Z" creationid="PiaVee" creationdate="20171218T072534Z">
+        <seg>Siirrä alas</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Move &amp;First</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T123617Z" creationid="PiaVee" creationdate="20171218T072518Z">
-        <seg>Siirrä ensimmäiseksi (&amp;F)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123050Z" creationid="PiaVee" creationdate="20171218T072518Z">
+        <seg>Siirrä ensimmäiseksi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Move &amp;Last</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T123627Z" creationid="PiaVee" creationdate="20171218T072543Z">
-        <seg>Siirrä viimeiseksi (&amp;L)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123055Z" creationid="PiaVee" creationdate="20171218T072543Z">
+        <seg>Siirrä viimeiseksi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Move &amp;Up</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T123621Z" creationid="PiaVee" creationdate="20171218T072527Z">
-        <seg>Siirrä ylös (&amp;U)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123051Z" creationid="PiaVee" creationdate="20171218T072527Z">
+        <seg>Siirrä ylös</seg>
       </tuv>
     </tu>
     <tu>
@@ -25410,8 +25410,8 @@ paratiisista.</seg>
       <tuv lang="en">
         <seg>Move F&amp;irst</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T134439Z" creationid="piav" creationdate="20230510T134439Z">
-        <seg>Siirrä ensimmäiseksi (&amp;I)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123219Z" creationid="piav" creationdate="20230510T134439Z">
+        <seg>Siirrä ensimmäiseksi</seg>
       </tuv>
     </tu>
     <tu>
@@ -31468,8 +31468,8 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Re&amp;pository Mapping...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T130152Z" creationid="piav" creationdate="20230425T130152Z">
-        <seg>Tietovarastojen määritys… (&amp;P)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123138Z" creationid="piav" creationdate="20230425T130152Z">
+        <seg>Tietovarastojen määritys…</seg>
       </tuv>
     </tu>
     <tu>
@@ -31556,8 +31556,8 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Reference T&amp;Ms</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T133434Z" creationid="piav" creationdate="20230425T133434Z">
-        <seg>Apukäännösmuistit (&amp;M)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123207Z" creationid="piav" creationdate="20230425T133434Z">
+        <seg>Apukäännösmuistit</seg>
       </tuv>
     </tu>
     <tu>
@@ -32172,8 +32172,8 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Remove ta&amp;gs</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T125940Z" creationid="piav" creationdate="20230425T125940Z">
-        <seg>Poista tägit (&amp;G)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123117Z" creationid="piav" creationdate="20230425T125940Z">
+        <seg>Poista tägit</seg>
       </tuv>
     </tu>
     <tu>
@@ -33158,8 +33158,8 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T133405Z" creationid="piav" creationdate="20190521T134953Z">
-        <seg>Välilyönti vastaa nbsp:tä (&amp;P)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123204Z" creationid="piav" creationdate="20190521T134953Z">
+        <seg>Välilyönti vastaa nbsp:tä</seg>
       </tuv>
     </tu>
     <tu>
@@ -33398,8 +33398,8 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Save aut&amp;o-populated status</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T135230Z" creationid="piav" creationdate="20190916T104546Z">
-        <seg>Tallenna automaattisen täytön tila(&amp;O)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123239Z" creationid="piav" creationdate="20190916T104546Z">
+        <seg>Tallenna automaattisen täytön tila</seg>
       </tuv>
     </tu>
     <tu>
@@ -33430,8 +33430,8 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Save origin of &amp;translation</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20220821T081855Z" creationid="piav" creationdate="20220821T081855Z">
-        <seg>Tallenna käännöksen alkuperä (&amp;T)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123241Z" creationid="piav" creationdate="20220821T081855Z">
+        <seg>Tallenna käännöksen alkuperä</seg>
       </tuv>
     </tu>
     <tu>
@@ -33714,8 +33714,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Se&amp;ntence-level segmenting</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T123644Z" creationid="piav" creationdate="20230425T123644Z">
-        <seg>Lausetason segmentointi (&amp;N)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123104Z" creationid="piav" creationdate="20230425T123644Z">
+        <seg>Lausetason segmentointi</seg>
       </tuv>
     </tu>
     <tu>
@@ -35538,8 +35538,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Simplify tag &amp;tooltips</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T135818Z" creationid="piav" creationdate="20230510T135818Z">
-        <seg>Yksinkertaista tägien työkaluvihjeet (&amp;T)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123251Z" creationid="piav" creationdate="20230510T135818Z">
+        <seg>Yksinkertaista tägien työkaluvihjeet</seg>
       </tuv>
     </tu>
     <tu>
@@ -36379,8 +36379,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190920T140447Z" creationid="piav" creationdate="20190920T140447Z">
-        <seg>Määrittele valintakirjain &amp;-merkin avulla: esim. F&amp;oobar käyttää O-kirjainta</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123326Z" creationid="piav" creationdate="20190920T140447Z">
+        <seg>Määrittele valintakirjain &amp;-merkin avulla: esim. ”F&amp;oobar” käyttää O-kirjainta</seg>
       </tuv>
     </tu>
     <tu>
@@ -37125,8 +37125,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>TM Search &amp;Options</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T133233Z" creationid="piav" creationdate="20230425T133233Z">
-        <seg>TM-osumien asetukset (&amp;O)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123142Z" creationid="piav" creationdate="20230425T133233Z">
+        <seg>TM-osumien asetukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -45316,8 +45316,8 @@ Nykyinen asetus on {0} MB;</seg>
       <tuv lang="en">
         <seg>Use &amp;Condensed view</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20220821T081255Z" creationid="piav" creationdate="20220821T081255Z">
-        <seg>Käytä tiivistettyä näkymää (&amp;C)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123306Z" creationid="piav" creationdate="20220821T081255Z">
+        <seg>Käytä tiivistettyä näkymää</seg>
       </tuv>
     </tu>
     <tu>
@@ -45372,8 +45372,8 @@ Nykyinen asetus on {0} MB;</seg>
       <tuv lang="en">
         <seg>Use &amp;XML notation for standalone tags (e.g., &lt;i/&gt;)</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T135731Z" creationid="piav" creationdate="20230510T135731Z">
-        <seg>Käytä yksittäisissä tägeissä (esim. &lt;i/&gt;) XML:ää (&amp;X)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123249Z" creationid="piav" creationdate="20230510T135731Z">
+        <seg>Käytä yksittäisissä tägeissä (esim. &lt;i/&gt;) XML:ää</seg>
       </tuv>
     </tu>
     <tu>
@@ -45620,8 +45620,8 @@ Nykyinen asetus on {0} MB;</seg>
       <tuv lang="en">
         <seg>Use local &amp;segmentation rules</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T125440Z" creationid="piav" creationdate="20230425T125440Z">
-        <seg>Käytä erityisiä segmentointisääntöjä (&amp;S)</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230514T123113Z" creationid="piav" creationdate="20230425T125440Z">
+        <seg>Käytä erityisiä segmentointisääntöjä</seg>
       </tuv>
     </tu>
     <tu>
