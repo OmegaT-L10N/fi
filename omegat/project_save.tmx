@@ -1420,6 +1420,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Redo</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230516T144722Z" creationid="piav" creationdate="20230516T144722Z">
+        <seg>Tee uudelleen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Redo Last Action</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230514T122558Z" creationid="PiaVee" creationdate="20171015T103506Z">
@@ -1552,6 +1560,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230514T122909Z" creationid="PiaVee" creationdate="20171015T122710Z">
         <seg>Palauta pääikkuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Restore OmegaT Window</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230516T144746Z" creationid="piav" creationdate="20230516T144746Z">
+        <seg>Palauta OmegaT-ikkuna</seg>
       </tuv>
     </tu>
     <tu>
@@ -1864,6 +1880,14 @@
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230514T122624Z" creationid="piav" creationdate="20230425T121121Z">
         <seg>ISOT KIRJAIMET</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Undo</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230516T144718Z" creationid="piav" creationdate="20230516T144705Z">
+        <seg>Peru</seg>
       </tuv>
     </tu>
     <tu>
@@ -2366,6 +2390,22 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171220T115759Z" creationid="PiaVee" creationdate="20171220T115010Z">
         <seg>Tämä koskee tiedostoja, joiden tiedostotunnisteena on &lt;f0&gt;.txt&lt;/f0&gt;: Valitse valikko Asetukset &gt; Tiedostosuodattimet &gt; valintaikkunan Tiedostomuodot-listalta &lt;e1&gt;Teksti&lt;/e1&gt;. Paina Muokkaa-painiketta, jolloin avautuu uusi ikkuna. Valitse &lt;e2&gt;Lähdetiedostojen merkistökoodaus&lt;/e2&gt; -kohdan pudotusvalikosta lähde-&lt;f3&gt;.txt&lt;/f3&gt;tiedostoon sopiva merkistökoodaus – edellä mainitussa tapauksessa &lt;auto&gt; vaihdetaan vaikkapa ISO-2022-JP-merkistökoodaukseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
+	  if local filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230516T144656Z" creationid="piav" creationdate="20230516T144656Z">
+        <seg>– tarkista, että OmegaT tukee niiden muotoa:
+	joko kohdassa Projekti &gt; Ominaisuudet... &gt; Erityiset tiedostosuodattimet...
+	  (kun suodatinasetukset ovat projektikohtaisia)
+	  tai kohdassa Asetukset &gt; Yleiset tiedostosuodattimet...;
+	– avaa tiedostot alkuperäissovelluksessaan ja tarkista, että ne eivät ole tyhjiä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13001,8 +13041,8 @@ onko sinun tehtävä vielä muuta.</seg>
       <tuv lang="en">
         <seg>Displays the translation memory segments that match the source segment.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230511T145204Z" creationid="piav" creationdate="20230511T145204Z">
-        <seg>Näyttää käännösmuistista löytyvät segmentit, jotka vastaavat lähdesegmenttiä</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230516T144811Z" creationid="piav" creationdate="20230511T145204Z">
+        <seg>Tämä näyttää käännösmuistista löytyvät segmentit, jotka vastaavat lähdesegmenttiä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21159,6 +21199,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Missing &amp;Tags</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230516T144736Z" creationid="piav" creationdate="20230516T144736Z">
+        <seg>Lisää puuttuvat tägit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065059Z" creationid="PiaVee" creationdate="20171015T103707Z">
@@ -24744,6 +24792,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T145216Z" creationid="piav" creationdate="20230511T145216Z">
         <seg>Osumia etsitään sekä nykyisestä käännöksestä että /tm/-kansiossa olevista TMX-tiedostoista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches come from your current translation or the reference files placed in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230516T144825Z" creationid="piav" creationdate="20230516T144758Z">
+        <seg>Osumia etsitään sekä nykyisestä käännöksestä että /tm/-kansiossa olevista aputiedostoista.</seg>
       </tuv>
     </tu>
     <tu>
