@@ -11293,6 +11293,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a section of text that flows in the direction opposite that of the segment.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230516T145515Z" creationid="piav" creationdate="20230516T145515Z">
+        <seg>luoda tekstikatkelman, joka kulkee toiseen suuntaan kuin muu segmentti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create an SVN or Git repository on a server that will be accessible by the translators.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T113409Z" creationid="piav" creationdate="20191128T113252Z">
@@ -21345,8 +21353,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>Insert an invisible character with a strong directionality to force a specific position for a character with weak or neutral directionality.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230516T145419Z" creationid="piav" creationdate="20230516T145345Z">
-        <seg>lisäämään tekstiin näkymättömän merkin, joka pakottaa suunnaltaan heikon tai neutraalin merkin tietynsuuntaiseksi.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230516T145453Z" creationid="piav" creationdate="20230516T145345Z">
+        <seg>lisätä tekstiin näkymättömän merkin, joka pakottaa suunnaltaan heikon tai neutraalin merkin tietynsuuntaiseksi tai</seg>
       </tuv>
     </tu>
     <tu>
@@ -41560,6 +41568,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These control characters change directionality but are invisible.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230516T145538Z" creationid="piav" creationdate="20230516T145538Z">
+        <seg>Nämä näkymättömät ohjainmerkit muuttavat tekstin suuntaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These files record various internal state and program event messages generated while OmegaT is running.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221110T143325Z" creationid="pia" creationdate="20221110T143325Z">
@@ -41678,8 +41694,8 @@ kadonnut sivu.</seg>
       <tuv lang="en">
         <seg>They can be used to:</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230516T145227Z" creationid="piav" creationdate="20230516T145227Z">
-        <seg>Niitä voi käyttää</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230516T145438Z" creationid="piav" creationdate="20230516T145227Z">
+        <seg>Niillä voi</seg>
       </tuv>
     </tu>
     <tu>
