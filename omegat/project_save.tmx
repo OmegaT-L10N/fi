@@ -5778,6 +5778,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abort: Exit with an error if tags are invalid.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230516T145123Z" creationid="piav" creationdate="20230516T145123Z">
+        <seg>Abort: Antaa virheilmoituksen ja lopettaa, jos tägit ovat virheellisiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T091427Z" creationid="PiaVee" creationdate="20171015T085007Z">
@@ -13423,6 +13431,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-click characters, or select them and press the Insert key, to add them to the custom table.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230516T145022Z" creationid="piav" creationdate="20230516T145022Z">
+        <seg>Lisää merkkitaulukkoon uusia merkkejä joko kaksoisnapsauttamalla niitä tai maalaamalla ne ja painamalla sen jälkeen Insert-näppäintä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T114118Z" creationid="piav" creationdate="20191201T100445Z">
@@ -14467,6 +14483,14 @@ Kielikoodin xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen).
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T173307Z" creationid="piav" creationdate="20230511T165948Z">
         <seg>{0}: Anna käyttäjänimi/salasana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter your master password</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230516T145036Z" creationid="piav" creationdate="20230516T145036Z">
+        <seg>Kirjoita pääsalasanasi</seg>
       </tuv>
     </tu>
     <tu>
@@ -21023,6 +21047,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Incorrect password</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230516T145049Z" creationid="piav" creationdate="20230516T145049Z">
+        <seg>Virheellinen salasana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Incorrect password.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T171214Z" creationid="piav" creationdate="20230511T171214Z">
@@ -27010,6 +27042,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T132533Z" creationid="piav" creationdate="20190916T132533Z">
         <seg>Näytä ilmoitus, kun segmentissä on muistiinpanoja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me When the Segment Has Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230516T144840Z" creationid="piav" creationdate="20230516T144840Z">
+        <seg>Näytä ilmoitus, kun segmentille on sumeita osumia</seg>
       </tuv>
     </tu>
     <tu>
