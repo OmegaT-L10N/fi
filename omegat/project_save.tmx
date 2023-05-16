@@ -8226,6 +8226,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bidi control characters are available from &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230516T145349Z" creationid="piav" creationdate="20230516T145222Z">
+        <seg>Kaksisuuntaisen tekstin ohjainmerkkejä löytyy täältä: &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bidirectional control characters</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T085648Z" creationid="piav" creationdate="20190522T085648Z">
@@ -21331,6 +21339,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T104105Z" creationid="PiaVee" creationdate="20171015T104105Z">
         <seg>Lisää Unicode-ohjausmerkki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert an invisible character with a strong directionality to force a specific position for a character with weak or neutral directionality.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230516T145419Z" creationid="piav" creationdate="20230516T145345Z">
+        <seg>lisäämään tekstiin näkymättömän merkin, joka pakottaa suunnaltaan heikon tai neutraalin merkin tietynsuuntaiseksi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41656,6 +41672,14 @@ kadonnut sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T085443Z" creationid="piav" creationdate="20191211T085443Z">
         <seg>Paketit löytyvät vastaavien käännettyjen versioiden kansioista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can be used to:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230516T145227Z" creationid="piav" creationdate="20230516T145227Z">
+        <seg>Niitä voi käyttää</seg>
       </tuv>
     </tu>
     <tu>
