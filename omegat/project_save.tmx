@@ -21353,8 +21353,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>Insert a LRM after a weak-directionality character that must run left-to-right in a right-to-left segment (e.g. an English excerpt inside Arabic text).</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230604T213650Z" creationid="piav" creationdate="20230604T212741Z">
-        <seg>Lisää heikkosuuntaisen merkin jälkeen LRM-merkki, niin oikealta vasemmalle kirjoitetussa segmentissä tarvitaan tekstiä vasemmalta oikealle (esim. englanninkielinen pätkä arabiankielisen tekstin sisällä),  </seg>
+      <tuv lang="fi" changeid="piav" changedate="20230604T213907Z" creationid="piav" creationdate="20230604T212741Z">
+        <seg>Vaihda oikealta vasemmalle kirjoitetun segmentin kirjoitussuunta vasemmalta oikealle (esim. englanninkielinen pätkä arabiankielisen tekstin sisällä) lisäämällä heikkosuuntaisen merkin jälkeen LRM-merkki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43236,8 +43236,8 @@ asetukset oletusarvoihinsa.</seg>
       <tuv lang="en">
         <seg>To change the position of a character with weak or neutral directionality (like punctuation symbols), insert an LRM or RLM character after the character, depending on the directionality of the segment:</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230604T213029Z" creationid="piav" creationdate="20230604T212704Z">
-        <seg>Suunnaltaan heikon tai neutraalin merkin (esim. välimerkin) jälkeen tarvitaan LRM- tai RLM-merkki osoittamaan, mihin suuntaan segmentin tekstin tulee kulkea:</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230604T213655Z" creationid="piav" creationdate="20230604T212704Z">
+        <seg>Suunnaltaan heikon tai neutraalin merkin (esim. välimerkin) jälkeen tarvitaan LRM- tai RLM-merkki osoittamaan, mihin suuntaan segmentin tekstin tulee kulkea.</seg>
       </tuv>
     </tu>
     <tu>
