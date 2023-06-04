@@ -43356,8 +43356,8 @@ asetukset oletusarvoihinsa.</seg>
       <tuv lang="en">
         <seg>To create a left-to-right embedding in a right-to-left segment, insert a left-to-right embedding (LRE) character, type or insert the left-to-right text, and then insert the pop directional formatting (PDF) character.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230604T214754Z" creationid="piav" creationdate="20230604T214754Z">
-        <seg>Vasemmalta oikealle kulkevan upotuksen saa aikaan lisäämällä LRE-uportusmerkin</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230604T215939Z" creationid="piav" creationdate="20230604T214754Z">
+        <seg>Vasemmalta oikealle kulkevan upotuksen saa aikaan lisäämällä LRE-upotusmerkin. Seuraavaksi kirjoita/lisää  vasemmalta oikealle kulkeva teksti, ja lisää lopuksi PDF-merkki</seg>
       </tuv>
     </tu>
     <tu>
