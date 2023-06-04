@@ -14160,6 +14160,22 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Embeddings</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230604T214303Z" creationid="piav" creationdate="20230604T214303Z">
+        <seg>Upotukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Embeddings can be used to create a longer section of text (containing several words and spaces) that must flow in the direction opposite that of the segment.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230604T214558Z" creationid="piav" creationdate="20230604T214558Z">
+        <seg>Käytä upotuksia, kun haluat saada useita sanoja ja välilyöntejä sisältävän tekstinpätkän kulkemaan vastakkaiseen suuntaan kuin muu teksti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Emptiness of soul
 Forever aching blackness
 Your help page not found</seg>
@@ -21361,8 +21377,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>Insert a RLM after a weak-directionality character that must run right-to-left in a left-to-right segment (e.g. an Arabic excerpt inside English text).</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230604T214131Z" creationid="piav" creationdate="20230604T214131Z">
-        <seg>Kun vasemmalta oikealle kirjoitetun segmentin kirjoitusuunta tarvitsee vaihtaa vasemmalta oikealle kulkevaksi (esim. arabiankielinen tekstinpätkä englanninkielisessä segmentissä), lisää heikkosuuntaisen merkin jälkeen RLM-merkki</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230604T214257Z" creationid="piav" creationdate="20230604T214131Z">
+        <seg>Lisää heikkosuuntaisen merkin jälkeen RLM-merkki, niin vasemmalta oikealle kirjoitetun segmentin kirjoitusuunta vaihtuu vasemmalta oikealle kulkevaksi (esim. arabiankielinen tekstinpätkä englanninkielisessä segmentissä).</seg>
       </tuv>
     </tu>
     <tu>
