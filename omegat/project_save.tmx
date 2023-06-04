@@ -14162,16 +14162,16 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="en">
         <seg>Embeddings</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230604T214303Z" creationid="piav" creationdate="20230604T214303Z">
-        <seg>Upotukset</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230604T214913Z" creationid="piav" creationdate="20230604T214303Z">
+        <seg>Upotusmerkit</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Embeddings can be used to create a longer section of text (containing several words and spaces) that must flow in the direction opposite that of the segment.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230604T214558Z" creationid="piav" creationdate="20230604T214558Z">
-        <seg>Käytä upotuksia, kun haluat saada useita sanoja ja välilyöntejä sisältävän tekstinpätkän kulkemaan vastakkaiseen suuntaan kuin muu teksti.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230604T214932Z" creationid="piav" creationdate="20230604T214558Z">
+        <seg>Upotusmerkkien avulla saa useita sanoja ja välilyöntejä sisältävän tekstinpätkän kulkemaan vastakkaiseen suuntaan kuin muu teksti.</seg>
       </tuv>
     </tu>
     <tu>
