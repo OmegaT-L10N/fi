@@ -43306,6 +43306,14 @@ asetukset oletusarvoihinsa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To create a left-to-right embedding in a right-to-left segment, insert a left-to-right embedding (LRE) character, type or insert the left-to-right text, and then insert the pop directional formatting (PDF) character.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230604T214754Z" creationid="piav" creationdate="20230604T214754Z">
+        <seg>Vasemmalta oikealle kulkevan upotuksen saa aikaan lisäämällä LRE-uportusmerkin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To create a project-specific set of file filters, click on the &lt;g0&gt;File filter ... &lt;/g0&gt;button, then activate &lt;g1&gt;Enable project specific filters&lt;/g1&gt; check box in the window that opens.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T115503Z" creationid="piav" creationdate="20191127T115732Z">
@@ -48204,6 +48212,14 @@ käynnistysvalikkoon, työpöydälle tai pikakäynnistysalueelle.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T074713Z" creationid="piav" creationdate="20190916T130920Z">
         <seg>Luo termejä sanastoon valitsemalla Muokkaa &gt; Luo sanaston termi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create two kinds of embeddings depending on the directionality of the segment:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230604T214624Z" creationid="piav" creationdate="20230604T214624Z">
+        <seg>Voit luoda kahdenlaisia upotuksia, segmentin suunnasta riippuen:</seg>
       </tuv>
     </tu>
     <tu>
