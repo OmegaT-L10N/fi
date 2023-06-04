@@ -15674,6 +15674,14 @@ Virheilmoitus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project because the specified source folder contains a symbolic or hard link that points back to itself or one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230604T215625Z" creationid="piav" creationdate="20230604T215625Z">
+        <seg>Projektin lataaminen ei onnistunut: Lähdetiedostojen kansiossa on joko symbolinen tai vakiomuotoinen linkki, joka viittaa takaisin itseensä tai johonkin sen alikansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load the project by a file access problem.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T172543Z" creationid="piav" creationdate="20230511T172508Z">
@@ -24292,6 +24300,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure all links are outside the source folder and subfolders.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230604T215746Z" creationid="piav" creationdate="20230604T215746Z">
+        <seg>Tarkista, että lähdekansiossa eikä sen alikansioissa ole linkkejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure that you have a free Microsoft account.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T121952Z" creationid="piav" creationdate="20191201T121952Z">
@@ -24320,6 +24336,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T110832Z" creationid="piav" creationdate="20191201T110832Z">
         <seg>Varmista, että &lt;v2&gt;PATH&lt;/v2&gt;-asetuksesi ovat oikein ja että &lt;f3&gt;.jar&lt;/f3&gt;-tiedostot on liitety oikein Java Launcher -käynnistysohjelmaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure you have the correct permissions or that you can access the files if they are stored in the cloud.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230604T215454Z" creationid="piav" creationdate="20230604T215454Z">
+        <seg>Tarkista, että pääsyoikeudet ova kohdallaan tai että sinulla on pääsy pilveen tallennettuihin tiedostoihin.</seg>
       </tuv>
     </tu>
     <tu>
