@@ -43356,8 +43356,8 @@ asetukset oletusarvoihinsa.</seg>
       <tuv lang="en">
         <seg>To create a left-to-right embedding in a right-to-left segment, insert a left-to-right embedding (LRE) character, type or insert the left-to-right text, and then insert the pop directional formatting (PDF) character.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230604T215939Z" creationid="piav" creationdate="20230604T214754Z">
-        <seg>Vasemmalta oikealle kulkevan upotuksen saa aikaan lisäämällä LRE-upotusmerkin. Seuraavaksi kirjoita/lisää  vasemmalta oikealle kulkeva teksti, ja lisää lopuksi PDF-merkki</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230604T220144Z" creationid="piav" creationdate="20230604T214754Z">
+        <seg>Vasemmalta oikealle kulkevan upotuksen saa aikaan lisäämällä LRE-upotusmerkin. Seuraavaksi kirjoita/lisää  vasemmalta oikealle kulkeva teksti, ja lisää lopuksi merkkisuunnan vaihtava PDF-merkki (pop directional formatting).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43366,6 +43366,14 @@ asetukset oletusarvoihinsa.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T115503Z" creationid="piav" creationdate="20191127T115732Z">
         <seg>Luo projektikohtainen tiedostosuodatinsetti napsauttamalla &lt;g0&gt;Tiedostosuodattimet…&lt;/g0&gt;-painiketta, jolloin avautuu uusi ikkuna. Laita rasti &lt;g1&gt;Tee suodattimista projektikohtaiset&lt;/g1&gt; -ruutuun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To create a right-to-left embedding in a left-to-right segment, insert a right-to-left embedding (RLE) character, type or insert the right-to-left text, and then insert the PDF character.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230604T220253Z" creationid="piav" creationdate="20230604T220253Z">
+        <seg>Oikealta vasemmalle kulkevan upotuksen saa aikaan lisäämällä RLE-ohjausmerkin, kirjoittamalla/lisäämällä tekstiä, ja lisäämällä lopuksi PDF-merkin.</seg>
       </tuv>
     </tu>
     <tu>
