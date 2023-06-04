@@ -24660,6 +24660,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Marks</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230604T212417Z" creationid="piav" creationdate="20230604T212417Z">
+        <seg>Merkit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Marshallese</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T181519Z" creationid="PiaVee" creationdate="20171014T174945Z">
@@ -43218,6 +43226,14 @@ asetukset oletusarvoihinsa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To change the position of a character with weak or neutral directionality (like punctuation symbols), insert an LRM or RLM character after the character, depending on the directionality of the segment:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230604T212704Z" creationid="piav" creationdate="20230604T212704Z">
+        <seg>Kun haluat muuttaa suunnaltaan heikon tai neutraalin merkin (esim. välimerkin) suuntaa, lisää sen jälkeen LRM- tai RLM-merkki segmentin suunnan mukaisesti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To check everything is as expected, you may press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to create the target documents and check their contents.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T083111Z" creationid="piav" creationdate="20191128T083111Z">
@@ -45606,6 +45622,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T164242Z" creationid="piav" creationdate="20230511T164211Z">
         <seg>Pääset käyttämään tätä valitsemalla &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to show a visual indication of their position.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230604T212409Z" creationid="piav" creationdate="20230604T212409Z">
+        <seg>Näet niiden sijainnin valitsemalla &lt;l0/&gt;&lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
