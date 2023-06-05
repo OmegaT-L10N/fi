@@ -2342,6 +2342,28 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsov (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Hiroshi Miura (lead developer)
+- Briac Pilpré (webmaster)
+- Philippe Tourigny (documentation manager)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230605T100208Z" creationid="piav" creationdate="20230605T095748Z">
+        <seg>- Marco Cevoli (Telegram-yhteisön koordinaattori)
+- Jean-Christophe Helary (Twitter-yhteisön koordinaattori)
+- Kos Ivantsov (lokalisointivastaava)
+- Concepción Martin (Facebook-yhteisön koordinaattori)
+- Hiroshi Miura (pääkehittäjä)
+- Briac Pilpré (sivustovastaava)
+- Philippe Tourigny (dokumentaatiovastaava)
+- Lucie Vecerova (Facebook-yhteisön koordinaattori)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- Vincent Bidaux (documentation manager)
 - Marco Cevoli (Telegram community manager)
 - Jean-Christophe Helary (Twitter community manager)
