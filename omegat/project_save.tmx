@@ -10408,6 +10408,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Compatible with other translation memory applications via exchange formats such as TMX, TTX, TXML, XLIFF, SDLXLIFF</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230605T101529Z" creationid="piav" creationdate="20230605T101529Z">
+        <seg>Tiedosto Sopii yhteen muiden käännösmuistiohjelmien kanssa, Compatible with other translation memory applications via exchange formats such as TMX, TTX, TXML, XLIFF, SDLXLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Completed and current translations saved as {0}</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T124923Z" creationid="piav" creationdate="20230425T124923Z">
@@ -21737,6 +21745,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T180448Z" creationid="piav" creationdate="20191210T180448Z">
         <seg>Sisäinen kielentarkistin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Integral spelling checker that uses Hunspell dictionaries (same as in other software such as LibreOffice or Mozilla FireFox)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230605T101124Z" creationid="piav" creationdate="20230605T101124Z">
+        <seg>Integroitu oikeinkirjoituksen tarkistin, joka perustuu Hunspell-sanakirjoihin (käytössä myös esim. LibreOfficessa tai Mozilla FireFoxissa)</seg>
       </tuv>
     </tu>
     <tu>
