@@ -38127,8 +38127,8 @@ Tekstin korvaus tapahtuu projektin lähdekielisissä segmenteissä riippumatta s
       <tuv lang="en">
         <seg>That means that users like you can download and use it with no restrictions.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230511T164156Z" creationid="piav" creationdate="20230425T141628Z">
-        <seg>Se tarkoittaa, että kaltaisesti käyttäjät voivat ladata sen vapaasti ja käyttää sitä rajoituksitta.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20230605T100225Z" creationid="piav" creationdate="20230425T141628Z">
+        <seg>Se tarkoittaa, että kaltaisesi käyttäjät voivat ladata sen vapaasti ja käyttää sitä rajoituksitta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47966,6 +47966,14 @@ sitten suorittaa Kaptain-käynnistyskomentosarjan painamalla</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T140841Z" creationid="piav" creationdate="20190920T140841Z">
         <seg>Käytössäsi on jo uusin versio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are also free to copy it and pass it on to other people and even modify OmegaT to suit your own requirements.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230605T100608Z" creationid="piav" creationdate="20230605T100236Z">
+        <seg>OmegaT:n voi kopioida itselleen, ohjelmistoa voi levittää edelleen muille ja tietysti myös muokata omiin tarkoituksiin sopivaksi.</seg>
       </tuv>
     </tu>
     <tu>
