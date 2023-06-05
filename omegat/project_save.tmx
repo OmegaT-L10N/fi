@@ -5472,6 +5472,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A more detailed &lt;a0&gt;explanation of free software&lt;/a0&gt; can be found on the Free Software Foundation website.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230605T100647Z" creationid="piav" creationdate="20230605T100647Z">
+        <seg>Yksityiskohtaisempi &lt;a0&gt;kuvaus vapaasta ohjelmistosta&lt;/a0&gt; löytyy Free Software Foundationin nettisivulta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T105016Z" creationid="piav" creationdate="20191022T160346Z">
@@ -25186,6 +25194,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Microsoft Office Word, Excel, PowerPoint (2007 or later)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230605T100712Z" creationid="piav" creationdate="20230605T100712Z">
+        <seg>Microsoft Office Word, Excel, PowerPoint (2007 tai uudempi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Microsoft Open XML</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T180643Z" creationid="piav" creationdate="20190521T180643Z">
@@ -29104,6 +29120,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T180305Z" creationid="piav" creationdate="20190521T180305Z">
         <seg>OpenDocument-suodattimen asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenDocument Format (native file format for LibreOffice, Apache OpenOffice)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230605T100750Z" creationid="piav" creationdate="20230605T100750Z">
+        <seg>OpenDocument Format (LibreOfficen ja Apache OpenOfficen alkuperäinen tiedostomuoto)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45079,6 +45103,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unicode support: can be used with various alphabets and scripts</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230605T100934Z" creationid="piav" creationdate="20230605T100934Z">
+        <seg>Unicode-tuki: ohjelmaa voi käyttää erilaisten aakkosten ja kirjoitusjärjestelmien kanssa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uninstalling failed</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T135543Z" creationid="piav" creationdate="20190916T135543Z">
@@ -55732,6 +55764,14 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T134132Z" creationid="piav" creationdate="20190920T134132Z">
         <seg>{0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>…and around 30 other file formats</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20230605T100832Z" creationid="piav" creationdate="20230605T100813Z">
+        <seg>…ja kolmisenkymmentä muuta tiedostomuotoa</seg>
       </tuv>
     </tu>
     <tu>
