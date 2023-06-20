@@ -53248,8 +53248,8 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
       <tuv lang="en">
         <seg>only if the file already has a declaration,</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20230620T082846Z" creationid="pia" creationdate="20230620T082846Z">
-        <seg>vain, jos tiedostossa on jo &lt;head&gt;-tägi,</seg>
+      <tuv lang="fi" changeid="pia" changedate="20230620T085749Z" creationid="pia" creationdate="20230620T082846Z">
+        <seg>vain, jos tiedostossa on jo kuvaus,</seg>
       </tuv>
     </tu>
     <tu>
