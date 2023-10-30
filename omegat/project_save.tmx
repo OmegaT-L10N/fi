@@ -10592,6 +10592,22 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Console project stats mode</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T200146Z" creationid="piav" creationdate="20231030T200122Z">
+        <seg>Konsolitila: projektitilastot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console translation mode</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T200059Z" creationid="piav" creationdate="20231030T200042Z">
+        <seg>Konsolitila: käännös</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
@@ -13343,8 +13359,8 @@ onko sinun tehtävä vielä muuta.</seg>
       <tuv lang="en">
         <seg>Docking Framework version: {0}</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20231030T195921Z" creationid="piav" creationdate="20231030T195921Z">
-        <seg>Docking Framework -veriso: {0}</seg>
+      <tuv lang="fi" changeid="piav" changedate="20231030T195954Z" creationid="piav" creationdate="20231030T195921Z">
+        <seg>Docking Framework -versio: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -36817,6 +36833,14 @@ takaisin samaan kansioon tai sen alikansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230510T134352Z" creationid="piav" creationdate="20230510T134352Z">
         <seg>Erityiset säännöt tulisi mainita ennen yleisiä sääntöjä: esimerkiksi FR-CA pitäisi olla kohdan FR.* yläpuolella, jonka puolestaan pitäisi olla kohdan .* yläpuolella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specified UNKNOWN file type for statistics.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T200305Z" creationid="piav" creationdate="20231030T200305Z">
+        <seg>Tilastoja varten on määritetty TUNTEMATON tiedostotyyppi.</seg>
       </tuv>
     </tu>
     <tu>
