@@ -9624,6 +9624,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the permissions of {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T194815Z" creationid="piav" creationdate="20231030T194815Z">
+        <seg>Tarkista kohteen {0} oikeudet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the tag issues again.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T170345Z" creationid="piav" creationdate="20230511T170345Z">
@@ -15648,10 +15656,26 @@ Virheilmoitus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to commit source files.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T195018Z" creationid="piav" creationdate="20231030T195018Z">
+        <seg>Lähdetiedostojen vienti (commit) ei onnistunut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to commit target files!</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T165609Z" creationid="PiaVee" creationdate="20171218T072137Z">
         <seg>Kohdetiedostojen vienti (commit) ei onnistunut!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to commit target files.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T195031Z" creationid="piav" creationdate="20231030T195031Z">
+        <seg>Kohdetiedostojen vienti (commit) ei onnistunut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15684,6 +15708,14 @@ Virheilmoitus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T124316Z" creationid="piav" creationdate="20230425T124316Z">
         <seg>Käännettyjen tiedostojen luominen ei onnistunut!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to create the translated files.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T195004Z" creationid="piav" creationdate="20231030T195004Z">
+        <seg>Käännöstiedostojen luominen ei onnistunut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15780,6 +15812,16 @@ Virheilmoitus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T172342Z" creationid="piav" creationdate="20230511T172342Z">
         <seg>Projektissa käytettävän käännösmuistitiedoston {0} lataaminen ei onnistunut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory: {0}
+Some attributes have invalid values.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T194912Z" creationid="piav" creationdate="20231030T194912Z">
+        <seg>Käännösmuistin {0} lataaminen ei onnistunut.
+Joissakin attribuuteissa on virheelliä arvoja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23870,6 +23912,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T155203Z" creationid="piav" creationdate="20191209T155203Z">
         <seg>Lataa komentosaja editoriin napsauttamalla sen nimeä vasemmanpuoleisessa ruudussa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Load project source files: {0} ms</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T195050Z" creationid="piav" creationdate="20231030T195050Z">
+        <seg>Projektin lähdetiedostojen lataamiseen kului {0} ms.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45950,6 +46000,14 @@ Nykyinen asetus on {0} MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use a TMX validator to find and fix them.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T194945Z" creationid="piav" creationdate="20231030T194945Z">
+        <seg>Tarkista TMX-tiedoston oikeellisuus ja korjaa virheet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use a Team Project</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T111510Z" creationid="piav" creationdate="20191129T111510Z">
@@ -47994,6 +48052,14 @@ ei enää löydy.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T180417Z" creationid="piav" creationdate="20190521T180417Z">
         <seg>XLIFF-suodattimen asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T195053Z" creationid="piav" creationdate="20231030T195053Z">
+        <seg>XML</seg>
       </tuv>
     </tu>
     <tu>
