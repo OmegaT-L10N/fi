@@ -39512,6 +39512,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The configuration folder stores the majority of the OmegaT options and preferences for the user.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T202005Z" creationid="piav" creationdate="20231030T202005Z">
+        <seg>Suurin osa käyttäjän tekemistä OmegaT-valinnoista ja asetuksista löytyvät määrityskansiosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The configuration folder stores the majority of the OmegaT parameters and preferences for the user.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221110T131830Z" creationid="pia" creationdate="20221110T131830Z">
@@ -40521,6 +40529,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221110T132005Z" creationid="pia" creationdate="20221110T132005Z">
         <seg>Oletusmuotoisen määrityskansion sijainti riippuu käyttöjärjestelmästä (tildemerkki &lt;e0&gt;~&lt;/e0&gt; edustaa kotikansiotasi):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The location of the default configuration folder varies by system (the &lt;e0&gt;~&lt;/e0&gt; character represents your home folder):</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T202129Z" creationid="piav" creationdate="20231030T202129Z">
+        <seg>Oletusmuotoisen määrityskansion sijainti vaihtelee käytetyn järjestelmän mukaan (&lt;e0&gt;~&lt;/e0&gt;-merkki tarkoittaa kotikansiota).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46296,6 +46312,14 @@ Nykyinen asetus on {0} MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access it directly.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T202036Z" creationid="piav" creationdate="20231030T202036Z">
+        <seg>Sinne pääsee suoraan valitsemalla &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access this tool.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T164242Z" creationid="piav" creationdate="20230511T164211Z">
@@ -50134,6 +50158,14 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T173643Z" creationid="PiaVee" creationdate="20171014T173643Z">
         <seg>ba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>bad location exception when changing case</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T201912Z" creationid="piav" creationdate="20231030T201912Z">
+        <seg>Kirjainkoon muutoksessa ilmeni poikkeus, sijainti ei kelpaa</seg>
       </tuv>
     </tu>
     <tu>
