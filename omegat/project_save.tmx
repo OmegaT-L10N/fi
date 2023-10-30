@@ -18329,6 +18329,22 @@ lopullisesti.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hide leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T203937Z" creationid="piav" creationdate="20231030T203937Z">
+        <seg>Piilota alku- ja lopputägit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hiding them from the translatable contents ensures that you will not erase or modify them by mistake.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T204151Z" creationid="piav" creationdate="20231030T204151Z">
+        <seg>Piilottamalla tägit voit olla varma siitä, ettet kääntäessäsi vahingossa muokkaa tai poista niitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T075824Z" creationid="piav" creationdate="20190522T083551Z">
@@ -25798,8 +25814,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Modified local file filters are saved in the &lt;l0/&gt; file, located in the project folder.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20231030T203829Z" creationid="piav" creationdate="20231030T203829Z">
-        <seg>Kun paikallisia tiedostosuodattimia muokataan, </seg>
+      <tuv lang="fi" changeid="piav" changedate="20231030T203926Z" creationid="piav" creationdate="20231030T203829Z">
+        <seg>Paikallisten tiedostosuodattimien muokkaukset tallentuvat projektikansiosta löytyvään tiedostoon &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
