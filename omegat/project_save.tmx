@@ -20242,6 +20242,14 @@ näkyvät.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have a translation project open, the aligner will automatically use the languages from that project, as well the project-specific segmentation rules, if any.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T210023Z" creationid="piav" creationdate="20231030T210023Z">
+        <seg>Kohdistin käyttää automaattisesti samoja lähde- ja kohdekieliä kuin avoimessa OmegaT-käännösprojektissa. Lisäksi kohdistin käyttää mahdollisia projektikohtaisia segmentointisääntöjä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have already Java installed on your system, one way to install OmegaT is
 to use Java Web Start.</seg>
       </tuv>
@@ -33620,6 +33628,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Review the results and makes any necessary manual adjustments.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T205639Z" creationid="piav" creationdate="20231030T205639Z">
+        <seg>Tarkista lopputulos ja tee tarvittavia manuaalisia korjauksia ja muutoksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Review your translation</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T161056Z" creationid="piav" creationdate="20221102T161056Z">
@@ -34184,6 +34200,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230514T123241Z" creationid="piav" creationdate="20220821T081855Z">
         <seg>Tallenna käännöksen alkuperä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save the result to a TMX file.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T205653Z" creationid="piav" creationdate="20231030T205653Z">
+        <seg>Tallenna tuotos TMX-tiedostoksi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39420,6 +39444,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T151920Z" creationid="piav" creationdate="20191022T151920Z">
         <seg>Hälytyksen (kello) merkki (\u0007)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The aligner can read all file formats supported by OmegaT.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T205710Z" creationid="piav" creationdate="20231030T205710Z">
+        <seg>Kohdistin voi lukea kaikkia OmegaT:n tukemia tiedostomuotoja.</seg>
       </tuv>
     </tu>
     <tu>
