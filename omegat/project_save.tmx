@@ -10576,6 +10576,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Console alignment mode</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T200405Z" creationid="piav" creationdate="20231030T200405Z">
+        <seg>Konsolitila: kohdistus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console mode names and their options:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T154546Z" creationid="piav" creationdate="20221102T154546Z">
@@ -10596,6 +10604,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20231030T200146Z" creationid="piav" creationdate="20231030T200122Z">
         <seg>Konsolitila: projektitilastot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console pseudo-translate mode</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T200359Z" creationid="piav" creationdate="20231030T200359Z">
+        <seg>Konsolitila: pseudokäännös</seg>
       </tuv>
     </tu>
     <tu>
@@ -13421,6 +13437,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Does specified directory exist?</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T200348Z" creationid="piav" creationdate="20231030T200348Z">
+        <seg>Onko kyseinen hakemisto olemassa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Does the folder contain three files of the same name, with extensions?</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T110328Z" creationid="PiaVee" creationdate="20171219T110139Z">
@@ -14597,6 +14621,14 @@ Kielikoodin xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen).
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter your credentials for {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T200544Z" creationid="piav" creationdate="20231030T200534Z">
+        <seg>{0}: Kirjoita tunnuksesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter your master password</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230516T145036Z" creationid="piav" creationdate="20230516T145036Z">
@@ -14904,6 +14936,14 @@ kukaan ei kuule.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221110T134859Z" creationid="piav" creationdate="20190920T131111Z">
         <seg>Tietovaraston päivityksessä tapahtui virhe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error while autosaving: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T200507Z" creationid="piav" creationdate="20231030T200507Z">
+        <seg>Automaattisessa tallentamisessa tapahtui virhe: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -17785,6 +17825,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T141747Z" creationid="piav" creationdate="20190916T141747Z">
         <seg>Google Translate v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got directory/file open error.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T200338Z" creationid="piav" creationdate="20231030T200338Z">
+        <seg>Hakemiston/tiedoston avaamisessa tapahtui virhe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21259,6 +21307,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T171214Z" creationid="piav" creationdate="20230511T171214Z">
         <seg>Salasana on väärin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Incorrect username/password for {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T200606Z" creationid="piav" creationdate="20231030T200606Z">
+        <seg>{0}: Käyttäjänimi/salasana on väärin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26494,6 +26550,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T122859Z" creationid="piav" creationdate="20190920T122859Z">
         <seg>Ei yhteyttä, projekti on offline-tilassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No console found.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T200514Z" creationid="piav" creationdate="20231030T200514Z">
+        <seg>Konsolia ei löytynyt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45159,6 +45223,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to get exclusive lock for autosave.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T200452Z" creationid="piav" creationdate="20231030T200452Z">
+        <seg>Automaattisen tallennuksen yksinomainen lukitus ei onnistu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to get result</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T173140Z" creationid="piav" creationdate="20230511T173140Z">
@@ -49606,6 +49678,14 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T162134Z" creationid="PiaVee" creationdate="20171014T162134Z">
         <seg>abk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>aborted."</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T200319Z" creationid="piav" creationdate="20231030T200319Z">
+        <seg>keskeytetty.”</seg>
       </tuv>
     </tu>
     <tu>
