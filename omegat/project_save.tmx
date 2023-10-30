@@ -20122,6 +20122,14 @@ näkyvät.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you do not use the default configuration folder, all modifications made in the &lt;l0&gt;preferences&lt;/l0&gt; will be stored in the specified configuration folder and will not appear when you resume work with the default configuration folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T202451Z" creationid="piav" creationdate="20231030T202451Z">
+        <seg>Jos et käytä oletusmuotoista määrityskansiota, kaikki &lt;l0&gt;asetuksissa&lt;/l0&gt; tehdyt muutokset tallennetaan erikseen nimettyyn määrityskansioon. Nämä muutokset eivät ole käytössä, kun jatkat työskentelyä oletuskansiosta käsin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you enter names of folders that do not exist yet, &lt;a0&gt;OmegaT&lt;/a0&gt; creates them for you.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T121502Z" creationid="piav" creationdate="20191127T121502Z">
@@ -34932,6 +34940,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T134328Z" creationid="piav" creationdate="20230425T134328Z">
         <seg>Lisätietoja löytyy kappaleesta &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; how-to for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T202200Z" creationid="piav" creationdate="20231030T202200Z">
+        <seg>Yksityiskohtaiset tee-näin-ohjeet löytyvät kohdasta &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
