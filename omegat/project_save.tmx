@@ -27894,6 +27894,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 6.1.0 - User Manual</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T204759Z" creationid="piav" creationdate="20231030T204759Z">
+        <seg>OmegaT 6.1.0 – Käyttäjän käsikirja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT 6.1.0 requires a Java 11 Runtime Environment (JRE) to run.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T160920Z" creationid="piav" creationdate="20230511T154041Z">
@@ -27994,6 +28002,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T135740Z" creationid="PiaVee" creationdate="20171014T135411Z">
         <seg>Sourceforgessa ylläpidetään seuraavia OmegaT-aiheisia postituslistoja:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT also offers a command line based alignment mode for key-based formats.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T204913Z" creationid="piav" creationdate="20231030T204913Z">
+        <seg>OmegaT tarjoaa myös komentorivipohjaisen kohdistustilan, jota voi käyttää avaimiin perustuvissa muodoissa</seg>
       </tuv>
     </tu>
     <tu>
@@ -35032,6 +35048,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; option for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T204943Z" creationid="piav" creationdate="20231030T204943Z">
+        <seg>Lisätietoja löytyy valinnasta &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; preference for details.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T163811Z" creationid="piav" creationdate="20230510T142039Z">
@@ -39364,6 +39388,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T151920Z" creationid="piav" creationdate="20191022T151920Z">
         <seg>Hälytyksen (kello) merkki (\u0007)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The aligner does not allow you to save your work partway through an alignment.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T205032Z" creationid="piav" creationdate="20231030T205032Z">
+        <seg>Kohdistustoiminto ei salli keskeneräisen työn tallentamista.</seg>
       </tuv>
     </tu>
     <tu>
