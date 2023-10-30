@@ -14825,6 +14825,14 @@ kukaan ei kuule.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Error loading hunspell: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T201152Z" creationid="piav" creationdate="20231030T201152Z">
+        <seg>Hunspellin lataamisessa tapahtui virhe: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>WTF???</note>
       <tuv lang="en">
         <seg>Error loading plugin from class '{0}': {1}: {2}</seg>
@@ -21439,6 +21447,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initialized LanguageTool Hunspell spell checker for language '{0}' dictionary {1}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T201142Z" creationid="piav" creationdate="20231030T201142Z">
+        <seg>{0}: LanguageTool käynnistetty – Hunspell-kielentarkistin, sanakirjana {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T123325Z" creationid="PiaVee" creationdate="20171015T093911Z">
@@ -26726,6 +26742,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T114456Z" creationid="piav" creationdate="20190920T114456Z">
         <seg>Ei asetettua komentosarjaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No spell checker found for language {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T201032Z" creationid="piav" creationdate="20231030T201007Z">
+        <seg>Oikeinkirjoituksen tarkistinta ei löytynyt kielelle {0}.</seg>
       </tuv>
     </tu>
     <tu>
