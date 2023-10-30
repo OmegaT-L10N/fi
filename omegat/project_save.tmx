@@ -15744,6 +15744,14 @@ Virheilmoitus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to instantiate filter: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T195714Z" creationid="piav" creationdate="20231030T195714Z">
+        <seg>Suodattimen {0} esiintymän luominen ei onnistunut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load specified project!</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T123901Z" creationid="PiaVee" creationdate="20171015T123901Z">
@@ -39823,6 +39831,14 @@ nykyinen kansio.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T170020Z" creationid="piav" creationdate="20190527T170020Z">
         <seg>Seuraavat valinnat eivät ole käytössä, kun Yhteensopivuus OmegaT 2.6:n kanssa on valittuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following plugins won't be loaded because newer versions are installed, consider deleting them: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T195626Z" creationid="piav" creationdate="20231030T195626Z">
+        <seg>Seuraavia liitännäisiä ei ladata, koska niistä on uudempia versioita: {0}. Voisit poistaa vanhat versiot.</seg>
       </tuv>
     </tu>
     <tu>
