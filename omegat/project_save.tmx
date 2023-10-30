@@ -13205,6 +13205,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not translate property if it has a NOI18N comment</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T195753Z" creationid="piav" creationdate="20231030T195753Z">
+        <seg>Älä käännä ominaisuutta, johon liittyy NOI18N-kommentti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220906T193231Z" creationid="piav" creationdate="20190913T082516Z">
@@ -13329,6 +13337,14 @@ onko sinun tehtävä vielä muuta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T133120Z" creationid="piav" creationdate="20190916T133105Z">
         <seg>Telakoi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Docking Framework version: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T195921Z" creationid="piav" creationdate="20231030T195921Z">
+        <seg>Docking Framework -veriso: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -26446,6 +26462,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T122430Z" creationid="piav" creationdate="20191202T122403Z">
         <seg>Jos yhtään konekäännöspalvelua ei ole aktivoitu (kohdassa &lt;m0&gt; &lt;g1&gt;Valinnat&lt;/g1&gt; &lt;g2&gt;Konekäännös&lt;/g2&gt;&lt;/m0&gt;), mitään ei tapahdu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No active spell checker engine found</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T195824Z" creationid="piav" creationdate="20231030T195824Z">
+        <seg>Aktiivista oikeinkirjoituksen tarkistinta ei löytynyt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46462,6 +46486,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T164715Z" creationid="piav" creationdate="20230511T164715Z">
         <seg>Käyttäjänimi tai API-avain:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Username:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T195828Z" creationid="piav" creationdate="20231030T195828Z">
+        <seg>Käyttäjänimi:</seg>
       </tuv>
     </tu>
     <tu>
