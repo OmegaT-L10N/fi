@@ -6600,10 +6600,26 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligning the contents of the files is a four-step process:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T205440Z" creationid="piav" creationdate="20231030T205440Z">
+        <seg>Tiedostojen sisällön kohdistamisessa on neljä vaihetta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T145426Z" creationid="piav" creationdate="20191209T145426Z">
         <seg>Kohdistaminen luo yksikielisistä jo käännetyistä asiakirjoista kaksikielisen käännösmuistin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alignment is the process of creating a bilingual translation memory from a pair of already translated monolingual documents.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T205425Z" creationid="piav" creationdate="20231030T205425Z">
+        <seg>Kohdistuksella tarkoitetaan prosessia, jossa jo käännetystä asiakirjasta ja sen alkutekstistä luodaan kaksikielinen käännösmuisti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37269,6 +37285,14 @@ takaisin samaan kansioon tai sen alikansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify the source and target languages and select the two files you want to align.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T205512Z" creationid="piav" creationdate="20231030T205512Z">
+        <seg>Määritä lähde- ja kohdekielet ja valitse kaksi tiedosoa, jota haluat kohdistaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spell checker</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T105832Z" creationid="piav" creationdate="20191023T105832Z">
@@ -39404,6 +39428,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20231030T205032Z" creationid="piav" creationdate="20231030T205032Z">
         <seg>Kohdistustoiminto ei salli keskeneräisen työn tallentamista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The aligner reads the files and attempts to match the segments that correspond to one another in the original and translated texts.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T205616Z" creationid="piav" creationdate="20231030T205616Z">
+        <seg>Kohdistin lukee lähde- ja kohdetiedostot ja yrittää täsmätä niiden toisiaan vastaavat segmentit.</seg>
       </tuv>
     </tu>
     <tu>
