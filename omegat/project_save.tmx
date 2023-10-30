@@ -20557,6 +20557,14 @@ käynnistää ohjelman komennolla</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you're a programmer, and you happen to know Java, please check the &lt;a0&gt;OmegaT contribution guide&lt;/a0&gt;, or its document source text in the &lt;a1&gt;source code&lt;/a1&gt; under /docs_devel for information on how to get started.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T211025Z" creationid="piav" creationdate="20231030T210819Z">
+        <seg>Jos olet Java-taitoinen ohjelmoija, tutki ihmeessä &lt;a0&gt;OmegaT-apukäsien opasta&lt;/a0&gt; tai &lt;a1&gt;lähdekoodista&lt;/a1&gt; löytyvää dokumentin lähdetekstiä (löytyy kohdasta /docs_devel), niin saat tietoa siitä, miten päästä alkuun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If your existing OmegaT installation is a "Windows with JRE" version, the new version must also be a "Windows with JRE" version.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T122522Z" creationid="piav" creationdate="20191129T122256Z">
