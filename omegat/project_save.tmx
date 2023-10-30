@@ -7394,6 +7394,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Apply to all repositories on host {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T200750Z" creationid="piav" creationdate="20231030T200750Z">
+        <seg>Käytä tätä kaikkiin {0}-palvelimen tietovarastoihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Arabic</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T173503Z" creationid="PiaVee" creationdate="20171014T173503Z">
@@ -8916,6 +8924,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T173352Z" creationid="piav" creationdate="20230511T173352Z">
         <seg>Oikeaa vastausta ei tule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot get the correct answer.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T200722Z" creationid="piav" creationdate="20231030T200722Z">
+        <seg>Oikeaa vastausta ei saada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14589,6 +14605,14 @@ Kielikoodin xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen).
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the passphrase for SSH key {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T200622Z" creationid="piav" creationdate="20231030T200622Z">
+        <seg>{0}: Anna SSH_avaimen salasanalauseke.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the password for {0}</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T173321Z" creationid="piav" creationdate="20230511T173241Z">
@@ -15796,6 +15820,14 @@ Virheilmoitus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20231030T195004Z" creationid="piav" creationdate="20231030T195004Z">
         <seg>Käännöstiedostojen luominen ei onnistunut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to decrypt for SSH key {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T200710Z" creationid="piav" creationdate="20231030T200710Z">
+        <seg>{0}: SSH-avaimen salauksen purkaminen ei onnistunut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17385,6 +17417,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T121739Z" creationid="piav" creationdate="20221102T121739Z">
         <seg>Git-ilmoitus: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Git: Ignore credentials query: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T200819Z" creationid="piav" creationdate="20231030T200819Z">
+        <seg>Git: {0}: Ohita tunnuksien kysyminen</seg>
       </tuv>
     </tu>
     <tu>
@@ -21299,6 +21339,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230516T145049Z" creationid="piav" creationdate="20230516T145049Z">
         <seg>Virheellinen salasana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Incorrect password for {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T200634Z" creationid="piav" creationdate="20231030T200634Z">
+        <seg>{0}: Salasana on väärin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37235,6 +37283,14 @@ takaisin samaan kansioon tai sen alikansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171218T090416Z" creationid="PiaVee" creationdate="20171218T090416Z">
         <seg>Tilastot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Statistics Output Formats</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T200910Z" creationid="piav" creationdate="20231030T200910Z">
+        <seg>Miten tilastotiedot näytetään</seg>
       </tuv>
     </tu>
     <tu>
