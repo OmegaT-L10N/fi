@@ -36556,6 +36556,14 @@ takaisin samaan kansioon tai sen alikansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some preferences do not have an equivalent in the user interface.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T202524Z" creationid="piav" creationdate="20231030T202524Z">
+        <seg>Kaikille asetuksille ei ole vastaavuutta käyttöliittymässä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T132008Z" creationid="piav" creationdate="20190521T132008Z">
@@ -42396,8 +42404,8 @@ kadonnut sivu.</seg>
       <tuv lang="en">
         <seg>They must be modified manually.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221110T132247Z" creationid="pia" creationdate="20221110T132247Z">
-        <seg>vaan niitä pitää muokata manuaalisesti eli tekemällä muutoksia suoraan tiedostoon.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20231030T202557Z" creationid="pia" creationdate="20221110T132247Z">
+        <seg>Näitä pitää muokata manuaalisesti eli muutos pitää tehdä suoraan tiedostoon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44236,6 +44244,14 @@ asetukset oletusarvoihinsa.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T115430Z" creationid="piav" creationdate="20191127T083646Z">
         <seg>Laita &lt;g0&gt;Koko teksti tägeineen ja numeroineen&lt;/g0&gt; -ruutuun rasti, niin saat kirjaimellisempia ja lähempänä 100 % olevia osumia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To prevent the Source Files list window from automatically opening when a project is loaded, find &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; and replace &lt;t1&gt;true&lt;/t1&gt; to &lt;t2&gt;false&lt;/t2&gt;:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T202746Z" creationid="piav" creationdate="20231030T202746Z">
+        <seg>Jos haluat, että lähdetiedostot näyttävä ikkuna ei pompahda esille projektia ladattaessa, etsi tiedostosta kohta &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; ja vaihda &lt;t1&gt;true&lt;/t1&gt; sanaksi &lt;t2&gt;false&lt;/t2&gt;: </seg>
       </tuv>
     </tu>
     <tu>
