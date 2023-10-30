@@ -5168,6 +5168,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T210540Z" creationid="piav" creationdate="20231030T210540Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Uusin versio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standard Version</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T181126Z" creationid="piav" creationdate="20191210T181126Z">
@@ -6916,6 +6924,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T081051Z" creationid="piav" creationdate="20191022T081051Z">
         <seg>Toinen tuettu tiedostomuoto on CSV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, consider testing &lt;a0&gt;weekly builds&lt;/a0&gt; of OmegaT that may contain even more new and fascinating bugs!</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T210646Z" creationid="piav" creationdate="20231030T210646Z">
+        <seg>Voit myös kokeilla OmegaT:n &lt;a0&gt;viikoittaisia versioita&lt;/a0&gt;, joissa saattaa olla vielä enemmän uusia ja mielenkiintoisia bugeja!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10474,8 +10490,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Compatible with other translation memory applications via exchange formats such as TMX, TTX, TXML, XLIFF, SDLXLIFF</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20231030T210400Z" creationid="piav" creationdate="20231030T210400Z">
-        <seg>Tiukeerilaiset käännöstiedostojen siirtomuodot (esim. TMX, TTX, TXML, XLIFF js SDLXLIFF)  hteensopiva muiden käännösmuistityökalujen kanssa</seg>
+      <tuv lang="fi" changeid="piav" changedate="20231030T210423Z" creationid="piav" creationdate="20231030T210400Z">
+        <seg>Tukee erilaisia käännöstiedostojen siirtomuotoja (esim. TMX, TTX, TXML, XLIFF js SDLXLIFF) ja on siis yhteensopiva muiden käännösmuistityökalujen kanssa</seg>
       </tuv>
     </tu>
     <tu>
@@ -22163,6 +22179,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T180627Z" creationid="piav" creationdate="20191210T180627Z">
         <seg>Liittymä Google Kääntäjään</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Interface to machine translation/neural machine translation software/Web services</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T210525Z" creationid="piav" creationdate="20231030T210525Z">
+        <seg>Käyttöliittymä konekääntimiin, neuroverkkokääntimiin ja internet-palveluihin</seg>
       </tuv>
     </tu>
     <tu>
