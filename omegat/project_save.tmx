@@ -13493,6 +13493,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Doing so has the added benefit of reducing mismatches in the initial automatic alignment, making the manual correction step smoother.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T205330Z" creationid="piav" creationdate="20231030T205330Z">
+        <seg>Tällä lailla vähennät virheellisesti kohdistettujen segmenttien määrää alkuvaiheessa, mikä helpottaa työtä manuaalisen korjauksen vaiheessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DokuWiki</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T180250Z" creationid="piav" creationdate="20190521T180250Z">
@@ -42345,6 +42353,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T140803Z" creationid="piav" creationdate="20190916T140803Z">
         <seg>LanguageToolin käynnistyksessä tapahtui virhe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, it is recommended that you divide the files to align into shorter files that you can comfortably align in a single session.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T205118Z" creationid="piav" creationdate="20231030T205118Z">
+        <seg>Siksi kannattaa jakaa kohdistettavat tiedostot pienempiin osiin, niin että saat tiedostot kohdistettua mukavasti yhdeltä istumalta.</seg>
       </tuv>
     </tu>
     <tu>
