@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_a8d2077" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12181,6 +12181,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dark theme:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T194441Z" creationid="piav" creationdate="20231030T194441Z">
+        <seg>Tumma teema:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Deactivate &lt;g0&gt;Use stemming for glossary entries&lt;/g0&gt; in the OmegaT global preferences to only find exact matches for a term.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210414T170116Z" creationid="piav" creationdate="20210414T165742Z">
@@ -17103,6 +17111,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T095046Z" creationid="piav" creationdate="20191201T095046Z">
         <seg>GNOME ei välttämättä pysty näyttämään käytettävissä olevia ikonitiedostoja, sillä se odottaa ikonitiedostojen olevan SVG-tiedostoja. Jos kuitenkin valitset tämän kansion, tiedostojen pitäisi tulla näkyviin ja voit valita &lt;f4&gt;OmegaT-png&lt;/f4&gt;-tiedoston ohjelman ikoniksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GO</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T194407Z" creationid="piav" creationdate="20231030T194407Z">
+        <seg>SIIRRY</seg>
       </tuv>
     </tu>
     <tu>
@@ -23686,6 +23702,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="fi" changeid="Kos Ivantsov" changedate="20210508T165500Z" creationid="piav" creationdate="20191211T094915Z">
         <seg>Tietoa lisensseistä
 ===================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Light theme:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T194437Z" creationid="piav" creationdate="20231030T194437Z">
+        <seg>Vaalea teema:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31292,6 +31316,14 @@ projektin ilman ryhmäominaisuutta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project files:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T194412Z" creationid="piav" creationdate="20231030T194412Z">
+        <seg>Projektitiedostot:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project folder</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T115219Z" creationid="piav" creationdate="20191208T115219Z">
@@ -31456,6 +31488,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T143603Z" creationid="piav" creationdate="20221102T143603Z">
         <seg>Ominaisuudet... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provided URL is invalid.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T194421Z" creationid="piav" creationdate="20231030T194421Z">
+        <seg>Annettu URL-osoite ei kelpaa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34998,6 +35038,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select Project</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T194353Z" creationid="piav" creationdate="20231030T194353Z">
+        <seg>Valitse projekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select Scripts Folder</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T114155Z" creationid="piav" creationdate="20190920T114155Z">
@@ -37293,6 +37341,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T140018Z" creationid="piav" creationdate="20190916T140018Z">
         <seg>Vaihdetaan sisäänrakennettuun versioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sync with OS colour preference</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T194502Z" creationid="piav" creationdate="20231030T194502Z">
+        <seg>Synkronisoi OS-värien kanssa</seg>
       </tuv>
     </tu>
     <tu>
@@ -44753,6 +44809,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>UI Style</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T194430Z" creationid="piav" creationdate="20231030T194430Z">
+        <seg>Käyttöliittymän tyyli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>UNL</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T101914Z" creationid="piav" creationdate="20190521T101914Z">
@@ -44765,6 +44829,14 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T132524Z" creationid="piav" creationdate="20190521T132524Z">
         <seg>URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL Error</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T194424Z" creationid="piav" creationdate="20231030T194424Z">
+        <seg>URL-virhe</seg>
       </tuv>
     </tu>
     <tu>
