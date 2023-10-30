@@ -6288,6 +6288,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional variants are available for &lt;l0&gt;${nameOnly}&lt;/l0&gt; and &lt;l1&gt;${extension}&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T204648Z" creationid="piav" creationdate="20231030T204546Z">
+        <seg>Muuttujissa &lt;l0&gt;${nameOnly}&lt;/l0&gt; ja &lt;l1&gt;${extension}&lt;/l1&gt; voi käyttää lisävariantteja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional variants are available for variables ${nameOnly} and ${Extension}.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T122706Z" creationid="piav" creationdate="20191030T122608Z">
@@ -35072,6 +35080,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T204526Z" creationid="piav" creationdate="20231030T204526Z">
+        <seg>Löydät esimerkkejä &lt;u0&gt;Oracle-dokumentaatiosta&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;u1&gt;Request For Enhancement&lt;/u1&gt; for technical details.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T151113Z" creationid="piav" creationdate="20221102T151113Z">
@@ -52090,6 +52106,14 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T204501Z" creationid="piav" creationdate="20231030T204501Z">
+        <seg>https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/regex/Pattern.html</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T132428Z" creationid="piav" creationdate="20230425T132428Z">
@@ -55314,6 +55338,14 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T103046Z" creationid="pia" creationdate="20221114T103046Z">
         <seg>järjestelmän mukainen ajankohta, jolloin tiedosto muodostettiin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>system time when the file was created</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T204457Z" creationid="piav" creationdate="20231030T204457Z">
+        <seg>järjestelmän aika tiedoston luomisen hetkellä</seg>
       </tuv>
     </tu>
     <tu>
