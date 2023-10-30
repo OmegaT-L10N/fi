@@ -14817,6 +14817,14 @@ kukaan ei kuule.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error load dictionary from '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T201754Z" creationid="piav" creationdate="20231030T201754Z">
+        <seg>Sanakirjan lataaminen kohteesta {0} ei onnistunut: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error load plugin from class '{0}': {1}: {2}</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191212T055845Z" creationid="piav" creationdate="20190523T161643Z">
@@ -14903,6 +14911,14 @@ kukaan ei kuule.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T170241Z" creationid="piav" creationdate="20230511T170241Z">
         <seg>Etäprojektitiedoston {0} hakuvirhe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error saving ignore words"</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T201814Z" creationid="piav" creationdate="20231030T201814Z">
+        <seg>Huomiotta jätettäviä sanoja ei onnistunut tallentaa</seg>
       </tuv>
     </tu>
     <tu>
@@ -15388,6 +15404,14 @@ Virheilmoitus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T131006Z" creationid="piav" creationdate="20190522T082849Z">
         <seg>Älä sisällytä kuvioita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Executing command: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T201711Z" creationid="piav" creationdate="20231030T201711Z">
+        <seg>Suoritetaan komentoa {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24124,6 +24148,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Loaded dictionary from '{0}': {1} ms</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T201736Z" creationid="piav" creationdate="20231030T201736Z">
+        <seg>Sanakirja kohteesta {0} ladattu – aikaa kului {1} ms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Loading Project</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20200504T142354Z" creationid="piav" creationdate="20190920T120512Z">
@@ -26262,6 +26294,22 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T181600Z" creationid="PiaVee" creationdate="20171014T175029Z">
         <seg>ndonga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Negotiated LanguageTool source language: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T201604Z" creationid="piav" creationdate="20231030T201604Z">
+        <seg>LanguageTool – neuvoteltu kohdekieli: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Negotiated LanguageTool target language: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T201617Z" creationid="piav" creationdate="20231030T201617Z">
+        <seg>LanguageTool -- neuvoteltu kohdekieli: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -35602,16 +35650,16 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Selected LanguageTool source language: {0}</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20231030T201505Z" creationid="piav" creationdate="20231030T201437Z">
-        <seg>LanguageTool – valittu lähdekieli: </seg>
+      <tuv lang="fi" changeid="piav" changedate="20231030T201515Z" creationid="piav" creationdate="20231030T201437Z">
+        <seg>LanguageTool – valittu lähdekieli: {0}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Selected LanguageTool target language: {0}</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20231030T201444Z" creationid="piav" creationdate="20231030T201444Z">
-        <seg>Valit</seg>
+      <tuv lang="fi" changeid="piav" changedate="20231030T201535Z" creationid="piav" creationdate="20231030T201444Z">
+        <seg>LanguageTool – valittu kohdekieli: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -36932,6 +36980,14 @@ takaisin samaan kansioon tai sen alikansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source tokenizer: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T201656Z" creationid="piav" creationdate="20231030T201650Z">
+        <seg>Lähdesaneistin: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source/translation length (characters)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T124645Z" creationid="piav" creationdate="20230425T124645Z">
@@ -38195,6 +38251,14 @@ takaisin samaan kansioon tai sen alikansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T084417Z" creationid="piav" creationdate="20191127T084417Z">
         <seg>Osuman kohdeteksti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target tokenizer: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T201705Z" creationid="piav" creationdate="20231030T201705Z">
+        <seg>Kohdesaneistin: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -55652,6 +55716,14 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T103118Z" creationid="pia" creationdate="20221114T103118Z">
         <seg>käyttäjän nimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>using segmentation rules from {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T201643Z" creationid="piav" creationdate="20231030T201643Z">
+        <seg>segmentointisäännöt kohteesta {0} käytössä</seg>
       </tuv>
     </tu>
     <tu>
