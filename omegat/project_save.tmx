@@ -15256,6 +15256,14 @@ Virheilmoitus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Excluding old version of '{0}' ({1}), keeping {2}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T195259Z" creationid="piav" creationdate="20231030T195259Z">
+        <seg>{0}: Ohitettiin vanha versio ({1}) ja otetaan {2} talteen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exclusion Patterns</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T131006Z" creationid="piav" creationdate="20190522T082849Z">
@@ -22598,6 +22606,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T072829Z" creationid="piav" creationdate="20191211T072829Z">
         <seg>JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JSON</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T195056Z" creationid="piav" creationdate="20231030T195056Z">
+        <seg>JSON</seg>
       </tuv>
     </tu>
     <tu>
@@ -35860,6 +35876,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T083855Z" creationid="piav" creationdate="20191211T083855Z">
         <seg>Allekirjoitettu/allekirjoittamaton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similar versions of '{0}' are present ({1} and {2}), keeping the latter</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T195357Z" creationid="piav" creationdate="20231030T195357Z">
+        <seg>{0}: Samankaltaiset versiot {1} ja {2} – pidetään jälkimmäinen.</seg>
       </tuv>
     </tu>
     <tu>
