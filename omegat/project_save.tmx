@@ -42855,6 +42855,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;original text&lt;/e0&gt; from of the current segment when the &lt;l1/&gt; preference is enabled.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T203308Z" creationid="piav" creationdate="20231030T203308Z">
+        <seg>Tästä tiedostosta löytyy nykyisen segmentin &lt;e0&gt;alkuperäinen teksti&lt;/e0&gt;, kun valinta &lt;l1/&gt; pistetään päälle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file contains the &lt;e0&gt;translated text&lt;/e0&gt; from the current segment when &lt;l1/&gt; is active.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221110T144437Z" creationid="pia" creationdate="20221110T144437Z">
