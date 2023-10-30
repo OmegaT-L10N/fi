@@ -8856,6 +8856,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Can't read spelling dictionary: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T201359Z" creationid="piav" creationdate="20231030T201359Z">
+        <seg>{0}: oikeinkirjoitussanaston lukeminen ei onnistu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190919T132727Z" creationid="piav" creationdate="20190919T132628Z">
@@ -14830,6 +14838,14 @@ kukaan ei kuule.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20231030T201152Z" creationid="piav" creationdate="20231030T201152Z">
         <seg>Hunspellin lataamisessa tapahtui virhe: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error loading jmyspell: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T201309Z" creationid="piav" creationdate="20231030T201256Z">
+        <seg>Jmyspell-lataamisessa tapahtui virhe: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -21447,10 +21463,18 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initialized JMySpell spell checker for language '{0}' dictionary {1}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T201247Z" creationid="piav" creationdate="20231030T201247Z">
+        <seg>{0}:JMySpell-kielentarkistin käynnistetty, sanakirjana {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initialized LanguageTool Hunspell spell checker for language '{0}' dictionary {1}</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20231030T201142Z" creationid="piav" creationdate="20231030T201142Z">
-        <seg>{0}: LanguageTool käynnistetty – Hunspell-kielentarkistin, sanakirjana {1}</seg>
+      <tuv lang="fi" changeid="piav" changedate="20231030T201229Z" creationid="piav" creationdate="20231030T201142Z">
+        <seg>{0}: LanguageTool Hunspell -kielentarkistin käynnistetty, sanakirjana {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -35576,6 +35600,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selected LanguageTool source language: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T201505Z" creationid="piav" creationdate="20231030T201437Z">
+        <seg>LanguageTool – valittu lähdekieli: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selected LanguageTool target language: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T201444Z" creationid="piav" creationdate="20231030T201444Z">
+        <seg>Valit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selected options:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T092921Z" creationid="piav" creationdate="20191211T092921Z">
@@ -37113,6 +37153,22 @@ takaisin samaan kansioon tai sen alikansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T170550Z" creationid="piav" creationdate="20191210T165336Z">
         <seg>Oikeinkirjoitussanakirjat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spelling dictionary appears to be empty: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T201415Z" creationid="piav" creationdate="20231030T201415Z">
+        <seg>{0}: oikeinkirjoitussanasto näyttää olevan tyhjä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spelling dictionary exists but is not a file: {0}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T201333Z" creationid="piav" creationdate="20231030T201333Z">
+        <seg>Oikeinkirjoitussanasto on olemassa, mutta se ei ole tiedosto: {0}</seg>
       </tuv>
     </tu>
     <tu>
