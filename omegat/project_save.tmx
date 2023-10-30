@@ -42895,6 +42895,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file stores the currently selected text when &lt;l0/&gt;&lt;l1/&gt; is used.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T203146Z" creationid="piav" creationdate="20231030T203146Z">
+        <seg>Tämä on tiedosto, jonne komennolla &lt;l0/&gt;&lt;l1/&gt; valittu teksti tallennetaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file stores the currently selected text when the &lt;l0/&gt; command in the &lt;l1/&gt; menu is used.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221110T144206Z" creationid="pia" creationdate="20221110T144206Z">
@@ -46364,6 +46372,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230604T212409Z" creationid="piav" creationdate="20230604T212409Z">
         <seg>Näet niiden sijainnin valitsemalla &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to view the contents of the file.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T202819Z" creationid="piav" creationdate="20231030T202819Z">
+        <seg>Valitse &lt;l0/&gt;&lt;l1/&gt;, niin näet tiedoston sisällön.</seg>
       </tuv>
     </tu>
     <tu>
