@@ -16290,6 +16290,14 @@ Joissakin attribuuteissa on virheelliä arvoja.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files in the &lt;l0/&gt; folder are overwritten every time you create them if they are created with the same name.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T204436Z" creationid="piav" creationdate="20231030T204310Z">
+        <seg>Joka kerta kun luot uusia käännettyjä tiedostoja, kansiossa &lt;l0/&gt; olevat samannimiset tiedostot korvautuvat uusilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files in the &lt;l0/&gt; folder are overwritten everytime you create them if they are created with the same name.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T100559Z" creationid="pia" creationdate="20221114T100522Z">
@@ -20280,6 +20288,14 @@ avulla.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T082430Z" creationid="pia" creationdate="20221114T082306Z">
         <seg>Jos pidät segmentin alussa ja lopussa olevat tägit näkyvissä, niin katso, että ne löytyvät myös käännöksen alusta ja lopusta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you keep the leading and trailing tags, make sure you also include them in the translated text.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T204247Z" creationid="piav" creationdate="20231030T204247Z">
+        <seg>Jos taas pidät alku- ja lopputägit näkyvillä, niin muista lisätä ne myös käännettyyn tekstiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44951,8 +44967,8 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Translated filename</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191030T120433Z" creationid="piav" creationdate="20191030T120433Z">
-        <seg>Käännetty tiedoston nimi</seg>
+      <tuv lang="fi" changeid="piav" changedate="20231030T204317Z" creationid="piav" creationdate="20191030T120433Z">
+        <seg>Käännetyn tiedoston nimi</seg>
       </tuv>
     </tu>
     <tu>
