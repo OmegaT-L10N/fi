@@ -10032,6 +10032,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on the relevant header to sort them in ascending or descending order.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T203807Z" creationid="piav" creationdate="20231030T203741Z">
+        <seg>Saat ne nousevaan tai laskevaan järjestykseen napsauttamalla haluamaasi otsaketta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click the &lt;g0&gt;Edit&lt;/g0&gt; tab on the Wikipedia page.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T143026Z" creationid="piav" creationdate="20191202T143026Z">
@@ -16653,6 +16661,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For details, see:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T203651Z" creationid="piav" creationdate="20231030T203651Z">
+        <seg>Lisätietoja:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For easier navigation in the search result set, you can apply the search to the editor.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T171902Z" creationid="piav" creationdate="20191209T171902Z">
@@ -22439,6 +22455,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is also possible to install plugins in the application &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T203644Z" creationid="piav" creationdate="20231030T203644Z">
+        <seg>Lisäosia voi asentaa myös sovelluksen &lt;l0/&gt;-kansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T110304Z" creationid="piav" creationdate="20191023T110115Z">
@@ -25768,6 +25792,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T081913Z" creationid="pia" creationdate="20221114T081825Z">
         <seg>Muokatut paikalliset suodatinasetukset tallennetaan tiedostoon &lt;l0/&gt;, joka löytyy projektikansiosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modified local file filters are saved in the &lt;l0/&gt; file, located in the project folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T203829Z" creationid="piav" creationdate="20231030T203829Z">
+        <seg>Kun paikallisia tiedostosuodattimia muokataan, </seg>
       </tuv>
     </tu>
     <tu>
@@ -49191,6 +49223,14 @@ sarjaa linux-install.sh.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T102756Z" creationid="piav" creationdate="20191030T102739Z">
         <seg>Voit valita, mitkä seuraavista elementeistä käännetään:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can sort the filters by name or by whether they are enabled.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T203733Z" creationid="piav" creationdate="20231030T203733Z">
+        <seg>Suodattimet voi järjestää nimen mukaan tai sen mukaan, ovatko ne käytössä vai eivät.</seg>
       </tuv>
     </tu>
     <tu>
