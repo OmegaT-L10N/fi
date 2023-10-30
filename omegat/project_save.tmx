@@ -34936,6 +34936,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; appendix for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T203506Z" creationid="piav" creationdate="20231030T203506Z">
+        <seg>Lisätietoja löytyy liitteestä &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; chapter for details.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T134328Z" creationid="piav" creationdate="20230425T134328Z">
@@ -34955,6 +34963,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
         <seg>See the &lt;l0/&gt; preference for details.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T163811Z" creationid="piav" creationdate="20230510T142039Z">
+        <seg>Lisätietoja löytyy asetusvalikosta &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T203516Z" creationid="piav" creationdate="20231030T203516Z">
         <seg>Lisätietoja löytyy asetusvalikosta &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
@@ -42857,8 +42873,8 @@ palvelimelta.</seg>
       <tuv lang="en">
         <seg>This file contains the &lt;e0&gt;original text&lt;/e0&gt; from of the current segment when the &lt;l1/&gt; preference is enabled.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20231030T203308Z" creationid="piav" creationdate="20231030T203308Z">
-        <seg>Tästä tiedostosta löytyy nykyisen segmentin &lt;e0&gt;alkuperäinen teksti&lt;/e0&gt;, kun valinta &lt;l1/&gt; pistetään päälle.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20231030T203435Z" creationid="piav" creationdate="20231030T203308Z">
+        <seg>Tämä tiedosto sisältää senhetkisen segmentin &lt;e0&gt;käännetyn tekstin&lt;/e0&gt;, kun valinta &lt;l1/&gt; on aktiivinen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42866,6 +42882,14 @@ palvelimelta.</seg>
         <seg>This file contains the &lt;e0&gt;translated text&lt;/e0&gt; from the current segment when &lt;l1/&gt; is active.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221110T144437Z" creationid="pia" creationdate="20221110T144437Z">
+        <seg>Tämä tiedosto sisältää senhetkisen segmentin &lt;e0&gt;käännetyn tekstin&lt;/e0&gt;, kun valinta &lt;l1/&gt; on aktiivinen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;translated text&lt;/e0&gt; from the current segment when the &lt;l1/&gt; preference is enabled.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T203451Z" creationid="piav" creationdate="20231030T203418Z">
         <seg>Tämä tiedosto sisältää senhetkisen segmentin &lt;e0&gt;käännetyn tekstin&lt;/e0&gt;, kun valinta &lt;l1/&gt; on aktiivinen.</seg>
       </tuv>
     </tu>
@@ -42947,6 +42971,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221109T171914Z" creationid="pia" creationdate="20221109T171914Z">
         <seg>Vaihtoehtoinen kansio erikseen asennetuille OmegaT-laajennuksille ja lisäosille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder provides the standard location for manually installed OmegaT extension plugins.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20231030T203620Z" creationid="piav" creationdate="20231030T203620Z">
+        <seg>Tämä kansio on erikseen asennettujen OmegaT- laajennusten ja lisäosien oletussijainti.</seg>
       </tuv>
     </tu>
     <tu>
