@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_a8d2077" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6594,16 +6594,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>Aligner highlight</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230511T170850Z" creationid="piav" creationdate="20230511T170850Z">
-        <seg>Kohdistaja: maalaus</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T114744Z" creationid="piav" creationdate="20230511T170850Z">
+        <seg>Kohdistaja: korostus</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Aligner table row highlight</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230511T170855Z" creationid="piav" creationdate="20230511T170855Z">
-        <seg>Kohdistaja: taulukon rivin maalaus</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T114906Z" creationid="piav" creationdate="20230511T170855Z">
+        <seg>Kohdistaja: taulukon rivin korostus</seg>
       </tuv>
     </tu>
     <tu>
@@ -14208,8 +14208,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="en">
         <seg>Edit Highlight Pattern</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T131059Z" creationid="piav" creationdate="20190913T102301Z">
-        <seg>Muokkaa kohtaa Väritä kuvio</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T114926Z" creationid="piav" creationdate="20190913T102301Z">
+        <seg>Muokkaa kohtaa Korosta kuvio</seg>
       </tuv>
     </tu>
     <tu>
@@ -18411,56 +18411,56 @@ lopullisesti.</seg>
       <tuv lang="en">
         <seg>Highlight</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191022T075824Z" creationid="piav" creationdate="20190522T083551Z">
-        <seg>Maalaa</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T115028Z" creationid="piav" creationdate="20190522T083551Z">
+        <seg>Korosta</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Highlight &amp;Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230514T122851Z" creationid="piav" creationdate="20230425T122015Z">
-        <seg>Väritä automaattisesti täytetyt segmentit</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T115017Z" creationid="piav" creationdate="20230425T122015Z">
+        <seg>Korosta automaattisesti täytetyt segmentit</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Highlight &amp;Translated Segments</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230514T122828Z" creationid="piav" creationdate="20230425T122322Z">
-        <seg>Väritä käännetyt segmentit</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T115007Z" creationid="piav" creationdate="20230425T122322Z">
+        <seg>Korosta käännetyt segmentit</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Highlight &amp;Untranslated Segments</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230514T122830Z" creationid="piav" creationdate="20230425T122338Z">
-        <seg>Väritä kääntämättömät segmentit</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T115010Z" creationid="piav" creationdate="20230425T122338Z">
+        <seg>Korosta kääntämättömät segmentit</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Highlight Pattern...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T131047Z" creationid="piav" creationdate="20190913T102135Z">
-        <seg>Väritä kuvio…</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T115041Z" creationid="piav" creationdate="20190913T102135Z">
+        <seg>Korosta kuvio…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Highlight Repeated Se&amp;gments</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230514T122836Z" creationid="piav" creationdate="20230425T122415Z">
-        <seg>Väritä toistuvat segmentit</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T115012Z" creationid="piav" creationdate="20230425T122415Z">
+        <seg>Korosta toistuvat segmentit</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Highlight Segments &amp;with Notes</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230514T122840Z" creationid="piav" creationdate="20230425T122428Z">
-        <seg>Väritä segmentit, joissa on muistiinpanoja</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T115014Z" creationid="piav" creationdate="20230425T122428Z">
+        <seg>Korosta segmentit, joissa on muistiinpanoja</seg>
       </tuv>
     </tu>
     <tu>
@@ -19150,6 +19150,14 @@ polulla, koko polkua ei tarvitse kirjoittaa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a pane is closed but has contents to display, OmegaT can temporarily highlight the pane tab in orange when you enter the segment.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T115217Z" creationid="pia" creationdate="20240213T115217Z">
+        <seg>Kun siirryt kommentoituun tai muuta lisätietoa sisältävään segmenttiin, mutta lisätietoja näyttävä ruutu ei ole esillä, OmegaT korostaa ruudun välilehden oranssilla värillä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T172459Z" creationid="piav" creationdate="20191209T172459Z">
@@ -19210,6 +19218,14 @@ kaikki asetukset palautetaan oletusarvoihinsa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, all the source segments are shown and highlighted in green.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T115248Z" creationid="pia" creationdate="20240213T115248Z">
+        <seg>Jos tässä kohdassa on rasti, käännettyjen segmenttien lähde- ja kohdeteksti näytetään yhtä aikaa, ja lähdeteksti korostetaan vihreällä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, non-breakable spaces will be displayed with a gray background.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T150316Z" creationid="piav" creationdate="20221102T150316Z">
@@ -19242,10 +19258,34 @@ kaikki asetukset palautetaan oletusarvoihinsa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, repeated segments are highlighted in pale gray.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T115324Z" creationid="pia" creationdate="20240213T115324Z">
+        <seg>Jos tässä kohdassa on rasti, toistuvat segmentit korostetaan vaaleanharmaalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, segments that have been auto-populated (from TMXs placed in &lt;l0/&gt; for example) are marked in various colors.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T150453Z" creationid="piav" creationdate="20221102T150453Z">
         <seg>Jos tässä kohdassa on rasti, kaikkien automaattisesti (esim. &lt;l0/&gt;-kansiossa olevien TMX-tiedostojen perusteella) täytettyjen segmenttien tausta on väritetty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, segments that have been auto-populated are highlighted in various colours.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T115344Z" creationid="pia" creationdate="20240213T115344Z">
+        <seg>Jos tässä kohdassa on rasti, automaattisesti täytetyt segmentit korostetaan eri värein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, segments with notes are highlighted in cyan.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T115414Z" creationid="pia" creationdate="20240213T115414Z">
+        <seg>Jos tässä kohdassa on rasti, muistiinpanoja sisältävät segmentit korostetaan syaanilla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19322,10 +19362,26 @@ kaikki asetukset palautetaan oletusarvoihinsa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, translated segments are highlighted in yellow.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T115432Z" creationid="pia" creationdate="20240213T115432Z">
+        <seg>Jos tässä kohdassa on rasti, käännetyt segmentit korostetaan keltaisella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, translated segments will be marked in yellow.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T150211Z" creationid="piav" creationdate="20221102T150211Z">
         <seg>Jos tässä kohdassa on rasti, käännettyjen segmenttien taustaväri on keltainen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, untranslated segments are highlighted in violet.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T115451Z" creationid="pia" creationdate="20240213T115451Z">
+        <seg>Jos tässä kohdassa on rasti, kääntämättömät segmentit korostetaan violetilla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38779,6 +38835,14 @@ Tekstin korvaus tapahtuu projektin lähdekielisissä segmenteissä riippumatta s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text highlighting in alignments</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T115459Z" creationid="pia" creationdate="20240213T115459Z">
+        <seg>Kohdistettujen tekstien korostus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text in source segments that matches is shown in italics.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T095209Z" creationid="piav" creationdate="20191030T095209Z">
@@ -39040,6 +39104,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T160855Z" creationid="piav" creationdate="20221102T160855Z">
         <seg>Seuraavaksi avautuu &lt;l0/&gt;-valintaikkuna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; setting allows you to define strings that OmegaT will highlight in the aligned documents.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T115532Z" creationid="pia" creationdate="20240213T115532Z">
+        <seg>Valitsemalla &lt;l0/&gt;-asetuksen voit määrittää ne kohdistettujen tiedostojen stringit, jotka OmegaT korostaa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41565,6 +41637,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The selected fuzzy match is highlighted in &lt;e0&gt;bold&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T115603Z" creationid="pia" creationdate="20240213T115603Z">
+        <seg>Valittu sumea osuma näkyy &lt;e0&gt;lihavoituna&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T105724Z" creationid="piav" creationdate="20191208T105724Z">
@@ -43491,6 +43571,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20170930T063704Z" creationid="PiaVee" creationdate="20170930T063430Z">
         <seg>Tätä käyttöohjekirjaa ei kuitenkaan olisi olemassa ilman monen ihmisen apua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This marking has priority over &lt;g0&gt;Highlight Translated Segments&lt;/g0&gt; and &lt;g1&gt;Highlight Untranslated Segments&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T115643Z" creationid="pia" creationdate="20240213T115643Z">
+        <seg>Tämä merkintä on etusijalla valintoihin &lt;g0&gt;Merkitse käännetyt segmentit&lt;/g0&gt; ja &lt;g1&gt;Merkitse kääntämättömät segmentit&lt;/g1&gt; nähden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55660,6 +55748,14 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T083302Z" creationid="piav" creationdate="20191128T083302Z">
         <seg>projektin pääkansiosta (ks. yllä) löytyy kolme TMX-tiedostoa, joissa on lähdetiedostoon kopioitujen asiakirjojen käännökset valitulla kieliparilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the currently selected translation is highlighted.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T115723Z" creationid="pia" creationdate="20240213T115723Z">
+        <seg>senhetkinen valittu käännös on korostettu.</seg>
       </tuv>
     </tu>
     <tu>
