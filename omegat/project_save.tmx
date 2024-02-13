@@ -20434,6 +20434,14 @@ näkyvät.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you find through your analysis that OmegaT communicates with an online service that you have not set, that would be a bug and we would ask you to report it.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T190515Z" creationid="pia" creationdate="20240213T190449Z">
+        <seg>Jos huomaat, että OmegaT viestii sellaisen online-palvelun kanssa, jota et ole ottanut käyttöön, kyseessä on ohjelmistovirhe ja pyydämme sinua raportoimaan sen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have TransTips option activated (&lt;g0&gt;Options → TransTips&lt;/g0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T112136Z" creationid="piav" creationdate="20191208T111333Z">
@@ -42469,6 +42477,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The translatable data (ie.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T190549Z" creationid="pia" creationdate="20240213T190522Z">
+        <seg>Käännettäviin tietoihin (eli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translated file language entered is invalid!</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T133710Z" creationid="piav" creationdate="20190521T133710Z">
@@ -56180,6 +56196,14 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240213T115723Z" creationid="pia" creationdate="20240213T115723Z">
         <seg>senhetkinen valittu käännös on korostettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the files you are translating) are accessed to display the translatable contents to the user.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T190614Z" creationid="pia" creationdate="20240213T190542Z">
+        <seg>tiedostoihin, joita olet kääntämässä) ollaan yhteydessä </seg>
       </tuv>
     </tu>
     <tu>
