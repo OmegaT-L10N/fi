@@ -8432,6 +8432,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Blank source segments sometimes act as placeholders for parts that do not exist in the source language but are necessary in the target language.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T194228Z" creationid="pia" creationdate="20240213T194228Z">
+        <seg>Tyhjät lähdesegmentit toimivat toisinaan paikkamerkkeinä: ne osoittavat kohtia, joita ei ole lähdekielessä, mutta jotka ovat välttämättömiä käännöksessä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Block the creation of translated files with tag &amp;issues</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230514T123300Z" creationid="piav" creationdate="20230510T140706Z">
@@ -45612,6 +45620,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate blank source segments</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T194103Z" creationid="pia" creationdate="20240213T194103Z">
+        <seg>Käännä tyhjät lähdesegmentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate the file</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T113158Z" creationid="piav" creationdate="20191202T113158Z">
@@ -47556,6 +47572,22 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T074946Z" creationid="piav" creationdate="20191030T074843Z">
         <seg>Käytä tätä toimintoa, kun olet irrottanut, siirtänyt tai piilottanut yhden tai useampia osia, etkä pysty palauttamaan toivottua asettelua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this option to leave a non translated segment blank.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T194057Z" creationid="pia" creationdate="20240213T194057Z">
+        <seg>Tämän valinnan avulla voit jättää kääntämättömän segmentin tyhjäksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this option to provide a translation based on the associated comments.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T194344Z" creationid="pia" creationdate="20240213T194344Z">
+        <seg>Tämän valinnan avulla voit luoda annettujen kommenttien mukaisen käännöksen.</seg>
       </tuv>
     </tu>
     <tu>
