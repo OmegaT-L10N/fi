@@ -28414,6 +28414,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not collect any user information and does not transmit any information without the explicit consent of the user.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T185712Z" creationid="pia" creationdate="20240213T185712Z">
+        <seg>OmegaT ei kerää käyttäjätietoja eikä välitä mitään tietoja ilman käyttäjän erillistä suostumusta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have access to the remote repository: verify your connection or your credentials.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T165128Z" creationid="piav" creationdate="20230511T165101Z">
@@ -31730,6 +31738,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T083758Z" creationid="piav" creationdate="20191022T083758Z">
         <seg>Ensisijainen sanasto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Privacy Policy</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T185632Z" creationid="pia" creationdate="20240213T185459Z">
+        <seg>Yksityisyyden suoja</seg>
       </tuv>
     </tu>
     <tu>
