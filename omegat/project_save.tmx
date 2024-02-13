@@ -8200,6 +8200,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Based on your choices, we recommend you use:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T181942Z" creationid="pia" creationdate="20240213T181942Z">
+        <seg>Valintojesi perusteella suosittelemme sinulle seuraavaa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bashkir</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T173642Z" creationid="PiaVee" creationdate="20171014T173642Z">
@@ -28478,6 +28486,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT has been successfully installed on Windows (all versions from Windows 8 onwards), macOS and Linux.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T182026Z" creationid="pia" creationdate="20240213T182026Z">
+        <seg>OmegaT:n voi asentaa niin Windowsiin (versiosta 8 alkaen), Maciin kuin Linuxiinkin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T101302Z" creationid="PiaVee" creationdate="20171015T101302Z">
@@ -47924,6 +47940,14 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171219T102650Z" creationid="PiaVee" creationdate="20171219T102650Z">
         <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Weekly Builds</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T182041Z" creationid="pia" creationdate="20240213T182041Z">
+        <seg>Viikoittaiset versiot</seg>
       </tuv>
     </tu>
     <tu>
