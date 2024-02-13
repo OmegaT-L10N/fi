@@ -13189,6 +13189,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display TBX glossaries context description (TBX 2)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201656Z" creationid="pia" creationdate="20240213T201656Z">
+        <seg>Näytä TBX-sanalistojen kontekstitiedot (TBX 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display all &amp;source segments in bold</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T122833Z" creationid="piav" creationdate="20190916T122814Z">
@@ -17925,6 +17933,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries pane</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201625Z" creationid="pia" creationdate="20240213T201625Z">
+        <seg>Sanalistaruutu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries/Use Fuzzy Matching</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240213T201547Z" creationid="pia" creationdate="20240213T201547Z">
@@ -21819,6 +21835,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T085942Z" creationid="piav" creationdate="20191127T085942Z">
         <seg>Merkitse sekä ensimmäinen toistuva segmentti että muut toistot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include the glossaries located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201918Z" creationid="pia" creationdate="20240213T201918Z">
+        <seg>Huomioi &lt;l0/&gt;-kansiossa olevat sanalistat</seg>
       </tuv>
     </tu>
     <tu>
@@ -36200,6 +36224,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a layout for the glossaries pane contents.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201823Z" creationid="pia" creationdate="20240213T201823Z">
+        <seg>Valitse, miltä sanalistaruudun sisältö näyttää.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a plugin file (*.jar, *.zip)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T151108Z" creationid="piav" creationdate="20230511T151108Z">
@@ -46729,8 +46761,8 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       <tuv lang="en">
         <seg>Underlines source terms that have a match in the glossaries.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T151150Z" creationid="piav" creationdate="20221102T151150Z">
-        <seg>Lähdekieliset termit, joille löytyy vastaavuus sanastosta, alleviivataan.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201617Z" creationid="piav" creationdate="20221102T151150Z">
+        <seg>Lähdekieliset termit, joille löytyy vastaavuus sanalistasta, alleviivataan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51758,6 +51790,14 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T125302Z" creationid="piav" creationdate="20191208T125257Z">
         <seg>sisältää senhetkisen projektin senhetkiset tilastot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>contains the glossaries</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201846Z" creationid="pia" creationdate="20240213T201846Z">
+        <seg>sisältää sanalistat</seg>
       </tuv>
     </tu>
     <tu>
