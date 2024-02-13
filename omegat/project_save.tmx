@@ -42870,6 +42870,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These 4 items are a good summary but you can also read the &lt;a0&gt;whole license&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T185449Z" creationid="pia" creationdate="20240213T185449Z">
+        <seg>Nämä neljä kohtaa tiivistävät lisenssin hyvin, mutta voit myös lukea &lt;a0&gt;koko lisenssitekstin&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These are the files present in the /source folder in a format that OmegaT is able to recognize.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191212T075226Z" creationid="piav" creationdate="20191212T075226Z">
@@ -56116,6 +56124,38 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240213T115723Z" creationid="pia" creationdate="20240213T115723Z">
         <seg>senhetkinen valittu käännös on korostettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the freedom to change the software to suit your needs,</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T185313Z" creationid="pia" creationdate="20240213T185237Z">
+        <seg>vapaus muuttaa ohjelmaa tarpeittesi mukaan,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the freedom to share the changes you make.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T185330Z" creationid="pia" creationdate="20240213T185330Z">
+        <seg>vapaus jakaa tekemiäsi muutoksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the freedom to share the software with your friends and neighbors, and</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T185318Z" creationid="pia" creationdate="20240213T185310Z">
+        <seg>vapaus jakaa ohjelma ystäviesi ja naapureidesi kanssa sekä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the freedom to use the software for any purpose,</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T185149Z" creationid="pia" creationdate="20240213T185149Z">
+        <seg>vapaus käyttää ohjelmaa mihin tahansa tarkoitukseen,</seg>
       </tuv>
     </tu>
     <tu>
