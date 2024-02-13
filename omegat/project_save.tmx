@@ -30744,6 +30744,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please check your project configuration and translations.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T162143Z" creationid="pia" creationdate="20240213T162143Z">
+        <seg>Tarkasta projektin määritykset ja käännökset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please check your repository has correct commits and files.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T122112Z" creationid="piav" creationdate="20221102T122112Z">
