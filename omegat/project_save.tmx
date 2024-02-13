@@ -7884,6 +7884,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto replace plural specification</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T194435Z" creationid="pia" creationdate="20240213T194435Z">
+        <seg>Korvaa monikkomääritelmä automaattisesti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-Completion</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T122446Z" creationid="PiaVee" creationdate="20171015T122446Z">
@@ -20911,6 +20919,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore PO header</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T194355Z" creationid="pia" creationdate="20240213T194355Z">
+        <seg>Ohita PO-otsake</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T081708Z" creationid="piav" creationdate="20191030T081511Z">
@@ -30534,6 +30550,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Override the plural specification in the header and use the target language default.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T194513Z" creationid="pia" creationdate="20240213T194513Z">
+        <seg>Ohita otsakkeen monikkomääritelmä ja käytä sen sijaan kohdekielistä oletusta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Overwrite Mode</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T101947Z" creationid="piav" creationdate="20190521T101902Z">
@@ -30610,6 +30634,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T082546Z" creationid="piav" creationdate="20191030T082546Z">
         <seg>PO-tiedostot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PO files that use &lt;l0&gt;msgid&lt;/l0&gt; as the source container and expect the translation to be put in &lt;l1&gt;msgstr&lt;/l1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T195038Z" creationid="pia" creationdate="20240213T195038Z">
+        <seg>PO-tiedostojen lähdekonttina on &lt;l0&gt;msgid&lt;/l0&gt; ja käännöksen oletuskonttina &lt;l1&gt;msgstr&lt;/l1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39862,6 +39894,14 @@ Pia Vinkki, FLOSSLATION Oy Ab</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The PO header will not be displayed for translation.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T194423Z" creationid="pia" creationdate="20240213T194423Z">
+        <seg>PO-otsaketta ei näytetä käännettävän tekstin joukossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Project Manager should check with the translator that the statistics are identical on both sides (server side and translator side).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T120640Z" creationid="piav" creationdate="20191128T120331Z">
@@ -42823,8 +42863,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="en">
         <seg>Their contents will not be displayed for translation.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T080857Z" creationid="pia" creationdate="20221114T080857Z">
-        <seg>Silloin kyseisten tiedostotyyppien sisältöä ei näy käännettävä tekstin joukossa.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T194427Z" creationid="pia" creationdate="20221114T080857Z">
+        <seg>Silloin kyseisten tiedostotyyppien sisältöä ei näy käännettävän tekstin joukossa.</seg>
       </tuv>
     </tu>
     <tu>
