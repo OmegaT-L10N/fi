@@ -13869,6 +13869,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download the &lt;s0&gt; &lt;e1&gt;Cross-platform without JRE&lt;/e1&gt; &lt;/s0&gt; version.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T183158Z" creationid="pia" creationdate="20240213T183139Z">
+        <seg>Lataa &lt;s0&gt;&lt;e1&gt;Käyttöliittymästä riippumaton versio ilman JRE:tä&lt;/e1&gt;&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T110315Z" creationid="PiaVee" creationdate="20171219T101808Z">
@@ -18957,6 +18965,14 @@ lopullisesti.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T142129Z" creationid="piav" creationdate="20190916T142129Z">
         <seg>IBM Watson ei saatavilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IBM provides JREs for Linux PowerPC at &lt;a0&gt;https://developer.ibm.com/languages/java/semeru-runtimes/downloads/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T183258Z" creationid="pia" creationdate="20240213T183258Z">
+        <seg>Osoitteesta &lt;a0&gt;https://developer.ibm.com/languages/java/semeru-runtimes/downloads/&lt;/a0&gt; löytyy IBM:n tarjoamia JRE-ympäristöjä Linux PowerPC:lle </seg>
       </tuv>
     </tu>
     <tu>
@@ -29406,6 +29422,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once you have done this, you can delete the downloaded file as it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T183038Z" creationid="pia" creationdate="20240213T183038Z">
+        <seg>Kun olet tehnyt tämän, voit poistaa lataamasi tiedoston, sillä sitä ei enää tarvita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once you have done this, you can delete the downloaded package as it is no longer needed.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T160606Z" creationid="piav" creationdate="20230511T160533Z">
@@ -39055,6 +39079,14 @@ Tekstin korvaus tapahtuu projektin lähdekielisissä segmenteissä riippumatta s
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T162354Z" creationid="piav" creationdate="20230511T162255Z">
         <seg>Niitä ovat kaikki edellä kuvatut käyttöjärjestelmät sekä käyttöjärjestelmät, joita varten ei ole omaa OmegaT-pakettiaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That includes the platforms described above, but also the platforms for which specific packages are not provided.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T183130Z" creationid="pia" creationdate="20240213T183130Z">
+        <seg>Niitä ovat kaikki edellä kuvatut käyttöjärjestelmät sekä käyttöjärjestelmät, joita varten ei ole omia OmegaT-pakettejaan.</seg>
       </tuv>
     </tu>
     <tu>
