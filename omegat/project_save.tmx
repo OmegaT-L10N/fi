@@ -10480,6 +10480,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments in an HTML file are generally addressed to developers.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T193351Z" creationid="pia" creationdate="20240213T193351Z">
+        <seg>HTML-tiedoston kommentit on yleensä osoitettu ohjelmistokehittäjille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commit Source Files</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T165820Z" creationid="PiaVee" creationdate="20171015T102423Z">
