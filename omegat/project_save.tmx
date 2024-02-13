@@ -5994,8 +5994,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>Access to machine translation services</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240213T185853Z" creationid="pia" creationdate="20240213T185853Z">
-        <seg>Pääsy konekäännöspalveluihin</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T190020Z" creationid="pia" creationdate="20240213T185853Z">
+        <seg>pääsyn konekäännöspalveluihin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access to team projects</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T190028Z" creationid="pia" creationdate="20240213T190018Z">
+        <seg>pääsyn ryhmäprojekteihin</seg>
       </tuv>
     </tu>
     <tu>
@@ -28290,6 +28298,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20231030T204913Z" creationid="piav" creationdate="20231030T204913Z">
         <seg>OmegaT tarjoaa myös komentorivipohjaisen kohdistustilan, jota voi käyttää avaimiin perustuvissa muodoissa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT automatically checks the availability of newer versions on its development server without transmitting any user information, and the user can easily opt out in the Preferences settings.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T190302Z" creationid="pia" creationdate="20240213T190218Z">
+        <seg>OmegaT tarkastaa automaattisesti, onko kehityspalvelimella saatavissa uudempia ohjelmaversioita, mutta näin tehdessään se ei välitä mitään käyttäjätietoja, ja käyttäjän on helppoa poistaa tämä toiminto käytöstä ohjelman asetuksissa.</seg>
       </tuv>
     </tu>
     <tu>
