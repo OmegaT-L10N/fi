@@ -18389,6 +18389,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Having untranslated contents in the translated files sometimes creates compatibility issues.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T193712Z" creationid="pia" creationdate="20240213T193712Z">
+        <seg>Se, että käännetyissä tiedostoissa on sisältöä, jota ei ole käännetty, johtaa toisinaan yhteensopivuusongelmiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He&amp;aders</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065430Z" creationid="piav" creationdate="20190521T180825Z">
@@ -20235,6 +20243,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T075836Z" creationid="piav" creationdate="20191211T075836Z">
         <seg>Jos tätä versiota ei ole saatavilla, voit yrittää &lt;a0&gt;ladata version, jossa ei ole allekirjoitusta&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If unchecked, the comments are displayed as tags.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T193438Z" creationid="pia" creationdate="20240213T193438Z">
+        <seg>Ilman valintaa kommentit näkyvät tägeinä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33386,6 +33402,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove untranslated strings in the target files</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T193548Z" creationid="pia" creationdate="20240213T193548Z">
+        <seg>Poista kohdetiedostoista stringit, joita ei ole käännetty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Removing an entire tag remains possible in that case, by using Ctrl+Backspace/Delete or by selecting it completely (Ctrl+Shift+Left/Right) then deleting it (Delete or Ctrl+X).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T075852Z" creationid="piav" creationdate="20191127T075307Z">
@@ -39175,6 +39199,14 @@ Tekstin korvaus tapahtuu projektin lähdekielisissä segmenteissä riippumatta s
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240213T115459Z" creationid="pia" creationdate="20240213T115459Z">
         <seg>Kohdistettujen tekstien korostus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text in HTML comments (between &lt;l0&gt;&lt;!--&lt;/l0&gt; and &lt;l1&gt;--&gt;&lt;/l1&gt;) are not copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T193541Z" creationid="pia" creationdate="20240213T193541Z">
+        <seg>HTML-kielen (merkintöjen &lt;l0&gt;&lt;!--&lt;/l0&gt; and &lt;l1&gt;--&gt;&lt;/l1&gt; välissä olevia)kommenttitekstejä ei kopioida käännettyyn tiedostoon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47500,6 +47532,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T074946Z" creationid="piav" creationdate="20191030T074843Z">
         <seg>Käytä tätä toimintoa, kun olet irrottanut, siirtänyt tai piilottanut yhden tai useampia osia, etkä pysty palauttamaan toivottua asettelua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this option to remove them.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T193412Z" creationid="pia" creationdate="20240213T193412Z">
+        <seg>Tällä valinnalla saat kommentit poistettua.</seg>
       </tuv>
     </tu>
     <tu>
