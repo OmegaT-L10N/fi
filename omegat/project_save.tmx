@@ -11115,6 +11115,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the folder to a suitable location (e.g. &lt;c3&gt;Applications&lt;/c3&gt;).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T182914Z" creationid="pia" creationdate="20240213T182914Z">
+        <seg>Kopioi kansio sopivaan paikkaan (esim. kohtaan &lt;c3&gt;Apit&lt;/c3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the folder to a suitable location (e.g. &lt;f3&gt;Applications&lt;/f3&gt;).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T163929Z" creationid="piav" creationdate="20230511T160430Z">
@@ -15304,6 +15312,14 @@ kukaan ei kuule.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T134318Z" creationid="piav" creationdate="20190916T134030Z">
         <seg>Tapahtuma: projektimuutos - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Eventually, drag and drop &lt;c0&gt;OmegaT.app&lt;/c0&gt; onto the Dock to easily access it.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T183024Z" creationid="pia" creationdate="20240213T183024Z">
+        <seg>Voit myös raahata &lt;c0&gt;OmegaT.app&lt;/c0&gt;-kuvakkeen Dockiin, josta sitä on helppo päästä käyttämään.</seg>
       </tuv>
     </tu>
     <tu>
