@@ -6784,6 +6784,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the parameters located in a Project Folder will apply to that project regardless of which version of OmegaT opens it.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T184716Z" creationid="pia" creationdate="20240213T184716Z">
+        <seg>Riippumatta siitä, millä OmegaT-versiolla avaat käännösprojektin, projekti noudattaa projektikansiossa olevia parametrejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the parameters located in the Configuration Folder will be shared unless you specify a different configuration folder with the &lt;c0&gt;--config-dir=&lt;path&gt;&lt;/c0&gt; option from the OmegaT options on the command line .</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240213T184546Z" creationid="pia" creationdate="20240213T184546Z">
@@ -8236,6 +8244,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T173642Z" creationid="PiaVee" creationdate="20171014T173642Z">
         <seg>baškiiri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Basically, that means that you have:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T185135Z" creationid="pia" creationdate="20240213T185135Z">
+        <seg>Sen perusteella sinulla on</seg>
       </tuv>
     </tu>
     <tu>
@@ -28705,6 +28721,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T095313Z" creationid="piav" creationdate="20191211T095313Z">
         <seg>OmegaT on lisensoitu GNU General Public Licencen (GNU GPL) eli GNU-hankkeen yleisellä lisenssillä, jonka julkaisija on Free Software Foundation. Lisenssin versionumero on 3 tai (niin halutessasi) sitä uudempi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is distributed under the GPL v3 license agreement.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T185049Z" creationid="pia" creationdate="20240213T185049Z">
+        <seg>OmegaT on lisensoitu GPLv3-lisenssillä.</seg>
       </tuv>
     </tu>
     <tu>
