@@ -5808,6 +5808,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abort restart, because launcher or java executable is not found.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T162920Z" creationid="pia" creationdate="20240213T162920Z">
+        <seg>Uudellen käynnistys keskeytyy, koska käynnistintä tai java-suoritettavaa ei löytynyt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abort...</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T173358Z" creationid="piav" creationdate="20230511T173358Z">
