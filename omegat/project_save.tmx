@@ -18413,6 +18413,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Having untranslated contents in the translated files sometimes create compatibility issues.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T200419Z" creationid="pia" creationdate="20240213T200419Z">
+        <seg>Se, että käännetyissä tiedostoissa on sisältöä, jota ei ole käännetty, johtaa toisinaan yhteensopivuusongelmiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Having untranslated contents in the translated files sometimes creates compatibility issues.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240213T193712Z" creationid="pia" creationdate="20240213T193712Z">
@@ -23290,6 +23298,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java 8 requires ISO-8859-1 encoding and uses Unicode literals for characters outside that character set.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T200742Z" creationid="pia" creationdate="20240213T200501Z">
+        <seg>Java 8 vaatii ISO-8859-1-merkistökoodauksen ja käyttää sen ulkopuolisista merkeistä Unicode-literaaleja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java Properties XML</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T105538Z" creationid="piav" creationdate="20190527T105451Z">
@@ -23310,6 +23326,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190523T174121Z" creationid="piav" creationdate="20190523T174121Z">
         <seg>Java-resurssinippujen suodattimen asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Java Resource bundle</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T200427Z" creationid="pia" creationdate="20240213T200427Z">
+        <seg>Java-resurssiniput</seg>
       </tuv>
     </tu>
     <tu>
