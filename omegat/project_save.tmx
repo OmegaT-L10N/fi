@@ -7410,6 +7410,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any paragraph matching the regular expression is ignored while loading and is not displayed for translation.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T192552Z" creationid="pia" creationdate="20240213T192552Z">
+        <seg>Kun projekti latautuu, kaikki säännöllistä lauseketta vastaavat kappaleet jätetään huomiotta eivätkä ne näy käännettävänä tekstinä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any text selected in the &lt;l0/&gt; pane will have priority over the selected match and be inserted at the cursor position.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T125151Z" creationid="piav" creationdate="20221102T124353Z">
@@ -18475,8 +18483,8 @@ lopullisesti.</seg>
       <tuv lang="en">
         <seg>Here, you can decide whether to add or modify the declaration of the target file</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T145714Z" creationid="pia" creationdate="20221114T145651Z">
-        <seg>Tässä kohdassa voit päättää, lisätäänkö kohdetiedostoon maininta merkistökoodauksesta tai onko mainintaa syytä muokata</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T192705Z" creationid="pia" creationdate="20221114T145651Z">
+        <seg>Tässä kohdassa voit päättää, lisätäänkö kohdetiedostoon maininta merkistökoodauksesta tai onko maininta</seg>
       </tuv>
     </tu>
     <tu>
@@ -50876,8 +50884,8 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
       <tuv lang="en">
         <seg>always, based on the file filter settings,</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T145729Z" creationid="pia" creationdate="20221114T145710Z">
-        <seg>aina, suodatinasetusten mukaisesti,</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T192722Z" creationid="pia" creationdate="20221114T145710Z">
+        <seg>muokata aina, suodatinasetusten mukaisesti,</seg>
       </tuv>
     </tu>
     <tu>
