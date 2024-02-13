@@ -390,7 +390,7 @@
       <tuv lang="en">
         <seg>&amp;Allow blank target segments</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T131903Z" creationid="piav" creationdate="20230510T131903Z">
+      <tuv lang="fi" changeid="pia" changedate="20240213T193852Z" creationid="piav" creationdate="20230510T131903Z">
         <seg>Kohdesegmentit voivat olla tyhjiä</seg>
       </tuv>
     </tu>
@@ -6836,6 +6836,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230514T123235Z" creationid="piav" creationdate="20190916T104323Z">
         <seg>Salli tägien muokkaus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allow blank target segments</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T193917Z" creationid="pia" creationdate="20240213T193818Z">
+        <seg>Kohdesegmentit voivat olla tyhjiä</seg>
       </tuv>
     </tu>
     <tu>
@@ -28358,6 +28366,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT always reproduces the source contents when a segment is not provided.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T194029Z" creationid="pia" creationdate="20240213T194029Z">
+        <seg>Kun segmentissä ei ole käännöstekstiä, OmegaT toistaa kohdan lähdekielisen tekstin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically checks the availability of newer versions on its development server without transmitting any user information, and the user can easily opt out in the Preferences settings.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240213T190302Z" creationid="pia" creationdate="20240213T190218Z">
@@ -40799,6 +40815,14 @@ nykyinen kansio.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T131516Z" creationid="piav" creationdate="20230425T131516Z">
         <seg>Oletusasetuksensa mukaisesti suodatin tarkistaa Javan yksinkertaiset MessageFormat-muodot (esim. {0}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The filter checks printf variables ('%s', etc.) by default.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T193749Z" creationid="pia" creationdate="20240213T193749Z">
+        <seg>Suodatin tarkistaa oletusarvoisesti printf-muuttujat ('%s' jne.).</seg>
       </tuv>
     </tu>
     <tu>
