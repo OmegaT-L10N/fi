@@ -5992,6 +5992,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access to machine translation services</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T185853Z" creationid="pia" creationdate="20240213T185853Z">
+        <seg>Pääsy konekäännöspalveluihin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Accessing the TaaS service</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T110746Z" creationid="PiaVee" creationdate="20171014T110746Z">
@@ -21347,6 +21355,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T132157Z" creationid="piav" creationdate="20191030T132157Z">
         <seg>Vaikka nimityksessä &lt;e0&gt;"maist. May Steri"&lt;/e0&gt; on piste, sitä ei pitäisi jakaa kahdeksi segmentiksi. Siksi dipl. ins (sekä dipl. ins, toht, prof jne.) ja sitä seuraava piste tulisi kirjoittaa poikkeussäännöksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In that case, OmegaT shares information with online services:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T190005Z" creationid="pia" creationdate="20240213T185837Z">
+        <seg>Tällöin OmegaT jakaa seuraavat tiedot nettipalvelun kanssa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -42537,6 +42553,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T090057Z" creationid="piav" creationdate="20191211T090057Z">
         <seg>OmegaT:n käsikirja PDF-tiedostona ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The user or their project manager can set OmegaT to use online services.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T185812Z" creationid="pia" creationdate="20240213T185812Z">
+        <seg>Käyttäjä tai tämän projektipäällikkö voi määritellä OmegaT:n käyttämään internetpohjaisia palveluita.</seg>
       </tuv>
     </tu>
     <tu>
