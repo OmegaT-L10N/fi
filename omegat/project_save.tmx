@@ -4454,6 +4454,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 11 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T181705Z" creationid="pia" creationdate="20240213T181705Z">
+        <seg>&lt;i1&gt;OmegaT:n voi asentaa mihin tahansa käyttöjärjestelmään, jossa Java Runtime Environment 11 toimii.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20201211T140331Z" creationid="piav" creationdate="20201211T140331Z">
@@ -12649,6 +12657,14 @@ onko sinun tehtävä vielä muuta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T081040Z" creationid="piav" creationdate="20190522T081040Z">
         <seg>Lisätietoja ei ole saatavilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Detect a wrong character encoding or wrong character in specified encoding when output to translation file.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T181618Z" creationid="pia" creationdate="20240213T181618Z">
+        <seg>Käännöstiedostoon viennin yhteydessä selvisi, että merkistökoodaus on väärin tai että kyseisessä merkistökoodauksessa on väärä merkki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24262,8 +24278,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Links are provided below to the various versions of OmegaT.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T072729Z" creationid="piav" creationdate="20191211T072729Z">
-        <seg>Alla on linkkejö OmegaT:n eri versioihin.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T181640Z" creationid="piav" creationdate="20191211T072729Z">
+        <seg>Alla on linkkejä OmegaT:n eri versioihin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28274,6 +28290,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210414T162123Z" creationid="piav" creationdate="20210414T162123Z">
         <seg>Tällä hetkellä OmegaT vaatii JRE-version 1.8 tai uudemman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT currently requires version 11 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T181716Z" creationid="pia" creationdate="20240213T181716Z">
+        <seg>Tällä hetkellä OmegaT vaatii JRE-version 11 tai uudemman.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39000,6 +39024,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T133513Z" creationid="piav" creationdate="20190916T133513Z">
         <seg>Määrätyn asetuskansion sijaan käytössä on nykyinen kansio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will have usually been tested for some time to eliminate any bugs.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T181921Z" creationid="pia" creationdate="20240213T181921Z">
+        <seg>OmegaT:n standardiversioon kuuluu täydellinen käyttöopas (ainakin englanniksi), jota on yleensä testattu jo jonkin aikaa ja josta löytyneet virheet on korjattu.</seg>
       </tuv>
     </tu>
     <tu>
