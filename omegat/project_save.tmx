@@ -37743,6 +37743,14 @@ takaisin samaan kansioon tai sen alikansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Statistics output formats</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T163608Z" creationid="pia" creationdate="20240213T163608Z">
+        <seg>Miten tilastotiedot näytetään</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Status bar</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T113730Z" creationid="piav" creationdate="20191208T113730Z">
@@ -39048,6 +39056,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T140902Z" creationid="pia" creationdate="20221114T140902Z">
         <seg>Segmentoinnissa kappaleen vaihdon merkkinä käytetään HTML-tägiä &lt;br&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;c0&gt;Microsoft Office Open XML (legacy filter)&lt;/c0&gt; is the original OmegaT filter.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T163640Z" creationid="pia" creationdate="20240213T163640Z">
+        <seg>&lt;c0&gt;Microsoft Office Open XML (vanha suodatin)&lt;/c0&gt; on OmegaT:n alkuperäinen suodatin.</seg>
       </tuv>
     </tu>
     <tu>
