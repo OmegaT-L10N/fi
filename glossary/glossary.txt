@@ -678,9 +678,12 @@ Regular expression	Säännöllinen lauseke	EI: säännönMUKAINEN lauseke
 Advanced Options	lisäasetukset
 Subtitles	tekstitys
 Subtitles	tekstitys
-Glossary files folder	termilistatiedostojen kansio
-Writeable glossary file folder	kirjoituskelpoisen termilistan kansio
-Writeable glossary	kirjoituskelpoinen termilista
+Glossary files folder	sanalistatiedostojen kansio
+glossary folder	sanalistojen kansio
+glossary entry	sanalistan termi
+glossary matches	sanalistaosumat
+Writeable glossary file folder	kirjoituskelpoisen sanalistan kansio
+Writeable glossary	kirjoituskelpoinen sanalista
 domain	aihepiiri	Esimerkki käytöstä: TaaS-aihepiiri
 TaaS domain	TaaS-aihepiiri
 Whitespace	Tyhjätila
@@ -712,14 +715,14 @@ fuzzy Match	sumea osuma
 Git	Git
 team project	ryhmäprojekti
 Master Password	pääsalasana
-Glossary viewer	Sanaston esikatselu
+Glossary viewer	Sanalistan esikatselu
 form-feed character	sivunvaihdon merkki
 shortcut definition file	pikanäppäinten kuvaustiedosto
 modifier	muuntonäppäin	vaihto- ctrl- tai alt-näppäin
 modifier key	muuntonäppäin	vaihto- ctrl- tai alt-näppäin
 Non-Unique Segments	toistuvat segmentit
-spelling dictionaries	oikeinkirjoitussanastoja
-spelling dictionaries	oikeinkirjoitussanasto
+spelling dictionaries	oikeinkirjoitussanakirjoja
+spelling dictionaries	oikeinkirjoitussanakirja
 auto-populated	automaattisesti täytetty	EI: automaattinen täydennys (=autocomplete)
 Note:	Huom.:
 authenticated proxy server	todennettu välityspalvelin
