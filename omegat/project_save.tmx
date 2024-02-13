@@ -950,8 +950,8 @@
       <tuv lang="en">
         <seg>&amp;Glossaries</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230514T122534Z" creationid="PiaVee" creationdate="20171015T102704Z">
-        <seg>Sanastot</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201355Z" creationid="PiaVee" creationdate="20171015T102704Z">
+        <seg>Sanalistat</seg>
       </tuv>
     </tu>
     <tu>
@@ -5946,8 +5946,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>Access Project Contents/Glossaries</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T064254Z" creationid="piav" creationdate="20191023T062113Z">
-        <seg>Avaa projektin sisältö / Sanastot</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201537Z" creationid="piav" creationdate="20191023T062113Z">
+        <seg>Avaa projektin sisältö/sanalistat</seg>
       </tuv>
     </tu>
     <tu>
@@ -6700,6 +6700,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T081933Z" creationid="piav" creationdate="20190522T081933Z">
         <seg>Kaikki aihepiirit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All glossaries must be located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201513Z" creationid="pia" creationdate="20240213T201513Z">
+        <seg>Kaikkien sanalistojen on oltava &lt;l0/&gt;-kansiosta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17839,8 +17847,8 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossaries</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191022T070653Z" creationid="piav" creationdate="20191022T070653Z">
-        <seg>Sanastot</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201343Z" creationid="piav" creationdate="20191022T070653Z">
+        <seg>Sanalistat</seg>
       </tuv>
     </tu>
     <tu>
@@ -17869,6 +17877,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries are terminology files stored in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201330Z" creationid="pia" creationdate="20240213T201330Z">
+        <seg>Kirjoituskelpoinen sanalista löytyy &lt;l0/&gt;-kansiosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries are terminology files.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210414T164031Z" creationid="piav" creationdate="20210414T164031Z">
@@ -17879,16 +17895,16 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossaries folder:</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T125449Z" creationid="piav" creationdate="20230425T125449Z">
-        <seg>Sanastojen kansio:</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201404Z" creationid="piav" creationdate="20230425T125449Z">
+        <seg>Sanalistojen kansio:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Glossaries located in nested folders are also recognized.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210415T123742Z" creationid="piav" creationdate="20210415T123742Z">
-        <seg>Myös alikansioissa olevia sanastotiedostoja käytetään.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201521Z" creationid="piav" creationdate="20210415T123742Z">
+        <seg>Myös alikansioissa olevia sanalistatiedostoja käytetään.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17905,6 +17921,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220906T183321Z" creationid="piav" creationdate="20220906T183321Z">
         <seg>Sanastotiedostojen on oltava projektin &lt;f0&gt;/glossary&lt;/f0&gt;-kansiossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries/Use Fuzzy Matching</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201547Z" creationid="pia" creationdate="20240213T201547Z">
+        <seg>Sanalistat / Käytä sumeita osumia</seg>
       </tuv>
     </tu>
     <tu>
@@ -32850,6 +32874,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reference glossaries</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201440Z" creationid="pia" creationdate="20240213T201440Z">
+        <seg>Apuna olevat sanalistat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>References:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T115946Z" creationid="piav" creationdate="20190920T115946Z">
@@ -41135,6 +41167,14 @@ nykyinen kansio.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T054643Z" creationid="piav" creationdate="20191023T053936Z">
         <seg>Pikanäppäinten koko syntaksi merkitään kuten Oraclen Java 1.6 -dokumentaatiossa (sivun alaosassa): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The glossaries folder</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201445Z" creationid="pia" creationdate="20240213T201445Z">
+        <seg>Sanalistojen kansio</seg>
       </tuv>
     </tu>
     <tu>
