@@ -30640,16 +30640,16 @@ your home folder.</seg>
       <tuv lang="en">
         <seg>PO files that use &lt;l0&gt;msgid&lt;/l0&gt; as an ID code, use &lt;l1&gt;msgstr&lt;/l1&gt; as the source container and expect the translation to overwrite &lt;l2&gt;msgstr&lt;/l2&gt;</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240213T200013Z" creationid="pia" creationdate="20240213T195407Z">
-        <seg>PO-tiedostojen &lt;l0&gt;msgid&lt;/l0&gt; merkitsee ID-tunnusta, &lt;l2&gt;msgstr&lt;/l2&gt; on lähdekielinen kontti, ja käännös korvaa sen kohdekielisellä kontilla.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T200407Z" creationid="pia" creationdate="20240213T195407Z">
+        <seg>PO-tiedostojen &lt;l0&gt;msgid&lt;/l0&gt; merkitsee ID-tunnusta ja &lt;l2&gt;msgstr&lt;/l2&gt; käännettävää merkkijonoa. Merkkijono on aluksi lähdekielinen, käännös korvaa sen kohdekielisellä merkkijonolla.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>PO files that use &lt;l0&gt;msgid&lt;/l0&gt; as the source container and expect the translation to be put in &lt;l1&gt;msgstr&lt;/l1&gt;</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240213T195737Z" creationid="pia" creationdate="20240213T195038Z">
-        <seg>PO-tiedostojen &lt;l0&gt;msgid&lt;/l0&gt; merkitsee lähdekielistä konttia, käännös tulee &lt;l1&gt;msgstr&lt;/l1&gt;-konttiin.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T200300Z" creationid="pia" creationdate="20240213T195038Z">
+        <seg>PO-tiedostojen &lt;l0&gt;msgid&lt;/l0&gt; merkitsee lähdekielistä käännettävää merkkijonoa ja &lt;l1&gt;msgstr&lt;/l1&gt; käännettyä merkkijonoa.</seg>
       </tuv>
     </tu>
     <tu>
