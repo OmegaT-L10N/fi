@@ -37222,8 +37222,8 @@ takaisin samaan kansioon tai sen alikansioon.</seg>
       <tuv lang="en">
         <seg>Some applications require some Unicode literals to be kept.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240213T200947Z" creationid="pia" creationdate="20240213T200947Z">
-        <seg>Jotkut sovellulkset vaativat, ettei Unicode-literaaleja käännetä.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201026Z" creationid="pia" creationdate="20240213T200947Z">
+        <seg>Jotkut sovellukset vaativat, ettei Unicode-literaaleja käännetä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43214,6 +43214,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These options specify the way OmegaT creates tags from the XLIFF contents.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201256Z" creationid="pia" creationdate="20240213T201256Z">
+        <seg>Nämä valinnat määrittelevät sen, miten OmegaT luo XLIFF-sisällöstä tägejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These settings apply to OmegaT level, to all projects.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T142458Z" creationid="piav" creationdate="20191202T142458Z">
@@ -43871,6 +43879,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This filter is the original OmegaT XLIFF filter.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201153Z" creationid="pia" creationdate="20240213T201153Z">
+        <seg>Tämä on OmegaT:n alkuperäinen XLIFF-suodatin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder contains a number of log files.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221110T143208Z" creationid="pia" creationdate="20221110T143208Z">
@@ -44305,8 +44321,8 @@ palvelimelta.</seg>
       <tuv lang="en">
         <seg>This option allows for that.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240213T201000Z" creationid="pia" creationdate="20240213T201000Z">
-        <seg>Tämä valinta mahdollistaa </seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201126Z" creationid="pia" creationdate="20240213T201000Z">
+        <seg>Tämä valinta mahdollistaa sen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45760,6 +45776,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190913T085602Z" creationid="piav" creationdate="20190913T085602Z">
         <seg>Käännä seuraavat attribuutit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate the following elements</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201132Z" creationid="pia" creationdate="20240213T201132Z">
+        <seg>Käännä seuraavat elementit:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47758,6 +47782,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T151320Z" creationid="piav" creationdate="20191023T064801Z">
         <seg>Käyttäjän käsikirja…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User can select from three options, Previous and next paragraphs, &lt;trans unit&gt; ID, or &lt;trans-unit&gt; resname attribute when available, when unavailable, the ID will be used as a fallback.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201247Z" creationid="pia" creationdate="20240213T201247Z">
+        <seg>Tunnuksen voi valita kolmesta vaihtoehdosta: edelliset ja seuraavat kappaleet, &lt;trans-unit&gt;-ID-arvo tai &lt;trans-unit&gt;-resname-attribuutti, mikäli tämä on käytössä. Mikäli sitä ei ole, tunnuksena käytetään ID-arvoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50457,8 +50489,16 @@ mutta kuitenkin oikealla tavalla.</seg>
       <tuv lang="en">
         <seg>You should only use it to avoid compatibility issues with previous projects containing files you handled with that filter.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240213T192027Z" creationid="pia" creationdate="20240213T192027Z">
-        <seg>Sinun tulisi käyttää sitä ainoastaan välttääksesi yhteensopivuusongelmia sellaisten vanhojen projektien kanssa, joissa olet käsitellyt kyseistä suodatinta käyttäviä tiedostoja.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201222Z" creationid="pia" creationdate="20240213T192027Z">
+        <seg>Sinun tulisi käyttää sitä ainoastaan välttääksesi yhteensopivuusongelmia sellaisten vanhojen projektien kanssa, joissa olet käsitellyt tätä suodatinta käyttäviä tiedostoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should only use it to avoir compatibility issues with previous projects containing files you handled with that filter.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201215Z" creationid="pia" creationdate="20240213T201215Z">
+        <seg>Sinun tulisi käyttää sitä ainoastaan välttääksesi yhteensopivuusongelmia sellaisten vanhojen projektien kanssa, joissa olet käsitellyt tätä suodatinta käyttäviä tiedostoja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53414,6 +53454,14 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T161158Z" creationid="piav" creationdate="20191209T161158Z">
         <seg>if (project.getTranslationInfo(currSegment))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if checked, OmegaT changes the XLIFF target state to “needs-review-translation” instead of “translated”.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201309Z" creationid="pia" creationdate="20240213T201309Z">
+        <seg>Jos tässä kohdassa on rasti, OmegaT muuttaa XLIFF-kohdesegmentin tilaksi "needs-review-translation" (ei siis "translated").</seg>
       </tuv>
     </tu>
     <tu>
