@@ -23300,8 +23300,16 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Java 8 requires ISO-8859-1 encoding and uses Unicode literals for characters outside that character set.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240213T200742Z" creationid="pia" creationdate="20240213T200501Z">
-        <seg>Java 8 vaatii ISO-8859-1-merkistökoodauksen ja käyttää sen ulkopuolisista merkeistä Unicode-literaaleja.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T200816Z" creationid="pia" creationdate="20240213T200501Z">
+        <seg>Java 8 käyttää ISO-8859-1-merkistökoodausta ja käyttää sen ulkopuolisista merkeistä Unicode-literaaleja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Java 9 and above requires UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T200836Z" creationid="pia" creationdate="20240213T200804Z">
+        <seg>Java 9 ja uudemmat käyttävät UTF-8-merkistökoodausta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23557,6 +23565,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
         <seg>Keep Unico&amp;de literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230510T132826Z" creationid="piav" creationdate="20230510T132826Z">
+        <seg>Älä käännä Unicode-literaaleja (\uXXXX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep Unicode literals (\\uXXXX)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T200923Z" creationid="pia" creationdate="20240213T200923Z">
         <seg>Älä käännä Unicode-literaaleja (\uXXXX)</seg>
       </tuv>
     </tu>
@@ -37204,6 +37220,14 @@ takaisin samaan kansioon tai sen alikansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some applications require some Unicode literals to be kept.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T200947Z" creationid="pia" creationdate="20240213T200947Z">
+        <seg>Jotkut sovellulkset vaativat, ettei Unicode-literaaleja käännetä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some filters do not allow encoding modifications.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230510T133645Z" creationid="piav" creationdate="20230510T133645Z">
@@ -44279,6 +44303,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option allows for that.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T201000Z" creationid="pia" creationdate="20240213T201000Z">
+        <seg>Tämä valinta mahdollistaa </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option allows the tag validation in a batch mode.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T132418Z" creationid="piav" creationdate="20191201T132214Z">
@@ -44307,6 +44339,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T184432Z" creationid="piav" creationdate="20191202T184432Z">
         <seg>Tämä valinta näyttää &lt;u0&gt;kaksisuuntaisen tekstin ohjausmerkit&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option forces Java 8 compatibility.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T200909Z" creationid="pia" creationdate="20240213T200909Z">
+        <seg>Tämä valinta pakottaa käyttöön Java 8-yhteensopivuuden.</seg>
       </tuv>
     </tu>
     <tu>
