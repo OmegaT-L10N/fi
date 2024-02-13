@@ -6784,6 +6784,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the parameters located in the Configuration Folder will be shared unless you specify a different configuration folder with the &lt;c0&gt;--config-dir=&lt;path&gt;&lt;/c0&gt; option from the OmegaT options on the command line .</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T184546Z" creationid="pia" creationdate="20240213T184546Z">
+        <seg>Kaikki versiot käyttävät samoja määrityskansiossa olevia parametrejä, mutta voit myös käynnistää OmegaT:n komentoriviltä ja määrittää komennolla &lt;c0&gt;--config-dir=&lt;kansion polku&gt;&lt;/c0&gt; tavallisesta poikkeavan määrityskansion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the tags that are marked with &lt;c0&gt;translate="no"&lt;/c0&gt; will be ignored.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="pia" creationdate="20221114T145148Z">
@@ -6916,6 +6924,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T133212Z" creationid="piav" creationdate="20221102T133212Z">
         <seg>Lähes kaikki Kirjaimet Pienaakkosilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alongside an existing version</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T183938Z" creationid="pia" creationdate="20240213T183938Z">
+        <seg>Asenna olemassa olevan version rinnalle</seg>
       </tuv>
     </tu>
     <tu>
@@ -39252,6 +39268,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;c0&gt;plugins&lt;/c0&gt; and &lt;c1&gt;scripts&lt;/c1&gt; folders might be overwritten, so you may want to create a backup before upgrading.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T183917Z" creationid="pia" creationdate="20240213T183917Z">
+        <seg>Päivityksen yhteydessä &lt;c0&gt;plugins&lt;/c0&gt;- ja &lt;c1&gt;scripts&lt;/c1&gt;-kansioiden sisältö saattaa muuttua, joten on hyvä idea varmuuskopioida kansiot ennen päivitystä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;e0&gt;omegat&lt;/e0&gt; subfolder contains at least one and possibly several other files.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T124851Z" creationid="piav" creationdate="20191208T124851Z">
@@ -44215,6 +44239,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T111550Z" creationid="piav" creationdate="20191127T111421Z">
         <seg>Tällöin käännösten tila muuttuu ja niistä tulee "kääntämättömiä", sillä segmentit eivät enää vastaa projektin muistissa olevia segmenttejä, vaikka alkuperäinen käännös onkin siellä tallessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will enable you to keep any number of versions side-by-side, which you may wish to do until you feel comfortable with the new version.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T184042Z" creationid="pia" creationdate="20240213T184042Z">
+        <seg>Tämä mahdollistaa sen, että voit pitää useita versioita koneellasi rinnakkain, esimerkiksi siihen saakka, kunnes olet oppinut käyttämään ohjelman uutta versiota.</seg>
       </tuv>
     </tu>
     <tu>
