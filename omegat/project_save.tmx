@@ -28865,6 +28865,14 @@ käynnistettäväksi.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT projects are &lt;s2&gt; &lt;e3&gt;not&lt;/e3&gt; &lt;/s2&gt; stored inside OmegaT.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T183440Z" creationid="pia" creationdate="20240213T183440Z">
+        <seg>OmegaT-projekteja &lt;s2&gt;&lt;e3&gt;ei&lt;/e3&gt;&lt;/s2&gt; ole tallennettu ohjelman sisälle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT ran out of memory and will close when you click OK.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T113506Z" creationid="piav" creationdate="20230425T113506Z">
@@ -29202,6 +29210,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T162854Z" creationid="piav" creationdate="20230511T162747Z">
         <seg>OmegaT-asetukset on tallennettu määrityskansioon. Uuden version asentaminen &lt;e0&gt;ei&lt;/e0&gt; muuta niitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT’s preferences are stored in the configuration folder and will &lt;s0&gt; &lt;e1&gt;not&lt;/e1&gt; &lt;/s0&gt; be modified by the new version.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T183342Z" creationid="pia" creationdate="20240213T183342Z">
+        <seg>OmegaT-asetukset on tallennettu määrityskansioon. Uuden version asentaminen &lt;s0&gt;&lt;e1&gt;ei&lt;/e1&gt;&lt;/s0&gt; muuta niitä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30526,6 +30542,14 @@ Lähdetään kalaan.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T133105Z" creationid="piav" creationdate="20191127T133029Z">
         <seg>Kappaleet, osat ja taulukot asetetaan kaksisuuntaisiksi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Parameter files that are included in the downloaded OmegaT package (especially the &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt; for Windows and the &lt;c1&gt;Configuration.properties&lt;/c1&gt; and &lt;c2&gt;Info.plist&lt;/c2&gt; files for macOS packages) might be overwritten or deleted, so you may want to create a backup before upgrading, if you have been using these files to modify OmegaT’s launch parameters.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T183842Z" creationid="pia" creationdate="20240213T183842Z">
+        <seg>Koneelle ladatun OmegaT-paketin parametritiedostot (erityisesti Windowsin tarvitsema &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt; sekä macOS-pakettien tarvitsemat &lt;c1&gt;Configuration.properties&lt;/c1&gt;- ja &lt;c2&gt;Info.plist&lt;/c2&gt;) saattavat muuttua tai joutua poistetuiksi. Jos olet muuttanut OmegaT:n käynnistysparametrejä näiden tiedostojen avulla, saattaa olla hyvä varmuuskopioida ne ennen kuin päivität ohjelman.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32154,6 +32178,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T163045Z" creationid="piav" creationdate="20230511T163045Z">
         <seg>Vanhoja tai nykyisiä projektejasi &lt;e0&gt;ei&lt;/e0&gt; muuteta eikä poisteta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Projects that you have created in the past or are currently using will &lt;s0&gt; &lt;e1&gt;not&lt;/e1&gt; &lt;/s0&gt; be modified or deleted.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T183405Z" creationid="pia" creationdate="20240213T183405Z">
+        <seg>Vanhoja tai nykyisiä projektejasi &lt;s0&gt;&lt;e1&gt;ei&lt;/e1&gt;&lt;/s0&gt; muuteta eikä poisteta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39900,6 +39932,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T122850Z" creationid="piav" creationdate="20191208T122850Z">
         <seg>Muutokset tulevat näkyviin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The changes between your version and the current version are documented in the development site’s &lt;a0&gt;changes.txt&lt;/a0&gt; file.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T183323Z" creationid="pia" creationdate="20240213T183323Z">
+        <seg>Käyttämäsi version ja uusimman version väliset erot löytyvät kehityssivun tiedostosta &lt;a0&gt;changes.txt&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
