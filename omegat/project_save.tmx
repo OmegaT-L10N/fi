@@ -11073,6 +11073,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cookies</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T191114Z" creationid="pia" creationdate="20240213T191114Z">
+        <seg>Evästeet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T065019Z" creationid="PiaVee" creationdate="20171015T101414Z">
@@ -20079,6 +20087,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the use of multiple periods makes identifying the file name and extension ambiguous, you can use variables of the form &lt;l0&gt;${nameOnly-&lt;/l0&gt;&lt;e1&gt;number&lt;/e1&gt;} or &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;number} &lt;/e3&gt; to specify which portions are part of the name or extension, as shown in the example below.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T191733Z" creationid="pia" creationdate="20240213T191733Z">
+        <seg>Jos usean peräkkäisen pisteen käyttäminen tekee tiedostonimen ja tiedostopäätteen tunnistamisesta epäselvää, voit käyttää muuttujia &lt;l0&gt;${nameOnly-&lt;/l0&gt;&lt;e1&gt;numero&lt;/e1&gt;} tai &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;numero} &lt;/e3&gt; alla olevan esimerkin mukaisesti osoittamaan, mitkä nimen osat kuuluvat tiedostonimeen ja mitkä tiedostopäätteeseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there are any differences, check that the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files are under version control.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T120417Z" creationid="piav" creationdate="20191128T120417Z">
@@ -28486,6 +28502,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not store your information online (this is not a "cloud-based" product).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T191111Z" creationid="pia" creationdate="20240213T191111Z">
+        <seg>OmegaT ei tallenna tietojasi internetiin (kyseessä ei ole ”pilvipalveluun” perustuva tuote).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T135218Z" creationid="piav" creationdate="20190920T135218Z">
@@ -30426,6 +30450,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20170910T082758Z" creationid="PiaVee" creationdate="20170910T082758Z">
         <seg>Muussa tapauksessa OmegaT käyttää käyttöjärjestelmän kieltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Our website only uses cookies that are strictly necessary cookies for its operation.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T191205Z" creationid="pia" creationdate="20240213T191205Z">
+        <seg>Verkkosivumme käyttää ainoastaan sivun toiminnan kannalta välttämättömiä evästeitä.</seg>
       </tuv>
     </tu>
     <tu>
