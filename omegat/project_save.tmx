@@ -18483,8 +18483,8 @@ lopullisesti.</seg>
       <tuv lang="en">
         <seg>Here, you can decide whether to add or modify the declaration of the target file</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240213T192705Z" creationid="pia" creationdate="20221114T145651Z">
-        <seg>Tässä kohdassa voit päättää, lisätäänkö kohdetiedostoon maininta merkistökoodauksesta tai onko maininta</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T192727Z" creationid="pia" creationdate="20221114T145651Z">
+        <seg>Tässä kohdassa voit päättää, lisätäänkö kohdetiedostoon maininta merkistökoodauksesta tai onko mainintaa syytä</seg>
       </tuv>
     </tu>
     <tu>
@@ -44151,6 +44151,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option converts such multiple continuous whitespace characters into a single space in the translated document.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T193136Z" creationid="pia" creationdate="20240213T193136Z">
+        <seg>Tämä valinta muuttaa useat peräkkäiset tyhjätilamerkit käännetyssä asiakirjassa yhdeksi välilyönniksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T184432Z" creationid="piav" creationdate="20191202T184432Z">
@@ -48748,6 +48756,14 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T093756Z" creationid="piav" creationdate="20191211T093756Z">
         <seg>Lopussa oleva tyhjätila</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whitespace outside the tags is considered non significant in HTML/XHTML.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T193021Z" creationid="pia" creationdate="20240213T193021Z">
+        <seg>HTML- ja XHTML-kielissä ei tägien ulkopuolisia tyhjätilamerkkejä pidetä tärkeinä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54742,16 +54758,16 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
       <tuv lang="en">
         <seg>only if the file already has a &lt;head&gt; tag,</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20221114T150036Z" creationid="pia" creationdate="20221114T150036Z">
-        <seg>vain, jos tiedostossa on jo &lt;head&gt;-tägi,</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T192731Z" creationid="pia" creationdate="20221114T150036Z">
+        <seg>muokata vain, jos tiedostossa on jo &lt;head&gt;-tägi,</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>only if the file already has a declaration,</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20230620T085749Z" creationid="pia" creationdate="20230620T082846Z">
-        <seg>vain, jos tiedostossa on jo kuvaus,</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T192733Z" creationid="pia" creationdate="20230620T082846Z">
+        <seg>muokata vain, jos tiedostossa on jo kuvaus,</seg>
       </tuv>
     </tu>
     <tu>
@@ -54984,6 +55000,14 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T080948Z" creationid="PiaVee" creationdate="20171015T080948Z">
         <seg>or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or never and only save the target file in the encoding specified in the file filter settings.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T192836Z" creationid="pia" creationdate="20240213T192836Z">
+        <seg>olla muokkaamatta lainkaan ja vain tallentaa kohdetiedosto käyttäen tiedostosuodatinasetusten mukaista merkistökoodausta.</seg>
       </tuv>
     </tu>
     <tu>
