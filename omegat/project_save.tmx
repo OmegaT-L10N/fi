@@ -20023,6 +20023,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there isn’t one, it installs the program in &lt;c1&gt;/opt/omegat/OmegaT_{{site.data.versions.standard.name}}&lt;/c1&gt; and sets it as the default version (in &lt;c2&gt;/opt/omegat/OmegaT-default&lt;/c2&gt;).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T182604Z" creationid="pia" creationdate="20240213T182604Z">
+        <seg>Jos ei, niin komentosarja asentaa ohjelman kansioon &lt;c1&gt;/opt/omegat/OmegaT_{{site.data.versions.standard.name}}&lt;/c1&gt; ja asettaa sen oletusversioksi (kohtaan &lt;c2&gt;/opt/omegat/OmegaT-default&lt;/c2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there isn’t one, it installs the program in &lt;f1&gt;/opt/omegat/OmegaT_6.1.0&lt;/f1&gt; and sets it as the default version (in &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T160230Z" creationid="piav" creationdate="20230511T160230Z">
@@ -34068,6 +34076,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Running the script will require you to enter your &lt;c0&gt;sudo&lt;/c0&gt; password.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T182359Z" creationid="pia" creationdate="20240213T182359Z">
+        <seg>Komentosarjan suorittaminen vaatii sinua syöttämään &lt;c0&gt;sudo&lt;/c0&gt;-salasanasi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Running the script will require you to enter your &lt;f0&gt;sudo&lt;/f0&gt; password.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T160014Z" creationid="piav" creationdate="20230511T155948Z">
@@ -40547,6 +40563,14 @@ nykyinen kansio.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder contains two files: &lt;c1&gt;index.html&lt;/c1&gt; (the user guide index) and &lt;c2&gt;OmegaT.app&lt;/c2&gt; (the application).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T182659Z" creationid="pia" creationdate="20240213T182659Z">
+        <seg>Kansiossa on kaksi tiedostoa, &lt;c1&gt;index.html&lt;/c1&gt; (käyttäjän käsikirjan etusivu) sekä &lt;c2&gt;OmegaT.app&lt;/c2&gt; (itse sovellus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder contains two files: &lt;f1&gt;index.html&lt;/f1&gt; (the user manual entry file) and &lt;f2&gt;OmegaT.app&lt;/f2&gt; (the application).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T160439Z" creationid="piav" creationdate="20230511T160429Z">
@@ -41673,6 +41697,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="piav" creationdate="20190913T110547Z">
         <seg>Komentosarja ”{0}” on käynnissä…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The script checks for an existing installation of the same OmegaT version in &lt;c0&gt;/opt/omegat/&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T182423Z" creationid="pia" creationdate="20240213T182423Z">
+        <seg>Komentosarja tarkistaa, onko sama OmegaT-versio jo asennettu &lt;c0&gt;/opt/omegat/&lt;/c0&gt;-kansioon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43146,6 +43178,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T154324Z" creationid="piav" creationdate="20191209T154304Z">
         <seg>Tällöin valitut tiedostot kopioidaan &lt;f2&gt;source&lt;/f2&gt;-kansioon ja projekti ladataan uudelleen, jolloin uudet tiedostot tulevat näkyviin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This creates a folder called &lt;c0&gt;OmegaT&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T182622Z" creationid="pia" creationdate="20240213T182622Z">
+        <seg>Tällöin koneelle luodaan kansio &lt;c0&gt;OmegaT&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
