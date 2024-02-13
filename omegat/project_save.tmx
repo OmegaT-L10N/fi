@@ -7016,6 +7016,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although you can run OmegaT directly from the available files, you can also run the &lt;c0&gt;linux-install.sh&lt;/c0&gt; script found there to have OmegaT installed in more appropriate locations.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T182340Z" creationid="pia" creationdate="20240213T182340Z">
+        <seg>Voit toki suorittaa OmegaT:n suoraan näistä tiedostoista, mutta voit myös suorittaa kansiosta löytyvän &lt;c0&gt;linux-install.sh&lt;/c0&gt;-komentosarjan, niin saat OmegaT:n asennettua sopivampaan sijaintiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although you can run OmegaT directly from the available files, you can also run the &lt;f0&gt;linux-install.sh&lt;/f0&gt; script found there to have OmegaT installed in more appropriate locations.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T155945Z" creationid="piav" creationdate="20230511T155945Z">
@@ -12697,6 +12705,14 @@ onko sinun tehtävä vielä muuta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T153725Z" creationid="piav" creationdate="20230511T153725Z">
         <seg>Kehitysversio: OmegaT Nightly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Developer: OmegaT Weekly</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T182148Z" creationid="pia" creationdate="20240213T182125Z">
+        <seg>Kehittäjälle: OmegaT Weekly</seg>
       </tuv>
     </tu>
     <tu>
@@ -37669,6 +37685,14 @@ takaisin samaan kansioon tai sen alikansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard: OmegaT {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T182138Z" creationid="pia" creationdate="20240213T182112Z">
+        <seg>Peruskäyttäjälle: OmegaT {{site.data.versions.standard.name}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
@@ -40443,6 +40467,14 @@ nykyinen kansio.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The files are downloadable directly from &lt;a0&gt;https://omegat.org&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T182206Z" creationid="pia" creationdate="20240213T182206Z">
+        <seg>Tiedostot voi ladata suoraan osoitteesta &lt;a0&gt;https://omegat.org&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The files are downloadable directly from &lt;u0&gt;https://omegat.org&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T153818Z" creationid="piav" creationdate="20230511T153818Z">
@@ -40781,6 +40813,14 @@ in the quick launch area.</seg>
       <tuv lang="fi" changeid="piav" changedate="20191211T101134Z" creationid="piav" creationdate="20191211T101134Z">
         <seg>Asennusohjelma voi luoda pikavalintoja käynnistysvalikkoon, työpöydälle
 ja pikakäynnistysalueelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The instructions given here apply to people who download the package from the &lt;a0&gt;https://omegat.org&lt;/a0&gt; site and install it manually.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T182306Z" creationid="pia" creationdate="20240213T182306Z">
+        <seg>Täältä löytyvät ohjeet koskevat sivulta &lt;a0&gt;https://omegat.org&lt;/a0&gt; ladattua pakettia, joka asennetaan käsin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43201,8 +43241,8 @@ palvelimelta.</seg>
       <tuv lang="en">
         <seg>This edition is automatically generated every time new code is added to OmegaT.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230511T153748Z" creationid="piav" creationdate="20230511T153748Z">
-        <seg>Tämä versio luodaan automaattisesti aina, kun OmegaT-ohjelmaan lisäään uutta koodia.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T182155Z" creationid="piav" creationdate="20230511T153748Z">
+        <seg>Tämä versio luodaan automaattisesti aina, kun OmegaT-ohjelmaan lisätään uutta koodia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49238,6 +49278,14 @@ sitten suorittaa Kaptain-käynnistyskomentosarjan painamalla</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T085958Z" creationid="piav" creationdate="20191211T085958Z">
         <seg>Voit käyttää OmegaT-käsikirjaa myös ilman, että itse ohjelma on käynnissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also change this later by editing &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T182236Z" creationid="pia" creationdate="20240213T182236Z">
+        <seg>Näitä voi muuttaa myöhemmin muokkaamalla &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt;-tiedostoa.</seg>
       </tuv>
     </tu>
     <tu>
