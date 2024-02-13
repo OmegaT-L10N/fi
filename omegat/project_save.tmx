@@ -50215,6 +50215,14 @@ mutta kuitenkin oikealla tavalla.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You should only use it to avoid compatibility issues with previous projects containing files you handled with that filter.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T192027Z" creationid="pia" creationdate="20240213T192027Z">
+        <seg>Sinun tulisi käyttää sitä ainoastaan välttääksesi yhteensopivuusongelmia sellaisten vanhojen projektien kanssa, joissa olet käsitellyt kyseistä suodatinta käyttäviä tiedostoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You should specify their new location or recreate them.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T112310Z" creationid="piav" creationdate="20190521T132041Z">
