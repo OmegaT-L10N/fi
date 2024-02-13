@@ -12149,6 +12149,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Currently, we offer only a Standard version.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T181340Z" creationid="pia" creationdate="20240213T181256Z">
+        <seg>Tällä hetkellä tarjolla on ainoastaan standardiversio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cursor lock off</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T124730Z" creationid="PiaVee" creationdate="20171015T124730Z">
@@ -28062,6 +28070,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Contribution Guide</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T181230Z" creationid="pia" creationdate="20240213T181230Z">
+        <seg>OmegaT-projektin apukäsien opas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Default</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220821T082312Z" creationid="piav" creationdate="20220821T082312Z">
@@ -37591,8 +37607,8 @@ takaisin samaan kansioon tai sen alikansioon.</seg>
       <tuv lang="en">
         <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T081055Z" creationid="piav" creationdate="20191211T081043Z">
-        <seg>Standardiversion – {{site.data.versions.standard.name}}</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T181329Z" creationid="piav" creationdate="20191211T081043Z">
+        <seg>Standardiversio – {{site.data.versions.standard.name}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -39240,8 +39256,8 @@ Pia Vinkki, FLOSSLATION Oy Ab</seg>
       <tuv lang="en">
         <seg>The HTML user manual for OmegaT standard version.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191211T090232Z" creationid="piav" creationdate="20191211T090232Z">
-        <seg>OmegaT-standariversion netissä oleva HTML-käsikirja.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240213T181303Z" creationid="piav" creationdate="20191211T090232Z">
+        <seg>OmegaT-standardiversion netissä oleva HTML-käsikirja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52486,6 +52502,14 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T161025Z" creationid="piav" creationdate="20191210T161025Z">
         <seg>https://omegat.org/support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.readthedocs.io/en/latest/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240213T181235Z" creationid="pia" creationdate="20240213T181235Z">
+        <seg>https://omegat.readthedocs.io/en/latest/</seg>
       </tuv>
     </tu>
     <tu>
