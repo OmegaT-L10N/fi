@@ -53282,6 +53282,14 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://developer.oracle.com/databases/nashorn-javascript-part1.html</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194701Z" creationid="pia" creationdate="20240214T194701Z">
+        <seg>https://developer.oracle.com/databases/nashorn-javascript-part1.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/text/SimpleDateFormat.html</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20231030T204501Z" creationid="piav" creationdate="20231030T204501Z">
@@ -53390,6 +53398,14 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240214T194442Z" creationid="pia" creationdate="20240214T194442Z">
         <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://groovy-lang.org/documentation.html</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194659Z" creationid="pia" creationdate="20240214T194659Z">
+        <seg>https://groovy-lang.org/documentation.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -53734,6 +53750,14 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240214T194627Z" creationid="pia" creationdate="20240214T194627Z">
         <seg>https://www.deepl.com/en/pro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.ecma-international.org/ecma-262/5.1/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194703Z" creationid="pia" creationdate="20240214T194703Z">
+        <seg>https://www.ecma-international.org/ecma-262/5.1/</seg>
       </tuv>
     </tu>
     <tu>
