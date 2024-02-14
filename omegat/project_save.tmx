@@ -37780,6 +37780,14 @@ takaisin samaan kansioon tai sen alikansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source terms can be multi-word expressions.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T182900Z" creationid="pia" creationdate="20240214T182900Z">
+        <seg>Lähdekieliset termit voivat koostua useista sanoista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source text of the match</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T084409Z" creationid="piav" creationdate="20191127T084409Z">
@@ -43049,6 +43057,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T093548Z" creationid="piav" creationdate="20191201T093548Z">
         <seg>Valitse sopiva valikko ja lisää sinne alivalikko tai valikon kohta valitsemalla &lt;e0&gt;File – New Submenu&lt;/e0&gt;tai &lt;e1&gt;File – New Item&lt;/e1&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are 2 kinds of glossary files:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T183340Z" creationid="pia" creationdate="20240214T183340Z">
+        <seg>Sanalistoja on kahdenlaisia:</seg>
       </tuv>
     </tu>
     <tu>
