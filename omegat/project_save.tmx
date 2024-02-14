@@ -53122,6 +53122,14 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://www.iana.org/assignments/character-sets/character-sets.xhtml</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194025Z" creationid="pia" creationdate="20240214T194025Z">
+        <seg>http://www.iana.org/tehtävät/character-sets/character-sets.xhtml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T110212Z" creationid="piav" creationdate="20191201T110212Z">
