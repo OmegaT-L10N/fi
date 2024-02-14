@@ -3022,6 +3022,22 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-Dhttp.proxyHost=&lt;proxy IP&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194522Z" creationid="pia" creationdate="20240214T194522Z">
+        <seg>-Dhttp.proxyHost=&lt;proxy IP&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-Dhttp.proxyPort=&lt;port number&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194534Z" creationid="pia" creationdate="20240214T194534Z">
+        <seg>-Dhttp.proxyPort=&lt;portin numero&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T122500Z" creationid="piav" creationdate="20191201T122500Z">
@@ -53090,6 +53106,22 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/commands/index.html</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194559Z" creationid="pia" creationdate="20240214T194559Z">
+        <seg>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/commands/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/index.html</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194557Z" creationid="pia" creationdate="20240214T194557Z">
+        <seg>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T145232Z" creationid="piav" creationdate="20191022T145232Z">
@@ -53118,6 +53150,14 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T155908Z" creationid="piav" creationdate="20191022T155908Z">
         <seg>http://weitz.de/regex-coach/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://www.apertium.org</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194636Z" creationid="pia" creationdate="20240214T194636Z">
+        <seg>http://www.apertium.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -53210,6 +53250,22 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://cloud.google.com/translate/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194642Z" creationid="pia" creationdate="20240214T194642Z">
+        <seg>https://cloud.google.com/translate/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://cloud.google.com/translate/docs/reference/rest/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194640Z" creationid="pia" creationdate="20240214T194640Z">
+        <seg>https://cloud.google.com/translate/docs/reference/rest/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://datamarket.azure.com/account</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T121939Z" creationid="piav" creationdate="20191201T121939Z">
@@ -53258,6 +53314,30 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://duckduckgo.com/?q=%22{target}%22+site%3A.fr+-linguee</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194645Z" creationid="pia" creationdate="20240214T194645Z">
+        <seg>https://duckduckgo.com/?q=%22{target}%22+site%3A.fr+-linguee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194514Z" creationid="pia" creationdate="20240214T194514Z">
+        <seg>https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194510Z" creationid="pia" creationdate="20240214T194510Z">
+        <seg>https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://en.wikipedia.org/wiki/Stemming</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20200504T142732Z" creationid="pia" creationdate="20200504T142732Z">
@@ -53274,10 +53354,122 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat.git</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194509Z" creationid="pia" creationdate="20240214T194509Z">
+        <seg>https://github.com/omegat-org/omegat.git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194501Z" creationid="pia" creationdate="20240214T194501Z">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194443Z" creationid="pia" creationdate="20240214T194443Z">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194459Z" creationid="pia" creationdate="20240214T194459Z">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194442Z" creationid="pia" creationdate="20240214T194442Z">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T135516Z" creationid="piav" creationdate="20191127T135516Z">
         <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://maxprograms.com/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194601Z" creationid="pia" creationdate="20240214T194601Z">
+        <seg>https://maxprograms.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://maxprograms.com/products/openxliff.html</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194603Z" creationid="pia" creationdate="20240214T194603Z">
+        <seg>https://maxprograms.com/products/openxliff.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://maxprograms.com/products/xliffmanager.html</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194605Z" creationid="pia" creationdate="20240214T194605Z">
+        <seg>https://maxprograms.com/products/xliffmanager.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://mymemory.translated.net/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194632Z" creationid="pia" creationdate="20240214T194632Z">
+        <seg>https://mymemory.translated.net/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://mymemory.translated.net/doc/cat.php</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194630Z" creationid="pia" creationdate="20240214T194630Z">
+        <seg>https://mymemory.translated.net/doc/cat.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://okapiframework.org</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194545Z" creationid="pia" creationdate="20240214T194545Z">
+        <seg>https://okapiframework.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://okapiframework.org/wiki/index.php/Okapi_Filters_Plugin_for_OmegaT#Filters_Included</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194612Z" creationid="pia" creationdate="20240214T194612Z">
+        <seg>https://okapiframework.org/wiki/index.php/Okapi_Filters_Plugin_for_OmegaT#Filters_Included</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://okapiframework.org/wiki/index.php/Rainbow_TKit_-_OmegaT_Project</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194552Z" creationid="pia" creationdate="20240214T194552Z">
+        <seg>https://okapiframework.org/wiki/index.php/Rainbow_TKit_-_OmegaT_Project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://okapiframework.org/wiki/index.php?title=Filters</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194550Z" creationid="pia" creationdate="20240214T194550Z">
+        <seg>https://okapiframework.org/wiki/index.php?title=Filters</seg>
       </tuv>
     </tu>
     <tu>
@@ -53330,6 +53522,22 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://omegat.readthedocs.io/en/latest/11.HowToCreateFilterPlugin/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194614Z" creationid="pia" creationdate="20240214T194614Z">
+        <seg>https://omegat.readthedocs.io/en/latest/11.HowToCreateFilterPlugin/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.sourceforge.io/javadoc-latest/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194653Z" creationid="pia" creationdate="20240214T194653Z">
+        <seg>https://omegat.sourceforge.io/javadoc-latest/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T111551Z" creationid="piav" creationdate="20191201T111551Z">
@@ -53346,10 +53554,26 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://po4a.org</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194555Z" creationid="pia" creationdate="20240214T194555Z">
+        <seg>https://po4a.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://projects.eclipse.org/projects/adoptium.temurin</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T154816Z" creationid="piav" creationdate="20230511T154816Z">
         <seg>https://projects.eclipse.org/projects/adoptium.temurin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://regex101.com</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194436Z" creationid="pia" creationdate="20240214T194436Z">
+        <seg>https://regex101.com</seg>
       </tuv>
     </tu>
     <tu>
@@ -53390,6 +53614,14 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T103916Z" creationid="piav" creationdate="20191211T103916Z">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/182/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194651Z" creationid="pia" creationdate="20240214T194651Z">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/182/</seg>
       </tuv>
     </tu>
     <tu>
@@ -53474,10 +53706,98 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://unicode.org/reports/tr18/#Blocks</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194429Z" creationid="pia" creationdate="20240214T194429Z">
+        <seg>https://unicode.org/reports/tr18/#Blocks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://unicode.org/reports/tr18/#General_Category_Property</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194431Z" creationid="pia" creationdate="20240214T194431Z">
+        <seg>https://unicode.org/reports/tr18/#General_Category_Property</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://unicode.org/reports/tr18/#Script_Property</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194430Z" creationid="pia" creationdate="20240214T194430Z">
+        <seg>https://unicode.org/reports/tr18/#Script_Property</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.deepl.com/en/pro</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194627Z" creationid="pia" creationdate="20240214T194627Z">
+        <seg>https://www.deepl.com/en/pro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.gala-global.org/tmx-14b#SectionIntroduction</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194506Z" creationid="pia" creationdate="20240214T194506Z">
+        <seg>https://www.gala-global.org/tmx-14b#SectionIntroduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.ibm.com/watson</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194638Z" creationid="pia" creationdate="20240214T194638Z">
+        <seg>https://www.ibm.com/watson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://www.libreoffice.org/discover/draw/</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T105606Z" creationid="piav" creationdate="20191129T105606Z">
         <seg>https://www.libreoffice.org/discover/draw/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.regular-expressions.info</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194439Z" creationid="pia" creationdate="20240214T194439Z">
+        <seg>https://www.regular-expressions.info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.regular-expressions.info/unicode.html</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194427Z" creationid="pia" creationdate="20240214T194427Z">
+        <seg>https://www.regular-expressions.info/unicode.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.rfc-editor.org/rfc/bcp/bcp47.txt</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194503Z" creationid="pia" creationdate="20240214T194503Z">
+        <seg>https://www.rfc-editor.org/rfc/bcp/bcp47.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.unicode.org/reports/tr9/</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194621Z" creationid="pia" creationdate="20240214T194621Z">
+        <seg>https://www.unicode.org/reports/tr9/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.unicode.org/reports/tr9/#Directional_Formatting_Characters</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240214T194618Z" creationid="pia" creationdate="20240214T194618Z">
+        <seg>https://www.unicode.org/reports/tr9/#Directional_Formatting_Characters</seg>
       </tuv>
     </tu>
     <tu>
