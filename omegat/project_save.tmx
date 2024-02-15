@@ -3550,6 +3550,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c0&gt;# -*- coding: &lt;charset&gt; -*-&lt;/c0&gt;,</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20240215T132507Z" creationid="piav" creationdate="20240215T132507Z">
+        <seg>&lt;c0&gt;# -*- coding: &lt;charset&gt; -*-&lt;/c0&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T060512Z" creationid="piav" creationdate="20191023T060358Z">
@@ -20873,6 +20881,14 @@ käynnistää ohjelman komennolla</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T121130Z" creationid="piav" creationdate="20191030T120907Z">
         <seg>Jos haluat palata suodattimen oletusasetuksiin, napsauta painiketta &lt;e1&gt;Oletukset&lt;/e1&gt;. Voit myös muokata kohdetiedoston nimen muotoa vastaavassa tiedostosuodattimien kentässä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to specify a different encoding, you can do so by adding a “magic” comment that takes the following form:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20240215T132502Z" creationid="piav" creationdate="20240215T132502Z">
+        <seg>Jos haluat käyttää jotakin toista merkistökoodausta, tee se lisäämällä seuraava ”taianomainen”kommentti:</seg>
       </tuv>
     </tu>
     <tu>
@@ -57740,6 +57756,14 @@ tai</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171219T094218Z" creationid="PiaVee" creationdate="20171219T094218Z">
         <seg>weLocalize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;p0&gt;&lt;charset&gt;&lt;/p0&gt; is typically one of the sets listed in the &lt;u1&gt;IANA Charset Registry&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20240215T132630Z" creationid="piav" creationdate="20240215T132630Z">
+        <seg>Komennon &lt;p0&gt;charset&lt;/p0&gt; on tyypillisesti jokin &lt;u1&gt;IANA Charset Registryn&lt;/u1&gt; luettelemista merkistöistä.</seg>
       </tuv>
     </tu>
     <tu>
