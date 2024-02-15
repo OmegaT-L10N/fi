@@ -8888,6 +8888,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, each project contains a &lt;l0/&gt; folder to store the writable glossary and any reference glossaries you want to add to the project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20240215T133053Z" creationid="piav" creationdate="20240215T133053Z">
+        <seg>Jokaisessa projektissa on oletusmuotoinen &lt;l0/&gt;-kansio, jonne kirjoituskelpoinen sanalista on tallennettu. Kansiosta löytyvät myös muut projektissa käytettävät sanalistat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T103501Z" creationid="piav" creationdate="20191208T103501Z">
@@ -26316,6 +26324,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modifications made to any glossary are immediately recognized by OmegaT displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20240215T132852Z" creationid="piav" creationdate="20240215T132852Z">
+        <seg>Mihin tahansa sanalistaan tehdyt muutokset näkyvät heti OmegaT:n &lt;l0/&gt;-ruudussa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modified Segments:</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20170910T084248Z" creationid="PiaVee" creationdate="20170910T084248Z">
@@ -35779,6 +35795,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
         <seg>See the &lt;l1/&gt; chapter for details.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T162922Z" creationid="piav" creationdate="20230511T162922Z">
+        <seg>Lisätietoja löytyy kappaleesta &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; project property for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20240215T133228Z" creationid="piav" creationdate="20240215T133228Z">
         <seg>Lisätietoja löytyy kappaleesta &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
