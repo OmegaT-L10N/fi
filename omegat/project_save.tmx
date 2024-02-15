@@ -47538,8 +47538,8 @@ Nykyinen asetus on {0} MB;</seg>
       <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to directly access it.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20240215T130135Z" creationid="piav" creationdate="20240215T130135Z">
-        <seg>Sinne pääsee suoraan valitsemalla &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20240215T131540Z" creationid="piav" creationdate="20240215T130135Z">
+        <seg>Pääset suoraan tiedostokansioon valitsemalla &lt;l0/&gt;&lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50431,6 +50431,14 @@ sarjaa linux-install.sh.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191029T103313Z" creationid="piav" creationdate="20191029T102658Z">
         <seg>Tämän jälkeen voit luoda salasanan osoitteessa &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can then open it in a text editor and modify it.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20240215T131555Z" creationid="piav" creationdate="20240215T131505Z">
+        <seg>Voit sitten avata tiedoston tekstieditorissa ja muokata sitä.</seg>
       </tuv>
     </tu>
     <tu>
