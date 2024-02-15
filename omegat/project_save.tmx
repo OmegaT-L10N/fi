@@ -43450,6 +43450,14 @@ kadonnut sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are terminology files in a format recognized by OmegaT.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20240215T132712Z" creationid="piav" creationdate="20240215T132712Z">
+        <seg>Nämä ovat OmegaT:n tunnistamassa muodossa olevia termitiedostoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They can be created and updated manually or imported from other projects.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20210414T164104Z" creationid="piav" creationdate="20210414T164104Z">
@@ -50519,6 +50527,14 @@ sarjaa linux-install.sh.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T125324Z" creationid="piav" creationdate="20191208T125324Z">
         <seg>Voit tutkailla tiedostoa valitsemalla &lt;g0&gt;Työkalut &gt; Tilastotiedot&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You cannot modify them from the OmegaT interface like the project glossary, but you can do so in a text editor.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20240215T132823Z" creationid="piav" creationdate="20240215T132823Z">
+        <seg>Termitiedostoja ei voi muuttaa samaan tapan kuin projektin sanalistaa OmegaT:n käyttöliittymästä käsin mutta niitä voi muokata tekstieditorissa.</seg>
       </tuv>
     </tu>
     <tu>
