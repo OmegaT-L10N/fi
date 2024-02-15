@@ -47536,6 +47536,14 @@ Nykyinen asetus on {0} MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to directly access it.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20240215T130135Z" creationid="piav" creationdate="20240215T130135Z">
+        <seg>Sinne pääsee suoraan valitsemalla &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to enter new terms in this glossary.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20240215T125500Z" creationid="piav" creationdate="20240215T125500Z">
