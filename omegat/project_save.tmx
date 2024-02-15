@@ -20522,6 +20522,14 @@ näkyvät.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you choose to use an existing file as the default glossary, all new entries will be recorded in tab-separated format and saved in UTF-8 by default.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20240215T132233Z" creationid="piav" creationdate="20240215T132233Z">
+        <seg>Jos valitset oletussanalistaksi jo olemassa olevan tiedoston, kaikki uudet tietueet lisätään siihen sarkaimilla erotettuina ja tallennetaan UTF-8-merkistökoodauksella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you click on the button &lt;g0&gt;Advanced options&lt;/g0&gt; additional criteria (author or changer of the translation, date translated, excluding orphan segments, etc) can be selected.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T170501Z" creationid="piav" creationdate="20191209T170501Z">
@@ -23188,6 +23196,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T132416Z" creationid="piav" creationdate="20230425T132348Z">
         <seg>Esimerkiksi 5136/36/71 on lausekkeen mukainen kuvio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will be created the first time you add an entry to the glossary.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20240215T132048Z" creationid="piav" creationdate="20240215T131940Z">
+        <seg>vaan se luodaan, kunm lisäät ensimmäisen tietueen sanalistalle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50503,6 +50519,14 @@ sarjaa linux-install.sh.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T103925Z" creationid="piav" creationdate="20191022T071927Z">
         <seg>Voit määritellä sanaston sijainnin ja nimen kohdassa Projektin ominaisuudet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You do not need to prepare the file in advance.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="piav" changedate="20240215T131936Z" creationid="piav" creationdate="20240215T131929Z">
+        <seg>Tiedostoa ei tarvitse valmistella ennakkoon,</seg>
       </tuv>
     </tu>
     <tu>
