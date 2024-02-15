@@ -50557,8 +50557,8 @@ sarjaa linux-install.sh.</seg>
       <tuv lang="en">
         <seg>You cannot modify them from the OmegaT interface like the project glossary, but you can do so in a text editor.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20240215T132823Z" creationid="piav" creationdate="20240215T132823Z">
-        <seg>Termitiedostoja ei voi muuttaa samaan tapan kuin projektin sanalistaa OmegaT:n käyttöliittymästä käsin mutta niitä voi muokata tekstieditorissa.</seg>
+      <tuv lang="fi" changeid="piav" changedate="20240215T133232Z" creationid="piav" creationdate="20240215T132823Z">
+        <seg>Termitiedostoja ei voi muuttaa samaan tapan kuin projektin sanalistaa OmegaT:n käyttöliittymästä käsin, mutta niitä voi muokata tekstieditorissa.</seg>
       </tuv>
     </tu>
     <tu>
