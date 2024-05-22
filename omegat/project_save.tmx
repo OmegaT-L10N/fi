@@ -18195,6 +18195,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full/Half-width char insensitive</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T101535Z" creationid="pia" creationdate="20240522T101535Z">
+        <seg>Ei eroa täys- ja puolileveissä merkeissä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full/half-&amp;width char insensitive</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230514T123201Z" creationid="piav" creationdate="20230425T133255Z">
@@ -35438,6 +35446,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="Tintin" changedate="20240423T222514Z" creationid="Tintin" creationdate="20240408T183829Z">
         <seg>Palaa OmegaT-sovellukseen, tarkista asiakirjan tägit ja luo käännetty tiedosto uudelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Returns results that match both the full- and half-width forms (CJK characters) of the characters in the search terms.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T101715Z" creationid="pia" creationdate="20240522T101715Z">
+        <seg>Tämä koskee CJK-merkkejä: Hakutuloksissa näytetään hakusanojen sekä täys- että puolileveät (CJK-merkit) </seg>
       </tuv>
     </tu>
     <tu>
