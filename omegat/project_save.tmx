@@ -17795,6 +17795,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance, &lt;l0&gt;run?&lt;/l0&gt; matches &lt;l1&gt;runs&lt;/l1&gt;, as well as the &lt;l2&gt;runn&lt;/l2&gt; portion of &lt;l3&gt;running&lt;/l3&gt; or &lt;l4&gt;runner&lt;/l4&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T093115Z" creationid="pia" creationdate="20240522T093115Z">
+        <seg>Esimerkiksi hakusana &lt;l0&gt;run?&lt;/l0&gt; löytää sanan &lt;l1&gt;runs&lt;/l1&gt; sekä merkkijonon &lt;l2&gt;runn&lt;/l2&gt; sanasta &lt;l3&gt;running&lt;/l3&gt; tai &lt;l4&gt;runner&lt;/l4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance, &lt;l4&gt;MEMORY=-Xmx6g&lt;/l4&gt; will launch OmegaT with 6 GB of memory.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T102935Z" creationid="piav" creationdate="20191201T102935Z">
@@ -43901,8 +43909,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="en">
         <seg>The search term &lt;l0&gt;run*&lt;/l0&gt;, for example, matches &lt;l1&gt;run&lt;/l1&gt;, &lt;l2&gt;runs&lt;/l2&gt; and &lt;l3&gt;running&lt;/l3&gt;.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240522T092848Z" creationid="pia" creationdate="20240522T092739Z">
-        <seg>Esimerkiksi hakulauseke &lt;l0&gt;run*&lt;/l0&gt; löytää sanat &lt;l1&gt;run&lt;/l1&gt;, &lt;l2&gt;runs&lt;/l2&gt; ja &lt;l3&gt;running&lt;/l3&gt;.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T092934Z" creationid="pia" creationdate="20240522T092739Z">
+        <seg>Esimerkiksi hakusana &lt;l0&gt;run*&lt;/l0&gt; löytää sanat &lt;l1&gt;run&lt;/l1&gt;, &lt;l2&gt;runs&lt;/l2&gt; ja &lt;l3&gt;running&lt;/l3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48159,6 +48167,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fi" changeid="Hanne" changedate="20240307T110724Z" creationid="Hanne" creationdate="20240307T110724Z">
         <seg>Kääntäjän ei tarvitse itse &lt;e0&gt;luoda&lt;/e0&gt; käännösmuistia tai &lt;e1&gt;liittää&lt;/e1&gt; käännösmuistia uuteen projektiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Treat the search string as a regular expression.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T093122Z" creationid="pia" creationdate="20240522T093122Z">
+        <seg>Treat the search string as a regular expression.</seg>
       </tuv>
     </tu>
     <tu>
