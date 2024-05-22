@@ -4053,6 +4053,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Use this function only if the team project manager asked you to do so&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T073657Z" creationid="pia" creationdate="20240522T073657Z">
+        <seg>&lt;e0&gt;Käytä tätä toimintoa vain, jos ryhmäprojektin päällikkö on pyytänyt tekemään niin&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Use this function only if the team project manager requested so&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T143320Z" creationid="piav" creationdate="20221102T143320Z">
@@ -47527,6 +47535,14 @@ uusi versio: {2}</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T143338Z" creationid="piav" creationdate="20221102T143338Z">
         <seg>Lataa paikallisesti lisätyt tai muokatut tiedostot tietovarastoon ryhmäprojektin &lt;l0/&gt;-kansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uploads locally created translated files from the &lt;l0/&gt; folder to the team project repository.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T073733Z" creationid="pia" creationdate="20240522T073733Z">
+        <seg>Komento lataa paikallisesti luodut käännetyt tiedostot projektin &lt;f0&gt;source&lt;/f0&gt;-kansiosta ryhmäprojektin tietovarastoon.</seg>
       </tuv>
     </tu>
     <tu>
