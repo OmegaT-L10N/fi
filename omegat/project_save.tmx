@@ -29140,6 +29140,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Number of matching segments</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T125943Z" creationid="pia" creationdate="20240522T125943Z">
+        <seg>Osuvien segmenttien määrä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Number of matching segments:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T135829Z" creationid="piav" creationdate="20190521T135829Z">
@@ -38302,6 +38310,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sets the maximum number of matches displayed in the search result area.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T130056Z" creationid="pia" creationdate="20240522T130056Z">
+        <seg>Tässä ruudussa asetetaan, kuinka monta hakutulosta osumalistalla näkyy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sets the segment validation key to Tab instead of the default Enter.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T132502Z" creationid="piav" creationdate="20191023T115943Z">
@@ -40391,8 +40407,8 @@ takaisin samaan kansioon tai sen alikansioon.</seg>
       <tuv lang="en">
         <seg>TM Search Options</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240522T101251Z" creationid="pia" creationdate="20240522T101251Z">
-        <seg>Käännösmuistihaun asetukset</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T130153Z" creationid="pia" creationdate="20240522T101251Z">
+        <seg>TMX-haun asetukset</seg>
       </tuv>
     </tu>
     <tu>
@@ -50114,6 +50130,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T093453Z" creationid="pia" creationdate="20221114T093420Z">
         <seg>&lt;g0&gt;Tiedostonimen muuttujat&lt;/g0&gt;-pudotusvalikossa pääset muokkaamaan kohdetiedoston nimeä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;g0&gt;Hide Advanced Options&lt;/g0&gt; button to stop showing the advanced options.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T130241Z" creationid="pia" creationdate="20240522T130241Z">
+        <seg>Napsauta &lt;g0&gt;Piilota valinnat&lt;/g0&gt;-nappia, niin saat tarkemmat vaihtoehdot pois näkyvistä.</seg>
       </tuv>
     </tu>
     <tu>
