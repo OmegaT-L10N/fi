@@ -27065,6 +27065,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New translation memories placed in the &lt;l0/&gt; folder while translating are automatically taken into account as soon as the cursor moves from one segment to another.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T072725Z" creationid="pia" creationdate="20240522T072725Z">
+        <seg>Uudet &lt;l0/&gt;-kansioon sijoitetut käännösmuistit ovat käytettävissä heti, kun kohdistin siirtyy yhdestä käännettävästä segmentistä toiseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>New translation memories placed in the &lt;l0/&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T142904Z" creationid="piav" creationdate="20221102T142831Z">
@@ -49046,6 +49054,14 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T131334Z" creationid="piav" creationdate="20191201T131334Z">
         <seg>Tämä valinta määrittelee tiedostot, jotka käsitellään automaattisesti sen jälkeen, kun tilaa on käytetty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When reloading a team project, OmegaT reloads the remote, rather than the local, properties.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T073117Z" creationid="pia" creationdate="20240522T073117Z">
+        <seg>Kun ryhmäprojekti ladataan uudelleen, paikallisesti määritellyt ominaisuudet otetaan pois käytöstä, OmegaT lataa tilalle pakettivarastossa olevat ominaisuudet.</seg>
       </tuv>
     </tu>
     <tu>
