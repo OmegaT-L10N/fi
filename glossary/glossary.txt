@@ -1,3 +1,4 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
 project path	projektipolku
 Launch	Käynnistä
 launch	käynnistää	Tyyliin: "Käynnistä ohjelma"
@@ -731,3 +732,4 @@ Java Web Start	Java Web Start
 Java Runtime Environment	Java Runtime Environment
 development team	kehitystiimi
 configuration folder	määrityskansio	EI : asetuskansio
+local file filters	erityiset tiedostosuodattimet
