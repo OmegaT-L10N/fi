@@ -1958,8 +1958,8 @@
       <tuv lang="en">
         <seg>&amp;Writable Glossary</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230514T122548Z" creationid="piav" creationdate="20230425T120534Z">
-        <seg>Kirjoituskelpoinen sanasto</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095802Z" creationid="piav" creationdate="20230425T120534Z">
+        <seg>Kirjoituskelpoinen sanalista</seg>
       </tuv>
     </tu>
     <tu>
@@ -9464,8 +9464,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191022T074451Z" creationid="PiaVee" creationdate="20171218T084843Z">
-        <seg>Sanastokansioon ei pääse käsiksi!</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095828Z" creationid="PiaVee" creationdate="20171218T084843Z">
+        <seg>Sanalistakansioon ei pääse käsiksi!</seg>
       </tuv>
     </tu>
     <tu>
@@ -11867,8 +11867,8 @@ onko sinun tehtävä vielä muuta.</seg>
       <tuv lang="en">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191023T065101Z" creationid="PiaVee" creationdate="20171015T103857Z">
-        <seg>Luo sanaston termi…</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095807Z" creationid="PiaVee" creationdate="20171015T103857Z">
+        <seg>Luo sanalistan termi…</seg>
       </tuv>
     </tu>
     <tu>
@@ -11947,8 +11947,8 @@ onko sinun tehtävä vielä muuta.</seg>
       <tuv lang="en">
         <seg>Create Glossary Entry</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191022T074614Z" creationid="piav" creationdate="20190522T070947Z">
-        <seg>Luo sanaston termi</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095757Z" creationid="piav" creationdate="20190522T070947Z">
+        <seg>Luo sanalistan termi</seg>
       </tuv>
     </tu>
     <tu>
@@ -18629,8 +18629,8 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossary Files Folder</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191022T074521Z" creationid="piav" creationdate="20190521T131827Z">
-        <seg>Sanastotiedostojen kansio</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095838Z" creationid="piav" creationdate="20190521T131827Z">
+        <seg>Sanalistatiedostojen kansio</seg>
       </tuv>
     </tu>
     <tu>
@@ -18709,8 +18709,8 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossary matches</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230511T170656Z" creationid="piav" creationdate="20230511T170656Z">
-        <seg>Sanasto-osumat</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095744Z" creationid="piav" creationdate="20230511T170656Z">
+        <seg>Sanalistaosumat</seg>
       </tuv>
     </tu>
     <tu>
@@ -26452,8 +26452,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Mark Gl&amp;ossary Matches</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230514T122853Z" creationid="piav" creationdate="20230425T122617Z">
-        <seg>Merkitse sanasto-osumat</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095819Z" creationid="piav" creationdate="20230425T122617Z">
+        <seg>Merkitse sanalistalta löytyneet osumat</seg>
       </tuv>
     </tu>
     <tu>
@@ -30590,8 +30590,8 @@ your home folder.</seg>
       <tuv lang="en">
         <seg>Omegat provides a spellchecking system, but does not come with the dictionaries required to actually spellcheck your translations.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Hanne" changedate="20240307T122549Z" creationid="Hanne" creationdate="20240307T120802Z">
-        <seg>OmegaT:stä löytyy oikeinkirjoituksen tarkistusohjelma, mutta ei sanastoja, joilla tarkistaa oikeinkirjoitusta.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095650Z" creationid="Hanne" creationdate="20240307T120802Z">
+        <seg>OmegaT:stä löytyy oikeinkirjoituksen tarkistusohjelma, mutta ei sanakirjoja, joilla tarkistaa oikeinkirjoitusta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39621,8 +39621,8 @@ takaisin samaan kansioon tai sen alikansioon.</seg>
       <tuv lang="en">
         <seg>Spellchecking dictionaries</seg>
       </tuv>
-      <tuv lang="fi" changeid="Hanne" changedate="20240307T120932Z" creationid="Hanne" creationdate="20240307T120708Z">
-        <seg>Oikeinkirjoituksen tarkistuksen sanastot</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095640Z" creationid="Hanne" creationdate="20240307T120708Z">
+        <seg>Oikeinkirjoitussanakirjat</seg>
       </tuv>
     </tu>
     <tu>
@@ -43091,8 +43091,8 @@ nykyinen kansio.</seg>
       <tuv lang="en">
         <seg>The glossary files folder does not exist!</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T132941Z" creationid="piav" creationdate="20230425T132941Z">
-        <seg>Sanastotiedostojen kansiota ei ole!</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095843Z" creationid="piav" creationdate="20230425T132941Z">
+        <seg>Sanalistatiedostojen kansiota ei ole!</seg>
       </tuv>
     </tu>
     <tu>
@@ -44909,8 +44909,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="en">
         <seg>The writable glossary file folder does not exist!</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T133002Z" creationid="piav" creationdate="20230425T133002Z">
-        <seg>Kirjoituskelpoisen sanastotiedoston kansiota ei ole!</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095848Z" creationid="piav" creationdate="20230425T133002Z">
+        <seg>Kirjoituskelpoisen sanalistatiedoston kansiota ei ole!</seg>
       </tuv>
     </tu>
     <tu>
@@ -45386,8 +45386,8 @@ kadonnut sivu.</seg>
       <tuv lang="en">
         <seg>They can also include reference translation memories, glossaries, and other reference files.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Hanne" changedate="20240307T110525Z" creationid="Hanne" creationdate="20240307T110217Z">
-        <seg>Työkaluista voit myös löytää rinnakkaiskäännösmuisteja, sanastoja ja muita rinnakkaistekstejä.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095626Z" creationid="Hanne" creationdate="20240307T110217Z">
+        <seg>Työkaluista voit myös löytää rinnakkaiskäännösmuisteja, sanalistoja ja muita rinnakkaistekstejä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48895,8 +48895,8 @@ Täsmähaut etsivät koko hakustringiä.</seg>
       <tuv lang="en">
         <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191030T101838Z" creationid="piav" creationdate="20191029T101120Z">
-        <seg>Älä rastita tätä kohtaa, jos et tarvitse jokaisen sanaston tietueen kontekstitietoja tai jos kontekstitiedot ovat liian pitkät.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095752Z" creationid="piav" creationdate="20191029T101120Z">
+        <seg>Älä rastita tätä kohtaa, jos et tarvitse jokaisen sanalistan tietueen kontekstitietoja tai jos kontekstitiedot ovat liian pitkät.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49680,8 +49680,8 @@ Nykyinen asetus on {0} MB;</seg>
       <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; and the &lt;l2/&gt; preferences to manage glossary matches.</seg>
       </tuv>
-      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T103540Z" creationid="ainokaarsalo" creationdate="20240412T103540Z">
-        <seg>Käytä &lt;l0/&gt;&lt;l1/&gt;ja &lt;l2/&gt;asetuksia hallitaksesi sanaston osumia.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095712Z" creationid="ainokaarsalo" creationdate="20240412T103540Z">
+        <seg>Käytä &lt;l0/&gt;&lt;l1/&gt;ja &lt;l2/&gt;asetuksia hallitaksesi sanalistaosumia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49728,8 +49728,8 @@ Nykyinen asetus on {0} MB;</seg>
       <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to add terms to your glossary.</seg>
       </tuv>
-      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T103453Z" creationid="ainokaarsalo" creationdate="20240412T103453Z">
-        <seg>Käytä &lt;l0/&gt;&lt;l1/&gt;lisätäksesi termejä sanastoosi.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095702Z" creationid="ainokaarsalo" creationdate="20240412T103453Z">
+        <seg>Käytä &lt;l0/&gt;&lt;l1/&gt;lisätäksesi termejä omalle sanalistallesi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51328,8 +51328,8 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
       <tuv lang="en">
         <seg>When you enter a segment containing terms that match entries in your glossaries, those terms and their translations are displayed in the &lt;l0/&gt; pane.</seg>
       </tuv>
-      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T103947Z" creationid="ainokaarsalo" creationdate="20240412T103740Z">
-        <seg>Kun menet segementtiin, joka sisältää sanastosi osumiin sopivia termejä, termit sekä niiden käännökset näkyvät &lt;l0/&gt;ruudussa.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095735Z" creationid="ainokaarsalo" creationdate="20240412T103740Z">
+        <seg>Kun menet segmenttiin, joka sisältää sanalistasi osumiin sopivia termejä, termit sekä niiden käännökset näkyvät &lt;l0/&gt;ruudussa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51848,8 +51848,8 @@ ei enää löydy.</seg>
       <tuv lang="en">
         <seg>Writable glossary file:</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T125505Z" creationid="piav" creationdate="20230425T125505Z">
-        <seg>Kirjoituskelpoinen sanastotiedosto:</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095834Z" creationid="piav" creationdate="20230425T125505Z">
+        <seg>Kirjoituskelpoinen sanalistatiedosto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53127,8 +53127,8 @@ mutta kuitenkin oikealla tavalla.</seg>
       <tuv lang="en">
         <seg>You need to install the dictionaries you need yourself.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Hanne" changedate="20240307T120811Z" creationid="Hanne" creationdate="20240307T120811Z">
-        <seg>Sinun täytyy lisätä sanastot itse.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095654Z" creationid="Hanne" creationdate="20240307T120811Z">
+        <seg>Sinun täytyy lisätä sanakirjat itse.</seg>
       </tuv>
     </tu>
     <tu>
