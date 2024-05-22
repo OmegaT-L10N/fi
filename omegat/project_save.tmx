@@ -9542,6 +9542,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Case sensitive</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T093605Z" creationid="pia" creationdate="20240522T093605Z">
+        <seg>Erottele kirjainkoko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Catalan</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T173748Z" creationid="PiaVee" creationdate="20171014T173748Z">
@@ -30892,6 +30900,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only returns results with the same letter case as the search terms.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T093719Z" creationid="pia" creationdate="20240522T093719Z">
+        <seg>Tämä valinta etsii hakusanojen kirjainkoon mukaisia osumia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only rows with the &lt;g0&gt;Keep&lt;/g0&gt; box ticked in the first column will be included when the translation memory is created.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T150949Z" creationid="piav" creationdate="20191209T150828Z">
@@ -39258,6 +39274,22 @@ takaisin samaan kansioon tai sen alikansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Space characters in search terms will match both a normal space and a non-breaking space (\u00A) character.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T093818Z" creationid="pia" creationdate="20240522T093818Z">
+        <seg>Hakusanoissa käytetyt välilyönnit vastaavat sekä tavanomaista välilyöntiä että sitovaa välilyöntiä (\u00A-merkkiä).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Space matches nbsp</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T093728Z" creationid="pia" creationdate="20240522T093728Z">
+        <seg>Välilyönti vastaa nbsp:tä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spanish</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T103440Z" creationid="piav" creationdate="20190916T103440Z">
@@ -45016,6 +45048,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T080112Z" creationid="piav" creationdate="20190916T133446Z">
         <seg>Siksi OmegaT:n määrityskansiota ei voi määrittää luotettavasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, the wild card searches described above only apply to exact and keyword searches.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T093558Z" creationid="pia" creationdate="20240522T093558Z">
+        <seg>Ne toimivat edellä kuvatun mukaisina jokerimerkkeinä ainoastaan täsmähaussa ja avainsanahaussa.</seg>
       </tuv>
     </tu>
     <tu>
