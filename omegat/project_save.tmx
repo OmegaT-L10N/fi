@@ -31214,6 +31214,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the file in the associated application if the file exists.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T080055Z" creationid="pia" creationdate="20240522T080055Z">
+        <seg>Jos tiedosto on olemassa, se avautuu tiedostotyypin mukaisessa sovelluksessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the folder in your default file manager.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240522T075422Z" creationid="pia" creationdate="20240522T075422Z">
