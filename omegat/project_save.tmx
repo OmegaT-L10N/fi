@@ -4277,6 +4277,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Save&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T073155Z" creationid="pia" creationdate="20240522T073155Z">
+        <seg>&lt;g0&gt;Tallenna&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Select Match #1&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;1&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T133418Z" creationid="piav" creationdate="20221102T133358Z">
@@ -6167,6 +6175,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add Files...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T073234Z" creationid="pia" creationdate="20240522T073234Z">
+        <seg>Lisää tiedostoja…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Glossary Entry</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T074724Z" creationid="piav" creationdate="20190916T131033Z">
@@ -6187,6 +6203,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T120047Z" creationid="piav" creationdate="20230425T120047Z">
         <seg>Lisää MediaWiki-sivu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add MediaWiki Page...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T073248Z" creationid="pia" creationdate="20240522T073248Z">
+        <seg>Lisää MediaWiki-sivu…</seg>
       </tuv>
     </tu>
     <tu>
@@ -28669,6 +28693,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT automatically saves translations every three minutes as well as when you close the project or quit the program.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T073226Z" creationid="pia" creationdate="20240522T073226Z">
+        <seg>OmegaT tallentaa käännökset automaattisesti kolmen minuutin välein sekä silloin, kun suljet projektin tai koko ohjelman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically selects a tokenizer for the source and the target language according to the language settings of the project.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T153437Z" creationid="PiaVee" creationdate="20171014T153437Z">
@@ -30313,6 +30345,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T130953Z" creationid="piav" creationdate="20190920T130953Z">
         <seg>Ryhmäprojekti avataan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens a dialog where you can paste the URL of the MediaWiki page you want to translate.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T073345Z" creationid="pia" creationdate="20240522T073345Z">
+        <seg>Avaa valintaikkunan, jonne voit lisätä käännettävän Mediawiki-sivun URL-osoitteen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35027,6 +35067,22 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Saves the project translation memory (&lt;l0/&gt;) and closes the project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T073144Z" creationid="pia" creationdate="20240522T073144Z">
+        <seg>OmegaT tallentaa projektin käännösmuistin /&lt;l0/&gt;) ja sulkee projektin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saves the project translation memory (&lt;l0/&gt;) and synchronizes team projects.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T073213Z" creationid="pia" creationdate="20240522T073213Z">
+        <seg>OmegaT tallentaa projektin käännösmuistin /&lt;l0/&gt;) ja synkronoi ryhmäprojektit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Saves the project translation memory and closes the project.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T143037Z" creationid="piav" creationdate="20221102T143037Z">
@@ -35907,6 +35963,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T162922Z" creationid="piav" creationdate="20230511T162922Z">
         <seg>Lisätietoja löytyy kappaleesta &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; how-to for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T073416Z" creationid="pia" creationdate="20240522T073416Z">
+        <seg>Yksityiskohtaiset tee-näin-ohjeet löytyvät kohdasta &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42655,6 +42719,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source data of the page will be copied into the &lt;l0/&gt; folder, as a text file with the &lt;f1&gt;.utf8&lt;/f1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T073406Z" creationid="pia" creationdate="20240522T073406Z">
+        <seg>Sivun lähdetiedot kopioidaan &lt;l0/&gt;-kansioon tekstitiedostoksi, jonka tiedostopääte on &lt;f1&gt;.utf8&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source data of the page will be copied into the &lt;l0/&gt; folder, as a text file, with the &lt;f1&gt;.utf8&lt;/f1&gt; extension.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T142720Z" creationid="piav" creationdate="20221102T142720Z">
@@ -47431,6 +47503,14 @@ uusi versio: {2}</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T110238Z" creationid="piav" creationdate="20190920T121205Z">
         <seg>Lataus ei ole käytössä, sillä tietovarasto on vain luku -muodossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uploads locally added or modified files from the &lt;f0&gt;source&lt;/f0&gt; folder to the team project repository.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T073641Z" creationid="pia" creationdate="20240522T073641Z">
+        <seg>Komento lataa paikallisesti lisätyt tai muokatut tiedostot projektin &lt;f0&gt;source&lt;/f0&gt;-kansiosta ryhmäprojektin tietovarastoon.</seg>
       </tuv>
     </tu>
     <tu>
