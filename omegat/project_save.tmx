@@ -38412,6 +38412,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Set up a team project</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T133233Z" creationid="pia" creationdate="20240522T133233Z">
+        <seg>Määritä ryhmäprojektin asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sets</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T115836Z" creationid="piav" creationdate="20190920T115829Z">
@@ -47702,8 +47710,8 @@ asetukset oletusarvoihinsa.</seg>
       <tuv lang="en">
         <seg>To remove the filter, click on the &lt;g2&gt;Remove Filter&lt;/g2&gt; button at the top of the &lt;l3/&gt; pane, or reload the project.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240522T132024Z" creationid="pia" creationdate="20240522T132024Z">
-        <seg>Poista suodatus napsauttamalla </seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T132143Z" creationid="pia" creationdate="20240522T132024Z">
+        <seg>Pääset takaisin normaalitilaan napsauttamalla &lt;g2&gt;Poista suodatus&lt;/g2&gt;-näppäintä &lt;l3/&gt;-ruudun yläosassa. Voit myös ladata projektin uudelleen.</seg>
       </tuv>
     </tu>
     <tu>
