@@ -2470,6 +2470,20 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-- 148&gt; | language = [[日本語]]・[[&lt;t0&gt;ドイツ&lt;/t0&gt;語]]
+---------
+&lt;a1&gt;-- 177&gt; [[2001年]]、&lt;t2&gt;ドイツ&lt;/t2&gt;の永住権を取得。&lt;/a1&gt;
+---------</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T131554Z" creationid="pia" creationdate="20240522T131554Z">
+        <seg>-- 148&gt; | language = [[日本語]]・[[&lt;t0&gt;ドイツ&lt;/t0&gt;語]]
+---------
+&lt;a1&gt;-- 177&gt; [[2001年]]、&lt;t2&gt;ドイツ&lt;/t2&gt;の永住権を取得。&lt;/a1&gt;
+---------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>---- Localization Notes ----</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T180000Z" creationid="piav" creationdate="20190521T180000Z">
@@ -8380,8 +8394,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Auto-sync with editor</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230510T125928Z" creationid="piav" creationdate="20230510T125928Z">
-        <seg>Automaattinen synkronisointi editorissa</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T131601Z" creationid="piav" creationdate="20230510T125928Z">
+        <seg>Automaattinen synkronointi editorissa</seg>
       </tuv>
     </tu>
     <tu>
@@ -38040,8 +38054,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Select the second match</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240522T131415Z" creationid="pia" creationdate="20240522T131415Z">
-        <seg>Valitse toinen osumia</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T131429Z" creationid="pia" creationdate="20240522T131415Z">
+        <seg>Valitse toinen osuma</seg>
       </tuv>
     </tu>
     <tu>
@@ -41614,6 +41628,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T140519Z" creationid="ainokaarsalo" creationdate="20240411T140519Z">
         <seg>&lt;l0/&gt;ruudulla kirjoitat käännöksesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; pane synchronizes its display with the selection in the search results</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T131709Z" creationid="pia" creationdate="20240522T131709Z">
+        <seg>&lt;l0/&gt;-ruudun näkymä muuttuu vastaamaan hakutuloslistalla valittua segmenttiä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51498,6 +51520,14 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T110402Z" creationid="piav" creationdate="20191128T074526Z">
         <seg>Kun aloitat uuden projektin, joka käsittelee samaa aihepiiriä tai menee samalle asiakkaalle, etsi kohta &lt;g0&gt;Projekti &gt; Ominaisuudet &gt; Muokkaa projektia&lt;/g0&gt; ja valitse äsken luomasi tietovarastokansio uuden projektin käännösmuistikansioksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you close the search windows, the &lt;l0/&gt; pane automatically goes back to the segment that it displayed before the search was started</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T131846Z" creationid="pia" creationdate="20240522T131846Z">
+        <seg>Kun hakuikkunat suljetaan, &lt;l0/&gt;-ruutu palaa automaattisesti takaisin samaan segmenttiin, joka oli aktiivisena silloin, kun haku aloitettin.</seg>
       </tuv>
     </tu>
     <tu>
