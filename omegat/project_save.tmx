@@ -26762,6 +26762,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches are displayed in their order of appearance in the project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T130523Z" creationid="pia" creationdate="20240522T130523Z">
+        <seg>Hakutulokset näytetään samassa järjestyksessä kuin missä ne esiintyvät projektissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190916T130824Z" creationid="piav" creationdate="20190916T130615Z">
@@ -35442,6 +35450,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Results display</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T130324Z" creationid="pia" creationdate="20240522T130311Z">
+        <seg>Hakutulosten lista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Retrieve collection list...</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T082031Z" creationid="piav" creationdate="20190522T082003Z">
@@ -38312,8 +38328,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Sets the maximum number of matches displayed in the search result area.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240522T130056Z" creationid="pia" creationdate="20240522T130056Z">
-        <seg>Tässä ruudussa asetetaan, kuinka monta hakutulosta osumalistalla näkyy.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T130414Z" creationid="pia" creationdate="20240522T130056Z">
+        <seg>Tässä ruudussa asetetaan, kuinka monta osumaa hakutulosten listalla näkyy.</seg>
       </tuv>
     </tu>
     <tu>
