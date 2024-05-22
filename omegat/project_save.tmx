@@ -10496,6 +10496,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on &lt;g0&gt;Search&lt;/g0&gt; or hit &lt;k1&gt;Enter&lt;/k1&gt; when the search field is selected to start the search.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T090741Z" creationid="pia" creationdate="20240522T090741Z">
+        <seg>Vie kohdistin hakukenttään ja aloita haku napsauttamalla &lt;g0&gt;Etsi&lt;/g0&gt;-painiketta tai painamalla &lt;k1&gt;Enter&lt;/k1&gt;-näppäintä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T112456Z" creationid="piav" creationdate="20191202T112406Z">
@@ -10572,6 +10580,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T081715Z" creationid="pia" creationdate="20221114T081317Z">
         <seg>Pääset takaisin käyttämään suodattimen oletusasetuksia napsauttamalla &lt;g0&gt;Palauta oletusasetukset&lt;/g0&gt;-painiketta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the drop-down arrow of the &lt;g0&gt;Search for:&lt;/g0&gt; field to access the last ten searches.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T090628Z" creationid="pia" creationdate="20240522T090628Z">
+        <seg>Napsauta &lt;e0&gt;Etsittävä teksti&lt;/e0&gt; -kentän lopussa olevaa nuolta, niin saat näkyville pudotusvalikon, jossa on kymmenen viimeisintä tekemääsi hakua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43785,6 +43801,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T111333Z" creationid="piav" creationdate="20191023T111333Z">
         <seg>Valittujen kielten asentaminen voi kestää jonkin aikaa, mutta näet ne lopulta kielentarkistinikkunassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selection is automatically entered in the search field.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T090508Z" creationid="pia" creationdate="20240522T090508Z">
+        <seg>Maalattu kohta siirtyy automaattisesti hakukentään.</seg>
       </tuv>
     </tu>
     <tu>
