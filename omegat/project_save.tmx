@@ -37782,6 +37782,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select additional criteria such as the person who authored or changed the translation, the date and time of translation (modification), or whether to exclude orphan segments.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T101500Z" creationid="pia" creationdate="20240522T101500Z">
+        <seg>Valitse tarkempia hakukriteerejä, esim. kuka teki käännöksen tai muutti sitä, käännöksen (muutoksen) päivämäärä ja aika, tai sisällytetäänkö hakuun myös yksinäiset segmentit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select appropriate version</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T171010Z" creationid="piav" creationdate="20230511T171010Z">
@@ -40357,6 +40365,14 @@ takaisin samaan kansioon tai sen alikansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TM Search Options</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T101251Z" creationid="pia" creationdate="20240522T101251Z">
+        <seg>Käännösmuistihaun asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TMX Level 1</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220906T181009Z" creationid="piav" creationdate="20220906T181009Z">
@@ -41864,6 +41880,14 @@ Pia Vinkki, FLOSSLATION Oy Ab</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T081346Z" creationid="piav" creationdate="20191211T081113Z">
         <seg>Standardiversio vaatii Java-version {{site.data.versions.standard.java_version}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TM search options only apply to the main memory and not to the reference memories.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T101333Z" creationid="pia" creationdate="20240522T101333Z">
+        <seg>Käännösmuistihaun asetukset koskevat ainoastaan ykköskäännösmuistia, eivät apukäännösmuisteja.</seg>
       </tuv>
     </tu>
     <tu>
