@@ -21637,8 +21637,8 @@ käynnistää ohjelman komennolla</seg>
       <tuv lang="en">
         <seg>If you want to specify a different encoding, you can do so by adding a “magic” comment that takes the following form:</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20240215T132502Z" creationid="piav" creationdate="20240215T132502Z">
-        <seg>Jos haluat käyttää jotakin toista merkistökoodausta, tee se lisäämällä seuraava ”taianomainen”kommentti:</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T100629Z" creationid="piav" creationdate="20240215T132502Z">
+        <seg>Jos haluat käyttää jotakin toista merkistökoodausta, tee se lisäämällä seuraava ”taianomainen” kommentti:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24048,8 +24048,8 @@ inside the configuration folder.</seg>
       <tuv lang="en">
         <seg>It will be created the first time you add an entry to the glossary.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20240215T132048Z" creationid="piav" creationdate="20240215T131940Z">
-        <seg>vaan se luodaan, kunm lisäät ensimmäisen tietueen sanalistalle.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T100618Z" creationid="piav" creationdate="20240215T131940Z">
+        <seg>vaan se luodaan, kun lisäät ensimmäisen tietueen sanalistalle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29552,6 +29552,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T100746Z" creationid="pia" creationdate="20221114T100546Z">
         <seg>OmegaT voi nimetä kohdetiedostot automaattisesti uudelleen lisäämällä niihin esimerkiksi kielikoodin tai aikaleiman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT can conduct searches in any file that it can read as source file.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T100824Z" creationid="pia" creationdate="20240522T100824Z">
+        <seg>OmegaT voi tehdä hakuja kaikenlaisiin tiedostoihin, joita ohjelma voi käyttää lähdetiedostoina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36586,6 +36594,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240522T093952Z" creationid="pia" creationdate="20240522T093952Z">
         <seg>Haku etsii osumia segmenttien yhteyteen kirjoitetuista muistiinpanoista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search in reference files not included in the project resources.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T100735Z" creationid="pia" creationdate="20240522T100735Z">
+        <seg>Haku kohdistuu aputiedostoihin, jotka eivät ole mukana projektiresursseissa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49968,8 +49984,8 @@ Nykyinen asetus on {0} MB;</seg>
       <tuv lang="en">
         <seg>Use glossary terms</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20200704T140838Z" creationid="piav" creationdate="20200704T140830Z">
-        <seg>Käytä sanastotermejä</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T100510Z" creationid="piav" creationdate="20200704T140830Z">
+        <seg>Käytä sanalistan termejä</seg>
       </tuv>
     </tu>
     <tu>
