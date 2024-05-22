@@ -6968,6 +6968,30 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows you to activate or deactivate enabled and properly configured machine translation engines.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T065638Z" creationid="pia" creationdate="20240522T065638Z">
+        <seg>Tässä kohdassa voit aktivoida käytettävissä olevat ja kunnollisesti määritetyt konekääntimet tai ottaa ne pois käytöstä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allows you to activate or deactivate fuzzy matching for dictionary matches.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T065814Z" creationid="pia" creationdate="20240522T065814Z">
+        <seg>Tässä kohdassa voit ottaa käyttöön sumeat sanakirjaosumat tai poistaa ne käytöstä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allows you to activate or deactivate fuzzy matching for glossary matches.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T065745Z" creationid="pia" creationdate="20240522T065745Z">
+        <seg>Tässä kohdassa voit ottaa käyttöön sumeat sanalistaosumat tai poistaa ne käytöstä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows you to activate/deactivate the Machine Translation tools offered.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T141635Z" creationid="piav" creationdate="20191202T141635Z">
@@ -35812,6 +35836,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T134727Z" creationid="piav" creationdate="20230425T134610Z">
         <seg>Lisätietoja löytyy asetusvalikosta &lt;l2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l3/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T065710Z" creationid="pia" creationdate="20240522T065710Z">
+        <seg>Lisätietoja löytyy asetusvalikosta &lt;l3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
