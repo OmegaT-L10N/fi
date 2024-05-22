@@ -22677,6 +22677,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include the project memory (&lt;l0/&gt;).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T094946Z" creationid="pia" creationdate="20240522T094946Z">
+        <seg>Osumia haetaan projektin ykköskäännösmuistista (&lt;l0/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Incompatibilities</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T150604Z" creationid="PiaVee" creationdate="20171014T150604Z">
@@ -26029,6 +26037,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
         <seg>Main Memor&amp;y</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230514T123205Z" creationid="piav" creationdate="20230425T133418Z">
+        <seg>Ykköskäännösmuisti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Main Memory</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T094858Z" creationid="pia" creationdate="20240522T094858Z">
         <seg>Ykköskäännösmuisti</seg>
       </tuv>
     </tu>
@@ -36574,6 +36590,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search in the various bilingual resources of the project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T094837Z" creationid="pia" creationdate="20240522T094816Z">
+        <seg>Haku kohdistuu projektin sisältämiin kaksikielisiin resursseihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search in: Project</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T094746Z" creationid="pia" creationdate="20240522T094746Z">
+        <seg>Etsittävä alue: Projekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search methods and options</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T163312Z" creationid="piav" creationdate="20191209T163206Z">
@@ -37810,6 +37842,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T163317Z" creationid="piav" creationdate="20191209T163225Z">
         <seg>Valitse hakumenetelmä valintanappien avulla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the scope of the search:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T094853Z" creationid="pia" creationdate="20240522T094853Z">
+        <seg>Valitse haun laajuus:</seg>
       </tuv>
     </tu>
     <tu>
