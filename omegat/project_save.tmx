@@ -29558,8 +29558,8 @@ Apit-kansioon.</seg>
       <tuv lang="en">
         <seg>OmegaT can conduct searches in any file that it can read as source file.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240522T100824Z" creationid="pia" creationdate="20240522T100824Z">
-        <seg>OmegaT voi tehdä hakuja kaikenlaisiin tiedostoihin, joita ohjelma voi käyttää lähdetiedostoina.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T101015Z" creationid="pia" creationdate="20240522T100824Z">
+        <seg>Hakuja voi tehdä kaikenlaisista tiedostoista, jotka sopivat OmegaT-ohjelman lähdetiedostoiksi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40377,6 +40377,14 @@ takaisin samaan kansioon tai sen alikansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190523T141842Z" creationid="piav" creationdate="20190523T141842Z">
         <seg>TMX-tiedosto on luotu OmegaT:n versiolla 1.4.x tai aiemmalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX files are excluded from file searches since OmegaT does not recognize them as a source file format despite supporting them as translation memories.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T101138Z" creationid="pia" creationdate="20240522T100922Z">
+        <seg>Vaikka OmegaT käyttää TMX-tiedostoja käännösmuisteina, niistä ei voi tehdä tiedostohakuja, sillä tiedostomuoto ei kelpaa OmegaT-projektin lähdetiedostoksi.</seg>
       </tuv>
     </tu>
     <tu>
