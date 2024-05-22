@@ -10652,6 +10652,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on the &lt;g0&gt;Filter&lt;/g0&gt; button to show only the matching search result segments in the &lt;l1/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T132008Z" creationid="pia" creationdate="20240522T132008Z">
+        <seg>Napsauta &lt;g0&gt;Suodata&lt;/g0&gt;-näppäintä, niin saat &lt;l1/&gt;-ruudulle näkyville ainoastaan hakutuloksia vastaavat segmentit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on the &lt;l0/&gt; button to display a list of dictionaries available at the URL in the &lt;g1&gt;URL of downloadable spellchecking dictionaries&lt;/g1&gt; field above that button.</seg>
       </tuv>
       <tuv lang="fi" changeid="Hanne" changedate="20240408T165935Z" creationid="Hanne" creationdate="20240408T165935Z">
@@ -47688,6 +47696,14 @@ asetukset oletusarvoihinsa.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T172531Z" creationid="piav" creationdate="20191209T172514Z">
         <seg>Poista suodatin napsauttamalla &lt;e0&gt;Poista suodatin&lt;/e0&gt;-painiketta tai lataamalla projekti uudelleen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To remove the filter, click on the &lt;g2&gt;Remove Filter&lt;/g2&gt; button at the top of the &lt;l3/&gt; pane, or reload the project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T132024Z" creationid="pia" creationdate="20240522T132024Z">
+        <seg>Poista suodatus napsauttamalla </seg>
       </tuv>
     </tu>
     <tu>
