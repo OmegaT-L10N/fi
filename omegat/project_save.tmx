@@ -4173,6 +4173,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Close&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;W&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T073129Z" creationid="pia" creationdate="20240522T073129Z">
+        <seg>&lt;g0&gt;Sulje&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;W&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Cycle&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;F3&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T133232Z" creationid="piav" creationdate="20221102T133232Z">
