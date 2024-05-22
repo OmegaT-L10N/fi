@@ -4277,6 +4277,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Properties...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;E&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T074751Z" creationid="pia" creationdate="20240522T074751Z">
+        <seg>&lt;g0&gt;Ominaisuudet…&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;E&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Reload&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;F5&lt;/k2&gt;&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240522T071550Z" creationid="pia" creationdate="20240522T071550Z">
@@ -4369,6 +4377,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220906T193117Z" creationid="piav" creationdate="20220906T193044Z">
         <seg>&lt;g0&gt;Ohita teksti, joka vastaa säännöllistä lauseketta&lt;/g0&gt;: Kaikki tiettyä säännöllistä lauseketta vastaavat tekstit ohitetaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Source Files...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;L&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T074804Z" creationid="pia" creationdate="20240522T074804Z">
+        <seg>&lt;g0&gt;Lähdetiedostot…&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;L&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15621,8 +15637,8 @@ kukaan ei kuule.</seg>
       <tuv lang="en">
         <seg>Every time you create translated files, OmegaT saves the project (see the &lt;l0/&gt; menu item above) and creates reference memories that include the translated segments of the current source file set.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240522T074235Z" creationid="pia" creationdate="20240522T074114Z">
-        <seg>Aina kun luot käännetyt tiedostot, OmegaT tallentaa projektin (ks. &lt;l0/&gt;-valikko yllä) ja luo apukäännösmuistin, josta löytyvät senhetkisten lähdetiedostojen käännetyt segmentit.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T074720Z" creationid="pia" creationdate="20240522T074114Z">
+        <seg>Aina kun luot käännetyt tiedostot, OmegaT tallentaa projektin (ks. &lt;l0/&gt;-valikko yllä) ja luo apukäännösmuisteja, joista löytyvät senhetkisten lähdetiedostojen käännetyt segmentit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21402,6 +21418,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T143744Z" creationid="piav" creationdate="20221102T143744Z">
         <seg>Kohdassa on kolme alivalintaa, jotka avaavat suoraan senhetkisen lähde- tai kohdeasiakirjan tai kirjoituskelpoisen sanaston.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition, there are three menu entries that directly open the current source or target files, or the writable glossary.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T074929Z" creationid="pia" creationdate="20240522T074929Z">
+        <seg>Kohdassa on kolme alivalintaa, jotka avaavat suoraan senhetkisen lähde- tai kohdetiedoston tai kirjoituskelpoisen sanaston.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35967,6 +35991,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; chapter for more details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T074812Z" creationid="pia" creationdate="20240522T074812Z">
+        <seg>Lisätietoja löytyy kappaleesta &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; how-to for details.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20231030T202200Z" creationid="piav" creationdate="20231030T202200Z">
@@ -41313,6 +41345,14 @@ nykyinen kansio.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T153818Z" creationid="piav" creationdate="20230511T153818Z">
         <seg>Tiedostot voi ladata suoraan osoitteesta &lt;u0&gt;https://omegat.org&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The files are opened in the default application set by the operating system.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T075122Z" creationid="pia" creationdate="20240522T075122Z">
+        <seg>Tiedostot avataan käyttöjärjestelmän mukaisessa oletusohjelmassa.</seg>
       </tuv>
     </tu>
     <tu>
