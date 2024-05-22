@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_a8d2077" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -39799,9 +39799,12 @@ current folder will be used instead.</seg>
         <seg>The @language@ version of OmegaT has been translated by:
 @TRANSLATION_NOTICE@</seg>
       </tuv>
-      <tuv lang="fi" changeid="Kos Ivantsov" changedate="20230605T133306Z" creationid="Kos Ivantsov" creationdate="20230605T133306Z">
-        <seg>OmegaT:n on suomentanut
-Pia Vinkki, FLOSSLATION Oy Ab</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T065527Z" creationid="Kos Ivantsov" creationdate="20230605T133306Z">
+        <seg>OmegaT:tä ovat suomentaneet
+Aino Kaarsalo
+Hanne Martikainen
+Tiina Peuhkuri
+Pia Vinkki</seg>
       </tuv>
     </tu>
     <tu>
