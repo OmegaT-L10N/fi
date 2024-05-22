@@ -21548,8 +21548,8 @@ avulla.</seg>
       <tuv lang="en">
         <seg>If you press down ALT key during selecting the menu item, opens a folder enclosing the file, by OS standard file manager such as finder or file explorer, instead of opening the file.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240522T125505Z" creationid="pia" creationdate="20240522T125505Z">
-        <seg>Kun painat ALT-näppäintä ja valitset valikosta tiedoston, sen sisältävä kansio avautuu oletusmuotoisessa tiedostonhallintaohjelmassa (Windows: Resurssienhallinta, Mac: Finder). </seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T125744Z" creationid="pia" creationdate="20240522T125505Z">
+        <seg>Kun painat ALT-näppäintä ja valitset valikosta tiedoston, saat itse tiedoston sijaan avattua sen sisältävän kansion käyttöjärjestelmän oletusmuotoisessa tiedostonhallintaohjelmassa (Windows: Resurssienhallinta, Mac: Finder).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35460,8 +35460,8 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Returns results that match both the full- and half-width forms (CJK characters) of the characters in the search terms.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240522T101715Z" creationid="pia" creationdate="20240522T101715Z">
-        <seg>Tämä koskee CJK-merkkejä: Hakutuloksissa näytetään hakusanojen sekä täys- että puolileveät (CJK-merkit) </seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T125931Z" creationid="pia" creationdate="20240522T101715Z">
+        <seg>Tämä koskee CJK-merkkejä: Hakutuloksina näytetään sekä täys- että puolileveät merkkivastaavuudet.</seg>
       </tuv>
     </tu>
     <tu>
