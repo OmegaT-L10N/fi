@@ -4302,6 +4302,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Quit&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;Q&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T090043Z" creationid="pia" creationdate="20240522T090043Z">
+        <seg>&lt;g0&gt;Lopeta&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;Q&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Reload&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;F5&lt;/k2&gt;&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240522T071550Z" creationid="pia" creationdate="20240522T071550Z">
@@ -12631,6 +12639,14 @@ onko sinun tehtävä vielä muuta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T143910Z" creationid="piav" creationdate="20221102T143910Z">
         <seg>Nykyinen lähdeasiakirja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current Target File</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T090023Z" creationid="pia" creationdate="20240522T090009Z">
+        <seg>Nykyinen kohdetiedosto</seg>
       </tuv>
     </tu>
     <tu>
@@ -31224,8 +31240,8 @@ your home folder.</seg>
       <tuv lang="en">
         <seg>Opens the folder in your default file manager.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240522T075422Z" creationid="pia" creationdate="20240522T075422Z">
-        <seg>Projektikansio avautuu tiedostonhallintaohjelmassa.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T085950Z" creationid="pia" creationdate="20240522T075422Z">
+        <seg>Kansio avautuu tiedostonhallintaohjelmassa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41995,6 +42011,14 @@ nykyinen kansio.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The current target file is located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T090030Z" creationid="pia" creationdate="20240522T090019Z">
+        <seg>Nykyinen kohdetiedosto löytyy &lt;l0/&gt;-kansiosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The data are exported when the segment is opened.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T144947Z" creationid="piav" creationdate="20191030T144947Z">
@@ -49252,6 +49276,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T103418Z" creationid="ainokaarsalo" creationdate="20240412T103418Z">
         <seg>Käytä &lt;l0/&gt;&lt;l1/&gt; suodattaaksesi segmentit asettamiesi kriteerien perusteella, jotta voit tarkastella vain niitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to open a new search window and enter the word or phrase you wish to search for in the search field.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T090241Z" creationid="pia" creationdate="20240522T090241Z">
+        <seg>Komento &lt;l0/&gt;&lt;l1/&gt; avaa uuden hakuikkunan. Kirjoita sen hakukenttään sana tai lauseke, jonka haluat löytää.</seg>
       </tuv>
     </tu>
     <tu>
