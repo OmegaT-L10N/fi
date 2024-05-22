@@ -4216,8 +4216,16 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;New...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;N&lt;/k4&gt;&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240522T071246Z" creationid="pia" creationdate="20240522T071246Z">
-        <seg>&lt;g0&gt;Uusi&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;N&lt;/k4&gt;&lt;/k1&gt;</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T071342Z" creationid="pia" creationdate="20240522T071246Z">
+        <seg>&lt;g0&gt;Uusi…&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;N&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Open...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;O&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T071416Z" creationid="pia" creationdate="20240522T071416Z">
+        <seg>&lt;g0&gt;Avaa…&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;O&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4234,6 +4242,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T113610Z" creationid="piav" creationdate="20191128T113610Z">
         <seg>&lt;g0&gt;Projekti&lt;/g0&gt; &lt;g1&gt;Uusi…&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Reload&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;F5&lt;/k2&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T071550Z" creationid="pia" creationdate="20240522T071550Z">
+        <seg>&lt;g0&gt;Lataa projekti uudelleen&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;F5&lt;/k2&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30086,6 +30102,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open Recent...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T071430Z" creationid="pia" creationdate="20240522T071430Z">
+        <seg>Avaa äskeinen…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open Source File</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171218T072619Z" creationid="PiaVee" creationdate="20171218T072619Z">
@@ -35844,6 +35868,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20231030T203516Z" creationid="piav" creationdate="20231030T203516Z">
         <seg>Lisätietoja löytyy asetusvalikosta &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; section for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T071402Z" creationid="pia" creationdate="20240522T071402Z">
+        <seg>Lisätietoa löydät &lt;l0/&gt;-osiosta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47943,6 +47975,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T101805Z" creationid="piav" creationdate="20191201T101734Z">
         <seg>Käynnistä &lt;a2&gt;OmegaT&lt;/a2&gt; komentoriviltä käyttämällä kansiossa &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; olevaa &lt;f0&gt;OmegaT.jar&lt;/f0&gt;-tiedostoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;g0&gt;Clear Menu&lt;/g0&gt; function to delete the list of recent projects.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T071513Z" creationid="pia" creationdate="20240522T071504Z">
+        <seg>Komento &lt;g0&gt;Tyhjennä valikko&lt;/g0&gt; tyhjentää viimeksi käytettyjen projektien listan.</seg>
       </tuv>
     </tu>
     <tu>
