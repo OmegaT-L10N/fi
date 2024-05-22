@@ -4276,6 +4276,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Edit&lt;/g0&gt; &gt; &lt;g1&gt;Reset Options&lt;/g1&gt;: reset the search window options.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T091822Z" creationid="pia" creationdate="20240522T091756Z">
+        <seg>&lt;g0&gt;Muokkaa&lt;/g0&gt; &gt; &lt;g1&gt;Nollaa valinnat&lt;/g1&gt;: tyhjentää kaikki hakuikkunan valinnat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;File&lt;/g0&gt; &gt; &lt;g1&gt;Close&lt;/g1&gt; (&lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;W&lt;/k4&gt;&lt;/k2&gt;): close the search window.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240522T091327Z" creationid="pia" creationdate="20240522T091327Z">
@@ -36438,6 +36446,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search type</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T091859Z" creationid="pia" creationdate="20240522T091834Z">
+        <seg>Hakutyyppi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search window</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T093650Z" creationid="PiaVee" creationdate="20171014T093650Z">
@@ -36642,6 +36658,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T120759Z" creationid="piav" creationdate="20191127T120702Z">
         <seg>Lisätietoa aiheesta löydät kohdasta &lt;l3&gt;Tiedostosuodattimien asetukset&lt;/l3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l6/&gt;&lt;l7/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T091753Z" creationid="pia" creationdate="20240522T091753Z">
+        <seg>Lisätietoja löytyy kohdasta &lt;l6/&gt;&lt;l7/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49714,6 +49738,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20170910T082822Z" creationid="PiaVee" creationdate="20170910T082822Z">
         <seg>Käytä OmegaT-asennuksen kieltä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the radio buttons to select the type of search.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T092056Z" creationid="pia" creationdate="20240522T092056Z">
+        <seg>Valitse sopiva hakutyyppi painamalla valintanappien avulla. </seg>
       </tuv>
     </tu>
     <tu>
