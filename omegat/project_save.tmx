@@ -26390,8 +26390,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Modified local file filters are saved in the &lt;l0/&gt; file, located in the project folder.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20231030T203926Z" creationid="piav" creationdate="20231030T203829Z">
-        <seg>Paikallisten tiedostosuodattimien muokkaukset tallentuvat projektikansiosta löytyvään tiedostoon &lt;l0/&gt;.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T070637Z" creationid="piav" creationdate="20231030T203829Z">
+        <seg>Erityisten tiedostosuodattimien muokkaukset tallentuvat projektikansiosta löytyvään tiedostoon &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47647,6 +47647,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20231030T202036Z" creationid="piav" creationdate="20231030T202036Z">
         <seg>Sinne pääsee suoraan valitsemalla &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access the local file filter preferences.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T070543Z" creationid="pia" creationdate="20240522T070438Z">
+        <seg>Valitse &lt;l0/&gt;&lt;l1/&gt;, niin pääset käsiksi erityisten tiedostosuodattimien asetuksiin.</seg>
       </tuv>
     </tu>
     <tu>
