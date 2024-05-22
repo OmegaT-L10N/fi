@@ -23709,6 +23709,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is equivalent to a web search enclosed in quotation marks.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T092405Z" creationid="pia" creationdate="20240522T092405Z">
+        <seg>Täsmähaku vastaa nettihakua, jossa haettavat termit kirjoitetaan lainausmerkkeihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T120628Z" creationid="piav" creationdate="20191202T120615Z">
@@ -24492,6 +24500,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171218T121919Z" creationid="PiaVee" creationdate="20171218T121919Z">
         <seg>Editorin pikanäppäimet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keyword search</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T092409Z" creationid="pia" creationdate="20240522T092409Z">
+        <seg>Avainsanahaku</seg>
       </tuv>
     </tu>
     <tu>
@@ -36350,6 +36366,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search for segments containing each of the search terms separated by a space.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T092534Z" creationid="pia" creationdate="20240522T092433Z">
+        <seg>Haku, joka etsii sellaisia segmenttejä, joissa esiintyy jokainen välilyönnein erotettu hakusana. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search for segments containing the exact string you specified.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T163359Z" creationid="piav" creationdate="20191209T163359Z">
@@ -36376,8 +36400,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Search for the string exactly as entered in the search field.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240522T092327Z" creationid="pia" creationdate="20240522T092327Z">
-        <seg>Etsii täsmälleen samanlaista osumaa hakukenttään kirjoitetulle merkkijonolle.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T092438Z" creationid="pia" creationdate="20240522T092327Z">
+        <seg>Haku, joka etsii täsmälleen samanlaista osumaa hakukenttään kirjoitetulle merkkijonolle.</seg>
       </tuv>
     </tu>
     <tu>
