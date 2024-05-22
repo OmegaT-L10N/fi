@@ -18613,8 +18613,8 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossary</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191022T074441Z" creationid="PiaVee" creationdate="20171015T122202Z">
-        <seg>Sanasto</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095225Z" creationid="PiaVee" creationdate="20171015T122202Z">
+        <seg>Sanalista</seg>
       </tuv>
     </tu>
     <tu>
@@ -21775,8 +21775,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>Ignore glossary case</seg>
       </tuv>
-      <tuv lang="fi" changeid="PiaVee" changedate="20171014T093024Z" creationid="PiaVee" creationdate="20171014T092738Z">
-        <seg>Älä huomioi sanaston mukaista alkukirjaimen kokoa</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095221Z" creationid="PiaVee" creationdate="20171014T092738Z">
+        <seg>Älä huomioi sanalistan mukaista alkukirjaimen kokoa</seg>
       </tuv>
     </tu>
     <tu>
@@ -22671,8 +22671,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>Include the glossaries located in the &lt;l0/&gt; folder.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240213T201918Z" creationid="pia" creationdate="20240213T201918Z">
-        <seg>Huomioi &lt;l0/&gt;-kansiossa olevat sanalistat</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095153Z" creationid="pia" creationdate="20240213T201918Z">
+        <seg>Osumia haetaan &lt;l0/&gt;-kansiossa olevista sanalistoista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22681,6 +22681,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240522T094946Z" creationid="pia" creationdate="20240522T094946Z">
         <seg>Osumia haetaan projektin ykköskäännösmuistista (&lt;l0/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include the translation memories located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095045Z" creationid="pia" creationdate="20240522T095045Z">
+        <seg>Osumia haetaan &lt;l0/&gt;-kansiossa olevista käännösmuisteista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26452,8 +26460,8 @@ sekä koneellesi että ohjelmaa varten.</seg>
       <tuv lang="en">
         <seg>Mark Glossary Matches</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191022T074743Z" creationid="piav" creationdate="20190916T141425Z">
-        <seg>Merkitse sanasto-osumat</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095239Z" creationid="piav" creationdate="20190916T141425Z">
+        <seg>Merkitse sanalistalta löytyneet osumat</seg>
       </tuv>
     </tu>
     <tu>
@@ -34106,7 +34114,15 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Reference T&amp;Ms</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230514T123207Z" creationid="piav" creationdate="20230425T133434Z">
+      <tuv lang="fi" changeid="pia" changedate="20240522T095012Z" creationid="piav" creationdate="20230425T133434Z">
+        <seg>Apukäännös&amp;muistit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reference TMs</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T094959Z" creationid="pia" creationdate="20240522T094959Z">
         <seg>Apukäännösmuistit</seg>
       </tuv>
     </tu>
@@ -36594,6 +36610,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240522T094837Z" creationid="pia" creationdate="20240522T094816Z">
         <seg>Haku kohdistuu projektin sisältämiin kaksikielisiin resursseihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search in: Files</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095057Z" creationid="pia" creationdate="20240522T095057Z">
+        <seg>Etsittävä alue: Tiedostot</seg>
       </tuv>
     </tu>
     <tu>
@@ -49936,8 +49960,8 @@ Nykyinen asetus on {0} MB;</seg>
       <tuv lang="en">
         <seg>Use glossary</seg>
       </tuv>
-      <tuv lang="fi" changeid="PiaVee" changedate="20171014T092651Z" creationid="PiaVee" creationdate="20171014T092651Z">
-        <seg>Käytä sanastoa</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095211Z" creationid="PiaVee" creationdate="20171014T092651Z">
+        <seg>Käytä sanalistaa</seg>
       </tuv>
     </tu>
     <tu>
