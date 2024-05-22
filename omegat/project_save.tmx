@@ -814,8 +814,8 @@
       <tuv lang="en">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191022T074932Z" creationid="piav" creationdate="20190522T070732Z">
-        <seg>Ota sanastoehdotukset käyttöön</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T100340Z" creationid="piav" creationdate="20190522T070732Z">
+        <seg>Ota sanalistaehdotukset käyttöön</seg>
       </tuv>
     </tu>
     <tu>
@@ -4638,8 +4638,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191022T075021Z" creationid="piav" creationdate="20190920T134143Z">
-        <seg>&lt;html&gt;Termi: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Sanastot:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T100427Z" creationid="piav" creationdate="20190920T134143Z">
+        <seg>&lt;html&gt;Termi: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Sanalistat:&lt;br&gt;{1}&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9464,8 +9464,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240522T095828Z" creationid="PiaVee" creationdate="20171218T084843Z">
-        <seg>Sanalistakansioon ei pääse käsiksi!</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T100155Z" creationid="PiaVee" creationdate="20171218T084843Z">
+        <seg>Sanalistojen kansioon ei pääse käsiksi!</seg>
       </tuv>
     </tu>
     <tu>
@@ -14645,8 +14645,8 @@ onko sinun tehtävä vielä muuta.</seg>
       <tuv lang="en">
         <seg>Drop glossary files here to add them to the project.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191022T074958Z" creationid="piav" creationdate="20190522T071118Z">
-        <seg>Lisää projektiin sanastotiedostoja pudottamalla ne tähän.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T100419Z" creationid="piav" creationdate="20190522T071118Z">
+        <seg>Lisää projektiin sanalistatiedostoja pudottamalla ne tähän.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18653,16 +18653,16 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossary auto-completer options</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191022T074859Z" creationid="piav" creationdate="20190522T070526Z">
-        <seg>Sanaston automaattisen täydennyksen asetukset</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T100335Z" creationid="piav" creationdate="20190522T070526Z">
+        <seg>Sanalistan automaattisen täydennyksen asetukset</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Glossary entries</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191022T074834Z" creationid="piav" creationdate="20190522T064744Z">
-        <seg>Sanaston termit</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T100317Z" creationid="piav" creationdate="20190522T064744Z">
+        <seg>Sanalistan termit</seg>
       </tuv>
     </tu>
     <tu>
@@ -18693,8 +18693,8 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossary folder {0} does not exist.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240522T100114Z" creationid="piav" creationdate="20190920T120731Z">
-        <seg>Sanalistakansiota {0} ei ole.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T100200Z" creationid="piav" creationdate="20190920T120731Z">
+        <seg>Sanalistojen kansiota {0} ei ole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18717,8 +18717,8 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossary note</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210414T160944Z" creationid="piav" creationdate="20210414T154746Z">
-        <seg>Sanaston muistiinpano</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T100414Z" creationid="piav" creationdate="20210414T154746Z">
+        <seg>Sanalistan muistiinpano</seg>
       </tuv>
     </tu>
     <tu>
@@ -18741,16 +18741,16 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossary source</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210414T160910Z" creationid="piav" creationdate="20210414T154610Z">
-        <seg>Sanaston lähdetermi</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T100356Z" creationid="piav" creationdate="20210414T154610Z">
+        <seg>Lähdetermi sanalistalla</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Glossary translation</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20210414T160918Z" creationid="piav" creationdate="20210414T154724Z">
-        <seg>Sanaston käännetty termi</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T100402Z" creationid="piav" creationdate="20210414T154724Z">
+        <seg>Käännetty termi sanalistalla</seg>
       </tuv>
     </tu>
     <tu>
@@ -51112,8 +51112,8 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
       <tuv lang="en">
         <seg>When checked, the items in the glossary auto-completer view will also contain the source text.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230511T170416Z" creationid="piav" creationdate="20230511T170416Z">
-        <seg>Kun tämä on valittuna, sanaston automaattisen täydennyksen ruudussa näkyy myös lähdekielinen teksti.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T100330Z" creationid="piav" creationdate="20230511T170416Z">
+        <seg>Kun tämä on valittuna, sanalistan automaattisen täydennyksen ruudussa näkyy myös lähdekielinen teksti.</seg>
       </tuv>
     </tu>
     <tu>
