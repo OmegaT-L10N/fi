@@ -7288,6 +7288,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alternatively, select a word or phrase in the &lt;l0/&gt;, &lt;l1/&gt;, or &lt;l2/&gt; pane and use &lt;l3/&gt;&lt;l4/&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T090447Z" creationid="pia" creationdate="20240522T090447Z">
+        <seg>Voit myös maalata sanan tai lausekkeen &lt;l0/&gt;-, &lt;l1/&gt; tai &lt;l2/&gt;-ruudussa ja sitten napsauttaa &lt;l3/&gt;&lt;l4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alternatively, you can select a word or phrase in the Editor pane, Fuzzy matches pane or Glossary pane and hit &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T161503Z" creationid="piav" creationdate="20191209T161345Z">
@@ -19317,6 +19325,14 @@ lopullisesti.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T064906Z" creationid="piav" creationdate="20190522T064855Z">
         <seg>Syöttöhistoriaan perustuva ennakointi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hit &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;F&lt;/k3&gt;&lt;/k0&gt; to reuse the most recent search window.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T090323Z" creationid="pia" creationdate="20240522T090323Z">
+        <seg>Komento &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;F&lt;/k3&gt;&lt;/k0&gt; antaa sinun käyttää viimeisintä hakuikkunaa uudelleen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52229,6 +52245,14 @@ käynnistysvalikkoon, työpöydälle tai pikakäynnistysalueelle.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T161722Z" creationid="piav" creationdate="20191209T161722Z">
         <seg>Voit pitää useita hakuikkunoita auki yhtä aikaa, mutta sulje ne sitä mukaa kun et enää tarvitse niitä, jolloin ikkunat eivät ole sotkemassa työpöytääsi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can have several search windows opened at the same time.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T090248Z" creationid="pia" creationdate="20240522T090248Z">
+        <seg>Voit pitää useita hakuikkunoita auki yhtä aikaa.</seg>
       </tuv>
     </tu>
     <tu>
