@@ -3838,6 +3838,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;In this manual:&lt;/e0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;N&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T071129Z" creationid="pia" creationdate="20240522T071129Z">
+        <seg>&lt;e0&gt;Tässä käsikirjassa:&lt;/e0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;N&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T121319Z" creationid="piav" creationdate="20191129T121319Z">
@@ -4202,6 +4210,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T144824Z" creationid="piav" creationdate="20221102T144755Z">
         <seg>&lt;g0&gt;LanguageTool-virheet&lt;/g0&gt; (valinnainen): kieliopilliset tai typografiset virheet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;New...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;N&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T071246Z" creationid="pia" creationdate="20240522T071246Z">
+        <seg>&lt;g0&gt;Uusi&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;N&lt;/k4&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36940,6 +36956,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190523T093534Z" creationid="piav" creationdate="20190522T074011Z">
         <seg>Pikanäppäin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shortcut description example</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T071200Z" creationid="pia" creationdate="20240522T071111Z">
+        <seg>Näin näppäinyhdistelmät kuvataan</seg>
       </tuv>
     </tu>
     <tu>
