@@ -4700,6 +4700,30 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;C&lt;/k0&gt;&lt;k1&gt;J&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T131024Z" creationid="pia" creationdate="20240522T131024Z">
+        <seg>&lt;k0&gt;C&lt;/k0&gt;&lt;k1&gt;J&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;C&lt;/k0&gt;&lt;k1&gt;N&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T130906Z" creationid="pia" creationdate="20240522T130906Z">
+        <seg>&lt;k0&gt;C&lt;/k0&gt;&lt;k1&gt;N&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;C&lt;/k0&gt;&lt;k1&gt;P&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T130920Z" creationid="pia" creationdate="20240522T130920Z">
+        <seg>&lt;k0&gt;C&lt;/k0&gt;&lt;k1&gt;P&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; or &lt;k1&gt;Enter&lt;/k1&gt; or &lt;k2&gt;Tab&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T063207Z" creationid="piav" creationdate="20191023T063207Z">
@@ -24408,6 +24432,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Jump to the current segment in the editor.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T131047Z" creationid="pia" creationdate="20240522T131047Z">
+        <seg>Siirry editori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Jumping to last edited segment...</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T102457Z" creationid="PiaVee" creationdate="20171015T125202Z">
@@ -27564,6 +27596,22 @@ as the Applications folder.</seg>
       <tuv lang="fi" changeid="piav" changedate="20191211T100147Z" creationid="piav" creationdate="20191211T100147Z">
         <seg>Siirrä kansio sopivaan sijaintiin, esimerkiksi
 Apit-kansioon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move to the next segment</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T130917Z" creationid="pia" creationdate="20240522T130917Z">
+        <seg>Siirry seuraavaan segmenttiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move to the preceding segment</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T131022Z" creationid="pia" creationdate="20240522T131022Z">
+        <seg>Siirry edelliseen segmenttiin.</seg>
       </tuv>
     </tu>
     <tu>
