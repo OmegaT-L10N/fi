@@ -16026,6 +16026,14 @@ kukaan ei kuule.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exact search</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T092122Z" creationid="pia" creationdate="20240522T092122Z">
+        <seg>Täsmähaku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Example - Search and Replace</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20170910T084123Z" creationid="PiaVee" creationdate="20170910T084123Z">
@@ -36366,6 +36374,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search for the string exactly as entered in the search field.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T092327Z" creationid="pia" creationdate="20240522T092327Z">
+        <seg>Etsii täsmälleen samanlaista osumaa hakukenttään kirjoitetulle merkkijonolle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search for ドイツ</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240522T090944Z" creationid="pia" creationdate="20240522T090944Z">
@@ -42701,6 +42717,14 @@ nykyinen kansio.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T163326Z" creationid="piav" creationdate="20191209T163307Z">
         <seg>Voit valita seuraavista hakumenetelmistä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following search types are available:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T092115Z" creationid="pia" creationdate="20240522T092115Z">
+        <seg>Voit valita seuraavista hakutyypeistä:</seg>
       </tuv>
     </tu>
     <tu>
