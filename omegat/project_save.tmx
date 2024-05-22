@@ -2398,7 +2398,7 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
 	- use your file manager to copy files to the 'source' folder,
 	  and then use Project &gt; Reload to reload the project.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240522T072341Z" creationid="piav" creationdate="20230425T114239Z">
+      <tuv lang="fi" changeid="pia" changedate="20240522T072429Z" creationid="piav" creationdate="20230425T114239Z">
         <seg>- raahamalla ja pudottamalla tiedostoja tähän ruutuun
 	- kohdassa Projekti &gt; Kopioi tiedostoja lähdekansioon…
 	- kohdassa Projekti &gt; Lähdetiedostot… (napsauta uudessa ikkunassa kohtaa Lisää tiedostoja…)
