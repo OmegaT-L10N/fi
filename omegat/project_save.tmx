@@ -4252,6 +4252,30 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Edit&lt;/g0&gt; &gt; &lt;g1&gt;Create Glossary Entry&lt;/g1&gt; (&lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt;): add a new glossary item.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T091741Z" creationid="pia" creationdate="20240522T091741Z">
+        <seg>&lt;g0&gt;Muokkaa&lt;/g0&gt; &gt; &lt;g1&gt;Luo sanaston termi&lt;/g1&gt; (&lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt;): näytölle avautuu uusi ikkuna, jossa käyttäjä voi lisätä uuden termin omaan sanastoonsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Edit&lt;/g0&gt; &gt; &lt;g1&gt;Insert Source&lt;/g1&gt; (&lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;I&lt;/k5&gt;&lt;/k2&gt;): insert the content of the current source segment.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T091519Z" creationid="pia" creationdate="20240522T091519Z">
+        <seg>&lt;g0&gt;Muokkaa&lt;/g0&gt; &gt; &lt;g1&gt;Lisää lähde&lt;/g1&gt; (&lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;I&lt;/k5&gt;&lt;/k2&gt;): senhetkisen lähdesegmentin koko sisältö lisätään hakuikkunaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Edit&lt;/g0&gt; &gt; &lt;g1&gt;Replace with Source&lt;/g1&gt; (&lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;R&lt;/k5&gt;&lt;/k2&gt;): replace the contents of the search field with those of the current source segment.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T091611Z" creationid="pia" creationdate="20240522T091611Z">
+        <seg>&lt;g0&gt;Muokkaa&lt;/g0&gt; &gt; &lt;g1&gt;Korvaa lähdetekstillä&lt;/g1&gt; (&lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;R&lt;/k5&gt;&lt;/k2&gt;): hakukentän sisältö korvataan senhetkisen lähdesegmentin sisällöllä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;File&lt;/g0&gt; &gt; &lt;g1&gt;Close&lt;/g1&gt; (&lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;W&lt;/k4&gt;&lt;/k2&gt;): close the search window.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240522T091327Z" creationid="pia" creationdate="20240522T091327Z">
@@ -43773,8 +43797,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="en">
         <seg>The search window has its own menus:</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240522T091144Z" creationid="pia" creationdate="20240522T091022Z">
-        <seg>Hakuikkunassa on omat ylävalikkonsa:</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T091402Z" creationid="pia" creationdate="20240522T091022Z">
+        <seg>Hakuikkunan yläosassa on kaksi valikkoa:</seg>
       </tuv>
     </tu>
     <tu>
