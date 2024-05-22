@@ -17901,6 +17901,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T070819Z" creationid="pia" creationdate="20240522T070819Z">
+        <seg>Yleiset segmentointisäännöt…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global post-processing commands</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T170319Z" creationid="piav" creationdate="20230511T170319Z">
@@ -44514,6 +44522,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This menu gives you access to project management commands.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T071029Z" creationid="pia" creationdate="20240522T071029Z">
+        <seg>Tästä valikosta löytyy käännösprojektin hallintaan liityviä komentoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This method has a particular benefit of being suitable for finding causes of problems: if an error occurs during use of the program, an error message is output in the terminal window which may contain useful information on the cause of the error.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T114904Z" creationid="piav" creationdate="20191201T114904Z">
@@ -47655,6 +47671,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240522T070543Z" creationid="pia" creationdate="20240522T070438Z">
         <seg>Valitse &lt;l0/&gt;&lt;l1/&gt;, niin pääset käsiksi erityisten tiedostosuodattimien asetuksiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access the local segmentation rules preferences.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T070908Z" creationid="pia" creationdate="20240522T070908Z">
+        <seg>Valitse &lt;l0/&gt;&lt;l1/&gt;, niin pääset käsiksi erityisten segmenttisääntöjen asetuksiin.</seg>
       </tuv>
     </tu>
     <tu>
