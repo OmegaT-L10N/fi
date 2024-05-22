@@ -22269,6 +22269,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In source</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T093829Z" creationid="pia" creationdate="20240522T093829Z">
+        <seg>Lähdetekstissä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In spite of the period, &lt;e0&gt;"Mrs. Dalloway "&lt;/e0&gt; should not be split in two segments, so an exception rule should be established for Mrs (and for Mr, for Dr, for prof etc), followed by a period.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T132157Z" creationid="piav" creationdate="20191030T132157Z">
@@ -22561,6 +22569,14 @@ kaksoisnapsauta sitä.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T130117Z" creationid="piav" creationdate="20191201T130047Z">
         <seg>Tässä tilassa OmegaT yrittää kääntää kansiossa &lt;f0&gt;/source/&lt;/f0&gt; olevat tiedostot saatavilla olevien käännösmuistien avulla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In translation</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T093855Z" creationid="pia" creationdate="20240522T093855Z">
+        <seg>Käännöksessä</seg>
       </tuv>
     </tu>
     <tu>
@@ -36490,6 +36506,38 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T134956Z" creationid="piav" creationdate="20190521T134956Z">
         <seg>Etsittävä alue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search in comments attached to segments.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T094025Z" creationid="pia" creationdate="20240522T094025Z">
+        <seg>Haku etsii osumia segmenteihin liitetyistä kommenteista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search in notes attached to segments.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T093952Z" creationid="pia" creationdate="20240522T093952Z">
+        <seg>Haku etsii osumia segmenttien yhteyteen kirjoitetuista muistiinpanoista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search in the source segments.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T093923Z" creationid="pia" creationdate="20240522T093850Z">
+        <seg>Haku etsii osumia lähdesegmenteistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search in the target segments.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T093928Z" creationid="pia" creationdate="20240522T093912Z">
+        <seg>Haku etsii osumia kohdesegmenteistä.</seg>
       </tuv>
     </tu>
     <tu>
