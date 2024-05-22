@@ -14387,6 +14387,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-click on a segment to open it in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T130745Z" creationid="pia" creationdate="20240522T130734Z">
+        <seg>Kaksoisnapsauta segmenttiä, niin saat sen &lt;l0/&gt;-ruudulle näkyviin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click on the OmegaT application.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T101434Z" creationid="piav" creationdate="20191211T101434Z">
@@ -17959,6 +17967,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T130623Z" creationid="piav" creationdate="20191030T130623Z">
         <seg>Jotta näin tapahtuu, tarvitaan katkaisusääntöä, jossa ?-merkin jälkeen tulee välilyönti ja isolla kirjaimella alkava sana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For translated segments, the original text is displayed above the translated text.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T130621Z" creationid="pia" creationdate="20240522T130621Z">
+        <seg>Jos segmentti on käännetty, listalla on ensin alkukielinen teksti ja sen alla käännösteksti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31048,6 +31064,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T145250Z" creationid="pia" creationdate="20221114T145250Z">
         <seg>Tässä kuvataan vain ne valinnat, jotka eivät ole käytössä XHTML-tiedostosuodattimen (ks- yllä)  kohdalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the source text is displayed for untranslated segments.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T130645Z" creationid="pia" creationdate="20240522T130645Z">
+        <seg>Jos segmenttiä ei ole käännetty, siitä näkyy vain alkukielinen teksti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52616,6 +52640,14 @@ käynnistysvalikkoon, työpöydälle tai pikakäynnistysalueelle.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221110T132037Z" creationid="pia" creationdate="20221110T132037Z">
         <seg>Voit myös käyttää muita määrityskansioita käynnistämällä OmegaT:n komentoriviltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also use the following shortcuts in the search results:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T130903Z" creationid="pia" creationdate="20240522T130903Z">
+        <seg>Hakutuloksia voi selata seuraavilla näppäinyhdistelmillä: </seg>
       </tuv>
     </tu>
     <tu>
