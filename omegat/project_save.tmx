@@ -4270,8 +4270,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Edit&lt;/g0&gt; &gt; &lt;g1&gt;Create Glossary Entry&lt;/g1&gt; (&lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt;): add a new glossary item.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240522T091741Z" creationid="pia" creationdate="20240522T091741Z">
-        <seg>&lt;g0&gt;Muokkaa&lt;/g0&gt; &gt; &lt;g1&gt;Luo sanaston termi&lt;/g1&gt; (&lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt;): näytölle avautuu uusi ikkuna, jossa käyttäjä voi lisätä uuden termin omaan sanastoonsa.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095349Z" creationid="pia" creationdate="20240522T091741Z">
+        <seg>&lt;g0&gt;Muokkaa&lt;/g0&gt; &gt; &lt;g1&gt;Luo sanalistan termi&lt;/g1&gt; (&lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt;): näytölle avautuu uusi ikkuna, jossa käyttäjä voi lisätä uuden termin omalle sanalistalleen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4542,8 +4542,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional): detects all the glossary items that are not properly translated.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T144738Z" creationid="piav" creationdate="20221102T144738Z">
-        <seg>&lt;g0&gt;Termivirheet&lt;/g0&gt; (valinnainen): kaikki sanastossa olevat termit, joita ei ole käännetty oikein.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095321Z" creationid="piav" creationdate="20221102T144738Z">
+        <seg>&lt;g0&gt;Termivirheet&lt;/g0&gt; (valinnainen): kaikki sanalistan termit, joita ei ole käännetty oikein.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6472,8 +6472,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>Add terms to a glossary whilst translating in OmegaT</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191210T171026Z" creationid="piav" creationdate="20191210T171026Z">
-        <seg>lisätä sanaston termejä samaan aikaan kun käännät OmegaT:llä</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095440Z" creationid="piav" creationdate="20191210T171026Z">
+        <seg>lisätä termejä sanalistalle samaan aikaan kun käännät OmegaT:llä</seg>
       </tuv>
     </tu>
     <tu>
@@ -21991,8 +21991,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>In addition, there are three menu entries that directly open the current source or target files, or the writable glossary.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240522T074929Z" creationid="pia" creationdate="20240522T074929Z">
-        <seg>Kohdassa on kolme alivalintaa, jotka avaavat suoraan senhetkisen lähde- tai kohdetiedoston tai kirjoituskelpoisen sanaston.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095508Z" creationid="pia" creationdate="20240522T074929Z">
+        <seg>Kohdassa on kolme alivalintaa, jotka avaavat suoraan senhetkisen lähde- tai kohdetiedoston tai kirjoituskelpoisen sanalistan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43677,8 +43677,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="en">
         <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191210T181536Z" creationid="piav" creationdate="20191210T181415Z">
-        <seg>Paras kaveri meille, jotka emme vaadi monimutkaisuutta vaan tehokkuutta. Sanastot, automaattinen täydennys ja automaattinen käännös tekevät kaunokirjallisesta kääntämisestä niin paljon tehokkaampaa.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095414Z" creationid="piav" creationdate="20191210T181415Z">
+        <seg>Paras kaveri meille, jotka emme vaadi monimutkaisuutta vaan tehokkuutta. Sanalistat, automaattinen täydennys ja automaattinen käännös tekevät kaunokirjallisesta kääntämisestä niin paljon tehokkaampaa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44925,8 +44925,8 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       <tuv lang="en">
         <seg>The writable glossary is located in the &lt;l0/&gt; folder.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T143951Z" creationid="piav" creationdate="20221102T143951Z">
-        <seg>Kirjoituskelpoinen sanasto löytyy &lt;l0/&gt;-kansiosta.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095525Z" creationid="piav" creationdate="20221102T143951Z">
+        <seg>Kirjoituskelpoinen sanalista löytyy &lt;l0/&gt;-kansiosta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50282,8 +50282,8 @@ Nykyinen asetus on {0} MB;</seg>
       <tuv lang="en">
         <seg>User glossaries with recognition of inflected forms</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20200328T104455Z" creationid="piav" creationdate="20191210T180059Z">
-        <seg>Käyttäjän luomien sanastojen käyttö ja taivutusmuotojen tunnistus</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095406Z" creationid="piav" creationdate="20191210T180059Z">
+        <seg>Käyttäjän luomien sanalistojen käyttö ja taivutusmuotojen tunnistus</seg>
       </tuv>
     </tu>
     <tu>
@@ -51832,16 +51832,16 @@ ei enää löydy.</seg>
       <tuv lang="en">
         <seg>Writable Glossary</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20221102T143939Z" creationid="piav" creationdate="20221102T143939Z">
-        <seg>Kirjoituskelpoinen sanasto</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095521Z" creationid="piav" creationdate="20221102T143939Z">
+        <seg>Kirjoituskelpoinen sanalista</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Writable Glossary File</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T130143Z" creationid="piav" creationdate="20230425T130143Z">
-        <seg>Kirjoituskelpoinen sanastotiedosto</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095532Z" creationid="piav" creationdate="20230425T130143Z">
+        <seg>Kirjoituskelpoinen sanalistatiedosto</seg>
       </tuv>
     </tu>
     <tu>
@@ -55322,8 +55322,8 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
       <tuv lang="en">
         <seg>glossary</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20191208T124645Z" creationid="piav" creationdate="20191208T124645Z">
-        <seg>FZZ Sanasto</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T095605Z" creationid="piav" creationdate="20191208T124645Z">
+        <seg>glossary</seg>
       </tuv>
     </tu>
     <tu>
