@@ -13787,6 +13787,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display: file names</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T094600Z" creationid="pia" creationdate="20240522T094600Z">
+        <seg>Näytä: tiedostonimet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displaying tags in non-OmegaT TMXs</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T084112Z" creationid="piav" creationdate="20191127T084001Z">
@@ -43431,6 +43439,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190515T072544Z" creationid="PiaVee" creationdate="20171220T093524Z">
         <seg>Tällöin OmegaT olettaa, että teksti on kirjoitettu samalla kielellä, jota tietokonekin käyttää.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The name of the file where the segment is found is displayed above each result.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T094727Z" creationid="pia" creationdate="20240522T094727Z">
+        <seg>Jokaisen hakutuloksen yläpuolella lukee sen tiedoston nimi, josta hakuosuman sisältävä segmentti löytyi.</seg>
       </tuv>
     </tu>
     <tu>
