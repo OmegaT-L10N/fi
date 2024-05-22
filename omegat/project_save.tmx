@@ -2456,6 +2456,20 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-- 148&gt; | language = [[日本語]]・[[&lt;t0&gt;ドイツ&lt;/t0&gt;語]]
+---------
+-- 177&gt; [[2001年]]、&lt;t1&gt;ドイツ&lt;/t1&gt;の永住権を取得。
+---------</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T091011Z" creationid="pia" creationdate="20240522T091011Z">
+        <seg>-- 148&gt; | language = [[日本語]]・[[&lt;t0&gt;ドイツ&lt;/t0&gt;語]]
+---------
+-- 177&gt; [[2001年]]、&lt;t1&gt;ドイツ&lt;/t1&gt;の永住権を取得。
+---------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>---- Localization Notes ----</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T180000Z" creationid="piav" creationdate="20190521T180000Z">
@@ -26636,6 +26650,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches will be displayed in bold blue characters.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T090919Z" creationid="pia" creationdate="20240522T090919Z">
+        <seg>Osumat näytetään lihavoiduin sinisin merkein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matching segments: {0}</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230510T130021Z" creationid="piav" creationdate="20230510T130021Z">
@@ -36292,6 +36314,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20200704T142333Z" creationid="piav" creationdate="20191022T070300Z">
         <seg>Etsi haluttua kieliyhdistelmää esimerkiksi &lt;u0&gt;OmegaT-wikin sanakirjalinkeistä&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search for ドイツ</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T090944Z" creationid="pia" creationdate="20240522T090944Z">
+        <seg>Merkkiyhdistelmäm ドイツ hakeminen</seg>
       </tuv>
     </tu>
     <tu>
