@@ -4252,6 +4252,22 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;File&lt;/g0&gt; &gt; &lt;g1&gt;Close&lt;/g1&gt; (&lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;W&lt;/k4&gt;&lt;/k2&gt;): close the search window.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T091327Z" creationid="pia" creationdate="20240522T091327Z">
+        <seg>&lt;g0&gt;Tiedosto&lt;/g0&gt; &gt; &lt;g1&gt;Sulje&lt;/g1&gt; (&lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;W&lt;/k4&gt;&lt;/k2&gt;): close the search window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;File&lt;/g0&gt; &gt; &lt;g1&gt;Search for Selection&lt;/g1&gt; (&lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;F&lt;/k4&gt;&lt;/k2&gt;): the current selection is inserted in the search field.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T091312Z" creationid="pia" creationdate="20240522T091116Z">
+        <seg>&lt;g0&gt;Tiedosto&lt;/g0&gt; &gt; &lt;g1&gt;Etsi valintaa&lt;/g1&gt; (&lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;F&lt;/k4&gt;&lt;/k2&gt;): tekstin maalattu kohta lisätään hakukenttään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Ignore file context when identifying segments with alternate translations&lt;/g0&gt;: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220906T192823Z" creationid="piav" creationdate="20220906T192823Z">
@@ -43751,6 +43767,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T162818Z" creationid="piav" creationdate="20191209T162818Z">
         <seg>Esimerkiksi hakutermi &lt;l0&gt;run*&lt;/l0&gt; löytää sanat &lt;l1&gt;run&lt;/l1&gt;, &lt;l2&gt;runs&lt;/l2&gt; ja &lt;l3&gt;running&lt;/l3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The search window has its own menus:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T091144Z" creationid="pia" creationdate="20240522T091022Z">
+        <seg>Hakuikkunassa on omat ylävalikkonsa:</seg>
       </tuv>
     </tu>
     <tu>
