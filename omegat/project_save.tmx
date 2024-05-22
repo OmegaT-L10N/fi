@@ -3580,6 +3580,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c0&gt;*&lt;/c0&gt; matches zero or more characters, from the current position up to the end of a word.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T092725Z" creationid="pia" creationdate="20240522T092725Z">
+        <seg>Tähtimerkki &lt;c0&gt;*&lt;/c0&gt; vastaa nollaa tai useampaa merkkiä nykyisestä sijainnista sanan loppuun saakka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T060512Z" creationid="piav" creationdate="20191023T060358Z">
@@ -3592,6 +3600,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T075611Z" creationid="piav" creationdate="20191023T054953Z">
         <seg>&lt;c0&gt;&lt;muuntonäppäin&gt;&lt;/c0&gt; voi olla &lt;e1&gt;vaihto (shift)&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;c0&gt;?&lt;/c0&gt; matches any single character.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T092808Z" creationid="pia" creationdate="20240522T092808Z">
+        <seg>Kysymysmerkki &lt;c0&gt;?&lt;/c0&gt; vastaa mitä tahansa yhtä merkkiä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23717,6 +23733,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is equivalent to a web search without quotation marks.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T092551Z" creationid="pia" creationdate="20240522T092551Z">
+        <seg>Avainsanahaku vastaa nettihakua, jossa ei käytetä lainausmerkkejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T120628Z" creationid="piav" creationdate="20191202T120615Z">
@@ -41042,6 +41066,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;c0&gt;*&lt;/c0&gt; and &lt;c1&gt;?&lt;/c1&gt; characters can be used in both exact and keyword searches:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T092643Z" creationid="pia" creationdate="20240522T092643Z">
+        <seg>Sekä täsmähaussa että avainsanahaussa voi käyttää jokerimerkkejä &lt;c0&gt;*&lt;/c0&gt; ja &lt;c1&gt;?&lt;/c1&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;c0&gt;Microsoft Office Open XML (legacy filter)&lt;/c0&gt; is the original OmegaT filter.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240213T163640Z" creationid="pia" creationdate="20240213T163640Z">
@@ -43863,6 +43895,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T162818Z" creationid="piav" creationdate="20191209T162818Z">
         <seg>Esimerkiksi hakutermi &lt;l0&gt;run*&lt;/l0&gt; löytää sanat &lt;l1&gt;run&lt;/l1&gt;, &lt;l2&gt;runs&lt;/l2&gt; ja &lt;l3&gt;running&lt;/l3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The search term &lt;l0&gt;run*&lt;/l0&gt;, for example, matches &lt;l1&gt;run&lt;/l1&gt;, &lt;l2&gt;runs&lt;/l2&gt; and &lt;l3&gt;running&lt;/l3&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T092848Z" creationid="pia" creationdate="20240522T092739Z">
+        <seg>Esimerkiksi hakulauseke &lt;l0&gt;run*&lt;/l0&gt; löytää sanat &lt;l1&gt;run&lt;/l1&gt;, &lt;l2&gt;runs&lt;/l2&gt; ja &lt;l3&gt;running&lt;/l3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
