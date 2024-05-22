@@ -13779,6 +13779,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display: all matching segments</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T094308Z" creationid="pia" creationdate="20240522T094308Z">
+        <seg>Näytä: kaikki osuvat segmentit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displaying tags in non-OmegaT TMXs</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T084112Z" creationid="piav" creationdate="20191127T084001Z">
@@ -15998,6 +16006,14 @@ kukaan ei kuule.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T112026Z" creationid="piav" creationdate="20191129T112026Z">
         <seg>Paikallinen projekti synkronoidaan etävaraston kanssa (oletusarvoisesti) kolmen minuutin välein. Näin projektipäällikkö tai muut kääntäjät voivat nähdä ja käyttää tänä aikana käännösmuistiin lisättyjä käännöksiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every segment is displayed individually, even if it is a repetition found in either the same document or a different document in the project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T094537Z" creationid="pia" creationdate="20240522T094537Z">
+        <seg>Hakutuloslistalla näkyy jokainen osuman sisältävä segmentti, myös samasta tiedostosta löytyvät toistuvat segmentit sekä toistot, jotka löytyvät muista saman projektin tiedostoista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36510,10 +36526,18 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search in both translated and untranslated segments.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T094201Z" creationid="pia" creationdate="20240522T094137Z">
+        <seg>Haku etsii osumia sekä käännetyistä että kääntämättömistä segmenteistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search in comments attached to segments.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240522T094025Z" creationid="pia" creationdate="20240522T094025Z">
-        <seg>Haku etsii osumia segmenteihin liitetyistä kommenteista.</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T094102Z" creationid="pia" creationdate="20240522T094025Z">
+        <seg>Haku etsii osumia segmentteihin liitetyistä kommenteista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36546,6 +36570,22 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T163312Z" creationid="piav" creationdate="20191209T163206Z">
         <seg>Hakumenetelmät ja asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search only in translated segments.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T094221Z" creationid="pia" creationdate="20240522T094157Z">
+        <seg>Haku etsii ainoastaan käännetyistä segmenteistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search only in untranslated segments.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T094244Z" creationid="pia" creationdate="20240522T094244Z">
+        <seg>Haku etsii ainoastaan kääntämättömistä segmenteistä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47882,6 +47922,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T094142Z" creationid="pia" creationdate="20240522T094142Z">
+        <seg>Käännetty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated File Encoding</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190521T175731Z" creationid="piav" creationdate="20190521T175708Z">
@@ -48023,6 +48071,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T120453Z" creationid="piav" creationdate="20190920T120453Z">
         <seg>Käännettyjen tiedostojen sijaintia ei määritelty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated or untranslated</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T094108Z" creationid="pia" creationdate="20240522T094108Z">
+        <seg>Käännetty tai kääntämättä</seg>
       </tuv>
     </tu>
     <tu>
@@ -49087,6 +49143,14 @@ rivillä {1}, sarakkeessa {2}.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T135340Z" creationid="piav" creationdate="20191127T135340Z">
         <seg>Kun opettelet käyttämään &lt;a0&gt;OmegaT&lt;/a0&gt;:tä, luo käännettyjä tiedostoja säännöllisin väliajoin ja tarkista, että tiedostossa on käännöksen uusin versio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Untranslated</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T094230Z" creationid="pia" creationdate="20240522T094230Z">
+        <seg>Kääntämättä</seg>
       </tuv>
     </tu>
     <tu>
