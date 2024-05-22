@@ -17885,6 +17885,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global File Filters...</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T070348Z" creationid="pia" creationdate="20240522T070348Z">
+        <seg>Yleiset tiedostosuodattimet…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global Segmentation Rules</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230510T134107Z" creationid="piav" creationdate="20230510T134107Z">
@@ -30334,6 +30342,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T070414Z" creationid="pia" creationdate="20240522T070414Z">
+        <seg>&lt;l0/&gt;-valintaikkuna avautuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0/&gt; window, which allows you to set the location where scripts are stored, as well was write and run scripts, and assign them a shortcut.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T145918Z" creationid="piav" creationdate="20221102T145918Z">
@@ -36484,6 +36500,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T151352Z" creationid="piav" creationdate="20191202T151257Z">
         <seg>Valitse kaksi kohdistettavaa tiedostoa (lähdetiedosto ja sen käännös) ja napsauta OK, niin &lt;l0&gt;&lt;g1&gt;Kohdistus&lt;/g1&gt;-ikkuna&lt;/l0&gt; avautuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the various options to activate or deactivate them.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T070329Z" creationid="pia" creationdate="20240522T070329Z">
+        <seg>Merkitse vaihtoehdot, joita haluat käyttää, tai poista merkintä, niin otat vaihtoehdon pois käytöstä.</seg>
       </tuv>
     </tu>
     <tu>
