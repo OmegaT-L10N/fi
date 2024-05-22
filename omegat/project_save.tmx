@@ -4189,6 +4189,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Create Current Translated File&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;D&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T074251Z" creationid="pia" creationdate="20240522T074251Z">
+        <seg>&lt;g0&gt;Luo nykyinen käännetty tiedosto&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;D&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Create Translated Files&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;D&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240522T073743Z" creationid="pia" creationdate="20240522T073743Z">
@@ -11850,6 +11858,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creates the target file corresponding to source file currently being translated.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T074324Z" creationid="pia" creationdate="20240522T074324Z">
+        <seg>OmegaT luo kohdetiedoston, joka vastaa sillä hetkellä käännettävänä olevaa lähdetiedostoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creates the target files based on your translation.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240522T073807Z" creationid="pia" creationdate="20240522T073807Z">
@@ -15597,8 +15613,8 @@ kukaan ei kuule.</seg>
       <tuv lang="en">
         <seg>Every time you create translated files, OmegaT saves the project (see the &lt;l0/&gt; menu item above) and creates reference memories that include the translated segments of the current source file set.</seg>
       </tuv>
-      <tuv lang="fi" changeid="pia" changedate="20240522T074114Z" creationid="pia" creationdate="20240522T074114Z">
-        <seg>Aina kun luot käännetyt tiedostot, OmegaT tallentaa projektin (ks. &lt;l0/&gt;-valikko yllä) ja luo </seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T074235Z" creationid="pia" creationdate="20240522T074114Z">
+        <seg>Aina kun luot käännetyt tiedostot, OmegaT tallentaa projektin (ks. &lt;l0/&gt;-valikko yllä) ja luo apukäännösmuistin, josta löytyvät senhetkisten lähdetiedostojen käännetyt segmentit.</seg>
       </tuv>
     </tu>
     <tu>
