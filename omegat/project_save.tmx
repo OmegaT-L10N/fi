@@ -2398,12 +2398,11 @@ projektin muokkaamiseen ryhmäprojektina.)</seg>
 	- use your file manager to copy files to the 'source' folder,
 	  and then use Project &gt; Reload to reload the project.</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230425T114915Z" creationid="piav" creationdate="20230425T114239Z">
-        <seg>– raahamalla ja pudottamalla tiedostoja editoriruutuun
-– kohdassa Projekti &gt; Kopioi tiedostoja lähdekansioon...
-– kohdassa Projekti &gt; Projektin tiedostot... (napsauta kohtaa Kopioi tiedostoja lähdekansioon…)
-– tiedostonhallintaohjelmassa: kopioi tiedostoja projektin /source-kansioon ja lataa projekti uudelleen (Projekti &gt; Lataa uudelleen).
-</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T072341Z" creationid="piav" creationdate="20230425T114239Z">
+        <seg>- raahamalla ja pudottamalla tiedostoja tähän ruutuun
+	- kohdassa Projekti &gt; Kopioi tiedostoja lähdekansioon…
+	- kohdassa Projekti &gt; Lähdetiedostot… (napsauta uudessa ikkunassa kohtaa Lisää tiedostoja…)
+	- tiedostonhallintaohjelmassa: kopioi tiedostoja projektin /source-kansioon ja lataa projekti uudelleen (Projekti &gt; Lataa projekti uudelleen).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32924,8 +32923,8 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Re&amp;load</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20230514T122509Z" creationid="piav" creationdate="20230425T120116Z">
-        <seg>Lataa uudelleen</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T071650Z" creationid="piav" creationdate="20230425T120116Z">
+        <seg>Lataa projekti uude&amp;lleen</seg>
       </tuv>
     </tu>
     <tu>
@@ -33268,8 +33267,8 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Reload</seg>
       </tuv>
-      <tuv lang="fi" changeid="piav" changedate="20190920T131757Z" creationid="piav" creationdate="20190920T131757Z">
-        <seg>Lataa uudelleen</seg>
+      <tuv lang="fi" changeid="pia" changedate="20240522T071656Z" creationid="piav" creationdate="20190920T131757Z">
+        <seg>Lataa projekti uudelleen</seg>
       </tuv>
     </tu>
     <tu>
