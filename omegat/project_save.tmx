@@ -4189,6 +4189,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Create Translated Files&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;D&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T073743Z" creationid="pia" creationdate="20240522T073743Z">
+        <seg>&lt;g0&gt;Luo käännetyt tiedostot&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;D&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Cycle&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;F3&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T133232Z" creationid="piav" creationdate="20221102T133232Z">
@@ -11842,6 +11850,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creates the target files based on your translation.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T073807Z" creationid="pia" creationdate="20240522T073807Z">
+        <seg>OmegaT luo kääntämäsi kohdeasiakirjat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating a key</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T103358Z" creationid="PiaVee" creationdate="20171014T103358Z">
@@ -15575,6 +15591,14 @@ kukaan ei kuule.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T112026Z" creationid="piav" creationdate="20191129T112026Z">
         <seg>Paikallinen projekti synkronoidaan etävaraston kanssa (oletusarvoisesti) kolmen minuutin välein. Näin projektipäällikkö tai muut kääntäjät voivat nähdä ja käyttää tänä aikana käännösmuistiin lisättyjä käännöksiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every time you create translated files, OmegaT saves the project (see the &lt;l0/&gt; menu item above) and creates reference memories that include the translated segments of the current source file set.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T074114Z" creationid="pia" creationdate="20240522T074114Z">
+        <seg>Aina kun luot käännetyt tiedostot, OmegaT tallentaa projektin (ks. &lt;l0/&gt;-valikko yllä) ja luo </seg>
       </tuv>
     </tu>
     <tu>
@@ -40875,6 +40899,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The created target files are located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T073825Z" creationid="pia" creationdate="20240522T073825Z">
+        <seg>Kohdeasiakirjat löytyvät &lt;l0/&gt;-kansiosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
@@ -50681,6 +50713,14 @@ sarjaa linux-install.sh.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191203T133918Z" creationid="piav" creationdate="20191203T133739Z">
         <seg>Käyttäjä voi pinota ruudut eri välilehdille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can prevent the creation of target files if tag issues are found.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240522T073953Z" creationid="pia" creationdate="20240522T073953Z">
+        <seg>Voit estää kohdetiedostojen luomisen silloin, kun OmegaT havaitsee tägivirheitä.</seg>
       </tuv>
     </tu>
     <tu>
