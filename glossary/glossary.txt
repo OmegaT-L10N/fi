@@ -1,4 +1,3 @@
-# Glossary in tab-separated format -*- coding: utf-8 -*-
 project path	projektipolku
 Launch	Käynnistä
 launch	käynnistää	Tyyliin: "Käynnistä ohjelma"
@@ -679,12 +678,9 @@ Regular expression	Säännöllinen lauseke	EI: säännönMUKAINEN lauseke
 Advanced Options	lisäasetukset
 Subtitles	tekstitys
 Subtitles	tekstitys
-Glossary files folder	sanalistatiedostojen kansio
-glossary folder	sanalistojen kansio
-glossary entry	sanalistan termi
-glossary matches	sanalistaosumat
-Writeable glossary file folder	kirjoituskelpoisen sanalistan kansio
-Writeable glossary	kirjoituskelpoinen sanalista
+Glossary files folder	termilistatiedostojen kansio
+Writeable glossary file folder	kirjoituskelpoisen termilistan kansio
+Writeable glossary	kirjoituskelpoinen termilista
 domain	aihepiiri	Esimerkki käytöstä: TaaS-aihepiiri
 TaaS domain	TaaS-aihepiiri
 Whitespace	Tyhjätila
@@ -716,14 +712,14 @@ fuzzy Match	sumea osuma
 Git	Git
 team project	ryhmäprojekti
 Master Password	pääsalasana
-Glossary viewer	Sanalistan esikatselu
+Glossary viewer	Sanaston esikatselu
 form-feed character	sivunvaihdon merkki
 shortcut definition file	pikanäppäinten kuvaustiedosto
 modifier	muuntonäppäin	vaihto- ctrl- tai alt-näppäin
 modifier key	muuntonäppäin	vaihto- ctrl- tai alt-näppäin
 Non-Unique Segments	toistuvat segmentit
-spelling dictionaries	oikeinkirjoitussanakirjoja
-spelling dictionaries	oikeinkirjoitussanakirja
+spelling dictionaries	oikeinkirjoitussanastoja
+spelling dictionaries	oikeinkirjoitussanasto
 auto-populated	automaattisesti täytetty	EI: automaattinen täydennys (=autocomplete)
 Note:	Huom.:
 authenticated proxy server	todennettu välityspalvelin
@@ -732,4 +728,3 @@ Java Web Start	Java Web Start
 Java Runtime Environment	Java Runtime Environment
 development team	kehitystiimi
 configuration folder	määrityskansio	EI : asetuskansio
-local file filters	erityiset tiedostosuodattimet
